@@ -156,7 +156,7 @@ export const ProjectsDialog = ({
           <Tabs
             defaultValue={sortedYears[0]}
             className="grow flex flex-col overflow-hidden">
-            <TabsList className="shrink-0">
+            <TabsList className="shrink-0 w-full">
               {sortedYears.map(year => (
                 <TabsTrigger key={year} value={year}>
                   {year}
