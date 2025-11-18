@@ -1,0 +1,113 @@
+{
+  "name": "Mobile Robot Programming Toolkit (MRPT)",
+  "url": "https://www.mrpt.org",
+  "image_url": "https://lh3.googleusercontent.com/w2l4mVMo8PxUGi4V63Zd6mHHOeUc1k1lewYp4bPyltlnLgbvNuVlZJG4MdPW9AxnQ52AJu_t8DFtPTYU--17Tjc99sxqNqw",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "vision",
+    "slam",
+    "selfdriving",
+    "mobile robots",
+    "computer vision",
+    "algorithms",
+    "webapps",
+    "ai",
+    "real-time",
+    "robot"
+  ],
+  "technologies": [
+    "ros",
+    "opencv",
+    "c++",
+    "qt",
+    "cmake",
+    "opengl",
+    "wxwidgets",
+    "python",
+    "c",
+    "webs"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5644101080842240/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "ROS packages for versatile RBPF-based SLAM",
+          "short_description": "Mobile Robot Programming Toolkit (MRPT) implements a versatile Rao-Blackwellized Particle Filter (RBPF) for practical robotics applications. At...",
+          "student_name": "Vladislav Tananaev",
+          "code_url": "https://github.com/MRPT/GSoC2016-discussions/issues/3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5032051866599424/"
+        },
+        {
+          "title": "Design and developement of a full graph-based SLAM strategy in mrpt",
+          "short_description": "The proposal at hand describes the working plan for developing a graph-based SLAM algorithm using the mrpt toolkit in the following summer. The...",
+          "student_name": "Nikos Koukis",
+          "code_url": "https://github.com/MRPT/GSoC2016-discussions/issues/2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6025600208732160/"
+        },
+        {
+          "title": "PnP Algorithms toolkit for MRPT",
+          "short_description": "The objective of this project is to develop a novel closed form Perspective n Point (PnP) pose\nestimation algorithm for a monocular camera.  A...",
+          "student_name": "Chandra",
+          "code_url": "https://dl.dropboxusercontent.com/s/nm95samwk9f4fu2/pnp_perf_comp.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6116359041712128/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5289044053327872/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Algorithm improvements to KD-Tree module: applications to ICP",
+          "short_description": "Nanoflann is a C++ library provided by MRPT for building KD-Trees. The library is a fork of the widely-used FLANN C++ library and is mostly optimized...",
+          "student_name": "Pranjal Kumar Rai",
+          "code_url": "https://gist.github.com/pranjal-rai/307e178d023b9a4b5455ca9ca8383344",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6710140954738688/"
+        },
+        {
+          "title": "New GUI app to visualize and edit robot-made maps",
+          "short_description": "I would like to develop a new GUI application based on Qt 5.5 or next version that should be able to load data in the simplemap format and visualize...",
+          "student_name": "LisGein",
+          "code_url": "https://gist.github.com/LisGein/1ad3951ecc8a67d4915a59ae042b9f45",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5244103260372992/"
+        },
+        {
+          "title": "MVSim development",
+          "short_description": "Many contemporary robotic applications need precise simulation and prognosing of system dynamics. Making a lightweight application that is tailored...",
+          "student_name": "Borys Tymchenko",
+          "code_url": "https://github.com/MRPT/GSoC2017-discussions/issues/2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5296787476709376/"
+        },
+        {
+          "title": "GUI app to benchmark image feature detectors and descriptors",
+          "short_description": "Computer Vision-based application for robotics rely on extracting meaningful features from images which can be used to perform many tasks like place...",
+          "student_name": "Raghavender Sahdev",
+          "code_url": "https://github.com/MRPT/GSoC2017-discussions/issues/3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5222489240109056/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6557734510002176/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Web Frameworks Library for MRPT",
+          "short_description": "Robots are slowly becoming a part of the internet of things, and easy control and universal access will be a step in future of robotics. MRPT\u2019s Web...",
+          "student_name": "Rachit Tibrewal",
+          "code_url": "https://rachit173.github.io/gsoc2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5111807261802496/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/MRPT/mrpt",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/mrpt-users",
+  "ideas_url": "",
+  "guide_url": ""
+}

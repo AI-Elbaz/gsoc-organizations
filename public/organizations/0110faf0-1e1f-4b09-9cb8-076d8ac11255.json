@@ -1,0 +1,112 @@
+{
+  "name": "CMU Sphinx",
+  "url": "http://cmusphinx.sourceforge.net/",
+  "image_url": "https://lh3.googleusercontent.com/_vu_qb7x-5e-HEFLBfIEDvYIVrZoePvwECpa2n5RAJqTUIeOt_vrF8-i9wdz6z-owZ7ikHDuv2ab_BhAjWFUAuS3ogWhNQ",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "education",
+    "real time",
+    "user interface",
+    "speech recognition",
+    "pronunciation"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "javascript",
+    "cross-platform",
+    "hidden markov models"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5510422639673344/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "General Computer-Assisted Learning including Speaking Skills",
+          "short_description": "This proposal is for the implementation of Computer-Aided Language Learning from the browser using Pocketsphinx.js. Using Twee/Twine as the question...",
+          "student_name": "Sahith Dambekodi",
+          "code_url": "https://github.com/SND96/twine-stories",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6604809566158848/"
+        },
+        {
+          "title": "Collect Pronunciation Dictionaries from Wiktionary",
+          "short_description": "This Collect Pronunciation Dictionaries from Wiktionary project aims to expand pronunciation dictionaries in CMUSphinx for new words and multiple...",
+          "student_name": "Yifan Xiong",
+          "code_url": "https://abuccts.blogspot.com/2017/08/gsoc-2017-with-cmusphinx-post-12-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5423139777413120/"
+        },
+        {
+          "title": "Large Vocabulary Continuous Speech Recognition using RNNs",
+          "short_description": "Automatic speech recognition systems are traditionally based on Hidden Markov models(HMMs) as it had given the best results in the past. However due...",
+          "student_name": "Vishal Agrawal",
+          "code_url": "https://github.com/cmusphinx/deepsphinx",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6159566949580800/"
+        },
+        {
+          "title": "Leaderboard Population, Sorting, and Column Maintenance",
+          "short_description": "The project scope includes designing a web based leader board module for CMU Sphinx which would include details of top ranking people, models,...",
+          "student_name": "S SINGH",
+          "code_url": "https://github.com/saurabhima/gsoc_LEADERBOARD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5273302327099392/"
+        },
+        {
+          "title": "Diphone alignment and acoustic scores",
+          "short_description": "The goal of this project is to extend PocketSphinx so that it can calculate and provide alignments and acoustic scores for diphones similarly to how...",
+          "student_name": "Pavel Denisov",
+          "code_url": "https://github.com/akreal/diphones",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6207651658596352/"
+        },
+        {
+          "title": "DNNs for Sphinx",
+          "short_description": "In the past decade Deep Neural Networks (DNNs) have been be demonstrated to excel to wide range of learning tasks, including speech recognition. More...",
+          "student_name": "Muhammad Shah",
+          "code_url": "https://github.com/vagrawal/gsoc-progress/blob/master/mshah1/GSOC.ipynb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6254753893842944/"
+        },
+        {
+          "title": "MLP incorporation in Sphinx",
+          "short_description": "CMUsphinx is a fast and flexible open source speech recognition toolkit. Currently it uses GMM acoustic models and it gives reasonable accuracy. This...",
+          "student_name": "Hammad Abdullah",
+          "code_url": "https://github.com/habdullah/pocketsphinx",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4676203759796224/"
+        },
+        {
+          "title": "Pronunciation Intelligibility Remediation with Pocketsphinx.js",
+          "short_description": "The proposed framework will implement a user interface capable of collecting audio signal from microphone corresponding to a prompted text and...",
+          "student_name": "Brij",
+          "code_url": "https://brijmohan.github.io/iremedy/single_line.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6114169682132992/"
+        },
+        {
+          "title": "Transcriber Qualification",
+          "short_description": "The aim of this project is to write support code for obtaining accurate transcriptions, exemplar\npronunciations, and phonetic and part-of-speech...",
+          "student_name": "Rishi Rajasekaran",
+          "code_url": "https://github.com/rrajasek95/gsoc_LEADERBOARD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4880814793818112/"
+        },
+        {
+          "title": "Javascript simulation of the brain\u2019s motor control of vocal tract-GSoC 2017 proposal",
+          "short_description": "As mention in the title, it is a 3D animation model of the motor control of speech production. Our long range goal is to implement the model...",
+          "student_name": "Mritunjay Goutam",
+          "code_url": "https://mritunjaygoutam1.wordpress.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5816809634660352/"
+        },
+        {
+          "title": "ROS Integration for pocketsphinx",
+          "short_description": "ROS has support for pocketsphinx, but it is very initial stage. So, this project aims to update the ROS package for pocketsphinx with a full-scale...",
+          "student_name": "Pankaj Baranwal",
+          "code_url": "https://medium.com/@PankajB96/gsoc-a-joruney-just-started-53d6b8b68931",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5980098251456512/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://cmusphinx.sourceforge.net/wiki/communicate",
+  "contact_email": "mailto:cmusphinx-gsoc@lists.sourceforge.net",
+  "mailing_list": "https://sourceforge.net/p/cmusphinx/mailman/",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://cmusphinx.sourceforge.net/"
+}

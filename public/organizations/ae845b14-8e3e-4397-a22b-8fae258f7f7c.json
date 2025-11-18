@@ -1,0 +1,101 @@
+{
+  "name": "FLARE",
+  "url": "https://www.mandiant.com/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/flare/6so0wjs76qeewe9v-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "emulation",
+    "disassembly",
+    "decompilation",
+    "malware-analysis",
+    "reverse-engineering"
+  ],
+  "technologies": [
+    "python",
+    "ida-pro",
+    "Ghidra"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/flare",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Extracting Language and Runtime-Specific Strings in Go, Rust, and Beyond",
+          "short_description": "The FLOSS: Language Specific Strings project aims to enhance the FLARE tool called FLOSS, which is used to deobfuscate protected strings found in...",
+          "student_name": "Arnav Kharbanda",
+          "code_url": "https://gist.github.com/Arker123/7e513d38cc13e57a43cb95ee6e4a3421",
+          "proposal_id": "Gok627i4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pANVOvV7"
+        },
+        {
+          "title": "FakeNet-NG: Implementing an Interactive Graphical Summary of NBIs",
+          "short_description": "FakeNet-NG is a tool that is used to simulate the internet which is useful in malware analysis. Currently, FakeNet-NG displays its output by either...",
+          "student_name": "Beleswar Prasad Padhi",
+          "code_url": "https://gist.github.com/3V3RYONE/9685fd0e6960df140cb9127268cc1523",
+          "proposal_id": "ktPE60BC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/fRVAltDd"
+        },
+        {
+          "title": "CAPA: Ghidra Integration",
+          "short_description": "CAPA is the FLARE team\u2019s open-source tool to identify program capabilities using an extensible rule set. Each rule is matched against features that...",
+          "student_name": "Colton G",
+          "code_url": "https://colton-gabertan.github.io/Google-Summer-of-Code-2023/",
+          "proposal_id": "Jx4ZAJ2s",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7RBMLaJD"
+        },
+        {
+          "title": "capa: Capabilities from Dynamic Analysis",
+          "short_description": "capa is an open-source tool that identifies program capabilities using an extensible rule set. Currently, the project relies purely on static...",
+          "student_name": "yelhamer",
+          "code_url": "https://docs.google.com/document/d/1F9OMuHujR60m13dYnIIfYtGGSd6XxQLTqwnEls-vX5U",
+          "proposal_id": "9tBiUN7x",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OEjr8OJU"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/flare/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "capa: introduce capa explorer for web",
+          "short_description": "The project aims to introduce capa explorer web for capa, a reverse engineering tool developed by Mandiant's FLARE team. Capa automates the process...",
+          "student_name": "Soufiane Fariss",
+          "code_url": "https://docs.google.com/document/d/1c0o0E0e7caCBONzduDRENa_kEeYAGWpk7sVwox2vRNo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/cR3hjbsq/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/flare",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Multi-Backend Abstraction Layer with Binary Ninja/Ghidra Support",
+          "short_description": "Xrefer currently functions as an IDA plugin for static binary feature extraction. The goal of this project is to abstract Xrefer\u2019s core functionality...",
+          "student_name": "__mike__",
+          "code_url": null,
+          "proposal_id": "jQ0EQ30E",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BXcLum6o"
+        },
+        {
+          "title": "Extending capa to Android: Dynamic Analysis of Java and Native Code for Malware Capability Detection",
+          "short_description": "This project aims to extend the FLARE team's capa malware capability detection tool by adding dynamic analysis support for the Android platform. Capa...",
+          "student_name": "Xukun Zhang",
+          "code_url": null,
+          "proposal_id": "I1FANDNa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/E61CThH6"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:flare-gsoc-2023@mandiant.com",
+  "mailing_list": "https://github.com/mandiant/flare-gsoc/discussions",
+  "ideas_url": "https://github.com/mandiant/flare-gsoc/blob/2025/doc/project-ideas.md",
+  "guide_url": "https://github.com/mandiant/flare-gsoc/blob/2025/doc/contributor-guidance.md",
+  "twitter_url": "https://twitter.com/Mandiant",
+  "blog_url": "https://www.mandiant.com/resources/blog"
+}

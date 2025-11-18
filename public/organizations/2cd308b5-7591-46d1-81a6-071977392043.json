@@ -1,0 +1,320 @@
+{
+  "name": "coala",
+  "url": "https://coala.io",
+  "image_url": "https://lh3.googleusercontent.com/0PqG5lb1LsnualMXfs468WjitwnUq_jx1wefb_QF6EgC8c7LOp4DYPODanM12sQM1f7RlV4vXHaucZ8ZJ8PyiBdlE5kR8s5gQxUSsm_WoxYf",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "code analysis",
+    "devops",
+    "chatops",
+    "language server",
+    "dependency management",
+    "static code analysis\u200e",
+    "chat"
+  ],
+  "technologies": [
+    "python",
+    "django",
+    "python 3",
+    "antlr",
+    "emberjs",
+    "reactjs",
+    "java",
+    "haskell",
+    "docker",
+    "angularjs"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5817061024464896/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Documentation Extraction & Parsing",
+          "short_description": "To develop an analyzing routine at least for python and java that will find all documentation strings in a file, parse them into specific groups and...",
+          "student_name": "Saurav Singh",
+          "code_url": "https://damngamerz.github.io/gsoc/Souvenir-of-GSoC'2017!.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6645955352854528/"
+        },
+        {
+          "title": "cobot enhancement",
+          "short_description": "coala community has grown substantially over last few months. To make it easier on maintainers to cope up and still be a welcoming community for new...",
+          "student_name": "Meet Mangukiya",
+          "code_url": "http://projects.coala.io/GSoC/2017/StatusReport/MeetMangukiya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5675653521211392/"
+        },
+        {
+          "title": "Enhance coala-quickstart",
+          "short_description": "coala is a modular and language-agnostic tool for performing static code analysis. The aim of coala is to make static code analysis easier for the...",
+          "student_name": "Satwik Kansal",
+          "code_url": "https://gist.github.com/satwikkansal/b72265a0d0ec678b9291ea8e21a398ec",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6208607959908352/"
+        },
+        {
+          "title": "Improve coala Website and Supporting Tools",
+          "short_description": "Currently, the coala Online module lacks support for all the bears. Bears with non-optional settings are ignored. The first goal of this project is...",
+          "student_name": "Hemang Kumar",
+          "code_url": "http://projects.coala.io/GSoC/2017/StatusReport/HemangKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4573465860374528/"
+        },
+        {
+          "title": "coala: Implement Aspeca",
+          "short_description": "Currently configuring coala on a new project is unnecessarily hard, especially for first time user. There are few reason for this.\nNew users are not...",
+          "student_name": "Adhika Setya Pramudita",
+          "code_url": "http://projects.coala.io/GSoC/2017/StatusReport/adhikasp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4605261771702272/"
+        },
+        {
+          "title": "Extending GitMatev2.0 to support GitLab and BitBucket",
+          "short_description": "GitMate for all!\nThis time with user configurable plugins!\nAbout the product\nGitHub, GitLab and BitBucket support webhooks for common events like...",
+          "student_name": "Naveen Kumar Sangi",
+          "code_url": "http://projects.coala.io/GSoC/2017/StatusReport/NaveenKumarSangi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4690491102724096/"
+        },
+        {
+          "title": "Improve the coala CLI",
+          "short_description": "coala has come a long way from its early days in terms of its usability, although all the changes that have been made are improvisations. A proper...",
+          "student_name": "Alexandru-Sorin Maxim",
+          "code_url": "http://projects.coala.io/GSoC/2017/StatusReport/AlexMaxim",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6112228356915200/"
+        },
+        {
+          "title": "Auto-removal of dead code through vulture",
+          "short_description": "vulture is a tool which detects and reports dead (unused) code and coala is an automatic linter.\nThe motivation of this proposal is to:\n\nExtend...",
+          "student_name": "Rahul Jha [:RJ722]",
+          "code_url": "http://projects.coala.io/GSoC/2017/StatusReport/RahulJha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5154725527814144/"
+        },
+        {
+          "title": "Extend Linter Integration",
+          "short_description": "The aim of the project is to ease the process of testing bears in coala by significantly improving the testing API to yield favorable, easy to...",
+          "student_name": "Yash Nisar",
+          "code_url": "https://yash-nisar.github.io/blog/gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5215509247164416/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4906591174262784/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Meta-review",
+          "short_description": "The goal of project meta-review is to track emoji responses to review comments. These responses would be collected, processed and displayed. This...",
+          "student_name": "Boxuan Li",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/li-boxuan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6420710960398336/"
+        },
+        {
+          "title": "coala language server",
+          "short_description": "coala as a linting and code fixing tool can be far more useful when its power can be directly leveraged from within the code editor. Since all the...",
+          "student_name": "ksdme",
+          "code_url": "http://projects.coala.io/GSoC/2018/StatusReport/ksdme",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6624888538267648/"
+        },
+        {
+          "title": "Convert Bears to Aspects Project",
+          "short_description": "This project is part of adding the 'aspect' functionality to coala-bears.\nThrough this functionality coala users will no longer have to worry about...",
+          "student_name": "Pareksha Manchanda",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/pareksha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6736178522882048/"
+        },
+        {
+          "title": "Newcomer metrics and gamification",
+          "short_description": "As coala tries to be welcoming organization for newcomers, giving them clear pathways and as much direct assistance as possible.\nHowever, it is...",
+          "student_name": "Shrikrishna Singh",
+          "code_url": "http://projects.coala.io/GSoC/2018/StatusReport/shrikrishna",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5456264041594880/"
+        },
+        {
+          "title": "Integration of ANTLRv4 into coala core",
+          "short_description": "This project aims to implement a library that integrates with the existing coala code and allows writing native bears for coala that can leverage the...",
+          "student_name": "Viresh Gupta",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/virresh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5370686482677760/"
+        },
+        {
+          "title": "Integrate pyflakes-enhanced AST into coala",
+          "short_description": "The idea, here, is to integrate pyflakes-enhanced AST into coala as a metabear which can then be used to develop various plugins. The second part of...",
+          "student_name": "Ankit Joshi",
+          "code_url": "http://projects.coala.io/GSoC/2018/StatusReport/macbox7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4541083551793152/"
+        },
+        {
+          "title": "Implement GitMate automations and plugins for coala",
+          "short_description": "GitMate.io is an automation tool for developers. While it works well, there are a number of plugins which saves a lot of time of our community(for...",
+          "student_name": "Vamshi Krishna",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/VamshiKrishna",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4795178514644992/"
+        },
+        {
+          "title": "Improve Whitelisting infrastructure for Vulture",
+          "short_description": "The following has been proposed to facilitate the user experience with whitelisting in Vulture:\n\nCreate a command line tool which takes in sip files...",
+          "student_name": "Rahul Jha (~RJ722)",
+          "code_url": "http://projects.coala.io/GSoC/2018/StatusReport/RahulJha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6524402275450880/"
+        },
+        {
+          "title": "Quickstart Green Mode",
+          "short_description": "It is tough for a new user to quickly grasp and start using the settings provided by coala. The user needs to be aware of the bears he might possibly...",
+          "student_name": "Ishan Srivastava",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/ishanSrt",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6107526978338816/"
+        },
+        {
+          "title": "Improve Installation of coala and coala-bears",
+          "short_description": "The project focuses on improving coala's dependency management for installing bear and their dependencies on multiple platforms. Specifically, the...",
+          "student_name": "Saksham Bansal",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/saksham",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6123324002271232/"
+        },
+        {
+          "title": "corobo Enhancement",
+          "short_description": "corobo Enhancement\nThe goal of this project is to make corobo secure by reducing its surface vulnerability. It also includes implementing a better...",
+          "student_name": "Nitanshu Vashistha",
+          "code_url": "http://projects.coala.io/GSoC/2018/StatusReport/NitanshuVashistha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4866887288619008/"
+        },
+        {
+          "title": "Commit content inspection project",
+          "short_description": "This project is about adding a verification process for the pull requests made to coala. There are many special types of commit messages that should...",
+          "student_name": "Kriti Rohilla",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/kriti21",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5785308331245568/"
+        },
+        {
+          "title": "Optimize Caching (For Nextgen-Core)",
+          "short_description": "Integrate an optimized version of the current caching mechanism with the Nextgen core. \nThe objective is to take the improvement suggested to...",
+          "student_name": "Palash Nigam",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/palash25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5999631360065536/"
+        },
+        {
+          "title": "Debug and Profile Bears",
+          "short_description": "Debug and Profile Bears\nThe aim of this project is to create a  better quality Bears by creating a tool which will have the ability to jump directly...",
+          "student_name": "Vaibhav Kumar Rai",
+          "code_url": "https://projects.coala.io/GSoC/2018/StatusReport/RaiVaibhav",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6307813517164544/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5097595045675008/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Handle Nested Programming Languages",
+          "short_description": "The aim of this project is to implement the architecture that enables the support for   nested - languages by default. The users of coala would not...",
+          "student_name": "Naveen Naidu",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/Naveenaidu.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6358992580771840/"
+        },
+        {
+          "title": "Support TOML as a configuration format",
+          "short_description": "coala is a linting and code fixing tool with support for many languages. Having a configuration file is essential to make full use of coala. Having a...",
+          "student_name": "PRAJWAL M",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/PrajwalM.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6410866457575424/"
+        },
+        {
+          "title": "Enhance Websites Architecture",
+          "short_description": "This project aims to increase the usability and easiness for all the open-source enthusiasts by enhancing and improving the coala Community website...",
+          "student_name": "Keshav Garg",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/KVGarg.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5670365173383168/"
+        },
+        {
+          "title": "git-bug",
+          "short_description": "git-bug\ngit-bug is a distributed bug tracker imbedded in git.\n\nCurrent state\nCurrently the project provides a large set of tools and functionalities...",
+          "student_name": "Amine Hilaly",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/A-Hilaly",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5494265222791168/"
+        },
+        {
+          "title": "Plugin for Jetbrains IDEs",
+          "short_description": "coala plugin for JetBrains IDEs that supports linting of files using coala right within the IDE. The plugin would provide a unified experience for...",
+          "student_name": "Amol Grover",
+          "code_url": "http://projects.coala.io/GSoC/2019/StatusReport/AmolGrover.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6138082162638848/"
+        },
+        {
+          "title": "Improve Generic Bear Quality",
+          "short_description": "coala currently has few generic bears which are not very useful or are not maintained well. The objective of the project is to get most of the...",
+          "student_name": "Bhushan Khanale",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/bkhanale.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5000522073899008/"
+        },
+        {
+          "title": "Improve Diff Handling",
+          "short_description": "I aim to improve the existing diff handling capability of coala so that it is possible for bears to offer multiple fixes for an issue. I also plan to...",
+          "student_name": "Utkarsh1308",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/Utkarsh1308.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5233092673929216/"
+        },
+        {
+          "title": "Cohesive Editor Support",
+          "short_description": "The main purpose of this project is to make the text-editors of coala more robust and active. This will be done through ensuring that the plugins are...",
+          "student_name": "Rohan Bhambhoria",
+          "code_url": "https://projects.coala.io/GSoC/2019/StatusReport/RohanVB.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5597218944319488/"
+        },
+        {
+          "title": "Next Generation Action System.",
+          "short_description": "This proposes a new action system which will allow bears to define their own actions, hence make bears more useful. Implementation of such a system...",
+          "student_name": "Akshat Karani",
+          "code_url": "http://projects.coala.io/GSoC/2019/StatusReport/akshatkarani.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4879237096407040/"
+        },
+        {
+          "title": "Result Reporter Tool",
+          "short_description": "Goal of this project is to use coala's json output format, convert it to various test result formats and then integrate these test format reports to...",
+          "student_name": "Chaitanya Tyagi",
+          "code_url": "http://projects.coala.io/GSoC/2019/StatusReport/chay2199.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5912489659727872/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4904398832009216/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "corobo Enhancement Project",
+          "short_description": "Improvements to the corobo project enhancing its security, features and usability of coala\u2019s devops bot.",
+          "student_name": "nakuldx",
+          "code_url": "https://gist.github.com/nakuldx/18bd90034b1a2777d5c11f9368f6180b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6609047830134784/"
+        },
+        {
+          "title": "Result Reporter Tool for Bears",
+          "short_description": "Result reporter tool to convert linter/bear results into multiple formats.",
+          "student_name": "Shreya Agarwal",
+          "code_url": "https://gist.github.com/shreyarwal/87501f449a40d9ed2e0c85ed7fd051c3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5750814211047424/"
+        },
+        {
+          "title": "Gitmate for coala",
+          "short_description": "Gitmate, a git workflow management bot created by coala, hasn't been actively maintained in the last 3 years. My project aims to update it and bring...",
+          "student_name": "Sanchit (pilgrim2308)",
+          "code_url": "https://projects.coala.io/GSoC/2021/StatusReport/pilgrim2308.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5755105789345792/"
+        },
+        {
+          "title": "Microfarm For Everybody",
+          "short_description": "This project aims to create a tool that allows anyone to become a market gardener, given some space. As a first step, a user will merely sign up and...",
+          "student_name": "Prashant Dodiya",
+          "code_url": "https://projects.coala.io/GSoC/2021/StatusReport/pra17dod.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5825474533523456/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://coala.io/chat",
+  "contact_email": "mailto:abhinavkaushlya@gmail.com",
+  "mailing_list": "https://github.com/coala/coala/wiki/Mailing-Lists",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/coala_io",
+  "blog_url": "https://blog.coala.io"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "JAX and Keras",
+  "url": "https://docs.jax.dev/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/jax-and-keras/7czut6i8nmxbyzkp-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Artificial Intelligence",
+  "topics": [
+    "machine learning",
+    "Jax",
+    "keras",
+    "PYTHON LIBRARY"
+  ],
+  "technologies": [
+    "python",
+    "machine learning",
+    "ai"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/jax-and-keras",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Benchmarking and Improving Large Language Model Serving Performance",
+          "short_description": "Large Language Model (LLM) serving frameworks like vLLM must deliver high throughput and low latency to justify the substantial cost of GPU and TPU...",
+          "student_name": "Bob Chen",
+          "code_url": null,
+          "proposal_id": "kOadfIEt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hn9YIJn3"
+        },
+        {
+          "title": "Integrating VBLoRA into Keras",
+          "short_description": "VB-LoRA (Vector Bank Low-Rank Adaptation) is a parameter-efficient fine-tuning technique that extends LoRA (Low-Rank Adaptation) by introducing a...",
+          "student_name": "Dhiraj BM",
+          "code_url": null,
+          "proposal_id": "TX7HLzOK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vcABnzOo"
+        },
+        {
+          "title": "Implement open LLM models with JAX and Flax",
+          "short_description": "As interest in large language models continues to grow, many open-source implementations exist across various frameworks\u2014but accessible, modular, and...",
+          "student_name": "Megan Andrews",
+          "code_url": null,
+          "proposal_id": "lAqe8CeL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GKcZodMM"
+        },
+        {
+          "title": "\"Pomni\" - JAX Code Assistant",
+          "short_description": "Current Frontier LLMs are really bad at assisting with writing JAX code due to the sparse resources spread across multiple different forums and...",
+          "student_name": "neel04",
+          "code_url": null,
+          "proposal_id": "75vXYPfZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HdO43aXo"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "jax-keras-gsoc-2025@google.com",
+  "ideas_url": "https://docs.google.com/document/d/16uAZEldrXUBHjrszSO22Hr81OmVSjzVXza0szZl6Fxw/edit?usp=sharing",
+  "guide_url": "https://forms.gle/yJaBBLJfqTJfWfyt6",
+  "blog_url": "https://deepmind.google/discover/blog/using-jax-to-accelerate-our-research/"
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Pitivi",
+  "url": "https://www.pitivi.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/pitivi/tghrhxkqd9hb4cks-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "video processing",
+    "filmmaking",
+    "video editing"
+  ],
+  "technologies": [
+    "c",
+    "gtk",
+    "python 3",
+    "gstreamer",
+    "python"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5637551623241728/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Nested Timelines/Projects",
+          "short_description": "The project will seek to implement Nesting feature in Pitivi. Users will be able to select several clips and nest them into a single clip which can...",
+          "student_name": "Swayamjeet swain",
+          "code_url": "https://swaynethoughts.wordpress.com/2019/08/25/gsoc-2019-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6638455700848640/"
+        },
+        {
+          "title": "Effects Usability",
+          "short_description": "Effects are a important and widely used feature of Pitivi and improving their UX will make Pitivi easier to use and lower its learning curve for...",
+          "student_name": "Yatin Maan",
+          "code_url": "https://yatinmaan.github.io/2019/08/26/GSoC-19-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5794030770716672/"
+        },
+        {
+          "title": "Pitivi: Timeline Interval System",
+          "short_description": "An interval system for the timeline. It introduces new features to Pitivi video editor such as set up a range of time in the timeline editor,...",
+          "student_name": "Millan Castro",
+          "code_url": "https://millancv.github.io/GSoC-3/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5151252491534336/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6385935689711616/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Render experience",
+          "short_description": "Revisiting Render Settings User Interface of Pitivi and adding further advanced features.",
+          "student_name": "Ayush Mittal",
+          "code_url": "https://ayush9398.github.io/blog/GSOC'20-work-product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5107097869484032/"
+        },
+        {
+          "title": "Object Tracking and Cover Effect",
+          "short_description": "This project will implement a feature that lets a user:\n\nSelect and track objects in a clip.\nAdjust the tracking.\nAdd 'cover' effect to the tracked...",
+          "student_name": "Vivek R",
+          "code_url": "https://123vivekr.github.io/2020/08/29/pitivi-gsoc-work-product.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5348850874712064/"
+        },
+        {
+          "title": "Media Library Improvements",
+          "short_description": "Media Library Improvement\nUnify the iconview and listview modes of the Media Library into a single responsive grid view.\nRemoves the  unnecessary...",
+          "student_name": "Abhishek Kumar Singh",
+          "code_url": "https://gaharavara.github.io/gsoc-2020-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4820467052969984/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5952433766793216/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "\"Focus on the music\" - music-oriented editing for everyone",
+          "short_description": "This project, based on this idea by the Pitivi team, aims to implement an easy to use feature which lets users quickly synchronise their edits - be...",
+          "student_name": "Piotrek Brzezi\u0144ski",
+          "code_url": "https://thewildtree.github.io/2021/08/22/gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5732645090099200/"
+        },
+        {
+          "title": "Cut Mode",
+          "short_description": "The Idea for this project is to bring in the global timeline to ease certain types of tasks and increase productivity. This will essentially bring in...",
+          "student_name": "Pratyush Tiwari",
+          "code_url": "https://unhired-coder.github.io/project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5343159067869184/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/pitivi",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Migrate Pitivi from GTK3 to GTK4",
+          "short_description": "My proposal aims toward migrating Pitivi from GTK3 to GTK4. Pitivi\u2019s UI is in GTK, an open-source, cross-platform widget toolkit. Currently, Pitivi...",
+          "student_name": "Jainil Patel",
+          "code_url": "https://jainl28patel.github.io/posts/Pitivi_Gsoc_finalReport/",
+          "proposal_id": "43qhvu6e",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vls0nZN7"
+        },
+        {
+          "title": "Closing Credits Clip Generator",
+          "short_description": "The ultimate goal of the proposal is to develop a feature that provides users the ability to effortlessly add closing credits to their edited video....",
+          "student_name": "Rhythm Narula",
+          "code_url": "https://medium.com/@rhythm.narula26/gsoc-pitivi-project-crafting-closing-credits-clip-generator-5454088a570d",
+          "proposal_id": "3pMsssqm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4LQURy8D"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#pitivi:matrix.org",
+  "contact_email": "mailto:pitivi@pitivi.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/pitivi",
+  "blog_url": "https://www.pitivi.org/news/"
+}

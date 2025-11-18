@@ -1,0 +1,35 @@
+{
+  "name": "Clojure",
+  "url": "http://clojure.org",
+  "image_url": "https://lh3.googleusercontent.com/KEb8AaLe8CWqA2rMpvjsmXjY13TxgLjKJj8WG4xYaJyQkYDKozx4-WwRBUKgRMdoOKk8RwCH9pWtfOXVhUBjtAJo16slIw",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "functional programming",
+    "programming language",
+    "development tools",
+    "build systems"
+  ],
+  "technologies": [
+    "javascript",
+    "clojure",
+    "clojurescript",
+    "jvm",
+    "functional programming"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5054104644616192/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "http://clojurians.net/",
+  "contact_email": "",
+  "mailing_list": "http://groups.google.com/group/clojure",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ClojureGSoC",
+  "blog_url": "http://clojure-gsoc.org/"
+}

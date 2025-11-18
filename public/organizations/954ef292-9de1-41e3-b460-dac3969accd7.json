@@ -1,0 +1,128 @@
+{
+  "name": "GRAME",
+  "url": "https://faust.grame.fr",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/grame/joff5sziiuapvits-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "audio",
+    "compiler",
+    "digital signal processing",
+    "function programming language"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "javascript",
+    "c++",
+    "typescript",
+    "rust"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/grame/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Faust Integration in HISE",
+          "short_description": "The proposed GSoC project aims at integrating support for the Faust audio programming language into HISE, an extensive framework for the creation of...",
+          "student_name": "etXzat",
+          "code_url": "https://resonant-bytes.de/blog/gsoc-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cAyIN9Bi/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/grame",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Better Faust on the Web",
+          "short_description": "Faust is a functional programming language that enables people to express sound synthesis and audio processing algorithms concisely, efficiently, and...",
+          "student_name": "Ian Clester",
+          "code_url": "https://ijc8.me/2023/08/27/gsoc-faust/",
+          "proposal_id": "upjcDfYk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/L6oI4LhW"
+        },
+        {
+          "title": "Automatic Differentiation in the Faust Compiler",
+          "short_description": "Support for differentiable Faust algorithms is currently provided by an external JAX backend. The aim of this project is to add automatic...",
+          "student_name": "trusht",
+          "code_url": "https://github.com/grame-cncm/faust/pull/939",
+          "proposal_id": "1djNz9ch",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/v91Az2k0"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/grame/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "FaustNet: Enabling ML in Faust",
+          "short_description": "This proposal bridges the gap between audio processing and machine learning by introducing an automatic differentiation (AD) library for the Faust...",
+          "student_name": "Advik Basani",
+          "code_url": "https://github.com/hatchjaw/faust-ddsp/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aUfXnbex/"
+        },
+        {
+          "title": "Amati++, a VST/CLAP Plugin embedding the dynamic compiler",
+          "short_description": "Inspired by the pMix and Amati projects, this plugin will be built using the JUCE framework for the interface and libFaust with LLVM and interpreter...",
+          "student_name": "Tyler Li",
+          "code_url": "https://tyler-li-mcgill.tech/blog/gsoc3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1DEONCV5/"
+        },
+        {
+          "title": "Packaging system for Faust libraries",
+          "short_description": "The proposal aims to develop a package manager for the Faust programming language, consisting of several components to enhance the development and...",
+          "student_name": "Shehab Khaled",
+          "code_url": "https://gist.github.com/shehab299/259ee6b0a06da9a7027e8910c097c807",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/W0niFpi8/"
+        },
+        {
+          "title": "Faust Cables.gl plugin",
+          "short_description": "This project aims to develop a Cables.gl plugin that compiles Faust DSP code into a WASM AudioWorklet in real-time. The plugin\u2019s features will be...",
+          "student_name": "Fay_Carsons",
+          "code_url": "https://github.com/FayCarsons/Cables-Faust-Plugin/blob/gsoc/submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tnuKTxY7/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/grame",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Faust LSP",
+          "short_description": "This proposal aims to develop a feature-rich programming environment for writing Faust programs in VS Code by providing powerful Language Server...",
+          "student_name": "carn181",
+          "code_url": null,
+          "proposal_id": "PwfsNNQc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/o08fWFr0"
+        },
+        {
+          "title": "faust2clap: Support for CLAP format",
+          "short_description": "This project proposes the development of faust2clap, a tool that integrates the Faust programming language with the CLAP (CLever Audio Plugin)...",
+          "student_name": "Facundo F",
+          "code_url": null,
+          "proposal_id": "cBln2bUB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5xh4Ttn4"
+        },
+        {
+          "title": "Integration in Audiokinetic Wwise",
+          "short_description": "This project aims to integrate the Faust programming language with Audiokinetic's Wwise - the industry standard audio middleware in game development....",
+          "student_name": "pmelaudev",
+          "code_url": null,
+          "proposal_id": "1QOfhUuj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Pim5UypA"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/qPPcXzJdmR",
+  "contact_email": "mailto:research@grame.fr",
+  "mailing_list": "https://faust.grame.fr/community/help/",
+  "ideas_url": "https://github.com/grame-cncm/faustideas",
+  "guide_url": "https://github.com/grame-cncm/faustideas",
+  "blog_url": "https://github.com/grame-cncm/faustideas"
+}

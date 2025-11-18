@@ -1,0 +1,267 @@
+{
+  "name": "Plone Foundation",
+  "url": "https://plone.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/plone-foundation/wivpatiziuhidzjw-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "content management",
+    "enterprise applications",
+    "cms",
+    "web",
+    "collaboration",
+    "communications"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "rest",
+    "nosql",
+    "zope",
+    "html",
+    "css",
+    "reactjs",
+    "react"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4815031732535296/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "New Theme Pack",
+          "short_description": "Plone is the premier Python-based CMS which is widely used by Universities, Corporations, Agencies and also for personal projects. Hence its themes...",
+          "student_name": "vicodin",
+          "code_url": "https://medium.com/@vicode_in/gsoc16-9ecbf5dac3c6#.nraospr9g",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5233951836733440/"
+        },
+        {
+          "title": "Improving collective.easyforms",
+          "short_description": "Plone have a great history with online forms. PFG works really well for creating online forms and editing them through the web. PFG is based mainly...",
+          "student_name": "pjoshi",
+          "code_url": "http://googlingsummer.blogspot.in/2016/08/summarizing-summer.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4578599420035072/"
+        },
+        {
+          "title": "eBook Content Export",
+          "short_description": "ftw.book add-on is aimed to help users to manage their content as a form of \"Book\", and provide a way for users to get a hard-copy of documents.\nThe...",
+          "student_name": "Jensen Jiang",
+          "code_url": "http://jensenjiang.github.io/2016/08/20/GSoC-2016-product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6028139876581376/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4530756705583104/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improved listing customization using Plone Mosaic",
+          "short_description": "This project proposal is based on the \u201cImprove the Customization of Plone Listings\u201d -idea listed on project ideas gathered by the Plone community. As...",
+          "student_name": "Mikko Hursti",
+          "code_url": "http://mikkohugsoc.blogspot.fi/2017/08/improved-list-customization-using.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4986106722385920/"
+        },
+        {
+          "title": "Plone as a Progressive Web App",
+          "short_description": "The objective is to develop an Ionic 2 app which in turn will be using Angular 2 that will implement the PWA behavior. It will retrieve the contents...",
+          "student_name": "Noel Varghese",
+          "code_url": "https://github.com/collective/collective.experimental_angular_pwa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5020104609759232/"
+        },
+        {
+          "title": "Improve the Theme Editor UX and Functionality",
+          "short_description": "The overall goal is to make it possible for editors of themes to feel comfortable working directly with the theme editor. Allowing users to search...",
+          "student_name": "Oshane Bailey",
+          "code_url": "http://b4oshany.blogspot.com/2017/08/google-summer-of-code-2017-wrap-this.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5238580469301248/"
+        },
+        {
+          "title": "Improving plone.org",
+          "short_description": "Abstract:\nplone.org is the main website of the Plone community where all the generic addons, plone releases and hotfixes are listed. Currently, there...",
+          "student_name": "K C Pavithira Reddy",
+          "code_url": "https://github.com/plone/ploneorg.addonlisting/wiki/Final-Submission-Report---GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5899788402819072/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5782644243562496/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "IFTTT plugin for Plone",
+          "short_description": "At present, Plone have content rules to accomplish use-cases(provided by IFTTT) but with additionally written scripts. So the soul spirit behind this...",
+          "student_name": "Shriyanshagro",
+          "code_url": "https://github.com/collective/collective.ifttt/wiki/Final-Report-of-work-done-during-GSoC'18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6391977696296960/"
+        },
+        {
+          "title": "Create-React-App for Plone-React",
+          "short_description": "Create-React-App provides some\nconvenience features, such as: a live development environment, boilerplate code, and standard\ndependencies...",
+          "student_name": "Nilesh Gulia",
+          "code_url": "https://nileshgulia1.github.io/MyBlog/finalreportgsoc18/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5677239974756352/"
+        },
+        {
+          "title": "GatsbyJS Integration with Plone",
+          "short_description": "Gatsby is a blazing fast static site generator for React. The idea is to develop a gatsby-source plugin that pulls the whole content tree from the...",
+          "student_name": "Ajay NS",
+          "code_url": "https://gist.github.com/ajayns/ab620303bd605e89579b548aac858f19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5034509258981376/"
+        },
+        {
+          "title": "Command Line Plone Tools",
+          "short_description": "This project is about improving plonecli and bobtemplates by adding several sub-templates like view, viewlet and portlets etc as well as improving...",
+          "student_name": "Kumar Akshay",
+          "code_url": "https://github.com/plone/plonecli/wiki/Google-Summer-of-Code-Project-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4736482686271488/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/plone-foundation/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Recycle Bin",
+          "short_description": "The main goal of the project is to replace the existing delete function in Plone CMS to a recycle bin like function.This allows the user using Plone...",
+          "student_name": "Bhuvan R J",
+          "code_url": "https://medium.com/@bhuvanrj73/google-summer-of-code-2021-final-work-summary-ae11269a576b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/l7ZFKMEI/"
+        },
+        {
+          "title": "Create new Volto theme",
+          "short_description": "A new Volto theme for Plone CMS. Volto is the React-based UI built on top of the Plone REST API. Plone CMS allows you to visually compose a page...",
+          "student_name": "Avi Mishra",
+          "code_url": "https://community.plone.org/t/created-a-new-volto-theme-gsoc-22/15641?u=avimishra18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/M2LAPzxL/"
+        },
+        {
+          "title": "Undo Control Panel",
+          "short_description": "In this project idea, Need to build an Undo Control Panel in Plone's Volto with a filtering option, where administrator can filter transactions by...",
+          "student_name": "MD SAHIL",
+          "code_url": "https://docs.google.com/document/d/1CO_kpX2QruR7KcHHZbNdpR73K8y8_rK3f6TV7W8f22E/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/emC9MkmX/"
+        },
+        {
+          "title": "Workflow Manager",
+          "short_description": "Plone has the workflow manager from the starting version and it is also the biggest selling point for the Plone. We already have the backend...",
+          "student_name": "iRohitSingh",
+          "code_url": "https://gist.github.com/iRohitSingh/b7a1e41a1f622b7995087ed2909285e4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HO2nuWOq/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/plone-foundation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Modernize Data Fetching API with TanStack Query",
+          "short_description": "The objective of this proposal is to implement a new data fetch layer for frontend in Plone CMS. I intend to implement a library \u201c@plone/client\u201d that...",
+          "student_name": "Hemant Chaudhary",
+          "code_url": "https://community.plone.org/t/developed-a-rest-api-client-to-query-plone-6-backend-gsoc23/17819/1",
+          "proposal_id": "KQkIwMec",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/f3OeXroQ"
+        },
+        {
+          "title": "Use Nuclia search across all Plone properties",
+          "short_description": "Problem Statement:- Plone is a robust and secure Content Management System that is used by a wide range of organizations worldwide. However, given...",
+          "student_name": "Justdaksh",
+          "code_url": "https://gist.github.com/justdaksh/299c911f81b8ad678c08295e63034621",
+          "proposal_id": "G8XbzykB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/sjgunoJ1"
+        },
+        {
+          "title": "Add WebAuthn 2 support for Plone",
+          "short_description": "The project proposal is to bring password-less authentication to Plone 6 by implementing WebAuthn, a password-less web standard by W3C. The proposal...",
+          "student_name": "Pavan-Thota",
+          "code_url": "https://github.com/collective/plone.webauthn/blob/main/GSOCFinalReport.rst",
+          "proposal_id": "oWFQ3SGN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Nk17gHIc"
+        },
+        {
+          "title": "User Management in Plone",
+          "short_description": "The Plones\u2019 Volto user management system is missing several key features, such as the ability to edit existing users and groups in the frontend. This...",
+          "student_name": "Rahil Hastu",
+          "code_url": "https://gist.github.com/rahilhastu/7e1b6d851f5960d8c54a222fada9cd0e",
+          "proposal_id": "bDywPeyG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gqN2Dzf7"
+        },
+        {
+          "title": "Refactor Class Components to Functional Components",
+          "short_description": "Volto is structured as a typical Redux-centered React application. The refactoring class components to functional components project is centered...",
+          "student_name": "Tisha Soumya",
+          "code_url": "https://medium.com/@tishasoumya/refactor-class-components-to-function-components-plone-foundation-gsoc23-26cba7256808",
+          "proposal_id": "XnXEKHU3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dvhArmDK"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/plone-foundation/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Decoupled editor for Plone headless",
+          "short_description": "Plone, as a traditional CMS, has historically limited developers to using a single framework, namely React. To overcome this constraint, I propose...",
+          "student_name": "Mohammad Hussain",
+          "code_url": "https://github.com/collective/volto-hydra/blob/24847c61bab17825f696033d621632176c54b6b2/docs/GSoC_Final_Report_26_Aug_2024.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DCkAHbio/"
+        },
+        {
+          "title": "RSS Support Add-on in Plone 6",
+          "short_description": "The project enhances Plone 6 by integrating Really Simple Syndication (RSS) support through two key components: exposing Plone content as RSS feeds...",
+          "student_name": "Ziming Yuan",
+          "code_url": "https://github.com/collective/volto-rss-provider",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/o4Um6C8Z/"
+        },
+        {
+          "title": "AI/ChatGPT image description/alt text generator",
+          "short_description": "The project aims to address a critical accessibility issue by implementing a feature that automatically generates titles and descriptions for images...",
+          "student_name": "Daniel07",
+          "code_url": "https://gist.github.com/danielnabil/516cbe239a9fb632c94fa979b35150d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YC7gDSsE/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/plone-foundation",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Update pas.plugins.authomatic to Current Provider Standards",
+          "short_description": "Plone\u2019s pas.plugins.authomatic add-on integrates various social authentication providers into Plone using the Authomatic library. Many providers,...",
+          "student_name": "AndrewHimelstieb",
+          "code_url": null,
+          "proposal_id": "xwzf2tEA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/njtO9LIT"
+        },
+        {
+          "title": "Multi-columns Row with Drag-and-Drop between Row and Columns",
+          "short_description": "This project will implement an intuitive drag-and-drop mechanism inside Volto, Plone's React-based frontend, allowing users to move blocks between...",
+          "student_name": "heermakwana",
+          "code_url": null,
+          "proposal_id": "ubJsc2OO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/msWmq0zP"
+        },
+        {
+          "title": "Workflow manager for Volto",
+          "short_description": "This project aims to create a new, user-friendly interface for building and managing workflows in Plone. Workflows in Plone manage content sharing...",
+          "student_name": "Manas Kenge",
+          "code_url": null,
+          "proposal_id": "hpXz0ieG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MzG2JgzX"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://plone.org/support/chat",
+  "contact_email": "mailto:gsoc@cleanclothes.org",
+  "mailing_list": "https://community.plone.org/t/recommendations-for-gsoc-aspirants/16301/1",
+  "ideas_url": "https://plone.org/community/gsoc/2025",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/plone",
+  "blog_url": "https://planet.plone.org/"
+}

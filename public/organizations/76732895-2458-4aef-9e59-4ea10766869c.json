@@ -1,0 +1,73 @@
+{
+  "name": "OpenAFS",
+  "url": "https://www.openafs.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openafs/hhf0h2zemmqes7kt-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "testing",
+    "network",
+    "storage",
+    "filesystems",
+    "kernel"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "git",
+    "ansible",
+    "filesystems",
+    "javascript",
+    "tcp/udp"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/openafs/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Per volume reverse name lookup index",
+          "short_description": "[Problem] OpenAFS is a distributed file system. Currently, it has \"File ID\" or FID to \"entry\" or name lookup functionality, AKA, reverse lookup and...",
+          "student_name": "Vikramraj Sitpal",
+          "code_url": "https://docs.google.com/document/d/1LU8FTm5_ZqmoM2XhfZe1YtQUYcV__rDqaQtulWlXS-s/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GmhQaSN2/"
+        },
+        {
+          "title": "Stress testing framework for openAFS",
+          "short_description": "OpenAFS identified a need for load testing. Often in large systems, corner conditions can be met during a stress testing situation and designing a...",
+          "student_name": "Arnie Jhingran",
+          "code_url": "https://github.com/openafs-contrib/openafs-filesystem-stress-test-framework/wiki/Google-Summer-of-Code-2022---OpenAFS-Filesystem-Stress-Tester",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OctjqIBP/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openafs",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implementing Multi-page Folio Support in OpenAFS Linux Kernel Module",
+          "short_description": "This project enhances the OpenAFS Linux kernel module with multi-page folio support, addressing a key performance limitation in the current...",
+          "student_name": "Sushil Pandey",
+          "code_url": null,
+          "proposal_id": "5qLpnxuN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ChCleqd6"
+        },
+        {
+          "title": "Develop a GNOME Shell Extension for OpenAFS",
+          "short_description": "This project aims to develop a GNOME Shell extension that provides a user-friendly graphical interface for managing the OpenAFS client on Linux...",
+          "student_name": "Tejas Sonawane",
+          "code_url": null,
+          "proposal_id": "PEI60rdE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dS7QYyMI"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.openafs.org/support.html",
+  "contact_email": "mailto:foundation@openafs.org",
+  "mailing_list": "https://lists.openafs.org/mailman/listinfo",
+  "ideas_url": "https://www.openafs.org/gsoc/project-ideas.html",
+  "guide_url": "https://www.openafs.org/gsoc.html",
+  "blog_url": "https://www.openafs.org"
+}

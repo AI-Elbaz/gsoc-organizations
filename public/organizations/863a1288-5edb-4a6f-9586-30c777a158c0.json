@@ -1,0 +1,57 @@
+{
+  "name": "mypy",
+  "url": "http://mypy-lang.org/",
+  "image_url": "https://lh3.googleusercontent.com/2bM_s0FVQzih2JJf2lHkVOaeRxvH8LnB8Y54s7kVnNGrh5YzWYxPMbBg0ijMV2c05Vz-LJ3gkIcsLd3RaMrqg5Q6YddhtDPUbCmNwn4Q-u49",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "static code analysis\u200e",
+    "compiler",
+    "compilers"
+  ],
+  "technologies": [
+    "python"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5440234189225984/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Generalize mypyc IR to Make non-C Backends Possible",
+          "short_description": "Mypyc now employs an IR that is tightly bound to C, which makes potential experiments with new backends impractical and also breaks the layering...",
+          "student_name": "Xuanda Yang",
+          "code_url": "https://th3charlie.github.io/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6358477695352832/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4693309712236544/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve support for singledispatch",
+          "short_description": "Currently, mypy and mypyc are unable to recognize uses of the singledispatch decorator, making mypy generate false positives and mypyc generate...",
+          "student_name": "Pranav Rajpal",
+          "code_url": "https://docs.google.com/document/d/1kV80nLVcNZBj4vJAYcZvI7fggKv-b0iaC4AGX_Cweug/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5112725482504192/"
+        },
+        {
+          "title": "Speeding up string operations of Mypyc",
+          "short_description": "Mypyc is a compiler from type-annotated Python to CPython C extension modules. It uses type information and restrictions to certain dynamic language...",
+          "student_name": "Jingchen YE",
+          "code_url": "https://gist.github.com/97littleleaf11/889e76c4f8258bd07679f1606396efb7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5189245827809280/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/mypyc-dev/community",
+  "contact_email": "mailto:jlehtosalo@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/mypyproject",
+  "blog_url": "http://mypy-lang.blogspot.com/"
+}

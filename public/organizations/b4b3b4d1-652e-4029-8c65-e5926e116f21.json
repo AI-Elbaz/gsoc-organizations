@@ -1,0 +1,103 @@
+{
+  "name": "Green Navigation",
+  "url": "http://greennav.io",
+  "image_url": "https://lh3.googleusercontent.com/DcEeK4T4tzqj9U6hsm4k-Bsd9H5mrDPo7VOZ4zAXRVQN0I6LwXfkyMEMbADgjTcmW57pEk3rkVzHjDcWlJuMu6RBRS8fSp4",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "database",
+    "web applications",
+    "routing",
+    "mobile",
+    "algorithm prototyping/visualization",
+    "web",
+    "machine learning",
+    "eletric mobility"
+  ],
+  "technologies": [
+    "postgresql",
+    "javascript",
+    "go",
+    "polymer",
+    "electromobility",
+    "java",
+    "react",
+    "tensorflow",
+    "apache spark"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6442287735242752/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Front end rethink",
+          "short_description": "Green Navigation is an innovative project with gigantic potential to promote the use of electric vehicles by providing users with a robust tool to...",
+          "student_name": "marksurnin",
+          "code_url": "https://gist.github.com/marksurnin/2c29d08c0bd0237a5080eef96d332dfc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6469645871611904/"
+        },
+        {
+          "title": "Real-Time Navigation and Smart Notifications",
+          "short_description": "Green Navigation will become a great tool to calculate routes and compare routing algorithms. But imagine a front-end, that shows directions of the...",
+          "student_name": "tom3012",
+          "code_url": "https://goo.gl/TlafFw",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6619293001187328/"
+        },
+        {
+          "title": "Prototyping Tool",
+          "short_description": "Build a new prototyping tool for comparing and visualizing new routing algorithms rapidly.",
+          "student_name": "sidthekid",
+          "code_url": "https://medium.com/@sidthekid/gsoc-2016-review-868291cceebb#.vzz51kcur",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4735845688934400/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6147412729004032/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Prediction of Energy Consumption of Electric Vehicles",
+          "short_description": "This project aims to develop a machine learning approach to predict the energy consumption of an electric vehicle given information about the...",
+          "student_name": "Indraneil Paul",
+          "code_url": "http://greennav.io/news/2017-08-23-gsoc2017-predicting-energy-consumption-wp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6393481605939200/"
+        },
+        {
+          "title": "A Medication for e-range anxiety.",
+          "short_description": "The primary purpose of this project is to encourage the use of electric cars by taking a giant step towards addressing the range anxiety problem...",
+          "student_name": "Leah  Chrestien",
+          "code_url": "http://greennav.io/news/2017-08-23-gsoc2017-range-anxiety-wp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5535334657949696/"
+        },
+        {
+          "title": "Smart Range Viewer",
+          "short_description": "Using ReactJS and Javascript for computation and visualisation of vehicle range to ease range anxiety among electric vehicle drivers.",
+          "student_name": "Jia Rui Ong",
+          "code_url": "http://greennav.io/news/2017-08-23-gsoc2017-smart-range-viewer-wp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5030862697529344/"
+        },
+        {
+          "title": "Traffic avoidance and prediction of energy consumption of electric vehicles with real time notification system",
+          "short_description": "The 21st century ushered with it the age of smart and predictive technology with the optimum use of resources to make life easier. In accordance with...",
+          "student_name": "Saumya Suvarna",
+          "code_url": "http://greennav.io/news/2017-08-23-gsoc2017-traffic-avoidance-wp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4738629633048576/"
+        },
+        {
+          "title": "Routing server",
+          "short_description": "GreenNav project requires fast and reliable server that supports computations optimal routing via efficient algorithms. I'm going to implement...",
+          "student_name": "Pavel Danilov",
+          "code_url": "http://greennav.io/news/2017-08-23-gsoc2017-routing-server-wp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5829216855654400/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://grennavigation.slack.com",
+  "contact_email": "mailto:greennav@googlegroups.com",
+  "mailing_list": "https://groups.google.com/d/forum/greennav",
+  "ideas_url": "",
+  "guide_url": ""
+}

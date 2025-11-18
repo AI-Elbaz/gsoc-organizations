@@ -1,0 +1,146 @@
+{
+  "name": "JabRef e.V.",
+  "url": "https://www.jabref.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/jabref-ev/ylevworrwqf9bw9g-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "academia",
+    "reference manager",
+    "bibtex",
+    "pdf",
+    "science",
+    "library",
+    "literature",
+    "latex",
+    "bibliography"
+  ],
+  "technologies": [
+    "java",
+    "javafx",
+    "latex",
+    "typescript",
+    "bibtex",
+    "ai"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5195087733063680/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Bidirectional Integration \u2014 Paper Writing \u2014 LaTeX and JabRef 5.0",
+          "short_description": "The core of the proposal is a wide improvement of the LaTeX integration with JabRef, focusing on the end-user, whose characteristics have been...",
+          "student_name": "David M\u00e9ndez",
+          "code_url": "https://gist.github.com/davidemdot/ca69c21081964d5d56cc18bae68251e3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4799263547064320/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5760795715043328/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Microsoft Word Integration",
+          "short_description": "This project\u2019s primary goal is to integrate jabref with Microsoft word using an office add-in.\nThat will allow users to speed up the process of...",
+          "student_name": "Mohit",
+          "code_url": "https://github.com/JabRef/JabRef-Word-Addin/wiki/GSOC-2021-Microsoft-Word-Integration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5541775535505408/"
+        },
+        {
+          "title": "Improve pdf support in JabRef",
+          "short_description": "JabRef currently only has limited support to interact with pdfs. It can only read XMP metadata and cannot write metadata at all.\nSince pdfs are a...",
+          "student_name": "Benedikt Tutzer",
+          "code_url": "https://github.com/JabRef/jabref/wiki/GSoC-2021---Improve-pdf-support-in-JabRef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4831470220214272/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/jabref-ev/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Implement a Three Way Merge UI for merging BibTeX entries",
+          "short_description": "Merging duplicates and resolving conflicts is a major use case for JabRef users, according to a 2019 research conducted by JabRef developers....",
+          "student_name": "Houssem Nasri",
+          "code_url": "https://github.com/JabRef/jabref/wiki/GSoC-2022-%E2%80%94-Implement-a-Three-Way-Merge-UI-for-merging-BibTeX-entries",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yn3uYVWW/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/jabref-ev/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "AI-Powered Summarization and \u201cInteraction\u201d with Academic Papers",
+          "short_description": "This project seeks to make research more efficient by adding powerful AI tools to JabRef. New features are: - \"Interaction\" with papers (question...",
+          "student_name": "Ruslan Popov",
+          "code_url": "https://github.com/InAnYan/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nFxX1kbl/"
+        },
+        {
+          "title": "Improved CSL Support (and more LibreOffice-JabRef integration enhancements)",
+          "short_description": "JabRef's integration with LibreOffice currently lacks comprehensive support for citing references using the Citation Style Language (CSL), which is a...",
+          "student_name": "subhramit",
+          "code_url": "https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-Improved-CSL-Support-(and-more-LibreOffice%E2%80%90JabRef-integration-enhancements)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MfPL66UW/"
+        },
+        {
+          "title": "Lucene Search Backend Integration",
+          "short_description": "JabRef offers an extensive search function that is based on a custom search syntax. The goal is to replace the custom search syntax and grammar with...",
+          "student_name": "Loay Ghreeb",
+          "code_url": "https://github.com/JabRef/jabref/wiki/GSoC-2024-%E2%80%90-Lucene-Search-Backend-Integration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/V9bfHwi3/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/jabref-ev",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improve handling of ancient documents by OCR and AI",
+          "short_description": "JabRef currently struggles with scanned or image-based PDFs, which lack embedded text and cannot be indexed or searched. This project proposes...",
+          "student_name": "Kaan Erdem",
+          "code_url": null,
+          "proposal_id": "aFb10sKj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WvHcxIiM"
+        },
+        {
+          "title": "JabRef for Visual Studio Code (JabRef4VSCode)",
+          "short_description": "Users of LaTeX tend to use Visual Studio Code (VSCode) for editing their LaTeX and BibTeX files. Although JabRef can still be used as GUI, it would...",
+          "student_name": "palukku",
+          "code_url": null,
+          "proposal_id": "tmsiXzZw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6Z6Fqv6g"
+        },
+        {
+          "title": "Git Support for JabRef",
+          "short_description": "This project aims to improve Git-based collaboration in JabRef by building a reliable synchronization layer for .bib files. While JabRef already...",
+          "student_name": "Wanling",
+          "code_url": null,
+          "proposal_id": "Uva3IUx2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/R9UcJNpJ"
+        },
+        {
+          "title": "Integrating Walkthrough Feature in JabRef",
+          "short_description": "I aim to improve the Welcome page and create a walkthrough in JabRef. The walkthrough would: 1. Provide an overview of JabRef's core functionality 2....",
+          "student_name": "Yubo",
+          "code_url": null,
+          "proposal_id": "SHtbcnCh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ae6W329p"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://gitter.im/JabRef/jabref",
+  "contact_email": "mailto:developers@jabref.org",
+  "mailing_list": "https://discourse.jabref.org/",
+  "ideas_url": "https://github.com/JabRef/jabref/wiki/GSoC-2025-ideas-list",
+  "guide_url": "https://github.com/JabRef/jabref/wiki/GSOC-Application",
+  "twitter_url": "https://twitter.com/jabref_org",
+  "blog_url": "https://blog.jabref.org/"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Navidrome",
+  "url": "https://navidrome.org",
+  "image_url": "https://lh3.googleusercontent.com/y873A4ZT7B_Uic1kArXJQXzofatM0HaQoFAJjVfJrPuQwtV0vMizh-kvW_v0ixlm99wwIb9u6OcKEWrrMrBb0yFVQbkJ5cmi3QWEaRqbuqc1",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "music",
+    "streaming"
+  ],
+  "technologies": [
+    "react",
+    "golang",
+    "ffmpeg"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5963988000571392/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Infinite Scroll",
+          "short_description": "Adds a new List component to React Admin which implements infinite scroll to the Navidrome Data Views",
+          "student_name": "Samarjeet Singh",
+          "code_url": "https://github.com/navidrome/navidrome/pull/1201",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5203113471901696/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/2qMuMyHfSV",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/navidrome"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jenkins X",
+  "url": "https://jenkins-x.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/jenkins-x/jjkyxgzeyje2m2hr-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "cloud",
+    "CI/CD"
+  ],
+  "technologies": [
+    "golang",
+    "kubernetes",
+    "gitops"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/jenkins-x/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Jenkins X GSOC Proposal",
+          "short_description": "Currently, the way to manage (CRUD) Jenkins X resources(pipelines) is by using the cli. While the CLI is very powerful and user friendly, it should...",
+          "student_name": "Rajat Gupta",
+          "code_url": "https://jenkins-x.io/blog/2022/11/13/gsoc-2022-work-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FtTH60cj/"
+        },
+        {
+          "title": "Supply chain security: Improve integration with sigstore and look at tekton chains",
+          "short_description": "To increase the Supply Chain Security for Jenkins X. I Integrated Jenkins X with Sigstore to sign the pipeline artifacts. Integrated with Tekton...",
+          "student_name": "Osama Magdy",
+          "code_url": "https://jenkins-x.io/blog/2022/11/08/gsoc-2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jcDNCPyo/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://kubernetes.slack.com/messages/C9LTHT2BB",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/jenkinsxio"
+}

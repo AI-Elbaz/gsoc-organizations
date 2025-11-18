@@ -1,0 +1,70 @@
+{
+  "name": "Percona",
+  "url": "https://www.percona.com/",
+  "image_url": "https://lh3.googleusercontent.com/b6GVDxPfANhAVQI8RB85qninvaaCHTpzoXsOkRHGq2xXmpcVYXAASewxkMNVJ5HrKh5r7igQN3bKbb6etu2hKp8In925EsOk",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "database optimization",
+    "metrics",
+    "testing",
+    "monitoring",
+    "databases",
+    "data visualization",
+    "automation",
+    "load testing",
+    "alerts"
+  ],
+  "technologies": [
+    "mysql",
+    "postgresql",
+    "prometheus",
+    "javascript",
+    "selenium",
+    "shell script",
+    "golang",
+    "grafana"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4926515777634304/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Grafana Dashboards refactoring",
+          "short_description": "The aim of the proposal is to convert existing Grafana dashboard's static JSON files to Jsonnet files, which will help dynamically generate JSON as...",
+          "student_name": "Mrinal Dutta",
+          "code_url": "https://drive.google.com/open?id=0B8ce6EiZ0rGUYWM3N3BjVGR0dmU0ZFZNY2VUY2pCUDBoLWVv",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6639378514837504/"
+        },
+        {
+          "title": "Refactor UI tests Helper",
+          "short_description": "codeceptjs-resemblehelper is a CodeceptJS helper which integrates the resemble.js functionality of image comparison in tests used to compare...",
+          "student_name": "Kartikeya Gokhale",
+          "code_url": "https://gist.github.com/Kartikeya99/5556466af0054c1db26b4e64854d920a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5969714612797440/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5002697415065600/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Refactor PMM Framework",
+          "short_description": "PMM (Percona Monitoring and Management) is an open-source platform for managing and monitoring MySQL, Percona Server, PostgreSQL, MongoDB, and...",
+          "student_name": "Meet Patel",
+          "code_url": "https://gist.github.com/meet59patel/7da2568cddb6b918e251350728ea7e53",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4657984447184896/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.percona.com/googlesummerofcode2020",
+  "contact_email": "mailto:gsoc@percona.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/percona-gsoc",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/Percona",
+  "blog_url": "https://www.percona.com/community-blog/"
+}

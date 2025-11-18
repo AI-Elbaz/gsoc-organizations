@@ -1,0 +1,181 @@
+{
+  "name": "strace",
+  "url": "https://strace.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/strace/yreopwofddfe6zhk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Development tools",
+  "topics": [
+    "linux",
+    "tracing",
+    "syscall",
+    "c",
+    "git",
+    "debugging",
+    "diagnostic"
+  ],
+  "technologies": [
+    "c",
+    "linux",
+    "shell script",
+    "make",
+    "git",
+    "awk",
+    "shell",
+    "autotools",
+    "gawk"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5410403857203200/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Multi-platform continuous tests infrastructure",
+          "short_description": "Strace is an essential tool which has been ported to multiple architectures.  To confidently ship release, we need to ensure each new commit has been...",
+          "student_name": "Yun-Chih Chen",
+          "code_url": "https://www.csie.ntu.edu.tw/~yunchih/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5741642204053504/"
+        },
+        {
+          "title": "Netlink socket parsers",
+          "short_description": "Netlink is, basically, an API used to transfer information between kernel and user-space processes. It consists on a standard sockets-based interface...",
+          "student_name": "Fabien Siron",
+          "code_url": "https://github.com/Saruta/strace",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5126179027681280/"
+        },
+        {
+          "title": "Strace Fault Injection Proposal",
+          "short_description": "Fault injection is something that could be really usefull in many ways for\ndeveloppers and testers. It could be used in test suites context to assert...",
+          "student_name": "Naam",
+          "code_url": "https://brokenpi.pe/tools/strace-fault-injection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5253362136121344/"
+        },
+        {
+          "title": "Truly structured output for strace",
+          "short_description": "Parsing current strace output is not an ideal solution, because:\n\nthis is excessively difficult: the output is intended to humans, not robots;...",
+          "student_name": "Lineprinter",
+          "code_url": "https://github.com/lineprinter/strace/wiki/GSoC-related-information",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6296300991545344/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6249254993526784/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Advanced syscall information tool",
+          "short_description": "Everyone accepts that strace is one the most useful program for developers. And to make the\noutput more understandable, I want to improve the...",
+          "student_name": "Edgar Kaziakhmedov",
+          "code_url": "https://edosedgar.github.io/gsoc2017/2017/08/27/work-product-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5658731350065152/"
+        },
+        {
+          "title": "\"Netlink socket parsers\" By Gabriel Laskar and Dmitry V. Levin, 2017",
+          "short_description": "Netlink is a network protocol that is used to communicate between the\nkernel and the userspace. For example, iproute use netlink in order to...",
+          "student_name": "JingPiao Chen",
+          "code_url": "https://ppiao.github.io/2017/08/22/strace-gsoc-2017-netlink-socket-parser.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6190091550588928/"
+        },
+        {
+          "title": "Advanced syscall filtering syntax",
+          "short_description": "Current strace filtering syntax allows to debug simple applications. But it has no support for advanced filtering. For example, it is impossible to...",
+          "student_name": "Nikolay Marchuk",
+          "code_url": "https://gist.github.com/n1kolasM/93da7c30a9b3cbe99a8e4c408d6c947d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4704631745675264/"
+        },
+        {
+          "title": "Advanced syscall tampering and filtering with Lua/LuaJIT",
+          "short_description": "A support for Lua-scriptable syscall tampering and filtering will be added. It will be\npossible to inspect syscall arguments (including...",
+          "student_name": "Viktor Krapivenskiy",
+          "code_url": "https://gist.github.com/shdown/b5b48834fde9e68aa541e952af03579a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4930558568169472/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6045186870214656/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "seccomp-assisted syscall filtering",
+          "short_description": "SECCOMP_RET_TRACE seccomp API could be used to implement a more efficient syscall filtering. Using this technique, tracees will be stopped on...",
+          "student_name": "Chen Jingpiao",
+          "code_url": "https://ppiao.github.io/2018/08/07/strace-gsoc-2018.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5277729633075200/"
+        },
+        {
+          "title": "Comprehensive test suite",
+          "short_description": "The point of this project is about coverage of branches of parsers as well as corner cases. In other words, there are mainly two parts. At first, add...",
+          "student_name": "Zhibin Li",
+          "code_url": "https://haoyouab.github.io/2018/08/03/GSoC-2018.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5776440633065472/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5915389047865344/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "DRM ioctl decoding",
+          "short_description": "Direct Rendering Manager subsystem has pretty elaborate ioctl interface, and it might be useful to be able to support its decoding.",
+          "student_name": "Zhibin Li",
+          "code_url": "https://haoyouab.github.io/2019/05/16/GSoC-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6365096467496960/"
+        },
+        {
+          "title": "Efficient syscall tracing for strace",
+          "short_description": "strace currently adds significant overhead to any application it traces. Even when users are interested in a handful of syscalls, strace will...",
+          "student_name": "Paul Chaignon",
+          "code_url": "https://lists.strace.io/pipermail/strace-devel/2019-August/009072.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5773400566398976/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5627435304878080/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "PID namespace translation support for strace",
+          "short_description": "When strace is tracing a process which is in an other process namespace than strace itself, PIDs in system call arguments and return values are...",
+          "student_name": "\u00c1kos Uzonyi",
+          "code_url": "https://akosuzonyi.github.io/strace/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5373143209738240/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6067595530207232/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Generating Syscall Decoders from Declarative Definitions",
+          "short_description": "Many system call decoders in strace are very similar in structure. This proposal aims to incorporate a system for generating syscall decoders from a...",
+          "student_name": "Srikavin Ramkumar",
+          "code_url": "https://hackmd.io/@srikavin/S1aUgV0xK",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5768547124379648/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/strace/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Support for BTF and other BPF decoding improvements",
+          "short_description": "The purpose of this project is to extract BTF information for eBPF maps, process it in a human-readable manner, and improve decoding for the bpf()...",
+          "student_name": "SuHsueyu",
+          "code_url": "https://lists.strace.io/pipermail/strace-devel/2022-September/011118.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/p1VXRP5k/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "ircs://irc.oftc.net:6697/strace",
+  "contact_email": "strace-devel@lists.strace.io",
+  "mailing_list": "https://lists.strace.io/mailman/listinfo/strace-devel",
+  "ideas_url": "",
+  "guide_url": ""
+}

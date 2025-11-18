@@ -1,0 +1,195 @@
+{
+  "name": "MDAnalysis",
+  "url": "https://www.mdanalysis.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mdanalysis/kf8rugznsqeskumi-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "computational chemistry",
+    "cheminformatics",
+    "biophysics",
+    "molecular simulation",
+    "molecular dynamics",
+    "simulation",
+    "trajectory analysis",
+    "soft matter physics",
+    "materials",
+    "biochemistry",
+    "science",
+    "computational-chemistry",
+    "high-performance-computing",
+    "molecular-simulation",
+    "soft-matter-physics",
+    "machine-learning"
+  ],
+  "technologies": [
+    "python",
+    "cython",
+    "c",
+    "c++",
+    "numpy"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5997649305534464/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "From RDKit to the Universe and back",
+          "short_description": "The aim of the RDKit interoperability project is to give MDAnalysis the ability to use RDKit\u2019s Chem.Mol structure as an input to an MDAnalysis\u2019...",
+          "student_name": "C\u00e9dric Bouysset",
+          "code_url": "https://www.mdanalysis.org/2020/08/29/gsoc-report-cbouy/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5646492108324864/"
+        },
+        {
+          "title": "Serialize Universes for parallel",
+          "short_description": "MDAnalysis is a flexible and relatively fast framework for complex analysis tasks in molecular dynamics (MD) simulations. To achieve a flawless...",
+          "student_name": "Yuxuan Zhuang",
+          "code_url": "https://yuxuanzhuang.github.io/final-remarks/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5738338742435840/"
+        },
+        {
+          "title": "Trajectory New Generation: the trajectory format for the future of simulation",
+          "short_description": "Trajectory storage has always proved problematic for the molecular simulation community, as large volumes of data can be generated quickly....",
+          "student_name": "Hugo MacDermott-Opeskin",
+          "code_url": "https://hmacdope.github.io/2020/08/22/Final-Submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4718336220332032/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4692476220145664/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "MDAnalysis module to calculate membrane curvature",
+          "short_description": "Elements of differential geometry enable us to quantify the curvature of a surface. The core elements of biological membranes, phospholipids, provide...",
+          "student_name": "Estefania Barreto-Ojeda",
+          "code_url": "https://ojeda-e.github.io/blog/GSoC-journey-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5740558735114240/"
+        },
+        {
+          "title": "A Solvation Module for MDAnalysis",
+          "short_description": "MDanalysis (MDA) is a powerful open-source package for exploring and performing calculations on molecular dynamics trajectories. Despite MDAs broad...",
+          "student_name": "orion cohen",
+          "code_url": "https://orioncohen.com/blog/2021_08_20_gsoc_conclusion/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5192155835924480/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mdanalysis/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adding Energy Readers to MDAnalysis",
+          "short_description": "In molecular dynamics simulations, users frequently have to inspect energy-like terms such as potential or kinetic energy, temperature, or pressure....",
+          "student_name": "BFedder",
+          "code_url": "https://bfedder.github.io/jekyll/update/2022/09/26/the-end.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wbLbZmGk/"
+        },
+        {
+          "title": "Context-aware guesser (implementing PDB and Martini guessers)",
+          "short_description": "MDAnalysis deals with various topologies with different structures, each of which has its specifications for presenting its data. The challenge is...",
+          "student_name": "Aya M. Alaa",
+          "code_url": "https://sites.google.com/pharma.asu.edu.eg/aya-gsoc/final-week-of-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/B1Y0nTh2/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mdanalysis",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Project 5: Implementation of parallel analysis in MDAnalysis",
+          "short_description": "The proposal introduces parallel backend based on `dask` for MDAnalysis package. Potentially, it will allow researchers to run analysis of the...",
+          "student_name": "Egor Marin",
+          "code_url": "https://marinegor.github.io/posts/2023/06/gsoc-summary",
+          "proposal_id": "P3hniVwn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cOTjpLid"
+        },
+        {
+          "title": "Add Calculations for Self-Diffusivity and Viscosity",
+          "short_description": "MDAnalysis provides minimal support for calculating transport properties, measurable values which define the transfer of mass, heat, momentum, or...",
+          "student_name": "Xu Hong Chen",
+          "code_url": "https://xhgchen.github.io/posts/add-calculations-self-diffusivity-viscosity/",
+          "proposal_id": "0OonTBHW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4vt9npUg"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/mdanalysis/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "2D visualization for small molecules",
+          "short_description": "The proposed project will revolve around the 2D visualization of chemical molecules. Currently MDAnalysis has a tool, which allows the conversion of...",
+          "student_name": "Valerij Talagayev",
+          "code_url": "https://github.com/talagayev/MDonatello",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sfy3kuqc/"
+        },
+        {
+          "title": "Zarrtraj: Streaming H5MD trajectories from cloud services into MDAnalysis using Zarr",
+          "short_description": "Adding support for streaming and cloud storage is one of the major themes of improvement for MDAnalysis 3.0. Achieving this goal will improve the...",
+          "student_name": "Lawson",
+          "code_url": "https://ljwoods2.github.io/zarrtraj/2024/07/13/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BYYAE9MR/"
+        },
+        {
+          "title": "Extend MDAnalysis Interoperability with OpenBabel",
+          "short_description": "Direct interoperability between molecular dynamics software is critical for enabling collaboration, data transfer and easy use by scientists....",
+          "student_name": "Luna Morrow",
+          "code_url": "https://lunamorrow.github.io/2024/10/30/final-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yLzX6MjS/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/mdanalysis",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Integrating MDAnalysis streaming analysis within WESTPA propagators",
+          "short_description": "Weighted ensemble (WE) simulations enhance the exploration of a molecular system\u2019s phase space by running numerous short, parallel simulations and...",
+          "student_name": "Jamie Rowe",
+          "code_url": null,
+          "proposal_id": "LNYoLsOS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SvFaSgr5"
+        },
+        {
+          "title": "Enhancing ProLIF Visualizations: A Hybrid Approach for Automated, Customizable 2D Interaction Layout",
+          "short_description": "ProLIF\u2019s current 2D interaction diagrams often suffer from overlapping protein residues and tangled edges due to reliance on a default physics engine...",
+          "student_name": "Nilay Verma",
+          "code_url": null,
+          "proposal_id": "jwWjwKlG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XWsglxQM"
+        },
+        {
+          "title": "Better interfacing of Blender and MDAnalysis",
+          "short_description": "Blender is an industry leading open-source 3D modelling and animation software. MDAnalysis is an open-source Python library for analyzing molecuar...",
+          "student_name": "Pardhav Maradani",
+          "code_url": null,
+          "proposal_id": "lJaY5qzB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9BR8jbvV"
+        },
+        {
+          "title": "MDAnalysis x ProLIF Project 5:  H-Bond interactions from implicit hydrogens",
+          "short_description": "ProLIF, a tool for identifying protein-molecule interactions in molecular dynamics trajectories, lacks a straightforward method for evaluating...",
+          "student_name": "Yu-Yuan (Stuart) Yang",
+          "code_url": null,
+          "proposal_id": "5YgE67yN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5Otkx8vp"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/channels/807348386012987462/",
+  "contact_email": "mailto:mdanalysis@numfocus.org",
+  "mailing_list": "https://github.com/MDAnalysis/mdanalysis/discussions",
+  "ideas_url": "https://github.com/MDAnalysis/mdanalysis/wiki/GSoC-2025-Project-Ideas",
+  "guide_url": "https://github.com/MDAnalysis/mdanalysis/wiki/Google-Summer-Of-Code",
+  "twitter_url": "https://twitter.com/mdanalysis",
+  "blog_url": "https://www.mdanalysis.org/blog/"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Project WikiLoop",
+  "url": "https://meta.wikimedia.org/wiki/WikiLoop",
+  "image_url": "https://lh3.googleusercontent.com/34r7ANSITcDOXQr_s0Y5dk4iepIIl9TP7_FA1-8f2E1e4k7GOR7ZvC_KaUPIVQADrayTE8nkGsAMsSfpLo2GsyfV18ewlMhyD1ft2EG0IM86BQ",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "cultural heritage",
+    "knowledge graphs",
+    "computer-assisted translation"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "mediawiki"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5935335233552384/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "First-Ever Tibetan Spell Checker",
+          "short_description": "The aim of this project is to create a Full-Stack web application that is capable of finding spelling mistakes that anyone across the  world can use.",
+          "student_name": "Mengan Wang",
+          "code_url": "https://gist.github.com/Anan1218/53770864ad3ab6597634d3b64c051414",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5398052809998336/"
+        },
+        {
+          "title": "Improving Google Search Result On Buddhist Entities.",
+          "short_description": "The Buddhist Digital Resource Center has a well-maintained database. The entities present on Wikidata often lack a label in Tibetan language. By...",
+          "student_name": "Paritosh Singh",
+          "code_url": "https://medium.com/@paritoshsingh1612/improving-google-search-result-on-buddhist-entities-cbf9d1aa7e0b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5169726979833856/"
+        },
+        {
+          "title": "Adding Tibetan Calendar in Unicode Common Locale Data Repository (CLDR) and International Components for Unicode (ICU) library",
+          "short_description": "The goal of the project is to create some code for International Components for Unicode (ICU) Librariary that compute dates in Tibetan calendar and...",
+          "student_name": "Ashish Patel",
+          "code_url": "https://gist.github.com/dyrroth-11/935ce9af224d545cd3b1adb87a1795e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5173060042227712/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://meta.wikimedia.org/wiki/WikiLoop/TibetanInitiative/GSoC",
+  "contact_email": "mailto:forestj@google.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/tibetan-initiative-gsoc2021",
+  "ideas_url": "",
+  "guide_url": ""
+}

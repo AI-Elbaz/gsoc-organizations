@@ -1,0 +1,43 @@
+{
+  "name": "Institut f\u00fcr Angewandte Informatik (InfAI) e.V.",
+  "url": "https://infai.org",
+  "image_url": "https://lh3.googleusercontent.com/Y79uFbhGMoSQzQEEqzsDDaVpr-W86qL1Lyu4icc0eFr7FrZ79ccIe8KPeVA3Jr70_E6lfzOABKAJ-44IMeHhswgIesoFRmM_",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "virtual reality",
+    "software quality",
+    "visualization",
+    "software analytics",
+    "web"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "a-frame",
+    "neo4j",
+    "htc vive"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4934728610742272/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Jira plugin for jQAssistant",
+          "short_description": "This project is a Jira scanner for jQAssistant. It enables jQAssistant to scan and analyze Jira projects.",
+          "student_name": "Stefan Bechert",
+          "code_url": "https://gist.github.com/b-pos465/f7981eb795c8e2360e36c1afd684c3cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4893531502542848/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:softvis@uni-leipzig.de",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/softvisresearch",
+  "blog_url": "http://softvis.wifa.uni-leipzig.de"
+}

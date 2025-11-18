@@ -1,0 +1,41 @@
+{
+  "name": "Pidgin Instant Messenger",
+  "url": "https://pidgin.im",
+  "image_url": "https://lh3.googleusercontent.com/_cnWCvAP_kL_uIGMn_YD3zwWIJYWZ9TCAcGUjJ8FGHX3M1cieul6RxNm9lyflwkRn3kucFNG-RQMhlC7k8_8-4rBUyDO19lx1WGPp3hvTdC2",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "web",
+    "real time",
+    "video",
+    "chat",
+    "voice"
+  ],
+  "technologies": [
+    "c",
+    "gtk",
+    "gstreamer"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5646348627476480/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "New Release",
+          "short_description": "Working toward 3.0.0 release",
+          "student_name": "James Culver",
+          "code_url": "https://reviews.imfreedom.org/r/877/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5159901403283456/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://pidgin.im/about/community/",
+  "contact_email": "mailto:devel@pidgin.im",
+  "mailing_list": "https://pidgin.im/about/community/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/impidgin",
+  "blog_url": "https://pidgin.im/post/"
+}

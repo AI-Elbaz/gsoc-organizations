@@ -1,0 +1,130 @@
+{
+  "name": "Organic Maps",
+  "url": "https://organicmaps.app",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/organic-maps/cnhed0elppzqsjut-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "privacy",
+    "maps",
+    "navigation",
+    "mobile",
+    "offline"
+  ],
+  "technologies": [
+    "android",
+    "java",
+    "c++",
+    "ios",
+    "OpenStreetMap"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/organic-maps/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "More choices, More happiness: Alternative Routes for Organic Maps",
+          "short_description": "Organic Maps provide the users with powerful searching and navigation services in many countries. However, the built-in planner can only provide one...",
+          "student_name": "Runqiu (Thomas) Guo",
+          "code_url": "https://github.com/melonSkin76/rq_organicmapsTest/wiki/GSoC-2022-Project-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tHfojxNA/"
+        },
+        {
+          "title": "Developing Support For Android Auto",
+          "short_description": "The project will involve creating adding a support for Android Os and Android Auto in the existing Organic Maps Android App. And the code for both...",
+          "student_name": "Priyank Shankar",
+          "code_url": "https://gist.github.com/shankarpriyank/5b54628a14d989b353933de2a4b62ad0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/51VM0qGG/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/organic-maps",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Android Auto",
+          "short_description": "This project aims to integrate Android Auto functionality into Organic Maps to provide an alternative to proprietary mapping solutions and make it...",
+          "student_name": "Andrei Shkrob",
+          "code_url": "https://gist.github.com/AndrewShkrob/9da5959fd9fe89aff472ce00ca77cf4e",
+          "proposal_id": "wSyKOCVr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HMGczlm7"
+        },
+        {
+          "title": "Wikipedia Dump Extractor",
+          "short_description": "Currently Organic Maps stores Wikipedia article text by accessing the Wikipedia API. The crawling can be slow and time-consuming, and a full update...",
+          "student_name": "Evan New-Schmidt",
+          "code_url": "https://evan.new-schmidt.com/things/organic-maps-gsoc-2023/",
+          "proposal_id": "TV7mnz58",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/N8NQIphO"
+        },
+        {
+          "title": "Improve Styling System",
+          "short_description": "The currently used styling system has a number of major shortcomings: its over-complicated and full of nuances, which often leads to unpredictable...",
+          "student_name": "pastk",
+          "code_url": "https://gist.github.com/pastk/4cdb563b9a705ad6511500d6eebf4146",
+          "proposal_id": "nWl0oQjW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/948HCPSa"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/organic-maps/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Public Transport Support - Subway Preprocessor and Validator",
+          "short_description": "This is concerning adding the ability to add and sync bus routes and bus stops to the Public Transport Support - Subway Preprocessor and Validator...",
+          "student_name": "Claire Joseph",
+          "code_url": "https://github.com/cjj20/publictransportbus",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/55lxVSFO/"
+        },
+        {
+          "title": "The Track Recorder for Android",
+          "short_description": "This project \"The Track Recorder for android\" is implementation of track recording feature in the android application of Organic Maps. It enables...",
+          "student_name": "Kavi Khalique",
+          "code_url": "https://gist.github.com/kavikhalique/e802b44c6c709fa4ae2ab810fc0f38c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xr1r7Jxg/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/organic-maps",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "OpenStreetMap Editor Improvements",
+          "short_description": "The Point of Interest (POI) Editor is a key part of Organic Maps for updating OpenStreetMap, and through this project, my aim is to significantly...",
+          "student_name": "Hemang Singh Manhas",
+          "code_url": null,
+          "proposal_id": "pGDBdqFs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zZcgJntn"
+        },
+        {
+          "title": "Opening Hours Parser Revamp",
+          "short_description": "The project aims to enhance the Opening Hours Parser by replacing the current Boost Spirit-based parser with a token-based approach. This will...",
+          "student_name": "Raghad  Dahi",
+          "code_url": null,
+          "proposal_id": "S2lVwTCR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3lckoCe5"
+        },
+        {
+          "title": "Bookmarks Backup and Sync to Nextcloud on Android",
+          "short_description": "Implementation of primarily two features: 1. A multi-device bookmarks sync feature on Android, similar to the iCloud sync available on the iOS app....",
+          "student_name": "savsch",
+          "code_url": null,
+          "proposal_id": "QJ4BpoAg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nTUzX3o0"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://t.me/OrganicMaps",
+  "contact_email": "mailto:join@organicmaps.app",
+  "mailing_list": "https://github.com/organicmaps/organicmaps/issues",
+  "ideas_url": "https://git.omaps.dev/organicmaps/organicmaps/wiki/GSoC-2025-ideas",
+  "guide_url": "https://github.com/organicmaps/organicmaps/blob/master/docs/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/organicmapsapp",
+  "blog_url": "https://organicmaps.app/news/"
+}

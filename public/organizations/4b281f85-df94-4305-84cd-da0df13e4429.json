@@ -1,0 +1,46 @@
+{
+  "name": "Shaka Player",
+  "url": "https://opensource.google/projects/shaka-player",
+  "image_url": "https://lh3.googleusercontent.com/x8zL_jDCw5xPw2P5CK9Cs5nWmIl_0gPBEaspT8INn4im49yVs2gEz2IFIthL4fH0ky5o7I80gbIjm9CXbf45lMXZgl0pRwppZL4GagfkeFLi",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "web",
+    "streaming",
+    "video"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "web development",
+    "video codecs",
+    "ui/ux"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4852309401534464/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Shaka Streamer Enhancements",
+          "short_description": "Shaka Streamer is a tool that simplifies media transcoding and packaging by utilizing FFmpeg and Shaka Packager and managing the command line...",
+          "student_name": "Omer Yacine",
+          "code_url": "https://gist.github.com/meryacine/fc700b04f90262737868126e651727f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6548086372958208/"
+        },
+        {
+          "title": "Shaka Player - User Interface",
+          "short_description": "While building software with Shaka, developers can import Player\u2019s own user interface to receive bundled component classes that help them achieve a...",
+          "student_name": "Nicolas",
+          "code_url": "https://sites.google.com/view/gsoc-shaka-ui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4858256119300096/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:shaka-player-eng@google.com",
+  "mailing_list": "https://groups.google.com/g/shaka-player-users",
+  "ideas_url": "",
+  "guide_url": ""
+}

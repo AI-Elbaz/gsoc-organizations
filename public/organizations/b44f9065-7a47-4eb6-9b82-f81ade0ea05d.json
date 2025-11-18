@@ -1,0 +1,94 @@
+{
+  "name": "Waycrate",
+  "url": "https://waycrate.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/waycrate/u6pnvceiilur7iqy-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "security",
+    "graphics",
+    "Wayland",
+    "ScreenCapture",
+    "Desktop Portals"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "rust",
+    "wayland",
+    "Zig"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/waycrate/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "DMA-BUF based high performance backend for screen capture in the libwayshot library",
+          "short_description": "I propose to work on the creation of a DMA-BUF backend for waycrate\u2019s libwayshot screen capture library. Presently libwayshot\u2019s method of...",
+          "student_name": "Sooraj S",
+          "code_url": "https://cheerfulpianissimo.github.io/notes/GSOC/GSOC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LMc5wi9n/"
+        },
+        {
+          "title": "Formalization of SWHKD parser using context-free EBNF notation",
+          "short_description": "This project aims to improve code quality and portability by implementing a new parser using EBNF grammar. We enhance the robustness of the parser...",
+          "student_name": "Himadri Bhattacharjee",
+          "code_url": "https://waycrate.github.io/outreach/gsoc/2024/submissions/project-3-himadri/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qkFDwSOk/"
+        },
+        {
+          "title": "Reiterating SWHKD security model to achieve simpler UX",
+          "short_description": "The current privilege model of the daemon SWHKD is a bit rough and has issues concerning the security and the UX ascepts related with it. The current...",
+          "student_name": "IshanJoshi",
+          "code_url": "https://waycrate.github.io/outreach/gsoc/2024/submissions/project-2-ishan/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uqDBJcJY/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/waycrate",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "swhkd: Provide Libinput as an Alternative Input Backend",
+          "short_description": "This project aims to replace the current backend of swhkd, which uses evdev, to replace it with libinput. Libinput provides better support for common...",
+          "student_name": "Aadil",
+          "code_url": null,
+          "proposal_id": "UkEZWJWt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CGVE5TAy"
+        },
+        {
+          "title": "Introduce RDP support into xdg-desktop-portal-luminous",
+          "short_description": "Xdg-desktop-portal-luminous is a high performance capture portal for wayland compositors that supports frame capture and gpu-copy based frame...",
+          "student_name": "nicolo-mn",
+          "code_url": null,
+          "proposal_id": "7M9WRVF9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CKArO252"
+        },
+        {
+          "title": "Introduce ext_image_capture_source_v1 protocol support in Wayshot and improve security features",
+          "short_description": "This project aims to enhance Wayshot by implementing the newly standardized ext_image_capture_source_v1 Wayland protocol, which provides a...",
+          "student_name": "Rishik Y",
+          "code_url": null,
+          "proposal_id": "u7xYRJTv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Rh2pW6uW"
+        },
+        {
+          "title": "Functional GUI tool for configuring hotkeys visually",
+          "short_description": "The project is to build a fully functional GUI tool for Waycrate using iced-rs for configuring hotkeys visually, rather than editing the...",
+          "student_name": "Shreya Santra",
+          "code_url": null,
+          "proposal_id": "zbcFHMHC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RO6lw1Lc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/KKZRDYrRYW",
+  "contact_email": "mailto:waycrate@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "https://waycrate.github.io/outreach/gsoc/2025/idea-list/",
+  "guide_url": "https://waycrate.github.io/outreach/gsoc/2024/contributor-proposal-guidance/",
+  "twitter_url": "https://twitter.com/waycrate"
+}

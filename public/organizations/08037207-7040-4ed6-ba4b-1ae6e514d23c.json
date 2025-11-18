@@ -1,0 +1,85 @@
+{
+  "name": "Scalable Parallel Computing Laboratory",
+  "url": "https://spcl.inf.ethz.ch/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/scalable-parallel-computing-laboratory/cho0tqlhmykehqlw-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming languages",
+    "high-performance computing",
+    "parallel computing",
+    "Serverless Computing",
+    "faas"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "mpi",
+    "aws",
+    "Serverless"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/scalable-parallel-computing-laboratory",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "[Mpi4py in DaCe] Add support for Mpi4py in DaCe",
+          "short_description": "In this project, my job is to extend the existing Dace Distributed framework to support MPI4PY syntax. This will mainly involve extending the...",
+          "student_name": "Fu-Chiang",
+          "code_url": "https://hackmd.io/@SkwBoWWbTd6IQU2UaDPlvw/r1M_oSH16",
+          "proposal_id": "4OoOzrB1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mgWvuiH2"
+        },
+        {
+          "title": "Libfabric Implementation of rFaaS",
+          "short_description": "RDMA can be implemented with many different network backends, including InfiniBand, RoCE and Soft-RoCE, TCP/IP and UDP via iWarp, Cray GNI, and...",
+          "student_name": "Matt Nappo",
+          "code_url": "http://mattnappo.com/archive/gsoc/",
+          "proposal_id": "5tgWP7Tl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nAscRfXB"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/scalable-parallel-computing-laboratory/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "SeBS: Expanded Benchmarks, New Invocation Methods, Workflows & Container Integration",
+          "short_description": "The project aims to enhance the Serverless Benchmark Suite (SeBS) by implementing multiple invocation mechanisms, complex workflows, and container...",
+          "student_name": "Prajin",
+          "code_url": "https://gist.github.com/prajinkhadka/0bde1968274b4b1be862ffd5f15de131",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tWUsuYNt/"
+        },
+        {
+          "title": "[DaCe-Debug] Retaining Semantic Source Information in Dataflow Representations",
+          "short_description": "The DaCe framework uses the Stateful DataFlow multiGraph (SDFG) data-centric intermediate representation. This graph maps to a variety of...",
+          "student_name": "luca-patrignani",
+          "code_url": "https://gist.github.com/luca-patrignani/cd90b28914a118d3d65c2355511555be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mdJCmWfa/"
+        },
+        {
+          "title": "Using serverless ZooKeeper in Apache projects",
+          "short_description": "FaaSKeeper is a ZooKeeper-like serverless coordination service. It implements standard ZooKeeper functionalities and includes a new client for Python...",
+          "student_name": "Syed Mujtaba",
+          "code_url": "https://github.com/mujtaba1747/gsoc-faaskeeper-work-product/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VgcookyK/"
+        },
+        {
+          "title": "New serverless benchmarks",
+          "short_description": "The serverless computing landscape is constantly evolving with new types of applications and use-cases. To ensure the SeBS benchmarking suite remains...",
+          "student_name": "AbhishekKumar",
+          "code_url": "https://docs.google.com/document/d/1GJ6o7aptEMioItvnc9n3l7rD1MJ4r7UD/edit?usp=sharing&ouid=117723753189823385671&rtpof=true&sd=true",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xfRBXxRs/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.spcl.inf.ethz.ch/signup_user_complete/?id=6iq1jfforpf9tyhdmffi57zpxw",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/spcl_eth"
+}

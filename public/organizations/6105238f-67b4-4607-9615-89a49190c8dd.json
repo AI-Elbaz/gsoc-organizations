@@ -1,0 +1,97 @@
+{
+  "name": "TimVideos.us",
+  "url": "https://code.timvideos.us",
+  "image_url": "https://lh3.googleusercontent.com/EXMCUdZcXXqwFdusWDrQjwkUxDqRcXVzLPvWsjxJdUGKny0uSSvP361cqSqBESHB0zcKHwfQFtzxt71nUqy21b2jEfykUJ0",
+  "image_background_color": "#efefef",
+  "category": "Media",
+  "topics": [
+    "embedded hardware",
+    "live streaming",
+    "video capture",
+    "hardware",
+    "embedded",
+    "video",
+    "fpga"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "verilog",
+    "fpga",
+    "vhdl"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5738600293466112/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Add \"hardware mixing\" support to HDMI2USB firmware",
+          "short_description": "This project aims at the development of a hardware mixer block in the HDMI2USB firmware which can implement mixing of the two input pixel stream as...",
+          "student_name": "ssk1328",
+          "code_url": "https://shashankgangrade.wordpress.com/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5448350430134272/"
+        },
+        {
+          "title": "FX2 firmware support for FTDI emulation",
+          "short_description": "Adding firmware support for FX2 so that libftdi drivers can be used to talk to the device",
+          "student_name": "Sab",
+          "code_url": "https://docs.google.com/spreadsheets/d/11g_5kHMvrNSwYT-GBX_GsV2IUszO5mB3-n3uUau9KUg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5573940374142976/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6543856732471296/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "USB Sound Capture",
+          "short_description": "This project will add USB audio to the HDMI2USB firmware. It will allow the FX2 USB module to present itself as an audio device as well as the...",
+          "student_name": "Kyle Robbertze",
+          "code_url": "https://gsoc.paddatrapper.me/post/gsoc-project-report-usb-sound-capture",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6047262144724992/"
+        },
+        {
+          "title": "Convert the JPEG encoder from VHDL to  Migen/MiSoC",
+          "short_description": "This aim of this project is to convert the JPEG encoder from VHDL to the Migen/Misoc . Different modules of the encoder are been implemented using...",
+          "student_name": "Ishan Bansal",
+          "code_url": "https://gsoc2017blog.wordpress.com/2017/08/27/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5197434682605568/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5082529006616576/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Bit Error Ratio Analyzer using LiteX",
+          "short_description": "Bit error ratio testers are used to test the quality of signal trans-reception. They are routinely used to test boards with high-speed serial links...",
+          "student_name": "Harsh Gugale",
+          "code_url": "https://gsoc2018blog.blogspot.com/2018/08/gsoc-2018-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5655296449970176/"
+        },
+        {
+          "title": "Create a generic debug interface for soft-CPU core (OR1K) and connect it to GDB",
+          "short_description": "This project aims to create a run-control debug system for soft CPU core (OR1K) and add GDB to the system using Open SoC Debug Project. Run-control...",
+          "student_name": "Shivam Aggarwal",
+          "code_url": "https://wp.me/p9SnJX-1K",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4658010479656960/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6213357017759744/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "http://webchat.freenode.net/?channels=%23timvideos",
+  "contact_email": "mailto:contact@timvideos.su",
+  "mailing_list": "https://groups.google.com/forum/#!forum/timvideos/join",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/TimVideosUs",
+  "blog_url": "https://hdmi2usb.tv/news/"
+}

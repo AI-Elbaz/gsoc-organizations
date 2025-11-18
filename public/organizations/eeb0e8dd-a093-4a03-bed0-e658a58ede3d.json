@@ -1,0 +1,217 @@
+{
+  "name": "Performance Co-Pilot",
+  "url": "https://pcp.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/performance-co-pilot/ef66s0dqidt5rfle-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "monitoring",
+    "visualization",
+    "high performance computing",
+    "data analysis",
+    "realtime messaging",
+    "web development",
+    "performance",
+    "kernel",
+    "distributed",
+    "analysis",
+    "timeseries",
+    "lightweight",
+    "metrics",
+    "observability"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "ruby",
+    "golang",
+    "linux kernel",
+    "c",
+    "python",
+    "linux",
+    "windows",
+    "redis",
+    "grafana",
+    "rest",
+    "libuv",
+    "htop",
+    "sysstat"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5989788234547200/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implementation of the PCP instrumentation API in golang",
+          "short_description": "I propose the implementation of an idiomatic golang package that will allow applications written in golang to instrument performance simply by making...",
+          "student_name": "Suyash",
+          "code_url": "https://medium.com/@suyash93/google-summer-of-code-2016-179a6df46d53",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5093214348378112/"
+        },
+        {
+          "title": "PCP versions of console tools",
+          "short_description": "Performance Co-Pilot is a framework which provides measurement for system performance and analysis. There are also several widely used simple tools...",
+          "student_name": "Sitaram Shelke",
+          "code_url": "https://sitaramshelke.me/gsoc16/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6329777845698560/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5840169290694656/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Performance Co-Pilot Project Proposal: Blocked process detection and reporting",
+          "short_description": "When analyzing performance, especially in systems that have multi-core processors, it is important to be able to study how each process performs. To...",
+          "student_name": "Alperen Karaoglu",
+          "code_url": "https://kalperen.github.io/pcp-description-page.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5338172170960896/"
+        },
+        {
+          "title": "Implement a PCP Instrumentation API in Rust",
+          "short_description": "The primary goal of this project is to build a native PCP MMV instrumentation library in Rust with a high-level API that developers can use in their...",
+          "student_name": "Saurav Sachidanand",
+          "code_url": "https://github.com/performancecopilot/hornet/commits/master?author=saurvs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4793296782098432/"
+        },
+        {
+          "title": "Prometheus Metric Exporter / Importer",
+          "short_description": "With\u00a0this\u00a0proposal,\u00a0I\u00a0propose\u00a0to\u00a0implement\u00a0a\u00a0bridge\u00a0between\u00a0Prometheus\u00a0and...",
+          "student_name": "Ronak Jain",
+          "code_url": "https://jronak.github.io/pcp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6543048204877824/"
+        },
+        {
+          "title": "Device Mapper statistics for PCP",
+          "short_description": "It is a project to make the data provided by dmstats available to PCP tools by use of creating PCP PMDA in order to provide flexible IO statistics...",
+          "student_name": "Fumiya Shigemitsu",
+          "code_url": "https://gist.github.com/4ge32/6de49f941be9fc34e1e052258beac61a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4890125209174016/"
+        },
+        {
+          "title": "Custom Graphs in Vector",
+          "short_description": "Vector currently provides us with a set number of widgets which are generally used to monitor performance of the system. The idea is to extend the...",
+          "student_name": "Suvigya Vijay",
+          "code_url": "https://gist.github.com/suvigyavijay/23fc3da2df3016edddc20b7e5f2a7959",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5832694705422336/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4726475278254080/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Mac OS X PCP Installer",
+          "short_description": "The proposal explains how the project \"Mac OS X PCP Installer\" will be completed in the required duration with all the dependencies, requirements and...",
+          "student_name": "Parth Verma",
+          "code_url": "https://gist.github.com/Warewolf96/341e40d5115b227b1a56f007d670e069",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6349166401814528/"
+        },
+        {
+          "title": "Extending BCC support for Performance Co-Pilot and Vector",
+          "short_description": "BCC (BPF Compiler Collection) is a toolkit for efficient kernel tracing using eBPF (extended Berkeley Packet Filters). This project extends the...",
+          "student_name": "Andreas Gerstmayr",
+          "code_url": "https://gist.github.com/andihit/d1d0ebdc0688d1923224e9051894365d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5674053578784768/"
+        },
+        {
+          "title": "Metadata Label Support for instrumented Applications",
+          "short_description": "This project will explore extending a new feature for the Performance Co-Pilot (PCP). PCP is an open source framework at the system level that...",
+          "student_name": "Guillem Lopez Paradis",
+          "code_url": "https://medium.com/@guillem812/google-summer-of-code-2018-final-report-1f0954ff4433",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6257093577277440/"
+        },
+        {
+          "title": "RESP (Redis) support in pmproxy",
+          "short_description": "So as to handle  huge volumes of data generated due to distributed and scalable nature of PCP, Redis an in-memory NoSQL data cache is being used in...",
+          "student_name": "CVN Prajwal",
+          "code_url": "https://gist.github.com/prajwalchalla/a65cc36ccf0fea1b93cddba42d91b6eb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6029147381956608/"
+        },
+        {
+          "title": "PCP Windows Installer",
+          "short_description": "The general goal of this project is to provide perfect user experience for users of Performance Co-Pilot on\nWindows. Now Windows port of Performance...",
+          "student_name": "Andrii Dehtiariov",
+          "code_url": "https://telegra.ph/GSoC-2018-Final-report-PCP-Windows-Installer-08-13",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5140645081513984/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5769836615958528/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "PCP PMDA Agent for StatsD in C",
+          "short_description": "StatsD is simple, text-based UDP protocol for receiving monitoring data of applications in architecture client-server. As of right now, there is no...",
+          "student_name": "Miroslav Folt\u00fdn",
+          "code_url": "https://github.com/Erbenos/pmdastatsd/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4802362500186112/"
+        },
+        {
+          "title": "Integrating bpftrace with Performance Co-Pilot and Vector",
+          "short_description": "bpftrace is a high-level tracing language for efficient kernel tracing using eBPF (extended Berkeley Packet Filters). This project creates a new PMDA...",
+          "student_name": "Andreas Gerstmayr",
+          "code_url": "https://www.andreasgerstmayr.at/gsoc2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6273490250891264/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5233572744527872/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Timeseries query language extension",
+          "short_description": "The Performance Co-Pilot (PCP) timeseries are series of time-stamped values gathered from hosts making performance data available. Clients obtain...",
+          "student_name": "Yushan Zhang",
+          "code_url": "https://elephantzhang.github.io/2020/05/08/Google-Summer-of-Code-Timeseries-query-language-extension-for-PCP/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4764826053640192/"
+        },
+        {
+          "title": "Extending the Grafana Integration of Performance Co-Pilot",
+          "short_description": "Goal of this project is to improve and build upon existing Grafana intergration for Performance Co-Pilot.\n\nDeveloping a reactive dashboard  and using...",
+          "student_name": "Miroslav Folt\u00fdn",
+          "code_url": "https://github.com/Erbenos/gsoc-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4890837676195840/"
+        },
+        {
+          "title": "Improving the pbench integration",
+          "short_description": "This project involves advancing the performance analysis capabilities provided by the PCP integration within the pbench benchmarking and analysis...",
+          "student_name": "Ashwin Nayak U",
+          "code_url": "https://gist.github.com/not4win/7379cf72ffef6d582257315354b70611",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4899821304938496/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/performance-co-pilot/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Generalized columns in Htop",
+          "short_description": "Port BPF tools to Performance Co-Pilot PMDA and implement PCP/Htop DynamicTabs. The Htop utility recently acquired the ability to display multiple...",
+          "student_name": "Sohaib Mohamed",
+          "code_url": "https://gist.github.com/smalinux/e869b376b5c77cacdcda4cb14f027632",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/J0JxiboU/"
+        },
+        {
+          "title": "Timeseries Query Language Extension Proposal",
+          "short_description": "This project is to extend some timeseries functionalities based on the existing query languages. The tasks to be worked on are: 1. grammar extensions...",
+          "student_name": "Shiyao",
+          "code_url": "https://shiyaoc.github.io/yoyo-page/docs/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Cd5gJnrc/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://performancecopilot.slack.com/",
+  "contact_email": "pcp@groups.io",
+  "mailing_list": "https://pcp.io/community.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/performancepcp"
+}

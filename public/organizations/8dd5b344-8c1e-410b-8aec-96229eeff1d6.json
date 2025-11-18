@@ -1,0 +1,45 @@
+{
+  "name": "Open Ephys",
+  "url": "http://www.open-ephys.org",
+  "image_url": "https://lh3.googleusercontent.com/ixQqTj80C233Z7hVvQEI47UOUzmJd7iq6aKKg741y5mzuPc_xz69VynNdaEZasoVMINgNWplp2rXn5FkEIw7i7MPJtVkDGQ",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "neuroscience",
+    "electrophysiology",
+    "ui",
+    "signal processing"
+  ],
+  "technologies": [
+    "c++",
+    "juce"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5166380995313664/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Module to control LED driver for Optogenetic Stimulation",
+          "short_description": "Many users of Open Ephys are using optogenetic tools to manipulate activity in genetically defined neural circuits, but there is currently no way to...",
+          "student_name": "Ananya B",
+          "code_url": "https://gist.github.com/arrow-/08910c0da6d3eddaf2ad581c4a72d786",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5589087918489600/"
+        },
+        {
+          "title": "Plugin generation GUI with visual interface designer",
+          "short_description": "Many scientists around the world use Open Ephys software for acquiring data during neuroscience experiments. The Open Ephys GUI was designed around a...",
+          "student_name": "septen",
+          "code_url": "https://gist.github.com/sept-en/3d61117718bf436725802bbd51c411b6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6021131295260672/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@open-ephys.org",
+  "mailing_list": "http://www.open-ephys.org/contact",
+  "ideas_url": "",
+  "guide_url": ""
+}

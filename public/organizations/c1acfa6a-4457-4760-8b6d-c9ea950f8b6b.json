@@ -1,0 +1,119 @@
+{
+  "name": "CLiPS, University of Antwerp",
+  "url": "https://www.uantwerpen.be/en/research-groups/clips",
+  "image_url": "https://lh3.googleusercontent.com/mFF4t3hpgbKBiyg5vaoj4FYXmKP-MfXQxeql6TJh_7Y4zJiT_rEWhs5phw8Hkchf5nmXDMC7VzQ0y5Da-X2s363V8DoOntVD",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "text analytics",
+    "machine learning",
+    "computational linguistics",
+    "artificial intelligence",
+    "data mining",
+    "natural language processing",
+    "text generation"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "machine learning",
+    "mongodb"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4936781707345920/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Fake News Detection",
+          "short_description": "I am a graduate student in Computational Linguistics with a keen interest in fake news detection.  I propose to build a classifier for detecting...",
+          "student_name": "Masha Ivenskaya",
+          "code_url": "https://github.com/clips/news-audit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5547741878943744/"
+        },
+        {
+          "title": "Modernizing the Pattern library",
+          "short_description": "The purpose of this GSoC project will be to modernize Pattern, a Python library for machine learning, natural language processing (NLP) and web...",
+          "student_name": "Markus Beuckelmann",
+          "code_url": "http://markus-beuckelmann.de/blog/gsoc-2017-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4698291300204544/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6272891540733952/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Seed, Context-Free Generation and Twitter Bots",
+          "short_description": "This project explores the topics of context-free generation,  topic analysis and sentiment analysis.  It focuses on work with Seed (an open-source...",
+          "student_name": "Alexander Rossa",
+          "code_url": "http://www.newsaudit.net/de-escalation_twitterbot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5433873571774464/"
+        },
+        {
+          "title": "Multi Pronged Approach to Text Anonymization",
+          "short_description": "Text Anonymization refers to the processing of text, stripping it of any attributes/identifiers thus hiding sensitive details and protecting the...",
+          "student_name": "Rudresh Panchal",
+          "code_url": "https://github.com/clips/gsoc2018/tree/master/gdpr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6215111412809728/"
+        },
+        {
+          "title": "Pattern 3 Natural Language processing",
+          "short_description": "The idea of the project is to improve the Pattern framework and complete some useful tasks. It's important also to add new functionality and modern...",
+          "student_name": "Maksim Filin",
+          "code_url": "https://docs.google.com/document/d/1fnurIKe4ebAfDHtWLxf_wtrP6rQkn7sh2hdhM0BAkWU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6526264076664832/"
+        },
+        {
+          "title": "Sentiment analysis of figurative language in political tweets",
+          "short_description": "I aim to develop a sentiment analysis sub-tool for classifying the polarity of political tweets containing figurative language (most likely idioms...",
+          "student_name": "Maja_Gwozdz",
+          "code_url": "https://mkg33.blogspot.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6322472374763520/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5344579304292352/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Adversarial Examples for Natural Language Models",
+          "short_description": "Meaningful Adversarial Examples for Natural Language Models\nA project to create adversarial examples and resulting counterfactuals for text...",
+          "student_name": "Panagiotis Lantavos",
+          "code_url": "https://github.com/clips/gsoc2019_bias",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5085305600737280/"
+        },
+        {
+          "title": "Hate Speech Annotation and Automatic Assessment: Resource and Best Practices Development",
+          "short_description": "In the wake of the research I have undertaken for my Master's degree's thesis on automatic detection and assessment of right-wing extremists' online...",
+          "student_name": "Pierre Vou\u00e9",
+          "code_url": "https://www.newsaudit.net/blog/72",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6211805930586112/"
+        },
+        {
+          "title": "viNLaP: An interactive visualizer for polarized data sources",
+          "short_description": "viNLaP is an interactive and data-driven web dashboard with three modules, each one based on one of these three main analysis: Spatial, Temporal and...",
+          "student_name": "Fabricio I Layedra",
+          "code_url": "https://fabriciolayedra.github.io/vinlap/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4605013836431360/"
+        },
+        {
+          "title": "Cross-language analysis of U.S.-Russian relations via Twitter (Task 3) or early Alzheimer syndrome detection in speech analysis (Task 9)",
+          "short_description": "Cross-language analysis of U.S.-Russian relations (Task 3)\nTweets from US democrats (or just anyone actively opposing Trump's presidency) and Russian...",
+          "student_name": "Anna A. Soboleva",
+          "code_url": "https://ansable.github.io/sexism_detection_in_russian/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4948620229476352/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://www.clips.uantwerpen.be:3001/",
+  "contact_email": "mailto:clips.gsoc@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/clipsua",
+  "blog_url": "https://newsaudit.net"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "FrameNet Brasil (UFJF)",
+  "url": "http://www.ufjf.br/framenetbr-eng/",
+  "image_url": "https://lh3.googleusercontent.com/4LNL-fV4t3l6MZAA2g-OKLB1hn_lhNlLvf11ppHHRlpt5gEDFhfHFNO1vTa1rvysdir88AjTFzg09XaXPP2V-rar-HgWpP-VF4Qxv-X_iPtn",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "natural language processing",
+    "image processing",
+    "multimodality",
+    "natural language understanding",
+    "machine translation",
+    "video processing",
+    "multilinguality",
+    "multimodal communication"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "javascript",
+    "php"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5090343328940032/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Machine Translation Metric leveraging FrameNet",
+          "short_description": "Machine Translation is one of the most essential tasks of Natural Language Processing where a lot of research has been done. There are various...",
+          "student_name": "Debanjana Kar",
+          "code_url": "https://medium.com/@debanjana.kar/frame-based-metric-for-automatic-machine-translation-evaluation-my-journey-in-gsoc-2019-5749f0d21b74?source=friends_link&sk=1eec274567ff753a9704cb785ccb1231",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5259221979889664/"
+        },
+        {
+          "title": "Multi-modal Annotation Tool",
+          "short_description": "I propose to expand the current FrameNet Brasil Web Annotation Tool to allow for users to annotate video, pictures, and audio, in addition to their...",
+          "student_name": "E. P. Hackett",
+          "code_url": "https://drive.google.com/open?id=1xbQh1Bdi77xg7DTJuT_qeFr7-hrrcKVY",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5902293138931712/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5699340439388160/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Multilingual Projections of Semantic Frames and Frame Elements using Modified Existing Parsers and Neural Networks",
+          "short_description": "My proposal aims to accelerate future semantic annotation projection research by creating two main deliverables. First, before the GSoC 2020 starts,...",
+          "student_name": "Zheng Xin Yong",
+          "code_url": "https://github.com/FrameNetBrasil/webtool/blob/gsoc2020_1/GSoC2020/weekly_reports/final_deliverables.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5277127974322176/"
+        },
+        {
+          "title": "New Frame-Based Image and Video Annotation Pipeline for the FrameNet Brasil Web Annotation Tool",
+          "short_description": "The main motivation for this project is to create a more automated and simplified video  annotation pipeline using both image and textual data for...",
+          "student_name": "Prishita Ray",
+          "code_url": "https://medium.com/@prishita.r85/a-new-frame-based-image-and-video-annotation-pipeline-my-gsoc-20-project-6daa9fe5f391",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4857286331203584/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6046169112772608/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Automatic Qualia Extraction and Annotation Tools",
+          "short_description": "The proposed project is concerned with the implementation Automatic Generation of Qualia Relations between Lexical Units in FrameNet. The main point...",
+          "student_name": "Aleksey Dorkin",
+          "code_url": "https://github.com/FrameNetBrasil/gsoc2021_qualia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5157954642247680/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://framenetbrgsoc.slack.com/",
+  "contact_email": "mailto:projeto.framenetbr@ufjf.edu.br",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/FrameNetBrasil"
+}

@@ -1,0 +1,158 @@
+{
+  "name": "Accord Project",
+  "url": "https://accordproject.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/accord-project/1q3vpch01xpsriu9-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "ai",
+    "legal",
+    "smart contracts",
+    "blockchain",
+    "natural language processing",
+    "data modeling",
+    "legal technology",
+    "contract management",
+    "document assembly"
+  ],
+  "technologies": [
+    "javascript",
+    "react",
+    "compiler",
+    "ocaml",
+    "coq",
+    "python",
+    "json",
+    "artificial intelligence"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5947521500708864/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Cicero Word Add-In",
+          "short_description": "A Cicero extension for Microsoft Word will enable lawyers to write \u201cSmart Legal Contracts\u201d  directly on the Word document itself. This will extend...",
+          "student_name": "Aman Sharma-1",
+          "code_url": "https://accordproject.org/news/gsoc-2020-cicero-word-add-in/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5107817310060544/"
+        },
+        {
+          "title": "WASM support for Accord Project Templates",
+          "short_description": "Implement a new Web Assembly compiler backend for Accord Project's smart contract language (Ergo). This will allow Accord Project users to deploy...",
+          "student_name": "Patrik Keller",
+          "code_url": "https://github.com/accordproject/ergo/pull/777",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5212233333735424/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4826533859950592/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "CiceroMark<->OOXML",
+          "short_description": "The project aims at dealing with the conversion of CiceroMark to DOCX (OOXML) and vice versa. In the first portion, we are gonna improve the add-in...",
+          "student_name": "Kushal Kumar",
+          "code_url": "https://accordproject.org/news/gsoc-2021-ciceromark-ooxml-roundtrip-conversion/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6365179587067904/"
+        },
+        {
+          "title": "Automatic Identification And Classification of Contract Data Types with NLP",
+          "short_description": "Mapping between the natural language text of a contract and attempting to classify data types such as monetary amounts, dates and legal specific...",
+          "student_name": "EasonC13",
+          "code_url": "https://github.com/accordproject/labs-cicero-classify",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5699091228524544/"
+        },
+        {
+          "title": "Signing Template and Signing Contracts",
+          "short_description": "The project aims at developing a feature wherein the template developers can sign the templates (to authenticate the source) they developed. The...",
+          "student_name": "Sanket Shevkar",
+          "code_url": "https://sanketshevkar.github.io/gsoc-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4719780132552704/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/accord-project/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Alias Support: Enhancing Model Flexibility in Concerto",
+          "short_description": "The objective of this project is to provide alias support in concerto language . For example import statement like \"import {document as d} from...",
+          "student_name": "<jaskeerat>",
+          "code_url": "https://accordproject.org/news/gsoc-2024-alias-support-for-concerto",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7ZJTW2PX/"
+        },
+        {
+          "title": "Model Creation AI Assistant (Co-Pilot): Kshitij Pathania",
+          "short_description": "The objective of this proposal is to design and implement an in-context AI assistant, named Co-Pilot, tailored for assisting users in creating...",
+          "student_name": "Kshitij Pathania",
+          "code_url": "https://accordproject.org/news/gsoc-2024-model-creation-ai-assistant-co-pilot/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BFaXoqVC/"
+        },
+        {
+          "title": "ACCORD Project Template Playground",
+          "short_description": "Accord Project Playground: Empowering Developers Through Interactive Learning Problem: The Accord Project offers powerful functionalities for smart...",
+          "student_name": "Vinyl Davyl",
+          "code_url": "https://accordproject.org/news/gsoc-2024-template-playground-development/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iY7TZu99/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/accord-project",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Linter for Concerto",
+          "short_description": "Configurable linter for Concerto (used in Accord Project for contract data models) validates syntax and AST against a set of rules, written with...",
+          "student_name": "Ahmed Gaper",
+          "code_url": null,
+          "proposal_id": "rMXVO6rj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nXoLhssM"
+        },
+        {
+          "title": "Incorporating AI into Template Playground",
+          "short_description": "The project aims to incorporate AI features into Template Playground to facilitate the creation of Templates and Concerto models. The ability to...",
+          "student_name": "Akshat-Batra",
+          "code_url": null,
+          "proposal_id": "htGHK2pA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HN4nACxp"
+        },
+        {
+          "title": "Specification Conformance Tests",
+          "short_description": "Concerto, the core modeling language of the ACCORD PROJECT, is critical for smart legal contracts and domain modeling. This project aims to migrate...",
+          "student_name": "Anshukumar123975",
+          "code_url": null,
+          "proposal_id": "Hz1eBvmZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HXlbSlM3"
+        },
+        {
+          "title": "Decorator Command Set JSON <-> YAML Converter",
+          "short_description": "The goal of this project is to enhance the usability of Decorator Command Set (DCS) data by developing a utility/method to convert verbose, complex...",
+          "student_name": "Asmit Phuyal",
+          "code_url": null,
+          "proposal_id": "HGOR5VDd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QXIwAMbZ"
+        },
+        {
+          "title": "Migration of Template Playground to use Tailwind CSS & Playground Redesign",
+          "short_description": "Template Playground is a web-based tool that allows users to create, edit, and test smart legal contract templates. Currently, the application relies...",
+          "student_name": "Mahesh Patil",
+          "code_url": null,
+          "proposal_id": "OVjOmjdl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jxFIqloY"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/Zm99SKhhtA",
+  "contact_email": "mailto:admin@accordproject.org",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/accordproject/techdocs/wiki/Google-Summer-of-Code-2025-Ideas-List",
+  "guide_url": "https://github.com/accordproject/techdocs/blob/master/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/accordhq",
+  "blog_url": "https://accordproject.org/news"
+}

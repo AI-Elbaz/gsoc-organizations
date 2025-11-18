@@ -1,0 +1,85 @@
+{
+  "name": "SQLancer",
+  "url": "https://www.sqlancer.com",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/sqlancer/hzunjobwazuptdb6.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "fuzzing",
+    "Automated Testing",
+    "Logic bugs",
+    "Database systems"
+  ],
+  "technologies": [
+    "java",
+    "sql"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/sqlancer",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Automated Test Case Reduction for SQLancer with delta-debugging and SQL parser-tree transforms",
+          "short_description": "SQLancer randomly generates test cases consisting of potentially hundreds or thousands of SQL statements. In order to efficiently identify bugs in...",
+          "student_name": "Yutan Yang",
+          "code_url": "https://gist.github.com/ColinYoungTaro/df271b8683b526a6a73b568ce721b5e2",
+          "proposal_id": "ExhDoiyn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MYC1ttkZ"
+        },
+        {
+          "title": "Adding Support for and Testing New Database Systems",
+          "short_description": "SQLancer is an open-source tool for testing the correctness of SQL database systems and supports close to 20 database systems. The goal of this...",
+          "student_name": "Zhenglin Li",
+          "code_url": "https://docs.google.com/document/d/1XBVfTxIowdyAxpO14UXHj0KKRJIpo4NrsC7qIAbGlS8/edit?usp=sharing",
+          "proposal_id": "bzbOo9Q1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cLw871Fm"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/sqlancer",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Integrating Published Testing Approaches into SQLancer",
+          "short_description": "SQLancer is a tool to automatically test Database Management Systems (DBMSs) in order to find bugs in their implementation. That is, it finds bugs in...",
+          "student_name": "Dongqiao Huang",
+          "code_url": null,
+          "proposal_id": "4g8eut2m",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dXStZ2I1"
+        },
+        {
+          "title": "Enhancing SQLancer with External Reducer Support and Hierarchical Delta Debugging",
+          "short_description": "SQLancer\u2019s current test case reduction framework faces three key limitations: (1) tight coupling between internal reducers (Delta Debugging and...",
+          "student_name": "Jinhui Xu",
+          "code_url": null,
+          "proposal_id": "c82R8Guq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LNNO9Bcf"
+        },
+        {
+          "title": "Supporting Automated Scripts for DBMS Deployment",
+          "short_description": "This proposal addresses the complexity of deploying DBMS instances for testing with SQLancer\u2014an issue that makes it challenging for beginners and...",
+          "student_name": "Leyao Liu",
+          "code_url": null,
+          "proposal_id": "gi5NMKR3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/u7MUhGUF"
+        },
+        {
+          "title": "Adding Support for the Latest Postgres Version",
+          "short_description": "SQLancer is a tool that automatically tests DBMS in order to find bugs in their implementations. As of right now, SQLancer supports many great...",
+          "student_name": "Yaojie Jia",
+          "code_url": null,
+          "proposal_id": "jgsQvisO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tvKWpQx8"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/sqlancer/shared_invite/zt-eozrcao4-ieG29w1LNaBDMF7OB_~ACg",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/sqlancer/sqlancer/wiki/GSoC-2025-Ideas",
+  "guide_url": "https://github.com/sqlancer/sqlancer/wiki/GSoC-2025-Ideas#contributor-guidance",
+  "twitter_url": "https://twitter.com/sqlancer_dbms"
+}

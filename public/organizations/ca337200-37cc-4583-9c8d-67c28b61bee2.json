@@ -1,0 +1,172 @@
+{
+  "name": "Kotlin Foundation",
+  "url": "https://kotlinfoundation.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kotlin-foundation/2wyghqyy8nvvl4cq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming languages",
+    "software development",
+    "libraries",
+    "Programming & Build Tools"
+  ],
+  "technologies": [
+    "gradle",
+    "kotlin",
+    "jvm",
+    "Parsers & Compilers",
+    "Multiplatform"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/kotlin-foundation",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Kotlin Multiplatform Library Version of Flogger",
+          "short_description": "The project aims to create a Kotlin Multiplatform Library version of Flogger, which is a popular logging library for Java. The new library will work...",
+          "student_name": "Giancarlo Buenaflor",
+          "code_url": "https://github.com/buenaflor/KFlogger",
+          "proposal_id": "bc1kxU4f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/O3J16iTy"
+        },
+        {
+          "title": "Enhance the kotlinx-benchmark library API and user experience",
+          "short_description": "This proposal focuses on enhancing the kotlinx-benchmark library API and user experience, fostering community growth and collaboration in Kotlin...",
+          "student_name": "HenokW",
+          "code_url": "https://gist.github.com/wldeh/cf92dcd0550b640145732e55d883fe57",
+          "proposal_id": "5FEmLvxF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nvBREuSR"
+        },
+        {
+          "title": "Eclipse Gradle KTS editing",
+          "short_description": "Project focused on improving the user experience of editing Gradle Kotlin Scripts (KTS) in Eclipse. With contributions to the Gradle Eclipse plugin,...",
+          "student_name": "Nikolai Vladimirov",
+          "code_url": "https://gist.github.com/D0zee/90b63a9cfd2edb7a039f111e2406f5b8",
+          "proposal_id": "w8srC8TI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yzuvb693"
+        },
+        {
+          "title": "Parallel stacks for Kotlin Coroutines in the debugger",
+          "short_description": "This project is focused on enhancing the functionality of Kotlin Coroutines by developing parallel stacks for use in the debugger. The goal is to...",
+          "student_name": "Raehat Singh Nanda",
+          "code_url": "https://medium.com/@raehatsinghnanda/parallel-stacks-for-kotlin-coroutines-in-the-debugger-d3099eb3a9c2",
+          "proposal_id": "1yzGi9cy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PVTFNSvL"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/kotlin-foundation/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Gradle Build Server \u2013 adding support for Android projects",
+          "short_description": "This project enhanced Gradle Build Server for Android development by implementing composite build support, improving Java Home handling, and...",
+          "student_name": "Tanish Ranjan",
+          "code_url": "https://community.gradle.org/events/gsoc/2024/gradle-build-server-android/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Guphkt1v/"
+        },
+        {
+          "title": "Support Android target in kotlinx-benchmark",
+          "short_description": "This GSoC 2024 Kotlin project proposal aims to enable kotlinx-benchmark support for the Android platform. The project will enhance the...",
+          "student_name": "Qizhao Chen",
+          "code_url": "https://gist.github.com/kx412764776/234fab4ee9c33fe004b5db2965e7f00f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/d7VH8Um1/"
+        },
+        {
+          "title": "Compose Multiplatform component gallery generator",
+          "short_description": "This project aims to address the challenge of testing and ensuring consistency across @Composable components in Compose Multiplatform projects. The...",
+          "student_name": "WhiteScent23",
+          "code_url": "https://github.com/Kotlin/Storytale",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ukbrVzY3/"
+        },
+        {
+          "title": "Incremental Compilation for the Kotlin/Wasm Compiler",
+          "short_description": "Incremental compilation is a technique that helps increase compilation speed by recompiling only changed files instead of your whole program (also...",
+          "student_name": "Osama Ahmad",
+          "code_url": "https://github.com/JetBrains/kotlin/tree/yakovlev/incremental_base",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CRQfPZXS/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kotlin-foundation",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Gradle Convention Plugin for Developing Jenkins Plugins",
+          "short_description": "This project aims to modernize Jenkins plugin development using Gradle by updating the existing Gradle JPI plugin and introducing a new convention...",
+          "student_name": "Aarav Mahajan",
+          "code_url": null,
+          "proposal_id": "EQxVYxe2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3ujOIGDx"
+        },
+        {
+          "title": "Build a Modern, Compiler-Integrated Kotlin Language Server",
+          "short_description": "This project aims to build a high-performance, build-system agnostic Kotlin Language Server using the Kotlin Analysis API. The goal is to replace the...",
+          "student_name": "Hemram",
+          "code_url": null,
+          "proposal_id": "QF6Y9zyL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Y8cK79RJ"
+        },
+        {
+          "title": "Add Kotlin Multiplatform support in Bazel",
+          "short_description": "Currently, setting up Kotlin Multiplatform projects in Bazel is cumbersome and error-prone. By adding a kt_multiplatform() macro, enhancing...",
+          "student_name": "mruchika29",
+          "code_url": null,
+          "proposal_id": "rSDK6aka",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ndgAJh0J"
+        },
+        {
+          "title": "Improving Configuration Cache and lock contention in key  Gradle plugins",
+          "short_description": "This project aims to improve Gradle's build performance by enhancing Configuration Cache support and reducing resource contention in key plugins like...",
+          "student_name": "Nouran Atef",
+          "code_url": null,
+          "proposal_id": "tUUKJ4MO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/chp2Sbei"
+        },
+        {
+          "title": "Support Android and iOS targets in Kotlin Multiplatform for Gemini using Vertex AI in Firebase",
+          "short_description": "This project aims to address the challenge of creating a seamless and efficient integration between Gemini and Vertex AI in Firebase for Android and...",
+          "student_name": "SeanChinJunKai",
+          "code_url": null,
+          "proposal_id": "0zCXorBE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ow6J6ami"
+        },
+        {
+          "title": "Enhanced Kotlin Code Quality Reporting with Gradle Problem API: Integration with Detekt and Ktlint",
+          "short_description": "As developers, we always favor tools that enhance and streamline the programming process, including plugins that provide error reporting and insights...",
+          "student_name": "Vanessa Johnson",
+          "code_url": null,
+          "proposal_id": "4Ml2E7RP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4UqgKDMe"
+        },
+        {
+          "title": "IntelliJ Platform Gradle Plugin \u2013 Gradle Reporting and Parallel Verifications",
+          "short_description": "The IntelliJ Platform Gradle Plugin, the official Gradle plugin for building, testing, verifying, configuring environments, and publishing plugins...",
+          "student_name": "Victoria Chuks Alajemba",
+          "code_url": null,
+          "proposal_id": "9QxU9UOP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lJoAo8B7"
+        },
+        {
+          "title": "Maven Central publishing plugin for Gradle with new APIs",
+          "short_description": "The migration to Maven Central's new API instance has introduced significant changes, requiring specialized support in Gradle plugins for seamless...",
+          "student_name": "Yongjun Hong",
+          "code_url": null,
+          "proposal_id": "cvEIbQPz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zCRWjfpd"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack-chats.kotlinlang.org/c/gsoc",
+  "contact_email": "mailto:gsoc@kotlinfoundation.org",
+  "mailing_list": "",
+  "ideas_url": "https://kotlinlang.org/docs/gsoc-2025.html",
+  "guide_url": "https://kotlinlang.org/docs/gsoc-overview.html",
+  "twitter_url": "https://twitter.com/kotlin",
+  "blog_url": "https://blog.jetbrains.com/kotlin/"
+}

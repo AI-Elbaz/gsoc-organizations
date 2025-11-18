@@ -1,0 +1,51 @@
+{
+  "name": "dora-rs",
+  "url": "https://dora-rs.ai",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/dora-rs-tb/u8emntrmqq6vgcih-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "middleware",
+    "Embodied AI",
+    "Python Robotics",
+    "Autonomous Drive",
+    "Robot Dataflow"
+  ],
+  "technologies": [
+    "python",
+    "ros",
+    "c++",
+    "rust",
+    "Autonomous drive"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/dora-rs-tb",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Robot Data Collection improvement",
+          "short_description": "This project aims to enhance robot data collection using affordable kits and the Dora framework. It involves building a modular MuJoCo simulation for...",
+          "student_name": "Shashwat Patil",
+          "code_url": null,
+          "proposal_id": "7UT7UV4a",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JzWj3E87"
+        },
+        {
+          "title": "Improve Dora-Lerobot Demo Tutorial and Support additional hardware",
+          "short_description": "Lerobot is a framework for rapidly developing embodied intelligent robots, which includes classic imitation learning strategies such as ACT and...",
+          "student_name": "Xiang Yang",
+          "code_url": null,
+          "proposal_id": "K90iTZAI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bS0earbh"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:huangyu@dora-rs.org",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/dora-rs/dora/wiki/GSoC_2025",
+  "guide_url": "https://github.com/dora-rs/dora/blob/main/CONTRIBUTING.md",
+  "blog_url": "https://x.com/bobd98846595?t=b3gA64CFMvmEF-0sIKrNsA&s=09"
+}

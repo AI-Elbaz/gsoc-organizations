@@ -1,0 +1,127 @@
+{
+  "name": "Portland State University",
+  "url": "http://wiki.cs.pdx.edu/psu-gsoc",
+  "image_url": "https://lh3.googleusercontent.com/sAIPHC0hT4utSZW0pR7kqUAbtNkZZJivcSJZrbA15Cs6adP4oxthezndn2EffbpBLBN-2lSyz-pHYjqiIvfZAqMrUWClvnw",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "new projects",
+    "academic projects",
+    "individual projects"
+  ],
+  "technologies": [
+    "open hardware",
+    "language-agnostic"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5206770867765248/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Python Interface for VLFeat Library",
+          "short_description": "VLFeat Library implements popular computer vision algorithms specialising in image understanding and local features extraction and matching. ...",
+          "student_name": "machinex",
+          "code_url": "https://gsoc2016.wordpress.com/2016/08/19/cythonpython-wrapper-for-vlfeat-library-cyvlfeat-project-status/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5655793323999232/"
+        },
+        {
+          "title": "Variable Segment Length Bitmap Compression",
+          "short_description": "Last summer under Google Summer of Code, I coded the commonly used WAH (Word-Aligned Hybrid) compression algorithm in C under the direction of David...",
+          "student_name": "aingerson",
+          "code_url": "https://github.com/aingerson/GSoC_2016_Compressor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6165966719287296/"
+        },
+        {
+          "title": "Displaying SUBSURFACE features in the virtual world using NASA's WorldWind",
+          "short_description": "Virtual worlds like Google Earth or NASA WorldWind do not show subsurface features with negative elevation. This projects aims to be a...",
+          "student_name": "Devansh T Shah",
+          "code_url": "http://devansh-psu-2016.blogspot.in/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6246763644059648/"
+        },
+        {
+          "title": "Amazon Echo Recipe Integration",
+          "short_description": "As someone who loves to cook, I wish that the Amazon Echo could provide recipes while cooking so this summer I'll be working to integrate an open...",
+          "student_name": "Hannah Pedersen",
+          "code_url": "https://github.com/hpedskis/google-summer-of-code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4717969498177536/"
+        },
+        {
+          "title": "GIFScript: A tool for scripting technical GIF animations",
+          "short_description": "Graphical animations are powerful tools for delivering ideas to an audience quickly and effectively. Very simple animations can often efficiently...",
+          "student_name": "ntrstd",
+          "code_url": "https://github.com/abyardim/GIFScript/releases/tag/v1.0.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5855207313375232/"
+        },
+        {
+          "title": "ruby_curry : A compiler implementation for Curry built in Ruby",
+          "short_description": "Curry is a functional logic programming language that combines the most appealing features of the functional and logic programming paradigms. There...",
+          "student_name": "karthiksenthil",
+          "code_url": "https://github.com/karthiksenthil/ruby_curry/commits/master?author=karthiksenthil",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5218342314967040/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5827042528460800/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "SVG Digital Halftoning",
+          "short_description": "Digital halftoning refers to the process of converting a continuous-tone image or photograph into a pattern of black and white picture elements for...",
+          "student_name": "Abhishek Sehgal",
+          "code_url": "https://github.com/abhishek-sehgal954/Inkscape_extensions_for_halftone_filters",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6452015836168192/"
+        },
+        {
+          "title": "Creation of an NLP Toolbox for Indian Languages",
+          "short_description": "Creation of an NLP Toolkit to deal with Indian languages. I shall start with Hindi first and then follow it up with Bengali over the course of...",
+          "student_name": "djokester",
+          "code_url": "https://github.com/djokester/sangita",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6139887946301440/"
+        },
+        {
+          "title": "VoteChain",
+          "short_description": "For the last few years we've seen an ongoing debate around the security of voting: Be it the incident in Florida[1] during 2000's election or the...",
+          "student_name": "Te\u00f3genes Moura",
+          "code_url": "https://github.com/teogenesmoura/votechain",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6146004516601856/"
+        },
+        {
+          "title": "Aligning Faces Using OpenCV",
+          "short_description": "Aim of the project is to implement the state of the art technique on Face Alignment i.e. \"One Millisecond Face Alignment with an Ensemble of...",
+          "student_name": "Saksham Gupta",
+          "code_url": "https://github.com/sakshamgupta006/face_align",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5283823117926400/"
+        },
+        {
+          "title": "driveraker",
+          "short_description": "Static Page Site Generator with Google Drive as a Content Management System. Using Pandoc, Google Drive via the drive go client, and Hugo to create a...",
+          "student_name": "Gatlin Newhouse",
+          "code_url": "https://github.com/gatlinnewhouse/driveraker",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6520078451343360/"
+        },
+        {
+          "title": "Double Bottom USB Stick (USB Flash Drive with possibility to conceal information)",
+          "short_description": "I propose to create a USB Flash Drive with the possibility to conceal the fact that the flash drive contains hidden information. I mean that hidden...",
+          "student_name": "Oleksandr Borysov",
+          "code_url": "https://github.com/Lrakulka/Double_Bottom_USB_Stick",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5906524656369664/"
+        },
+        {
+          "title": "Book Description extension for Inform 7",
+          "short_description": "Interactive Fiction programs have been around for a while, http://www.ifiction.org/ is a website that holds many of the classics released for DOS,...",
+          "student_name": "andrralv",
+          "code_url": "https://gitlab.com/andrralv/i7-books/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5227181089226752/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:psu-gsoc-2017@googlegroups.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://psu-gsoc-info.blogspot.com/"
+}

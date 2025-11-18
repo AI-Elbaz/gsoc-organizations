@@ -1,0 +1,44 @@
+{
+  "name": "Halide",
+  "url": "https://halide-lang.org",
+  "image_url": "https://lh3.googleusercontent.com/d_WqjV9BKPD1voyOi9cHsmvcso0g7ZrM64byWVK6aMdgg70uYwoknk0xbSkZodrPfyYEsTduI5-6jcBLiJeMxC5t2r8A4wKsa_MIeXGOqAkF",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "computer vision",
+    "graphics",
+    "high-performance computing"
+  ],
+  "technologies": [
+    "llvm",
+    "c++"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5630773431894016/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Performance Tracking in CI",
+          "short_description": "Create a web application that integrates with an existing buildbot infrastructure to fully automatically track the performance of many aspects of...",
+          "student_name": "Jack FENG",
+          "code_url": "https://docs.google.com/document/d/1kAiHR9gQgI3bJUuDoFagOnJSbH1j0To__wLqPAyY-T0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5726075971174400/"
+        },
+        {
+          "title": "Assessing the Performance Effects of Adding New Synthesized Rewrite Rules to Halide",
+          "short_description": "Halide is a programming language that facilitates writing high-performance image processing pipelines. Its compiler internally uses a Term Rewriting...",
+          "student_name": "Evan Lee",
+          "code_url": "https://sites.google.com/view/gsoc-21-halide-rewrite-rules/home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5281044479082496/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/halide/Halide",
+  "contact_email": "mailto:halide-gsoc2021-mentors@mit.edu",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

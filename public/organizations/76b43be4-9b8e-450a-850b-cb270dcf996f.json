@@ -1,0 +1,55 @@
+{
+  "name": "GCP Scanner",
+  "url": "https://github.com/google/gcp_scanner/wiki/Google-Summer-of-Code-2023",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gcp-scanner/llfil1bsqmtp4cyj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "automation",
+    "scanning",
+    "google cloud"
+  ],
+  "technologies": [
+    "python",
+    "google cloud"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gcp-scanner",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Code Refactoring & Parallelization",
+          "short_description": "Currently, GCP Scanner does not support the parallel enumeration of GCP resources and parallel scanning of GCP targets. This project is aimed to...",
+          "student_name": "peb",
+          "code_url": "https://github.com/google/gcp_scanner/wiki/GSoC-2023-%E2%80%90-Code-Refactoring-and-Parallelization",
+          "proposal_id": "xa1X8xhr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/K9S1VvIa"
+        },
+        {
+          "title": "Expanding Support for GCP Resources with Modularized Crawler",
+          "short_description": "GCP Scanner is a crucial tool for security engineers, providing insights into the access levels of various GCloud credentials. This project proposal...",
+          "student_name": "Sudipto Baral",
+          "code_url": "https://summerofcode.sudiptobaral.com/",
+          "proposal_id": "imiCzxoN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mt5Rm2H9"
+        },
+        {
+          "title": "Results Visualization For GCP Scanner",
+          "short_description": "This project aims to implement a web single-page application to visualize the output of the GCP scanner tool. The app should make it easier for users...",
+          "student_name": "Yahia Zakaria",
+          "code_url": "https://github.com/google/gcp_scanner/wiki/GSoC-2023-%E2%80%90-Results-Visualization-For-GCP-Scanner-Output",
+          "proposal_id": "x6ELxksN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yNwMCgJJ"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://mail.google.com/chat/u/0/#chat/space/AAAASZhS34E",
+  "contact_email": "mailto:gcp_scanner@google.com",
+  "mailing_list": "https://groups.google.com/g/gcp-scanner",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/mshudrak"
+}

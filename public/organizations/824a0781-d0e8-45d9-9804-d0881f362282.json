@@ -1,0 +1,67 @@
+{
+  "name": "Open Detection",
+  "url": "http://opendetection.com",
+  "image_url": "https://lh3.googleusercontent.com/iQnB3bLxuBT0oQgjrJtWgD6FjJpenOT8crAYRRDnwfkBxDMqEVIFqaba4lPfNSCPCKeWyu1Lf0orHbVQ_EaSL8dA8NiY6g",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "machine learning",
+    "computer vision",
+    "ai"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "opencv",
+    "cmake",
+    "caffe",
+    "pcl"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4634560427982848/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Framework design and library maintenance",
+          "short_description": "The main goal of this project is to reshape the current library in such a way that it becomes easily expandable, usable and able to achieve high...",
+          "student_name": "Giacomo Dabisias",
+          "code_url": "http://opendetection.com/gsoc2016_blog_giacomo.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6392816422879232/"
+        },
+        {
+          "title": "CNN based object localization and recognition for openDetection library",
+          "short_description": "The proposal mainly focuses on Convolutional Neural Network based  object detection module to be integrated with the openDetection library. The...",
+          "student_name": "Abhishek Kumar Annamraju",
+          "code_url": "http://opendetection.com/gsoc2016_blog_abhishek.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6210728331575296/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6015282623545344/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Opendetection - Improving the Framework for CNNs for 2D Detection",
+          "short_description": "Open Detection is a standalone open source project for object detection and recognition in images and 3d point clouds. In this proposal, I first make...",
+          "student_name": "Xiongtao Chen",
+          "code_url": "https://github.com/Patrickcxt/opendetection/tree/gsoc17-cxt",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6391784288550912/"
+        },
+        {
+          "title": "Adding CNN based classifiers and Detectors",
+          "short_description": "Adding CNN based classifiers and dectors to the OpenDetection framework. This requires implementation of training methods and detection methods for...",
+          "student_name": "Gautam Malu",
+          "code_url": "https://gist.github.com/gautamMalu/8b4168380d870c416b11d310ea94d961",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5511542283960320/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:kripasindhu.sarkar@dfki.de",
+  "mailing_list": "https://groups.google.com/forum/#!forum/opendetection/",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,185 @@
+{
+  "name": "MBDyn",
+  "url": "http://www.mbdyn.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mbdyn/ambfdghkrcyizd8l-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "engineering",
+    "real time",
+    "simulation",
+    "physics",
+    "science",
+    "numerical methods",
+    "mechanics",
+    "aerospace",
+    "linear algebra",
+    "mechanical engineering",
+    "aeronautics",
+    "multibody dynamics",
+    "aerodynamics",
+    "scientific computing",
+    "automotive",
+    "computational mechanics",
+    "aeroelasticity",
+    "multiphysics",
+    "Structural engineering"
+  ],
+  "technologies": [
+    "c++",
+    "python",
+    "scripting",
+    "c"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6241651022364672/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Cycloidal rotor module improvements",
+          "short_description": "The cyclocopter module currently available in MBDyn models the inflow of a cycloidal rotor. It is however limited to 2D aerodynamics models;...",
+          "student_name": "kulluiitb",
+          "code_url": "https://drive.google.com/open?id=0B9x_nh0D_HhzMVViWk03bi0tZms",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6614970385039360/"
+        },
+        {
+          "title": "FMI model exchange and co-simulation standard",
+          "short_description": "The Functional Mockup Interface (FMI) is a tool independent standard for the exchange of dynamic\nmodels and for co-simulation. The main objective of...",
+          "student_name": "darkrai",
+          "code_url": "https://github.com/devyeshtandon/moduleFMU/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4876583177289728/"
+        },
+        {
+          "title": "Step Size Control",
+          "short_description": "Implementation of an error estimator and automatic step size control.",
+          "student_name": "ankit12105012",
+          "code_url": "https://gist.github.com/AnkitAggarwalPEC/7f5cd8b566c935e4c312083daa0ac1bf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5919116963610624/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6633793616084992/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Blendyn",
+          "short_description": "This project deals with improving and updating the capabilities of Blendyn, a post-processor for MBDyn.\nSome of the major deliverable for this...",
+          "student_name": "VSN Reddy Janga",
+          "code_url": "https://medium.com/@janga1997/blendyn-the-post-processor-for-mbdyn-1e1d8e33695d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5518252901924864/"
+        },
+        {
+          "title": "Flight Dynamics Module, interaction with Flight Gear",
+          "short_description": "Development of a MBDyn interface from-and-to Flight Gear, that easily lets to get current values of any arbitrary field from the Flight Gear Property...",
+          "student_name": "Luca Conti",
+          "code_url": "https://drive.google.com/drive/folders/0B-cxhr5OSUMMMlZuX3ZRaGk1cnc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5367918577582080/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6496732601384960/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "CAD GUI pre-processor",
+          "short_description": "MBDyn is a multibody dynamics solver which comes without any default graphical user interface for pre- and post-processing. This project is aimed at...",
+          "student_name": "Aditya Bhagat",
+          "code_url": "https://gitlab.com/zanoni-mbdyn/mbdynfreecadgui/wikis/gsoc/2019-aditya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6685734382075904/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4670622791106560/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "A user-defined run-time loadable module template for co-simulation with Chrono::Engine",
+          "short_description": "Due to increasingly complex coupling problems in engineer fields, it is significant to provide supports for co-simulation with other software in...",
+          "student_name": "runsen Zhang",
+          "code_url": "https://gist.github.com/ZhangRunsen/d522f018a7302455ea2abda4c66e7b02",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5555418400555008/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4862926560690176/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Convergence Criteria",
+          "short_description": "The convergence is assessed by calculating norm of the residual vector and currently the residual vector has many terms with different physical...",
+          "student_name": "Satyam Kumar",
+          "code_url": "https://medium.com/@skdbsp123/gsoc21-convergence-criteria-83d1afae1518",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6469058974711808/"
+        },
+        {
+          "title": "Implementing an Unsteady Vortex-Lattice aerodynamic element",
+          "short_description": "This project deal with implementing an unsteady potential-flow method namely the 3D unsteady vortex-lattice method for the aeroelastic analysis of...",
+          "student_name": "Shubhaditya Burela",
+          "code_url": "https://public.gitlab.polimi.it/DAER/mbdyn/-/tree/gsoc-vlm/modules/module-uvlm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6129333235613696/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mbdyn/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Blendyn Development",
+          "short_description": "Blendyn is one of MBdyn post-processing tools based on the Blender platform. It visualizes MBdyn output as a 3D system. However, the current Blendyn...",
+          "student_name": "Do Tien Dung",
+          "code_url": "https://github.com/BryanGsep/GSoC2022-Blendyn-Development-Final-Report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QVeeGMY9/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/mbdyn/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "MBDyn Python Preprocessor Development",
+          "short_description": "The MBDyn Python Preprocessor aims to streamline the creation of input files for MBDyn simulations by bridging Python scripting with MBDyn's input...",
+          "student_name": "Shimul Baidya",
+          "code_url": "https://public.gitlab.polimi.it/DAER/mbdyn/-/issues/358",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eBGM1aHc/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/mbdyn",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Genetic Optimization Module",
+          "short_description": "The Genetic Optimization Module for MBDyn seeks to integrate a genetic algorithm (GA) into MBDyn, a multibody dynamics simulation software, to enable...",
+          "student_name": "Rahul Drabit",
+          "code_url": null,
+          "proposal_id": "A6u3aqo5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iemnSvFQ"
+        },
+        {
+          "title": "MBDyn Python Preprocessor Development",
+          "short_description": "The MBDyn Python Preprocessor simplifies the creation of input files for MBDyn simulations by bridging Python programming with MBDyn's input format....",
+          "student_name": "Shimul Baidya",
+          "code_url": null,
+          "proposal_id": "2qeLt7ia",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YatS9WKL"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:mbdyn@aero.polimi.it",
+  "mailing_list": "https://mail.mbdyn.org/cgi-bin/mailman/listinfo/mbdyn-users",
+  "ideas_url": "https://public.gitlab.polimi.it/DAER/mbdyn/-/wikis/GSoc-Project-Ideas",
+  "guide_url": "https://public.gitlab.polimi.it/DAER/mbdyn/-/wikis/Development-Guidelines",
+  "twitter_url": "https://twitter.com/AerospacePoliMI",
+  "blog_url": "https://public.gitlab.polimi.it/DAER/mbdyn/-/issues"
+}

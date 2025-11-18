@@ -1,0 +1,50 @@
+{
+  "name": "Zenodo",
+  "url": "https://zenodo.org",
+  "image_url": "https://lh3.googleusercontent.com/t18I4Tabm3yIeT595HG9pbjrqUelCzLjUoWehqSCdBmLS9uk7vgPCJRQoBJRFArkA_pbyj-LZisqDm-IjCbLfKgT0Ek2UA",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web",
+    "machine learning",
+    "open science",
+    "content management",
+    "digital library"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "flask",
+    "angularjs",
+    "elasticsearch"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4744852235354112/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Research Data Metadata Extraction",
+          "short_description": "As a graduate student, I know how painful but crucial to manage research assets. It is exciting to see Zenodo as an open source public platform and...",
+          "student_name": "Xiao Meng",
+          "code_url": "https://gist.github.com/xiaom/106b9d111726cc99017b7efe7aead01c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5308486699188224/"
+        },
+        {
+          "title": "Zenodo Research Profile",
+          "short_description": "Zenodo is a great initiative for researchers and invenio is a collection of wonderful APIs. I have chosen this project because it targets every...",
+          "student_name": "jainaman224",
+          "code_url": "https://docs.google.com/document/d/1_ohQqpsYx7PlUhT8CqINVt57bydy15SCl995JkMIkUY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6248952064114688/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/zenodo/zenodo",
+  "contact_email": "mailto:info@zenodo.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/zenodo_org",
+  "blog_url": "http://blog.zenodo.org"
+}

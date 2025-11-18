@@ -1,0 +1,47 @@
+{
+  "name": "KNIME",
+  "url": "https://knime.com",
+  "image_url": "https://lh3.googleusercontent.com/iH0Kbp7-kU_YMY4NSPqhkc8PTJn5BVK3g6o92I7lkcVDNyqB4sWgVd8GKzKPCAak4nlrpUrT6cY73BQl_TfzbbyCcAGGCaY",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "data science",
+    "deep learning",
+    "image processing",
+    "data analytics"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "tensorflow"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6612711935311872/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Guided Analytics for Clustering Automation project",
+          "short_description": "This project will involve implementing nodes for the KNIME Analytics Platform that would aid evaluating clustering performance, and detecting...",
+          "student_name": "Rytis Kumpa",
+          "code_url": "https://bitbucket.org/KNIME/knime-sandbox/src/Rytis's_nodes/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6746152676884480/"
+        },
+        {
+          "title": "Active Learning for Guided Analytics",
+          "short_description": "The goal of this project is to implement an interactive JavaScript view to enable \u201cActive Learning\u201d within KNIME Analytics Platform. While KNIME...",
+          "student_name": "jguertl",
+          "code_url": "https://gist.github.com/jguertl/92bf7c360d25ceaee74d70e3c0b9f22f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6478531117187072/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:academia@knime.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/knime"
+}

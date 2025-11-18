@@ -1,0 +1,171 @@
+{
+  "name": "GitLab",
+  "url": "https://about.gitlab.com/community/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gitlab/mfhpav5dgegzwg8z-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "devops",
+    "cloud",
+    "ai",
+    "git",
+    "DevSecOps"
+  ],
+  "technologies": [
+    "ruby",
+    "golang",
+    "git",
+    "ci",
+    "devops",
+    "javascript",
+    "ruby on rails",
+    "go",
+    "vue"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5396515480141824/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Port SAST and Secret Detection rails platform code to GitLab CE project",
+          "short_description": "As part of GitLab's commitment to open source, features within Secure from the GitLab Enterprise Edition are making their journey to the Community...",
+          "student_name": "Cyrine Gamoudi",
+          "code_url": "https://gitlab.com/gitlab-com/marketing/community-relations/contributor-program/gitlab-gsoc-2021/-/issues/6#deliverables",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5108438736044032/"
+        },
+        {
+          "title": "Courseware as Code Enablement",
+          "short_description": "Educational institutions, open-source projects and private organizations have the need to create and maintain educational content such as classes,...",
+          "student_name": "Alejandro Rusi",
+          "code_url": "https://docs.google.com/document/d/19VhjiSQCYhpDAODv4xqxci7fB-1GysOl7KhkboWZPJY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4787041501446144/"
+        },
+        {
+          "title": "Writing SAST Vulnerability Rules",
+          "short_description": "Translate the analyzers used by GitLab presently into more robust and easy to maintain Semgrep (a lightweight static analysis tool)  rulesets. To...",
+          "student_name": "Anshuman Singh-1",
+          "code_url": "https://gitlab.com/groups/gitlab-org/-/epics/6089",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6017484972359680/"
+        },
+        {
+          "title": "Geo Team Proposal: Improvements to backup and restore process",
+          "short_description": "The backup and restore tools provided by GitLab are relied upon by administrators of GitLab instances as part of their disaster recovery strategy....",
+          "student_name": "Shubham Kumar-1",
+          "code_url": "https://shubhamkumar.live/blog/Improving-Backup-and-Restore-For-GitLab-GSoC-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5177345144520704/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gitlab/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Package Hunter for Kubernetes",
+          "short_description": "The project aims to bring Package Hunter, the malicious dependency detecting tool, to Kubernetes cluster, thus granting it more robustness,...",
+          "student_name": "Eileen Yu",
+          "code_url": "https://github.com/Eileen-Yu/Eileen-Yu/blob/main/stories/gsoc22-FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vSMGsSuH/"
+        },
+        {
+          "title": "Benchmarking Framework for SAST",
+          "short_description": "GitLab integrates a variety of static analysis (SAST) tools that help to find vulnerabilities in the code as early in the development lifecycle as...",
+          "student_name": "Martynas Krupskis",
+          "code_url": "https://gitlab.com/gitlab-org/secure/gsoc-sast-benchmark",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8EJJMJYt/"
+        },
+        {
+          "title": "Add Support for Mailmap",
+          "short_description": "GitLab uses Gitaly to read and write git data to the repositories. Gitaly provides RPC access to the git repositories. The RPCs that provide the...",
+          "student_name": "Siddharth Asthana",
+          "code_url": "https://gitlab.com/groups/gitlab-org/-/epics/8765",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yaKP2iJK/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gitlab",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Pajamas Migration - GitLab Foundations Team",
+          "short_description": "I am writing to express my interest in contributing to GitLab's Pajamas Migration project as part of the Google Summer of Code program. As a computer...",
+          "student_name": "Mughees Pervaiz",
+          "code_url": "https://gitlab.com/-/snippets/2587070",
+          "proposal_id": "O8eEczFv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/femokhnv"
+        },
+        {
+          "title": "Document the contributor journey to GitLab",
+          "short_description": "This project aims to simplify the contribution process to GitLab by creating a detailed report for developers using both local and cloud-based...",
+          "student_name": "Niku Singh",
+          "code_url": "https://gitlab.com/NIKU-SINGH/gsoc-23-final-report",
+          "proposal_id": "ZhQinhdA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aWi565W2"
+        },
+        {
+          "title": "Pajamas Migration - GitLab Foundations Team",
+          "short_description": "GitLab has been pushing initiatives such as Pajamas Migration Days, Hackathons, and Internal OKRs to ensure that the platform\u2019s interface aligns with...",
+          "student_name": "Shane Maglangit",
+          "code_url": "https://gitlab.com/-/snippets/2580388",
+          "proposal_id": "sORzWy8e",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Bm648ysU"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gitlab",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Kashkoush - Enhancing GitLab's Web IDE with Advanced Source Control Features",
+          "short_description": "This project aims to implement essential Git operations in GitLab's Web IDE, eliminating inefficient repository cloning for common version control...",
+          "student_name": "Ahmed Kashkoush",
+          "code_url": null,
+          "proposal_id": "OPctwS0x",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mNwPEdaV"
+        },
+        {
+          "title": "Show message if devfile is invalid before creating a workspace",
+          "short_description": "Currently, devfile validation only occurs after the user submits the form to create a workspace. This means users only discover invalid devfiles...",
+          "student_name": "Omar Nasser",
+          "code_url": null,
+          "proposal_id": "yQhQS4YE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Y9R088Nb"
+        },
+        {
+          "title": "Expand Vulnerability GraphQL Offering",
+          "short_description": "GitLab's security features help developers find vulnerabilities in their code, but the current API doesn't expose all the important information that...",
+          "student_name": "Patrick He",
+          "code_url": null,
+          "proposal_id": "MB61DzkW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NESmAewc"
+        },
+        {
+          "title": "[Deployment Management]  Add Notification for expiring Deploy Tokens: E-mail and Webhook",
+          "short_description": "This project is a notification system that alerts its users before their deploy tokens expire. Deploy tokens are used to provide secure access to...",
+          "student_name": "Pratibha Gupta",
+          "code_url": null,
+          "proposal_id": "Tyex1vEc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/POJu1RD5"
+        },
+        {
+          "title": "Protected Terraform States",
+          "short_description": "When managing cloud infrastructure through GitLab using Terraform, there is a critical security concern: any maintainer can make destructive changes...",
+          "student_name": "Sahil Sarawagi",
+          "code_url": null,
+          "proposal_id": "L9c1YfNi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Q2S2d0FK"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/gitlab",
+  "contact_email": "mailto:contributors@gitlab.com",
+  "mailing_list": "",
+  "ideas_url": "https://gitlab.com/gitlab-org/developer-relations/contributor-success/google-summer-of-code-2025/-/issues",
+  "guide_url": "https://contributors.gitlab.com",
+  "twitter_url": "https://twitter.com/gitlab",
+  "blog_url": "https://about.gitlab.com/blog/"
+}

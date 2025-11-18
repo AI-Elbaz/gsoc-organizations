@@ -1,0 +1,158 @@
+{
+  "name": "Creative Commons",
+  "url": "https://opensource.creativecommons.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/creative-commons/jvj0y3czaagpnhvz-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "nonprofit",
+    "copyleft",
+    "creative commons",
+    "legal",
+    "nonprofits"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript",
+    "elasticsearch",
+    "wordpress",
+    "django",
+    "vue.js",
+    "php",
+    "css"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5500455663173632/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Browser Extension for Creative Commons",
+          "short_description": "This project aims to create a plugin for other platforms to help Creative Commons users. Since freedom is given on choosing the platform and tools, I...",
+          "student_name": "makkoncept",
+          "code_url": "https://github.com/creativecommons/ccsearch-browser-extension",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6193964636438528/"
+        },
+        {
+          "title": "Human Centered Education of CC Licenses",
+          "short_description": "The process of licensing a creative work can be very confusing. What license is right for me? How do I formally license my work? How do I help people...",
+          "student_name": "Ari Madian",
+          "code_url": "https://opensource.creativecommons.org/blog/entries/cc-chooser-lastweek/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4784447168184320/"
+        },
+        {
+          "title": "CC Vocabulary and CC Search",
+          "short_description": "CC Vocabulary is a design system, a collection of UI components, available both as CSS stylesheets and minified JS, as well as Vue components, that...",
+          "student_name": "Dhruv Bhanushali",
+          "code_url": "https://opensource.creativecommons.org/blog/entries/vocabulary-so-long/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4863495437287424/"
+        },
+        {
+          "title": "Revamp of CC WordPress Plugin",
+          "short_description": "The Creative Commons plugin for WordPress is due for an update for over two years. I plan to rebuild the plugin from scratch with WordPress Coding...",
+          "student_name": "Ahmad Bilal",
+          "code_url": "https://gist.github.com/ahmadbilaldev/ebddbee32cc469dc9c08c3f403f0b9cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5814275317170176/"
+        },
+        {
+          "title": "Creative Commons-Visualize CC Catalog data",
+          "short_description": "There is no larger compendium of shared human knowledge and creativity than the Commons, including over 1.4 billion digital works available under CC...",
+          "student_name": "Mar\u00eda Belen Guaranda",
+          "code_url": "https://github.com/creativecommons/cccatalog-dataviz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5941954410446848/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5450793232105472/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Add provider API scripts",
+          "short_description": "Adding new Api's to the workflow, to improve the breadth of cc-search. Implementing the provider scripts and add test suite for each api . Also...",
+          "student_name": "K S Srinidhi Krishna",
+          "code_url": "https://opensource.creativecommons.org/blog/entries/cc-catalog-wrapping-gsoc20/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5671844729847808/"
+        },
+        {
+          "title": "Add Provider API Scripts to CC Catalog",
+          "short_description": "Provide support for retrieving image information from selected providers through their public APIs to increase the material available  via  CC Search...",
+          "student_name": "Charini Nanayakkara",
+          "code_url": "http://opensource.creativecommons.org/blog/entries/overview-of-the-gsoc-2020-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5432326651117568/"
+        },
+        {
+          "title": "Improvements to CC Search Browser Extension",
+          "short_description": "Since the release of CC Search Browser extension, it has garnered a good number of users. But, the extension still does not have sufficient features...",
+          "student_name": "Mayank Nader",
+          "code_url": "https://opensource.creativecommons.org/blog/entries/cc-search-extension-wrapping-up-gsoc-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5086769688608768/"
+        },
+        {
+          "title": "Add filtering by node to the Linked Commons",
+          "short_description": "The CC catalog data visualization or linked commons is a web application which finds and explores relationships between creative commons licensed...",
+          "student_name": "Subham Sahu",
+          "code_url": "https://github.com/creativecommons/cccatalog-dataviz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5087489028521984/"
+        },
+        {
+          "title": "Improve CC Search Accessibility",
+          "short_description": "The CC Search website is a tool that is available to everyone on the internet, but its accessibility is quite low. The reasons for its low...",
+          "student_name": "AyanChoudhary",
+          "code_url": "https://opensource.creativecommons.org/blog/entries/cc-search-accessibility-and-internationalization/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5131639379722240/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/creative-commons",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "CC LEGAL TOOLS: MACHINE READABLE LAYER",
+          "short_description": "The Creative Commons (CC) legal tools are composed of three parts: a legal code, a deed written in simple language, and a machine-readable layer....",
+          "student_name": "Saurabh K",
+          "code_url": "https://github.com/0saurabh0/GSoC-23-Report",
+          "proposal_id": "sc2G1UFO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9m8Ttuvo"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/creative-commons/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Automating Quantifying the Commons",
+          "short_description": "Quantifying the Commons \u2014 an initiative emerging from the UC Berkeley Data Science Discovery Program \u2014 aims to quantify the frequency of open domain...",
+          "student_name": "Naisha Sinha",
+          "code_url": "https://github.com/naishasinha/GSoC-2024-Final",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vvuGqMLQ/"
+        },
+        {
+          "title": "Modernize CC Resource Archive",
+          "short_description": "The goal of this GSOC program is to modernize the CC Resource Archive website by implementing a comprehensive visual overhaul to align with current...",
+          "student_name": "Ayush Sahu (Murdock9803)",
+          "code_url": "https://github.com/Murdock9803/GSoC-24-Doc/blob/main/README.md#google-summer-of-code-2024---final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZIhUmKRN/"
+        },
+        {
+          "title": "Create Local Ansible Dev Environment Using Docker",
+          "short_description": "One of the most important workflows for developing software is having a proper development environment. This project aims to create a set of Ansible...",
+          "student_name": "amandayclee",
+          "code_url": "https://docs.google.com/document/d/1JFrtGkIsy61hjZH7Rs8wj7jdtftI7R_-gmYNWnVGH9A/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1imypzrR/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://opensource.creativecommons.org/community/",
+  "contact_email": "",
+  "mailing_list": "https://opensource.creativecommons.org/community/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/cc_opensource",
+  "blog_url": "https://opensource.creativecommons.org/blog/entries/"
+}

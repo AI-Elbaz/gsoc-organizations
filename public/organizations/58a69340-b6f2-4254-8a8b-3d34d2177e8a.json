@@ -1,0 +1,41 @@
+{
+  "name": "Wireshark",
+  "url": "https://www.wireshark.org/",
+  "image_url": "https://lh3.googleusercontent.com/sCPLlgtH6t-mZ-ysPbk5olslH9gy2nexx6mJAP0iKV3qjO4jFiw0-HSiXEu-JD2Apw2gK3o5vcQms5CC55ulYtxGVw_760B6",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "data visualization",
+    "network monitoring",
+    "network security"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "lua",
+    "qt",
+    "cmake",
+    "pcap"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5630325851422720/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "USB HID Report Descriptor Parser",
+          "short_description": "Improve the current HID report descriptor parser and add dissector annotations for HID events.",
+          "student_name": "Filipe La\u00edns",
+          "code_url": "https://ffy00.github.io/posts/01-gsoc-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5160021932900352/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.wireshark.org/develop.html",
+  "contact_email": "",
+  "mailing_list": "https://www.wireshark.org/lists/wireshark-dev/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/WiresharkNews"
+}

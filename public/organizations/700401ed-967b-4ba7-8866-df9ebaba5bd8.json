@@ -1,0 +1,280 @@
+{
+  "name": "Internet Archive",
+  "url": "http://archive.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/internet-archive/uzbgzbb9tvp81c2i.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web archiving",
+    "non-profit",
+    "web extensions",
+    "voice apps",
+    "library",
+    "archive",
+    "web archives",
+    "books",
+    "web archving",
+    "archiving",
+    "media"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "pthon",
+    "node.js",
+    "php",
+    "elasticsearch",
+    "golang",
+    "hadoop",
+    "go"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5373878247358464/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Addition of advanced features to the existing Google Chrome extension of the Wayback Machine",
+          "short_description": "The 5 advanced features added to the Chrome extension of the Wayback Machine are focused on users who wish to research the history of the web .\n\nThe...",
+          "student_name": "abhidas17695",
+          "code_url": "https://github.com/abhidas17695/GSoC-project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6684594220826624/"
+        },
+        {
+          "title": "Internet Archive GSOC Project Proposal",
+          "short_description": "This project focuses on \"Building a Chrome extension for the Way Back Machine, Adding new feature for the way back machine's chrome extension.\"\nThe...",
+          "student_name": "Rakesh N Chinta",
+          "code_url": "https://github.com/rakesh-chinta/GSOC-Project-Internet-Archive",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6528240499818496/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6298343651147776/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Create a \u201cMap\u201d of the Web",
+          "short_description": "Since it contains more than 600 billion archives today, these huge amounts of webpages need to be analyzed. Produce the reports about hosts and...",
+          "student_name": "Zhengyue Cheng",
+          "code_url": "https://verseczy.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6433015437721600/"
+        },
+        {
+          "title": "Proposal for Internet Archive",
+          "short_description": "I would like to help expand the current Google Home Actions for the Internet Archive. I believe that the introduction of voice prompts would make...",
+          "student_name": "Dave Barry",
+          "code_url": "https://docs.google.com/spreadsheets/d/1-Ujft-n7l4dV0Z8TXJfqgVkTqjB_1jm-RmB0W_xr9LQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5684192989937664/"
+        },
+        {
+          "title": "Idea 5 - Integrate the \u201cScanner\u201d software into the Wayback Machine",
+          "short_description": "This proposal will present the project goal of idea 5, which is to integrate the web-monitoring software into the Wayback Machine and help to further...",
+          "student_name": "Fotios Tsalampounis",
+          "code_url": "https://github.com/ftsalamp/gsoc2018-InternetArchive",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4727113080897536/"
+        },
+        {
+          "title": "Building the World\u2019s Open Library, Together",
+          "short_description": "Currently Open Library has over 1.75M Members who borrow millions of books every year. This Project looks to develop Open Library further by...",
+          "student_name": "salman-bhai",
+          "code_url": "http://blog.openlibrary.org/2018/08/12/google-summer-of-code-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4762123708137472/"
+        },
+        {
+          "title": "Continue development of the Chrome extension \u201cWayback Machine\u201d",
+          "short_description": "The Wayback Machine chrome extension helps to make the web more reliable by detecting dead web pages and offering to replay archived versions of...",
+          "student_name": "Anish Kumar Sarangi",
+          "code_url": "https://github.com/anishsarangi/GSOC-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6554366517444608/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5931882041049088/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improving site navigation for Archive.org",
+          "short_description": "The Internet Archive is a non-profit library committed to Universal Access to Knowledge. In its 23 years of operation, the Internet Archive and its...",
+          "student_name": "Kanchan Joshi",
+          "code_url": "https://github.com/koderjoker/gsoc-internetarchive-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6347257455050752/"
+        },
+        {
+          "title": "\u201cGood\u201d Archiving: Improving Quality and Efficiency of News Archiving",
+          "short_description": "The Wayback Machine archives billions of webpages, with vast numbers being added to the collection every day, including news sources. Though the...",
+          "student_name": "Lavanya Singh",
+          "code_url": "https://lsingh123.github.io/gsoc19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6251189589508096/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5652935767228416/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "BookReader E2E testing and improvements",
+          "short_description": "The scope of this project is to improve  the BookReader framework in two ways.:\n\nThe first one is implementing a series of comprehensive end to end...",
+          "student_name": "Giacomo Cignoni",
+          "code_url": "https://blog.openlibrary.org/2020/08/29/giacomo-cignoni-my-internship-at-the-internet-archive/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5458130244206592/"
+        },
+        {
+          "title": "Adoption by Book Lover\u2019s",
+          "short_description": "OpenLibrary.org is the world\u2019s best-kept library secret: Let\u2019s make it easier for book lovers to discover and get started with Open Library.",
+          "student_name": "Tabish Shaikh",
+          "code_url": "https://blog.openlibrary.org/2020/08/29/google-summer-of-code-2020-book-lovers-adoption/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5124430243561472/"
+        },
+        {
+          "title": "Continue development of the Chrome extension \"Wayback Machine\"",
+          "short_description": "The Wayback Machine Extension is a powerful tool that collects and stores information about the search queries you make and the web pages you view to...",
+          "student_name": "Pushkit Kapoor",
+          "code_url": "https://github.com/tikhsuP/GSoC-2020-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6018075498905600/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6193723385315328/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Open Book Genome Project",
+          "short_description": "To create an open, community-powered Book Genome Project which enables deeper, faster and more holistic understanding of a book's unique...",
+          "student_name": "Nolan Windham",
+          "code_url": "https://blog.openlibrary.org/2021/08/23/gsoc-2021-making-books-lendable/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6029482359521280/"
+        },
+        {
+          "title": "Turn All References Blue",
+          "short_description": "Algorithmic approach to automate the process of adding hyperlinks of archived books to Wikipedia pages in an attempt to drastically simplify and...",
+          "student_name": "Xin Yue Chen",
+          "code_url": "https://github.com/users/graceCXY/projects/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5138192222650368/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/internet-archive",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Turn All References Blue (TARB)",
+          "short_description": "The \"Turn All References Blue\" (TARB) project at the Internet Archive aims to tackle the issue of content drift in Wikipedia hyperlinks. Content...",
+          "student_name": "darahaas15",
+          "code_url": "https://archive.org/details/tarb-gsoc-2023-content-drift",
+          "proposal_id": "hjBth6Mf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7YkLVuE5"
+        },
+        {
+          "title": "Improving Site Performance and Implementing Subject Tags",
+          "short_description": "The objective of this proposal is to enhance the user experiences for readers of Open Library through a two-prong approach. The first prong,...",
+          "student_name": "Jayden Teoh Jing Xiang",
+          "code_url": "https://blog.openlibrary.org/2023/08/25/google-summer-of-code-2023-supercharging-subject-pages",
+          "proposal_id": "5Ac4H080",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9Tzc7AuO"
+        },
+        {
+          "title": "Idea 1 : Improving Democracy\u2019s Library",
+          "short_description": "Problem to Solve : Build a system which performs the following: Enables full-text search of documents; filtered by agency, date, views Recommends...",
+          "student_name": "Krish Shewani",
+          "code_url": "https://github.com/krish-910/GSoC_IA",
+          "proposal_id": "H8hGggUS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MMFObnCX"
+        },
+        {
+          "title": "Wayback Machine - Turn All References Blue (TARB)",
+          "short_description": "Have you ever encountered a frustrating error when browsing a webpage, or perhaps landed on a page expecting to find information about the first...",
+          "student_name": "Pranjal20",
+          "code_url": "https://archive.org/details/tarb-gsoc-2023-soft-404",
+          "proposal_id": "aONFAZZd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2g9hvKN4"
+        },
+        {
+          "title": "Democratizing Government Documents: A Comprehensive System for Access, Discovery, and Analysis",
+          "short_description": "The objective of this project is to create a document retrieval and recommendation system powered by NLP, with an emphasis on allowing effective...",
+          "student_name": "SoumyaGupta",
+          "code_url": "https://git.archive.org/soumya/gsoc_ia_1/-/blob/main/finevadoc.md",
+          "proposal_id": "klVQhQsy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pKvq93oa"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/internet-archive/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "AI-Enhanced Historical Knowledge Graph",
+          "short_description": "he AI-Enhanced Historical Knowledge Graph (AI-HKG) project proposes the development of an advanced, AI-powered knowledge graph that interlinks...",
+          "student_name": "Bhaskar Joshi",
+          "code_url": "https://docs.google.com/document/d/1fGMYRArEm2YLD4eQb2mvjHXJbNkq9Suycid_Tge1wHo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4HEo3IFh/"
+        },
+        {
+          "title": "Enhancing the Wayback Machine: AI-driven Analysis and Exploration of Web Archives",
+          "short_description": "This proposal outlines a project to develop an AI-powered tool, named Wayback Machine CoPilot, aimed at enhancing the functionality of the Wayback...",
+          "student_name": "Piyush Soni",
+          "code_url": "https://gist.github.com/haruki25/80881c64437de3e9c866ed75f5cad7f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GaKaHxiA/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/internet-archive",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "What Are We Not Archiving? A Strategic Resource Allocation Proposal for the Wayback Machine",
+          "short_description": "Despite capturing millions of web pages daily, The Wayback Ma chine may fail to archive many important resources before they dis appear. This...",
+          "student_name": "Akshith Garapati",
+          "code_url": null,
+          "proposal_id": "nHvQJuVP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MFyduPDw"
+        },
+        {
+          "title": "Detecting Social Media Content in TV News: Logo and Post Screenshot Detection Models",
+          "short_description": "Since the rise of social media two decades ago, researchers have been eager to characterize its impact on society, particularly in the area of...",
+          "student_name": "Himarsha",
+          "code_url": null,
+          "proposal_id": "kb7R8CCT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j0CKIRCi"
+        },
+        {
+          "title": "Lenny: Open Source Lending System for Libraries",
+          "short_description": "Libraries globally face challenges transitioning to digital lending due to restrictive publisher licensing and expensive, rigid vendor systems that...",
+          "student_name": "Roni Bhakta",
+          "code_url": null,
+          "proposal_id": "jzurv9kh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WcVnJVdw"
+        },
+        {
+          "title": "GSoC 2025 - Real time In Browser Translation and Text-To-Speech",
+          "short_description": "I would like to work with the Open Library team to create a plugin within the Internet Archive\u2019s book reader app that would enable users to locally...",
+          "student_name": "Sandy Chu",
+          "code_url": null,
+          "proposal_id": "yyIpdtwP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HZv00PgI"
+        },
+        {
+          "title": "Zeno v2 Enhancement Proposal: Headless Mode, CSS Parser, and More",
+          "short_description": "Enhance Zeno by implementing headless browsing via Rod for improved archiving of dynamic websites, developing a precise CSS parser for accurate URL...",
+          "student_name": "yzqzss",
+          "code_url": null,
+          "proposal_id": "L68s9cOL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/afDanpOP"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@archive.org",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/1oHNwPNYmHV5q3puBfv6IQFs-4gTe9XLN2iz2Lgse-1k/edit?tab=t.0",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/internetarchive",
+  "blog_url": "http://blog.archive.org"
+}

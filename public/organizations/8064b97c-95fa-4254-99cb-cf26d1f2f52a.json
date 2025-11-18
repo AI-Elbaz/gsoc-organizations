@@ -1,0 +1,70 @@
+{
+  "name": "FRRouting",
+  "url": "https://frrouting.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/frrouting/wvsrcdtt2anax9ej-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "networking",
+    "software defined networking",
+    "linux",
+    "performance",
+    "systems programming",
+    "routing",
+    "systems"
+  ],
+  "technologies": [
+    "c",
+    "linux",
+    "lua",
+    "networking",
+    "linux kernel",
+    "routing"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5039063742021632/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Dataplane batching",
+          "short_description": "Dataplane batching\nFRRouting uses the concept of a data plane which is the part of the code that processes thedata requests. It is used in...",
+          "student_name": "Jakub Urba\u0144czyk",
+          "code_url": "https://urbanczyk.dev/post/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6282628304470016/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5868804143316992/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Lua hook points",
+          "short_description": "Design and implement a hook system to attach Lua scripts",
+          "student_name": "Donald Lee",
+          "code_url": "https://dlqs.dev/frr-gsoc-2021.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5018934603939840/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/frrouting/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Zebra Traffic Control",
+          "short_description": "Add the ability for ZEBRA to modify TC tables via the netlink protocol. Currently FRR has no ability to modify the underlying TC tables. This would...",
+          "student_name": "Shichu Yang",
+          "code_url": "https://sigeryang.net/gsoc2022-frr/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eBqqrRLd/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://frrouting.org/community/",
+  "contact_email": "",
+  "mailing_list": "https://lists.frrouting.org/listinfo",
+  "ideas_url": "",
+  "guide_url": ""
+}

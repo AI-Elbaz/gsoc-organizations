@@ -1,0 +1,65 @@
+{
+  "name": "MGGG Redistricting Lab",
+  "url": "https://mggg.org",
+  "image_url": "https://lh3.googleusercontent.com/9xQlcXz44y1uWkk2sE8WCIVXRf8bRYtxsGj9AHxn6CJ2Jqag10Rx7RVFpo_eSngn2W_e5Jdaw34FDhRaHwrsk-bI190NSv_QZ2oWQ0ATeN0k",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "statistics",
+    "mapping",
+    "civic tech",
+    "graph algorithms",
+    "web-interface",
+    "mapping and surveying"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "julia",
+    "gis",
+    "mapping",
+    "statistics"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4721222438354944/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Python-Julia Implementation Testing",
+          "short_description": "My project will be developing a test suite that compares the output produced by the Julia and Python implementations of GerryChain. This test suite...",
+          "student_name": "Matthew Sun-1",
+          "code_url": "https://gist.github.com/matthewkol186/81fec49c502e9dc257dc6b50f52fd748",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6397745373380608/"
+        },
+        {
+          "title": "Zhenghong's MGGG Proposal",
+          "short_description": "I give nine different ideas that would be interesting to the MGGG as well as the broader political science community.",
+          "student_name": "Zheng Hong Lieu",
+          "code_url": "https://lieuzhenghong.com/2020/08/28/MGGG-GSoC-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6001153327759360/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5759703384064000/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Distribution Checks",
+          "short_description": "A statistical suite to confirm that our Markov Chains produce results of the distributions we expect. These tests could be parametric or...",
+          "student_name": "Mai Nguyen",
+          "code_url": "https://github.com/mggg/benchmarks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5258003019726848/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:mggg.gsoc@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/gerrymandr",
+  "blog_url": "https://mggg.org/news"
+}

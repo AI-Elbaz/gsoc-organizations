@@ -1,0 +1,294 @@
+{
+  "name": "52\u00b0North Spatial Information Research GmbH",
+  "url": "https://52north.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/52north-spatial-information-research-gmbh/gzamo2sqfwcmcobt-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "geoinformatics",
+    "sensor web",
+    "web-based geoprocessing",
+    "spatial data",
+    "earth observation",
+    "spatial data infrastructures",
+    "spatial information",
+    "geoprocessing",
+    "remote sensing",
+    "geostatistics",
+    "floating car data",
+    "ogc",
+    "web processing",
+    "sensorweb",
+    "web services",
+    "ogc standards",
+    "trajectory analytics",
+    "citizen science",
+    "spatial information infrastructures",
+    "open standards",
+    "geoinformation systems",
+    "data analytics",
+    "Geoinformation"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "web services",
+    "ogc standards",
+    "web",
+    "spring",
+    "r",
+    "big data",
+    "android",
+    "python",
+    "react"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5429283996565504/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Terrain Model Generation and Analysis",
+          "short_description": "The 52\u00b0North Triturus library, is extremely powerful and provides a lot of functionalities. This library is used in a lot of interesting projects...",
+          "student_name": "aishcat5",
+          "code_url": "https://wiki.52north.org/Projects/GSoC2016TerrainModelGenerationandAnalysis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6383180932186112/"
+        },
+        {
+          "title": "Usability improvements for smle",
+          "short_description": "Usability improvements and new features development for smle - web-based SensorML descriptions editor.",
+          "student_name": "sheff_146",
+          "code_url": "https://github.com/52North/smle/commits/master?author=sheff146",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6208761773424640/"
+        },
+        {
+          "title": "Visual Analytics of EnviroCar Tracks",
+          "short_description": "The EnviroCar project intends to provide users with detailed information regarding various phenomenons of vehicle performance. The motivation of this...",
+          "student_name": "Naveen Jafer",
+          "code_url": "https://naveenjafersite.wordpress.com/2016/08/22/google-summer-of-code-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4801686195404800/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4959751460880384/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Simple Features for protobuf and others",
+          "short_description": "The Simple Feature Access Specification (aka. Simple Features) is a common standard for exchanging spatial features that is widely used in...",
+          "student_name": "Malith Withanage Don",
+          "code_url": "https://github.com/52North/topology-serialization-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6219606565847040/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5067792839606272/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Plain GPS-based Recording for enviroCar",
+          "short_description": "Currently, recording procedure in the enviroCar android application will be started only when user's phone is connected to the OBD-II adapter through...",
+          "student_name": "Sai Krishna Chowrigari",
+          "code_url": "https://wiki.52north.org/Projects/GSoC2018PlainGPSBasedRecordingForEnviroCar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6457640095842304/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6331236958601216/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve enviroCar Android User Interface & User Experience",
+          "short_description": "UI and UX design is a subject of great importance in app development. The three pillars of my contribution to the enviroCar project are as follows:-\n...",
+          "student_name": "Shiva Kanth Sujit",
+          "code_url": "https://docs.google.com/document/d/1rvXsV9-EOg9JxAEGUwSmw5JjZ3ed8hM0zzWIC9y7BPM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6188010670915584/"
+        },
+        {
+          "title": "WPS .NET Library & ArcGIS Pro Add-In",
+          "short_description": "Many professional Windows desktop applications are created with .NET technologies thanks to its close ties with its home native environment. Some...",
+          "student_name": "Mihai Stan",
+          "code_url": "https://gist.github.com/Mehigh17/75a510cdac567a320d6ed1ed8cd43c5a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5881826277588992/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6309633414660096/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Angular WPS Client library",
+          "short_description": "Develop a full-fledged Typescript based Web Processing Service (WPS) library, which will implement all features defined by OGC WPS Interface...",
+          "student_name": "Karan Singh",
+          "code_url": "https://blog.52north.org/2020/08/27/52norths-angular-wps-client-library-the-wps-ng/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5936265230286848/"
+        },
+        {
+          "title": "Improvement of the Car Selection Process in the enviroCar Android App",
+          "short_description": "enviroCar App is currently in fully functional state yet there are some issues which allows users to create artificial types of cars with arbitrary...",
+          "student_name": "ARVIND NEGI",
+          "code_url": "https://blog.52north.org/2020/08/31/improvement-of-car-selection-process-in-envirocar-app-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6293340623994880/"
+        },
+        {
+          "title": "Trajectory Analytics Toolbox",
+          "short_description": "The proposed project is to create a general purpose analytics toolbox in R that provides meaningful analysis of individual trajectories and...",
+          "student_name": "John Murzaku",
+          "code_url": "https://github.com/JamMurz/traviz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5143919026765824/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5129526253715456/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving User experience in enviroCar Android",
+          "short_description": "The features implemented in recent years have greatly enhanced the functionality of the app. Currently, All basic features which help in...",
+          "student_name": "Sai Karthikeya",
+          "code_url": "https://blog.52north.org/2021/08/23/improving-user-experience-in-envirocar-android-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4566982376030208/"
+        },
+        {
+          "title": "enviroCar Platform Independent App",
+          "short_description": "Platform Independent enviroCar App\nenviroCar is a Citizen Science tool that is used by citizens, traffic planners, scientists and companies to...",
+          "student_name": "D Ajay Kumar",
+          "code_url": "https://blog.52north.org/2021/08/23/envirocar-platform-independent-app-groundwork-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6531614133190656/"
+        },
+        {
+          "title": "Groundwork for platform independent app",
+          "short_description": "EnviroCar is a citizen science community that collects, shares, and analyzes floating car data for traffic management and the environment. It...",
+          "student_name": "Khyati",
+          "code_url": "https://blog.52north.org/2021/08/23/envirocar-app-for-ios-users-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5918625763950592/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/52north-spatial-information-research-gmbh/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "UI for the Arctic Sea settings API (Faroe)",
+          "short_description": "The Arctic sea is a framework for developing OGC services, clients and middleware sharing concepts for encoding and decoding of different formats and...",
+          "student_name": "Sujit Jaunjal",
+          "code_url": "https://blog.52north.org/2022/09/23/ui-for-arctic-sea-settings-api-faroe-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WQzKOHGd/"
+        },
+        {
+          "title": "enviroCar Platform Independent App: Add UI for Data Privacy Settings/Control",
+          "short_description": "enviroCar is a citizen science community that collects, shares, and analyzes floating car data for traffic management and the environment. It...",
+          "student_name": "Khyati",
+          "code_url": "https://blog.52north.org/2022/09/25/envirocar-app-for-ios-users-ui-for-data-privacy-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QCfTIgri/"
+        },
+        {
+          "title": "enviroCar App: Voice Command",
+          "short_description": "Having your phone with you in your car is useful for a lot of reasons and enviroCar helps in the same way. But at the same time, it\u2019s also a...",
+          "student_name": "Dhiraj Chauhan",
+          "code_url": "https://blog.52north.org/2022/09/23/envirocar-app-voice-command-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xXN12jAU/"
+        },
+        {
+          "title": "enviroCar App: New Features, Improvements and Bug Fixing",
+          "short_description": "enviroCar Mobile is an Android application for smartphones that can be used to collect Extended Floating Car Data. The app communicates with an OBD2...",
+          "student_name": "Akash Ramjyothi",
+          "code_url": "https://blog.52north.org/2022/09/23/envirocar-app-replace-libraries-and-add-new-features-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3c3ZgCs1/"
+        },
+        {
+          "title": "Python client for OGC Maps API",
+          "short_description": "OGC Maps API provides crucial information for analyzing maps and map data. The geospatial data is currently fetched using REST APIs, and each time...",
+          "student_name": "Prakhar Gurunani",
+          "code_url": "https://blog.52north.org/2022/09/23/python-client-for-ogc-maps-api-final-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WQM9F5qd/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/52north-spatial-information-research-gmbh",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "KomMonitor Web Client: Migration to Angular",
+          "short_description": "KomMonitor is an open-source web client developed by the Bochum University of Applied Sciences as a research project. It has been developed in...",
+          "student_name": "Ashwanth Kumar D",
+          "code_url": "https://blog.52north.org/2023/09/26/kommonitor-final-blogpost/",
+          "proposal_id": "pBzHcl6y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/G7aigYXC"
+        },
+        {
+          "title": "Extending and Stabilizing enviroCar App: Voice Command",
+          "short_description": "Road safety is of utmost importance, and avoiding distracted driving is a critical aspect of maintaining safety on the road. One of the major...",
+          "student_name": "Ayush Dubey",
+          "code_url": "https://blog.52north.org/2023/08/28/stabilizing-and-extending-envirocar-voice-command-final-blog/",
+          "proposal_id": "gDmKMuo6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JltWRGZ7"
+        },
+        {
+          "title": "Proposal for contributing in LocationToolkit Integration",
+          "short_description": "This proposal aims to implement a location privacy toolkit in the enviroCar app, a mobile platform for handling personal location information. The...",
+          "student_name": "prvn2004",
+          "code_url": "https://docs.google.com/document/d/1RN3Tr8iln-m9H7iBO7iNfKMGobrofhIyS5KWLqpB6ek/edit?usp=sharing",
+          "proposal_id": "YkMp01rO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tmfVId7S"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/52north-spatial-information-research-gmbh/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "enviroCar App: Mapbox to MapLibre migration",
+          "short_description": "The enviroCar Android app provides capabilities for visualizing user related tracks within a map. For this feature, the app makes use of several...",
+          "student_name": "Hitesh Kumar Saini",
+          "code_url": "https://blog.52north.org/2024/08/26/envirocar-mapbox-to-maplibre-migration-gsoc-final-blog-post",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/krHvyhrX/"
+        },
+        {
+          "title": "Cloud-native OGC SensorThings API",
+          "short_description": "OGC SensorThings API is an international standard to eliminate vendor lock-ins in IoT systems and to create an open geospatial ecosystem by defining...",
+          "student_name": "Humaid Kidwai",
+          "code_url": "https://blog.52north.org/?p=10486&preview=true",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fHFlLaVM/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/52north-spatial-information-research-gmbh",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Complete Angular migration of the KomMonitor Web Client",
+          "short_description": "The KomMonitor web client, a tool for geospatial data monitoring in urban planning, is currently based on AngularJS and requires a complete migration...",
+          "student_name": "goyalpranjal_",
+          "code_url": null,
+          "proposal_id": "M4rSb0sW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oiPd6sfN"
+        },
+        {
+          "title": "Weather Routing Tool",
+          "short_description": "The Weather Routing Tool is a system designed to find optimal shipping routes between two geographic points, taking into account weather data, local...",
+          "student_name": "shreyass-ranganatha",
+          "code_url": null,
+          "proposal_id": "qoOOkYRa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JRNm78Uz"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://52n-gsoc.slack.com/ssb/redirect",
+  "contact_email": "mailto:gsoc@52north.org",
+  "mailing_list": "gsoc-52n@52north.org",
+  "ideas_url": "https://52north.org/outreach-dissemination/google-summer-of-code/project-ideas/",
+  "guide_url": "https://52north.org/software/contribute/",
+  "twitter_url": "https://twitter.com/fivetwon",
+  "blog_url": "https://blog.52north.org/"
+}

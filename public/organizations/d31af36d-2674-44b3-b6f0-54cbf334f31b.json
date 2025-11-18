@@ -1,0 +1,64 @@
+{
+  "name": "PRISM Model Checker",
+  "url": "http://www.prismmodelchecker.org",
+  "image_url": "https://lh3.googleusercontent.com/XK1ab1MTDTxb-6-kx3oOqRIvw1EsGZ78EVDnHy73kseH3O6Oh93nvv9WNn_TqduBUsnccMiaWwLERzjO4V4stIwqVlDiRA",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "verification",
+    "science",
+    "probabilistic models"
+  ],
+  "technologies": [
+    "java",
+    "c++"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4609839401533440/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Enhanced Graph Plotting and General GUI Improvements in Prism",
+          "short_description": "Prism is a tool for probabilistic model checking. It is categorized as a formal verification system tool for the modelling and analysis of systems...",
+          "student_name": "Muhammad Omer Saeed",
+          "code_url": "https://github.com/musaeed/Prism-gsoc16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6333495408328704/"
+        },
+        {
+          "title": "Enhanced Strategy Functionality for PRISM",
+          "short_description": "Prism is a probabilistic model checker, by which, the users can model and analyse real time systems. Prism provides its own modelling language. A...",
+          "student_name": "Ganindu",
+          "code_url": "https://drive.google.com/drive/folders/0B8ts40Bwpf-xR1d4SnE5WlZRT2s?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6584081248681984/"
+        },
+        {
+          "title": "Extended support for mean-payoff properties",
+          "short_description": "In this project the multi-objective mean-payoff properties in Markov\ndecision process are to be added into Prism, which is a probabilistic model...",
+          "student_name": "christopherZ",
+          "code_url": "https://drive.google.com/open?id=0ByeJC_CdRFx7Z05pVnJkTmVucFk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6728420738203648/"
+        },
+        {
+          "title": "Exact Solution Methods",
+          "short_description": "Nowadays, most floating point computations are performed in double precision \u2013 with a mantissa of 53 bits. Nevertheless, depending on the application...",
+          "student_name": "Nicolas Del Piano",
+          "code_url": "https://gist.github.com/nicodelpiano/ffa503f8f1e4919c227b99a17df769f5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4690412182700032/"
+        },
+        {
+          "title": "Refactoring and optimizing model construction for the explicit engine",
+          "short_description": "During the project the current model construction will be analysed in regard to performance(i.e. reachability of multiple initial states, scalability...",
+          "student_name": "Maximilian Probst",
+          "code_url": "https://drive.google.com/open?id=0B91EaefKJ46uelpGbzhGZ25KRlE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4765522570772480/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:prismmodelchecker.gsoc@gmail.com",
+  "mailing_list": "https://groups.google.com/forum/?fromgroups#!forum/prismmodelchecker-gsoc",
+  "ideas_url": "",
+  "guide_url": ""
+}

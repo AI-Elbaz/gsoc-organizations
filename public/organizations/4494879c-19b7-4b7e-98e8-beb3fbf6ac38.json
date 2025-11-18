@@ -1,0 +1,90 @@
+{
+  "name": "P2PSP.org",
+  "url": "http://www.p2psp.org",
+  "image_url": "https://lh3.googleusercontent.com/W6ous6DUr-hggplxAVhPlbTaDa7eXE6PxqrQ7kQxyq-45q_fHcfImrzpcVjZ-mjt2d7onZ128-NgAx1zMfsmKMU0pczMKA",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "security",
+    "networking",
+    "multimedia",
+    "live streaming",
+    "p2p",
+    "streaming",
+    "video",
+    "real time",
+    "distributed networks"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "c++",
+    "ios",
+    "webrtc",
+    "qt",
+    "sockets",
+    "javascript",
+    "c"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5845209434816512/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "GoPro Broadcasting Using P2PSP On Android",
+          "short_description": "The currently available official GoPro app does not allow the user to broadcast the live stream, except via the Periscope app. In my project, I...",
+          "student_name": "sravan953",
+          "code_url": "https://github.com/sravan953/gopro",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5614166500966400/"
+        },
+        {
+          "title": "Implementation of Endpoint Masquerading Set of Rules",
+          "short_description": "Peer-to-peer protocols allow for powerful utilization of network infrastructure without the cost of a system of servers. P2PSP strives to deliver...",
+          "student_name": "kshi219",
+          "code_url": "https://github.com/kshi219/core/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6040972701990912/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6195936732643328/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "The P2PSP virtual room application",
+          "short_description": "P2PSP.org is a nonprofit organization that develops the P2PSP protocol, an application layer protocol designed for the real-time streaming of...",
+          "student_name": "Amritanshu Jain",
+          "code_url": "https://gist.github.com/jainamritanshu/6d6e737e83099cc42825926bd2bee454",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4831647216173056/"
+        },
+        {
+          "title": "Implementation of a REST WebService for the P2PSP media sources",
+          "short_description": "At its current state, the Splitter - which handles the team of peers - needs to be connected using an IP and Port which must be either fixed or...",
+          "student_name": "Abhinav Gauniyal",
+          "code_url": "https://gist.github.com/agauniyal/3274b2adc8d9073b260e344ede8b9fa0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5795608468127744/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4692141242580992/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Enhancements to P2PSP Simulator",
+          "short_description": "Enhancement to P2PSP simulator\nAbstract\n\nTranslating Unix socket to internet socket would make the testing a lot more easier. As P2PSP core...",
+          "student_name": "Sachin-Singh",
+          "code_url": "https://sachinsngh165.github.io/GSOC_Final_Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5485387342413824/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/orgs/P2PSP/rooms",
+  "contact_email": "mailto:info@p2psp.org",
+  "mailing_list": "https://launchpad.net/~p2psp",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://www.p2psp.org"
+}

@@ -1,0 +1,145 @@
+{
+  "name": "JSON Schema",
+  "url": "https://json-schema.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/json-schema/d3qfjxegxnlrfysi.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "web",
+    "apis",
+    "standards",
+    "data validation",
+    "developer tooling"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "typescript",
+    ".net",
+    "JSON Schema"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/json-schema/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "A Tour of JSON Schema",
+          "short_description": "Tour of JSON Schema is an interactive guide for beginners to learn JSON Schema through examples and hands-on exercises. The project intends to help...",
+          "student_name": "Zeel_Rajodiya",
+          "code_url": "https://github.com/JeelRajodiya/GSoC24-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zUHIbtvx/"
+        },
+        {
+          "title": "JSON Schema Upgrade/Downgrade for Every Dialect",
+          "short_description": "The goal of this GSOC program is to solve the problem of upgrading/downgrading JSON Schema between all the dialects using language agnostic rules so...",
+          "student_name": "Suprith KG",
+          "code_url": "https://github.com/json-schema-org/upgrade-downgrade-rules",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OotP3B8B/"
+        },
+        {
+          "title": "JSON Schema Language Server Contributions",
+          "short_description": "The Language Server Protocol (LSP) provides a way to write an IDE/editor extension that is compatible with any IDE/editor that supports the LSP. The...",
+          "student_name": "Diya Solanki",
+          "code_url": "https://gist.github.com/diyaayay/177173bc76abbac2cbb11bba5961017a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/glRQNEok/"
+        },
+        {
+          "title": "bowtie-trend - Long-Term Reporting With Bowtie",
+          "short_description": "The JSON Schema test suite is a collection of JSON schemas, instances (data) and expected validation results -- meaning information about what result...",
+          "student_name": "Adwait Godbole",
+          "code_url": "https://gist.github.com/adwait-godbole/14c58ac5db7d392de00bc74b828406ee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uyfrHnuP/"
+        },
+        {
+          "title": "Setting up the CI/CD Pipeline and Testing for the JSON Schema website",
+          "short_description": "The project aims to enhance the current CI/CD workflow of the JSON Schema website, which currently operates with a basic setup, presenting...",
+          "student_name": "Alok Gupta",
+          "code_url": "https://github.com/aialok/GSoC24-JSON-Schema-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/izshFtex/"
+        },
+        {
+          "title": "Build Data-Driven Tooling View",
+          "short_description": "Building the JSON Schema Tooling View to improve both its design and functionality. The project involved a full transformation, making the view more...",
+          "student_name": "D V",
+          "code_url": "https://gist.github.com/DarhkVoyd/1c1c11a8e573d60178eca89902d62b2a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vHktheam/"
+        },
+        {
+          "title": "Source Generation Analyzer Powered by Corvus.JsonSchema",
+          "short_description": "Creating a source generator for Corvus.JsonSchema, which adds the code produced by the tool to the user's source so that it can be compiled. By...",
+          "student_name": "Pranay Joshi",
+          "code_url": "https://gist.github.com/pranayjoshi/887aba911ef70d15bc3f7dd61d020012",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JBmyddo1/"
+        },
+        {
+          "title": "bowtie-perf: a Performance Tester for JSON Schema Implementations",
+          "short_description": "Bowtie is a meta-validator of the JSON Schema specification, giving users a way to use and compare implementations supported. Bowtie currently only...",
+          "student_name": "DhruvSingh",
+          "code_url": "https://gist.github.com/sudo-jarvis/c0c43fc283741716d646b87833498266",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uJvbPIIF/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/json-schema",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Better JSON Schema Errors",
+          "short_description": "JSON Schema validation errors are often cryptic and difficult to understand, making debugging frustrating for developers and end users. This project...",
+          "student_name": "Arpit Kuriyal",
+          "code_url": null,
+          "proposal_id": "EC0DvpWX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eXZE2zjL"
+        },
+        {
+          "title": "Adaption of component library in JSON Schema website",
+          "short_description": "The JSON Schema website currently relies on custom-developed UI components, which increases maintenance overhead and complicates updates. This...",
+          "student_name": "Idan levi",
+          "code_url": null,
+          "proposal_id": "DazBWcvn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zBCXfgVo"
+        },
+        {
+          "title": "Interactive Visualization Tool For JSON Schema",
+          "short_description": "Understanding the relationships between JSON Schema properties, especially in cases of nested objects and complex structures, is crucial for learning...",
+          "student_name": "Jagpreet Singh Rahi",
+          "code_url": null,
+          "proposal_id": "ATI3eY5H",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oelB8kma"
+        },
+        {
+          "title": "Comprehensive JSON Schema linting for encouraging best practices and catching anti-patterns early",
+          "short_description": "The project aims to improve the JSON Schema Linting by focusing on defining, standardizing rules after reaching consensus on the anti-patterns and...",
+          "student_name": "Karan Palan",
+          "code_url": null,
+          "proposal_id": "ZfKbEMNv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PjLfP7ZH"
+        },
+        {
+          "title": "Build a Java wrapper library for sourcemeta/blaze",
+          "short_description": "The goal of this project is to build a Java wrapper for the sourcemeta/blaze library, a high-performance JSON Schema validator written in C++....",
+          "student_name": "Madhav Dhatrak",
+          "code_url": null,
+          "proposal_id": "D9xIs6Wp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/c0uj8ubZ"
+        },
+        {
+          "title": "Automated Badge Issuance System",
+          "short_description": "The Simple Automated Badge Issuance System is designed to automate the process of issuing digital badges to users who complete the JSON Schema Tour....",
+          "student_name": "Prasanth S7",
+          "code_url": null,
+          "proposal_id": "zCoTyQUC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rdzjkCcT"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://json-schema.org/slack",
+  "contact_email": "mailto:info@json-schema.org",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/json-schema-org/community/blob/main/programs/mentoring/gsoc/gsoc-2025.md",
+  "guide_url": "https://github.com/json-schema-org/community/blob/main/programs/mentoring/gsoc/CONTRIBUTOR-GUIDANCE.md",
+  "twitter_url": "https://twitter.com/jsonschema"
+}

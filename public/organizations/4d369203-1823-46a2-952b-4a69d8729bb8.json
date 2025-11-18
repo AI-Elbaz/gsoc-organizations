@@ -1,0 +1,57 @@
+{
+  "name": "OpenEMR",
+  "url": "https://www.open-emr.org/",
+  "image_url": "https://lh3.googleusercontent.com/yEvQbaxEYLmlIJzXJUNtDCZkX5sYoYeJ2vmdAFAbz3t1kkVdIQloDfA8U36hLndz5Nim2OHUws54LDps7YkSaI-lqW8Cbt8",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "health",
+    "medicine",
+    "medical records",
+    "cloud",
+    "medical practice management solution"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "html",
+    "docker",
+    "php"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6277255937916928/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "FHIR Integration",
+          "short_description": "The goal of the project is to integrate FHIR Standard API\u2019s that will help in exchanging healthcare information electronically. This will allow the...",
+          "student_name": "Yash Raj Bothra",
+          "code_url": "https://www.open-emr.org/blog/gsoc-2020-work-product-fhir-integration-in-openemr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6425396607713280/"
+        },
+        {
+          "title": "Refine Modernized UI for OpenEMR",
+          "short_description": "In this proposal, I aim to improve the UI interface and upgrade codebase on OpenEMR, include the installation page, focus on improving UI interface...",
+          "student_name": "Guan-Wu Su",
+          "code_url": "https://www.open-emr.org/blog/gsoc-2020-work-product-modernize-openemr-user-interface/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6435955650592768/"
+        },
+        {
+          "title": "Hybrid App supporting Image processing",
+          "short_description": "The objective of the project was to develop a mobile application that can not only avail OpenEMR features to increase accessibility but can also...",
+          "student_name": "im-Amitto",
+          "code_url": "https://www.open-emr.org/blog/gsoc-2020-hybrid-app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4890541860323328/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.open-emr.org/chat/",
+  "contact_email": "",
+  "mailing_list": "https://www.open-emr.org/wiki/index.php/OpenEMR_Forum",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/openemr",
+  "blog_url": "https://www.open-emr.org/blog/"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "JGraphT",
+  "url": "http://jgrapht.org/",
+  "image_url": "https://lh3.googleusercontent.com/1auQDZb--CkyO61mmkOnmovUxWAqFi_PnYXg3l__I-ok0uhmXhtc8zaYJ848c2pvhl3WhzPFXCWtJmJ7hF_ezSWoU1wa2OMM",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "mathematics",
+    "algorithms",
+    "data structures",
+    "network analysis",
+    "graphs"
+  ],
+  "technologies": [
+    "java"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5956298361274368/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Enhanced support for trees",
+          "short_description": "JGraphT currently lacks proper support for trees (i.e. simple, undirected, connected, acyclic graphs). Sure, all algorithms that work on undirected...",
+          "student_name": "Alexandru Valeanu",
+          "code_url": "https://medium.com/@valexandru2011/gsoc-2018-enhanced-support-for-trees-jgrapht-cfb3c257038",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6627069173694464/"
+        },
+        {
+          "title": "Kolmogorov's Blossom V algorithm for solving minimum weight perfect matching problem in general graphs",
+          "short_description": "This project is focused on developing an implementation of the Kolmogorov's Blossom V algorithm for minimum weight perfect matching, which is a known...",
+          "student_name": "Tymofii Chudakov",
+          "code_url": "https://medium.com/@timofey.chudakov/gsoc-2018-minimum-weight-perfect-matching-jgrapht-669ae59a1e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5183619114991616/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:admin@jgrapht.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/jgrapht-gsoc",
+  "ideas_url": "",
+  "guide_url": ""
+}

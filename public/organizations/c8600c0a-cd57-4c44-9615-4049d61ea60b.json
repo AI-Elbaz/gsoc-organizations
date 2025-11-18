@@ -1,0 +1,45 @@
+{
+  "name": "oVirt",
+  "url": "http://www.ovirt.org",
+  "image_url": "https://lh3.googleusercontent.com/W_PtFwhzkdm5Dfr1awr7uSKqbMoWtpUVdlp9gLzlRfQkQyL_dcULt1xsZE8616k8kFuTJcn2hAPgywWiLACcTK5kCSs7Zg",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "virtualization",
+    "enterprise application"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "kvm"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5718999941775360/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Configuring Backup storage for Ovirt",
+          "short_description": "The project is about configuring any Data Storage Domain as a new Backup Storage Domain.\n\nAfter setting the storage domain to use for backup, all...",
+          "student_name": "Shubham Dubey",
+          "code_url": "https://github.com/shubham0d/Gsoc-2017-ovirt/blob/master/GsocFinalReport/FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6180741675220992/"
+        },
+        {
+          "title": "Implement oVirt integration tests using Lago",
+          "short_description": "Complete the ovirt-system-tests with the necessary tests",
+          "student_name": "Valentina Makarova",
+          "code_url": "https://gist.github.com/vmakarova/62c2941d4723bc2673427db22cf72a29",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6285779395411968/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.ovirt.org/community/",
+  "contact_email": "mailto:users@ovirt.org",
+  "mailing_list": "http://lists.ovirt.org/mailman/listinfo/users",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ovirt",
+  "blog_url": "https://www.ovirt.org/blog/"
+}

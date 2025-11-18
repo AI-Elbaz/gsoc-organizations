@@ -1,0 +1,146 @@
+{
+  "name": "Invesalius",
+  "url": "https://invesalius.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/invesalius/ktlk8dmldhfmlyb2-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "ehealth",
+    "medical imaging",
+    "3D Reconstruction",
+    "3d printing",
+    "Neuronavigation"
+  ],
+  "technologies": [
+    "python",
+    "cython",
+    "numpy",
+    "dicom",
+    "Vtk"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/invesalius",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "fMRI Support to InVesalius",
+          "short_description": "Currently InVesalius does not support simultaneous visualization of structural MRI and fMRI volumes. This is however of large interest to visualize...",
+          "student_name": "Michael Chan",
+          "code_url": "https://github.com/miki998/invesalius3/tree/fmri_supp",
+          "proposal_id": "AGqiyiKp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QeC87EKQ"
+        },
+        {
+          "title": "Add PACS Communication",
+          "short_description": "Picturing Archiving and Communication Systems (PACS) is a tool used to store, retrieve and share medical images among healthcare professionals. PACS...",
+          "student_name": "Vin\u00edcius Cavalcanti",
+          "code_url": "https://github.com/hvini/invesalius3",
+          "proposal_id": "7rZuOPkf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AC0fbfwA"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/invesalius/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "3D edit of masks in InVesalius",
+          "short_description": "The InVesalius software operates with the visualization, reconstruction and edition of CT and MRI images, and is mainly applied to operate on brain...",
+          "student_name": "Henrique N\u00fa\u00f1ez",
+          "code_url": "https://guara.tech/posts/gsoc_2024_invesalius/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DwUUVgie/"
+        },
+        {
+          "title": "Cinematic mode for Invesalius",
+          "short_description": "The proposed project aims to develop a high-quality 3D rendering engine to be integrated with Invesalius. This engine will feature a cinematic mode,...",
+          "student_name": "Vin\u00edcius Arcoverde",
+          "code_url": "https://dot-dog-06a.notion.site/GSoC-Submission-c5593496129b4866a1d9f8db91a8b806",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/X7PDwP45/"
+        },
+        {
+          "title": "Real-time Motor Mapping Visualization for Enhanced TMS",
+          "short_description": "The process of transcranial magnetic stimulation neuronavigation involves the generation of motor evoked potentials (MEP), which are detected and...",
+          "student_name": "Mohamed Gaafar",
+          "code_url": "https://mngaafar.com/projects/creations/tms-motor-mapping-visualization-gsoc-24-invesalius/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BljggnRT/"
+        },
+        {
+          "title": "Add type information to functions, methods and classes in InVesalius",
+          "short_description": "Python's evolution to support static type hinting since Python 3.5 marks a significant milestone in developing robust programs. This project aims to...",
+          "student_name": "Omar Abdelgawad",
+          "code_url": "https://github.com/invesalius/invesalius3/issues/830",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fKG1Dl3D/"
+        },
+        {
+          "title": "Add logging and error catching tool",
+          "short_description": "Tool that allows the user to activate the capture of logs and errors. It should be possible to save the sequence of events in a text file. It will be...",
+          "student_name": "Rishabh Ranjan",
+          "code_url": "https://github.com/rishabh-ranjan1/GSoC-2024-Documentation/blob/main/Rishabh-Ranjan-invesalius-2024-Final-Report.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zYrNyRVw/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/invesalius",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "3D edition of masks",
+          "short_description": "InVesalius is an open-source software that enables synchronous 2D and 3D visualization of medical images, facilitating the reconstruction of computed...",
+          "student_name": "Felipe Cybis Pereira",
+          "code_url": null,
+          "proposal_id": "wXxz5lp4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/H1nIn5ni"
+        },
+        {
+          "title": "Add unit tests to InVesalius to ease the process of adding new features",
+          "short_description": "This project addresses the lack of automated testing in InVesalius, which currently relies on manual verification, slowing development and risking...",
+          "student_name": "Hrishav Deka",
+          "code_url": null,
+          "proposal_id": "CNDgDUEe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QsOP2iEF"
+        },
+        {
+          "title": "Use GitHub actions to create installers for macOS",
+          "short_description": "The proposed project aims to automate the creation of nightly and release installers for InVesalius on macOS using GitHub Actions. By leveraging...",
+          "student_name": "Mann Patwa",
+          "code_url": null,
+          "proposal_id": "Xs0GcwTf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2LCxiDo6"
+        },
+        {
+          "title": "Simultaneous visualization and control of Two Robots for Dual Transcranial Magnetic Stimulation",
+          "short_description": "Development and integration of the functionality for simultaneous control of two robots, aimed at applying dual-site Transcranial Magnetic...",
+          "student_name": "M\u00e1rcio Campos",
+          "code_url": null,
+          "proposal_id": "pcioYG3w",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vG6Rv7zY"
+        },
+        {
+          "title": "Improvements in user response (loading and   saving files)",
+          "short_description": "InVesalius, a medical imaging tool, lacks user feedback during file loading and saving (e.g., .inv3 projects) and offers a basic, non-cancellable...",
+          "student_name": "Shruti Parmar",
+          "code_url": null,
+          "proposal_id": "xd1jKFJr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/D5nIVoDd"
+        },
+        {
+          "title": "Segment Brain in it's Subparts",
+          "short_description": "This project tackles the challenge of time-consuming manual brain segmentation in MRI by developing an automated tool using deep learning...",
+          "student_name": "unichronic",
+          "code_url": null,
+          "proposal_id": "7pp31Q1O",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Thg42Q4y"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://github.com/invesalius/invesalius3/discussions",
+  "ideas_url": "https://github.com/invesalius/gsoc/blob/main/gsoc_2025_ideas.md",
+  "guide_url": "https://github.com/invesalius/gsoc/blob/main/gsoc_application.md",
+  "blog_url": "https://invesalius.github.io/publication.html"
+}

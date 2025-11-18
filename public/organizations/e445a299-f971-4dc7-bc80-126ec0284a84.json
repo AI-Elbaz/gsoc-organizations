@@ -1,0 +1,656 @@
+{
+  "name": "Debian",
+  "url": "https://debian.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/debian/mmld9soj4mti8bjn-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "web",
+    "continuous integration",
+    "community",
+    "applications",
+    "operating system",
+    "communications",
+    "packaging",
+    "package managers",
+    "kernel",
+    "android-sdk",
+    "clojure",
+    "debian-ci",
+    "robotics",
+    "graphics",
+    "cloud",
+    "SDR",
+    "ai",
+    "CI/CD",
+    "autopkgtest",
+    "raspberrypi_builds",
+    "mobian"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "django",
+    "ruby",
+    "c++",
+    "javascript",
+    "java",
+    "git",
+    "irc",
+    "perl",
+    "rust"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4808739873882112/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Improving voice, video and chat communication with free software",
+          "short_description": "I want to contribute to a project which support high end communication via free and open source tools. I want to contribute to FreeRTC project",
+          "student_name": "PranavJain",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/StudentApplications/PranavJain/WorkProduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6344242221809664/"
+        },
+        {
+          "title": "Improving voice, video and chat communication with free software",
+          "short_description": "Project include fixing and resolving some bugs with opportunity to bring and implement something innovative that will make this project a splendid...",
+          "student_name": "udit043",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/WorkProduct/UditRaikwar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6404166679265280/"
+        },
+        {
+          "title": "Improving voice, video and chat communication with free software",
+          "short_description": "The project is aimed at improving the mips and mipsel ports. My implication in the project will therefore reflect the needs of the team that have...",
+          "student_name": "JonathanJson",
+          "code_url": "https://drive.google.com/open?id=0B6lw9jw-ACGSc2hEOGlXZnlFVFk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6470515334053888/"
+        },
+        {
+          "title": "Ring project",
+          "short_description": "I will work on the RING project for Savoir Faire Linux. I will create tool to know the exact performances of the ring software on the different...",
+          "student_name": "Gasuleg",
+          "code_url": "https://gasuleg.github.io/gsoc2016/final_report/2016/08/19/Final-Evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6477112403820544/"
+        },
+        {
+          "title": "Improving voice, video and chat communication with free software",
+          "short_description": "Free RTC is for running your own, independent, federated and peer-to-peer RTC solutions, including instant messaging (IM), voice-over-IP (VoIP),...",
+          "student_name": "Mesut Can Gurle",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/WorkProduct/Free_WebRTC_plugins",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6570957976109056/"
+        },
+        {
+          "title": "Indexation over a distributed network",
+          "short_description": "As some project, like Ring, need some form of indexation, which could be usefull, for example to index user profile, or some other ressources....",
+          "student_name": "Reynaud Nicolas",
+          "code_url": "https://docs.google.com/document/d/1sWIEGvmVdvbWOaJ7QCXGJt_08ZjeSRnYrYQrgk4hDbg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6573755878866944/"
+        },
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "The Android platform is free software, including the tools used for developing apps for Android. Debian-derivatives are already a preferred platform...",
+          "student_name": "Mouaad Aallam",
+          "code_url": "https://wiki.debian.org/MouaadAallam/SummerOfCode2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6664655908896768/"
+        },
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "Android is the most widely used free, open source mobile operating system.\nThe tools used to create applications for the platform are also open...",
+          "student_name": "Chirayu Desai",
+          "code_url": "https://wiki.debian.org/ChirayuDesai/SummerOfCode2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5478686052581376/"
+        },
+        {
+          "title": "Support for KLEE in Debile",
+          "short_description": "Writing and maintaining software is challenging. Software is complex and keeping it\nbug-free remains an unsolved problem. Debian Stretch, the next...",
+          "student_name": "Marko Dimja\u0161evi\u0107",
+          "code_url": "https://dimjasevic.net/marko/2016/08/14/summary-of-my-google-summer-of-code-2016-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5010782383243264/"
+        },
+        {
+          "title": "Telepathy Connection Manager for Ring protocol",
+          "short_description": "Telepathy is the framework for Real-time communication on the major\nLinux desktops and Ring is a secure and distributed peer to peer network for real...",
+          "student_name": "Alok Anand",
+          "code_url": "https://gist.github.com/alok4nand/35a8e085fc62a8641cbf653881ab3ca2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5047255782391808/"
+        },
+        {
+          "title": "Create new recommendation strategy for AppRecommender",
+          "short_description": "This project aims at creating a new strategy for AppRecommender. The new approach would only be triggered when the user installs a new package....",
+          "student_name": "Luciano",
+          "code_url": "http://softwarelivre.org/lucianopc/blog/apprecommender-last-gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5089770455695360/"
+        },
+        {
+          "title": "APT\u2194dpkg communication rework",
+          "short_description": "APT-based tools work with the user to figure out how their system should look like after they are done installing/removing packages and their...",
+          "student_name": "DonKult",
+          "code_url": "https://david.kalnischkies.de/blog/posts/2016/gsoc_2016_summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5104997591154688/"
+        },
+        {
+          "title": "Improving WebRTC, Apache Camel and Jitsi",
+          "short_description": "ICE and TURN support for Jitsi, SIP message for Apache Camel, WebRTC server probe.",
+          "student_name": "Nik Vaessen",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/StudentApplications/NikVaes/workproduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5570021484920832/"
+        },
+        {
+          "title": "Web Client and Connection Manager for reSIProcate",
+          "short_description": "I will work to add a support for a Web Client in conference calls and a Connection Manager for reSIProcate. I will also make a good effort at making...",
+          "student_name": "Mateus Augusto Bellomo Agrello Ruivo",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/StudentApplications/MateusBellomo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5634704229269504/"
+        },
+        {
+          "title": "AppRecommender - integration with AppStream",
+          "short_description": "AppRecommender is a recommender system for Debian packages. Currently, this application can only be run through terminal commands. The idea of this...",
+          "student_name": "lucasmoura",
+          "code_url": "https://lucasmoura.github.io/blog/2016/08/01/apprecommender-gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4868344087838720/"
+        },
+        {
+          "title": "Improving distributed and secure communication using free software",
+          "short_description": "Distributed and secure communication for the sake of user's privacy has never been as much needed as of now. That's why I feel a great pleasure to...",
+          "student_name": "sim590",
+          "code_url": "http://sim590.github.io/post/gsoc/final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4886025126019072/"
+        },
+        {
+          "title": "Developer Horizon and other extensions",
+          "short_description": "I propose to work for following projects for Google Summer of Code 16 under Debian.\n\n\nContinue the development of Developer Horizon project and...",
+          "student_name": "Harsh Daftary",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/WorkProduct/Developer_Horizon_and_extensions",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5819438557298688/"
+        },
+        {
+          "title": "YooHoo - The Perfect Chat Engine",
+          "short_description": "Project Details: YooHoo, is a interactive chat engine, which supports text, audio, video chats and file sharing. It is to facilitate one-to-one...",
+          "student_name": "Balu Menon",
+          "code_url": "https://wiki.debian.org/SummerOfCode2016/WorkProduct/Balram",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5889807301476352/"
+        },
+        {
+          "title": "CI for Debian-Med",
+          "short_description": "The Debian Med project prepares packages that are associated with\nmedicine, pre-clinical research, and life sciences. Its developments are\nmostly...",
+          "student_name": "Canberk Ko\u00e7",
+          "code_url": "https://docs.google.com/document/d/1LBj4Ys39_gxTVwLx8iJGJ8bqB_hCUG0qvQYFq9_-v0M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6277419778441216/"
+        },
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "Improve the existing Android SDK packages in Debian and bring in more of them.\n\nGet existing SDK packages migrated into Testing\nFinish packaging SDK...",
+          "student_name": "Kai-Chung Yan",
+          "code_url": "https://wiki.debian.org/KaichungYan/SummerOfCode2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5147973570789376/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6481377977434112/",
+      "num_projects": 22,
+      "projects": [
+        {
+          "title": "Click To Dial Popup Window for the Linux Desktop",
+          "short_description": "An application (invoked as a MIME handler) with a GUI that can place a phone call, display details about the country in which the phone number is...",
+          "student_name": "VishalGupta",
+          "code_url": "http://vishalgupta.me/debdialer/GSoC/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5682274280407040/"
+        },
+        {
+          "title": "Design and implementation of a Debian SSO solution",
+          "short_description": "The Debian project has an SSO solution that DDs (Debian Developers) and guests can authenticate against on different Debian websites. With the...",
+          "student_name": "Birger Schacht",
+          "code_url": "https://bisco.org/notes/final-gsoc-2018-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5454727449935872/"
+        },
+        {
+          "title": "Kanban Board for Debian Bug Tracker and CalDAV servers",
+          "short_description": "A desktop GUI application that can obtain task lists from various sources (Debian Bug Tracker's iCalendar feed and Github iCalendar, CalDAV servers...",
+          "student_name": "Chikirou Massiwayne",
+          "code_url": "https://salsa.debian.org/Mass-guest/GSoC-Kanban_Board/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5458841021972480/"
+        },
+        {
+          "title": "Free Software Habits - Firefox extension",
+          "short_description": "Plugin (web-extension) to help avoid non-free sites that pop-up on Firefox by recommending free alternatives when non-free sites are recognized. Its...",
+          "student_name": "Enkelena Haxhija",
+          "code_url": "https://github.com/Enkelena/free-software-habits/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5466197428535296/"
+        },
+        {
+          "title": "Port Kali Packages to Debian",
+          "short_description": "This project consists of porting Kali Packages to Debian, it is a work that the pkg-security team handles on Debian but there\u2019s still lots of things...",
+          "student_name": "SamuelHenrique samueloph",
+          "code_url": "https://salsa.debian.org/samueloph/gsoc2018-portkalipackages/blob/master/final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5500760238325760/"
+        },
+        {
+          "title": "Click To Dial Popup Window for the Linux Desktop",
+          "short_description": "Application pops up when a user clicks on a tel: link in an application such as Firefox, Chrome, Evolution. Pop-up window displays the phone number...",
+          "student_name": "Sanjay Prajapat",
+          "code_url": "https://salsa.debian.org/snippets/122",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5011661106708480/"
+        },
+        {
+          "title": "Extracting data from PDF invoices and bills for financial accounting",
+          "short_description": "This project aims to develop a complete workflow for discovering bills (in a directory, mail folder or with a browser plugin to extract them from web...",
+          "student_name": "Harshit Joshi",
+          "code_url": "http://blog.harshitjoshi.in/2018/08/gsoc-2018-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5077288206991360/"
+        },
+        {
+          "title": "A calendar database of social events and conferences",
+          "short_description": "This project aims to deliver open database for community which includes events  across the world from many different sources.",
+          "student_name": "Do\u011fukan \u00c7EL\u0130K",
+          "code_url": "https://web.itu.edu.tr/celikd/2018/08/14/gsoc-2018-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5101580542017536/"
+        },
+        {
+          "title": "GSoC 2018 Android SDK tools in debian",
+          "short_description": "finish packaging all of the core development tools (lint, SDK Manager, android update project utility, etc.)\nupdate android-tools and relevant...",
+          "student_name": "Saif Abdul Cassim",
+          "code_url": "https://salsa.debian.org/snippets/115",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5117027391897600/"
+        },
+        {
+          "title": "Automatic Packages for Everything",
+          "short_description": "Many packaging tasks can be automated, and are likely to succeed without any human intervention:\n\ncreating a backport for Debian stable from a...",
+          "student_name": "Alexandre Viau",
+          "code_url": "https://salsa.debian.org/aviau/gsoc-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5299432639692800/"
+        },
+        {
+          "title": "PGP Clean Room Live CD",
+          "short_description": "Building a TUI application for the PGP Clean Room Live CD to walk a user through safely creating and storing a PGP key offline. \nWill also support...",
+          "student_name": "Jacob Adams",
+          "code_url": "https://tookmund.com/2018/08/pgp-clean-room",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5374838306766848/"
+        },
+        {
+          "title": "Wizard/GUI helping students/interns apply and get started",
+          "short_description": "Throughout the application process and first few weeks of programs like Google Summer of Code and Outreachy, applicants typically need to work...",
+          "student_name": "Elena Gjevukaj",
+          "code_url": "https://elenagjevukaj.github.io/2018/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6185924358569984/"
+        },
+        {
+          "title": "Reverse Engineering Radiator Bluetooth Thermovalves",
+          "short_description": "Radiator valves have become increasingly important in recent years, especially in some countries where they have been made mandatory by law. This led...",
+          "student_name": "Sergio Alberti",
+          "code_url": "https://gitlab.com/sergioalberti/gsoc-blereverse/blob/master/GSoC-2018/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4526455161618432/"
+        },
+        {
+          "title": "Wizard/GUI helping students/interns apply and get started",
+          "short_description": "This project aims at developing tools and packages which would simplify the process for new applicants in the open source community to get the...",
+          "student_name": "Minkush Jain",
+          "code_url": "https://wiki.debian.org/MinkushJain/WorkProduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4550553417809920/"
+        },
+        {
+          "title": "Improving Distro Tracker to better support Debian teams",
+          "short_description": "This project aims at designing and implementing new features in Distro Tracker [http://tracker.debian.org/] to better support Debian teams to track...",
+          "student_name": "Arthur Del Esposte",
+          "code_url": "https://salsa.debian.org/outreach-team/intern-work-products/tree/master/gsoc/2018/arthurmde-guest",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4773496580210688/"
+        },
+        {
+          "title": "Packaging and Updating Android SDK Tools",
+          "short_description": "Debian-derivatives are already a preferred platform for Android developers, and stretch already includes the core Android SDK tools, enough to build...",
+          "student_name": "Chandramouli Rajagopalan",
+          "code_url": "https://salsa.debian.org/snippets/124",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4818630244040704/"
+        },
+        {
+          "title": "Wizard/GUI helping students/interns apply and get started",
+          "short_description": "Wizard/GUI is an application which brings together all the Tools and Tutorials necessary for a person to learn and start contributing to Open Source....",
+          "student_name": "realslimshanky",
+          "code_url": "https://blog.shanky.xyz/gsoc-2018-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6561448448753664/"
+        },
+        {
+          "title": "EasyGnuPG Improvements",
+          "short_description": "EasyGnuPG (aka EGPG) is a shell script that wraps GPG and tries to make it more accessible and easy to use.\nIn order to simplify things, EGPG is...",
+          "student_name": "diveshuttam",
+          "code_url": "https://diveshuttam.me/2018/GSoC/FinalReport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6048337295835136/"
+        },
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "The Debian Android Tools team is working towards the goal of having the entire Android toolchain and SDK in Debian. That means Android apps can be...",
+          "student_name": "darkLord",
+          "code_url": "https://gist.github.com/darkLord19/46dac8fd935375d4064812963eb21ebf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4881923432251392/"
+        },
+        {
+          "title": "P2P Network Boot with BitTorrent",
+          "short_description": "In this project, we explore the solutions that allow P2P network booting of Linux based systems and then create an easy to use and distribution...",
+          "student_name": "Shreyansh Khajanchi",
+          "code_url": "https://shreyanshja.in/blog/gsoc18--debian-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4940883401113600/"
+        },
+        {
+          "title": "OwnMailbox Improvements",
+          "short_description": "Improve current functionality of the OwnMailbox personal email server, implement support for a GPG Key Server and HSTS. Furthermore, thoroughly...",
+          "student_name": "Georgios Pipilis",
+          "code_url": "https://gist.github.com/giorgos314/c718abc42c57f2e691ebaf40406df31a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4941142441328640/"
+        },
+        {
+          "title": "Automatic builds with clang using OBS",
+          "short_description": "Debian package builds with clang are performed from time to time through massive rebuilds of the Debian archive on AWS. The results of these builds...",
+          "student_name": "Athos Ribeiro",
+          "code_url": "https://athoscr.me/blog/gsoc2018-8/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5156542835851264/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4816120068964352/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "The aim of this project is to package additional Android SDK Tools in Debian and to update some packaged Android SDK Tools to the latest upstream...",
+          "student_name": "Katerina",
+          "code_url": "https://salsa.debian.org/snippets/318",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6688603470561280/"
+        },
+        {
+          "title": "Android SDK tools in Debian",
+          "short_description": "I plan to package Kotlin 1.1.1 so that the android sdk tools packages that depend on Kotlin can finally be packaged. I am also planning on updating...",
+          "student_name": "Saif Abdul Cassim",
+          "code_url": "https://salsa.debian.org/snippets/317",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5064599563403264/"
+        },
+        {
+          "title": "Package Loomio for Debian",
+          "short_description": "Loomio is a decision-making software designed to assist groups with the collaborative decision-making process. It is a free software web application,...",
+          "student_name": "utkarsh2102",
+          "code_url": "http://utkarsh2102.tk/debian/2019/08/26/farewell-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6014695855620096/"
+        },
+        {
+          "title": "Debian Cloud Image Finder",
+          "short_description": "This project aims to develop a web application that will make it easier for users to find official Debian cloud images.",
+          "student_name": "Arthur Diniz",
+          "code_url": "https://salsa.debian.org/cloud-team/image-finder/wikis/Final-Evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4892140520341504/"
+        },
+        {
+          "title": "Debian Patch Porting System",
+          "short_description": "Traditional patching methods require a lot of investigation, looking for the right patch, applying it, compiling, failing, and trying again. The...",
+          "student_name": "Jaskaran Singh",
+          "code_url": "https://jajajasalu2.github.io/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5221621235712000/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6279124282245120/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Architecture Cross-Grading Support in Debian",
+          "short_description": "The project aims to create tools that will simplify the manual process of switching between two architectures (crossgrading) and to make it a...",
+          "student_name": "Kevin Wu",
+          "code_url": "https://salsa.debian.org/crossgrading-team/debian-crossgrading/-/wikis/GSoC-2020:-Final-Evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5453452689276928/"
+        },
+        {
+          "title": "Android SDK tools in Debian",
+          "short_description": "The end goal of the project is making the entire Android toolchain and SDK tools available in debian archives. So that a user can develop android...",
+          "student_name": "Raman Sarda",
+          "code_url": "https://wiki.debian.org/theloudspeaker/SummerOfCode2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5097070093926400/"
+        },
+        {
+          "title": "Packaging and Quality Assurance of COVID-19 Relevant Applications",
+          "short_description": "The Debian Med team currently has around 920 packages in main, contrib\nand non-free sections. This count is further increasing with new incoming...",
+          "student_name": "Nilesh Patra",
+          "code_url": "https://salsa.debian.org/snippets/474",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5104746207117312/"
+        },
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "The Android platform is free software which includes the tools used for developing apps for Android. As Debian and its derivatives are a preferred...",
+          "student_name": "samyak-jn",
+          "code_url": "https://samyak-jn.tk/Ending-of-an-adventure/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6202776943591424/"
+        },
+        {
+          "title": "Android SDK Tools for Debian",
+          "short_description": "The main aim of the project will be to have the entire Android tool chain and SDK in Debian making Debian a Powerful Operating System and making...",
+          "student_name": "MANAS KASHYAP",
+          "code_url": "https://wiki.debian.org/ManasKashyap/summerofcode2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4610515361333248/"
+        },
+        {
+          "title": "Downstream Upstream Cooperation in Ruby",
+          "short_description": "The Debian Ruby team has a lot of experience in packaging and managing Ruby libraries and applications for Debian. During this work, they identified...",
+          "student_name": "utkarsh2102",
+          "code_url": "https://github.com/utkarsh2102/rubocop-packaging",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4736285727522816/"
+        },
+        {
+          "title": "Quality Assurance and Continuous Integration for Applications in Life  Sciences and Medicine",
+          "short_description": "The Debian Med project has packaged several applications in life sciences and medicine. Continuous integration for these packages is very important...",
+          "student_name": "Pranav Ballaney",
+          "code_url": "https://salsa.debian.org/snippets/473",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4802067178192896/"
+        },
+        {
+          "title": "BLAS/LAPACK Ecosystem Enhancement for Debian",
+          "short_description": "Abstract Dense (numerical) Linear Algebra plays an important role in scientific computing, and is typically implemented by the BLAS/LAPACK libraries....",
+          "student_name": "Mo Zhou",
+          "code_url": "https://salsa.debian.org/lumin/gsoc2020-debian-blaslapack",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6021080197627904/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5913368723980288/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Quality Assurance and Continuous Integration for Applications in Life Sciences and Medicine",
+          "short_description": "My project aims to write autopkgtests for Debian Med packages, fix existing tests that fail and find and fix the errors uncovered by these tests.",
+          "student_name": "Shruti Sridhar",
+          "code_url": "https://salsa.debian.org/-/snippets/555",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5692306757255168/"
+        },
+        {
+          "title": "Packaging Caddy",
+          "short_description": "My Proposal is to package the Caddy Webserver for debian, including the necessary dependencies for building it, documentation, system-integration and...",
+          "student_name": "Peymaneh Nejad",
+          "code_url": "https://peymaneh.pages.debian.net/posts/finalreport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5297708952190976/"
+        },
+        {
+          "title": "Android SDK tools in Debian",
+          "short_description": "Compile latest upstream Android SDK and related platform tools into android-sdk-latest and android-platform-tools-latest packages respectively, for...",
+          "student_name": "Prateek Ganguli",
+          "code_url": "https://wiki.debian.org/PrateekGanguli/SummerOfCode2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5985620073119744/"
+        },
+        {
+          "title": "Incremental Improvements to Debian\u2019s CI platform",
+          "short_description": "Debian Continuous Integration is Debian\u2019s CI platform. It runs tests on the packages published in the Debian archive, and today is used to control...",
+          "student_name": "Pavit Kaur",
+          "code_url": "https://pavitkaur05.github.io/post/gsoc-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6267095049830400/"
+        },
+        {
+          "title": "A Privacy-Respecting Email Service for Personal Servers",
+          "short_description": "Deploying an email service requires patience and technical expertise, as it involves orchestrating a myriad of heterogeneous software components. The...",
+          "student_name": "Flynn",
+          "code_url": "https://salsa.debian.org/freedombox-team/freedombox/-/merge_requests/2077",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6310957336231936/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/debian/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Quality Assurance for Biological and Medical Applications inside Debian",
+          "short_description": "The Debian Med project has packaged several applications in life sciences and medicine. Among the existing packages, many lack autopkgtest. Through...",
+          "student_name": "Mohammed Bilal",
+          "code_url": "https://salsa.debian.org/-/snippets/609",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xGrSQrYu/"
+        },
+        {
+          "title": "ANDROID SDK TOOL IN DEBIAN",
+          "short_description": "The android platform is a set of free software for android development. With the Debian platform and its derivatives ( like Ubuntu ) being the choice...",
+          "student_name": "Nkwuda Sunday",
+          "code_url": "https://wiki.debian.org/Sunday%20Nkwuda%20GSOC%20Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wiCCx2VN/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/debian/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Android SDK Tools in Debian",
+          "short_description": "The Android platform, including its development tools, operates on open-source principles. Debian-derivatives have emerged as preferred platforms for...",
+          "student_name": "anuragxone",
+          "code_url": "https://salsa.debian.org/-/snippets/729",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Gy3gXSJo/"
+        },
+        {
+          "title": "Benchmarking Parallel Performance of Numerical MPI Packages",
+          "short_description": "Deliver an automated method for Debian maintainers to test selected numerical Debian packages for their parallel performance in clusters, in...",
+          "student_name": "Nikolaos Chatzikonstantinou",
+          "code_url": "https://gsoc2024-parsons-ballarin----b19696eb446388731f769f725c7642be22.pages.debian.net/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/E9Jp7RUx/"
+        },
+        {
+          "title": "Expanding ROCm Support in Debian and Derivatives",
+          "short_description": "ROCm is one of the open source alternatives and main competitor to CUDA. Currently, Debian and its derivatives supports only the core packages of...",
+          "student_name": "xuantengh",
+          "code_url": "https://salsa.debian.org/-/snippets/728",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8EzEWh3G/"
+        },
+        {
+          "title": "Improve support of the Rust coreutils in Debian",
+          "short_description": "The goal of this project is to make uutil behave more like gnu\u2019s coreutils by improving compatibility with gnu coreutils test suit. This project\u2019s...",
+          "student_name": "Sreehari Prasad TM",
+          "code_url": "https://docs.google.com/document/d/1Pj0QhihLwoviPpZLfpAi8rBXmKtKrBeBj0mUVB578lY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Vgx2pcJb/"
+        },
+        {
+          "title": "Improve support of the Rust findutils in Debian",
+          "short_description": "Reimplemented the GNU suite using the Rust language and improved its compatibility so that it could be put into production. The main tasks include:...",
+          "student_name": "hanbings",
+          "code_url": "https://blog.hanbings.io/events/gsoc-2024-improve-support-of-the-rust-findutils-in-debian/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Rv3xx9w2/"
+        },
+        {
+          "title": "Debian MobCom",
+          "short_description": "The open-source mobile communication suite, Osmocom, is an umbrella project that hosts a variety of tools and software for a multitude of...",
+          "student_name": "Nathan D",
+          "code_url": "https://salsa.debian.org/users/natedoris/projects",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kRcajakh/"
+        },
+        {
+          "title": "Implementation of the procps tools in Rust",
+          "short_description": "The current uutils project is progressing well, and coreutils in particular is even partially production-ready. However, there are still not enough...",
+          "student_name": "Krysztal Huang",
+          "code_url": "https://krysztal.notion.site/GSoC2024-Progress-1790ac199fa44b45b5b7831419bb61e2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gUvvtVFj/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/debian",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Enhancing Salsa CI: Stats Dashboard,  Local Execution, and Faster Pipelines",
+          "short_description": "This project suggests significant upgrades to Salsa CI (Debian's Continuous Integration system) used by more than 27,000 source packages by adding an...",
+          "student_name": "Aayush (@44yu5h)",
+          "code_url": null,
+          "proposal_id": "IhFuAfyq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YTXVewUk"
+        },
+        {
+          "title": "Enhancing Salsa CI in Debian",
+          "short_description": "This project aims to enhance Salsa CI, a key tool in Debian's package workflow that ensures smooth transitions from unstable to testing release via...",
+          "student_name": "aquilamacedo",
+          "code_url": null,
+          "proposal_id": "rhQotKRa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mmwLagR0"
+        },
+        {
+          "title": "Quality assurance and continuous integration for biological and medical applications inside Debian",
+          "short_description": "Most Debian Med packages\u2014particularly those utilized in medicine and biology\u2014do not have adequate automated tests (autopkgtests). Without them, it's...",
+          "student_name": "Harish  Chavre",
+          "code_url": null,
+          "proposal_id": "nGL0ZUF0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/k1gTnKpU"
+        },
+        {
+          "title": "Package LLM Inference Libraries",
+          "short_description": "Package Large Language Model (LLM) inference libraries, in particular vLLM. It is needless to explain how LLMs are important. Currently, the Debian...",
+          "student_name": "k1000dai",
+          "code_url": null,
+          "proposal_id": "urDwMLAm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ui7418HU"
+        },
+        {
+          "title": "Make Debian for Raspberry Pi Build Again",
+          "short_description": "There is an available set of images for running Debian in Raspberry Pi computers (all models below the 5 series)! However, the maintainer severely...",
+          "student_name": "Kurva Prashanth",
+          "code_url": null,
+          "proposal_id": "k7gSVuMv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JvTO8QWv"
+        },
+        {
+          "title": "Device-specific Tweaks Management Service (Tweakster)",
+          "short_description": "As the number of non-x86 Linux-capable devices grows rapidly (especially ARM64 laptops, phones, and tablets), the current approach of providing...",
+          "student_name": "Mohammed ElDegwi",
+          "code_url": null,
+          "proposal_id": "24FyQuP3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n3V7U4aF"
+        },
+        {
+          "title": "autopkgtests for the rsync package",
+          "short_description": "Extend the Debian rsync package autopkgtest suite by running more upstream tests, setting up end-to-end tests with a proper ssh connection, and...",
+          "student_name": "puer robustus",
+          "code_url": null,
+          "proposal_id": "u5nnIK9t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aaoCw79w"
+        },
+        {
+          "title": "Enhancing Debian packages with ROCm GPU acceleration",
+          "short_description": "Due to Debian\u2019s open-source nature, no Debian package in main can have a proprietary GPU package listed as a dependency. While AI and HPC workloads...",
+          "student_name": "Spaarsh",
+          "code_url": null,
+          "proposal_id": "XEeG2kJk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9s4jUjV0"
+        },
+        {
+          "title": "Enhancing Debian Packages with ROCm GPU Acceleration",
+          "short_description": "ROCm is one of the most promising open-source platforms for GPU computing, providing a vendor-neutral alternative to CUDA, for scientific, AI, and...",
+          "student_name": "utk4r-sh",
+          "code_url": null,
+          "proposal_id": "cxO4pcO1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eqs8heGE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.debian.org/IRC",
+  "contact_email": "mailto:outreach@debian.org",
+  "mailing_list": "https://lists.debian.org/debian-outreach",
+  "ideas_url": "https://wiki.debian.org/SummerOfCode2025/Projects",
+  "guide_url": "https://wiki.debian.org/SummerOfCode2025",
+  "twitter_url": "https://twitter.com/debian",
+  "blog_url": "https://bits.debian.org/"
+}

@@ -1,0 +1,221 @@
+{
+  "name": "Django Software Foundation",
+  "url": "https://www.djangoproject.com",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/django-software-foundation-8o/685unxpkksrvfugu-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web development",
+    "web",
+    "web applications",
+    "python"
+  ],
+  "technologies": [
+    "python",
+    "django"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5977934124810240/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Reworking Django's Indexes",
+          "short_description": "This proposal aims to provide more customisability to Django users in operations related to database indexes - their creation, modification. Another...",
+          "student_name": "Akshesh",
+          "code_url": "https://gist.github.com/akki/f45c7cf5db30c025f49d862d82dd259a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5000784504684544/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4608650232463360/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5080222944722944/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5608632467587072/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Add Cross-DB JSONField",
+          "short_description": "Django currently has limited support for JSONField. The support is provided in contrib.postgres.fields module, meaning it can only be used for...",
+          "student_name": "Sage Muhammad Abdullah",
+          "code_url": "https://github.com/django/django/pull/11452",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6436908320686080/"
+        },
+        {
+          "title": "FormSet Improvements",
+          "short_description": "This project aims to improve the FormSet Class in Django, thus enhancing its functionality and ease of use.\nDjango currently has a formset class...",
+          "student_name": "Parth Patil",
+          "code_url": "https://parthvpatil.github.io/blog/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6602462616616960/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5420240042721280/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Extending the parallel test runner to Windows and macOS, and adding Oracle support",
+          "short_description": "This project expands Django's parallel test runner to work on Windows and macOS by running the parallel test runner using spawn, and also adds Oracle...",
+          "student_name": "Ahmad A. Hussein",
+          "code_url": "https://gist.github.com/lothemar/e4751293c9a940b2f2983608bd2c3643",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6346374846611456/"
+        },
+        {
+          "title": "Refactor of Django Stubs Mypy plugin",
+          "short_description": "Django Stubs plugin supporting Mypy (static type checker) needs to be thoroughly\nrefactored, or even partially rewritten. Getting rid of various...",
+          "student_name": "Kacper Szmigiel",
+          "code_url": "https://github.com/typeddjango/django-stubs/issues/450",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5873052807593984/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6030298738851840/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Adding a Redis cache backend to Django's core module",
+          "short_description": "This project aims at adding support for Redis to be used as a caching backend with Django. As redis is the most popular caching backend according to...",
+          "student_name": "Daniyal Abbasi",
+          "code_url": "https://github.com/django/django/pull/14437",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5647715232382976/"
+        },
+        {
+          "title": "Adapt schema editors to operate from model states instead of fake rendered models during migrate phase",
+          "short_description": "The new implementation will consist of a central registry in ProjectState instances where all the related fields would be registered for all apps....",
+          "student_name": "Manav Agarwal",
+          "code_url": "https://manav014.github.io/GSoC-blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5692235521196032/"
+        },
+        {
+          "title": "New database search backend",
+          "short_description": "The goal of my project is to replace the current default database search backend in Wagtail, which is a dummy backend that comes enabled by default,...",
+          "student_name": "Ald\u00e1n Creo",
+          "code_url": "https://gist.github.com/ACMCMC/06b578b15b3b69f55f0c0127956afa12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5293539344252928/"
+        },
+        {
+          "title": "Wagtail Live",
+          "short_description": "High speed content delivery from a messaging app to a Wagtail site.",
+          "student_name": "Tidiane",
+          "code_url": "https://wagtail.github.io/wagtail-live/gsoc_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4558837138325504/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/django-software-foundation-8o/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Per field-instance lookups",
+          "short_description": "Currently, lookups could be registered to a Field class which limits the versatility of Django lookups. This project adds support for lookups...",
+          "student_name": "Allen Jonathan David",
+          "code_url": "https://gist.github.com/AllenJonathan/daa714160858004b3adef90d416574da",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8nLt19Gm/"
+        },
+        {
+          "title": "Django Benchmarking",
+          "short_description": "The main goals of this project are to improve the current set of Django benchmarks in djangobench by integrating them with Airspeed velocity and...",
+          "student_name": "Deepak Dinesh",
+          "code_url": "https://gist.github.com/deepakdinesh1123/58d91e292533746017e3568c5a3f374f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/t8r1UJgj/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/django-software-foundation-8o",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Allow moving a model between apps",
+          "short_description": "The goal of this project is to allowing moving models between apps.. The model movement will be auto detected by a new generate_moved_model method in...",
+          "student_name": "Bhuvnesh Sharma",
+          "code_url": "https://gist.github.com/DevilsAutumn/61404f4cbfc583ced8dbc7a66d9de127",
+          "proposal_id": "FQqWgSdn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZnrbdQSB"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/django-software-foundation-8o/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Add support for using key and path transforms in update() for JSONFields.",
+          "short_description": "The ticket-32159 (https://code.djangoproject.com/ticket/32519) originally requested a new feature to make Django provide generic database functions...",
+          "student_name": "Shafiya Adzhani",
+          "code_url": "https://github.com/django/django/pull/18489",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dav6kK0h/"
+        },
+        {
+          "title": "Django ORM support for composite primary keys",
+          "short_description": "In database design, composite primary keys are often necessary for the partitioning and sharding of database tables. - Citus is a PostgreSQL...",
+          "student_name": "csirmazbendeguz",
+          "code_url": "https://gist.github.com/csirmazbendeguz/112ca6256f006f49fddfc952276022d1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/cv8UcKtX/"
+        },
+        {
+          "title": "Add Async Support to Django Debug Toolbar",
+          "short_description": "The project aims to enhance the Django Debug Toolbar (DDT) by adding comprehensive asynchronous support to make it fully compatible with Django...",
+          "student_name": "AmanPandey",
+          "code_url": "https://gist.github.com/salty-ivy/eca9251850ac6f5473cf6cbe67ddd5e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iXVvyGYp/"
+        },
+        {
+          "title": "Auto Importing Shell",
+          "short_description": "This would be an update of the existing Django shell that auto-imports models for you from your app/project. Also, the goal would be to allow the...",
+          "student_name": "Salvo Polizzi",
+          "code_url": "https://gist.github.com/salvo-polizzi/cc53ece836ecc8f9dd863e21168feb23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MghMVVvO/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/django-software-foundation-8o",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Django Admin: Add Keyboard Shortcuts and Command Palette",
+          "short_description": "This proposal aims to improve the django-admin-keyboard-shortcuts package by adding new keyboard shortcuts, fixing existing issues, and introducing a...",
+          "student_name": "A. Rafey Khan",
+          "code_url": null,
+          "proposal_id": "KSPsax9b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4jQE5v5B"
+        },
+        {
+          "title": "Django Templates: Bring django-template-partials into core",
+          "short_description": "Django's template language currently lacks a built-in way to define and reuse small template fragments within the same file, a pattern beneficial for...",
+          "student_name": "Farhan Ali Raza",
+          "code_url": null,
+          "proposal_id": "FwJIr90D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YqdTk30V"
+        },
+        {
+          "title": "Automate processes within Django contribution workflow",
+          "short_description": "Django\u2019s contribution workflow has several manual and repetitive processes that create bottlenecks for maintainers and contributors. These processes,...",
+          "student_name": "Saurabh K",
+          "code_url": null,
+          "proposal_id": "NeTUBdp1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xF6r182s"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/",
+  "contact_email": "mailto:django-developers@googlegroups.com",
+  "mailing_list": "https://forum.djangoproject.com/c/internals/mentorship/10",
+  "ideas_url": "https://code.djangoproject.com/wiki/SummerOfCode2025",
+  "guide_url": "https://code.djangoproject.com/wiki/SummerOfCode2025",
+  "twitter_url": "https://twitter.com/djangoproject/",
+  "blog_url": "https://www.djangoproject.com/weblog/"
+}

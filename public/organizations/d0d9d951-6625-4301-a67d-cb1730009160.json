@@ -1,0 +1,390 @@
+{
+  "name": "QEMU",
+  "url": "https://qemu.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/qemu/gik5gsxljb3j1jx1-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "virtualization",
+    "operating systems",
+    "compilers",
+    "emulation",
+    "compiler",
+    "hypervisor",
+    "cloud",
+    "kernel",
+    "lowlevel",
+    "emulator",
+    "code generation",
+    "systems programming"
+  ],
+  "technologies": [
+    "c",
+    "assembly",
+    "kvm",
+    "python",
+    "linux",
+    "virtualization",
+    "rust"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5308561592680448/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "qemu-img fuzzing and subcommand \"dd\"",
+          "short_description": "This proposal aims primarily to fuzz test qemu-img from QEMU project in order to discover\nthe potential security bugs and write bug fixes for them....",
+          "student_name": "Reda",
+          "code_url": "https://github.com/RandomNickname/qemu/commits/img-dd?author=randomNickname",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5660612814176256/"
+        },
+        {
+          "title": "AMD IOMMU interrupt remapping and other improvements",
+          "short_description": "This project aims to get the current AMD IOMMU patches merged into Qemu as well as introduce interrupt remapping support to the current AMD IOMMU...",
+          "student_name": "asla",
+          "code_url": "https://github.com/aslaq/AMD-Vi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5087715448061952/"
+        },
+        {
+          "title": "Postcopy migration: Recovery from a broken network connection",
+          "short_description": "Live Migration is a process of moving a running virtual machine from one physical system to another. There are usually two ways, precopy and...",
+          "student_name": "haris3301",
+          "code_url": "https://harisphnx.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5582796059836416/"
+        },
+        {
+          "title": "AF_VSOCK packet capture in Linux and Wireshark",
+          "short_description": "Zero-configuration communication between the QEMU hypervisor and its guests can be achieved using the virtio-serial device. Virtio-serial has several...",
+          "student_name": "GerardGarcia",
+          "code_url": "https://github.com/GerardGarcia/gsoc16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4789705652568064/"
+        },
+        {
+          "title": "MTTCG Memory Consistency",
+          "short_description": "QEMU uses a single-threaded tiny code generator (TCG) which translates instructions of the guest ISA to instructions of the host ISA. These...",
+          "student_name": "Pranith Kumar",
+          "code_url": "https://gist.github.com/pranith/af6f5a203b02cee2839c2d7c50024e73",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4940413639065600/"
+        },
+        {
+          "title": "Implementing one more absolute coordinates device for QEMU \u2013 a serial tablet with behaviour like usb-tablet we use to get mouse integration",
+          "short_description": "The implementing serial tablet would allow to have mouse integration for vintage operating systems. This feature is absent in other virtualisation...",
+          "student_name": "avg206",
+          "code_url": "https://gist.github.com/avg206/1035d552c460b6daeba55f3d62ccc7b4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5820230978764800/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4782716667035648/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Hypervisor.framework Support for QEMU",
+          "short_description": "The idea of the project is to add support for macOS\u2019s native hypervisor through the Hypervisor.framework API. This API exposes to user applications...",
+          "student_name": "Sergio G\u00f3mez Del Real",
+          "code_url": "https://github.com/Sergio889/gsoc_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5320295980204032/"
+        },
+        {
+          "title": "Implementing I/O throttling and write notifiers into filter Block Drivers",
+          "short_description": "I/O throttling is currently hard-coded in QEMU. A request is checked for throttling directly in block-backend.c instead of having a filter driver...",
+          "student_name": "Manos Pitsidianakis",
+          "code_url": "https://lists.nongnu.org/archive/html/qemu-devel/2017-08/msg05371.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4532831443222528/"
+        },
+        {
+          "title": "Generic PCIE-PCI bridge",
+          "short_description": "Nowadays QEMU doesn't have any PCIE-PCI bridge except DMI-PCI i82801b11 bridge, but as DMI is a proprietary Intel bus, it can be used only on x86...",
+          "student_name": "Aleksandr Bezzubikov",
+          "code_url": "http://lists.gnu.org/archive/html/qemu-devel/2017-08/msg04260.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6004304418701312/"
+        },
+        {
+          "title": "Virgl Windows driver",
+          "short_description": "3D acceleration is non-existent on Windows guests. The goal for this project is to bring a support for OpenGL. For the host part, we will use Virgl,...",
+          "student_name": "Nathan Gau\u00ebr",
+          "code_url": "https://gist.github.com/Keenuts/199184f9a6d7a68d9a62cf0011147c0b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6005267028246528/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4650540726222848/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "micro:bit machine type and cortex-m0 support",
+          "short_description": "The micro:bit is a small computer for educational use that is also suitable for embedded and Internet of Things (IoT) projects. The micro:bit...",
+          "student_name": "Steffen G\u00f6rtz",
+          "code_url": "https://douzepouze.github.io/gsoc18-qemu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4715949118717952/"
+        },
+        {
+          "title": "Qtest Driver Framework",
+          "short_description": "Testing is very important in software development, it allows developers to find bugs and evaluate software quality. For instance, regression testing...",
+          "student_name": "Emanuele Esposito",
+          "code_url": "https://github.com/esposem/GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6499721380102144/"
+        },
+        {
+          "title": "Vulkan-ize VirGL",
+          "short_description": "VirGL provides an OpenGL path well supported on Linux guests. On the host, QEMU offers several console back-ends, from EGL to SDL. Adding a Vulkan...",
+          "student_name": "Nathan Gau\u00ebr",
+          "code_url": "https://gist.github.com/Keenuts/ede88bfe603018a0bc702aed6ce5905d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6557966572453888/"
+        },
+        {
+          "title": "Patchew REST API improvements.",
+          "short_description": "Patchew is an open source CI project to automate testing of patches submitted as emails on mailing lists. Currently Patchew has a simple API, but it...",
+          "student_name": "shubham.jain",
+          "code_url": "https://gist.github.com/shubhamdotjain/17dd9cad8b869d0b04222393d0675989",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6097035849629696/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6510621636427776/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Fuzzing QEMU's implementation of VirtIO devices",
+          "short_description": "Integrate QEMU with the OSS-Fuzz continuous fuzzing service. Implement functionality to fuzz QEMU\u2019s  devices adhering to the VirtIO standard. Fuzzing...",
+          "student_name": "Alexander  Oleinik",
+          "code_url": "https://github.com/a1xndr/qemu/blob/master/gsoc-wps.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6200259867312128/"
+        },
+        {
+          "title": "Improving Measurement of Tiny Code Generation Quality",
+          "short_description": "One of the most important steps in tuning an emulator performance is to identify which are the hot regions and to measure their translation quality....",
+          "student_name": "Vanderson M. do Rosario",
+          "code_url": "https://wiki.qemu.org/Features/TCGCodeQuality",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4725549073694720/"
+        },
+        {
+          "title": "Support for AVX within TCG",
+          "short_description": "QEMU's TCG just-in-time compiler translates target CPU instructions into host CPU instructions so that programs written for other CPU architectures...",
+          "student_name": "Jan Bobek",
+          "code_url": "https://lists.nongnu.org/archive/html/qemu-devel/2019-08/msg05369.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5147761538760704/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6231608723505152/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Extend linux-user syscalls and ioctls",
+          "short_description": "Very often, the QEMU emulator is used to emulate user level processes that are compiled for a different architecture set than the \"host\" machine on...",
+          "student_name": "Filip Bo\u017euta",
+          "code_url": "https://drive.google.com/drive/folders/1KkwJNCDaxxKnUL3mNBfJqsRsUvBMPPca?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5665760506019840/"
+        },
+        {
+          "title": "TCG Continuous Benchmarking",
+          "short_description": "QEMU's emulator allows running operating systems and binaries compiled against one architecture (e.g. Linux ARM) on a host with a different...",
+          "student_name": "Ahmed Karaman",
+          "code_url": "https://github.com/ahmedkrmn/TCG-Continuous-Benchmarking",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5825868330434560/"
+        },
+        {
+          "title": "Virtual FIDO/U2F security key on Qemu",
+          "short_description": "U2F is an open authentication standard used worldwide. It enables relying parties exposed to the internet to offer a strong second factor option for...",
+          "student_name": "C\u00e9sar Belley",
+          "code_url": "https://gist.github.com/MattGorko/745099bda01a8abacb9f3d0344e16762",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5159818492379136/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4837236381581312/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "vhost-user-scsi device in Rust",
+          "short_description": "QEMU supports exposing block devices to the guest OS over the\nvirtio-scsi protocol. Currently, this is implemented using C code\nrunning in the main...",
+          "student_name": "Gaelan Steele",
+          "code_url": "https://gist.github.com/Gaelan/febec4e4606e1320026a0924c3bf74d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6705083835744256/"
+        },
+        {
+          "title": "Interactive, asynchronous QEMU Machine Protocol (QMP) text user interface (TUI)",
+          "short_description": "The aim of the project is to build a Text User Interface(TUI) for issuing and receiving QEMU Monitor Protocol (QMP) commands from a running QEMU...",
+          "student_name": "Niteesh Babu G S",
+          "code_url": "https://gitlab.com/niteesh.gs/qemu/-/commits/aqmp-tui-prototype-v5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5726750817910784/"
+        },
+        {
+          "title": "Development of a vhost-user-vsock application and its integration with kata contianers",
+          "short_description": "This project aims to realize a vhost-user-vsock application that will leverage the vhost-user protocol to emulate a virtio-vsock device in an...",
+          "student_name": "Harshavardhan Unnibhavi",
+          "code_url": "https://github.com/harshanavkis/gsoc-2021-contributions",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6126117680840704/"
+        },
+        {
+          "title": "TCG Plugin: Cache Modelling",
+          "short_description": "Since cache performance is one of the essential metrics that may bottle-neck the overall performance of the system, monitoring it and identifying...",
+          "student_name": "Mahmoud Mandour",
+          "code_url": "https://gist.github.com/i3abghany/95dbbd48b3a4d8ffe4350f6290ea6d37",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4511250880397312/"
+        },
+        {
+          "title": "Mocking framework for virtio queues",
+          "short_description": "This project revolves around designing a reusable framework for mocking the driver side of a VirtQueue operation. It would allow rust-vmm crates and...",
+          "student_name": "Bogdan Grigoru\u021b\u0103",
+          "code_url": "https://gist.github.com/krady21/178378051f6904015763a635cf72c46c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6507517051404288/"
+        },
+        {
+          "title": "Complete AMD virtualization emulation",
+          "short_description": "QEMU already includes a basic implementation of the virtualization extensions that are found in AMD processors. This implementation, however, is not...",
+          "student_name": "Lara Lazier",
+          "code_url": "https://docs.google.com/document/d/1224kGT9ruoZ6rntbOkIvATuOwJj9OvMFCCqBBrTKhuA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6024513887666176/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/qemu/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "NVMe Emulation Performance Optimization",
+          "short_description": "QEMU-NVMe is an important tool for developers to experiment with new features in the NVMe stack. However, its emulation performance has failed to...",
+          "student_name": "Jinhao Fan",
+          "code_url": "https://github.com/fandahao17/qemu/tree/gsoc-final",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6jRNut5x/"
+        },
+        {
+          "title": "Extend aarch64 support in rust-vmm/vmm-reference",
+          "short_description": "This project aims to extend the support for aarch64 on rust-vmm/vmm-reference. rust-vmm enables the community to build custom VMM solutions. It...",
+          "student_name": "Ramyak mehra",
+          "code_url": "https://gist.github.com/ramyak-mehra/4869a3616f459fe167d5a12797b557ae",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zn1zBd2u/"
+        },
+        {
+          "title": "Snapshot/restore for fuzzing with QEMU",
+          "short_description": "Add a new virtual device to QEMU to interface with a custom snapshot/restore functionality. Modified memory is kept track of by instrumenting the TCG...",
+          "student_name": "richyliu",
+          "code_url": "https://rliu.dev/blog/qemu-snapshot-fuzzing/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/w3IJvnc0/"
+        },
+        {
+          "title": "VIRTIO_F_IN_ORDER support for virtio devices",
+          "short_description": "VIRTIO_F_IN_ORDER is a new feature presented in VIRTIO 1.1. As mentioned on the project description page, VIRTIO_F_IN_ORDER is a feature that devices...",
+          "student_name": "Zhi Guo",
+          "code_url": "https://github.com/iaGuoZhi/Virtualization/tree/master/in_order",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AR3DqQ9V/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/qemu",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "A sandboxing tool for virtiofsd",
+          "short_description": "Virtiofs is a shared file system that lets virtual machines access a directory tree on the host. Unlike existing approaches, it is designed to offer...",
+          "student_name": "Christopher Acosta",
+          "code_url": "https://github.com/czzrr/gsoc2023",
+          "proposal_id": "T95L6Ml2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/52bIKoWU"
+        },
+        {
+          "title": "Add virtio-net Control Virtqueue state restore support",
+          "short_description": "Virtio-net device uses Control Virtqueue(CVQ) for changing device parameters. For some devices, such as vDPA, its CVQ is passed from Guest\u2019s driver...",
+          "student_name": "Hawkins Jiawei",
+          "code_url": "https://github.com/JiaweiHawk/gsoc2023",
+          "proposal_id": "ojCNsbfz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zptoHp3v"
+        },
+        {
+          "title": "Improving FreeBSD User Emulation of the Armv7 Architecture",
+          "short_description": "The proposal is about improving the QEMU emulator for the armv7 architecture on FreeBSD OS, it's goal is to get a simple C++ hello-world program to...",
+          "student_name": "Kariiem",
+          "code_url": "https://gitlab.com/Kariiem/qemu/-/blob/master/GSoC23.org",
+          "proposal_id": "qr9HUksv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nPd0n4mh"
+        },
+        {
+          "title": "Out-of-process RDP server for QEMU",
+          "short_description": "QEMU is able to export its display over D-Bus. We can create a server that uses the provided API to export the display over the network. There is...",
+          "student_name": "Mihnea Buzatu",
+          "code_url": "https://docs.google.com/document/d/1w2gB8xJNDlhRl7WwN9GMl_jzLsyW6lTW7IXi__01Vpg/edit?usp=shar",
+          "proposal_id": "lYxUXqev",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ps0s1dH2"
+        },
+        {
+          "title": "Rust bindings for libnbd",
+          "short_description": "Network Block Device (NBD) is a protocol for exporting block devices, either between processes or across the network. Libnbd is a client library for...",
+          "student_name": "Tage Johansson",
+          "code_url": "https://gist.github.com/tage64/73972c2452092c05e6d0017cd448c75d",
+          "proposal_id": "iVhbaBNl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nh7sGpK6"
+        },
+        {
+          "title": "Sibling VM communication in vhost-user-vsock",
+          "short_description": "The vhost-user-vsock Rust application emulates a virtio-vsock device in an external process and provides the hybrid VSOCK interface over AF_UNIX...",
+          "student_name": "techiepriyansh",
+          "code_url": "https://gist.github.com/techiepriyansh/d11a56152abb496f009c0b3b374a91fd",
+          "proposal_id": "ygChlYEO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MYtudh2C"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/qemu",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Fuse-over-io_uring exports",
+          "short_description": "This project extends QEMU FUSE export with support for FUSE-over-io_uring, a modern Linux interface that enables asynchronous, high-performance...",
+          "student_name": "Brian Song",
+          "code_url": null,
+          "proposal_id": "41gCj5un",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Zoesj2mE"
+        },
+        {
+          "title": "Asynchronous request handling for virtiofsd",
+          "short_description": "Virtio-fs is a shared file system that lets virtual machines access a directory tree on the host. Virtiofsd is the user-level host daemon that...",
+          "student_name": "Kaisei Hishida",
+          "code_url": null,
+          "proposal_id": "AtJFp6bR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uEfjI7DH"
+        },
+        {
+          "title": "Adding Kani proofs for Virtqueues in Rust-vmm",
+          "short_description": "This project aims to formally verify that the Rust vmm (a Rust implementation of the VirtIO specification used in virtualization platforms like QEMU)...",
+          "student_name": "Siddharth Priya",
+          "code_url": null,
+          "proposal_id": "M5lPuGWc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jBUdLT2D"
+        },
+        {
+          "title": "Implementing LASI Network Card and NCR 710 SCSI Controller Device Models",
+          "short_description": "This project aims to enhance QEMU's HP PA-RISC emulation by implementing LASI Network Card and NCR 710 SCSI Controller device models. LASI Network...",
+          "student_name": "Soumyajyotii Ssarkar",
+          "code_url": null,
+          "proposal_id": "kmFDiKer",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OMa5aKPb"
+        },
+        {
+          "title": "vhost-user devices in Rust on macOS and *BSD",
+          "short_description": "Extend rust-vmm crates (vhost, vhost-user-backend) to enable vhost-user device support on non-Linux POSIX systems (macOS/*BSD). The goal of this...",
+          "student_name": "Wenyu Huang",
+          "code_url": null,
+          "proposal_id": "jsjYj4sR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XRKi5d8M"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://webchat.oftc.net/?channels=qemu-gsoc",
+  "contact_email": "mailto:stefanha@gmail.com",
+  "mailing_list": "https://lists.nongnu.org/mailman/listinfo/qemu-devel",
+  "ideas_url": "https://wiki.qemu.org/Google_Summer_of_Code_2025",
+  "guide_url": "https://wiki.qemu.org/Google_Summer_of_Code_2025",
+  "blog_url": "https://qemu.org/blog"
+}

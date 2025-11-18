@@ -1,0 +1,105 @@
+{
+  "name": "OpenELIS Global",
+  "url": "https://openelis-global.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openelis-global/k6rnzk3hcktzabst-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "Health Care",
+    "Laboratory Information System"
+  ],
+  "technologies": [
+    "postgresql",
+    "javascript",
+    "java",
+    "react",
+    "spring"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/openelis-global/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Add Support for Web Push Notifications",
+          "short_description": "The project aims to enhance user engagement and system communication in OpenELIS by implementing a robust notification system. The project will focus...",
+          "student_name": "Vivek Rama Krishna Kona",
+          "code_url": "https://medium.com/@konavivekramakrishna/gsoc-24-adding-support-for-user-notifications-323d8918bcfe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/g7zlNzjA/"
+        },
+        {
+          "title": "Improve E2E Tests Coverage",
+          "short_description": "The existing End-to-End (E2E) tests for the new React front end are hindered by low coverage and instability, compromising the reliability of the...",
+          "student_name": "Manish  Rabindra Kumar Jha",
+          "code_url": "https://medium.com/@stayconnectedwithmanish/strengthening-openelis-global-my-summer-with-gsoc-2024-156fc4e205ae",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KDXjqUsx/"
+        },
+        {
+          "title": "Enhanced Search Functionality for OpenELIS",
+          "short_description": "This project aims to enhance the search capabilities within the OpenELIS system, particularly the Search Patient module, providing users with a more...",
+          "student_name": "Rahul Pamnani",
+          "code_url": "https://gist.github.com/rahul6603/1359765bedb0fa1957700536516e7ca6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vhkjzlFu/"
+        },
+        {
+          "title": "Integrating OpenElis with a FHIR-based Open Client Registry",
+          "short_description": "This integration aims to connect OpenELIS, a laboratory information system, with a FHIR-Based Open Client Registry which will allow users to search...",
+          "student_name": "mherman22",
+          "code_url": "https://github.com/mherman22/GSOC-FinalReport/tree/GSoC-2024?tab=readme-ov-file#gsoc-2024-integrating-openelis-with-a-fhir-based-open-client-registry",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kyZvDB9m/"
+        },
+        {
+          "title": "Rewrite Admin Page components from JSP to React",
+          "short_description": "OpenELIS Organisation is currently using JSP (Jakarta Server Pages) in overall pages it is slowly moving towards the newer javascript-based framework...",
+          "student_name": "Aditya Deshlahre",
+          "code_url": "https://gist.github.com/adityadeshlahre/ee28a4c6100788ae23196e8e2394738f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/66IXZZXq/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openelis-global",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Rewrite Test management pages components from JSP to React",
+          "short_description": "The OpenELIS organization currently relies on JSP (Jakarta Server Pages) for most of its pages but is gradually transitioning to a modern...",
+          "student_name": "Aditya Deshlahre",
+          "code_url": null,
+          "proposal_id": "ixGed57h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/goRhJRfh"
+        },
+        {
+          "title": "Improving E2E QA tests",
+          "short_description": "The current End-to-End (E2E) test coverage for the new React frontend stands at approximately 30%, leaving critical functionalities untested. This...",
+          "student_name": "Bahati308",
+          "code_url": null,
+          "proposal_id": "MdCOgMFo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cptaFNvP"
+        },
+        {
+          "title": "Intergrate OpenELIS with Odoo(OpenER)",
+          "short_description": "This project aims at adding an integration layer between OpenELIS Global2 and Odoo (OpenERP) in order to add support for Billing functionalities with...",
+          "student_name": "Vickabire",
+          "code_url": null,
+          "proposal_id": "2DEpMIzM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DzgbNr9r"
+        },
+        {
+          "title": "Add Support for OpenELIS to use OCL to populate the Data Dictionary",
+          "short_description": "This project integrates Open Concept Lab (OCL) test concepts into OpenELIS-Global by parsing OCL ZIP files from a Configurations/ocl directory at...",
+          "student_name": "vsvishalsharma",
+          "code_url": null,
+          "proposal_id": "BJu847Dg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EhtmR65z"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://digi-team-uw.slack.com/archives/CFUH9HLUF",
+  "contact_email": "",
+  "mailing_list": "https://talk.openelis-global.org/",
+  "ideas_url": "https://uwdigi.atlassian.net/wiki/spaces/OG/pages/321224705/GSoC+2025",
+  "guide_url": "https://uwdigi.atlassian.net/wiki/spaces/OG/pages/245694473/GSoC+Guidelines+for+Students",
+  "blog_url": "https://openelis-global.org/blog/"
+}

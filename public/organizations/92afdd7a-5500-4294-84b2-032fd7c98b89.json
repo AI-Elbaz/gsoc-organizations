@@ -1,0 +1,294 @@
+{
+  "name": "CHAOSS",
+  "url": "https://chaoss.community",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/chaoss/omnpzqtoqzjmesi7-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "visualization",
+    "machine learning",
+    "data visualization",
+    "metrics",
+    "health",
+    "community",
+    "sustainability",
+    "analytics",
+    "community health",
+    "dependencies",
+    "diversity and inclusion",
+    "Diversity Equity and Inclusion",
+    "open source software metrics",
+    "software sustainability",
+    "community building",
+    "security and software bill of materials"
+  ],
+  "technologies": [
+    "javascript",
+    "python 3",
+    "python",
+    "mysql",
+    "jupyter",
+    "elasicsearch",
+    "elasticsearch",
+    "kibana",
+    "elk",
+    "vue",
+    "nltk",
+    "fossology",
+    "postgresql",
+    "machine learning",
+    "airflow",
+    "metrics"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5116840829255680/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Reporting of CHAOSS Metrics",
+          "short_description": "Writing Python code to query GrimoireLab Elastisearch databases and obtain from it the metrics relevant for the report. Possible technologies to...",
+          "student_name": "Keanu Nichols",
+          "code_url": "https://kmn5409.github.io/keanu-nichols/gsoc/2018/08/10/gsoc-Week-14.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6518865190191104/"
+        },
+        {
+          "title": "Reporting of CHAOSS Metrics: Refactoring the existing code and extending the capabilities of the Manuscripts Project",
+          "short_description": "The Manuscripts project, which is a part of the Grimoire Toolset, helps us in analysing repositories and projects by creating a report based on...",
+          "student_name": "Pranjal Aswani",
+          "code_url": "https://aswanipranjal.github.io/posts/week-14/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5756915711737856/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6603033897598976/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur",
+          "short_description": "The project aims are to implement Risk metrics and other metrics within the Growth-Maturity-Decline CHAOSS metrics and use cases using Augur,...",
+          "student_name": "Bingwen Ma",
+          "code_url": "https://blog.bing0ne.com/p/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6646571444207616/"
+        },
+        {
+          "title": "Support of Source Code Related Metrics",
+          "short_description": "Graal produces analysis related to code complexity, quality, dependencies, vulnerability and licensing and the data produced conforms to the ones...",
+          "student_name": "Nishchith K Shetty",
+          "code_url": "https://inishchith.github.io/blog/2019/08/coding-period-3-11.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5400999387201536/"
+        },
+        {
+          "title": "Implementing CHAOSS Metrics with Perceval",
+          "short_description": "The aim of this project is to create reference implementations and tests, primarily for the metrics defined by the Evolution Working Group, but also...",
+          "student_name": "Aniruddha Karajgi",
+          "code_url": "https://polaris000.github.io/blog/final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4788572886925312/"
+        },
+        {
+          "title": "Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur",
+          "short_description": "Augur is fully functional prototyping web stack for CHAOSS metrics. It provides structured data mined from git repositories using a plugin...",
+          "student_name": "Parth Sharma",
+          "code_url": "https://github.com/parthsharma2/gsoc-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5952207168471040/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6232321151205376/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema",
+          "short_description": "The project aims to develop a Gitlab collection worker closely tied up with the Github collection worker using mapper files to bind the intended...",
+          "student_name": "Abhinav Bajpai",
+          "code_url": "https://gist.github.com/abhinavbajpai2012/710f2acc609c09e389a42fe2870df105",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5515047721238528/"
+        },
+        {
+          "title": "Machine Learning for Anomaly Detection in Open Source Communities",
+          "short_description": "Open-source software development is a collaborative effort that requires decentralized decision making from different developers and maintainers. In...",
+          "student_name": "Sarit Adhikari",
+          "code_url": "https://gist.github.com/sarit-adh/e608d6824ef7eefb1245f8438dd60fc8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5310055743750144/"
+        },
+        {
+          "title": "Large Social Network Analysis and Anomaly Detection with Augur",
+          "short_description": "Augur is a software that collect data for a list of given repositories and provide a variety of CHAOSS metrics to provides open source health and...",
+          "student_name": "Tianyi Zhou",
+          "code_url": "https://github.com/tianyichow/augur-community-reports/tree/network-analysis/network_analysis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5556345006194688/"
+        },
+        {
+          "title": "Social Currency Metric System",
+          "short_description": "Implementing Social Currency Metric System (SCMS) will be a huge milestone in providing a better and holistic view of project health in the...",
+          "student_name": "Ria Gupta",
+          "code_url": "https://gist.github.com/ria18405/b379eb00a4f87bfb98df5530e0f551dd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6478870728933376/"
+        },
+        {
+          "title": "Implementation of GitLab Data Collection Worker & Test Coverage Improvement",
+          "short_description": "The primary goal of this project is to congregate data pertaining to GitLab issues, commits, merge requests amongst other entities & store it into...",
+          "student_name": "Saicharan Reddy",
+          "code_url": "https://gist.github.com/mrsaicharan1/75e53c6843e539e1fc03937f0e254d0d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6512121090670592/"
+        },
+        {
+          "title": "Creating Quality models using GrimoireLab and CHAOSS metrics",
+          "short_description": "GrimoireLab is a powerful open-source platform that provides support for monitoring and in-depth analysis of software projects. It produces a rich...",
+          "student_name": "vchrombie",
+          "code_url": "https://vchrombie.github.io/blog/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6524989651550208/"
+        },
+        {
+          "title": "Machine Learning for Anomaly Detection in Open Source Communities",
+          "short_description": "This project will play one of the most vital roles in achieving Augur's goal towards analysis of open source organisation health.It will not only...",
+          "student_name": "Pratik Mishra",
+          "code_url": "https://github.com/pratikmishra356/GSOC-2020-Augur",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5947135322750976/"
+        },
+        {
+          "title": "Machine Learning for Anomaly Detection in Open Source Communities",
+          "short_description": "Augur is a Flask based prototyping web stack for CHAOSS metrics. It provides structured data mined from various sources like git repositories,...",
+          "student_name": "Akshara P",
+          "code_url": "https://gist.github.com/aksh555/8dd970b4baa7aa01aa8486dda7186ae0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6266324608614400/"
+        },
+        {
+          "title": "Build Workflow process for CHAOSS D&I Badging Project",
+          "short_description": "CHAOSS Diversity and Inclusion Badging program aims to encourage projects and events to obtain badges for good diversity and inclusion practices....",
+          "student_name": "bistaastha",
+          "code_url": "https://gist.github.com/bistaastha/204157113ac0e65c60e25fc0d5b2c834",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5160792611094528/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5959947107434496/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Develop a Shared Data Resource Focused on Dependencies, Risks and Vulnerabilities in Open Source Software",
+          "short_description": "This project is aimed at developing a shared data resource to identify various dependencies for Open Source Software, using some of the existing...",
+          "student_name": "Dhruv Sachdev",
+          "code_url": "https://github.com/Dhruv-Sachdev1313/GSoC-2021-CHAOSS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6711432569159680/"
+        },
+        {
+          "title": "Sorting Hat - Extend data model and user interface to capture better information about contributors",
+          "short_description": "Grimoirelab is an open-source toolset for software development analytics. Grimoirelab provides a set of tools to collect, analyze and visualize...",
+          "student_name": "Rashmi K A",
+          "code_url": "https://k-a-rashmi04.medium.com/extend-data-model-and-user-interface-to-capture-better-information-about-contributors-a95f8e0a9a7e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5275752542502912/"
+        },
+        {
+          "title": "Automate Metrics Release and Process Improvement",
+          "short_description": "CHAOSS metrics have been defined to provide an in-depth view into the various features of an open-source project. The metrics are also a key input to...",
+          "student_name": "Yash Prakash",
+          "code_url": "https://gist.github.com/yash2002109/887c3e68ff3ff222f941402ceb7bf0dc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4626981861195776/"
+        },
+        {
+          "title": "Automatically identify Contributor Aliases",
+          "short_description": "The aim of this project is to generalize, and make available a PyPy distributable Python package the core functionality currently within the Augur...",
+          "student_name": "Anuj Lamoria",
+          "code_url": "https://github.com/anujlamoria/GSOC-2021-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4740412618571776/"
+        },
+        {
+          "title": "Yeming Gu's GSoC proposal for CHAOSS",
+          "short_description": "My project aims to define a new similarity measure metric based on social coding semantics underlying the open source trace data to enrich the...",
+          "student_name": "Yeming Gu",
+          "code_url": "https://medium.com/@yeminggood/gsoc2021-final-report-7feedac481e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4918176382451712/"
+        },
+        {
+          "title": "Automate Metrics Release and Process Improvement",
+          "short_description": "Improving the metric release process and fully automating will not only save time, but it will also help us to define a central structure for the...",
+          "student_name": "Ritik Malik",
+          "code_url": "https://gist.github.com/ritik-malik/5a1a48bb966892824d7da31fc12ede50",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5185057429389312/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/chaoss/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Build Knowledgebase Application on CHAOSS Website",
+          "short_description": "The CHAOSS Project\u2019s website is an invaluable resource for newbies and core project members alike. Since the CHAOSS Project has grown in size over...",
+          "student_name": "Yash Prakash",
+          "code_url": "https://gist.github.com/yash-yp/50e9487c48801dcf875adc4c190aa274",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wYwovEnP/"
+        },
+        {
+          "title": "Bot CI/CD and assign algorithm",
+          "short_description": "Currently, the bot and its deployed instance are not able to favour collaborative continuous development and integration. The bot also is not...",
+          "student_name": "Kaxada",
+          "code_url": "https://github.com/badging/badging-bot/tree/enock-kasaadha-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/f7x3RQug/"
+        },
+        {
+          "title": "A Novel Implementation of Conversion Rate Metric Model in CHAOSS Software",
+          "short_description": "The CHAOSS community develops metrics, practices, and software for measuring open source software community health and sustainability. Augur and...",
+          "student_name": "Mabel F",
+          "code_url": "https://github.com/mabelbot/metrics-models/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0dSXth1I/"
+        },
+        {
+          "title": "Machine Learning based Community Health and Communication",
+          "short_description": "Augur is a Python library, REST server and Flask web application which is used to collect free and open source data and provide meaningful insights...",
+          "student_name": "Ramya Kappagantu",
+          "code_url": "https://github.com/RamyaKappagantu/gsoc22_chaoss-final-report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vKBmFbCP/"
+        },
+        {
+          "title": "Build Access and Entitlements into a Hosted Version of Augur",
+          "short_description": "The aim of the project is to build login and access for users. Augur is a software suite for collecting and measuring structured data about free and...",
+          "student_name": "Priya Srivastava",
+          "code_url": "https://github.com/Priya730/GSoC22/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YNXT2TFX/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/chaoss",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implement Conversion Rate Metric In Chaoss Software",
+          "short_description": "Open-source projects tend to struggle with retaining contributors after the initial involvement. In this project, a Conversion Rate Metric is...",
+          "student_name": "Akshat Baranwal",
+          "code_url": null,
+          "proposal_id": "hwD6NLBO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rY6dHSn4"
+        },
+        {
+          "title": "Implement Conversion Rate Metric in CHAOSS Software",
+          "short_description": "The conversion rate metric is primarily aimed at identifying how new community members become more sustained contributors over time. However, the...",
+          "student_name": "Asish Kumar",
+          "code_url": null,
+          "proposal_id": "Zgibo8zp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5mr4NeCs"
+        },
+        {
+          "title": "Enhance Conversational Topic Modelling Capabilities in CHAOSS Software",
+          "short_description": "This project aims to improve the robustness and flexibility of topic modeling in the CHAOSS Augur platform by enhancing its clustering_worker...",
+          "student_name": "Jiahong Lin",
+          "code_url": null,
+          "proposal_id": "3m9orwrK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WEvhcxii"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/chaoss-workspace/shared_invite/zt-289zxh6tu-3oQaFlutPFY039MjKpnWcA",
+  "contact_email": "mailto:gsoc@goggins.com",
+  "mailing_list": "chaoss@lists.linuxfoundation.org",
+  "ideas_url": "https://github.com/chaoss/augur/blob/main/gsoc-interest.md",
+  "guide_url": "https://github.com/chaoss/augur/blob/main/gsoc-interest.md",
+  "twitter_url": "https://twitter.com/chaossproj",
+  "blog_url": "https://chaoss.community/blog"
+}

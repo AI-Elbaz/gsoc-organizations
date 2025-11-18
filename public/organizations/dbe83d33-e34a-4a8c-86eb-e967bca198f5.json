@@ -1,0 +1,158 @@
+{
+  "name": "Synfig",
+  "url": "https://synfig.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/synfig/ohcj3eigerib4jym-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "animation",
+    "vector graphics",
+    "2d/3d graphics",
+    "2d animation"
+  ],
+  "technologies": [
+    "c++",
+    "gtk",
+    "gtkmm",
+    "python",
+    "c++11"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5485328519921664/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Vectorization of bitmaps",
+          "short_description": "Scanned sketches are raster images and raster images have some limitations related to image resizing; to overcome that you need to use...",
+          "student_name": "Ankit Kumar Dwivedi",
+          "code_url": "https://github.com/synfig/synfig/pull/930",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6474348691456000/"
+        },
+        {
+          "title": "Export Animation for Web",
+          "short_description": "The goal of this project is to implement a feature which will allow to export Synfig animation for web through Lottie format...",
+          "student_name": "Anish Gulati",
+          "code_url": "https://github.com/synfig/synfig/pull/756",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5080738523774976/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5710829074251776/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "CMake Build System",
+          "short_description": "Synfig Studio is an animation system designed to speed up the animation process. Currently, building it requires autotools. Apart from that, there is...",
+          "student_name": "ayesdie",
+          "code_url": "https://forums.synfig.org/t/11331",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6582102918692864/"
+        },
+        {
+          "title": "Improvements for Lottie exporter plugin",
+          "short_description": "Lottie format provides an easy way for the animations to be rendered to web and mobile applications. Users have found the basic Lottie Exporter...",
+          "student_name": "saurabh22",
+          "code_url": "https://forums.synfig.org/t/11328",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4655384247140352/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6046097876713472/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/synfig/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "User Interface improvements",
+          "short_description": "This project aims at improving Synfig\u2019s GUI by implementing new features which are available at other related applications but not at Synfig yet....",
+          "student_name": "Mohamed Adham",
+          "code_url": "https://github.com/synfig/synfig/issues/2844",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9Aucs8Wk/"
+        },
+        {
+          "title": "Building Synfig with the MSVC Toolchain & automating the build process using Conan",
+          "short_description": "Synfig can be built on both Windows and Linux, however, it currently cannot be built using MSVC and requires using MinGW. The objective of this...",
+          "student_name": "Hesham Essam",
+          "code_url": "https://github.com/synfig/synfig/issues/2827",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/noGB71vE/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/synfig",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Rendering Performance Optimization",
+          "short_description": "The project aims to improve the rendering speed of Synfig, a free and open-source 2D animation software. The project's primary goals are to document...",
+          "student_name": "b23v",
+          "code_url": "https://forums.synfig.org/t/gsoc-2023-performance-optimization/14122/21",
+          "proposal_id": "BR4dcVyz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qvj9aF7Y"
+        },
+        {
+          "title": "Select Tool and UI Enhancements",
+          "short_description": "This project mainly aims at improving the user experience of Synfig. It does so through various improvements. The first is implementing non-vertex...",
+          "student_name": "Mohamed Adham",
+          "code_url": "https://github.com/synfig/synfig/issues/3225",
+          "proposal_id": "YouK1Bx0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1AkN3EFi"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/synfig/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Automating Release Notes Generation & Simplifying Linux Download Experience",
+          "short_description": "This project aims to improve and automate the generation of release notes for Synfig and make Synfig easier for Linux users to download. This is done...",
+          "student_name": "Ahmed Khaled (Akayiz)",
+          "code_url": "https://ahmed.khaled.yousry.org/blogs/gsoc-2024-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/w8vYW4hT/"
+        },
+        {
+          "title": "Plugin manager dialog",
+          "short_description": "A plugin manager dialog would allow the users to install, uninstall and hide/show the plugins. Through this interface the user need not to manually...",
+          "student_name": "Veer Metri",
+          "code_url": "https://github.com/synfig/synfig/issues/3449",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bVFeFhR7/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/synfig",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Brush tool",
+          "short_description": "This project will deliver a performant integrated Raster Brush Tool alongside a basic Brush Profile Editor. The core implementation uses a real-time...",
+          "student_name": "Abdelhadi Wael",
+          "code_url": null,
+          "proposal_id": "EYGeVm2N",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fxeP8E73"
+        },
+        {
+          "title": "macOS app bundle (175 hours)",
+          "short_description": "The current macOS app bundle creation process for Synfig relies on an outdated Bash script that is slow, error-prone with incorrect paths, and lacks...",
+          "student_name": "Nitish Itankar",
+          "code_url": null,
+          "proposal_id": "pZDZv4kb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EqL2LlYZ"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:contact@synfig.org",
+  "mailing_list": "https://forums.synfig.org/t/gsoc-2025-google-summer-of-code-2025/16119",
+  "ideas_url": "https://github.com/synfig/synfig-docs-dev/blob/master/docs/gsoc/2025/ideas.rst",
+  "guide_url": "https://synfig-docs-dev.readthedocs.io/en/latest/gsoc/2025/getting-started.html",
+  "twitter_url": "https://twitter.com/synfig",
+  "blog_url": "https://www.synfig.org/news/"
+}

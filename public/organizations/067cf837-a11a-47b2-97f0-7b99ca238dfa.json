@@ -1,0 +1,102 @@
+{
+  "name": "CERN SFT",
+  "url": "http://ep-dep-sft.web.cern.ch/",
+  "image_url": "https://lh3.googleusercontent.com/AJ5vehB5HP9EcHW2Im9tCNJCgeDHWwACiK6kwWiP_JimlFx1hP4uwATxJwG5auOhaUI8LvjhIukd3X2kDpETu7K3RvSgLuM",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "cloud",
+    "numerical and data analysis software",
+    "simulation software"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c++",
+    "clang"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6273708926697472/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Integration of Spark parallelisation in TMVA",
+          "short_description": "The proposed project involves the support for Spark parallelization in TMVA. Machine learning procedures like k-fold cross validation, hyper...",
+          "student_name": "gdphys",
+          "code_url": "https://docs.google.com/document/d/1X0j8-zGtdKJ9LzDFRSWbxLcrgx4soduYgzhCp8rsSLg/edit#heading=h.8tiee4i9lhm5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6454630665945088/"
+        },
+        {
+          "title": "Integrating Machine Learning in Jupyter Notebooks",
+          "short_description": "Toolkit for Multivariate Data Analysis (TMVA) is a framework (part of data analysis framework ROOT) which contains ML packages, frequently used by...",
+          "student_name": "Attila Bagoly",
+          "code_url": "https://github.com/qati/GSOC16/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5469210012549120/"
+        },
+        {
+          "title": "GPU-accelerated Deep Neural Networks in TMVA",
+          "short_description": "During recent years deep learning techniques haven proven extremely powerful in many different applications and have successfully been applied to...",
+          "student_name": "Simon Pfreundschuh",
+          "code_url": "http://simonpf.github.io/gsoc/final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5080491044634624/"
+        },
+        {
+          "title": "BLonD code optimization strategy for parallel and concurrent architectures",
+          "short_description": "Our objective is to determine the best architectural and parallelization options for the BLonD future C++ code base. Project includes:\n\nExisting...",
+          "student_name": "Oleg.jakushkin",
+          "code_url": "https://github.com/kiliakis/BLonD-minimal-cpp/commits/master?author=OlegJakushkin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4557913783795712/"
+        },
+        {
+          "title": "Reflection-based Python-C++ language bindings: cppyy - Integrate the Cling backend into PyPy/cppyy",
+          "short_description": "For the purpose of High Energy Physics (HEP) Experiments, the framework required should be able to support the scale and complexity of HEP codes....",
+          "student_name": "Aditi Dutta",
+          "code_url": "https://drive.google.com/open?id=0B1wZt_mPLAFMdWFnTzc2NTZKZHc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4649541810782208/"
+        },
+        {
+          "title": "Implementation of task-based transport for GeantV",
+          "short_description": "The current parallelism model of GeantV is data-oriented where a static set of threads is predefined to perform the work, the set of transport...",
+          "student_name": "Joel Fuentes",
+          "code_url": "http://www.face.ubiobio.cl/~jfuentes/blog/geantv",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4831149671055360/"
+        },
+        {
+          "title": "New Physics Model in Sixtrack package",
+          "short_description": "SixTrack is a 6D particle tracking code used to compute the trajectories of individual relativistic charged particles in circular accelerators. It...",
+          "student_name": "vikasnt",
+          "code_url": "http://vikasnt.github.io/SixTrack/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6512372474707968/"
+        },
+        {
+          "title": "Multistep methods for integrating trajectory in field",
+          "short_description": "Implementation of Adams multistep methods in Geant4",
+          "student_name": "Dmitry Sorokin",
+          "code_url": "http://dmitriisorokin.blogspot.com/2016/08/alternative-integration-methods-and.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6548924257009664/"
+        },
+        {
+          "title": "Performance 3D Web Graphics with Interactive Features for JSRoot",
+          "short_description": "The ROOT project is developing a JavaScript library for reading and rendering ROOT objects in modern web browsers. The rendering of 3D objects is...",
+          "student_name": "Peter Whidden",
+          "code_url": "http://transdimensional.xyz/gsoc/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6045990297534464/"
+        },
+        {
+          "title": "TMVA Project in Machine Learning",
+          "short_description": "Toolkit for Multivariate Data Analysis (TMVA), integrated into the ROOT framework hosts a variety of machine classification methods which have become...",
+          "student_name": "Abhinav Moudgil",
+          "code_url": "https://abhinavmoudgil95.github.io/google%20summer%20of%20code/2016/08/23/gsoc-conclusion.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5764515320823808/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:sft-gsoc@cern.ch",
+  "mailing_list": "http://ep-dep-sft.web.cern.ch/article/198146#contact",
+  "ideas_url": "",
+  "guide_url": ""
+}

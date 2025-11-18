@@ -1,0 +1,55 @@
+{
+  "name": "Kapitan",
+  "url": "https://kapitan.dev/",
+  "image_url": "https://lh3.googleusercontent.com/zircNwClG3cGy7dWVs4jsWn1-wjodnztl3mBi-n6jPXGmME1cz6uFSQFmPrdthHI97lbraFMOeE9K8p6S-tooPbFcyauDpaX",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "cloud",
+    "kubernetes",
+    "programming languages",
+    "great developer tooling"
+  ],
+  "technologies": [
+    "python",
+    "kubernetes",
+    "jsonnet",
+    "jinja2",
+    "terraform",
+    "python 3"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6263521917009920/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "New features for Kapitan",
+          "short_description": "This proposal consists of a few tasks that implement new features for Kapitan which I believe will add value to the software.\nTask 1: dependency...",
+          "student_name": "Yoshiaki Nishimura",
+          "code_url": "https://yoshi-1224.github.io/gsoc-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5491913862414336/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5566516864483328/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "New feature support and pipeline automation",
+          "short_description": "This proposal consists of 3 sub tasks of kapitan which is elaborated below.\nTask1 : Remote Inventory Federation\nThis work would add the ability to...",
+          "student_name": "Arindaam Roy",
+          "code_url": "https://alpharoy14.github.io/gsoc-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6567396816453632/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://kubernetes.slack.com/archives/C981W2HD3",
+  "contact_email": "mailto:kapitan-discuss@googlegroups.com",
+  "mailing_list": "https://groups.google.com/d/forum/kapitan-discuss",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://medium.com/kapitan-blog/"
+}

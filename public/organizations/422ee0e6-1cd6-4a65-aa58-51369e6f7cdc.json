@@ -1,0 +1,303 @@
+{
+  "name": "LibreHealth",
+  "url": "https://librehealth.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/librehealth/wulnuhdjtsi0ngiv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web",
+    "web apps",
+    "ictd",
+    "health",
+    "global health",
+    "medicine",
+    "deep learning",
+    "information security",
+    "mobile-apps",
+    "radiology",
+    "mobile apps",
+    "hfoss"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "java",
+    "php",
+    "webcomponents",
+    "android",
+    "python 3",
+    "python",
+    "dart/flutter"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5574687430017024/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Database Upgrade and Laravel Integration in LibreHealth EHR",
+          "short_description": "This proposal provides a complete refactoring of the existing system along with database upgrade and use of framework. Providing a procedure to...",
+          "student_name": "Priyanshu Sinha",
+          "code_url": "https://pri2si17.wordpress.com/2017/08/19/gsoc17-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5081751751753728/"
+        },
+        {
+          "title": "Smarty Template Engine Removal and UI Redevelopment",
+          "short_description": "This project aims to recreate all the features which are currently using Smarty Template Engine. This would involve the removal of all Smarty...",
+          "student_name": "Nilesh Prasad",
+          "code_url": "https://gist.github.com/nileshprasad137/8cf19bbdcc7b38e6e54c191fd1c594bf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5295463016169472/"
+        },
+        {
+          "title": "Practice Appointment Calendar for LibreHealth EHR",
+          "short_description": "LibreHealthEHR's calendar, based upon the PostNuke Calendar, has been an integral part of the application. However, the calendar is antiquated and...",
+          "student_name": "Ujjwal Arora",
+          "code_url": "https://medium.com/@azwreith/gsoc-2017-final-report-7eebdd0838c1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6051275523227648/"
+        },
+        {
+          "title": "Radiology Reporting Enhancements Continuation",
+          "short_description": "The Radiology module currently stores radiology reports as text in the radiology_reports  table inside the database. This is not ideal. In real life...",
+          "student_name": "ivange94",
+          "code_url": "https://ivange94blog.wordpress.com/2017/08/27/gsoc-2017-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5907268491018240/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5403839536562176/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Implement Spring Data to LH Toolkit",
+          "short_description": "This project\u2019s purpose is to replace or rather migrate the existing persistence schema of LibreHealth toolkit which uses hibernate mappings to a more...",
+          "student_name": "Yash D. Saraf",
+          "code_url": "https://medium.com/@yashdsaraf/gsoc-librehealth-final-report-210538d56b19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6405855272501248/"
+        },
+        {
+          "title": "Integrate an open source Laboratory Information Management System",
+          "short_description": "The integration of a LIMS has quite a number of weighted benefits for the community that is making use of the EHR. The management of laboratory...",
+          "student_name": "Anirudh Singh",
+          "code_url": "https://github.com/LibreHealthIO/lh-ehr/pull/1204",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6739115072552960/"
+        },
+        {
+          "title": "Setup Improvement for LibreHealth EHR",
+          "short_description": "This proposal is creating a dynamic friendly user interface that will install the Librehealth in any environment of your choice. This is greatly...",
+          "student_name": "Mua Ndzo Laurent",
+          "code_url": "https://medium.com/@mualaurent/gsoc18-final-report-submission-73cc38198ea7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5502435409788928/"
+        },
+        {
+          "title": "Make a module that will handle all the PDF generation requirements of the software autonomously.",
+          "short_description": "Currently the software uses a lot of exteranal libraries like HTML2PDF, MPDF, FPDF and TCPDF. My aim for the project is to make a custom PHP library...",
+          "student_name": "2208Abhinav",
+          "code_url": "https://gist.github.com/2208Abhinav/b0d5b41ce51646e936d76c139e867946",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5641462360309760/"
+        },
+        {
+          "title": "Implement Spring Data to the LibreHealth Toolkit",
+          "short_description": "The Librehealth toolkit is dependent on Hibernate for database mapping to MYSQL. To scale various uses for the toolkit, there is a critical need to...",
+          "student_name": "Prashadi Bandara",
+          "code_url": "https://medium.com/@prkpbandara/gsoc-librehealth-work-accomplished-on-fhir-analytics-during-gsoc-2018-c3b0fded975e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4624259620012032/"
+        },
+        {
+          "title": "Building a Report Generator for LibreHealth's EHR system",
+          "short_description": "LibreEHR system currently has standard reports for various system features (Clients, Financial, Visits, Inventory, Services, Insurance, Procedures)....",
+          "student_name": "Tigpezeghe Rodrige K.",
+          "code_url": "https://tigrodrige.wordpress.com/2018/08/06/gsoc-2018-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6488995773022208/"
+        },
+        {
+          "title": "Updater for LibreHealth EHR",
+          "short_description": "The project focus to develop a updater module for Libre Health EHR by using github API.It uses github API to retrieve changed files,download those...",
+          "student_name": "NAVEEN K M",
+          "code_url": "https://medium.com/@naveen17797/google-summer-of-code-2018-final-report-d2ec2eff828b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6061239377592320/"
+        },
+        {
+          "title": "Improving the Calendar system in LibreHealth EHR",
+          "short_description": "During the previous Google Summer of Code, a successor to PostNuke Calendar, which was the earlier basis for EHR\u2019s Calendar system, was deployed. The...",
+          "student_name": "Apoorv Choubey",
+          "code_url": "https://gist.github.com/apooravc/ef9275bfd09421d7e9033ab88966ce6e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5917643521392640/"
+        },
+        {
+          "title": "Web Components using FHIR Resources",
+          "short_description": "LibreHealth EHR is an open source, clinically focused EHR which was designed for easy use and customizable for variety of settings. LibreHealth is a...",
+          "student_name": "Parvati",
+          "code_url": "https://medium.com/my-gsoc-diary/gsoc-2018-final-submission-report-4e7e18c5a73",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5962210786410496/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4948859590017024/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5842452507787264/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Automatic labelling of Radiology Images",
+          "short_description": "A web app that does automatic labeling of radiology images. The backend is in Django and tensorflow-serving whereas the frontend is in Reactjs. The...",
+          "student_name": "Kislay Kunal Singh",
+          "code_url": "https://singhkislay.blogspot.com/2020/08/moving-towards-final-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5453491813744640/"
+        },
+        {
+          "title": "Develop an Android mobile application to show patient friendly costs of care",
+          "short_description": "To make an app which can display costs of medical procedures of US hospitals & a web scraper which can scrape ChargeMasters & update data...",
+          "student_name": "Darshpreet Singh",
+          "code_url": "https://gist.github.com/Darshpreet2000/9f08ee2080163851a2b6834c1eef16ba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5366252303810560/"
+        },
+        {
+          "title": "Android application to show birth registration and newborn health data",
+          "short_description": "This project aims to develop an Android application for mothers and guardians of newborn babies in Kenya to receive and display birth information and...",
+          "student_name": "Prajwal S Belagavi",
+          "code_url": "https://gist.github.com/prajwal27/bef7a03f72d65e99f14a7e86828ab9fb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4695402302930944/"
+        },
+        {
+          "title": "Low Powered Models for Disease Detection and Classification for Radiology Images",
+          "short_description": "The goal of this project is to develop models and train them on various Radiology images. These models need to be made suitable to be run on low...",
+          "student_name": "Aishwarya Harpale",
+          "code_url": "https://gsoc2020withlibrehealth.blogspot.com/2020/08/gsoc-2020-with-librehealth-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4763582627053568/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6009541631672320/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Develop an Android application for newborn clinical decision support",
+          "short_description": "The Essential Care for Every Baby (ECEB) is an educational and training program, developed by the American Academy of Pediatrics, provides knowledge,...",
+          "student_name": "BHAVESH SHARMA",
+          "code_url": "https://gist.github.com/bhavesh3005sharma/59f32064f727bef967a1a05cdd15c4fc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6164666052509696/"
+        },
+        {
+          "title": "Create web components for FHIR Resources",
+          "short_description": "Overall, the project is divided into two parts:\n\nRefactoring and creating new custom components that implement FHIR resources using the lit library....",
+          "student_name": "Shashwat",
+          "code_url": "https://gist.github.com/geforce6t/93b02ec14ef2c5613500049717d0f5cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4993046889889792/"
+        },
+        {
+          "title": "Neural network-based object detection of anatomical structures and medical artifacts in Virtual Reality",
+          "short_description": "In Most of the medical procedures like surgery or in interventional radiology, the procedures are recorded as video. Common artefacts observed in...",
+          "student_name": "Shivaditya Shivganesh",
+          "code_url": "https://gitlab.com/sshivaditya/lh-radiology-nn-vr-detection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4903582452678656/"
+        },
+        {
+          "title": "Develop an Android Mobile Application For Newborn Clinical Decision Support",
+          "short_description": "To develop an Android & IOS application to provide clinical decision-support for nurses and doctors delivering essential newborn care interventions...",
+          "student_name": "Darshpreet Singh",
+          "code_url": "https://gist.github.com/Darshpreet2000/593f13f7018c9e5cfd7c0893bfff40a5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6007050013769728/"
+        },
+        {
+          "title": "Improve LibreHealth Toolkit Cost Of care Flutter Application And Web-App",
+          "short_description": "To improve Librehealth Toolkit cost of care flutter application and web application which can display costs of medical procedures of US hospitals....",
+          "student_name": "Mahavir Singh",
+          "code_url": "https://gist.github.com/bishtmanish739/103c72eba915ad2de8b913aad305a025",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5162968043487232/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/librehealth/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "NeoRoo- An Integrated mHealth Platform for Improving Nursing Care for Premature Babies",
+          "short_description": "Premature birth is highly prevalent with every one in ten births being premature. A common complication in premature birth is hypothermia (the baby...",
+          "student_name": "Hrishikesh Bhagwat",
+          "code_url": "https://bhagwatcoderwrites.hashnode.dev/final-report-for-gsoc22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ye846qnn/"
+        },
+        {
+          "title": "Medical images classification, segmentation and detection in VR",
+          "short_description": "My project is a development of 3 computer vision models: 1. A model for workflow classification; 2. A model for medical equipment detection; 3. A...",
+          "student_name": "Daniilor",
+          "code_url": "https://daniilor.blogspot.com/2022/09/summing-up-my-gsoc-experience.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/O9a4EZCE/"
+        },
+        {
+          "title": "Machine Learning models for classification, object detection and segmentation in Virtual Reality",
+          "short_description": "Medical Procedures in surgery or in interventional radiology are recorded as videos that are used for review, training and quality monitoring. These...",
+          "student_name": "Shivaditya Shivganesh",
+          "code_url": "https://gitlab.com/sshivaditya/lh-radiology-vr-chat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eR9zHeix/"
+        },
+        {
+          "title": "GSoC Proposal - LH-Toolkit & Radiology UI Re-Write",
+          "short_description": "During the 2018 GSoC period, web components of FHIR Resource using Polymer.js were written. This project is to use those web components to completely...",
+          "student_name": "Rose Kamal",
+          "code_url": "https://rosekamallove.vercel.app/blogs/10-project-report-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vQgt206g/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/librehealth",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Enhancements to the ECEB App Based on User Study",
+          "short_description": "The Essential Care for Every Baby (ECEB) mobile application is designed to offer clinical decision support to healthcare personnel who provide...",
+          "student_name": "Akash Srivastava",
+          "code_url": "https://akashsrivastavagsoc.blogspot.com/2023/08/final-report-gsoc23-project.html",
+          "proposal_id": "3wZVsqAF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BYWQVsDW"
+        },
+        {
+          "title": "Migrate EHR to Laravel - User & Roles Module",
+          "short_description": "I am excited about the opportunity to contribute to the LibreHealth EHR project by migrating the User's Module to the new Laravel codebase, revamping...",
+          "student_name": "Chaitak Gorai",
+          "code_url": "https://blogbook.tech/gsoc-2023-final-work-submission-report",
+          "proposal_id": "Gjkm3REo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QCPyXdFo"
+        },
+        {
+          "title": "Participatory design enhancements to NeoRoo app",
+          "short_description": "The NeoWarm swaddling device and NeoRoo mobile app have been developed to support Kangaroo Mother Care/Skin-to-Skin care for premature newborns and...",
+          "student_name": "Donya Esawi",
+          "code_url": "https://gitlab.com/DoniaEsawi/lh-mhbs-neoroo",
+          "proposal_id": "qMd8pwVP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GerzaD2s"
+        },
+        {
+          "title": "Participatory design enhancements to NeoRoo app.",
+          "short_description": "Approximately 15 million premature infants are delivered each year, who face a higher risk of neonatal mortality, particularly in low and...",
+          "student_name": "Mehul Kumar",
+          "code_url": "https://github.com/Mehul-Kumar-27/GSOC-23-Mehul-Kumar",
+          "proposal_id": "fTNZMJed",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QKyiu6a7"
+        },
+        {
+          "title": "AI Model Service Auto Selection by Modality",
+          "short_description": "The LibreHealth Radiology AI Model service aids radiologists with AI to produce fast and accurate medical diagnoses. It communicates with LibreHealth...",
+          "student_name": "Rohan Satya Isaac",
+          "code_url": "https://rohanisaac.blogspot.com/2023/08/google-summer-of-code-2023-ai-model.html",
+          "proposal_id": "T9xFM09x",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iAPnNANk"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.librehealth.io",
+  "contact_email": "mailto:community@librehealth.io",
+  "mailing_list": "https://forums.librehealth.io",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/LibreHealthIO"
+}

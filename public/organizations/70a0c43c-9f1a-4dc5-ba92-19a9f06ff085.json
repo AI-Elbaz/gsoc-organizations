@@ -1,0 +1,74 @@
+{
+  "name": "Polly Labs",
+  "url": "http://pollylabs.org",
+  "image_url": "https://lh3.googleusercontent.com/yKCUZwrL8WLvq58Lpcxl0GZ1wdQFNuhMVxp0NvQT8R_ZkRCaVvcOqhv0SP6MMdbDJCTxm1k9FPC6W4V-cbQwh9AUxi-nSHc6",
+  "image_background_color": "#FFFFFF",
+  "category": "Programming languages",
+  "topics": [
+    "optimization",
+    "fpga",
+    "polyhedral compilation",
+    "parallelization",
+    "program verification",
+    "compilers",
+    "polyhedral model"
+  ],
+  "technologies": [
+    "llvm",
+    "polly",
+    "ppcg",
+    "integer set library",
+    "pencil",
+    "c",
+    "c++",
+    "isl"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4788561849090048/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Maximal static expansion for efficient loop parallelization on GPU",
+          "short_description": "Polly is a high-level loop and data-locality optimizer and optimization infrastructure for LLVM based on the polyhedral model. This project aims to...",
+          "student_name": "Nicolas Bonfante",
+          "code_url": "http://pollylabs.org/gsoc2017/Maximal-static-expansion-for-efficient-loop-parallelization-on-GPU.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5511723209457664/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4933265605525504/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Collect Polyhedral Benchmarks",
+          "short_description": "Currently, Polly\u2019s performance is measured on PolyBench benchmark. PolyBench does not cover all of the possible kernels so we may miss out some...",
+          "student_name": "Pankaj Kukreja",
+          "code_url": "http://pollylabs.org/gsoc2018/Collect-Polyhedral-Benchmarks.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6247142943358976/"
+        },
+        {
+          "title": "Metamorphic Testing for Math Libraries",
+          "short_description": "Recently, metamorphic testing techniques have been applied with success in\nvarious fields to find domain-specific bugs, as presented in this survey....",
+          "student_name": "Andrei Lascu",
+          "code_url": "http://pollylabs.org/gsoc2018/Metamorphic-Testing-for-C++-Software-Libraries.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4798352227041280/"
+        },
+        {
+          "title": "Compiling Chapel with Polly/LLVM",
+          "short_description": "Chapel is an emerging parallel programming language developed with the aim of providing better performance in High-Performance Computing as well as...",
+          "student_name": "Sahil Yerawar",
+          "code_url": "http://pollylabs.org/gsoc2018/Compiling-Chapel-with-Polly-and-LLVM.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6559623557414912/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:polly-dev@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/polly-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://pollylabs.org/blog.html"
+}

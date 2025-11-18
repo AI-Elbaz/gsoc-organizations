@@ -1,0 +1,334 @@
+{
+  "name": "AboutCode",
+  "url": "https://aboutcode.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/aboutcode/pmcafargc6wvl1ck-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "free and open source software  license and origin",
+    "package and dependencies licensing and origin",
+    "package vulnerabilities and security",
+    "code scan and matching",
+    "code analysis and spdx",
+    "package managers",
+    "license-scan",
+    "oss licensing",
+    "copyright",
+    "license compliance",
+    "machine learning",
+    "software analysis",
+    "application security",
+    "dependencies",
+    "software composition analysis",
+    "software packages",
+    "scanning",
+    "vulnerabilities",
+    "SoftwareCompositionAnalysis",
+    "License",
+    "SBOM"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c",
+    "c++",
+    "shell script",
+    "static analysis",
+    "nlp",
+    "automaton",
+    "search",
+    "postgresql",
+    "rust",
+    "django",
+    "postgres",
+    "Django+PostgreSQL",
+    "C/Rust/Go"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6448304984424448/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Building ScanCode live scan server",
+          "short_description": "Building a project which uses ScanCode as a library in a web and REST API application that allows you to scan code on demand by entering a URL and...",
+          "student_name": "Raju Koushik Gorantla",
+          "code_url": "https://github.com/nexB/scancode-server/wiki/Google-Summer-of-Code-2017-Work-Product-Submission---%5BRajuKoushik%5D%5BAboutCode%5D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6426516883767296/"
+        },
+        {
+          "title": "Live scan server to scan licenses using URL and file uploader",
+          "short_description": "This project is based on the building a web app that can take the user input of the plain-text code or it can take the input as the URL from where...",
+          "student_name": "Ranvir Singh",
+          "code_url": "https://singh1114.github.io/GSoC2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5362705024155648/"
+        },
+        {
+          "title": "Package Vulnerability Data Feed & Scanner",
+          "short_description": "The usage of any open source software is primarily guided by the licenses binding it. Individuals/Organisations, generally make the decision of using...",
+          "student_name": "Kartik Sibal",
+          "code_url": "https://github.com/nexB/vulnerablecode/wiki/Final-Project-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4528971072929792/"
+        },
+        {
+          "title": "Plugin architecture for ScanCode",
+          "short_description": "This project\u2019s purpose is to create a decoupled plugin architecture for scancode such that it can handle plugins at different stages of a scan and...",
+          "student_name": "Yash D. Saraf",
+          "code_url": "https://github.com/nexB/scancode-toolkit/wiki/GSoC-2017-Plugin-Architecture-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4847532286935040/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5430785606156288/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Approximately Similar file detection in DeltaCode",
+          "short_description": "DeltaCode is a tool to compare and report scan differences. It takes JSON files as an input which is the output of ScanCode-toolkit as well. When...",
+          "student_name": "Arnav Mandal",
+          "code_url": "https://github.com/nexB/deltacode/wiki/Approximately-Similar-File-Detection-GSoC-2019-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6338690152923136/"
+        },
+        {
+          "title": "Packaging  and Docker Image Creation",
+          "short_description": "About Code software scancode-toolkit currently is not available as distro's package and there is no official docker image available  which is must...",
+          "student_name": "AyushJain0402",
+          "code_url": "https://aj4ayushjain.github.io/opensource/gsoc/2019/08/25/GSOC-final-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5455090473762816/"
+        },
+        {
+          "title": "Port Scancode to Python 3",
+          "short_description": "Since Python 2.7 will retire in few months and no longer maintained.So it needs to be ported to python 3 and it must passed on both version of...",
+          "student_name": "Abhishek_Kumar",
+          "code_url": "https://github.com/nexB/scancode-toolkit/wiki/Google-Summer-of-Code--2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5165116964732928/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6689005560659968/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Add additional package metadata and lockfile parsers",
+          "short_description": "ScanCode is an opensource software and detects licenses, copyrights, package manifests & dependencies and more by scanning code. This allows to...",
+          "student_name": "ROHIT POTTER",
+          "code_url": "https://gist.github.com/rpotter12/836d52deb6a92c72e3232a18bc179d29",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6129972617412608/"
+        },
+        {
+          "title": "Enhancement of  VulnerableCode",
+          "short_description": "Software development is undergoing a gradual increase in pace. The direct result of this is more software vulnerabilities. Countless vulnerabilities...",
+          "student_name": "Shivam Sandbhor",
+          "code_url": "https://github.com/sbs2001/GSOC2020Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5367054590279680/"
+        },
+        {
+          "title": "Remove legacy Python code - Support latest Python 3.x - Improve 3rd party package provisioning",
+          "short_description": "Python 2.7 has already retired and it will no longer be maintained therefore it  will better to drop the support of Python 2. It will also include...",
+          "student_name": "Abhishek Kumar",
+          "code_url": "https://github.com/nexB/aboutcode/wiki/Python3-everywhere-Plus-Packaging-GSoC-2020-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6203496619048960/"
+        },
+        {
+          "title": "Improve ScanCode License detection accuracy, by leveraging the ClearlyDefined dataset of Scans",
+          "short_description": "ScanCode license detection is using multiple techniques to accurately detect licenses based on automatons, inverted indexes, and multiple sequence...",
+          "student_name": "ayansinha23",
+          "code_url": "https://github.com/nexB/scancode-results-analyzer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4722124918358016/"
+        },
+        {
+          "title": "Fetchcode : A smart code downloader",
+          "short_description": "The goal of this project is to create a smart tool/library that provides a universal package and code download from VCS, web, ftp, etc.",
+          "student_name": "Tushar Goel",
+          "code_url": "https://github.com/TG1999/GSOC2020_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5877152756531200/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5677990456852480/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Integration of Alternate Code Analysis Tools",
+          "short_description": "This project aims to provide a way to implement and integrate the likes of Google Licenseclassifier, GitHub Licensee, and other license detection and...",
+          "student_name": "Avishrant Sharma",
+          "code_url": "https://github.com/nexB/scancode.io-pipeline-glc_scan/blob/main/docs/source/contribute/GSoC'21%20Final%20Report.rst",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6414766964211712/"
+        },
+        {
+          "title": "Integrate VirtualCodebase with Deltacode",
+          "short_description": "The goal of this proposal is to refactor DeltaCode to use Scancode-Toolkit\u2019s Virtual Codebase class. This refactoring will allow DeltaCode to be a...",
+          "student_name": "Pratik Dey",
+          "code_url": "https://medium.com/@pratikdey/gsoc-2021-work-report-c15ab3c98dd3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6580434925780992/"
+        },
+        {
+          "title": "Detect Unknown Licenses and Indirect License references in ScanCode",
+          "short_description": "Scancode uses various different techniques to detect licenses based on various multiple sequence alignments ,algorithms ,automations etc. but the...",
+          "student_name": "Akanksha Garg",
+          "code_url": "https://github.com/nexB/scancode-toolkit/blob/develop/docs/source/contribute/gsoc21_final_report.rst",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6229596998991872/"
+        },
+        {
+          "title": "VulnerableCode importers refactoring and addition",
+          "short_description": "VulnerableCode has a large number of pending tickets that require adding more data sources of known vulnerabilities (aka. importers). As importers...",
+          "student_name": "Hritik Vijay",
+          "code_url": "https://vulnerablecode.readthedocs.io/en/latest/contribute/gsoc21.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6286057699540992/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/aboutcode/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Scancode.io/Scancode Toolkit: Create web application to scan and review a single license text",
+          "short_description": "Create a web app and JSON Rest API to detect any text for license, and submit bugs (SCTK-aaS). This project is to create a web-based mini application...",
+          "student_name": "lf32",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2022/scancodeio_akhil.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qLGnC87T/"
+        },
+        {
+          "title": "Scancode Workbench improvements",
+          "short_description": "Refactor workbench to a React + Typescript implementation and improve various sections of the application including Table view, file uploads, data...",
+          "student_name": "Omkar Phansopkar",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2022/scancode_workbench_omkar.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UHXR7kXp/"
+        },
+        {
+          "title": "Cross-validate vulnerability coverage of VulnerableCode. VulnTotal Project!",
+          "short_description": "VulnerableCode is a unique project that collates FOSS vulnerability data from numerous sources. This VulnTotal project will help cross-validate the...",
+          "student_name": "Keshav Priyadarshi",
+          "code_url": "https://keshav.space/gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8ICEBzfO/"
+        },
+        {
+          "title": "Extending license detection to use licenses external to ScanCode Toolkit",
+          "short_description": "When doing license detection, ScanCode uses the licenses and rules in the ScanCode LicenseDB. The goal of this project is to extend the capabilities...",
+          "student_name": "Kevin Ji",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2022/scancode_kevin.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/e2m1eokW/"
+        },
+        {
+          "title": "Add more data sources and mine the graph to find correlations between vulnerabilities",
+          "short_description": "There is a large number of pending tickets for data sources. We want to search for more vulnerability data sources and consume them . So I will...",
+          "student_name": "ziad hany",
+          "code_url": "https://medium.com/@ziadhany2016/gsoc-2022-work-report-7f1b5bc25be8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7d7Sxtqo/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/aboutcode",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Creating Pure-Python Fallback Dependencies",
+          "short_description": "Currently sctk uses pyahocorasick intbitset for license detection & lxml for creating cyclonedx-xml output formats. All three of them are currently...",
+          "student_name": "Jay Kumar",
+          "code_url": "https://anomaly.hashnode.dev/google-summer-of-code-2023-aboutcode",
+          "proposal_id": "nLgmuc5S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kw8FGmuk"
+        },
+        {
+          "title": "Decentralized vulnerability data peer-review",
+          "short_description": "Software packages vulnerabilities : let's say we have a security team that wants to track new vulnerabilities in the open source software packages ,...",
+          "student_name": "ziad hany",
+          "code_url": "https://medium.com/@ziadhany2016/gsoc-2023-work-report-gsoc-again-431cf5b9436a",
+          "proposal_id": "PXC6ttnz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KJcxgoj5"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/aboutcode/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "VulnerableCode/Vulntotal: Browser Extension",
+          "short_description": "Implement a Firefox/Chrome browser extension that enables users to use VulnTotal from their browser. The idea is to use Pyodide to run the existing...",
+          "student_name": "Michael Ehab Mikhail",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2024/vulntotal_extension_michael.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/26FZNTGx/"
+        },
+        {
+          "title": "Add more data sources and mine the graph to find correlations between vulnerabilities",
+          "short_description": "There is a large number of pending tickets for data sources. This project focuses on adding more and more vulnerability data sources and consume...",
+          "student_name": "Ambuj Kulshreshtha",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2024/vulnerablecode_ambuj.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/O745WFKh/"
+        },
+        {
+          "title": "Enrich SBOM data based on OSSF Security Score Card",
+          "short_description": "I am developing a pypi package which will be responsible for calling OpenSSF scorecard API or CLI with an open-source github link and fetching the...",
+          "student_name": "Pranay Das",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2024/scancodeio_scorecode_pranay.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kB8HkEli/"
+        },
+        {
+          "title": "Compute summary for all detected packages.",
+          "short_description": "The project aims to improve scanning accuracy by computing summary and license clarity scores for each package and its files, rather than for the...",
+          "student_name": "swastkk",
+          "code_url": "https://aboutcode.readthedocs.io/en/latest/archive/gsoc/reports/2024/scancode_toolkit_swastkk.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JzMlDtnM/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/aboutcode",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Create file-system tree view for project scans",
+          "short_description": "The current directory browsing experience in ScanCode.io is limited to viewing one folder at a time, which becomes inefficient and cumbersome for...",
+          "student_name": "AayushKumar",
+          "code_url": null,
+          "proposal_id": "SkcBfLjg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OQ4Mahel"
+        },
+        {
+          "title": "Have variable license sections in license rules",
+          "short_description": "In this project, the main goal was to simplify license rules while allowing for greater flexibility by supporting extra words and variable components...",
+          "student_name": "Alokkumar97",
+          "code_url": null,
+          "proposal_id": "R7ORYlGD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EvCogGhq"
+        },
+        {
+          "title": "ScanCode.io: Update SCIO/SCTK for use in CI/CD",
+          "short_description": "This project is about simplifying it to use ScanCode Toolkit and ScanCode.io in common CI/CD systems such as GitHub Actions, GitLab, Jenkins, and...",
+          "student_name": "Manit Singh",
+          "code_url": null,
+          "proposal_id": "EkqbxbsY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DsDoR5eF"
+        },
+        {
+          "title": "VulnerableCode: On-demand live evaluation of packages and integration with VulnTotal",
+          "short_description": "Currently, VulnerableCode runs importers in bulk where all the data from advisories are imported (and reimported) at once and stored to be displayed...",
+          "student_name": "Michael Ehab Mikhail",
+          "code_url": null,
+          "proposal_id": "iAh0RBYA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uF0kzMAg"
+        },
+        {
+          "title": "Add ability to store/query downloaded packages",
+          "short_description": "This project focuses to enhance SCIO by introducing a feature to store and manage packages that are downloaded and scanned. The goal is to add...",
+          "student_name": "Varsha U N",
+          "code_url": null,
+          "proposal_id": "FHKQem7P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/x7sA6uN6"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#aboutcode-org_gsoc2025:gitter.im",
+  "contact_email": "mailto:sesser@nexb.com",
+  "mailing_list": "http://AboutCode@groups.io",
+  "ideas_url": "https://github.com/aboutcode-org/aboutcode/wiki/GSOC-2025-Project-Ideas",
+  "guide_url": "https://github.com/aboutcode-org/aboutcode/wiki/GSOC-2025",
+  "blog_url": "https://www.aboutcode.org/category/news.html"
+}

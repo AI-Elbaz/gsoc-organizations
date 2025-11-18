@@ -1,0 +1,290 @@
+{
+  "name": "GeomScale",
+  "url": "https://geomscale.github.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/geomscale/ongpste986nd7t6p-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "biology",
+    "statistics",
+    "mathematical software",
+    "optimization",
+    "finance",
+    "mathematics",
+    "data science",
+    "computational biology",
+    "computation geometry",
+    "computational geometry"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "r",
+    "jupyter",
+    "github-actions"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4606415412396032/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Optimization and Sum of Squares",
+          "short_description": "We aim to provide an implementation of modern approaches to Sum of Squares problems.",
+          "student_name": "Bento Natura",
+          "code_url": "https://github.com/GeomScale/volume_approximation/pull/93",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6034482273976320/"
+        },
+        {
+          "title": "A comparative study of uniform high dimensional samplers",
+          "short_description": "Uniform sampling from convex polytopes in high dimensions is very useful in many scientific fields and applications. The package volesti is a C++...",
+          "student_name": "Alexandros Manochis",
+          "code_url": "https://alexmanochis.github.io/GSoC20/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4925284253433856/"
+        },
+        {
+          "title": "Sampling from High-Dimensional log-concave densities",
+          "short_description": "This proposal aims to provide functionality on sampling from high-dimensional densities. A log-concave density is a density g(x) proportional to...",
+          "student_name": "Marios Papachristou",
+          "code_url": "https://papachristoumarios.github.io/2020/07/21/Sampling-from-high-dimensional-truncated-log-concave-densities-with-volesti/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5931962579025920/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5291444977270784/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "High dimensional geometric computations with least matrix inequalities",
+          "short_description": "Package volesti supports volume estimation for polytopes, providing several randomized approximation methods. The most efficient implementation...",
+          "student_name": "Alexandros Manochis",
+          "code_url": "https://github.com/GeomScale/volume_approximation/pull/173",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6401652449345536/"
+        },
+        {
+          "title": "From DNA sequences to metabolic interactions: building a pipeline to extract key metabolic processes",
+          "short_description": "Metabolic modeling has been interwoven with constraing-based methods. \nThe value of randomized sampling in the framework of metabolic modeling has...",
+          "student_name": "Haris Zafeiropoulos",
+          "code_url": "https://hariszaf.github.io/gsoc2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6407348884602880/"
+        },
+        {
+          "title": "Parallel Geometric Random Walks with Sparse Numerical Optimizations",
+          "short_description": "Package volesti provides several geometric random walks for high dimensional\nsampling from convex polytopes. The current implementations can be used...",
+          "student_name": "Konstantinos Pallikaris",
+          "code_url": "https://github.com/GeomScale/volume_approximation/pull/172",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6593875421954048/"
+        },
+        {
+          "title": "GeomScale: Monte Carlo Integration",
+          "short_description": "Integration is a fundamental problem in mathematics, physics and computer science with many applications that span the whole spectrum of sciences and...",
+          "student_name": "Suraj Choubey",
+          "code_url": "https://surajchoubey.github.io/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4825133331513344/"
+        },
+        {
+          "title": "Counting linear extensions",
+          "short_description": "The problem of counting the linear extensions of a given partial order consists of finding (counting) all the possible ways that we can extend the...",
+          "student_name": "Vaibhav Thakkar",
+          "code_url": "https://gist.github.com/vaithak/b62b7967fc918f6671c2de7276131f53",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6050504680931328/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/geomscale/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Automatic differentiation support in volesti",
+          "short_description": "The most efficient algorithm to sample from a log-concave distribution, that volesti supports is the Hamiltonian Monte Carlo with leapfrog...",
+          "student_name": "Zhang Zhuyan",
+          "code_url": "https://gist.github.com/zhanggiene/8471601fa25ba9db90303661b0e2237b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TD3u7S00/"
+        },
+        {
+          "title": "Counting linear extensions with volume computation",
+          "short_description": "In this project, we will implement different algorithms to count linear extensions approximately. In the problem of counting the linear extensions,...",
+          "student_name": "reyan_ahmed",
+          "code_url": "https://abureyanahmed.github.io/gsoc2022/final_report_gsoc.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rpWAufXk/"
+        },
+        {
+          "title": "Memory allocation in facet redundancy removal in dingo",
+          "short_description": "Sampling and volume computation of convex polytopes is a challenging computational problem with many applications in inference from linear...",
+          "student_name": "Haris Zafeiropoulos",
+          "code_url": "https://github.com/GeomScale/dingo/pull/18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/968ibP0I/"
+        },
+        {
+          "title": "Support for new sampling methods and new model formats in dingo",
+          "short_description": "Package dingo is a python package that analyzes metabolic networks. It relies on high dimensional sampling with Markov Chain Monte Carlo (MCMC)...",
+          "student_name": "KONSTANTINOS PALLIKARIS",
+          "code_url": "https://github.com/GeomScale/dingo/pull/40",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UKcKOkcC/"
+        },
+        {
+          "title": "Randomized SDP solver with Riemannian Hamiltonian Monte Carlo",
+          "short_description": "The relationship between sampling and optimization has gained increasing interest in recent years. A great number of optimization algorithms that are...",
+          "student_name": "Ioannis Iakovidis",
+          "code_url": "https://iakoviid.github.io/GoogleSummerOfCode2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/li2dNGB6/"
+        },
+        {
+          "title": "Sampling correlation matrices",
+          "short_description": "We study the sampling of correlation matrices from a given probability density, which has applications in various scientific, engineering and...",
+          "student_name": "Huu Phuoc Le",
+          "code_url": "https://github.com/huuphuocle/sampling_correlation_matrices",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/biRI2YLT/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/geomscale",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support exponential sampling from the space of steady states of a metabolic network",
+          "short_description": "My proposal is to extend the Python package dingo with two Markov Chain Monte Carlo sampling methods, which will enable exponential sampling from the...",
+          "student_name": "Guillermo Martin",
+          "code_url": "https://github.com/GeomScale/dingo/commit/a1724b07217248d51e4b3e799a82c039b667c91e",
+          "proposal_id": "AhFPweoF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/FHAnvNUp"
+        },
+        {
+          "title": "Memory allocation in facet redundancy removal in dingo",
+          "short_description": "This project will improve the memory allocation in the main routine for facet redundancy removal in GeomScale's Python package dingo. The project is...",
+          "student_name": "Nitish Malang",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vSBBqs7U1k8y_zWDEvuIk4_Qo9PzqGrj3BXib_ELUggmLdeHv7cuZxpf571MhVuKrSF5WdrfOF3K_df/pub",
+          "proposal_id": "2UuZkXJV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/g3A99uhs"
+        },
+        {
+          "title": "Move R Interface of Volesti to a New Repository",
+          "short_description": "The main goal of this project is to create a dedicated repository for the R interface code of Volesti, a tool developed by GeomScale for volume...",
+          "student_name": "Soumya Tarafder",
+          "code_url": "https://geomscale.github.io/Progress-of-Rvolesti-GSoC23/",
+          "proposal_id": "gnVanLN8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Ju6SPJP1"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/geomscale/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Machine Learning and Optimization for Finance: Index Replication",
+          "short_description": "Indexes are baskets of stocks with specific characteristic. They provide examples for diversification in investing to mitigate the volatility of...",
+          "student_name": "Ho Thi Minh Ha",
+          "code_url": "https://github.com/GeomScale/GeoFin/pull/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TjKj1HbI/"
+        },
+        {
+          "title": "Pre- and post-sampling features to leverage flux sampling at both the strain and the community level",
+          "short_description": "The first genome-scale models of metabolism appeared in 1999 and 2000. In the following years fundamental Microbial Systems concepts were developed...",
+          "student_name": "Sotiris Touliopoulos",
+          "code_url": "https://sotiristouliopoulos.github.io/dingo/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vBkrROTa/"
+        },
+        {
+          "title": "Develop a new rounding method for convex polytopes",
+          "short_description": "The goal of this project is to improve currently existing implementations for rounding convex polytopes from Volesti as well as develop a new method...",
+          "student_name": "Luca Perju",
+          "code_url": "https://www.overleaf.com/read/jkrvrnbfkhph#9abfea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/geh8GTyg/"
+        },
+        {
+          "title": "Efficient Volume Computation",
+          "short_description": "The current state-of-the-art algorithms for the volume computation of high dimensional convex bodies, such as the one currently used within the...",
+          "student_name": "Vladimir Necula",
+          "code_url": "https://vgnecula.github.io/gsoc/report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZGHwrpR4/"
+        },
+        {
+          "title": "Refactor Multiphase Monte Carlo Sampling for volesti and dingo",
+          "short_description": "The proposed project aims to refactor the Multiphase Monte Carlo Sampling (MMCS) algorithm, currently implemented in Python with Cython bindings, to...",
+          "student_name": "Akis Schinas",
+          "code_url": "https://github.com/GeomScale/volesti/pull/335",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NlOey3aN/"
+        },
+        {
+          "title": "Modernize Linear Program solver interface in dingo",
+          "short_description": "The proposed project aims to modernize the Linear Program (LP) solver interface in dingo, a Python package for analyzing metabolic net- works. By...",
+          "student_name": "Ke Shih",
+          "code_url": "https://github.com/GeomScale/dingo/pull/104",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bWOwATfK/"
+        },
+        {
+          "title": "Improving sampling routines for correlation matrices and R interface",
+          "short_description": "The goal of this project is to (1) improve sampling routines for correlation matrices and (2) further enhance the R interface with sampling...",
+          "student_name": "Atrayee Samanta",
+          "code_url": "https://atrayees.github.io/2024/07/28/gsoc24-finalblogpost/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zlQlciUR/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/geomscale",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Expose C++ Sampling, Rounding and Volume Computation in Dingo",
+          "short_description": "Dingo is a Python library built on top of the C++ library volesti, primarily designed for sampling from convex polytopes, especially within the...",
+          "student_name": "Akis Schinas",
+          "code_url": null,
+          "proposal_id": "wwoChN0G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/a40WS6Oc"
+        },
+        {
+          "title": "Randomized SDP solver and improved preprocessing",
+          "short_description": "The proposed project aims to continue the implementation of the semide\ufb01nite pro- gramming (SDP) solver in the VolEsti library and to integrate it...",
+          "student_name": "Angelos Korakitis",
+          "code_url": null,
+          "proposal_id": "X6eQQZ9c",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dKflrLCE"
+        },
+        {
+          "title": "Shake and Bake - Sampling from the boundary of convex polytopes",
+          "short_description": "The project aims to implement the Markov Chain Monte Carlo-based Shake and Bake algorithm for uniform sampling from the boundary of a convex polytope...",
+          "student_name": "Iva Jankovi\u0107",
+          "code_url": null,
+          "proposal_id": "KmuXqs9t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7DtNTtFc"
+        },
+        {
+          "title": "Counting Linear Extensions with Volume Computation and Applications in AI",
+          "short_description": "This project develops an approximation algorithm for counting the linear extensions of a partial order by estimating the volume of its associated...",
+          "student_name": "Sophia Qian",
+          "code_url": null,
+          "proposal_id": "2ROF9zMv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ObNb1YLW"
+        },
+        {
+          "title": "LoopLess Flux Sampling",
+          "short_description": "Genome-scale metabolic network reconstructions (GENREs) are comprehensive maps of all known metabolic reactions and associated genes in a given...",
+          "student_name": "Sotirios Touliopoulos",
+          "code_url": null,
+          "proposal_id": "wdS6OiMr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j6mlCS2r"
+        },
+        {
+          "title": "Sparse Polytope Sampling via Lazy Rounding",
+          "short_description": "The goal of this project is to enhance the Volesti library by implementing a sparse variant of the Billiard Walk sampling algorithm, which proposes...",
+          "student_name": "Vladimir Necula",
+          "code_url": null,
+          "proposal_id": "jG3HNrze",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vLd6ZbJ0"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/GeomScale/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link",
+  "contact_email": "mailto:geomscale@gmail.com",
+  "mailing_list": "https://groups.google.com/g/geomscale-gsoc",
+  "ideas_url": "https://github.com/GeomScale/gsoc25/wiki/table-of-proposed-coding-projects",
+  "guide_url": "https://github.com/GeomScale/gsoc25/wiki",
+  "twitter_url": "https://mobile.twitter.com/GeomScale",
+  "blog_url": "https://www.linkedin.com/company/geomscale/"
+}

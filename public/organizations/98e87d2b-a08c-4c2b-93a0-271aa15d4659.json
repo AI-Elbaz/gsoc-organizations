@@ -1,0 +1,706 @@
+{
+  "name": "International Catrobat Association",
+  "url": "https://www.catrobat.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/international-catrobat-association/dfkxzmsqlkyvwi2o-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "education",
+    "robotics",
+    "programming tools",
+    "web applications",
+    "scratch",
+    "app development",
+    "programming language",
+    "web",
+    "visual programming",
+    "gaming",
+    "creativity tools",
+    "mobile programming",
+    "game engines"
+  ],
+  "technologies": [
+    "javascript",
+    "android",
+    "java",
+    "html5",
+    "web",
+    "ios",
+    "espresso",
+    "swift",
+    "symfony",
+    "php",
+    "kotlin",
+    "flutter"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5859735551082496/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Pocket Code - Integrate S2C",
+          "short_description": "My work is targeting the Scratch to Catrobat converter. The Scratch to Catrobat converter is a tool that converts programs written in MIT's popular...",
+          "student_name": "Ralph Samer",
+          "code_url": "https://docs.google.com/spreadsheets/d/1cX9XogwItA-p1t0rxF-K_v1lgCyhsJyEgHL0M_-4lkM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5704093720903680/"
+        },
+        {
+          "title": "HTML5 Player: Rendering + Physics",
+          "short_description": "The HTML5 player currently makes use of the fabricJs library to render sprites to the viewport.\nWe only use fabricJs to draw sprites and handle...",
+          "student_name": "Teabeans",
+          "code_url": "https://docs.google.com/spreadsheets/d/1rbs5C5_8thJO4HahvmBbUX_FhHgv-CItSEuO1RJaTjs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5704499326877696/"
+        },
+        {
+          "title": "Scenes and Feature Completeness",
+          "short_description": "This project aims to provide Scenes in Projects, which are basically Projects in a Project. This should help to handle larger Projects with Levels...",
+          "student_name": "loibi93",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ouxvrHVn6bhs7QQgksYdCR2RUdg_b5EL3nC8mjVVvBM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5726162068176896/"
+        },
+        {
+          "title": "Feature Completeness (Scratch)",
+          "short_description": "The target of my project is to implement some new features to Catrobat's Android-App \"Pocket Code\", that are already available in Scratch. Catrobat...",
+          "student_name": "RobertR",
+          "code_url": "https://docs.google.com/spreadsheets/d/1b9dKX4vJtdEPoQo4Xb7sZlszSWvq95NDGuuitrEyXTU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6126711791943680/"
+        },
+        {
+          "title": "Raspberry Pi Integration + Feature Completeness (Scratch)",
+          "short_description": "Besides of GPIO pins, special sensors etc should be accessible from within PocketCode. It should be possible to trigger self defined events and...",
+          "student_name": "p4",
+          "code_url": "https://docs.google.com/spreadsheets/d/1jr2z-XNm0uWlXXfp9-6T6HKRL-hDRhge0TWzHEN1SrI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5046997547483136/"
+        },
+        {
+          "title": "HTML5 Player: Compatibility/Feature Completeness (Scratch)",
+          "short_description": "HTML5 Player: Compatibility/Feature Completeness (Scratch)",
+          "student_name": "wintersw",
+          "code_url": "https://docs.google.com/spreadsheets/d/11u2wuu0POGvWN3ZAhROaQZbehYLxB6VN-FzsTqz1Pmk/edit?pref=2&pli=1#gid=0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5369190424772608/"
+        },
+        {
+          "title": "Social Media Features",
+          "short_description": "I would love to add the following social media features outlined on the Catrobat Ideas Page:\n\nLikes and sharing of programs on the Website with...",
+          "student_name": "Steff",
+          "code_url": "https://docs.google.com/spreadsheets/d/13OwlViA0szaLwQBT2Xx0IQMtpPFIZJHtvKJFqGKELOU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4856054307356672/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5758529210155008/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "iOS: Implementation of missing Bricks and Sensors",
+          "short_description": "Desired Outcome: Support of all Bricks and Sensors for Catrobat Language version 0.991 (except physics bricks)\nNew Bricks:\n\nCameraBrick...",
+          "student_name": "Pushkar Sharma",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ypN-WZUV_ioAhkncmYJ0OICuvJpzZa7s_4eyumu5Rok/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6441041926291456/"
+        },
+        {
+          "title": "HTML5: Physics Engine",
+          "short_description": "Physics seems to be a challenging task in HTML5 and especially on mobile devices. Changes will not only be extensions to the current implementation...",
+          "student_name": "wintersw",
+          "code_url": "https://docs.google.com/spreadsheets/d/1xpFVqmS9HwAQF09lQX25oKqgitwrtr5qGguXJLK6H34/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5593070158479360/"
+        },
+        {
+          "title": "Refactoring/Redesigning Pocket Code",
+          "short_description": "Status-quo:\nThe Pocket Code project suffers from instabilities and cross-dependencies at its core. Because of this usability and extendability are...",
+          "student_name": "thmq",
+          "code_url": "https://docs.google.com/document/d/1tpjjW7__Pxf0gFMdReUypbLeeF3_2juQhCMPkjJOxwA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6534219094294528/"
+        },
+        {
+          "title": "Refactoring \u2013 Reimplementing all UI tests in Espresso",
+          "short_description": "Current UI test setup using Robotium is unstable, slow, and a big portion of UI tests is broken.\nTo fix this multiple steps are to be taken,...",
+          "student_name": "Thomas Hirsch",
+          "code_url": "https://coffeeclstrfck.wordpress.com/2017/08/19/gsoc17-catroid-ui-test-refactoring/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4948592330539008/"
+        },
+        {
+          "title": "iOS: Implementation of missing Bricks and Sensors",
+          "short_description": "iOS: Implementation of missing Bricks and Sensors",
+          "student_name": "Abduqodiri Qurbonzoda",
+          "code_url": "https://docs.google.com/spreadsheets/d/1kb_pdzdY6FAKVasxyTem3kEwP5JfmdMUHd-KXcdcHn0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5796090712424448/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6262892051562496/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Integrate Pocket Paint into Pocket Code",
+          "short_description": "During the Google Summer of Code I would like to integrate Pocket Paint into Pocket code.\nThere is quite some refactoring overhead before this can be...",
+          "student_name": "Thomas S",
+          "code_url": "https://gist.github.com/ThomasSchwengler/87ad2383f70ed7eb8e3dd0172d724509",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4510268637839360/"
+        },
+        {
+          "title": "iOS: Device Sensors and Code Refactoring",
+          "short_description": "Device sensors have different ways of functioning, depending on the operating system. This being stated, I will improve the existent code by...",
+          "student_name": "Carmen-Gabriela Popa",
+          "code_url": "https://github.com/Poppy22/Catty/blob/documentation-sensors-gsoc/SensorDocumentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5759522421342208/"
+        },
+        {
+          "title": "Introduce Architecture and Separate Components",
+          "short_description": "An open source software project should allow everyone to participate. Inherently this can cause the project to grow over the boundaries of its...",
+          "student_name": "Thomas Schranz",
+          "code_url": "https://gist.github.com/thmq/f0f635f2e8bd42eb334c3d14f5ed129c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5876131186081792/"
+        },
+        {
+          "title": "Refactoring - Testable code, simplify existing unit tests, enhance test coverage",
+          "short_description": "Theres about 1100+ occurences of \u201c.getInstance()\u201d methods accessing singletons from all over the project. (eg. ProjectManager, StorageHandling,...",
+          "student_name": "Thomas Hirsch",
+          "code_url": "https://gist.github.com/84n4n4/0dc71bedf3cc84a12910a23c64dc4393",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5888023614980096/"
+        },
+        {
+          "title": "Google blockly integration to catrobat project",
+          "short_description": "Google Blockly is a library for building visual programming editors.It is increasingly being used as a platform for visual programming languages such...",
+          "student_name": "Gajendra Tanwar",
+          "code_url": "http://inulab.blogspot.com/2018/08/gsoc-18-google-blockly-integration-to.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5896771322511360/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6726416631070720/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Amaya",
+          "short_description": "Amaya\nInspired in the \"Awesome Demo Game Project \" idea\nAmaya is a princess that have his kingdom invade and now needs to defeat The Tyrant to...",
+          "student_name": "Mikhaelle Bueno",
+          "code_url": "https://github.com/Catrobat/Awesome-Demogame/commit/7088527b93760cac01fe84e33c0654f6be5b35ce",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6612863198691328/"
+        },
+        {
+          "title": "Coding Tutorial Game for Female Teenagers",
+          "short_description": "A game to introduce female teenagers to Catrobat's programming learning app. The game's users will have the opportunity to learn how to code with the...",
+          "student_name": "Stefania Mak",
+          "code_url": "https://github.com/Catrobat/LunaAndCatTutorialGame",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6625333971779584/"
+        },
+        {
+          "title": "Testing Efficiency Catroid",
+          "short_description": "Improve the efficiency of the catroid tests.",
+          "student_name": "gPath",
+          "code_url": "https://docs.google.com/spreadsheets/d/1AW72ddVmBn-DZNwN_PvHk1kCoIZerOfvBXUW_P6ynuo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5390611824246784/"
+        },
+        {
+          "title": "Awesome Demo Game Project",
+          "short_description": "An old-school survival game made using Pocket Code IDE and Tested on the Android Architecture. The basic gameplay is made up of different levels...",
+          "student_name": "Vaibhav Anand",
+          "code_url": "https://github.com/Catrobat/Awesome-Demogame/pull/8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5251325363748864/"
+        },
+        {
+          "title": "Implementation of missing Bricks for Catrobat Language Version 0.992",
+          "short_description": "Bricks are the fundamental tools, which are needed for the development of projects within the Pocket Code app. Therefore, I would like to contribute...",
+          "student_name": "GatCode",
+          "code_url": "https://docs.google.com/spreadsheets/d/12xd8EfvtFuJ_HqKx048CamMU-k5JL-xzj-GDbTlXYdQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5297186739322880/"
+        },
+        {
+          "title": "Interesting Female Teenagers in Coding Through the Use of a Well-designed Serious Game",
+          "short_description": "This game will encourage female teenagers to develop their own games in the Catrobat app. As a tutorial game it is the gateway to Catrobat and its...",
+          "student_name": "Naomi Pfaff",
+          "code_url": "https://github.com/Catrobat/LunaAndCatTutorialGame",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4751654488899584/"
+        },
+        {
+          "title": "Fortune on the high seas",
+          "short_description": "My proposal is a pirate-themed roguelike videogame that will showcase how powerful Pocket Code really is, while also delivering a fun and exciting...",
+          "student_name": "Igor Ershov",
+          "code_url": "https://github.com/Catrobat/Awesome-Demogame/commit/141eeeb20390df2705befe51a45d8bb82a2483bd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4892391977254912/"
+        },
+        {
+          "title": "Awesome Game Demo Project - The Binding of Krishna",
+          "short_description": "The Binding of Krishna (TBoK) is the game which was recreated by our team, and the Game Play concept is designed from the famous game called \"The...",
+          "student_name": "Ajay Sharvesh M P",
+          "code_url": "https://github.com/Catrobat/Awesome-Demogame/commit/5ed0a4dafa1abc05a2ed6b302e2ff58b696e0aea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5778963757006848/"
+        },
+        {
+          "title": "PocketCode Demo Game Project",
+          "short_description": "This project focuses on creating an awe-inspiring game using pocket code with the goal of  sending the message on \u201c what kind of unimaginable feats...",
+          "student_name": "AselPeiris",
+          "code_url": "https://github.com/Catrobat/Awesome-Demogame/commit/e1125e00104efafe12905debd48368ff895c6537",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5785515545067520/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5707287336845312/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Redesign Landing Page",
+          "short_description": "I\u2019m in my last semester of the bachelor\u2019s degree \u201cSoftware Development and Business\nManagement\u201d and trying to improve my skills and experience.\nI\u2019m...",
+          "student_name": "Julia Herold",
+          "code_url": "https://github.com/juliajulie95/Catroid/blob/gsoc-documentation/gsoc-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6440102709952512/"
+        },
+        {
+          "title": "Web: Implement new OAuth Provider and refactor Google Sign-In",
+          "short_description": "I am interested in the Implementation of the new OAuth provider and refactoring of Google Sign In.\nI will implement the new OAuth (HWIOAuthBundle)...",
+          "student_name": "Josip Letica",
+          "code_url": "https://leno12.github.io/GSoC2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6472630242115584/"
+        },
+        {
+          "title": "Awesome Demo Game Project - Batroid",
+          "short_description": "Batriod - A Pocket Code Game\nBatroid is a 2D side scrolling action/adventure game where the main character Batrix has to fight an evil species to...",
+          "student_name": "Yash Punia",
+          "code_url": "https://github.com/Yash-Punia/AwesomeDemoGame-GSoC2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5690741914861568/"
+        },
+        {
+          "title": "Refactoring of test system and alternative API testing",
+          "short_description": "Description: The test system needs to be refactored and split up to speed up testing processes with the already existing docker container.\nTests need...",
+          "student_name": "Amela Kurti\u0107",
+          "code_url": "https://amelak9.github.io/GSOC_2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5467270068830208/"
+        },
+        {
+          "title": "OCR sensors for Pocket Code",
+          "short_description": "Using different API for the OCR recognition, we can create a new set of Pocket Code sensors for different interactions. It will be possible to...",
+          "student_name": "Daria Divenkova",
+          "code_url": "https://github.com/dardiv/Catroid/blob/documentation-sensors-gsoc/SensorDocumentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5376017079730176/"
+        },
+        {
+          "title": "Pocket Moon - Farming game demo project",
+          "short_description": "Create a 2D game in Pocket Code, inspired by Stardew Valley and the Harvest Moon Series.",
+          "student_name": "Jude Birch",
+          "code_url": "https://github.com/Jude-Birch/pocket-moon",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4664062496997376/"
+        },
+        {
+          "title": "Redesign and refactoring of the share platform",
+          "short_description": "Possible examples:\n\nRedesign the user-profile and user-project pages\na cleaner more modern design\nimprove performance (E.g. caching for...",
+          "student_name": "Daniel Metzner",
+          "code_url": "https://dmetzner.github.io/GSoC-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4752515570073600/"
+        },
+        {
+          "title": "Enhancement to Catrobat iOS Application",
+          "short_description": "The idea is to add new features as well as to improve existing features in the Catrobat iOS app (Catty). The app mainly focuses on making programming...",
+          "student_name": "Dhrubojyoti Biswas",
+          "code_url": "https://gist.github.com/DhrubojyotiBis1/c09d1ab9cf3fc69c1dd7cb737ebc86f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4803302350389248/"
+        },
+        {
+          "title": "Android: Separate and modularize interpreter and IDE in Pocket Code (refactoring)",
+          "short_description": "Modularize Pocket Code so that we end up with one separate module for each the IDE and the Interpreter.\nIn Pocket Code the IDE is seen as the...",
+          "student_name": "DinosaurierRex",
+          "code_url": "https://github.com/DinosaurierRex/Catroid/blob/gsoc-documentation/GsocDocumentation/gsoc-ds-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4897791127584768/"
+        },
+        {
+          "title": "Implementing Pen Bricks and UI & Usability Improvements for 'Pocket Code' (Catty) - iOS Implementation of Catrobat language",
+          "short_description": "Pen Bricks will allow users to draw in a running Catrobat scene by controlling the motion of a sprite or object from the scripts. This project...",
+          "student_name": "Neel Makhecha",
+          "code_url": "https://gist.github.com/neel-makhecha/35357892bcc16978c47f1dcfb7ac53f8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4908192061980672/"
+        },
+        {
+          "title": "Implementation of Landscape mode for Catty",
+          "short_description": "I would like to implement the landscape mode for the iOS Version of Pocket Code. The User should be able to choose between portrait and landscape...",
+          "student_name": "Stefan Bortolas",
+          "code_url": "https://github.com/Bortol15/Catty/blob/CATTY-Documentation-gsoc/LandscapeModeDocumentationGSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6306552446713856/"
+        },
+        {
+          "title": "Embroidery Robot Programming Proposal",
+          "short_description": "The Embroidery Robot Programming project is about developing new embroidery designs and implementing them by using the Pocket Code IDE app. It should...",
+          "student_name": "Stella Lukasser",
+          "code_url": "https://gist.github.com/StellaLukasser/c49489032aee6b4d468880eb19a448ce#google-summer-of-code-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6325914159284224/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5201744182640640/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Pocket Paint for Android: Refactoring and Rewriting Production Code and Tests to Kotlin",
+          "short_description": "This project proposes to refactor and rewrite most of the production code and tests to Kotlin, implementing all the modern features designed...",
+          "student_name": "Saarthak Seth",
+          "code_url": "https://gist.github.com/CodeChamp-SS/d71b71f6343f8a53f027552febda665f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6446141029220352/"
+        },
+        {
+          "title": "Catrobat iOS Team proposal for Ticket: Support for Catrobat Language version 0.994 - 0.99992",
+          "short_description": "Fabio Gandolfi\ngsoc username: zwerg4\nemail: fab.gan@hotmail.de\ngithub: zwerg4\nMy name is Fabio Gandolfi, I am a 24 years old computer science student...",
+          "student_name": "zwerg4",
+          "code_url": "https://github.com/zwerg4/Catty/blob/gsoc-submission/Submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5386499616407552/"
+        },
+        {
+          "title": "Awesome Demo Game Project : King Of Batona",
+          "short_description": "An Awesome Tutorial Game ( playable on both phones as well as on smart TV when cast ) in Catrobat Visual Programming Language. The game is inspired...",
+          "student_name": "Aman Gupta",
+          "code_url": "https://github.com/Aman09072000/AwesomeDemoGameProject-GSoC2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6137964274384896/"
+        },
+        {
+          "title": "Room Database Integration",
+          "short_description": "Since the migration to Android Architecture Components has already started, this project aims to integrate Room instead of SQLiteDatabase as a better...",
+          "student_name": "Nur El-Din El-Rez",
+          "code_url": "https://github.com/ndrnour/Catroid/blob/gsoc_evaluation/gsoc_21_work_product.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5077392665608192/"
+        },
+        {
+          "title": "Advancement through project merge",
+          "short_description": "In my Project, I will implement a process in PocketCode which makes it possible for users to merge already created catrobat-projects. This extension...",
+          "student_name": "Tamara David",
+          "code_url": "https://gist.github.com/Tamdav/5e048bf5d702ae21b289e4622acd87ac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5239196297461760/"
+        },
+        {
+          "title": "Pocket Paint for Android: Additional brush options",
+          "short_description": "Currently Paintroid only has the basic brush and the spray can. The goal is to add additional brush options such as a watercolor brush, rubbing...",
+          "student_name": "FromG",
+          "code_url": "https://github.com/FromG/Paintroid/blob/develop/gsoc-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6231427024158720/"
+        },
+        {
+          "title": "Pocket Paint for Android: Hide the top and bottom bars, and make the drawing surface full screen by default",
+          "short_description": "Currently Menus and Options are shown by default in top and bottom bars, and the default zoom is smaller than the screen's drawing surface, resulting...",
+          "student_name": "geolas",
+          "code_url": "https://github.com/geolas94/Paintroid/blob/PAINTROID-298/docs/index.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6241423023669248/"
+        },
+        {
+          "title": "Application for Embroidery Robot Programming using Pocket Code IDE",
+          "short_description": "Create a solution for the user to stitch letters, independent of hardware.",
+          "student_name": "Ludwig Reinhardt",
+          "code_url": "https://gist.github.com/wizardry8/c875abf78f898d582ce2a6941c7fbd17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6043294336811008/"
+        },
+        {
+          "title": "Search functionality for bricks in Pocket Code",
+          "short_description": "In the current version of Pocket Code, users have to manually click and scroll through all brick categories and bricks to find and add the desired...",
+          "student_name": "Oskar Walcher",
+          "code_url": "https://github.com/Walcho1125/Catroid/blob/gsoc-documentation/gsoc-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5768404987805696/"
+        },
+        {
+          "title": "Support for Particle Physics in Catrobat",
+          "short_description": "The current version of Pocket Code doesn't have support for particle physics. This project proposes to implement and integrate a particle system that...",
+          "student_name": "Dev Sebastian",
+          "code_url": "https://devsebastian.medium.com/google-summer-of-code-2021-work-product-for-catrobat-documentation-f693eeaac96c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5870820932452352/"
+        },
+        {
+          "title": "Awesome Demo Game Project - Sisters of the Faldroid",
+          "short_description": "Sisters of the Faldroid is a 2D platformer game created on the Pocket Code App. In the game, we have two sisters i.e. Diana and Fiora, who are ruling...",
+          "student_name": "Shriyanshu Kukreti",
+          "code_url": "https://github.com/Shriyanshu1/DemoGameProject-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6275187405750272/"
+        },
+        {
+          "title": "Kotlin Refactoring and MVVM Implementation",
+          "short_description": "This project focuses on refactoring code to kotlin and implementation of MVVM (Model-view-viewModel) architecture for some of the UI components of...",
+          "student_name": "Khushal Uttam",
+          "code_url": "https://gist.github.com/khushal1707/45b101c97c6846d105ad52db8d76f6c7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6283646176067584/"
+        },
+        {
+          "title": "Pocket Code for Android: HMS API Machine Learning and AI support",
+          "short_description": "Pocket Code already implements face and text detection, text recognition, speech recognition and speech synthesization, but these features cannot be...",
+          "student_name": "qlin",
+          "code_url": "https://gist.github.com/qlin93/cbb3c68a3b15e31a26cd7e8bc4b9e825",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6307598302707712/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/international-catrobat-association/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Merging Pocket Code Projects",
+          "short_description": "I want to implement a feature for pocket that enables users to merge their existing projects, because it's not possible in the current version....",
+          "student_name": "Maria Seiser",
+          "code_url": "https://gist.github.com/mseiser/727b412f9facefaaa93988145ba3925c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kEksGYy8/"
+        },
+        {
+          "title": "Awesome Demo Game Project (175 hours) - Devoir of Warrior",
+          "short_description": "This project aims to showcase the potential of Pocket Code by creating a good quality dungeon crawler, a puzzle-solving game which will be known as...",
+          "student_name": "Yugal Kishore",
+          "code_url": "https://github.com/yugalkishore59/Devoir_of_warrior",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cU578BOg/"
+        },
+        {
+          "title": "Zoom to draw",
+          "short_description": "This project will include the feature that will a user to see a zoomed in view of the area beneath his finger while drawing in the Pocket Paint app...",
+          "student_name": "Saatwik",
+          "code_url": "https://gist.github.com/saat-sy/bd223f456a3e5e711c72d921b226b664",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bPfSRrfF/"
+        },
+        {
+          "title": "Awesome Demo Game Project : Alex and the Uncharted Expedition",
+          "short_description": "AIM: To develop an awesome tutorial game in Catrobat visual programming language. Playable on smartphones and smart TV via casting. Project showcases...",
+          "student_name": "Aakash Tyagi",
+          "code_url": "https://github.com/aakash232/AwesomeDemoGameProject-GSOC-22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cFiVMFmu/"
+        },
+        {
+          "title": "Pocket Paint: Migration from Android to Flutter",
+          "short_description": "My time with Catrobat this summer will be devoted to migrating the Pocket Paint Android app to Flutter with the latest and best practices followed by...",
+          "student_name": "Ikroop Singh Kalsi",
+          "code_url": "https://gist.github.com/krispykalsi/8453ca566738f1d24044913a54511390",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h4k8RWYu/"
+        },
+        {
+          "title": "REFACTORING & REWRITING PRODUCTION CODE AND TESTS TO KOTLIN FOR POCKET PAINT FOR ANDROID",
+          "short_description": "This project proposes to refactor and rewrite most of the production code and tests of Pocket Paint to Kotlin, implementing all the modern features...",
+          "student_name": "Akebu",
+          "code_url": "https://gist.github.com/akebu6/18b9fa45aba1db01725e83e71491e8b7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XIrc7NJ5/"
+        },
+        {
+          "title": "Pocket Paint for Android: Landing Page",
+          "short_description": "The project proposes to implement the landing/home page for Pocket Paint, which will be a gallery kind of a view in which the user will be able able...",
+          "student_name": "Saarthak Seth",
+          "code_url": "https://gist.github.com/CodeChamp-SS/0c12eb63db4143dba96492d268bb1b42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qSUbPIm2/"
+        },
+        {
+          "title": "Awesome Demo Game Project (350 hour)",
+          "short_description": "Endless Hurdler can be played using just one hand, with swipes and tilts controlling the player. Similar to Temple Run, you need to collect the coins...",
+          "student_name": "Swetha M P",
+          "code_url": "https://share.catrob.at/pocketcode/project/ee9dad94-3b3c-42ba-ab22-911a0d07d60d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Ei7QONKZ/"
+        },
+        {
+          "title": "Awesome Game Demo Project",
+          "short_description": "Indigo Night is planned to be a beautiful Audio Visual journey, focused on storytelling. Based on pixel art, it will contain retro vibes and an old...",
+          "student_name": "Prateek Thakur",
+          "code_url": "https://gist.github.com/PrateekTh/cc590299eab4d269e4112af4cbaeebbc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FO3sMKzv/"
+        },
+        {
+          "title": "Pocket Paint for Android: Erase background tool (make it transparent more easily)",
+          "short_description": "My idea is to implement a clipping tool where the user is able to select an area of the bitmap which the user does not want to get erased and with...",
+          "student_name": "Electronix1337",
+          "code_url": "https://gist.github.com/Electronix1337/7ab2a4fc0294b6524e7a583cf44a8836",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3VOBu668/"
+        },
+        {
+          "title": "Awesome Demo Game Project (175 hours): DEADLAND",
+          "short_description": "My Idea is to design and develop an creative and awesome tutorial game in Catrobat visual programming language using the Luna&Cat IDE app. This game...",
+          "student_name": "samarth sharma",
+          "code_url": "https://github.com/s4marth/Awesome-Demo-Game-GSoC22-Catrobat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wGFqQqR2/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/international-catrobat-association",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Pocket Paint for Android: Implement eraser, line, fill ,spray can, cursor tools in flutter version",
+          "short_description": "My project idea is to extend the Flutter version of Pocket Paint with further functionalities, such as more tools like eraser, line, fill, spray can,...",
+          "student_name": "Baki",
+          "code_url": "https://gist.github.com/bakicelebi/d1882366d4496c2f5bf30f05d32783b0",
+          "proposal_id": "bwhlQdDL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CpRefZvl"
+        },
+        {
+          "title": "Arduino Flavor",
+          "short_description": "In the current version of the Android app Pocket Code, it is only possible to control some basic functions of an Arduino. Therefore, this project...",
+          "student_name": "David Andrawes",
+          "code_url": "https://gist.github.com/dandrawes/03e73204d6280a3e1276e25efdc4c00f",
+          "proposal_id": "rgcR86sy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cilc4yh5"
+        },
+        {
+          "title": "CatAI : LLM-Based AI Programming Support for Catrobat Applications",
+          "short_description": "The aim of this project is to add support for an LLM (large language model) based on tools such as GPT-4 to support AI-based programming support for...",
+          "student_name": "Divyangi Raghav",
+          "code_url": "https://gist.github.com/divz-codess/c19de227749935a7eb50793456b9f04d",
+          "proposal_id": "wuYNCN3h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Z2ZWk7l2"
+        },
+        {
+          "title": "Rework Linetool to Multilinetool with moveable vertices",
+          "short_description": "I want to enable the linetool to act as a multiline tool with vertices that are changeable, deletable, addable, and saveable. This would allow users...",
+          "student_name": "Lenkomotive",
+          "code_url": "https://gist.github.com/Lenkomotive/98473bd260a05e1372a6daf4410645e9",
+          "proposal_id": "fbfSSr2D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/A932RNkG"
+        },
+        {
+          "title": "Pocket Paint for Kotlin Android: Landing Page",
+          "short_description": "The objective of this project is to design and implement a landing page for Pocket Paint on the Android Kotlin platform. The landing page will...",
+          "student_name": "RD Rama Devi",
+          "code_url": "https://gist.github.com/Rd4dev/127b7233c367fecd5228c344e433138c",
+          "proposal_id": "Dr6XPa9T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AVNo1eMy"
+        },
+        {
+          "title": "Interactive Quiz Game for Beginner Coding Education using Luna&Cat IDE",
+          "short_description": "The principal objective of this GSoC project is to conceive and develop an educational game that will serve as an interactive and captivating medium...",
+          "student_name": "Sufeen Shaikh",
+          "code_url": "https://share.catrob.at/pocketcode/project/f2c8723b-b9fa-49aa-89cc-7a5b7ea44663",
+          "proposal_id": "4OKvPLmR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MQ4HCoij"
+        },
+        {
+          "title": "PixelationFilter",
+          "short_description": "The idea of the project is to create a Tool that pixelates the photo/layer. The user would have the possibility to change the number of colors, the...",
+          "student_name": "Tim Celec",
+          "code_url": "https://gist.github.com/exland/40ac1e469f9785c8f69d09a9be733828",
+          "proposal_id": "gxQbihv5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/h9pclpzH"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/international-catrobat-association/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implement undo/redo commandManager for Flutter Paintroid",
+          "short_description": "My project idea is to implement an undo/redo functionality in a Flutter-Paintroid. This feature aims to enhance the user experience by allowing users...",
+          "student_name": "Lenkomotive",
+          "code_url": "https://gist.github.com/Lenkomotive/9814c8490a6ce3f27ee15e0bf7d23709",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ez3neMVA/"
+        },
+        {
+          "title": "RobotCraft",
+          "short_description": "\"RobotCraft\" is an immersive 2D game where players construct and program to build robots that will tackle various tasks. The objective is that the...",
+          "student_name": "Jessica Medina",
+          "code_url": "https://github.com/jessmed749/RobotCraft-GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zhLVdKx5/"
+        },
+        {
+          "title": "Migrating Pocket Paint ShapeTool to Flutter Project",
+          "short_description": "Currently the ShapeTool that is implemented in Native Pocket Paint is missing in the Flutter version of Pocket Paint. My proposal would be to...",
+          "student_name": "Baki",
+          "code_url": "https://gist.github.com/bakicelebi/7d96506b8dfc0a14403148b8cdc7b8e1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VYY7SfN6/"
+        },
+        {
+          "title": "Pocket Paint Flutter - Major Features Implementation and UI Enhancements",
+          "short_description": "For my GSoC proposal, I aim to elevate the Pocket Paint Flutter repository within Catrobat. The plan includes implementing a comprehensive color...",
+          "student_name": "Bhav_Khurana",
+          "code_url": "https://github.com/bhav-khurana/Paintroid-Flutter/blob/gsoc-documentation/gsoc-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1L0MW4VL/"
+        },
+        {
+          "title": "SUPER MARIO BROS DEMO GAME PROJECT",
+          "short_description": "When I was little, one of my favorite 2D games was Super Mario Bros. I want to share this game with many people, but not only play, I also want them...",
+          "student_name": "Sabit Huraira",
+          "code_url": "https://github.com/sabithuraira/marioGameCatrobat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/stGRYSyd/"
+        },
+        {
+          "title": "Awesome Game Demo project(350 hours)",
+          "short_description": "ReZero is a rogue-lite, Dead Cells-inspired action-platformer, allowing you to explore a sprawling, ever-changing castle\u2026 assuming you\u2019re able to...",
+          "student_name": "Tushar Banik",
+          "code_url": "https://github.com/Tushar98644/AwesomeDemoGameProject-GSOC-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fEq0N7WA/"
+        },
+        {
+          "title": "Backwards compatibility of custom files",
+          "short_description": "Translate and enable backwards compatibility with current custom files that are compatible with the new project and optimize the storing and loading...",
+          "student_name": "Tim Celec",
+          "code_url": "https://gist.github.com/exland/de1403025ddbc8d4b4aa262bd973a571",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QqVYnAVb/"
+        },
+        {
+          "title": "Transitioning Catroid from Jenkins to GitHub Actions",
+          "short_description": "Catroid currently relies on a self-hosted Jenkins server for its continuous integration (CI) pipeline, which demands considerable maintenance and...",
+          "student_name": "mSebastian",
+          "code_url": "https://github.com/sebastiangollob/gsoc-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/viIhgyVz/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/international-catrobat-association",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Paintroid Flutter \u2013 A Cross-Platform Revival of the Paintroid Experience",
+          "short_description": "This project aims to convert the Paintroid Kotlin app into a Flutter app, keeping all its features while improving performance and usability. The...",
+          "student_name": "Amit Matth",
+          "code_url": null,
+          "proposal_id": "zhpOn4rI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/flohd9V3"
+        },
+        {
+          "title": "Mobile Application for Marine Biology AR Learning",
+          "short_description": "Proposing an immersive augmented reality application that transforms marine biology education through interactive experiences where users can embody...",
+          "student_name": "Ashwani Kumar Moudgil",
+          "code_url": null,
+          "proposal_id": "xcSM451z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Kf371Wd9"
+        },
+        {
+          "title": "Awesome Demo Game Project on Marine Biology",
+          "short_description": "The marine environment is in demand of marine protection, especially in the era of climate change. This protection can only occur when people are...",
+          "student_name": "Daniel Kalysch",
+          "code_url": null,
+          "proposal_id": "8ZqE1z5t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5UarXrUv"
+        },
+        {
+          "title": "AI-Generated 3D Models from Marine Animals",
+          "short_description": "This project aims to create AI-powered 3D models of marine species for educational use. By converting text descriptions into 2D images and then...",
+          "student_name": "Dhruvanshu Joshi",
+          "code_url": null,
+          "proposal_id": "Zr5MMHXI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MjwY5Zhj"
+        },
+        {
+          "title": "Implementing cursor, pipette & fill-tool",
+          "short_description": "My idea is as following: - Getting to know the project and the architecture - Start with cursor tool, as this one is the simplest (TDD) - Next I...",
+          "student_name": "haske",
+          "code_url": null,
+          "proposal_id": "bpLREb7k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zcnr4Cov"
+        },
+        {
+          "title": "AI Mentor for PocketCode Students",
+          "short_description": "This project aims to develop an AI Mentor feature for Pocket Code to assist beginner users by providing real-time, context-aware support while...",
+          "student_name": "Muhammad Haris Sabil Al Karim",
+          "code_url": null,
+          "proposal_id": "rJ4oUM35",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qgCaS94l"
+        },
+        {
+          "title": "AR-Based Interactive Marine Ecosystem Simulation",
+          "short_description": "My project aims to develop an immersive Augmented Reality (AR) Marine Ecosystem Simulation that will serve as an interactive educational tool within...",
+          "student_name": "Prabhakar Joshi",
+          "code_url": null,
+          "proposal_id": "Q3q33pH4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/U2zuXGHZ"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/Catrobat/Catroid#contributing",
+  "contact_email": "mailto:contact@catrobat.org",
+  "mailing_list": "https://catrob.at/mailinglist",
+  "ideas_url": "https://developer.catrobat.org/pages/development/google-summer-of-code/2025/",
+  "guide_url": "https://docs.google.com/document/d/1vOGY2C80raXLV6RVRHXoqiAhcnBJFeZdU8wqMm-Rgo0/edit?usp=sharing",
+  "twitter_url": "https://x.com/Pocket_Code"
+}

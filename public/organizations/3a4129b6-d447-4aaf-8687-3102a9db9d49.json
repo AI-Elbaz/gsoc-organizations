@@ -1,0 +1,83 @@
+{
+  "name": "Open Data Kit",
+  "url": "https://opendatakit.org",
+  "image_url": "https://lh3.googleusercontent.com/7h3l-fCdh1-5UYr-X5JyVB2kbH--nb3MA5HrkO9TLzW2gW4lG9vZoT3x4PdEIRzvY8KJnsgDRAQQj6tIcBjSqqMiAKVwLE8",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "global health",
+    "cloud",
+    "mobile",
+    "global development",
+    "social good"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "java",
+    "ruby"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4593100034932736/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Collect - Improved user experience",
+          "short_description": "User Interface is considered as the most crucial success factor for any software. As we already know, the user interface of the current app is...",
+          "student_name": "Shobhit Agarwal",
+          "code_url": "https://medium.com/@shobhitagarwal1612/gsoc-2017-with-opendatakit-5448f927409",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6496885627944960/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6544367028273152/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Supervisor app - Device to Device Transfer Android Application",
+          "short_description": "The common requirement of Collect users is to share forms between devices. This is important for forms that need to be filled out in multiple steps...",
+          "student_name": "Lakshya Gupta",
+          "code_url": "https://forum.opendatakit.org/t/gsoc-2018-share-a-device-to-device-form-transfer-app/14559",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6451359847022592/"
+        },
+        {
+          "title": "ODK 2 Services - Push Notifications",
+          "short_description": "The primary aim of the project is to create an android application for field workers that would receive push notifications sent by their supervisors....",
+          "student_name": "Aditya Laddha",
+          "code_url": "https://medium.com/@laddha.adi/gsoc-2018-with-open-data-kit-d2379fb3050c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4826369305346048/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5559834475233280/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Stabilize and release ODK 2 Push Notifications",
+          "short_description": "ODK 2 Push Notification enables supervisors to send notification to field workers with the help of skunkworks-parrot (Desktop Application) and...",
+          "student_name": "Harsh Gupta",
+          "code_url": "https://medium.com/@guptaharsh615/gsoc19-with-open-data-kit-fce5532c474e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5091786437951488/"
+        },
+        {
+          "title": "Strategy to Increase Devices Supported and Validate Application Behavior",
+          "short_description": "Now, we have skunkworks-crow, which is the GSoC 2018 project. In this year, we need to improve the project and develop a new strategy to address the...",
+          "student_name": "Yizheng Huang",
+          "code_url": "https://forum.opendatakit.org/t/gsoc-2019-strategy-to-increase-devices-supported-and-validate-application-behavior/21657",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4696810055008256/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://slack.opendatakit.org",
+  "contact_email": "mailto:opendatakit.org@gmail.com",
+  "mailing_list": "https://forum.opendatakit.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/opendatakit",
+  "blog_url": "https://opendatakit.org/blog"
+}

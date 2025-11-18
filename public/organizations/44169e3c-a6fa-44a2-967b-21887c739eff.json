@@ -1,0 +1,62 @@
+{
+  "name": "MZmine",
+  "url": "https://www.mzmine.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mzmine/jssbvby4wpz38go8-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "data processing",
+    "mass spectrometry",
+    "molecular analysis",
+    "molecular networking",
+    "biochemistry",
+    "feature detection",
+    "ion mobility"
+  ],
+  "technologies": [
+    "java",
+    "javafx"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6328123651522560/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Support for the mzTab-M format and cliqueMS algorithm in MZmine",
+          "short_description": "MZmine is an open-source computer application written primarily in Java, used for data processing of mass-spectrometry data. The application supports...",
+          "student_name": "Suraj Verma",
+          "code_url": "https://medium.com/@surajviitk/gsoc-2020-mztab-m-format-support-and-cliquems-algorithm-implementation-for-mzmine-e251ededbf22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5003599895068672/"
+        },
+        {
+          "title": "Automatic mass calibration support and High-resolution deisotoping",
+          "short_description": "Mass spectrometry is an important analytical technique that allows to determine molecular composition of samples by obtaining mass spectra of ionized...",
+          "student_name": "\u0141ukasz Fiszer",
+          "code_url": "https://github.com/lukasz-fiszer/mzmine3/tree/gsoc2020-review",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5958414645067776/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mzmine/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Ion mobility data format support",
+          "short_description": "This project aims add support for new data formats of ion mobility-mass spectrometry data. Data from additional formats shall be read into the MZmine...",
+          "student_name": "Tarush Singh",
+          "code_url": "https://github.com/mzmine/mzmine3/pull/763",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GDw7Ye9P/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://mzmine.slack.com",
+  "contact_email": "mzmine-devel@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/mzmine-devel",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/mzmine_project"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "The Monarch Initiative",
+  "url": "http://www.monarchinitiative.org",
+  "image_url": "https://lh3.googleusercontent.com/KXWjAAyvRstHYIYcVJmU2Ogrvo2mYiSBieLdjjtOYi5jhMqninkA9k_MPvl8rMg-8U0XIW4KKx46fSDGxi3gnfXokQnBPu_D",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "embeddable widget",
+    "rare disease",
+    "data refinement"
+  ],
+  "technologies": [
+    "javascript",
+    "semantic web",
+    "text mining",
+    "named entity recognition",
+    "ontologies"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5269666368847872/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "PhenoPacket Scraper",
+          "short_description": "In essence, the project aims at building a generic phenopacket scraping tool, providing a command line interface and a rest api. The project can be...",
+          "student_name": "satwik77",
+          "code_url": "https://gist.github.com/satwik77/1b9e1727c21b3f4642c55206c9e2b54c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6025229230931968/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@monarchinitiative.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/monarchinit"
+}

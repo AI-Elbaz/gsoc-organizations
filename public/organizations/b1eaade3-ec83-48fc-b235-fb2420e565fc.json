@@ -1,0 +1,47 @@
+{
+  "name": "St. Jude Children's Research Hospital",
+  "url": "https://stjude.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/st-jude-childrens-research-hospital-ai/qnfe4pckkvrq5tfw-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming languages",
+    "genomics",
+    "developer tools",
+    "cloud"
+  ],
+  "technologies": [
+    "rust",
+    "WDL"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/st-jude-childrens-research-hospital-ai",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Extending Sprocket's Language Server Protocol for Enhanced WDL Support",
+          "short_description": "I aim to enhance the Sprocket VSCode extension by integrating advanced language features for the Workflow Description Language (WDL) through the...",
+          "student_name": "dead8309",
+          "code_url": null,
+          "proposal_id": "oNDzSYwc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uAgKM6HN"
+        },
+        {
+          "title": "Real-time monitoring dashboard and terminal user interface (TUI) for Crankshaft",
+          "short_description": "The project aims to build a real-time monitoring dashboard and terminal UI (TUI) for Crankshaft, a genomics workflow engine. Using gRPC for streaming...",
+          "student_name": "Rajesh Kumar Jha",
+          "code_url": null,
+          "proposal_id": "wmoIcIeo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KhJBIIIf"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/rust-omics/shared_invite/zt-30ntw2bpi-2hollhtHX6Zt8UvYeP_KcQ",
+  "contact_email": "mailto:clay.mcleod@stjude.org",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/1ze8OpsltCbAkksjmhd3hCeS6VDqAaolAhWAQQRJZBpc/edit?tab=t.0",
+  "guide_url": "https://docs.google.com/document/d/1ze8OpsltCbAkksjmhd3hCeS6VDqAaolAhWAQQRJZBpc/edit?usp=sharing",
+  "twitter_url": "https://x.com/claylmcleod"
+}

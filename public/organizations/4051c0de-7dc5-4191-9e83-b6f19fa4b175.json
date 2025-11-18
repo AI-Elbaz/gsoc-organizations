@@ -1,0 +1,214 @@
+{
+  "name": "CRIU",
+  "url": "https://criu.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/criu/ypjxpancpwtdf698-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "cloud",
+    "save/restore",
+    "load-balancing",
+    "zero-downtime",
+    "migration",
+    "live migration",
+    "snapshots",
+    "operating systems",
+    "containers",
+    "checkpoint-restore",
+    "Checkpoint/Restore"
+  ],
+  "technologies": [
+    "linux",
+    "docker",
+    "containers",
+    "kernel",
+    "c",
+    "assembly",
+    "python",
+    "linux kernel",
+    "go"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6267159469096960/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Optimizing the pre-dump algorithm",
+          "short_description": "During pre-dump in CRIU, the memory pages of target process are stored in pipe-pages, until the content is not flushed to disk image or page-server....",
+          "student_name": "Dubey Abhishek",
+          "code_url": "https://dubeyabhishek.github.io/GSoC19CRIU/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5568047308341248/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5765173698101248/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Port Crit To Go",
+          "short_description": "Crit Encodes/Decodes and exports/displays CRIU's custom images to/from json/binary to json/binary. Porting Crit to Go so that projects using go...",
+          "student_name": "pac23",
+          "code_url": "https://github.com/checkpoint-restore/go-criu/pull/28",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5330794832199680/"
+        },
+        {
+          "title": "Restrict Checks for Open/Mapped Files",
+          "short_description": "While checkpointing (Dumping), CRIU stores some meta-information about the open/mmaped file and this is validated while restoring to make sure that...",
+          "student_name": "Ajay Bharadwaj",
+          "code_url": "https://anorexicatticusfinch.github.io/GSoC20CRIU/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4858949725061120/"
+        },
+        {
+          "title": "Optimize logging engine",
+          "short_description": "During the execution, CRIU writes many logs. Most of these logs are not used, but they are the only way to figure out the reason for failure if some...",
+          "student_name": "Prakriti Goyal",
+          "code_url": "https://prakritigoyal19.github.io/gsoc2020-criu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5916528345612288/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5396163661922304/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Add support for checkpoint/restore read and write queue of UDP socket",
+          "short_description": "In this project, I will implement a new Linux kernel API to help dumping/writing back the read and write queue of UDP socket. Then I will use that...",
+          "student_name": "Bui Quang Minh",
+          "code_url": "https://gist.github.com/minhbq-99/14abd787a4b728b0605c79fac275ad70",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6634758812991488/"
+        },
+        {
+          "title": "Add io_uring support",
+          "short_description": "This project adds support for dump and restore of io_uring instances. The three main goals of this project is to handle dump/restore of empty...",
+          "student_name": "Kumar Kartikeya Dwivedi",
+          "code_url": "https://kkdwivedi.in/log/GSoC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5108986445037568/"
+        },
+        {
+          "title": "Use eBPF to lock/unlock the network",
+          "short_description": "During checkpointing and restoring, CRIU locks the network to make sure no TCP packets are accepted by the network stack during the time the process...",
+          "student_name": "Zeyad Gouda",
+          "code_url": "https://blog.zeyady.com/2021-08-16/gsoc-criu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5994481496621056/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/criu/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Porting CRIU Image Tool (CRIT) to Go",
+          "short_description": "CRIU provides a Python-based tool called CRIT in order to explore and manipulate checkpoint images. To enable hassle-free integration with Go...",
+          "student_name": "Prajwal S N",
+          "code_url": "https://github.com/snprajwal/gsoc-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YberDUGn/"
+        },
+        {
+          "title": "CRIU: Support sparse ghosts",
+          "short_description": "Nowadays, CRIU will save the ghost file by using a lot of system calls to determine where the chunks are, which is very expensive, especially for...",
+          "student_name": "Liang Chun",
+          "code_url": "https://gist.github.com/featherchen/cef5b3d7b1ea09c2497a43332ee0e946",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cZz0y38t/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/criu",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Forensic analysis of container checkpoints",
+          "short_description": "The goal of this proposal is to address the challenge of investigating the contents of containerized applications, which run in isolation from the...",
+          "student_name": "Behouba Manass\u00e9",
+          "code_url": "https://github.com/behouba/gsoc-2023",
+          "proposal_id": "ArgqyDpX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CdBgTw7S"
+        },
+        {
+          "title": "CRIU: Add support for memfd_secret file descriptors",
+          "short_description": "CRIU can checkpoint/restore a trivial hello_word process to running Linux containers. However, with the current implementation of CRIU, it can't...",
+          "student_name": "Dhanuka Warusadura",
+          "code_url": "https://warusadura.github.io/gsoc23-final-report.html",
+          "proposal_id": "c9H3a0pp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uEaniQVU"
+        },
+        {
+          "title": "Forensic analysis of container checkpoints",
+          "short_description": "The crit library in go-criu was created during GSoC 2022 to enable analysis of CRIU images with tools written in Go. It allows container management...",
+          "student_name": "Prajwal S N",
+          "code_url": "https://github.com/snprajwal/gsoc-2023",
+          "proposal_id": "VpzHAULO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9Qr4FVa7"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/criu/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support C/R of pidfd descriptors",
+          "short_description": "pidfds are a feature of the Linux kernel that provide a process with a stable handle on another process. They were introduced to solve the problem of...",
+          "student_name": "Bhavik Sachdev",
+          "code_url": "https://bsach64.github.io/gsoc24.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vgpqxIxx/"
+        },
+        {
+          "title": "CRIU: Add support for checkpoint/restore of CORK-ed UDP socket",
+          "short_description": "CRIU currently does not support checkpoint/restore for UDP sockets with the UDP_CORK socket option. In order for CRIU to support the UDP_CORK socket...",
+          "student_name": "Juntong Deng",
+          "code_url": "https://github.com/juntongdeng/gsoc2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QcqJ2yWK/"
+        },
+        {
+          "title": "Kubernetes operator for managing container checkpoints",
+          "short_description": "Project Summary: The project aims to enhance Kubernetes container checkpoint management through advanced garbage collection policies. These policies...",
+          "student_name": "Parthiba",
+          "code_url": "https://github.com/Parthiba-Hazra/gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IqOsdIBz/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/criu",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Coordinated checkpointing of distributed applications",
+          "short_description": "The goal of this project is to address the challenge of checkpointing distributed applications, which generally run across multiple nodes with active...",
+          "student_name": "Behouba Manass\u00e9",
+          "code_url": null,
+          "proposal_id": "wLDfSYW8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0zNfEhdN"
+        },
+        {
+          "title": "Files on Detached Mounts",
+          "short_description": "If a mount is unmounted using the MNT_DETACH flag, its information disappears from /proc/$pid/mntinfo. If CRIU tries to C/R an fd on such a mount...",
+          "student_name": "Bhavik Sachdev",
+          "code_url": null,
+          "proposal_id": "363FKgYG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iQR71FTV"
+        },
+        {
+          "title": "Support arm64 Guarded Control Stack (GCS)",
+          "short_description": "This project aims to enable testing of Guarded Control Stack (GCS) functionality within CRIU (Checkpoint/Restore In Userspace) on AArch64 by...",
+          "student_name": "Igor Svilenkov Bozic",
+          "code_url": null,
+          "proposal_id": "wm53Bsjd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/thwk5B7s"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/save-restore/CRIU",
+  "contact_email": "mailto:criu@openvz.org",
+  "mailing_list": "criu@lists.linux.dev",
+  "ideas_url": "https://criu.org/Google_Summer_of_Code_Ideas",
+  "guide_url": "https://github.com/checkpoint-restore/criu/blob/criu-dev/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/__criu__",
+  "blog_url": "https://criu.org"
+}

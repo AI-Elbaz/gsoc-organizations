@@ -1,0 +1,47 @@
+{
+  "name": "Arduino",
+  "url": "https://arduino.cc",
+  "image_url": "https://lh3.googleusercontent.com/2Xt9LJ2SMdLr1UqznmcpMfH_7u5F14XBU02NOdNKe0HyxUmQquo3WYBHW6UQoYCxBIaxTYc3v7_4nlL4QMrvxVKRFyJEUg",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "robotics",
+    "interactivity",
+    "electronics"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "golang",
+    "arduino"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6264664972853248/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Arduino to MicroPython Transcompiler",
+          "short_description": "The Arduino ecosystem has 2700+ libraries written in the \u2018Arduino dialect\u2019 of C++. For Micropython to become popular on Arduino it is required that:\n...",
+          "student_name": "Ashutosh Pandey",
+          "code_url": "https://github.com/AshutoshPandey123456/micropy-convert",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6579687536459776/"
+        },
+        {
+          "title": "Port FreeRTOS to Portenta",
+          "short_description": "Portenta H7 is a high performance development board that will be shipped at the end of May 2020.\nThis is the first foray that Arduino tries into...",
+          "student_name": "Zhihong Niu",
+          "code_url": "https://github.com/MRNIU/ArduinoCore-freertos",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4938999963058176/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:summer-of-code@arduino.cc",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/arduino",
+  "blog_url": "https://blog.arduino.cc"
+}

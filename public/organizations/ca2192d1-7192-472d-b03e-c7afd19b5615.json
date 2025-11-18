@@ -1,0 +1,84 @@
+{
+  "name": "jQuery Foundation",
+  "url": "https://jquery.org/",
+  "image_url": "https://lh3.googleusercontent.com/3y_twCisHNday397Rh2bgpt0BMwEATMtgr6MxmhH_mT_HT_mqCKRULvmYK7FJLar9czJhWnh_LRCk3_vguTf9LkXMDUcsEQ",
+  "image_background_color": "#fff",
+  "category": "Web",
+  "topics": [
+    "unit testing",
+    "software testing",
+    "framework development",
+    "user interface components",
+    "event handling"
+  ],
+  "technologies": [
+    "javascript",
+    "html5",
+    "css",
+    "jquery"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5754903989321728/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "jQuery Learning Center",
+          "short_description": "The goal of this project is to develop a framework for the development and presentation of interactive tutorials in order to provide a full learning...",
+          "student_name": "connor",
+          "code_url": "https://gist.github.com/ConnorCartwright/8fb408fbe4d18ac76530c207e5ebf191",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6439426750152704/"
+        },
+        {
+          "title": "Create a sandbox interface for tests",
+          "short_description": "Testings of JavaScript application sometimes include modification of their own environment, such as global/native objects extensions and DOM...",
+          "student_name": "hakatashi",
+          "code_url": "https://gist.github.com/hakatashi/fef709268d09fd844e4d13c57a461ea1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5321045854650368/"
+        },
+        {
+          "title": "Adding UI components to Chassis framework",
+          "short_description": "Chassis aims at defining open standards for various CSS/JS libraries and the web in general. \nThe project aims to complete and deliver base styles...",
+          "student_name": "Nash Vail",
+          "code_url": "https://gist.github.com/nashvail/46949066c64578246f79c6b8356427ae",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6032159965970432/"
+        },
+        {
+          "title": "Bug Hunt",
+          "short_description": "jQuery Mobile currently has a large number of open issues (~300). To maintain JQM\u2019s vitality, this backlog should be necessarily cleared. This summer...",
+          "student_name": "apsdehal",
+          "code_url": "https://apsdehal.in/blog/gsoc-16-highlights",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4870252932366336/"
+        },
+        {
+          "title": "Proposal for commitplease project in jQuery",
+          "short_description": "Projects like jQuery and Angular JS are written primarily with javascript and make extensive use of git as their version control system. Using git...",
+          "student_name": "all3fox",
+          "code_url": "https://all3fox.github.io/2016/08/16/gsoc16-at-commitplease.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5841216725843968/"
+        },
+        {
+          "title": "Qunit - Standard reporter interface",
+          "short_description": "My project aims to improve the development of testing tools through a common interface for reporters. It is hard because there are already so many...",
+          "student_name": "flore77",
+          "code_url": "https://flore7seven.wordpress.com/2016/07/16/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5136916982792192/"
+        },
+        {
+          "title": "A module system for Hammer.js",
+          "short_description": "The advantages of organizing a program into several files or modules are similar to authors organizing a book into several chapters and sections. The...",
+          "student_name": "shad0w_",
+          "code_url": "https://gist.github.com/arjunkathuria/6b92f8ac5f34a10e001ab30defe05e68",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5160583594770432/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://irc.jquery.org/",
+  "contact_email": "mailto:info@jquery.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/jquery",
+  "blog_url": "http://blog.jquery.com/"
+}

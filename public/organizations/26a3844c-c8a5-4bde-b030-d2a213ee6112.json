@@ -1,0 +1,62 @@
+{
+  "name": "Moira",
+  "url": "https://moira.readthedocs.io/",
+  "image_url": "https://lh3.googleusercontent.com/St549uV6D0eslwOwI2SyLFzn7fMDknX0P5p8EBkxVXwsKe_mDDLaWr7BYvo731-Zb6LrCDwPblOxbEKBpm8VxUAVyFRQN6t-",
+  "image_background_color": "#00bfa5",
+  "category": "Programming languages",
+  "topics": [
+    "monitoring",
+    "devops",
+    "devtools",
+    "alerting",
+    "sre"
+  ],
+  "technologies": [
+    "javascript",
+    "golang",
+    "grafana",
+    "typescript",
+    "graphite",
+    "react"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6751954187845632/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Add support for additional delivery channels to Moira",
+          "short_description": "The aim of this project is to add support for additional delivery channels to Moira. A delivery channel is used to alert the user based on Graphite...",
+          "student_name": "Aswin M Prabhu",
+          "code_url": "https://gist.github.com/aswinmprabhu/ee61a3c103422336a27cafaa99479865",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6187065727778816/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5420871000260608/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "OpenAPI Description, Contract Tests and Client Libraries for the Moira API",
+          "short_description": "The Moira API microservice serves as the backend for the web UI and it would be nice if the engineers who use Moira are able able to automate routine...",
+          "student_name": "Michael Okoko",
+          "code_url": "https://gist.github.com/idoqo/ee3da5de75cae761b72e940f63f336db",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5949171137249280/"
+        },
+        {
+          "title": "Proposal for \"Flow to TypeScript migration\"",
+          "short_description": "I have good experience with TypeScript development, look inside to check it. It`s reason why preferenced project for me is \u201cFlow to TypeScript...",
+          "student_name": "Petr Gilevich",
+          "code_url": "https://docs.google.com/spreadsheets/d/1vNYizYVfR6RJA3ujkaINdRp48w5sN_n6qbGmJTZ3d4E/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6309863329628160/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://moira.readthedocs.io/en/latest/contacts.html",
+  "contact_email": "mailto:opensource@kontur.ru",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

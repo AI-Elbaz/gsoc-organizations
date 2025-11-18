@@ -1,0 +1,33 @@
+{
+  "name": "illumos.org",
+  "url": "http://illumos.org",
+  "image_url": "https://lh3.googleusercontent.com/2LrctGY6XCtdGS2LOqG1NiguqpMf52KyJWQHkEIBc1we3NM2GYoQUyEZZDFKH-6iN5bX0zBlVOb9WPTHm-OYE7VsilFdlQ",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "virtualization",
+    "networking",
+    "kernel",
+    "drivers",
+    "storage"
+  ],
+  "technologies": [
+    "unix",
+    "dtrace",
+    "illumos",
+    "openzfs",
+    "zfs"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6221940343701504/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://wiki.illumos.org/display/illumos/Google+Summer+of+Code",
+  "contact_email": "mailto:discuss@lists.illumos.org",
+  "mailing_list": "https://wiki.illumos.org/display/illumos/illumos+Mailing+Lists",
+  "ideas_url": "",
+  "guide_url": ""
+}

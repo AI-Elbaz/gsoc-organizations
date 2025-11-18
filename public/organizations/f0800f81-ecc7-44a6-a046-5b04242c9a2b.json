@@ -1,0 +1,51 @@
+{
+  "name": "Kornia",
+  "url": "https://docs.rs/kornia",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kornia/p4e366l478clqvvg-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "machine learning",
+    "artificial intelligence",
+    "robotics",
+    "computer vision",
+    "3D Geometry"
+  ],
+  "technologies": [
+    "cuda",
+    "rust",
+    "deep learning",
+    "data science",
+    "Spatial AI"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kornia",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Efficient SmolVLM",
+          "short_description": "The aim of this project is to bring State of the Art methods for lightweight Visual Language models into Kornia in Rust. Recently, Hugging Face...",
+          "student_name": "andrew-shc",
+          "code_url": null,
+          "proposal_id": "SQWhzHTe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pXPaNRob"
+        },
+        {
+          "title": "April Tag and Calibration Detectors",
+          "short_description": "April Tags are widely used in robotics for precise localization, camera calibration, and augmented reality applications. Their ability to provide...",
+          "student_name": "AS1100K",
+          "code_url": null,
+          "proposal_id": "L5U7kcEK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GZcYwnPE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/HfnywwpBnD",
+  "contact_email": "mailto:hello@kornia.org",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/kornia/kornia-rs/wiki/Google-Summer-of-Code-Ideas-2025",
+  "guide_url": "https://github.com/kornia/kornia-rs/wiki/Google-Sumer-of-Code-Application",
+  "twitter_url": "https://twitter.com/kornia_foss"
+}

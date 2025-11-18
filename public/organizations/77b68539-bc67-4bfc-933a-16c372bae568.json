@@ -1,0 +1,85 @@
+{
+  "name": "LuaRocks",
+  "url": "https://luarocks.org",
+  "image_url": "https://lh3.googleusercontent.com/ypThkrucQO6m-pLzB3Xz-D_fmqtnswRC6jmVEHIl8n-1fbWZQtfdvDOUltTNd-Sd3fQiV6uoPLa310yo4gu5hKZn4G1xxD8",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming language",
+    "programming tools",
+    "package management",
+    "package manager",
+    "programming languages",
+    "games",
+    "package managers"
+  ],
+  "technologies": [
+    "lua",
+    "luarocks",
+    "c",
+    "linux",
+    "windows",
+    "unix"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5624527572697088/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Social Enhancements for LuaRocks",
+          "short_description": "LuaRocks is a package manager for Lua modules, it's the home of hundreds of modules and a place where developers find and host them.\nCurrently,...",
+          "student_name": "Jeferson Lesb\u00e3o Siqueira",
+          "code_url": "https://randstructure.wordpress.com/2017/08/23/gsoc-17-the-last-week/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4764164690018304/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4765853685907456/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "LuaRocks-GUI",
+          "short_description": "LuaRocks is a package manager for Lua. This project will provide a web based GUI front-end for LuaRocks that would allow users to search for rocks,...",
+          "student_name": "jiteshpabla",
+          "code_url": "https://bystanderguy.wordpress.com/2018/08/10/gsoc18-with-luarocks-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6618388709244928/"
+        },
+        {
+          "title": "Unit Tests for LuaRocks",
+          "short_description": "The goal of this project is to produce a unit test suite for LuaRocks in order to improve the code coverage and to increase the maintainability of...",
+          "student_name": "George Roman",
+          "code_url": "https://gist.github.com/georgeroman/46a1c29be36d3f1d4e543e0a6d2f051c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5388394699948032/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5012931375267840/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Lua graphing library",
+          "short_description": "To create a graphical library possibly using IUP extensible by Lua to allow easy creation of software like a schematic editor/flowchart creator/mind...",
+          "student_name": "Deepak Singh Rathore",
+          "code_url": "https://github.com/Deepak123bharat/lua-gl/wiki/GSoC-2019-work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4613493980921856/"
+        },
+        {
+          "title": "New command line argument handling and auto-completion for LuaRocks",
+          "short_description": "This project will bring tab completion support to LuaRocks and any Lua project using the argparse command line parser. Support for generating...",
+          "student_name": "Paul Ouellette",
+          "code_url": "https://gist.github.com/pauloue/f403e542338f96ae4ac2aa47c266cb5d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4659615638224896/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/luarocks/luarocks",
+  "contact_email": "",
+  "mailing_list": "https://sourceforge.net/p/luarocks/mailman/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/luarocksorg"
+}

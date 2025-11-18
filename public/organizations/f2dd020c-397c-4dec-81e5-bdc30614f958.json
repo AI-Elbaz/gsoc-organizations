@@ -1,0 +1,38 @@
+{
+  "name": "Ganeti",
+  "url": "http://www.ganeti.org",
+  "image_url": "https://lh3.googleusercontent.com/XlNb_Sabp2jyqUFTPwsSRUKRCErZZs__auwuotRQc8FLDQ0z6nWvTsYt5G9FB2h1G1e71PC0Tnb_-pE15uoGQPaKPyjh6VgG",
+  "image_background_color": "#FFFFFF",
+  "category": "Other",
+  "topics": [
+    "virtualization",
+    "automation"
+  ],
+  "technologies": [
+    "python",
+    "xen",
+    "haskell",
+    "kvm",
+    "virtualization"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5865050841546752/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Optimize balancing speed by accounting for migration speed",
+          "short_description": "I wish to solve the task of optimize balancing speed and providing balancing user options for HTools.\nThe main idea is to get make process of...",
+          "student_name": "Daniil Leshchev",
+          "code_url": "https://github.com/leshchevds/ganeti/commits/all_patches?author=leshchevds",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4647525055201280/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://code.google.com/p/ganeti/#Contact_Information",
+  "contact_email": "mailto:ganeti@googlegroups.com",
+  "mailing_list": "https://code.google.com/p/ganeti/#Contact_Information",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,1112 @@
+{
+  "name": "The Julia Language",
+  "url": "https://julialang.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-julia-language/49fck3n7j5aqnpwu-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "data science",
+    "statistics",
+    "linear algebra",
+    "numerical computation",
+    "integrated development environments",
+    "graphics",
+    "numerical computing",
+    "high performance computing",
+    "plotting",
+    "machine learning",
+    "scientific computing",
+    "technical computing",
+    "math",
+    "science",
+    "graphs",
+    "artificial intelligence"
+  ],
+  "technologies": [
+    "c",
+    "javascript",
+    "c++",
+    "julia",
+    "atom",
+    "llvm",
+    "gpu",
+    "julialang",
+    "machine learning",
+    "data science",
+    "gui",
+    "models",
+    "compilers",
+    "garbage-collection"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5096506709245952/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Design of an API and set up of a regression tracker for iterative methods in Julia",
+          "short_description": "This proposal consists of the design of an API for Iterative methods in Julia and the set up of benchmarks and a regression tracker.",
+          "student_name": "lopezm",
+          "code_url": "https://gist.github.com/lopezm94/49ce2428c5e22321307977f670823cdb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6437038479900672/"
+        },
+        {
+          "title": "Enabling Polyhedral Optimizations in Julia",
+          "short_description": "Julia is a dynamic programming language that, over the past few years, gained interest in the open-source community, especially in the field of...",
+          "student_name": "Matthias Reisinger",
+          "code_url": "http://www.mreisinger.com/?p=179",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6197080536121344/"
+        },
+        {
+          "title": "Random Number Generators for Julia language",
+          "short_description": "The random number generator(RNG) of Julia needs updating to a more reliable one. I'm going to implement a package (may be named RNG.jl) providing...",
+          "student_name": "sunoru",
+          "code_url": "https://github.com/sunoru/RNG.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4506787566845952/"
+        },
+        {
+          "title": "Image Features and Exposure Correction using Images.jl",
+          "short_description": "My Proposal is to develop a feature detection and extraction package for Julia, ImageFeatures.jl. Alongwith feature detection and extraction, I will...",
+          "student_name": "mronian",
+          "code_url": "https://mronian.github.io/gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6538571506778112/"
+        },
+        {
+          "title": "Documentation tools for Julia",
+          "short_description": "A big part of Julia is its package ecosystem and their documentation should be as thorough as possible\nand documenting packages should be made as...",
+          "student_name": "mortenpi",
+          "code_url": "http://mortenpi.eu/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6024733296427008/"
+        },
+        {
+          "title": "Native Julia solvers for ordinary differential equations and  improvements to IVP testing suite",
+          "short_description": "ODE.jl is an ever increasing store house of numerical solvers of ordinary differential equations. While many solvers are currently found in ODE.jl,...",
+          "student_name": "obiajulu",
+          "code_url": "https://obiajulu.github.io/journal/entry/2016/08/16/GSOC-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6041935311536128/"
+        },
+        {
+          "title": "ParallelGraphs: A General Purpose Graph  Processing Library.",
+          "short_description": "I hope to develop a package, ParallelGraphs, that enables the analysis and manipulation of massive graphs in a distributed environment. The package...",
+          "student_name": "pranavtbhat",
+          "code_url": "https://github.com/pranavtbhat/Gsoc2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4951609947717632/"
+        },
+        {
+          "title": "Support for Optimization with Complex Variable in Convex.jl",
+          "short_description": "Many problems in applied sciences are posed as convex optimization problems over the complex field such as MaxCut, Phase retrieval from sparse...",
+          "student_name": "KrishnaKanhaiya",
+          "code_url": "https://ayush-iitkgp.github.io/posts/is-it-the-end-or-another-beginning/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5820022941286400/"
+        },
+        {
+          "title": "Interactive Tutorial System for Julia and Juno",
+          "short_description": "A Julia program for completing interactive tutorials, being available in the REPL and in Juno (in it\u2019s current form as a series of Atom plugins),...",
+          "student_name": "mgtlake",
+          "code_url": "https://github.com/matthew-lake/Juliet",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5884862720376832/"
+        },
+        {
+          "title": "HTTP/2 Implementations for HTTPServer.jl, Requests.jl, and Mux.jl",
+          "short_description": "This proposal is about implementing HTTP/2 for HTTPServer.jl and Requests.jl, as well as implementing a heuristic for Mux.jl for HTTP/2\u2019s \u201cserver...",
+          "student_name": "Wei Tang",
+          "code_url": "https://github.com/sorpaas/HTTP2.jl/wiki/GSoC-Status-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6286483501613056/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6682672759832576/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Efficient Finite Difference Discretizations of Partial Differential Operators",
+          "short_description": "JuliaDiffEq is the most popular github organization for solving differential equations in Julia.Currently, it has an assorted collection of Ordinary...",
+          "student_name": "Shivin Srivastava",
+          "code_url": "https://github.com/JuliaDiffEq/DiffEqOperators.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6364480376143872/"
+        },
+        {
+          "title": "New Features for Flux.jl",
+          "short_description": "Flux.jl is a high-level neural network library in Julia, which has an intuitive API, easy to debug, and performant. One of the key features of...",
+          "student_name": "Zhang Shiwei",
+          "code_url": "http://blog.ylxdzsw.com/2017-08-29-gsoc-2017-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6392166809075712/"
+        },
+        {
+          "title": "Native Julia Solvers for Ordinary Differential Equations Boundary Value Problem: A GSoC proposal",
+          "short_description": "This is a proposal for the project \"Native Julia solvers for ordinary differential equations and algebraic differential equations\". There is no...",
+          "student_name": "Yingbo Ma",
+          "code_url": "https://gist.github.com/YingboMa/65dbe1a43564ab367408588467ccb671",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6473487988293632/"
+        },
+        {
+          "title": "Native Julia implementations of iterative solvers for numerical linear algebra",
+          "short_description": "The IterativeSolvers.jl package is currently lacking some well-known iterative methods such as QMR and BiCGStab(l) for solving linear systems and...",
+          "student_name": "Harmen Stoppels",
+          "code_url": "http://stoppels.blog/posts/gsoc-2017-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6476815514206208/"
+        },
+        {
+          "title": "Improving and demonstrating Julia statistical models' MCMC: CrossCat example",
+          "short_description": "General-purpose statistical modeling tools such as OpenBugs and Stan allow using easy-to-build modular likelihood models to fit models to data...",
+          "student_name": "Jameson Quinn",
+          "code_url": "https://gist.github.com/jamesonquinn/48d632f246f9c271033c8da17c77104d#file-mu_results-svg",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5683453718691840/"
+        },
+        {
+          "title": "Parallel Graph development",
+          "short_description": "Parallel Graph development\nI am interested in working on parallel graph algorithms and an efficient data structure to represent Graphs, which take...",
+          "student_name": "Divyansh",
+          "code_url": "https://somil55.github.io/gsoc'17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6144860981559296/"
+        },
+        {
+          "title": "Image Segmentation and HOG features",
+          "short_description": "I propose to\n\nAdd a package for image segmentation as a part of JuliaImages with the following algorithms\n     * Thresholding - Otsu\u2019s method and...",
+          "student_name": "Tejus Gupta",
+          "code_url": "https://gist.github.com/tejus-gupta/6180d450ba57963916bed0df536cbe51",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4982314668916736/"
+        },
+        {
+          "title": "Optimization and Bayesian Techniques for the parameter estimation of Differential Equations",
+          "short_description": "Differential equation models are widely used in many scientific fields that include engineering, physics and biomedical sciences. The so-called...",
+          "student_name": "KrishnaKanhaiya",
+          "code_url": "http://ayush-iitkgp.rhcloud.com/google-summer-of-code-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5640556659081216/"
+        },
+        {
+          "title": "Image Segmentation",
+          "short_description": "Image Segmentation is described as one of the most important aspects of image processing. Image segmentation is the process of partitioning an image...",
+          "student_name": "Animesh Kashyap",
+          "code_url": "https://gist.github.com/annimesh2809/49871574c9bc1287a330d126c3953a24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4557553811849216/"
+        },
+        {
+          "title": "An Artificial Neural Network Differential Equation solver for Julia",
+          "short_description": "The purpose of this project is to develop a flexible library of NN solvers (NeuralNetDiffEq.jl) which are able to utilize parallelization, and plugs...",
+          "student_name": "Akshay Sharma",
+          "code_url": "https://github.com/JuliaDiffEq/NeuralNetDiffEq.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4733837523288064/"
+        },
+        {
+          "title": "Hamiltonian Approximate Bayesian Computation",
+          "short_description": "Likelihood-based methods have many appealing features, but they are difficult to use for models which do not have a closed-form, tractable likelihood...",
+          "student_name": "Dorisz Albrecht",
+          "code_url": "https://github.com/DoriszAlbrecht/Bayesian_Examples.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4740559549759488/"
+        },
+        {
+          "title": "Rebuilding Interact.jl with WebIO.jl",
+          "short_description": "Interactive data exploration is an increasingly important component of data science. Interact.jl and Escher.jl are good libraries that have the...",
+          "student_name": "Joel Mason",
+          "code_url": "https://jobjob.github.io/gsoc2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4784638128029696/"
+        },
+        {
+          "title": "Middlewares for common web application chores",
+          "short_description": "Implementation of mid-level features - specifically routing, load-balancing, cookie/session handling, and authentication.",
+          "student_name": "Sarvjeet Ghotra",
+          "code_url": "https://gist.github.com/sarvjeetsinghghotra/165fce3b5dd7288ccd7825134640c3d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6482146642362368/"
+        },
+        {
+          "title": "Integration of Documentation facilities into the Juno IDE",
+          "short_description": "Juno as an IDE (and, since the introduction of JuliaPro, the quasi-standard IDE for Julia) has matured quite a bit during the last years, but the...",
+          "student_name": "Sebastian Pfitzner",
+          "code_url": "https://julialang.org/blog/2017/08/gsoc-docs-in-juno",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5799727878635520/"
+        },
+        {
+          "title": "A Wrapper for the FEniCS Finite Element Toolbox",
+          "short_description": "We will create a wrapper for the FEniCS toolbox in Julia, using PyCall.jl , to allow Julia users direct access to the FEniCS functionality. This will...",
+          "student_name": "Yiannis Simillides",
+          "code_url": "https://gist.github.com/ysimillides/997f1a3337d716e87a08b18eb34642ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6267564707545088/"
+        },
+        {
+          "title": "Parallelism in Bio.jl",
+          "short_description": "Support parallelism in Bio.jl based on Dagger.jl",
+          "student_name": "Kenta Sato (bicycle1885)",
+          "code_url": "https://github.com/JuliaLang/julialang.github.com/pull/615",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6299634423037952/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4615767377575936/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Rejuvenating Documenter",
+          "short_description": "Documentation, essential for any software project, needs to be as easy as possible to write and publish. For Julia packages, you can use the...",
+          "student_name": "Morten Piibeleht",
+          "code_url": "https://mortenpi.eu/gsoc2019/submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6625285267521536/"
+        },
+        {
+          "title": "De-Bruijn Graph Constructor Package for De-novo Genome Assembly",
+          "short_description": "De-novo sequence assembly is the process of constructing a contiguous long sequence out of shorter sub-sequences produced by sequencing platforms,...",
+          "student_name": "Arda Akdemir",
+          "code_url": "https://ardakdemir.github.io/pages/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6718383297396736/"
+        },
+        {
+          "title": "Enriching Model Zoo with Deep Learning Models",
+          "short_description": "The aim of this project is to enrich Flux Model Zoo with unsupervised deep learning models, in particular variants of Generative Adversarial...",
+          "student_name": "Manjunath Bhat",
+          "code_url": "https://medium.com/@manjunathbhat9920/gsoc19-final-summary-cfc4b0c2e680",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5435681868873728/"
+        },
+        {
+          "title": "GraphBLAS Implementation",
+          "short_description": "This project aims to get the GraphBLAS API working from Julia by connecting it to the SuiteSparse GraphBLAS implementation and creating a graph type...",
+          "student_name": "Abhinav Mehndiratta",
+          "code_url": "https://gist.github.com/abhinavmehndiratta/841f91d8fae130f9eb0ff7a99393b109",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5106075190165504/"
+        },
+        {
+          "title": "Query.jl to SQL translation",
+          "short_description": "I want to write code to translate the syntax supported by Query.jl into SQL. Then, the queries can be sent to a variety of database softwares. I can...",
+          "student_name": "Brandon Taylor",
+          "code_url": "https://github.com/queryverse/QuerySQLite.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5320955239333888/"
+        },
+        {
+          "title": "Native Julia ODE, SDE, DAE, DDE, and (S)PDE Solvers",
+          "short_description": "The DifferentialEquations.jl ecosystem has an extensive set of state-of-the-art methods for solving differential equations. By mixing native methods...",
+          "student_name": "Deepesh Thakur",
+          "code_url": "https://deeepeshthakur.github.io/gsocblog/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6193252544282624/"
+        },
+        {
+          "title": "Towards Better Images.jl Ecosystem",
+          "short_description": "This project aims to achieve a better ecosystem for Images.jl, an image-processing toolbox in Julia. Main contributions consist of user-friendly...",
+          "student_name": "Johnny Chen",
+          "code_url": "https://github.com/johnnychen94/GSoC2019/blob/master/final_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4506751443927040/"
+        },
+        {
+          "title": "Addition Of Baseline Models To Model Zoo",
+          "short_description": "Model zoo is a great compilation of deep learning and reinforcement learning algorithms. Currently state of the art baselines in terms of...",
+          "student_name": "SHREYAS KOWSHIK",
+          "code_url": "https://shreyas-kowshik.github.io/blog/2019/08/18/summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4542356773142528/"
+        },
+        {
+          "title": "Differentiable Ray Tracer in Julia",
+          "short_description": "Differentiable Programming is a programming paradigm in which we can differentiate through\nthe program itself. It allows us to exploit the knowledge...",
+          "student_name": "Avik Pal",
+          "code_url": "https://avik-pal.github.io/blog/learning_to_drive.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4637645454442496/"
+        },
+        {
+          "title": "Named Entity Recognition and Part-of-Speech APIs and models",
+          "short_description": "JuliaText is the JuliaLang organization that provides with packages to work with text. It currently lacks support for basic problems like Named...",
+          "student_name": "Ayushk4",
+          "code_url": "https://ayushk4.github.io/2019/08/22/My-Journey-in-Google-Summer-of-Code.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4945754462879744/"
+        },
+        {
+          "title": "Performance Enhancements and General Fixes",
+          "short_description": "DifferentialEquations.jl is the state of the art differential equations solver that exists right now. Being written purely in Julia and having a huge...",
+          "student_name": "Kanav Gupta",
+          "code_url": "https://kanav99.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5822171933310976/"
+        },
+        {
+          "title": "Differentiable Tensor Networks",
+          "short_description": "This project aims to improve the tooling for tensor network algorithms in julia and demonstrate advantages of julia - composability, performance,...",
+          "student_name": "Andreas Peter",
+          "code_url": "https://gist.github.com/under-Peter/76981e767c3e63cc436aed124cb36c63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5946862568210432/"
+        },
+        {
+          "title": "Differentiable Duckietown",
+          "short_description": "Julia language offers support for differentiable programming with the help of its AD. This projects leverages this to test differentiable programming...",
+          "student_name": "Tejan Karmali",
+          "code_url": "https://tejank10.github.io/jekyll/update/2019/08/24/GSoC-2019-Duckietown.jl-Summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5217577171681280/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6163109162516480/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Implementation of a Reservoir Computing library for timeseries prediction",
+          "short_description": "A leap forward in the accuracy of forecasting problems in chaotic time series has been recently obtained using Echo State Networks (ESN). This is a...",
+          "student_name": "MartinuzziFrancesco",
+          "code_url": "https://martinuzzifrancesco.github.io/posts/12_gsoc_week/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5075765613297664/"
+        },
+        {
+          "title": "High weak order stochastic differential equation solvers and their utility in neural stochastic differential equations",
+          "short_description": "DifferentialEquations is a Julia package for solving differential equations in a highly performant manner within  an underlying unified user...",
+          "student_name": "Frank Sch\u00e4fer",
+          "code_url": "https://frankschae.github.io/post/gsoc-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5076877036748800/"
+        },
+        {
+          "title": "BNP Benchmarks and Feature Comparisons for Turing and Other PPLs",
+          "short_description": "Probabilistic models, which more naturally quantify uncertainty when compared to their deterministic counterparts, are often difficult and tedious to...",
+          "student_name": "Arthur Lui",
+          "code_url": "https://luiarthur.github.io/TuringBnpBenchmarks/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5097445601574912/"
+        },
+        {
+          "title": "Adding GPML capabilities to JuliaGaussianProcesses",
+          "short_description": "JuliaGaussianProcesses is an effort to build a robust Gaussian Processes framework in the Julia ecosystem. We would like to start off by adding the...",
+          "student_name": "Sharan Yalburgi",
+          "code_url": "https://github.com/JuliaGaussianProcesses/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5115669181366272/"
+        },
+        {
+          "title": "Deep Learning for 3D Computer Vision",
+          "short_description": "Neural Networks (NN) is one of the most fundamental building blocks of modern Computer vision and it has found its relevance in multiple domains like...",
+          "student_name": "Nirmal Praveen Suthar",
+          "code_url": "https://github.com/FluxML/Flux3D.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5299496700870656/"
+        },
+        {
+          "title": "ZXCalculus.jl: ZX-calculus for Julia",
+          "short_description": "ZX-calculus is a graphical language that can characterize quantum circuits. It is a powerful tool that is usually used for quantum circuit...",
+          "student_name": "Chen Zhao",
+          "code_url": "https://chenzhao44.github.io/2020/08/27/ZXCalculus.jl/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5365017131614208/"
+        },
+        {
+          "title": "Implementation of a hash table based on SwissTable and adding Trees.jl to JuliaCollections",
+          "short_description": "The goal of this project would be to implement a fast open-addressed hash table inspired from Google\u2019s flat_hash_map. In addition to this, I propose...",
+          "student_name": "Koustav Chowdhury",
+          "code_url": "https://nextjournal.com/eulerkochy/gsoc-20-in-datastructures.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6219674854883328/"
+        },
+        {
+          "title": "Improving Surrogates.jl",
+          "short_description": "Surrogate modeling has become a staple in large-scale scientific computing applications like aerospace and chemical engineering where full...",
+          "student_name": "Ludovico Bessi",
+          "code_url": "https://github.com/SciML/Surrogates.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6235525733679104/"
+        },
+        {
+          "title": "MLJTime - Adding Time Series Support For MLJ",
+          "short_description": "The main goal of the project is to port capability from\u200b sktime\u200b (Machine learning for time series) to MLJ universe & develop data container to...",
+          "student_name": "Aadesh Deshmukh",
+          "code_url": "https://aa25desh.github.io/MLJTimeTutorials.jl/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6262209727954944/"
+        },
+        {
+          "title": "A Lite BERT and Statistical Language Models",
+          "short_description": "JuliaText is a JuliaLang organization that provides packages to work with text. The aim of this project is to enrich TextAnalysis.jl with Framework...",
+          "student_name": "Tejas Vaidhya",
+          "code_url": "https://tejasvaidhyadev.github.io/blog/the-end-is-just-another-beginning",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4810193256316928/"
+        },
+        {
+          "title": "Polychord Nested Sampling Algorithm Building and Integration with Turing in Julia",
+          "short_description": "Polychord is a nested sampling algorithm which is designed to sample from high-dimensional parameter spaces. Slice sampling is used at each iteration...",
+          "student_name": "Saranjeet Kaur Bhogal",
+          "code_url": "https://gist.github.com/SaranjeetKaur/37086fea06076bd3ec76d052cc166378",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6019152965271552/"
+        },
+        {
+          "title": "Performance Enhancements and Optimizations for  Differential Equation solvers",
+          "short_description": "DifferentialEquations.jl comprises of leading-edge methods for solving Differential Equations and an extensive benchmark suite written purely in...",
+          "student_name": "Utkarsh .",
+          "code_url": "https://utkarsh530.github.io/blog/post/gsoc-blog-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6034091968823296/"
+        },
+        {
+          "title": "Taylor models and a guaranteed ODE solver",
+          "short_description": "The Taylor Models are mathematical tools that enable the rigorous representation of functions by a polynomial expansion and a remainder that encloses...",
+          "student_name": "Uziel Linares",
+          "code_url": "https://gist.github.com/UzielLinares/fb987af2796a2fe143f0fdfbb852dd63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6091583662850048/"
+        },
+        {
+          "title": "Leveraging Hugging Face Transformers package in Julia",
+          "short_description": "Bridge the gap between Python community and the Julia community for the state of the art natural language processing models.",
+          "student_name": "Ching-Wen Cheng",
+          "code_url": "https://nextjournal.com/chengchingwen/gsoc-2020-blog2-summary-of-the-summer-huggingface-transformers-with-julia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4873667336470528/"
+        },
+        {
+          "title": "General partial differential equation solver using neural networks",
+          "short_description": "Differential equations are widely used in any scientific field. A new method of solving differential equations using deep learning methods has great...",
+          "student_name": "Kirill Zubov",
+          "code_url": "https://nextjournal.com/kirill_zubov/physics-informed-neural-networks-pinns-solver-on-julia-gsoc-2020-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5220934400606208/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5086646441082880/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Particle Swarm Optimization for Hyperparameter Tuning in MLJ",
+          "short_description": "Machine learning models have demonstrably achieved significant success in data classification and prediction across innumerable industries and...",
+          "student_name": "Huu Long Nguyen",
+          "code_url": "https://gist.github.com/lhnguyen-vn/ea3604ea4b5d7c86188cd43b9e86b9ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6613454634352640/"
+        },
+        {
+          "title": "MuZero implementation",
+          "short_description": "The goal of this project is to implement the MuZero algorithm in Julia, with the following expected benefits:\n\nattract people from the model-based RL...",
+          "student_name": "Micha\u0142 \u0141ukomski",
+          "code_url": "https://michelangelo21.github.io/gsoc/2021/08/23/gsoc-2021.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5675675435925504/"
+        },
+        {
+          "title": "Differentiable GraphBLAS",
+          "short_description": "Graphs are a ubiquitous and versatile data structure, which allow the representation of problems and systems across a vast array of domains like...",
+          "student_name": "William Kimmerer",
+          "code_url": "https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5706804721352704/"
+        },
+        {
+          "title": "GSoC Proposal - Causal and counterfactual methods for fairness in machine learning",
+          "short_description": "Machine learning models are being used to assess loan and job applications, in bail, sentencing and parole decisions, and in an increasing number of...",
+          "student_name": "Archana Warrier",
+          "code_url": "https://nextjournal.com/archanarw/counterfactualfairnessjl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5715272618475520/"
+        },
+        {
+          "title": "Plug and Play Language Models in Julia",
+          "short_description": "While pre-trained language models like GPT-2 provided with Transformers.jl can generate coherent text, controlling and steering of text towards the...",
+          "student_name": "Adarsh Kumar",
+          "code_url": "https://github.com/AdarshKumar712/PPLM.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5425645793837056/"
+        },
+        {
+          "title": "Music Transformer",
+          "short_description": "The field of deep learning has had numerous impressive advancements over the last\nfew years. Music generation has always been a difficult application...",
+          "student_name": "Vasanth Mani Vasi",
+          "code_url": "https://nextjournal.com/VasanthManiVasi/gsoc-2021-music-transformer-part-4/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5281155242262528/"
+        },
+        {
+          "title": "What You See Is What You Rest Security",
+          "short_description": "Adding security features to the What You See Is What You REST addition to Pluto notebooks, and creating simple methods to deploy notebooks as REST...",
+          "student_name": "Elias Little",
+          "code_url": "https://eliasl.com/gsoc_final_review",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5562923954470912/"
+        },
+        {
+          "title": "Improving Turing\u2019s documentation and tutorials",
+          "short_description": "I would like to extend and update Turing\u2019s documentation and include novel examples that show how to best use Turing\u2019s capabilities in an applied...",
+          "student_name": "leachim",
+          "code_url": "https://gist.github.com/leachim/a83c012f337743c5c080484372694328",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5628292215865344/"
+        },
+        {
+          "title": "General Improvements to User Experience in Javis",
+          "short_description": "Javis.jl is a graphical animation/visualization package for the Julia Language which fetches motivation from Grant Sanderson's Python based animation...",
+          "student_name": "Arsh Sharma-1",
+          "code_url": "https://github.com/Wikunia/Javis.jl/pulls?q=GSoC%2721+is%3Apr+author%3ASov-trotter+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6190617452871680/"
+        },
+        {
+          "title": "Tight-Binding Atomic Graph Neural Networks",
+          "short_description": "Virtually all properties of interest arise from electronic interactions between the atoms of a crystal.\nThe work I propose aims to develop a...",
+          "student_name": "Anant Thazhemadam",
+          "code_url": "https://thazhemadam.github.io/blog/posts/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4891585065517056/"
+        },
+        {
+          "title": "Developing IntervalLinearAlgebra.jl",
+          "short_description": "The goal of this project is to implement the IntervalLinearAlgebra.jl package within the JuliaIntervals organisation and have the first release at...",
+          "student_name": "Luca Ferranti",
+          "code_url": "https://lucaferranti.github.io/posts/2021/08/gsoc_final_blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4928206305492992/"
+        },
+        {
+          "title": "MCMC Chains improvements",
+          "short_description": "In the last decades, Bayesian statistics has gained ground in the modelling of phenomena. Despite its advantages, to implement a Bayesian framework...",
+          "student_name": "Paulina Martin",
+          "code_url": "https://gist.github.com/PaulinaMartin96/034445da14e33d41157554670a58c194",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4929311521374208/"
+        },
+        {
+          "title": "Automatic differentiation in density-functional theory",
+          "short_description": "Density functional theory (DFT) is a key driving force\nin modern quantum chemistry, with applications ranging from materials\nscience to drug...",
+          "student_name": "Niklas Schmitz",
+          "code_url": "https://github.com/niklasschmitz/DifferentiableDFTK",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5843994432503808/"
+        },
+        {
+          "title": "Implementing Advanced Variational Gaussian Process Models",
+          "short_description": "Gaussian processes (GPs) are flexible probabilistic models with a wide a variety of applications. However, in their simplest form they scale...",
+          "student_name": "Ross Viljoen",
+          "code_url": "https://gist.github.com/rossviljoen/75229dca3b0ea58a74f1ca127b03dbc5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5866312525414400/"
+        },
+        {
+          "title": "Model Serialization and Pathfinding  for Agents.jl",
+          "short_description": "Agent-based models (ABMs) are simulations in which autonomous entities (known as agents) react to their environment (which includes other agents)...",
+          "student_name": "Aayush Sabharwal",
+          "code_url": "https://aayush-sabharwal.medium.com/my-gsoc-journey-4-the-code-and-beyond-94bba8b1fe5f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5909767192576000/"
+        },
+        {
+          "title": "Redesigning GridWorlds.jl",
+          "short_description": "Environments are a crucial component of reinforcement learning (RL). Grid worlds are a broad class of tile-based games that are easy to create, and...",
+          "student_name": "Siddharth Bhatia",
+          "code_url": "https://github.com/JuliaReinforcementLearning/GridWorlds.jl/issues/185",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6002355614515200/"
+        },
+        {
+          "title": "Implement Escape Analysis in Julia Compiler",
+          "short_description": "Escape analysis is a classic problem in compiler analysis. Julia compiler has an existing AbstractInterpreter framework for managing inter-procedural...",
+          "student_name": "Xuanda Yang",
+          "code_url": "https://th3charlie.github.io/gsoc2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6327831490985984/"
+        },
+        {
+          "title": "FastAI.jl Development",
+          "short_description": "Aim is to build all the portions of the FastAI.jl package, inspired by the fastai Python library, which will provide high-level components that can...",
+          "student_name": "Manikya Bardhan",
+          "code_url": "https://gist.github.com/manikyabard/2f78502a170f46da6ca599bcb34ce91c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5165540460462080/"
+        },
+        {
+          "title": "Applied equality saturation with Metatheory.jl",
+          "short_description": "Metatheory.jl is a general purpose metaprogramming and algebraic computation library for the Julia programming language, supporting the novel...",
+          "student_name": "Alessandro Cheli",
+          "code_url": "https://0x0f0f0f.github.io/blog/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5177318166757376/"
+        },
+        {
+          "title": "Involutive Markov Chain Monte Carlo in Turing",
+          "short_description": "To realise the full potential of probabilistic programming languages (PPLs), it is essential to automate the inference of latent variables in the...",
+          "student_name": "Carol Mak",
+          "code_url": "https://github.com/cmaarkol/InvolutiveMCMC.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5224810203840512/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-julia-language/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Improvements to the REPL workflow (TermLayouts.jl)",
+          "short_description": "The Julia REPL and notebooks like Jupyter Notebooks, Pluto.jl both have shortcomings, especially when considering Julia's data science work. For...",
+          "student_name": "Soumitra Shewale",
+          "code_url": "https://github.com/soumitradev/TermLayouts.jl/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PSQ7VA51/"
+        },
+        {
+          "title": "Survey.jl",
+          "short_description": "This project adds a new package to JuliaStats, covering complex survey analysis. The package is inspired by the `survey` package in R. Specifically,...",
+          "student_name": "Iulia Dumitru",
+          "code_url": "https://github.com/xKDR/GSoC/blob/main/2022/Survey.jl/iulia_dumitru_final.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HZt97ZtA/"
+        },
+        {
+          "title": "Bringing in Novel Animation Abilities to Javis.jl",
+          "short_description": "My proposal is to bring in core changes to Javis' Object - Action mechanism for making animations . As of now Javis does not store drawing...",
+          "student_name": "John George Francis",
+          "code_url": "https://github.com/JuliaAnimators/Javis.jl/pulls?q=is%3Apr+author%3AArbitRandomUser+label%3AGSoC%2722+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Hz7ferE1/"
+        },
+        {
+          "title": "Let Turing Handle The BUGS",
+          "short_description": "This project aims to build a Julia package for probabilistic modeling based on static directed graphs. Specifically, we want to enable users to...",
+          "student_name": "Xianda Sun",
+          "code_url": "https://gist.github.com/sunxd3/53cb2719f85146490ef7e54fee20195d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/s2dcBFqV/"
+        },
+        {
+          "title": "Electron App for Pluto",
+          "short_description": "Problem: Installing Julia, opening a terminal, running Julia REPL, then opening the package manager, adding Pluto package, running Pluto, and then...",
+          "student_name": "Dhruv Tiwari",
+          "code_url": "https://github.com/JuliaPluto/PlutoDesktop",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/w10mCFle/"
+        },
+        {
+          "title": "David-Skene algorithms for Turing.jl",
+          "short_description": "The David-Skene algorithms are a family of computational methods for aggregating crowdsourced annotations of data in order to obtain the true labels...",
+          "student_name": "MatthewBaggins",
+          "code_url": "https://github.com/MatthewBaggins/DawidSkeneAlgorithms/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hYSoWAuX/"
+        },
+        {
+          "title": "FlashFill Implementation in Julia",
+          "short_description": "FlashFill is a program synthesis framework for generating string-processing programs from input-output examples. This project aims to implement...",
+          "student_name": "Atharv Sonwane",
+          "code_url": "https://github.com/threewisemonkeys-as/AutoFill.jl/wiki/GSoC-2022---Creating-AutoFill.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wP4j8I9E/"
+        },
+        {
+          "title": "Bringing GPU programming to DFTK.jl",
+          "short_description": "Density functional theory (DFT) is an established method to compute the electronic structure of matter, with applications ranging from the...",
+          "student_name": "Guillaume Vigne",
+          "code_url": "https://github.com/GVigne/GSoC2022_DFTK",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GSUS0kxC/"
+        },
+        {
+          "title": "An Alternative to Distributed for Pluto.jl",
+          "short_description": "Pluto uses the Distributed module (part of Julia's stdlib) to create worker processes and to send Julia data structures between them. These worker...",
+          "student_name": "Sergio A. Vargas",
+          "code_url": "https://github.com/savq/gsoc-2022/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/17rwe2D4/"
+        },
+        {
+          "title": "Graph Datasets for MLDatasets.jl",
+          "short_description": "The main points of my proposal are as follows: 1. Add more and more datasets: To enrich MLDatasets.jl with relevant Graph Datasets. 2. Build a tight...",
+          "student_name": "Deeptendu Santra",
+          "code_url": "https://github.com/JuliaML/MLDatasets.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2UtjSuDg/"
+        },
+        {
+          "title": "Reachability with sparse polynomial zonotopes",
+          "short_description": "Reachability analysis deals with uncertainty propagation in dynamical systems. Given an initial set, modeling the uncertainty on the initial state,...",
+          "student_name": "Luca Ferranti",
+          "code_url": "https://forem.julialang.org/lucaferranti/gsoc-2022-sparse-polynomial-zonotopes-in-juliareach-52mo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/feZrZfQX/"
+        },
+        {
+          "title": "Integrate the MuZero algorithm into the AlphaZero.jl package",
+          "short_description": "In March 2016, AlphaGo became the first computer Go program to beat one of the best go players in the world. But Deepmind didn\u2019t stop there and kept...",
+          "student_name": "Guillaume THOMAS",
+          "code_url": "https://medium.com/@guillaume.thopas/an-almost-full-gpu-implementation-of-gumbel-muzero-in-julia-1d64b2ec04ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YWv8Vbw1/"
+        },
+        {
+          "title": "Implementation of Replica Exchange Molecular Dynamics methods in Molly.jl",
+          "short_description": "Molly.jl is a package in pure Julia for simulating molecules and physical systems in general using method known as Molecular Dynamics (MD). This...",
+          "student_name": "Jaydev Singh Rao",
+          "code_url": "https://github.com/JaydevSR/ReplicaExchangeMD.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BK7TI3rX/"
+        },
+        {
+          "title": "Making improvements in CRRao.jl",
+          "short_description": "Overall, the proposal is about adding a few missing features in the package, like addition of new models, some metaprogramming, lazy evaluation,...",
+          "student_name": "Siddhant Chaudhary",
+          "code_url": "https://github.com/xKDR/GSoC/blob/main/2022/CRRao.jl/siddhant_chaudhary_final.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wbPGeN3c/"
+        },
+        {
+          "title": "Julia Symbolics Algebra Simplification and Equation Solving",
+          "short_description": "Implementation of algebraic simplification to reduce expression to canonical form. Low level rules are be hard coded for improved performance and...",
+          "student_name": "BlankBuffer",
+          "code_url": "https://github.com/blankBuffer/Symbolics.jl/blob/equation-solver/src/solver.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/w8Zaqbr7/"
+        },
+        {
+          "title": "Implementation of a quantum error correction code library for Julia\u2019s Clifford gate simulator",
+          "short_description": "The hardware necessary to build networks, sensors and computers of quantum nature is at its infancy. Potential quantum memories, repeaters, and...",
+          "student_name": "Maria Gragera Garces",
+          "code_url": "https://github.com/Krastanov/QuantumClifford.jl/pull/78",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kpQWzjgc/"
+        },
+        {
+          "title": "Improved ImageIO: adding JPEG2000, GIF, and EXIF support",
+          "short_description": "JuliaImages takes support from JuliaIO to provide encode and decode methods of various image formats. The focus of this project is to add IO support...",
+          "student_name": "Ashwani Rathee",
+          "code_url": "https://github.com/ashwani-rathee/GSOC22-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kys3qcVH/"
+        },
+        {
+          "title": "Automatic system images based on a specific user workflow",
+          "short_description": "Time to First Plot (TTFP) is one of the most disliked things about Julia language because it takes from seconds to minutes to produce the first...",
+          "student_name": "Petr Vana",
+          "code_url": "https://github.com/petvana/AutoSysimages.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/S62aV5KM/"
+        },
+        {
+          "title": "Symbolic Root Finding for Symbolics.jl",
+          "short_description": "Implement methods to find roots for symbolic polynomial systems. This involves providing analytical solution for polynomials of degree less than or...",
+          "student_name": "Manan Bordia",
+          "code_url": "https://mananbordia.gitlab.io/symbolicsolver.jl/dev/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3IvdFjQJ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-julia-language",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Discontinuous Galerkin Infrastructure For the finite element toolbox Ferrite.jl",
+          "short_description": "This project aims to implement the necessary infrastructure for the Discontinuous Galerkin method in the finite element toolbox Ferrite.jl. This will...",
+          "student_name": "Abdulaziz Hamid",
+          "code_url": "https://gist.github.com/AbdAlazezAhmed/2a75a6f993ffacadeb4b277d7254d222",
+          "proposal_id": "GmtSrrlF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SLGbRNI5"
+        },
+        {
+          "title": "Extending GraphNeuralNetworks.jl to support Temporal Graphs",
+          "short_description": "The purpose of this project is to add Temporal Graph Neural Networks (TGNNs) to GraphNeuralNetworks.jl. The first part of the project will be...",
+          "student_name": "Aurora Rossi",
+          "code_url": "https://docs.google.com/document/d/1YW0LTLolaesaq0EfXm6MskP_th2VHE4tGWFX0Vs5RJg/edit?usp=sharing",
+          "proposal_id": "D4At0WHe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vbQaqNYW"
+        },
+        {
+          "title": "Learning from Imbalanced Data with Julia",
+          "short_description": "The objective of this project is to implement a class imbalance package in Julia with algorithms to correct for class imbalance. The package is...",
+          "student_name": "Essam Wisam",
+          "code_url": "https://forem.julialang.org/essamwisam/class-imbalance-in-julia-3jek",
+          "proposal_id": "QD5O1IaT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/izAL3OYY"
+        },
+        {
+          "title": "JuliaHealth's Tools for Patient-Level Predictions: Strengthening Capacity and Innovation",
+          "short_description": "Working with the OMOP CDM (Observational Medical Outcomes Partnership Common Data Model) involves handling large datasets that require a set of tools...",
+          "student_name": "Fareeda Abdelazeez",
+          "code_url": "https://medium.com/@fareedaabdelazeez/google-summer-of-code-2023-strengthening-healthcare-with-juliahealth-7b8fde5af9ec",
+          "proposal_id": "2KP4GHpE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/evbn3Ded"
+        },
+        {
+          "title": "Introducing a implementation of distributed arrays and linear algebra routines for Dagger.jl",
+          "short_description": "This proposal intends to implement a distributed array for the Dagger.jl package, loosely inspired on DistributedArrays.jl and improving on the...",
+          "student_name": "Felipe Tom\u00e9",
+          "code_url": "https://discourse.julialang.org/t/daggers-darray-mpi-subpackage-roadmap/104218",
+          "proposal_id": "EYBYvQy2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JsXkj2fK"
+        },
+        {
+          "title": "Building an Intelligent Search System for Documenter.jl",
+          "short_description": "The goal of this project is to improve the user experience of search functionality provided by Documenter.jl by building an intelligent search system...",
+          "student_name": "Hetarth Shah",
+          "code_url": "https://hetarth02.hashnode.dev/google-summer-of-code-2023-julia",
+          "proposal_id": "WEEEr6DW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PvLbxUqE"
+        },
+        {
+          "title": "GPU Acceleration for PDE Discretization in Trixi.jl using CUDA",
+          "short_description": "GPU computing provides substantial performance gains over CPU-based methods for computationally demanding tasks. Trixi.jl, a Julia numerical...",
+          "student_name": "Huiyu Xie",
+          "code_url": "https://gist.github.com/huiyuxie/44b561f9f854aada98fdb37036081454",
+          "proposal_id": "NLvkNUCf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/upstR7K2"
+        },
+        {
+          "title": "Empowering Julia-based Data Science with MLflow",
+          "short_description": "MLFlowClient.jl lacks of updates regarding new features coming from the original Python package. Some effort is needed to ensure new version methods....",
+          "student_name": "Jose Esparza",
+          "code_url": "https://forem.julialang.org/pebeto/adding-mlflow-tracking-to-mlj-gsoc23-38e3",
+          "proposal_id": "O5zbNizA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iRxuzeGJ"
+        },
+        {
+          "title": "TopOpt.jl -- introducing more physics and problem types (Heat Compliance, Fluid Flows)",
+          "short_description": "TopOpt.jl currently supports only linear elastic type problems (meaning a limited set of physics), but, naturally, several other sorts of topology...",
+          "student_name": "mjachi",
+          "code_url": "https://github.com/JuliaTopOpt/SimpleTopOpt.jl",
+          "proposal_id": "Ns8lSBrx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9CtYsOxH"
+        },
+        {
+          "title": "Survey.jl",
+          "short_description": "Survey.jl is a Julia package for survey analysis inspired by the R package 'survey'. It aims to address the unique challenges associated with the...",
+          "student_name": "Nadia Enhaili",
+          "code_url": "https://gist.github.com/nadiaenh/78619132bd7994961398866779430e91",
+          "proposal_id": "ZwYsoVR5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/feWjPxcW"
+        },
+        {
+          "title": "Implementing Scalable Bayesian Optimization in Julia",
+          "short_description": "The main task of this project is to implement a modern Bayesian optimization method TuRBO in Julia, extending BayesianOptimization.jl package. The...",
+          "student_name": "Samuel Belko",
+          "code_url": "https://blog.belko.xyz/posts/BayesianOptimizationGSoC23/",
+          "proposal_id": "EvQ55YDT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oJe84fwV"
+        },
+        {
+          "title": "GPU Support for QuantumClifford.jl",
+          "short_description": "QuantumClifford.jl is a package designed for simulating Quantum Clifford circuits, circuits that consist of Clifford gates. QuantumClifford.jl can be...",
+          "student_name": "Shayan Pardis",
+          "code_url": "https://docs.google.com/document/d/1ypJ2dnmMar_9vflwJLsSU99jnwP03q43a6yFBVjhKMA/edit?usp=sharing",
+          "proposal_id": "90mgXZag",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7KTadSTv"
+        },
+        {
+          "title": "Development of Attractors.jl",
+          "short_description": "The main aim of this project is to expand the capabilities of Attractors.jl. We are specifically targeting three features, which are the Minimal...",
+          "student_name": "Stefan Vayl",
+          "code_url": "https://gist.github.com/StefanVaylBX2023/24e9d8bf54315e217fc272181da9b7d8",
+          "proposal_id": "RIRDWTrM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GSsHIPiy"
+        },
+        {
+          "title": "Development of a Modular and Composable Variational Inference and Normalizing Flow Library for Julia",
+          "short_description": "We propose to create a modular and composable library for variational inference and normalizing flow methods that emphasizes GPU compatibility and...",
+          "student_name": "Zuheng (David) Xu",
+          "code_url": "https://github.com/TuringLang/NormalizingFlows.jl",
+          "proposal_id": "4eTCdbAb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IE6teU9f"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-julia-language/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Supercharging the Knowledge Base of AIHelpMe.jl",
+          "short_description": "Traditionally if a user asks a question to an LLM about a package then, the response might be incorrect, or outdated. The project \"Supercharging the...",
+          "student_name": "Shreyas Agrawal",
+          "code_url": "https://github.com/JuliaGenAI/DocsScraper.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XNfAQ6gz/"
+        },
+        {
+          "title": "Tensor network contraction order optimization and visualization",
+          "short_description": "This project aims to further enhance the performance and usability of tensor network tools in Julia. There are three main goals of the project: 1)...",
+          "student_name": "Xuanzhao Gao",
+          "code_url": "https://github.com/ArrogantGao/GSoC2024-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/B8qSy9dO/"
+        },
+        {
+          "title": "Integrating the Modern CFD Package Trixi.jl with Compiler-Based Auto-Diff via Enzyme.jl",
+          "short_description": "Trixi.jl is a numerical simulation framework for conservation laws written in Julia. The integration of Trixi.jl with Compiler-Based (LLVM level)...",
+          "student_name": "Junyi Xu",
+          "code_url": "https://github.com/junyixu/TrixiEnzyme.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MQRCkokT/"
+        },
+        {
+          "title": "Julia Dagger - Enhancing Streaming Data Processing for Heterogeneous Computing",
+          "short_description": "This project is aimed at advancing the capabilities of heterogeneous computing environments in Julia through Dagger.jl. We propose to implement a...",
+          "student_name": "Davide Ferretti",
+          "code_url": "https://github.com/davidizzle/GSoC-Dagger.jl-Blog",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Ho5buBUx/"
+        },
+        {
+          "title": "ColBERTv2.0: Efficient, late-interaction retrieval in Julia.",
+          "short_description": "This projects aims to bring the well known ColBERTv2.0 information retrieval system to Julia! In this project, we aim to implement various components...",
+          "student_name": "Siddhant Chaudhary",
+          "code_url": "https://github.com/JuliaGenAI/ColBERT.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GauGUFoo/"
+        },
+        {
+          "title": "Project 4: Adding dataset-wide functions and integrations of augmentations",
+          "short_description": "MedPipe3D is a Julia package that enables working on GPU-accelerated medical image segmentation. MedPipe3D aims to merge MedEye3D, MedEval3D, and...",
+          "student_name": "JanZubik",
+          "code_url": "https://juliahealth.org/JuliaHealthBlog/posts/JZubik-gsoc/GSoC_Jan_Zubik_MedPipe3D.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vDjorNMI/"
+        },
+        {
+          "title": "Developing Tooling for Observational Health Research in Julia",
+          "short_description": "As a part of this project, I will be working with JuliaHealth to develop the OMOPCDMPathways package for health and medical data analysis. The...",
+          "student_name": "Jay Sanjay Landge",
+          "code_url": "https://juliahealth.org/JuliaHealthBlog/posts/jay-gsoc/gsoc-2024-fellows.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZXVIYAXG/"
+        },
+        {
+          "title": "Adding functionalities to medical imaging visualizations",
+          "short_description": "MedEye3D.jl aims to enhance medical imaging visualization within the Julia language ecosystem. The current proposal addresses the need for improved...",
+          "student_name": "Divyansh Goyal",
+          "code_url": "http://juliahealth.org/JuliaHealthBlog/posts/divyansh-gsoc/gsoc-2024-fellows.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wZxPFI3A/"
+        },
+        {
+          "title": "OptiFloat.jl: Automatic Floating Point Expression Optimization in Pure Julia",
+          "short_description": "Most scientific and engineering applications heavily depend on floating point arithmetic. Floating point numbers only approximate the real numbers,...",
+          "student_name": "Niklas Heim",
+          "code_url": "https://nmheim.github.io/OptiFloat.jl/dev/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ICOAO1nm/"
+        },
+        {
+          "title": "New quantum error-correcting codes and decoders for QuantumClifford.jl",
+          "short_description": "QuantumClifford.jl provides a basic functionality for quantum error correction. Yet, some important classes of QECCs and their decoders remain to be...",
+          "student_name": "Yuxuan Yan",
+          "code_url": "https://gist.github.com/royess/a290faaaa76e23912e739bd08908d560",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mEC7s9zc/"
+        },
+        {
+          "title": "Symbolic computation with Julia (Symbolics.jl): Symbolic Root finding",
+          "short_description": "Currently, Symbolics.jl has a Groebner basis implementation which is able to convert a myriad of symbolic expressions into multi-variate polynomials....",
+          "student_name": "Yassin ElBedwihy",
+          "code_url": "https://github.com/JuliaSymbolics/Symbolics.jl/pull/1192",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VwqY0F33/"
+        },
+        {
+          "title": "Language Interoperability - CxxWrap.jl",
+          "short_description": "The CxxWrap.jl package acts as a bridge between Julia and compiled C++ code, resulting in developers being able to use the best of both languages....",
+          "student_name": "PraneethJain",
+          "code_url": "https://gist.github.com/PraneethJain/3a8b5d41e0f9ba6810b5ec3952040a04",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FWA99w0a/"
+        },
+        {
+          "title": "Add support for Conformal(ized) Bayes to ConformalPrediction.jl",
+          "short_description": "ConformalPrediction.jl is a package for Predictive Uncertainty Quantification through Conformal Prediction for Machine Learning models trained in...",
+          "student_name": "Pasquale Caterino",
+          "code_url": "https://gist.github.com/pasq-cat/7224ed8be97cca87b02553783cd48189",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fkvFPluF/"
+        },
+        {
+          "title": "Enhance KomaMRI.jl GPU Support",
+          "short_description": "KomaMRI.jl is a Julia package for Magnetic Resonance Imaging (MRI) simulation focused on speed and extensibility. Like other MRI simulators, it...",
+          "student_name": "Ryan Kierulf",
+          "code_url": "https://github.com/JuliaHealth/KomaMRI.jl/pull/470",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Rw71hevm/"
+        },
+        {
+          "title": "Developing IPUMS.jl: A Pure Julia Interface to IPUMS for Health Research Applications and Beyond",
+          "short_description": "IPUMS is the \u201cworld\u2019s largest available individual database of census microdata\u201d, providing survey data and census records from across the world....",
+          "student_name": "Michela Rocchetti",
+          "code_url": "https://juliahealth.org/JuliaHealthBlog/post/michela-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mGS3l5Lj/"
+        },
+        {
+          "title": "Bringing state-of-the-art categorical variable encoding methods to Julia",
+          "short_description": "Bring the most recent classical and deep learning methods for categorical encoding to Julia to better support the presence of categorical variables...",
+          "student_name": "Essam Wisam",
+          "code_url": "https://forem.julialang.org/essamwisam/categorical-encoding-in-julia-2fcb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TJYLwGRW/"
+        },
+        {
+          "title": "Algorithms and interface for detection of periodic orbits",
+          "short_description": "The main objective of my proposal is to implement better tools for detection of periodic orbits of dynamical systems. My task will be to implement...",
+          "student_name": "Jonas Koziorek",
+          "code_url": "https://gist.github.com/JonasKoziorek/bcc11c0addd03ccd99b7b44e64e7e45f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EErAkFPa/"
+        },
+        {
+          "title": "PosteriorDB Implementations for Turing.jl",
+          "short_description": "Benchmarking sampler implementations for Bayesian inference is hard \u2014 the algorithms are inherently stochastic, and often produce only Monte Carlo...",
+          "student_name": "JasonPekos",
+          "code_url": "https://github.com/JasonPekos/TuringPosteriorDB.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zjtEET42/"
+        },
+        {
+          "title": "Graph Neural Networks - Training on very large graphs",
+          "short_description": "Ever-growing size of social interactions, especially via on-line channels, creates a need for processing big datasets in an efficient way. Thanks to...",
+          "student_name": "Agata",
+          "code_url": "https://docs.google.com/document/d/1MgD5Ah54mBu2KzAN9u0gavK7kY2TaesGoJ6dDtpXrtU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VsKcPlTV/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-julia-language",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Extending Reachability Analysis with Matrix Zonotopes in ReachabilityAnalysis.jl",
+          "short_description": "This project aims to extend the existing capabilities of ReachabilityAnalysis.jl with a new state-of-the-art algorithm for reachability analysis,...",
+          "student_name": "alecarraro",
+          "code_url": null,
+          "proposal_id": "4spsZSSY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lTdvJXDe"
+        },
+        {
+          "title": "Sharing is Caring; Improving the Julia GPU Stack Portability.",
+          "short_description": "The state of Julia GPU support ranges from \u201cvery good\u201d (CUDA.jl) to \u201con the way\u201d (Metal.jl). Recently, the shared high-level interface GPUArrays.jl...",
+          "student_name": "christiangnrd",
+          "code_url": null,
+          "proposal_id": "rmu1DQrR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9M7UdqlC"
+        },
+        {
+          "title": "Improving the Performance of GNNs Using Sparse Linear Algebra",
+          "short_description": "Graph Neural Networks (GNNs) are powerful tools for processing graph-structured data, with applications spanning social networks, recommendation...",
+          "student_name": "Davide Ferre'",
+          "code_url": null,
+          "proposal_id": "oDiQiG2W",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pVuVXJ5N"
+        },
+        {
+          "title": "A Digital Twin approach for Advanced Supervoxel Visualization for Multi-Image View in Imaging",
+          "short_description": "This project extends the capabilities of the MedEye3D framework by developing an advanced visualization tool for supervoxel-based comparison across...",
+          "student_name": "Divyansh-Goyal",
+          "code_url": null,
+          "proposal_id": "RIMV79En",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0MEiJ7Ty"
+        },
+        {
+          "title": "Integrating Agents.jl with Reinforcement Learning Techniques",
+          "short_description": "The proposal aims to integrate the Julia package Agents.jl (for agent-based modeling) with ReinforcementLearning.jl or Crux.jl, enabling intelligent...",
+          "student_name": "giorgio bertone",
+          "code_url": null,
+          "proposal_id": "FsEP1SS7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/T5qvWEvO"
+        },
+        {
+          "title": "Implementing a Graph-State Backend for QuantumClifford.jl",
+          "short_description": "QuantumClifford.jl enables efficient simulation of Clifford circuits acting on stabilizer states using the (de)stabilizer formalism, with complexity...",
+          "student_name": "Kanyang Ying",
+          "code_url": null,
+          "proposal_id": "ioO0Njeb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vEtdXncS"
+        },
+        {
+          "title": "Supporting Patient Level Prediction Pipelines within JuliaHealth",
+          "short_description": "The project aims to enhance patient-level prediction (PLP) workflows for OMOP CDM data by developing robust, interoperable tooling within the...",
+          "student_name": "Kosuri Lakshmi Indu",
+          "code_url": null,
+          "proposal_id": "qJtt1NtZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xpSEgu5b"
+        },
+        {
+          "title": "Ab-Initio Quantum Chemistry with Rimu.jl",
+          "short_description": "This project proposes adding new features to Rimu.jl --- a Julia package that implements a random integrator for many-body quantum systems ---...",
+          "student_name": "lch",
+          "code_url": null,
+          "proposal_id": "KHLOSfKn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rIUlYnPe"
+        },
+        {
+          "title": "R Interface for JuliaBUGS",
+          "short_description": "The main goal of this project is to develop the R interface for JuliaBUGS, enabling a broader range of users already familiar with these languages to...",
+          "student_name": "Mateus Maia",
+          "code_url": null,
+          "proposal_id": "6awtv3XJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WgOorFxH"
+        },
+        {
+          "title": "Improving search functionality for Documenter.jl",
+          "short_description": "This project aims to significantly enhance the search experience within documentation generated by Documenter.jl. The current client-side search...",
+          "student_name": "Mohd Rahban Ghani",
+          "code_url": null,
+          "proposal_id": "rP5jGhCZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KGUrSI9I"
+        },
+        {
+          "title": "Time series forecasting at scales",
+          "short_description": "Potential users requiring time series forecasting cannot shift to Julia due to a lack of scalable and efficient packages. The project aims to create...",
+          "student_name": "Priynsh",
+          "code_url": null,
+          "proposal_id": "l9yKH42Q",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gy5J7ewY"
+        },
+        {
+          "title": "Browser-Based Graphical Interface for JuliaBUGS",
+          "short_description": "JuliaBUGS is a modern Julia implementation of the classic Bayesian Inference using Gibbs Sampling \u2014 BUGS language for Bayesian modeling, combining...",
+          "student_name": "Shravanpuri Goswami",
+          "code_url": null,
+          "proposal_id": "TFBJC1aI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4ecMbDwU"
+        },
+        {
+          "title": "Efficient RMA Integration and Graph Partitioning for Scalable Task Execution in MPI-based Dagger.jl",
+          "short_description": "This project aims to optimizing the MPI integration within Dagger.jl by first extending and improving the existing MPI.jl interface, documenting new...",
+          "student_name": "Yan Guimar\u00e3es",
+          "code_url": null,
+          "proposal_id": "yyGDhNfS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aCA4KJ3B"
+        },
+        {
+          "title": "Development of a New Language Server for Julia",
+          "short_description": "The Language Server Protocol (LSP) is a communication protocol between editors and analysis engines. Many major editors support this protocol, making...",
+          "student_name": "Yuchi Yamaguchi",
+          "code_url": null,
+          "proposal_id": "TlN9rASt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9PZY6C2m"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://julialang.org/slack/",
+  "contact_email": "mailto:jsoc@julialang.org",
+  "mailing_list": "https://discourse.julialang.org",
+  "ideas_url": "https://julialang.org/jsoc/projects/",
+  "guide_url": "https://julialang.org/jsoc/guidelines/",
+  "twitter_url": "https://twitter.com/JuliaLanguage",
+  "blog_url": "https://julialang.org/blog/"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "vitrivr",
+  "url": "https://vitrivr.org",
+  "image_url": "https://lh3.googleusercontent.com/a5NdzEGPaMpZwYVi5ZliWes35t5wP6fOzmwlAF1GlUxAm4HYbsc5gTcwYjRyWDgJZe-RdStiC8Rgfivpgxl5xFtBf1Yff2q0lzlS7O3iuM2V",
+  "image_background_color": "#FFFFFF",
+  "category": "Data",
+  "topics": [
+    "databases",
+    "multimedia retrieval",
+    "audio",
+    "3d",
+    "video",
+    "multimedia",
+    "retrieval",
+    "web",
+    "machine learning",
+    "computer vision"
+  ],
+  "technologies": [
+    "java",
+    "machine learning",
+    "web",
+    "databases",
+    "computer vision",
+    "angularjs",
+    "spark",
+    "grpc",
+    "kotlin",
+    "tensorflow",
+    "angular",
+    "typescript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5332691524255744/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Natural Language Query Interface",
+          "short_description": "Today with the advancement in technology, speech recognition applications are becoming more and more useful. Currently vitrivr supports video...",
+          "student_name": "Prateek_Goel",
+          "code_url": "https://prateek1985.github.io/vitrivr-ui/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5015310620950528/"
+        },
+        {
+          "title": "Motion-based Retrieval: Feature Extraction",
+          "short_description": "Current system has 3 problems: 1) It doesn\u2019t account for camera motion; 2) The moving objects are not separated from the background; 3) The motion...",
+          "student_name": "zydu",
+          "code_url": "https://zydu51.github.io/cineast/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5066858013130752/"
+        },
+        {
+          "title": "Cthulhu - Vitrivr Feature Extraction Pipeline",
+          "short_description": "Cthulhu is a simple server-client-based job scheduler developed in Java; named after H.P. Lovecraft's part-octopus god (because it will be able to...",
+          "student_name": "pabloem",
+          "code_url": "https://github.com/vitrivr/cthulhu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4835068560277504/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4801054029905920/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "vitrivr App",
+          "short_description": "This project targets at making Android app for vitrivr. Currently vitrivr has a web UI which is vitrivr-ng but it is not optimised for mobile use....",
+          "student_name": "Vaibhav Maheshwari",
+          "code_url": "https://github.com/iammvaibhav/vitrivr-App",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5189306389889024/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5714570659758080/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implement IIIF read in Cineast",
+          "short_description": "The International Image Interoperability Framework (IIIF) describes a standard to interact with images that are being adopted by an increasing number...",
+          "student_name": "Tanmay Singal",
+          "code_url": "https://gist.github.com/singaltanmay/24006ed15ad899bdd83be0e93bf5a491#vitrivr-ng-iiif-metadata",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6569999967191040/"
+        },
+        {
+          "title": "Vitrivr Reads",
+          "short_description": "Text in a video often conveys information that is not easily expressed otherwise. This project will implement and compare the various existing...",
+          "student_name": "Karan Singh",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vR-9h6nHTrOQdmfNi2Oj1fqEg71iCR4BmMZnvtSaqoK7dJlgcFcjCNzLdsBAuZ-fGQxXwAZhrw7Rl6h/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6034544951558144/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://vitrivr.slack.com",
+  "contact_email": "mailto:gsoc@vitrivr.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/vitrivr",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/vitrivr_org/"
+}

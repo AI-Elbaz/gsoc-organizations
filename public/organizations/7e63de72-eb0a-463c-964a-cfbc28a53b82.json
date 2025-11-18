@@ -1,0 +1,252 @@
+{
+  "name": "GNU Octave",
+  "url": "https://www.octave.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnu-octave/0kc85jo6rl3eo2g0-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "mathematics",
+    "numerical computation",
+    "data processing",
+    "matlab",
+    "numerical and data analysis software",
+    "scientific computing",
+    "numerical methods"
+  ],
+  "technologies": [
+    "c++",
+    "hg"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4799884188188672/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implement boolean operations on polygons",
+          "short_description": "Implement boolean operations on polygon\n\nComputational Geometry has great applications in computer science such as computer graphics, CAD...",
+          "student_name": "Amr Mohamed",
+          "code_url": "https://bitbucket.org/amr_keleg/octave-geometry/commits/all?search=user(Amr)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5461783343005696/"
+        },
+        {
+          "title": "Generalised eigenvalue problem",
+          "short_description": "Certain calling forms of the eig function are currently missing, including:\n\npreliminary balancing\ncomputing left eigenvectors as a third output...",
+          "student_name": "Barbara L\u00f3csi",
+          "code_url": "https://barbaralocsigsoc2016.blogspot.hu/2016/08/summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5066033379409920/"
+        },
+        {
+          "title": "Symbolic Package",
+          "short_description": "This project aims at writing a library in C++ that provides and interface to octave files (.m) to interact with python modules in a more efficient...",
+          "student_name": "Abhinav Tripathi",
+          "code_url": "https://genuinelucifer.wordpress.com/2016/08/22/summary-of-work-done-during-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5334537018015744/"
+        },
+        {
+          "title": "GSoC ode15s project proposal",
+          "short_description": "One of the major missing functions in Octave is ode15s, which is an effective solver for stiff Differential Equations and Differential Algebraic...",
+          "student_name": "FrancescoFaccio",
+          "code_url": "http://gsoc2016ode15s.blogspot.it/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6106026155704320/"
+        },
+        {
+          "title": "GSoC 2016 EXPONENTIAL INTEGRATORS",
+          "short_description": "I propose a project about the implementation of some Exponential Integrators.\nExponential integrators are a class of numerical methods for the...",
+          "student_name": "Chiara Segala",
+          "code_url": "http://gsoc2016exponentialintegrators.blogspot.it/2016/08/final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6328908383256576/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6187477526118400/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "GSoC 2017: Make specfuns special again",
+          "short_description": "Traditionally, problem solving environments like Octave provide simple interfaces to numerical linear algebra, special function evaluation, root...",
+          "student_name": "Michele Ginesi",
+          "code_url": "http://gsocspecfun.blogspot.it/2017/08/final-resume.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5281806362345472/"
+        },
+        {
+          "title": "Improving the interval package - N-dimensional vectors",
+          "short_description": "I'm interested in improving the interval package for Octave by implementing support for N-dimensional vectors. With this I hope to learn more about...",
+          "student_name": "urathai",
+          "code_url": "https://gsocinterval.blogspot.se/2017/08/final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5549056675807232/"
+        },
+        {
+          "title": "Boolean operations with polygons on Octave",
+          "short_description": "I got to know about Octave last year only when I started Machine Learning course of Andrew Ng online. Till then , I only knew abut Matlab. But when I...",
+          "student_name": "PiyushJain",
+          "code_url": "https://github.com/piyush-jain1/GSoC17OctaveGeometry",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4816941248151552/"
+        },
+        {
+          "title": "Neural Networks package: Convolutional Neural Networks",
+          "short_description": "Neural Networks are one of the most breakthrough techniques nowadays. The goal of this project is to perform a radical update to Octave nnet package...",
+          "student_name": "Enrico Bertino",
+          "code_url": "https://gsocnnet.blogspot.com/2017/08/summary-of-work-done-during-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5187659337039872/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6026712471044096/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "A fast and accurate command line suggestion feature",
+          "short_description": "To provide a rich experience to Octave users, the command line suggestion feature, aims to be a fast and accurate method to suggest corrections to...",
+          "student_name": "P SUDEEPAM",
+          "code_url": "https://sudeepam.blogspot.com/2018/08/gsoc-final-post.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6117799197933568/"
+        },
+        {
+          "title": "Octave Code Sharing",
+          "short_description": "This project aims to come up with a pan-octave implementation that could be used to connect to the Octave wiki's webserver with appropriate...",
+          "student_name": "Sahil Yadav",
+          "code_url": "https://bitbucket.org/me_ydv_5/octave/wiki/Home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4849718693724160/"
+        },
+        {
+          "title": "Interactive tool for SISO Linear Control System Design",
+          "short_description": "GNU Octave is a high-level programming language for scientific and numerical computations which uses the m-script language compatible with MATLAB....",
+          "student_name": "Erivelton Gualter",
+          "code_url": "https://eriveltongualter.github.io/GSoC2018/final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5143121935466496/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6521761976287232/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4670095013445632/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "JSON encoding/decoding",
+          "short_description": "JavaScript Object Notation, in short JSON, is a very common human readable and structured data format. Unfortunately, GNU Octave still lacks builtin...",
+          "student_name": "Abdallah Elshamy",
+          "code_url": "https://abdallah-elshamy.github.io/GSoC-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5567022663991296/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5764694136061952/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Jupyter Notebook Integration",
+          "short_description": "The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations,...",
+          "student_name": "Abdallah Elshamy",
+          "code_url": "https://abdallah-elshamy.github.io/GSoC-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5966212021878784/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gnu-octave/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "ode15{i,s} : Matlab Compatible DAE solvers",
+          "short_description": "Matlab-Compatible ODE Solvers in Octave comprise a set of solvers for initial value problems for ordinary differential equations (ODEs) that aim to...",
+          "student_name": "Sarrah Bastawala",
+          "code_url": "https://sarrah-basta.github.io/blogs/2022/09/11/GSoC_'22_GNU_Octave_Project_Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fg4hsOK0/"
+        },
+        {
+          "title": "Improve TIFF image support",
+          "short_description": "The aim of the project is to improve the way Octave handles TIFF images by using a specialized library (libtiff) to load and handle tiff images...",
+          "student_name": "Maged Rifaat",
+          "code_url": "https://github.com/magedrifaat/GSoC2022-Octave-Tiff",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EJ2ywyMC/"
+        },
+        {
+          "title": "GSoC 2022 Symbolic package project proposal",
+          "short_description": "The symbolic package for Octave, octsympy, is a highly demanded package and an important project to the community. As such, it is important to keep...",
+          "student_name": "Alex Vong",
+          "code_url": "https://wiki.octave.org/GSoC_2022_Symbolic_package_project_final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wzvM80S0/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gnu-octave",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Addition of regression GAM and kNN classification functionality in statistics package",
+          "short_description": "The project aims to enhance the Statistics package in the GNU Octave by adding Generalised Additive Models (GAMs) Regression and kNN classification...",
+          "student_name": "Azmat Khan",
+          "code_url": "https://azm999.hashnode.dev/gsoc23-final-report",
+          "proposal_id": "ijL5UnY2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XDEr4S3N"
+        },
+        {
+          "title": "Improve the State of octave-pythonic",
+          "short_description": "octave-pythonic is an octave package used to incorporate python libraries and features in octave using the cpython interpreter. Currently...",
+          "student_name": "Vipul Cariappa",
+          "code_url": "https://www.vipulcariappa.xyz/blogs/GSoC-2023-Blog-Final.html",
+          "proposal_id": "Mgu8a5Sp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aeEAbtyR"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gnu-octave/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adding ClassificationSVM, ClassificationNeuralNetwork to the Statistics Package of Octave",
+          "short_description": "My project aims to enhance the GNU Octave Statistics package by implementing missing functionalities, specifically focusing on adding the missing...",
+          "student_name": "Pallav Purbia",
+          "code_url": "https://drive.google.com/file/d/15nwE0IV9glrHgkwvb5KdtiwgVt-5RHdS/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/L6MlAMg0/"
+        },
+        {
+          "title": "Adding GAM and Discriminant Classification Classes and Implementing Missing Methods",
+          "short_description": "This proposal aims to significantly extend the classification capabilities of the GNU Octave statistics package by implementing additional methods...",
+          "student_name": "Ruchika Sonagote",
+          "code_url": "https://ruchika03.hashnode.dev/gsoc24-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/REWm5jlS/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gnu-octave",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adding clustering *Searcher classes in statistics package",
+          "short_description": "The GNU Octave Statistics package lacks class definitions for knnsearch and rangesearch, and its KDTree method is currently disabled due to poor...",
+          "student_name": "Swayam Shah",
+          "code_url": null,
+          "proposal_id": "nKCwChqz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vf4W0YiX"
+        },
+        {
+          "title": "Porting Chebfun to GNU Octave",
+          "short_description": "I propose to work on the following project: porting the Chebfun package to GNU Octave. Chebfun is a numerical computation package for MATLAB that...",
+          "student_name": "Thomas Kolman",
+          "code_url": null,
+          "proposal_id": "Zfh8hxrh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6xbfUWnM"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://octave.discourse.group/",
+  "contact_email": "mailto:octave-maintainers@gnu.org",
+  "mailing_list": "https://octave.discourse.group/",
+  "ideas_url": "https://wiki.octave.org/Summer_of_Code_-_Getting_Started#Suggested_projects",
+  "guide_url": "https://wiki.octave.org/Summer_of_Code_-_Getting_Started",
+  "blog_url": "https://octave.discourse.group/"
+}

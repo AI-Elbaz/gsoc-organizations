@@ -1,0 +1,170 @@
+{
+  "name": "Canadian Centre for Computational Genomics",
+  "url": "http://computationalgenomics.ca/",
+  "image_url": "https://lh3.googleusercontent.com/hXX62uOn8pUlexFTn2Er3l4zM9wSRNIQlIBIzMVDUKcvzO1q_3nxncfItwGxYsKSVOVzR1n0zoZ4JpDGPGlHJQi00q8YVsU",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "genomics",
+    "bioinformatics",
+    "statistics",
+    "population genetics",
+    "data science",
+    "next-generation sequencing",
+    "web",
+    "science",
+    "web development"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "sql",
+    "git",
+    "r-project",
+    "perl",
+    "r",
+    "bash",
+    "awk",
+    "react",
+    "node.js"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5630110493310976/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integrate structural variants calls in the tumor_pair pipeline from MUGQIC Pipeline",
+          "short_description": "The goal of this project is to implement additional steps in the tumor_pair pipeline in order to integrate Structural Variant detection in the...",
+          "student_name": "Tushar Dubey",
+          "code_url": "https://docs.google.com/document/d/1yoOaCmXKc6AXuhj5Gsmu7PxdYdz8O6kqrRd3Z6kaKYM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5100032340525056/"
+        },
+        {
+          "title": "Improved Tools for Genetic Diversity Modelling",
+          "short_description": "Interpreting genomic data largely relies on simulation software. One important family of software simulates population-level diversity over the...",
+          "student_name": "wlong799",
+          "code_url": "https://gist.github.com/wlong799/2734e30df249bb088fca09d03198b730",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5538756002054144/"
+        },
+        {
+          "title": "Improving SegAnnDB genomic segmentation app",
+          "short_description": "SegAnnDb  (Segmentation Annotation Database) is a web app, which helps researchers analyze a chromosome profile for copy number alterations in genes....",
+          "student_name": "abstatic",
+          "code_url": "http://abstatic.github.io/gsoc-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6010805925445632/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5194176413040640/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Providing Public Accessibility for SegAnnDB",
+          "short_description": "This project will expand the public accessibility of SegAnnDB as well as work on providing integrations with the UCSC Genome Browser and Galaxy.",
+          "student_name": "Alan Williams",
+          "code_url": "https://medium.com/alans-gsoc-blog/work-product-a1080d175160",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5108068090118144/"
+        },
+        {
+          "title": "Efficient frequency spectrum computation over large sample sizes",
+          "short_description": "The goal of the summer project is to revise the current implementation so that it can compute large frequency spectra efficiently. As a result,...",
+          "student_name": "Ruijian An",
+          "code_url": "https://bitbucket.org/snippets/RuijianSZ/MeLa8r/moments-google-summer-of-code-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5948458435346432/"
+        },
+        {
+          "title": "Population genetics simulation and modeling using reinforcement learning",
+          "short_description": "The problem of population genetics can be viewed as a stochastic process. The aim of the project is to understand the reverse transition dynamics of...",
+          "student_name": "Arjun Karuvally",
+          "code_url": "https://github.com/arjun23496/GSOC-2018/blob/master/Tutorial.ipynb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5187247892594688/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5152322794029056/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Flowchart creator for GenPipes",
+          "short_description": "Genpipes is a set of software pipelines designed for genomic analysis. There are currently seven different pipelines and three more are in the...",
+          "student_name": "Madhav Vats",
+          "code_url": "https://bitbucket.org/snippets/madhavvats/eA8nA7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5737956432674816/"
+        },
+        {
+          "title": "MiCM Project Match",
+          "short_description": "The main objective of McGill initiative in Computational Medicine (MiCM) is to deliver inter-disciplinary research programs and empower the use of...",
+          "student_name": "Pranav Tharoor",
+          "code_url": "https://github.com/pranavtharoor/micm-project-match",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6479427641278464/"
+        },
+        {
+          "title": "Batchtools for Compute Canada",
+          "short_description": "In this project we will work on the new CC systems (Beluga, Graham, Cedar, Niagara) and potentially mp2 trying to automate the setup of things like...",
+          "student_name": "Konstantinos Kyriakidis",
+          "code_url": "https://github.com/kokyriakidis/batchtoolscc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6532285921230848/"
+        },
+        {
+          "title": "Human history and genome evolution project proposal",
+          "short_description": "There has been a recent surge in the development of open-source computational methods for simulating human evolution and analyzing human genome data....",
+          "student_name": "Jiahuang Lin",
+          "code_url": "https://github.com/jiahuanglin/GSoC2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5823211852267520/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5106421244362752/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Ingesting the Canadian Common CV",
+          "short_description": "The Canadian Common CV (CCV) is a tool that allows Canadian researchers to input their resume in a standardized format. It is used by multiple...",
+          "student_name": "Harshit Maheshwari",
+          "code_url": "https://gist.github.com/hmharshit/22663905ca08ed79e0a053ae773f45d6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6406033418747904/"
+        },
+        {
+          "title": "DevOps for GenPipes",
+          "short_description": "DevOps for GenPipes would create an automatic deployment of the GenPipes project in the cloud using Terraform. It would support multiple cloud...",
+          "student_name": "Mohd Arshul Mansoori",
+          "code_url": "https://gist.github.com/arshul/2ec6271f2f80a67db08fdb5de3d18e27",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6602025191604224/"
+        },
+        {
+          "title": "Large-scale modeling of genetic data",
+          "short_description": "The objective of the problem arises from the reconstruction of gene genealogies problem - from a given genotypes of sequence data from contemporary...",
+          "student_name": "Andjela Todorovic",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vTtTOMd8SRMk1E_PBjZDz7oTux2O11ZvAzTjVBYLk3tl9RXpEXMkRy-cmA3UqYN8-y8vx2y0Q8mMWzb/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5471532320555008/"
+        },
+        {
+          "title": "Development of a Long-read Nanopore RNA-seq pipeline in GenPipes",
+          "short_description": "The majority of contemporary genomics and transcriptomics research is carried out using short-read technology such as the output of Illumina...",
+          "student_name": "Konstantinos Kyriakidis",
+          "code_url": "https://bitbucket.org/kokyriakidis/genpipes/src/nanopore_rnaseq/pipelines/nanopore_rnaseq/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6257578411032576/"
+        },
+        {
+          "title": "Automatic update of the C3G software stack catalog",
+          "short_description": "GenPipes is an important tool by C3G. GenPipes contains a suite of different software. The software contained in the suite is continuously updated...",
+          "student_name": "Moonshroom",
+          "code_url": "https://github.com/abotiamnot/c3g_fin/tree/master/module_helpers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6501188956061696/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@computationalgenomics.ca",
+  "mailing_list": "https://bitbucket.org/mugqic/gsoc_2020/src/master/mailing_list.md",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/C3Genomics",
+  "blog_url": "https://groups.google.com/forum/#!forum/mugqic_pipelines"
+}

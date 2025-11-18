@@ -1,0 +1,165 @@
+{
+  "name": "TARDIS RT Collaboration",
+  "url": "https://tardis-sn.github.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/tardis-rt-collaboration/0ocxr3jw3fwdloye-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "big data",
+    "simulation",
+    "astrophysics"
+  ],
+  "technologies": [
+    "python",
+    "numba",
+    "numpy",
+    "jupyter",
+    "pandas"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/tardis-rt-collaboration/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Resuming TARDIS Simulations from HDF",
+          "short_description": "Currently, TARDIS simulations run quickly and thus pausing and resuming a simulation is not necessary. However, future additions to the code may...",
+          "student_name": "Satwik Kambham",
+          "code_url": "https://code-explorer.github.io/GSOC_2022_Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RD6PU1xK/"
+        },
+        {
+          "title": "Monte Carlo 2D Packet Visualization",
+          "short_description": "TARDIS uses a monte carlo method to propagate photon packets through a model of an exploded star. As these virtual packets move through the ejecta...",
+          "student_name": "Jayant bhakar",
+          "code_url": "https://sites.google.com/view/jayant-gsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CfP6hTdM/"
+        },
+        {
+          "title": "Improving the Carsus Testing Framework",
+          "short_description": "This project aims to improve the current Carsus testing framework and add a version key to Carsus output format. Along with this, the project would...",
+          "student_name": "Atharva Arya",
+          "code_url": "https://www.atharvaarya.tech/google-summer-of-code-2022-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VI1FUJJa/"
+        },
+        {
+          "title": "Tardis Setups Framework",
+          "short_description": "Tardis is an open-source project designed for rapid spectral modelling of supernovae. Astrophysicists widely use it to model supernovas. When new...",
+          "student_name": "Rohith Varma Buddaraju",
+          "code_url": "https://sites.google.com/view/rohith-varma-gsoc22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/M1wKU03z/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/tardis-rt-collaboration",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Inner Boundary Velocity Solver",
+          "short_description": "TARDIS operates on a \u201cphotospheric\u201d inner boundary approximation. A hard inner boundary in velocity is set from which radiative packets are emitted...",
+          "student_name": "Ansh_49",
+          "code_url": "https://docs.google.com/document/d/1qXd7ps3rxMk0x2He3ZKlaWR8125VJ8rzbKXBb6m03hw/edit?usp=sharing",
+          "proposal_id": "exwjVkkq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uyYkVw0V"
+        },
+        {
+          "title": "Grotrian Diagram Visualisation",
+          "short_description": "TARDIS generates synthetic observations of stellar explosions that can be compared to real observations. With such comparisons, we can learn more...",
+          "student_name": "Ayushi Daksh",
+          "code_url": "https://docs.google.com/document/d/1zDZcunshy0eAD7W11okAVryDAjYNBQPggi_OiRVZ2_8/edit?usp=sharing",
+          "proposal_id": "PtRP31Es",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HxymUMRe"
+        },
+        {
+          "title": "STARDIS Parallelization and GPU",
+          "short_description": "Most of the functions in STARDIS generate and loop over huge numpy arrays, that are over a million elements. Initializing the array requires...",
+          "student_name": "light2802",
+          "code_url": "https://gist.github.com/light2802/b7d2d019e8f0a02d4b3b8d0eea047811",
+          "proposal_id": "L78bF5xM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/LhiIWAnR"
+        },
+        {
+          "title": "Having Versioned Atomic Data Repositories",
+          "short_description": "Carsus generates an HDF file by combining data from various sources. This HDF file can be used by Tardis to generate Atomic Spectra. However, when a...",
+          "student_name": "Shikha Rathi",
+          "code_url": "https://gist.github.com/s-rathi/5ece9b45b03d43cc7ad4c53d9da24c6c",
+          "proposal_id": "707kSH7s",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tXpWIPLe"
+        },
+        {
+          "title": "Import and Store NNDC Deposition Data",
+          "short_description": "TARDIS has a new module that transports gamma rays created by nuclear decay. The NNDC stores nuclear decay data in a format that is difficult to read...",
+          "student_name": "Shreyas Singh",
+          "code_url": "https://sites.google.com/view/shreyas-gsoc2023-tardis/home",
+          "proposal_id": "gn3k5aoM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/F7C111oc"
+        },
+        {
+          "title": "STARDIS Parallelization and GPU with Numba, C/C++ Extensions, and CUDA",
+          "short_description": "The main goal for this project is to improve the speed of STARDIS, a Python library that generates synthetic spectra for stars. An easy way to...",
+          "student_name": "smokestacklightnin",
+          "code_url": "https://sites.google.com/view/smokestacklightnin-gsoc-2023/home",
+          "proposal_id": "Tbh9vRIk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/sm8D0H9D"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/tardis-rt-collaboration/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "TARDIS Benchmarking and Performance Improvement",
+          "short_description": "The first half of the project which is writing benchmarks and improving the webpage for storing it. In order to achieve this goal I will be using...",
+          "student_name": "Asish Kumar",
+          "code_url": "https://gist.github.com/officialasishkumar/3ddcb3b732c9459d8a917da6852952cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Xglqxr46/"
+        },
+        {
+          "title": "Enhancing Packet Trackers",
+          "short_description": "TARDIS provides ways to simulate and analyze supernovae. Currently, as a visualization tool, we have the \"Spectral element DEComposition (SDEC)...",
+          "student_name": "Sumit_Gupta",
+          "code_url": "https://gist.github.com/Sumit112192/fc0140fa2d11bb903bd2d0e0ce0c8462",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1VNxItcN/"
+        },
+        {
+          "title": "Velocity Packet Tracker Visualization",
+          "short_description": "Understanding photon-ion interactions within ejecta is crucial for interpreting astronomical spectra. While the TARDIS SDEC plot visualizes which...",
+          "student_name": "Sarthak Srivastava",
+          "code_url": "https://sites.google.com/view/sarthak-gsoc2024/home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dyvYc2Qb/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/tardis-rt-collaboration",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Line Identification Plotting Functionality",
+          "short_description": "This project will result in functionality for both TARDIS and STARDIS to identify and display a user provided list of atomic and molecular lines to...",
+          "student_name": "Haille Perkins",
+          "code_url": null,
+          "proposal_id": "0gsx1esE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Lrr5ZL0u"
+        },
+        {
+          "title": "Regression Data Dashboard and HDF Writing Capabilities of TARDIS Modules",
+          "short_description": "TARDIS implements a regression testing framework which is used to compare the current output of TARDIS to a saved data repository to validate code....",
+          "student_name": "Riddhi Gangbhoj",
+          "code_url": null,
+          "proposal_id": "ChvI46XG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nV27R9ep"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/tardis-sn/gsoc",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://tardis-sn.github.io/summer_of_code/ideas/",
+  "guide_url": "https://tardis-sn.github.io/summer_of_code/gsoc_home/",
+  "twitter_url": "https://twitter.com/tardis_sn"
+}

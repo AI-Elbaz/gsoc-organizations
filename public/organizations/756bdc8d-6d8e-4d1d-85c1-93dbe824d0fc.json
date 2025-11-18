@@ -1,0 +1,986 @@
+{
+  "name": "LLVM Compiler Infrastructure",
+  "url": "http://www.llvm.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/llvm-compiler-infrastructure/ize6lrlftlvdxtqe-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "optimization",
+    "static code analysis\u200e",
+    "compiler",
+    "backend",
+    "frontend",
+    "compilers",
+    "compiler api",
+    "code analysis",
+    "programming languages and development tools",
+    "debuggers",
+    "development tools",
+    "libraries"
+  ],
+  "technologies": [
+    "c",
+    "llvm",
+    "c++",
+    "clang",
+    "mlir"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5806108052553728/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Finding and analysing copy-pasted code with clang",
+          "short_description": "Copy-pasted code is dangerous because it introduced bugs and makes projects harder to maintain. This proposal is about creating tools for finding...",
+          "student_name": "Teemperor",
+          "code_url": "https://docs.google.com/document/d/1V54-X3hXt_kZ91c4NHPn-k0kAYO230b8zFhIdwGpYy0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5307118483668992/"
+        },
+        {
+          "title": "Interprocedural Register Allocation in LLVM",
+          "short_description": "The objective of this project is to implement a simple interprocedural register allocation that attempts to minimize register spill code by...",
+          "student_name": "Vivek Pandya",
+          "code_url": "https://docs.google.com/document/d/1v-R7gB7Or4bPn0LW7d-yb1yla8jK3DVmTJNFVNYNu6k/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6189040357343232/"
+        },
+        {
+          "title": "SAFECode\u2019s Memory Policy Hardening",
+          "short_description": "Monolithic kernels, like linux, did not provide a hardening mechanism on the kernel modules\u2019 memory access. Modules in Linux could do almost...",
+          "student_name": "Zhengyang Liu",
+          "code_url": "https://github.com/zhengyangl/safecode-llvm37/commits?author=zhengyangl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4811739371667456/"
+        },
+        {
+          "title": "Improvement of vectorization process in Polly",
+          "short_description": "Polly can perform classical loop transformations, exploit OpenMP level parallelism, expose SIMDization opportunities. However, due to the lack of a...",
+          "student_name": "groman",
+          "code_url": "http://lists.llvm.org/pipermail/llvm-dev/2016-August/103986.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4902396467609600/"
+        },
+        {
+          "title": "Enabling llvm\u2019s self-hosted modules builds using libstdc++",
+          "short_description": "A Module System for C++ is on its way to the C++ standard.\nThe current state of the Module System, although fairly stable, it has a few bugs for C++...",
+          "student_name": "CrisCristescu",
+          "code_url": "https://docs.google.com/document/d/1Y2D9HjiFGrbZOOKd33sDbo-N0MJ1MVA2vZ8EQWfghnc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5766827892277248/"
+        },
+        {
+          "title": "Polly as an Analysis Pass in LLVM",
+          "short_description": "The Polyhedral framework provides an exact dependence analysis, which is more powerful than conventional dependence testing algorithms. Currently,...",
+          "student_name": "Utpal",
+          "code_url": "http://utpalbora.com/gsoc/2016.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5932114339954688/"
+        },
+        {
+          "title": "Better Alias Analysis By Default",
+          "short_description": "The cfl-aa pass implemented by Gerorge Burgess IV back in GSoC 2014 is a fast, precise and interprocedural analyses that overcomes many deficiencies...",
+          "student_name": "grievejia",
+          "code_url": "https://github.com/grievejia/GSoC2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6292280902156288/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6215410651234304/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "ThinLTO Optimizations",
+          "short_description": "I would like to work on ThinLTO to improve and tune performance. This will require some analysis to determine what optimizations to add, as well as...",
+          "student_name": "Charles Saternos",
+          "code_url": "https://gist.github.com/charles-l/d764ba4b4da9868cc92c400d9f701944",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6604432145907712/"
+        },
+        {
+          "title": "Clang-based C/C++ diff tool",
+          "short_description": "I want to implement a structural diff tool atop of clang APIs that finds changes to the AST between two versions of a file. This would enable better...",
+          "student_name": "Johannes Altmanninger",
+          "code_url": "https://github.com/krobelus/clang-diff-playground",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5575260673933312/"
+        },
+        {
+          "title": "Warn if virtual calls are made from constructors or destructors",
+          "short_description": "In C++, virtual functions let instances of related classes have different behavior at run time. Pure function called from constructors and...",
+          "student_name": "Xin Wang",
+          "code_url": "https://docs.google.com/document/d/1OL4w0HrvjgPY-zQb_p4yTMFDrYcjvxu0frcAjedLJs8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4512343912349696/"
+        },
+        {
+          "title": "Enable Polyhedral Optimizations in XLA through LLVM/Polly",
+          "short_description": "TensorFlow is a popular machine learning and deep learning framework developed by Google. Despite its recent launch in late 2015, it has been widely...",
+          "student_name": "Annanay Agarwal",
+          "code_url": "http://pollylabs.org/gsoc2017/Enable-Polyhedral-Optimizations-in-XLA-through-LLVM-Polly.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4648576248446976/"
+        },
+        {
+          "title": "ISL Memory Management Using Clang Static Analyzer",
+          "short_description": "Maintaining consistency while manual reference counting is very difficult. Languages like Java, C#, Go and other scripting languages employ garbage...",
+          "student_name": "malhar1995",
+          "code_url": "https://docs.google.com/document/d/1oC3qxh_q-Ly8DVsijcb4U5H8pkcA-19OR8NCeYthBN8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6018159446327296/"
+        },
+        {
+          "title": "Building bash-completion for clang",
+          "short_description": "Shell completion is a function which developers use everyday. Typing \"ls -\" and pressing [tab] will return a list of probable options, and typing...",
+          "student_name": "Yuka Takahashi",
+          "code_url": "https://docs.google.com/document/d/1ivQ3fkj5QmkFfwL4rTt2vDzo1WivegrJYemUCXZPols/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6028167256997888/"
+        },
+        {
+          "title": "Improved Loop Execution Modeling in Clang Static Analyzer",
+          "short_description": "The current implementation of modeling a loop is quite simple in the Clang Static Analyzer. This simple approach results a loss of coverage, which...",
+          "student_name": "P\u00e9ter Sz\u00e9csi",
+          "code_url": "http://lists.llvm.org/pipermail/cfe-dev/2017-August/055259.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6071606019358720/"
+        },
+        {
+          "title": "Enabling Julia to target GPGPUs using Polly",
+          "short_description": "Polly can now automatically offload suitable kernels to GPUs in the form of Polly-ACC, saving a lot of developer time and effort. Julia, a modern...",
+          "student_name": "Singapuram Sanjay S.V.",
+          "code_url": "http://hpc-thoughts.blogspot.in/2017/08/wrapping-up-my-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4839028788559872/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5263452624912384/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implement a single updater class for Dominators",
+          "short_description": "Dominance relationship is used widely in many compiler analyses and optimizations. The current API provided by LLVM to update the dominator tree and...",
+          "student_name": "Chijun Sima",
+          "code_url": "https://docs.google.com/document/d/1hubvaiQxQSBR9H9TOnH1nrtSusEr3vg5sXVLGj7xrHE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6626660145168384/"
+        },
+        {
+          "title": "Re-implement lldb-mi on top of the LLDB public API",
+          "short_description": "The project goal is to re-implement lldb-mi to avoid using of HandleCommand and regular expressions to parse commands results.",
+          "student_name": "Alexander Polyakov",
+          "code_url": "https://apolyakov.github.io/GSoC-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5703595034935296/"
+        },
+        {
+          "title": "Using the Z3 SMT Solver to Validate Bugs Reported by the Clang Static Analyzer",
+          "short_description": "The goal of this project is to provide a new option in the clang static analyzer to validate (or refute) reported bugs, by using an SMT solver. The...",
+          "student_name": "Mikhail Y R Gadelha",
+          "code_url": "https://gist.github.com/mikhailramalho/1f7813e8add0b2fbe4aba6e2977fd121",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5711866470858752/"
+        },
+        {
+          "title": "Move the apt.llvm.org CI to OBS",
+          "short_description": "LLVM uses a Jenkins instance and Jenkins-Debian-Glue to build LLVM, Clang, clang extra tools, compiler-rt, polly, LLDB and LLD packages for the...",
+          "student_name": "Reshabh Sharma",
+          "code_url": "https://resharma.github.io/GSoC-18-LLVM/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5249693294526464/"
+        },
+        {
+          "title": "A checker for dangling string pointers in C++",
+          "short_description": "The C++ std::string class provides a c_str() method that returns a raw pointer to a string's inner character buffer. When a std::string is destroyed,...",
+          "student_name": "R\u00e9ka Nikolett Kov\u00e1cs",
+          "code_url": "https://rnkovacs.github.io/gsoc2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6487597828276224/"
+        },
+        {
+          "title": "Improve Debugging of Optimized Code",
+          "short_description": "Measure DebugInfo loss statistics.\nFind the cause.\nFix the culprit transformations starting from the most used areas of the compiler.",
+          "student_name": "gramanas",
+          "code_url": "https://gramanas.github.io/llvm-devlog/posts/gsoc-2018-improving-debugging-of-optimized-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6319383085318144/"
+        },
+        {
+          "title": "Devirtualization v2",
+          "short_description": "In this project I would like to implement proposal \u201cRFC: C++ Devirtualization v2\u201d that I was working on for a quite some time with help from other...",
+          "student_name": "Piotr Padlewski",
+          "code_url": "https://docs.google.com/document/d/1EndNPLxBQIoibVRzwmxgdJQ3VeDs9RSGJsbiQd3kSrU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5138380291571712/"
+        },
+        {
+          "title": "Command line replacements for GNU Binutils",
+          "short_description": "A lot of GNU binutils have their equivalent in the LLVM project. As the majority of people are already accustomed to the GNU ones, it would be great...",
+          "student_name": "Paul Semel",
+          "code_url": "http://paulsemel.org/posts/command-line-replacements-in-llvm-binutils/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5171359936151552/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5682474363912192/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "libObjectcopy",
+          "short_description": "Working on librarifying llvm-objcopy for use throughout binutils. Creating a good base for a library such that many object file formats can be added...",
+          "student_name": "Alex Brachet",
+          "code_url": "https://docs.google.com/document/d/1exOTzVC9NoLk9do_hVpezPVim7Kq63-3TyJOOkrK-eg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6456990732124160/"
+        },
+        {
+          "title": "Improve (function) attribute inference",
+          "short_description": "LLVM functions can be tagged with several attributes. These attributes are used in optimizations to decide whether a particular transformation is...",
+          "student_name": "Hideto Ueno",
+          "code_url": "https://docs.google.com/document/d/1CYOIST6X8VYknVvMTaW8dBdhaPbHu1r6oDb_FmJ8t7M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6690711963959296/"
+        },
+        {
+          "title": "Improve (function) attribute inference",
+          "short_description": "LLVM functions, as well as arguments and other entities, can be tagged with several attributes such as the function only reads memory, or the...",
+          "student_name": "Stefan Stipanovic",
+          "code_url": "https://docs.google.com/document/d/18xCzG8gCI-oCzGSXeKsmCODaXG0RQ0q8R5pH2bJVkYc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5003353329762304/"
+        },
+        {
+          "title": "Speculative compilation in LLVM ORC - Just in time APIs",
+          "short_description": "One of the selling points of new LLVM ORC Concurrent JIT APIs is we can speculatively compile functions before we need it, with the hope that when we...",
+          "student_name": "PreeJackie",
+          "code_url": "https://preejackie.github.io/GSoC-2019-LLVM/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4511410007048192/"
+        },
+        {
+          "title": "Apply the Clang Static Analyzer to LLVM-based projects",
+          "short_description": "The idea is to improve the Clang Static Analyzer so that it is useful for developers who work on Clang and LLVM themselves, as well as on other...",
+          "student_name": "Charusso",
+          "code_url": "https://docs.google.com/document/d/1o9-xEWbzivUGKIOXp9jUNZYq0mkecd5KH5dBN5Hdlu8/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4876350878384128/"
+        },
+        {
+          "title": "Generation of Annotated Sources",
+          "short_description": "LLVM automatically derives facts that are only used while the respective translation unit, or LLVM module, is processed (i.e. constant function,...",
+          "student_name": "William Moses",
+          "code_url": "https://github.com/wsmoses/LLVM-HTO",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5802146514075648/"
+        },
+        {
+          "title": "Improve LLVM binary utilities",
+          "short_description": "LLVM includes binary utilities equivalent to GNU binutils. Basic functionalities are done but there are incomplete ones such as Mach-O support. This...",
+          "student_name": "Seiya Nuta",
+          "code_url": "https://seiya.me/gsoc19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5871651231629312/"
+        },
+        {
+          "title": "Enhancing bug reports in the Clang Static Analyzer",
+          "short_description": "The Clang Static Analyzer (analyzer) can discover errors in a code by a technique called symbolic execution. Its core essentially interprets C, C++,...",
+          "student_name": "Krist\u00f3f Umann",
+          "code_url": "https://szelethus.github.io/gsoc2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5955012805525504/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5902726635978752/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Improve Parallelism-Aware Analyses and Optimizations",
+          "short_description": "Parallelism is used to improve performance. In sequential languages, parallelism is introduced with parallel constructs. However, it doesn\u2019t come...",
+          "student_name": "Stefan Stipanovic",
+          "code_url": "https://docs.google.com/document/d/1kLauQ34abH6S3fqMdamuywliLiKQ0wHkBM67VVJ9AwE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6353920667942912/"
+        },
+        {
+          "title": "Add DWARF Support for yaml2obj",
+          "short_description": "LLVM offers 2 useful YAML tools, yaml2obj and obj2yaml. The former one reads YAML files and emits object files, e.g., ELF, COFF and MachO. The latter...",
+          "student_name": "Xing GUO",
+          "code_url": "https://higuoxing.com/archives/my-journey-with-llvm-iii/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5664891983101952/"
+        },
+        {
+          "title": "Advanced Heuristics for Ordering Compiler Optimization Passes",
+          "short_description": "Selecting optimization passes for given application is very important but non-trivial problem because of the huge size of the compiler transformation...",
+          "student_name": "Hideto Ueno",
+          "code_url": "https://docs.google.com/document/d/1pbUPRSjYL5QHLEkwNTjnvdYvgiKaYO_LpyNaTKhTWEA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5744246235070464/"
+        },
+        {
+          "title": "Improve hot cold splitting to aggressively outline small blocks",
+          "short_description": "This project aims at enhancing the ability to detect and split small cold blocks (for example, __assert_rtn, throws) to the existing hot/cold...",
+          "student_name": "Ruijie Fang",
+          "code_url": "https://tr5.org/~ruijie/gsoc20_hcs/index.xhtml",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5461277146611712/"
+        },
+        {
+          "title": "Unify ways to move code or check if code is safe to be moved",
+          "short_description": "LLVM transformation passes use code motion in different types of transformations. All these passes have some embedded code motion safety checks and...",
+          "student_name": "Rithik Sharma",
+          "code_url": "https://docs.google.com/document/d/1W6Q2mh4kV38aNVm9V49COGIHTVw6z4JK2tsVNj6yGiU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5488234206855168/"
+        },
+        {
+          "title": "Support autosuggestions in LLDB's command line",
+          "short_description": "Tab completion in LLDB is a very useful function for users. However, it is needed that users press  [tab] key to confirm completion. If they can...",
+          "student_name": "Shu Anzai",
+          "code_url": "https://docs.google.com/document/d/1voJUm6VkrD6eeXshO-heiVCFMHD4dSpegNK2X5Go8mU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4998656656146432/"
+        },
+        {
+          "title": "Advanced Heuristics for Ordering Compiler Optimization Passes",
+          "short_description": "Compilers come with hundreds of optimization passes, making it difficult to select which passes to run and deciding the order in which to execute...",
+          "student_name": "Tarindu Jayatilaka",
+          "code_url": "https://github.com/tarinduj/Google-Summer-of-Code-2020/blob/gh-pages/index.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4686518431514624/"
+        },
+        {
+          "title": "Implement the missing tab completions for LLDB's command line",
+          "short_description": "To implement the missing tab completions for LLDB's command line as the title goes, I dug out possible commands as targets and provided a list of...",
+          "student_name": "Gongyu Deng",
+          "code_url": "https://docs.google.com/document/d/1iZ4ZzGMhAwFYqFByd0mrj_K8E9qwlvT3HcikiU5WrJU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4788006629670912/"
+        },
+        {
+          "title": "SPIR-V to LLVM IR dialect conversion in MLIR",
+          "short_description": "MLIR is a novel compiler infrastructure that enables multi-level abstraction and therefore enhances reusability and extensibility. The core concept...",
+          "student_name": "George Mitenkov",
+          "code_url": "https://github.com/georgemitenkov/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4834194204655616/"
+        },
+        {
+          "title": "Find null smart pointer dereferences with the Static Analyzer",
+          "short_description": "The Clang Static Analyzer is used to find bugs in the program by analyzing source code without compiling and executing. It uses symbolic computations...",
+          "student_name": "Nithin V Rajendrakumar",
+          "code_url": "https://docs.google.com/document/d/1WZSt45kZUhg0UbOv0HXBhyEYaHrb-G-TpEhj_nU041Q/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6569507994206208/"
+        },
+        {
+          "title": "Improve inter-procedural analyses and optimizations",
+          "short_description": "LLVM IR has some attributes which can be attached to function, argument, callsite, et cetera. These attributes guarantee a property corresponding to...",
+          "student_name": "Shinji Okumura",
+          "code_url": "https://docs.google.com/document/d/129OA2613huaNWVVKBAvYZU02IzFAC2oDx9JKabrkLfk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6072445691232256/"
+        },
+        {
+          "title": "Latency Hiding for Host to Device Memory Transfers",
+          "short_description": "Given the increasing number of use cases for massively parallel devices (GPUs), solving the problems they bring have become an important research...",
+          "student_name": "Hamilton Tobon Mosquera",
+          "code_url": "https://hamax97.github.io/projects/gsoc2020-llvm/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6001003540774912/"
+        },
+        {
+          "title": "Improve MergeFunctions to incorporate MergeSimilarFunctions patches and ThinLTO Support",
+          "short_description": "The project aims at providing the MergeFunctions pass in LLVM to have feature parity with the MergeSimilarFunctions pass, which can merge functions...",
+          "student_name": "Vishal Chebrolu",
+          "code_url": "https://gist.github.com/vish99/7f1454a03d78d466989b6c982ccf59dc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6264661214756864/"
+        },
+        {
+          "title": "Improve inter-procedural analyses and optimizations",
+          "short_description": "In this project we aim to improve the deduction capabilities of the Attributor framework.",
+          "student_name": "Kuter Dinel",
+          "code_url": "https://docs.google.com/document/d/1Lc9ffBoyDX-aTf_vA-rs2G_3kj9e3PUc278mcwTxzxg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6328558382743552/"
+        },
+        {
+          "title": "Deduce attributes for non-exact functions",
+          "short_description": "A function that is non-exactly defined is a function that could be replaced at link time. Usually most of the non-inlining IPOs are inhibited. For...",
+          "student_name": "Luofan Chen",
+          "code_url": "https://docs.google.com/document/d/1NBU0tj9PV8KNo8RXyYV0RZoT1irnb7-8zN6eKP9fScc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5185795092119552/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5738954464165888/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Fix Fundamental Issues in LLVM IR",
+          "short_description": "LLVM Project is a collection of modular and reusable compiler and toolchain technologies. It supports various high-level languages and hardware...",
+          "student_name": "Krishna Kariya",
+          "code_url": "https://docs.google.com/document/d/1vRMB8QUCbF7finJbnzqxrattTr61ZVRyyv1rQqD7abo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6381677898629120/"
+        },
+        {
+          "title": "Machine Learning Guided Ordering of Compiler Optimization Passes",
+          "short_description": "Developers generally use standard optimization pipelines like -O2 and -O3 to optimize their code. Manually crafted heuristics are used to determine...",
+          "student_name": "Tarindu Jayatilaka",
+          "code_url": "https://github.com/tarinduj/GSoC2021/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6411038932598784/"
+        },
+        {
+          "title": "Making Smart Pointer Checkers default checkers in the Static Analyzer",
+          "short_description": "The Clang Static Analyzer currently has checkers for std::unique_ptr. These checkers are currently in the experimental (alpha) group of checkers. I...",
+          "student_name": "Deep Majumder",
+          "code_url": "https://reddocmd.github.io/sturdy-octo-sniffle/docs/report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5706576819650560/"
+        },
+        {
+          "title": "Learning Loop Transformation Heuristics",
+          "short_description": "In this project we will look at loop transformation heuristics, such as the unroll factor.",
+          "student_name": "Ali Sedaghati",
+          "code_url": "https://reviews.llvm.org/D106001",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5732097817313280/"
+        },
+        {
+          "title": "Integrate custom derivatives of Numerical Computing routines like BLAS and Eigen into Enzyme",
+          "short_description": "Enzyme performs automatic differentiation (in the calculus sense) of LLVM programs. This enables users to use Enzyme to perform various algorithms...",
+          "student_name": "Pratyush Das",
+          "code_url": "https://gist.github.com/reikdas/ee0f2f3244afc8a6efba659232722b92",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5386593837252608/"
+        },
+        {
+          "title": "Improving OpenMP code generation with prediction of runtime parameters",
+          "short_description": "The performance of the code generated for the GPU heavily depends on runtime parameters such as the number of thread blocks and threads per thread...",
+          "student_name": "Konstantin Sidorov",
+          "code_url": "https://reviews.llvm.org/D103770",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5115523116826624/"
+        },
+        {
+          "title": "Distributed lit testing",
+          "short_description": "The LLVM lit test suites consist of thousands of small independent tests. Due to the number of tests, it can take a long time to run the full suite,...",
+          "student_name": "Soham Dixit",
+          "code_url": "https://gist.github.com/sohamdixit81/4044f90ae9b4954879c63a39f163f417",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5371580141535232/"
+        },
+        {
+          "title": "Fix miscompilation issues in LLVM IR using the \u2018Freeze\u2019 instruction",
+          "short_description": "Optimizations have been the cause of multiple miscompilations as well. It is difficult to determine whether an optimization is correct because bugs...",
+          "student_name": "Hyeongyu Kim",
+          "code_url": "https://github.com/hyeongyukim/GSoC2021/blob/main/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4737459627229184/"
+        },
+        {
+          "title": "Integrate Enzyme into Rust to Provide High-performance Differentiation in Rust",
+          "short_description": "With a surge of machine learning, especially the neural network model which needs to compute a huge amount of gradients, more and more languages'...",
+          "student_name": "Chuyang Chen",
+          "code_url": "https://github.com/wsmoses/Enzyme/pull/307",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4740220553003008/"
+        },
+        {
+          "title": "Utilize LoopNest Pass",
+          "short_description": "A newly added idea of LoopNest pass enables to handle a loop nest efficiently, unlike function pass or loop pass.\nThe goals of this project are:\n...",
+          "student_name": "Toshiki Maekawa",
+          "code_url": "https://docs.google.com/document/d/1ASGejJIL7rzEDwX2qZZqT4ATR2x3sd_aOTuMSCh2YTE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6011558420807680/"
+        },
+        {
+          "title": "Improve inter-procedural analyses and optimizations",
+          "short_description": "In this project we aim to improve the deduction capabilities of the Attributor framework.",
+          "student_name": "Kuter Dinel",
+          "code_url": "https://docs.google.com/document/d/1WvxhPMxtrnGG9mECusY5JyAdf-QOBKVJhSW_B1yEy2I/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5921497922666496/"
+        },
+        {
+          "title": "Use official isl C++ bindings for polly",
+          "short_description": "Polly uses custom C++ bindings for isl (Integer Set Library) which is a library written in C. I aim to replace at least partially the usage of these...",
+          "student_name": "Riccardo Mori",
+          "code_url": "https://pollylabs.org/gsoc2021/Use-official-isl-C++-bindings-for-polly.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5967653486723072/"
+        },
+        {
+          "title": "Fixing fundamental issues in LLVM IR: Introducing a byte type to solve load type punning",
+          "short_description": "It is common for compilers, and LLVM in particular, to transform calls to memcpy or memmove to a number of integer loads and stores of the...",
+          "student_name": "George Mitenkov",
+          "code_url": "https://github.com/georgemitenkov/GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6303218073600000/"
+        },
+        {
+          "title": "Integrating Enzyme into Rust",
+          "short_description": "Integrate Enzyme into Rust to provide high-performance differentiation of generic Rust code.",
+          "student_name": "Manuel Drehwald",
+          "code_url": "https://github.com/ZuseZ4/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5150056566489088/"
+        },
+        {
+          "title": "Evolving the LLDB GUI",
+          "short_description": "The project aims to improve the LLDB curses GUI to provide a complete and intuitive IDE-like debugging experience without having to resort to the...",
+          "student_name": "Omar Emara",
+          "code_url": "https://gist.github.com/OmarEmaraDev/dfc31f292e87a58e9380a55e0e8ce984",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5182227582812160/"
+        },
+        {
+          "title": "Inlining: using locally optimal inlining decisions",
+          "short_description": "Improve inlining: using subgraph analyze and locally optimal inlining decisions",
+          "student_name": "Liq Tao",
+          "code_url": "https://docs.google.com/document/d/1S9GA088UU5kci57Enww0IRP7qixQTq1Ia2dabn0KvjE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5195658885070848/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/llvm-compiler-infrastructure/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Make Enzyme plugin callable from The  New Pass Manager in LLVM",
+          "short_description": "Enzyme plugin project aims to automatically find derivatives of LLVM IR which is pretty helpful for ML related works.Enzyme code base still uses the...",
+          "student_name": "Shakil",
+          "code_url": "https://github.com/EnzymeAD/Enzyme/pull/616",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MCtBxvoq/"
+        },
+        {
+          "title": "Graph Based Features for Better ML Guided Live Range Eviction Heuristics",
+          "short_description": "Within this project, I aim to create a new ML model based on the already existing MLGO work in register allocation to further enhance the performance...",
+          "student_name": "Aiden Grossman",
+          "code_url": "https://github.com/boomanaiden154/gsoc2022-notes/blob/master/september/9/gsoc-final-submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/z1hZ31sv/"
+        },
+        {
+          "title": "Improving Clang Diagnostics",
+          "short_description": "Improving the clang diagnostics focuses on the diagnostic section of clang. This proposal is meant to make clang diagnostic more user friendly and...",
+          "student_name": "Muhammad Usman",
+          "code_url": "https://docs.google.com/document/d/1agRY6OSH0AvtOmH9M2EU3teiYqEoikde/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/X9ex5Ots/"
+        },
+        {
+          "title": "Moving Instruction Rules to Tablegen",
+          "short_description": "Enzyme performs automatic differentiation (in the calculus sense) of LLVM programs. The support for an increasing number of LLVM Versions (7-main),...",
+          "student_name": "Manuel Drehwald",
+          "code_url": "https://github.com/ZuseZ4/gsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ul9Uz9LK/"
+        },
+        {
+          "title": "Non-Determinacy based optimizations in Parallel Programs",
+          "short_description": "Problem : Optimize Parallel Programs by employing Non-Determinacy based optimizations. Plan : 1. Perform static code analysis to identify program...",
+          "student_name": "Abhishekvu",
+          "code_url": "https://docs.google.com/document/d/1liYazQ0vUg-0faFSi6i9MOi8ME-b6BD-9aD_YJ2JvsM/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OewpiPMm/"
+        },
+        {
+          "title": "Write JITLink support for new format/architecture",
+          "short_description": "JITLink is LLVM\u2019s new JIT linker designed to support a variety of new features, which includes full static initializer, thread local storage, and...",
+          "student_name": "Sunho Kim",
+          "code_url": "https://gist.github.com/sunho/36d6400a00498507bc2cae0b9d5c15a3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UEJ1lgrT/"
+        },
+        {
+          "title": "Learning loop transformation policy and it's effect on RISC-V",
+          "short_description": "This project is based on the proposed project (Learning Loop Transformation Policies) by the mentors Johannes Doerfert, Mircea Trofin. This project...",
+          "student_name": "eopXD",
+          "code_url": "https://docs.google.com/document/d/14qBu2srgRSkq0jAbWx3BeEP4YW5WNbi9LNyal9HP0lE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1GYAahvL/"
+        },
+        {
+          "title": "Remove undef: Move Uninitialized Memory to Poison",
+          "short_description": "Current memory semantics of the LLVM-IR use undef when dereferencing an uninitialized memory location. This prevents optimizations within scalar...",
+          "student_name": "John McIver",
+          "code_url": "https://github.com/jmciver/gsoc22-RemoveUndef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1RRyDYVG/"
+        },
+        {
+          "title": "Implement support for C++17 structured bindings in the Clang Static Analyzer",
+          "short_description": "Even though a lot of new C++ features are supported by the static analyzer automatically by the virtue of clang AST doing all the work under the...",
+          "student_name": "Domj\u00e1n D\u00e1niel",
+          "code_url": "https://isuckatcs.github.io/gsoc2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dsXyCnNA/"
+        },
+        {
+          "title": "Shared Memory Based JITLink Memory Manager",
+          "short_description": "When a separate executor process is used with LLVM JIT, the generated code needs to be transferred to the executor process which is done by the...",
+          "student_name": "Anubhab Ghosh",
+          "code_url": "https://gist.github.com/argentite/b265db7604a5ba3c48783c42cefc6908",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/peDPYCpm/"
+        },
+        {
+          "title": "Learning Live Ranges Priority Policy",
+          "short_description": "This project is a practical application under the umbrella of the MLGO framework. While the previous work focuses on inlining and eviction policy of...",
+          "student_name": "Eric Wang",
+          "code_url": "https://reviews.llvm.org/rGd8a2d3f7d4a250aac44e7484f5035b859e4ef556",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SvHk1WgO/"
+        },
+        {
+          "title": "Instrumentation of Clang/LLVM for Compile Time",
+          "short_description": "GSoC Project \"Instrumentation of Clang/LLVM for Compile Time\" aims to solve a simple but interesting question: Why is the compilation taking so long?...",
+          "student_name": "Junduo Dong",
+          "code_url": "https://docs.google.com/document/d/1zsTR9f01eW1RgN5RIm8ImoVc7-fkAYOZry2_b2giKZ4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/et60aPvR/"
+        },
+        {
+          "title": "Extend clang to preserve type sugar when performing member access on template specialization",
+          "short_description": "For an example like: template<class T> struct Foo { using type = T; }; using Bar = int; Foo<Bar>::type baz; In clang, baz\u2019s type will not desugar to...",
+          "student_name": "mizvekov",
+          "code_url": "https://gist.github.com/mizvekov/3dd1b76b2b90cd3d7c4759c1d47cbf42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1D6NXYH0/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/llvm-compiler-infrastructure",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "ExtractAPI while building",
+          "short_description": "This project aims to give LLVM-clang the ability to generate ExtractAPI symbol graph files as a side-effect of a regular compilation job. This can...",
+          "student_name": "Ankur Saini",
+          "code_url": "https://gist.github.com/Arsenic-ATG/65fa1d38d2677dc29d33191f47af66d4",
+          "proposal_id": "BK50uact",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lAxUTgOM"
+        },
+        {
+          "title": "WebAssembly Support for clang-repl",
+          "short_description": "Clang includes libInterpreter, a framework for incrementally JIT compiling and executing C++ code. The goal of the project is to port this to...",
+          "student_name": "Anubhab Ghosh",
+          "code_url": "https://gist.github.com/argentite/c0852d3e178c4770a429f14291e83475",
+          "proposal_id": "rwQywNm4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/X0cFgJkY"
+        },
+        {
+          "title": "Modules Build Daemon: Build System Agnostic Support for Explicitly Built Modules",
+          "short_description": "This project aims to implement a daemon that serves as a build system manager for modules, providing support for explicitly built modules...",
+          "student_name": "Connor Sughrue",
+          "code_url": "https://github.com/cpsughrue/llvm-contributions",
+          "proposal_id": "rZxv0ACK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XvbLGMbT"
+        },
+        {
+          "title": "Interactive MLIR query tool to make exploring the IR easier",
+          "short_description": "This project aims to create an interactive query language for MLIR that will allow developers to dynamically query the MLIR IR. The tool will provide...",
+          "student_name": "Devajith Valaparambil Sreeramaswamy",
+          "code_url": "https://devajith.com/blog/gsoc-2023",
+          "proposal_id": "IE91MopX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bdePp9VD"
+        },
+        {
+          "title": "Improving Compile Times",
+          "short_description": "This project aims to reduce the amount of time that LLVM spend on compiling code by focusing on hotspots in the code identified by profiling...",
+          "student_name": "Dhruv Chawla",
+          "code_url": "https://docs.google.com/document/d/1gsOYrFOZlJ-RCHsb-MZzZyIYrGm9Esh4unjTioo58L4/edit?usp=sharing",
+          "proposal_id": "tt7EjOpV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JdqGUwNq"
+        },
+        {
+          "title": "Adding C++ Support to Clang's ExtractAPI",
+          "short_description": "Clang\u2019s ExtractAPI extracts information from C and Objective-C codebases to describe public API symbols and the relationships between them. It is...",
+          "student_name": "Erick Velez",
+          "code_url": "https://docs.google.com/document/d/1ta5Fc0uOIUV7R7gMTTXALgql6rV8CrDon9u2IIHCT4E/edit?usp=sharing",
+          "proposal_id": "kZNkD8Cd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uBg3dUrw"
+        },
+        {
+          "title": "Optimizing MLIR\u2019s Presburger library",
+          "short_description": "MLIR\u2019s Presburger Library, FPL, provides mathematical abstractions for polyhedral compilation and analysis. When many set operations are performed in...",
+          "student_name": "gilsaia",
+          "code_url": "https://github.com/gilsaia/GSoC-2023/tree/main",
+          "proposal_id": "GirH6iXz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AtKA6GoV"
+        },
+        {
+          "title": "Adapting IR Load Semantics to Freeze All or Freeze Only Uninitialized Data",
+          "short_description": "This proposal outlines a continuation of the Google Summer of Code (GSoC) 2022 topic to move uninitialized memory to poison semantics. Starting with...",
+          "student_name": "John McIver",
+          "code_url": "https://github.com/jmciver/gsoc23-RemoveUndef",
+          "proposal_id": "XSCbd2sx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/sc4OauXM"
+        },
+        {
+          "title": "Addressing Rust optimization failures in LLVM",
+          "short_description": "Rust is a popular system programming language that relies on LLVM for its compilation. Rust has a variety of features and paradigms and states \u201cZero...",
+          "student_name": "Kohei Asano",
+          "code_url": "https://khei4.github.io/gsoc2023/",
+          "proposal_id": "rEyPRDiG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/a16FfPnb"
+        },
+        {
+          "title": "Tutorial development with clang-repl",
+          "short_description": "This project aims to develop tutorials demostrating the current capabilities of clang-repl. It also aims to investigate and research the requirements...",
+          "student_name": "Krishna Narayanan",
+          "code_url": "https://github.com/Krishna-13-cyber/GSoC23-LLVM/blob/main/README.md",
+          "proposal_id": "inGsZDL0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qxuEqL8W"
+        },
+        {
+          "title": "Fix Handling of Undefined Behavior in NewGVN",
+          "short_description": "NewGVN was introduced to LLVM to cope with the limitations of the old GVN. It hasn't, however, seen widespread adoption, due to its bugs and missing...",
+          "student_name": "Manuel Brito",
+          "code_url": "https://github.com/ManuelJBrito/GSoC-2023-NewGVN",
+          "proposal_id": "Izhr5dHN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oQUfcx89"
+        },
+        {
+          "title": "Map LLVM values to corresponding source-level expressions",
+          "short_description": "This project aims to improve the accuracy of compiler-generated remarks and analysis reports by including corresponding source-level expressions in...",
+          "student_name": "phyBrackets",
+          "code_url": "https://docs.google.com/document/d/1t1K6vzCYDnFBTH8d1NIJInhxRe5mc1FxkMaX_2WVcmc/edit?usp=sharing",
+          "proposal_id": "BR603za8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JToY28Mf"
+        },
+        {
+          "title": "Machine Learning Guided Ordering of Compiler Optimization Passes",
+          "short_description": "Standard optimization pipelines are used by developers to compile programs in LLVM clang like (O1, O2, O3, etc\u2026). These are based on heuristics that...",
+          "student_name": "Puneeth A R",
+          "code_url": "https://github.com/Puneeth-A-R/GSoC2023/blob/main/README.md",
+          "proposal_id": "IWijfpHM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/T8rB84Sr"
+        },
+        {
+          "title": "Patch based test coverage for quick test feedback",
+          "short_description": "Most of the day to day tests in LLVM are regression tests executed by Lit, structured as source code or IR to be passed to some binary, rather than...",
+          "student_name": "ShivamGupta123",
+          "code_url": "https://gist.github.com/xgupta/a601723644d28406bc019842ba316aa7",
+          "proposal_id": "zhSKJm1v",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TMnF4MqC"
+        },
+        {
+          "title": "Re-optimization using JITLink",
+          "short_description": "In Just-In-Time compilers we often choose a low optimization level to minimize compile time and improve launch times and latencies, however some...",
+          "student_name": "Sunho Kim",
+          "code_url": "https://gist.github.com/sunho/bbbf7c415ea4e16d37bec5cea8adce5a",
+          "proposal_id": "26qIMFfR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4vqXC8Ez"
+        },
+        {
+          "title": "Improvements in Clang Diagnostics",
+          "short_description": "Clang diagnostic is an interface for programmers that assists them in writing bug-free, efficient source codes. The aim of this proposal is to...",
+          "student_name": "Takuya Shimizu",
+          "code_url": "https://docs.google.com/document/d/1k4Jxh6ATzpFSaDgfkT7ALBCcuj6lRE-PKblt9UGuYu8/edit?usp=sharing",
+          "proposal_id": "6YNbmyLV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wxRFR261"
+        },
+        {
+          "title": "Build & Run SingleSource Benchmarks with ClangIR",
+          "short_description": "ClangIR is the newest attempt to tackle the lack of a higher-level intermediate representation for C++. Said representation would greatly benefit the...",
+          "student_name": "Vinicius Espindola",
+          "code_url": "https://github.com/llvm/clangir/pulls?q=is%3Apr+author%3Asitio-couto",
+          "proposal_id": "595mS1iL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Yofn8VfG"
+        },
+        {
+          "title": "Better Performance Models for MLGO Training",
+          "short_description": "This project aims to improve the reward signal used in the RL-based training of MLGO models. I plan to integrate an existing GNN-based performance...",
+          "student_name": "Viraj Shah",
+          "code_url": "https://drive.google.com/drive/folders/1b_mtJy2cNkZypNavUYW-HPvLymXrkKMA",
+          "proposal_id": "NP85l4vI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wiTzRdnV"
+        },
+        {
+          "title": "Enhancing llvm-cov to Generate Hierarchical Coverage Reports",
+          "short_description": "Clang supports source-based coverage that shows which lines of code are covered by the executed tests. It uses llvm-cov to generate coverage reports....",
+          "student_name": "Yuhao Gu",
+          "code_url": "https://docs.google.com/presentation/d/1G9HG_L3ATLsBRLyYuVpMWO5JqJEwm6FWwyl2S3HRGBQ",
+          "proposal_id": "lwzP6f2w",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ghJRTsUJ"
+        },
+        {
+          "title": "Autocompletion in Clang-REPL",
+          "short_description": "Clang-REPL enables developers to program in C++ in an exploratory manner via a read-eval-print-loop. Developers, however, have to type each letter or...",
+          "student_name": "Yuquan Fu",
+          "code_url": "https://www.syntaxforge.net/clang-repl-cc/",
+          "proposal_id": "fvAuNKTx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Gxg82Pvd"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/llvm-compiler-infrastructure/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "GPU Libc Benchmarking",
+          "short_description": "The LLVM libc project was designed as an alternative to glibc that aims to be modular, configurable, and sanitizer-friendly. Currently, LLVM libc is...",
+          "student_name": "James Hu",
+          "code_url": "https://docs.google.com/document/d/1XXyhV6b5iFczX9hUu776RK4vKOqDOTFwqpZCna5u-q8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HkRoz49I/"
+        },
+        {
+          "title": "Support clang plugins on Windows",
+          "short_description": "This project aims to allow using dynamically loaded Clang plugins on windows by adding support for building LLVM and Clang as shared libraries on...",
+          "student_name": "thomas fransham",
+          "code_url": "https://github.com/llvm/llvm-project/issues/109483",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/scEcKEqX/"
+        },
+        {
+          "title": "Improve Clang-Doc",
+          "short_description": "Clang-Doc is a documentation generator developed on top of libtooling developed as an alternative to Doxygen. Development started in 2018, and...",
+          "student_name": "Peter Chou",
+          "code_url": "https://docs.google.com/document/d/14ESc1PasY0PJ4yqXNQIUUmloGIs4kptYI_Sb8AIrQ28/edit?tab=t.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QxXUJDJH/"
+        },
+        {
+          "title": "OpenCL C Support for ClangIR",
+          "short_description": "Optimizing code for heterogeneous hardware like GPUs requires specialized approaches. While LLVM/Clang supports various GPU programming interfaces,...",
+          "student_name": "7mile",
+          "code_url": "https://github.com/seven-mile/clangir-ocl-ae/blob/master/GSoC-Project-Card.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aC7xQWmT/"
+        },
+        {
+          "title": "Out of process execution for Clang-Repl",
+          "short_description": "Clang, part of LLVM, supports multiple languages and functions as a library, fostering a compiler-assisted ecosystem. Its accessible codebase and...",
+          "student_name": "Sahil Patidar",
+          "code_url": "https://gist.github.com/SahilPatidar/ab3e2c54a05a56351cb32bfd1576a773",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3ZHG7joV/"
+        },
+        {
+          "title": "Reviving NewGVN",
+          "short_description": "Value numbering is a key compiler optimization. Currently, LLVM\u2019s optimizer offers two implementations, GVN and NewGVN, neither of which is entirely...",
+          "student_name": "Manuel Brito",
+          "code_url": "https://github.com/ManuelJBrito/GSoC-Report2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/peuQNXLB/"
+        },
+        {
+          "title": "Statistical Analysis of LLVM-IR Compilation",
+          "short_description": "This project aims to provide an analysis of the causes of unexpected compilation times. By conducting a statistical analysis on IR files available on...",
+          "student_name": "Andrew K",
+          "code_url": "https://docs.google.com/document/d/1Y48EKXeTnjIV5Go8iVN5VkAeEdpjAMfEsdQ1bQ01zEE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hquDyVBK/"
+        },
+        {
+          "title": "LLVM.org Website Redesign",
+          "short_description": "Problem Statement: Redesigning and migrating the llvm.org website to enhance user experience, accessibility, and community engagement. Solution...",
+          "student_name": "Chaitanya Shahare",
+          "code_url": "https://gist.github.com/Chaitanya-Shahare/729343d0ff27e19c0486292ed6c3fcf8/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IgY3QoiE/"
+        },
+        {
+          "title": "Half precision in LLVM libc",
+          "short_description": "This proposal is based on the open LLVM project with the same title, from Tue Ly and Joseph Huber. See...",
+          "student_name": "OverMighty",
+          "code_url": "https://gist.github.com/overmighty/d55382ab88d24180e606c907e420c5d8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1vPVUj93/"
+        },
+        {
+          "title": "Addition of 3-way comparison intrinsic to LLVM",
+          "short_description": "Three-way comparisons are present in many high-level programming languages, such as C++ with its spaceship (<=>) comparison operator or Rust via the...",
+          "student_name": "Volodymyr Vasylkun",
+          "code_url": "https://docs.google.com/document/d/1vihSKPwm016J0_0MVCZ0cZS1B0ij8k44DA7YQlg3kCA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tqzvhY0X/"
+        },
+        {
+          "title": "Build & Run SingleSource Benchmarks with ClangIR - Part 2",
+          "short_description": "ClangIR is the newest attempt to tackle the lack of a higher-level intermediate representation for C++. Said representation would greatly benefit the...",
+          "student_name": "Vinicius Espindola",
+          "code_url": "https://github.com/llvm/clangir/pulls?q=is%3Apr+is%3Aclosed+author%3Asitio-couto+closed%3A%3E2024-05-01",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bPswvABY/"
+        },
+        {
+          "title": "The 1001 thresholds in LLVM",
+          "short_description": "LLVM has lots of thresholds and flags to avoid \u201ccostly cases\u201d. However, it is unclear if these thresholds are useful, their value is reasonable, and...",
+          "student_name": "Sh0g0",
+          "code_url": "https://sh0g0-1758.github.io/GSOC-X-LLVM/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MnheN07A/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/llvm-compiler-infrastructure",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Rich Disassembler for LLDB",
+          "short_description": "This project aims to enhance LLDB's disassembler by annotating machine instructions with source-level variable information, such as variable...",
+          "student_name": "Abdullah_Amin",
+          "code_url": null,
+          "proposal_id": "JgwrP6nV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dCPV3zhW"
+        },
+        {
+          "title": "ClangIR upstreaming",
+          "short_description": "ClangIR is a new, MLIR-based intermediate representation of C and C++ code. It has been developed in an LLVM incubator project, but work is now...",
+          "student_name": "Amr Hesham Gaber",
+          "code_url": null,
+          "proposal_id": "tCQ1W4Kv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uMSjfmTF"
+        },
+        {
+          "title": "Input-Gen: A Scalable Framework for Stateful Input Generation",
+          "short_description": "This project strives to enhance the Input-Gen tool to extend coverage and compatibility with LLVM-supported languages, including C, C++, Julia, Rust,...",
+          "student_name": "Andrew K",
+          "code_url": null,
+          "proposal_id": "4VrB03uo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oaIAqU02"
+        },
+        {
+          "title": "Usability Improvements for trapping Undefined Behavior Sanitizer",
+          "short_description": "The primary vision is to enhance clang\u2019s UBSan trap mode by tackling the three main goals, which include adding a warning to the...",
+          "student_name": "Anthony Tran",
+          "code_url": null,
+          "proposal_id": "yTvTWCyV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/I5x5BdbP"
+        },
+        {
+          "title": "Improving Core Clang-Doc Functionality",
+          "short_description": "Clang-Doc leverages Clang\u2019s robust tooling to generate documentation. It can interpret Doxygen commands to add more detailed documentation. Clang-Doc...",
+          "student_name": "Erick Velez",
+          "code_url": null,
+          "proposal_id": "ah3SPOgs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OXcKUH3X"
+        },
+        {
+          "title": "Teach the Clang Static Analyzer to understand lifetime annotations",
+          "short_description": "Memory safety related bugs represent one of the biggest challenges and are the source for many security vulnerabilities today. Lifetime annotations...",
+          "student_name": "imadij",
+          "code_url": null,
+          "proposal_id": "otRRcMMU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xEYQx202"
+        },
+        {
+          "title": "Improve Rust-Enzyme Reliability and Compile Times",
+          "short_description": "Enzyme, Rust's automatic differentiation tool, faces challenges with reliability and performance due to limited type information in LLVM-IR. This...",
+          "student_name": "Karan Janthe",
+          "code_url": null,
+          "proposal_id": "iY8JzAW9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GjIzkThY"
+        },
+        {
+          "title": "Bfloat16 in LLVM libc",
+          "short_description": "This proposal is based on the LLVM project for GSoC 2025 with the same title, from Tue Ly and Nicolas Celik. Discourse:...",
+          "student_name": "Krishna Pandey",
+          "code_url": null,
+          "proposal_id": "ZBBR2N4I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KvfIM1m7"
+        },
+        {
+          "title": "Performance and Exhaustive Testing of C Standard Math Functions on GPUs",
+          "short_description": "This proposal aims to refine and expand the testing infrastructure in the LLVM C library to help users balance speed and accuracy of math functions...",
+          "student_name": "Leandro Lacerda",
+          "code_url": null,
+          "proposal_id": "pbSq0LV9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xBm3IS1C"
+        },
+        {
+          "title": "LLVM Compiler Remarks Visualization Tool for Offloading",
+          "short_description": "LLVM generates valuable information through remarks, profiling, and runtime annotations that becomes difficult to navigate as projects grow. This...",
+          "student_name": "Miguel C\u00e1rdenas",
+          "code_url": null,
+          "proposal_id": "k3OgxR66",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nGLC8Sd5"
+        },
+        {
+          "title": "Introduce an ABI lowering library",
+          "short_description": "The current implementations of the LLVM Project, have a drawback that every language frontend that wants to support Foreign Function Interface(FFI)...",
+          "student_name": "Narayan Sreekumar",
+          "code_url": null,
+          "proposal_id": "0LsyXnKN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BAWJ3Z6i"
+        },
+        {
+          "title": "Support simple C++ modules use from the Clang Driver without a Build System",
+          "short_description": "This proposal seeks to extend the build system in Clang's driver to natively support module-based builds by leveraging Clang's existing support for...",
+          "student_name": "Naveen Seth Hanig",
+          "code_url": null,
+          "proposal_id": "Lidrhzp4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JfOGwzdP"
+        },
+        {
+          "title": "Byte type",
+          "short_description": "LLVM currently lacks a type capable of representing raw memory, similar to unsigned char, char and std::byte in C/C++. The absence of such a type is...",
+          "student_name": "Pedro Lobo",
+          "code_url": null,
+          "proposal_id": "QtpwoGb9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/F3yLFcWR"
+        },
+        {
+          "title": "Improve I/O performance in the libc implementation for GPU using io_uring",
+          "short_description": "Many HPC applications rely on GPUs for fast and efficient computation. At the same time, there is an effort to bring more programmability and...",
+          "student_name": "Rodrigo Ceccato",
+          "code_url": null,
+          "proposal_id": "N0UuAy6Z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oRouV5VX"
+        },
+        {
+          "title": "Advanced symbol resolution and reoptimization for clang-repl",
+          "short_description": "Clang-REPL is an incremental compiler that enables interactive programming in C and C++, combining the flexibility of a REPL with the performance of...",
+          "student_name": "Sahil Patidar",
+          "code_url": null,
+          "proposal_id": "Uzo39pkf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WAGNDXHx"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/channels/636084430946959380/642374147640524831",
+  "contact_email": "mailto:llvm-dev@lists.llvm.org",
+  "mailing_list": "https://discourse.llvm.org/c/community/gsoc/32",
+  "ideas_url": "https://llvm.org/OpenProjects.html",
+  "guide_url": "https://discourse.llvm.org/t/gsoc-2025-projects-proposals-and-other-information/85035",
+  "twitter_url": "https://twitter.com/llvmorg",
+  "blog_url": "https://blog.llvm.org/"
+}

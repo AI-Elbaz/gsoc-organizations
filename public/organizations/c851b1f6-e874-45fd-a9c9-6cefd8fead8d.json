@@ -1,0 +1,334 @@
+{
+  "name": "Joomla!",
+  "url": "https://www.joomla.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/joomla/dwntn9vfd52jkr9z.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "cms",
+    "object-oriented",
+    "mvc",
+    "web application",
+    "web development",
+    "web applications",
+    "programming languages"
+  ],
+  "technologies": [
+    "javascript",
+    "html",
+    "php",
+    "css",
+    "jquery",
+    "mysql",
+    "html5/css3",
+    "cms"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6222406616088576/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Recording actions logs, accessible by super admin",
+          "short_description": "Motivation\nTo record actions of users within the CMS, to know who to blame when something wrong happens.\nProject Description\nThis project is about...",
+          "student_name": "Mohamed Karam",
+          "code_url": "https://github.com/joomla-projects/gsoc16_recording-action-logs/commits/staging?author=muhakh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6627562692280320/"
+        },
+        {
+          "title": "Improving the menu item workflow in Joomla",
+          "short_description": "This project is mainly a project for the Joomla CMS.\nThis Joomla GSoC project aims to improve the workflow regarding creating articles &amp; menu...",
+          "student_name": "Shubham Rajput",
+          "code_url": "https://github.com/joomla-projects/gsoc16_menu-for-article/pull/15/commits",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5640554780033024/"
+        },
+        {
+          "title": "Improved multi-lingual content management\u200f",
+          "short_description": "The goal of my project is to improve a multi-lingual site's back-end, meaning that besides having several content (articles, menu items, categories,...",
+          "student_name": "Jo\u00e3o Reys Santos",
+          "code_url": "https://github.com/joomla-projects/gsoc16_improved-multi-lingual/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ajreys%20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4715316819001344/"
+        },
+        {
+          "title": "Project X: JavaScript Unit Tests: Project Proposal",
+          "short_description": "Since the Joomla core is written primarily in PHP the codebase currently has a comprehensive test coverage for PHP so far. What the codebase lacks is...",
+          "student_name": "Ruchiranga Wickramasinghe",
+          "code_url": "https://github.com/joomla-projects/gsoc16_js-unit-tests/commits/develop?author=Ruchiranga",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6478555512832000/"
+        },
+        {
+          "title": "Browser Automated Tests for Joomla! CMS(covering Users and Content features)",
+          "short_description": "System development nowadays more than ever starts to look for automated test methods. \nThere are several main drivers for this trend -need for faster...",
+          "student_name": "Prital Patel",
+          "code_url": "https://github.com/joomla-projects/gsoc16_browser-automated-tests/commits/staging?author=pritalpatel",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6002483084132352/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5861923971137536/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Cloud filesystem for Media Manager",
+          "short_description": "Joomla! is an Open Source CMS which allows the user to create websites with ease. It is rich in features that helps even a novice to set up a fully...",
+          "student_name": "Kasun Vithanage",
+          "code_url": "https://github.com/joomla-projects/media-manager-improvement/commits/gsoc17?author=kasvith",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6438237581082624/"
+        },
+        {
+          "title": "Automatic Parallel Testing Environment",
+          "short_description": "In the fast moving world of open source, PR requests are opened every day, which leads to the problem of testing. Time and resource needs to be put...",
+          "student_name": "Flavius Andrei Isac",
+          "code_url": "https://github.com/isacandrei/joomla-testing/blob/container-test/readme_GSOC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6619408428433408/"
+        },
+        {
+          "title": "PROJECT XI: REFACTORING THE HELP SCREENS LOCALISED ON JDOCS AND SERVED IN THE JOOMLA! BACKEND THROUGH THE HELP SERVER TO MAKE THEM MORE MANAGEABLE BY VOLUNTEERS",
+          "short_description": "The purpose of this project is to make the Help Screen more manageable for the Volunteers which will require less time to keep the documentation up...",
+          "student_name": "Shivam Rajput",
+          "code_url": "https://github.com/joomla-projects/gsoc17_helpscreens_on_jdocs/pull/10",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6632469155545088/"
+        },
+        {
+          "title": "Project XIII - PR Testing Platform",
+          "short_description": "The main goal of this project is to build a platform with a Docker Compose (multi-container docker) that integrates with the github API in order to...",
+          "student_name": "Ricardo Fusco",
+          "code_url": "https://github.com/joomla-projects/gsoc17_pr_testing_platform",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5424560606281728/"
+        },
+        {
+          "title": "Project IX: Expanding the Extension Manager.",
+          "short_description": "This report communicates how we implemented various features to expand the Joomla Extension Manager which is a core component of Joomla, in terms of...",
+          "student_name": "Altay Adademir",
+          "code_url": "https://gist.github.com/cokencorn/a8cf0091ad1f9fa97ba0286ec382f400",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5570519030038528/"
+        },
+        {
+          "title": "Web-Services in Joomla 4",
+          "short_description": "Web services became a necessity in today\u2019s web development world. It helps add other dimensions to the power of websites for example: a new website...",
+          "student_name": "Mohamed Karam",
+          "code_url": "https://github.com/joomla-projects/gsoc17_webservices/blob/master/manual/en-US/about-joomla/GSoC-submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4879367121403904/"
+        },
+        {
+          "title": "Project VI: Publishing Workflow in Joomla!",
+          "short_description": "Project VI: Publishing Workflow in Joomla!\nMain goal is to replace publishing states with flexible workflows. User should can create multiple states...",
+          "student_name": "Jan Jaracz",
+          "code_url": "https://docs.joomla.org/Publishing_Workflow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5816391009566720/"
+        },
+        {
+          "title": "Project IX: Expand the Extension Manager",
+          "short_description": "The main goal of this project is to improve the extension manager and give developers a better support in Joomla when developing their components.",
+          "student_name": "NunoLopes",
+          "code_url": "https://github.com/joomla-projects/gsoc17_expand_extension_manager/tree/GSoC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5865716024606720/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6484151049912320/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Proposal for GSoC 2018",
+          "short_description": "Proposal for project II: Automatic Multi-language Associations. I've made a blueprint of a better workflow on building multilingual sites with Joomla...",
+          "student_name": "Wang Yuchao",
+          "code_url": "https://github.com/joomla-projects/gsoc18_automatic_multilingual_association/issues/8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5671018043539456/"
+        },
+        {
+          "title": "Improve Override Management",
+          "short_description": "This project adds the feature to Joomla which check for upgrades, if the template file is changed where an override exists, it notifies the user that...",
+          "student_name": "Anurag Kumar",
+          "code_url": "https://github.com/joomla-projects/gsoc18_override_management/pulls?q=is%3Apr+author%3AAnu1601CS+is%3Aclosed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5055232610402304/"
+        },
+        {
+          "title": "Media Manager - Adaptive Images",
+          "short_description": "The following major aspects are being covered in this project\n\nThe project deals with the smart resizing and cropping of the image.\nBased on the...",
+          "student_name": "Geetanshu Mathur",
+          "code_url": "https://github.com/joomla-projects/gsoc18_adaptive_images/pulls?q=is%3Apr+author%3Aproman24+is%3Aclosed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4730036208795648/"
+        },
+        {
+          "title": "System Testing For Joomla 4 With Increased Coverage",
+          "short_description": "The Goal of the project is to increase coverage of System Tests for Joomla 4 using Codeception and Selenium, The project would be called success if...",
+          "student_name": "Samarth Sharma",
+          "code_url": "https://github.com/joomla/test-system/tree/gsoc18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6110502719586304/"
+        },
+        {
+          "title": "WebServices Project Proposal",
+          "short_description": "In the fast moving world of web development, providing developers with cutting edge and easy to use functionalities for their preferred CMS is...",
+          "student_name": "Flavius Andrei Isac",
+          "code_url": "https://github.com/isacandrei/gsoc18_webservices/blob/gsoc-submission/GSoC_submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5847827620036608/"
+        },
+        {
+          "title": "Joomla! CLI Update",
+          "short_description": "The current state of things in Joomla! ensures that the major management of your Joomla! installation is done via the backend Administration. Which...",
+          "student_name": "Olatunbosun Egberinde",
+          "code_url": "https://gist.github.com/bosunski/cf0f02cb53abaab2970034103cef240c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6284817188519936/"
+        },
+        {
+          "title": "Proposal for Project VI: Enhance Users",
+          "short_description": "The project asks for a com_users component that adheres to the current coding standards and that is extended with two views, one with the list of...",
+          "student_name": "Alexandra Ciobica",
+          "code_url": "https://github.com/joomla-projects/gsoc18_enhance_users/blob/staging/README_GSoC_Enhance_Users.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5158768568434688/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6743345328553984/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "PageBuilder for Joomla 4.0",
+          "short_description": "Creating a Joomla 4.0 frontend template will be much easier by using an intuitive page builder. With this, users can desire the position of elements...",
+          "student_name": "FancyFranci",
+          "code_url": "https://github.com/bahl24/GSoC-2019-Page-Builder-Work-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6410118596395008/"
+        },
+        {
+          "title": "New frontend template: Page-builder",
+          "short_description": "Aim is to develop a Page Builder interface for frontend part in styles section using VueJS, with a Drag and Drop GUI for module positions. Using...",
+          "student_name": "Nitish Bahl",
+          "code_url": "https://github.com/bahl24/GSoC-2019-Page-Builder-Work-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5566303283183616/"
+        },
+        {
+          "title": "Webservices in Joomla",
+          "short_description": "1) Web services in Joomla. Joomla is popular CMS, which is actively developing and it is very important to implement web services for further...",
+          "student_name": "Oleksandr Samoilov",
+          "code_url": "https://github.com/a-samoylov/joomla-cms/blob/GSoC_submission/GSoC_submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6294727723319296/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6265631002853376/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Joomla Core Feature Enhancements",
+          "short_description": "Joomla is a free open-source content management system that helps run thousands of businesses online and is backed by an awesome open source...",
+          "student_name": "Yatharth Vyas",
+          "code_url": "https://github.com/joomla-projects/gsoc21_core-enhancements/blob/GSoC-21-readme/README_GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6458534996213760/"
+        },
+        {
+          "title": "Media Manager",
+          "short_description": "Using images in a website's content is incredibly necessary to help the users interact and feel at ease on it. But what\u2019s much more critical is to...",
+          "student_name": "Eyvaz Ahmadzada",
+          "code_url": "https://github.com/joomla-projects/gsoc21_media-manager/blob/final-submission/GSoC_README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5655883085774848/"
+        },
+        {
+          "title": "Cookie Management System",
+          "short_description": "The aim of the project is to create a cookie manager to manage cookies as required by GDPR and other privacy regulations. Nowadays it\u2019s a need of...",
+          "student_name": "Rishabh Ranjan Jha",
+          "code_url": "https://github.com/rjharishabh/GSoC-2021-Work-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5670403833331712/"
+        },
+        {
+          "title": "Implement and improve several accessibility functions in Joomla! Keyboard navigation",
+          "short_description": "Implement and improve several accessibility functions in Joomla! Keyboard navigation.\nWeb accessibility means designing and developing your website...",
+          "student_name": "KUMAR SHIVAM",
+          "code_url": "https://github.com/joomla-projects/gsoc21_accessibility",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5374852369743872/"
+        },
+        {
+          "title": "Frontend Inline editing",
+          "short_description": "The aim of this project is to allow users to quickly edit the content of different components and modules of their websites without having to leave...",
+          "student_name": "Rahul Saini",
+          "code_url": "https://github.com/joomla-projects/gsoc21_frontend-inline-editing/issues/10",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4856717245939712/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/joomla/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Accessibility Plugin",
+          "short_description": "Web accessibility means that websites are designed in such a way that people with any kind of disabilities can use them without any difficulties....",
+          "student_name": "Shubham Verma",
+          "code_url": "https://github.com/joomla-projects/gsoc22_accessibility-plugin-script",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/oCmES02Y/"
+        },
+        {
+          "title": "SEO features for Joomla! 4.0",
+          "short_description": "Review SEO features for the current Joomla! version. Define and propose new useful SEO features that can be included in future Joomla! versions....",
+          "student_name": "Alisha Kamat",
+          "code_url": "https://github.com/alisha-kamat/GSoC-2022-Work-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7uMIihJR/"
+        },
+        {
+          "title": "Schema.org",
+          "short_description": "Data is the new big thing for search engines in today\u2019s time but it can be difficult for web crawlers to effectively interpret the context of the...",
+          "student_name": "Shazma Siddiqui",
+          "code_url": "https://github.com/shazmasiddiqui/GSoC-2022-Schemaorg-project-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GgakrOEQ/"
+        },
+        {
+          "title": "Guided Tour",
+          "short_description": "For Joomla, the convenience of its users is on its priority list and Guided Tour is something that will definitely make it easy for its users to use...",
+          "student_name": "Khushi Rauniyar",
+          "code_url": "https://github.com/khu5h1/GSoC-2022-Guided-Tour-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XJwp022t/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/joomla",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Joomla! AI framework",
+          "short_description": "The project\u2019s objective is to smoothly incorporate an AI module library into Joomla CMS so that site managers, developers, and content producers can...",
+          "student_name": "CharviMehra",
+          "code_url": null,
+          "proposal_id": "qMbxlxcX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5xSLuReL"
+        },
+        {
+          "title": "Joomla CMS Workflow Enhancements",
+          "short_description": "The project aims to improve Joomla's workflow system by enhancing its UI and functionality. The current workflow implementation is not intuitive,...",
+          "student_name": "Dileepadari",
+          "code_url": null,
+          "proposal_id": "ZiZInVpQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YX3u3lHq"
+        },
+        {
+          "title": "Modernizing and Enhancing the Joomla! Weblinks Extension",
+          "short_description": "The project is about making the Joomla! Weblinks tool work better with the newest Joomla! (version 5). First, I want to clean up the code so it...",
+          "student_name": "Mahmoud Magdy",
+          "code_url": null,
+          "proposal_id": "187L0OmX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xZ08EQgY"
+        },
+        {
+          "title": "Content Migration Between CMSs Using CCM & MDE",
+          "short_description": "Migrating content between different CMSs like Joomla, WordPress, and Drupal is challenging due to their distinct data structures. Traditional...",
+          "student_name": "Reem Atalah",
+          "code_url": null,
+          "proposal_id": "xs69HGEp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n5xuzOro"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://joomlacommunity.cloud.mattermost.com/main/channels/gsoc-2025",
+  "contact_email": "mailto:gsoc@joomla.org",
+  "mailing_list": "https://forms.gle/BN9b3teutzxPetP29",
+  "ideas_url": "https://docs.joomla.org/GSoC_2025_Project_Ideas",
+  "guide_url": "https://docs.joomla.org/GSoC_2025",
+  "twitter_url": "https://twitter.com/joomla",
+  "blog_url": "https://community.joomla.org/"
+}

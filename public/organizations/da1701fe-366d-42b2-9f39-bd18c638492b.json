@@ -1,0 +1,651 @@
+{
+  "name": "Oppia Foundation",
+  "url": "https://www.oppia.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/oppia-foundation/nqvgy9fm3aqshwtv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "web",
+    "interactive",
+    "tools",
+    "educational technology",
+    "community",
+    "web development",
+    "nonprofit",
+    "social impact",
+    "ai"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "angularjs",
+    "css",
+    "google app engine",
+    "kotlin",
+    "webpack",
+    "angular",
+    "typescript",
+    "android",
+    "Apache Beam"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4668002385526784/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Creator Dashboard",
+          "short_description": "Proposal for \"Creator Dashboard\" project",
+          "student_name": "Avijit Gupta",
+          "code_url": "http://526avijitgupta.github.io/google-summer-of-code-16-with-oppia/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5937639278510080/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6040525891174400/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integrating and applying machine learning to the code interaction",
+          "short_description": "The aim of this project is to create necessary infrastructure so that machine learning algorithms can be efficiently trained and prediction can be...",
+          "student_name": "Prasanna Patil",
+          "code_url": "https://prasanna08.github.io/GSoC-17-with-Oppia/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6364054905946112/"
+        },
+        {
+          "title": "Learner Dashboard",
+          "short_description": "The primary goal of this project is to engage the learners in a long term learning relationship with Oppia by providing them with their personal...",
+          "student_name": "Arunabh Ghosh",
+          "code_url": "http://arunabh98.github.io/gsoc-2017.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6395491382198272/"
+        },
+        {
+          "title": "SiteWide ACL Refactor",
+          "short_description": "The project is about replacing the current pseudo Role based Access Control System of oppia and replace it with Action based Access Control System",
+          "student_name": "Yogesh Sharma",
+          "code_url": "https://researchweb.iiit.ac.in/~yogesh.sharma/GSOC17-with-oppia.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6618149197709312/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4714779679653888/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Rich Text Editor Upgrade",
+          "short_description": "The aim of this project is to upgrade Oppia\u2019s Rich Text Editor (RTE), which authors use to create lesson content. The current RTE, based on...",
+          "student_name": "Nitish Bansal",
+          "code_url": "https://bansalnitish.github.io/gsoc-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6723359119245312/"
+        },
+        {
+          "title": "Generalized Review System",
+          "short_description": "This project aims to introduce a system to introduce a suggestion-review system which would allow the community to contribute to the content on...",
+          "student_name": "Nithesh N. Hariharan",
+          "code_url": "https://medium.com/@nithusha21/google-summer-of-code-work-product-dc95c074ea07",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5721718521856000/"
+        },
+        {
+          "title": "New Interactions project.",
+          "short_description": "This project aims at implementing two new interactions- Number with Units and Drag and Drop Sorting interactions. It will create a new learner...",
+          "student_name": "Vibhor Agarwal",
+          "code_url": "https://medium.com/@agarwalvibhor84/google-summer-of-code-18-with-oppia-7298d0880d08",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5090091101847552/"
+        },
+        {
+          "title": "Lesson Translation Dashboard",
+          "short_description": "A lesson translation dashboard for oppia's audio translators. This dashboard will help audio translators to do translation in a much better way....",
+          "student_name": "Sandeep Dubey",
+          "code_url": "https://dubeysandeep.github.io/blog/GSoC-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6523232836386816/"
+        },
+        {
+          "title": "Add Functionality for Skills",
+          "short_description": "This proposal aims to add a new Skills construct at a global level that would replace the existing refresher explorations method that is employed for...",
+          "student_name": "Akshay Anand",
+          "code_url": "https://medium.com/@akshayanand681/google-summer-of-code-with-oppia-b7ef85f9d862",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4864970726572032/"
+        },
+        {
+          "title": "Improving the development workflow",
+          "short_description": "The project, improving the development workflow, emphasizes on the following aspects:\n\nReducing the reviewer time by automating lint checks and tests...",
+          "student_name": "Apurv Bajaj",
+          "code_url": "https://apb7.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5963314123243520/"
+        },
+        {
+          "title": "Visualizing Learner Playthroughs",
+          "short_description": "The aim of this project is to provide lesson creators a tool for visualizing how learners play through their explorations. In particular, it would be...",
+          "student_name": "pranavsid98",
+          "code_url": "https://medium.com/@pranavsid98/google-summer-of-code-2018-at-oppia-7449bd2a42b4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5196572467920896/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6170718394384384/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Static Serving",
+          "short_description": "Currently, Oppia is serverside rendered using the jinja templating engine. This poses some performance issues since each time a page is being loaded,...",
+          "student_name": "James John James",
+          "code_url": "https://medium.com/@jamesjay4199/google-summer-of-code-19-at-oppia-foundation-ce18bf34eb8c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5509669575983104/"
+        },
+        {
+          "title": "Review tests and other improvements to the questions framework",
+          "short_description": "This project aims to add review tests and improve the current question framework. After this project, review tests will be shown after going through...",
+          "student_name": "Shiqi Wu",
+          "code_url": "https://medium.com/@wushiqi1998/google-summer-of-code-2019-with-oppia-bf585e142a65?source=friends_link&sk=a307b286d0c7616d33d255ed49a98830",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4584640390627328/"
+        },
+        {
+          "title": "Improve back-end test coverage and upgrade it to support Python 3",
+          "short_description": "This project aims to improve backend test coverage to 100%, and then migrate the backend codebase to be simultaneously compatible with both Python 2...",
+          "student_name": "Rishav Chakraborty",
+          "code_url": "https://medium.com/@reshav01/google-summer-of-code-19-with-oppia-a4d4318b1808",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4745751324786688/"
+        },
+        {
+          "title": "Asking students why they picked a particular answer",
+          "short_description": "A feature to the lesson player that allows students to explain how they arrived at a (wrong) answer. The aim of this feature is to encourage...",
+          "student_name": "Anubhav Sinha",
+          "code_url": "https://medium.com/@anubhavsinha98/gsoc19-journey-oppia-308704ffa3a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6294385870766080/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4686040649957376/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Frontend testing of controllers and directives",
+          "short_description": "Increase unit tests coverage of AngularJS and Angular 2+ frontend controllers and directives to 100%.",
+          "student_name": "Mariana Zangrossi",
+          "code_url": "https://medium.com/@mari.zangue/my-journey-through-gsoc20-with-oppia-9eb6b27e7a02",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6336817336418304/"
+        },
+        {
+          "title": "Revamping Math Interactions",
+          "short_description": "This project aims to add three new math-based interactions. They will replace the current math interaction which is buggy and provides only one rule...",
+          "student_name": "Prayush Dawda",
+          "code_url": "https://medium.com/@ThePegasus/google-summer-of-code-2020-with-oppia-7542804bb9e9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6634193188028416/"
+        },
+        {
+          "title": "Support tablet interfaces for Oppia android application",
+          "short_description": "A lot of parents tend to buy their kids tablet devices to help them learn new things through educational apps. Oppia is one of them, but it doesn't...",
+          "student_name": "Mohamed Medhat",
+          "code_url": "https://medium.com/@mohamed.medhat0298/gsoc-2020-oppia-foundation-ef9ecaf69903",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5390595004039168/"
+        },
+        {
+          "title": "Make Oppiabot More Useful",
+          "short_description": "Oppia uses a bot to interact with developers when issues and pull requests are made. This Project aims at improving the functionalities of the bot,...",
+          "student_name": "James James",
+          "code_url": "https://medium.com/@jamesjay4199/google-summer-of-code-20-at-oppia-foundation-b2b39c3ebde7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5462771258359808/"
+        },
+        {
+          "title": "Android Interactions",
+          "short_description": "In this project i will be focusing on adding some more type of interactions which will result usage of android app along with them i will adding one...",
+          "student_name": "Pulkit Aggarwal",
+          "code_url": "https://gist.github.com/aggarwalpulkit596/84c23a09cd4244624092f2967b0eae38",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5509495737810944/"
+        },
+        {
+          "title": "Fix the linter and implement all lint checks",
+          "short_description": "The Oppia development workflow uses lint checks to help detect style errors before they reach the review phase. This project aims to refactor the...",
+          "student_name": "Anshul Hudda",
+          "code_url": "https://medium.com/@anshulhudda.ssap/google-summer-of-code20-with-oppia-60208850be57",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5012486887047168/"
+        },
+        {
+          "title": "Add SVG Editor to RTE",
+          "short_description": "Diagrams and figures aid in learning and understanding concepts better. Giving creators the ability to draw images for the lessons would allow...",
+          "student_name": "Rohit Katlaa",
+          "code_url": "https://medium.com/@rohitkatlaa/my-work-with-oppia-during-gsoc20-8adf72de92bd?sk=573e4fe56ea30a4d9cee72aec541ed51",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6232063855820800/"
+        },
+        {
+          "title": "Analytics Support",
+          "short_description": "The projects aims at incorporating Firebase Analytics and Crashlytics into Oppia's Android application to send usage data to a central location while...",
+          "student_name": "Sarthak Agarwal",
+          "code_url": "https://medium.com/@agarwal.sarthak262012/google-summer-of-code-2020-oppia-f7a71dba5506",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6239889621778432/"
+        },
+        {
+          "title": "Generating SVG images for math expressions",
+          "short_description": "This project aims to introduce SVG rendering for all LaTeX expressions in explorations, so that MathJax can be removed as a dependency from the...",
+          "student_name": "Abhith Krishna",
+          "code_url": "https://medium.com/@abyk476/google-summer-of-code20-with-oppia-1c5bd87ad9d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6249213727342592/"
+        },
+        {
+          "title": "Ensure that Oppia is Fully Accessible",
+          "short_description": "This project will improve Oppias ability to support users with physical, visual, or hearing disabilities. It aims to fix any issue caught by audits...",
+          "student_name": "Jim Zhan",
+          "code_url": "https://medium.com/@jimz_89254/google-summer-of-code-20-with-oppia-a1a366d03aea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6484971595759616/"
+        },
+        {
+          "title": "Solve all typescript and webpack issues in the codebase",
+          "short_description": "The aim of this project is to complete all remaining typescript and webpack tasks in order to ensure a smooth development workflow. In particular:\n...",
+          "student_name": "nishantwrp",
+          "code_url": "https://www.nishantwrp.com/posts/google-summer-of-code-2020-with-oppia/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6093415533510656/"
+        },
+        {
+          "title": "Editor Page Redesigns",
+          "short_description": "The aim of this project is to redesign the topic, exploration, story and skill editor pages so they are more visually appealing and work better on...",
+          "student_name": "Rishabh Singh Rawat",
+          "code_url": "https://medium.com/@coolrishabhrawat/google-summer-of-code-20-at-oppia-foundation-944359e027fe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5156728397627392/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5223170600075264/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "End-to-End Testing Support",
+          "short_description": "End-to-End Testing Support\nOppia Android's current testing corpus includes unit tests using the Robolectric testing framework & integration tests...",
+          "student_name": "Farees Hussain",
+          "code_url": "https://farees-hussain.medium.com/google-summer-of-code-2021-oppia-b3776dbdd5ec",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6407055149105152/"
+        },
+        {
+          "title": "Write Frontend Tests",
+          "short_description": "The purpose of unit tests is to validate that each unit of code is performing as expected. This ensures a bug-free experience for the users and that...",
+          "student_name": "Gangavarapu Praneeth",
+          "code_url": "https://medium.com/@praneethg/google-summer-of-code-2021-at-oppia-foundation-a1f7542eaa2a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6609796463067136/"
+        },
+        {
+          "title": "Migrating AngularJS components and Writing Frontend Tests",
+          "short_description": "My most favorite thing about Oppia is its Test-Driven-Environment. All these tests (FE, BE, E2E, Lint) will ensure that no new error or bug will be...",
+          "student_name": "Radesh Kumar",
+          "code_url": "https://medium.com/@imradesh/migrating-angularjs-components-and-writing-frontend-tests-gsoc-2020-oppia-16e8209778c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5667974593118208/"
+        },
+        {
+          "title": "Implement lightweight checkpointing",
+          "short_description": "Oppia's lessons can require between 15 minutes and an hour of time depending on a number of factors from learners: understanding of the material,...",
+          "student_name": "Apoorv Srivastava",
+          "code_url": "https://medium.com/@MaskedCarrot/google-summer-of-code-2021-oppia-d2e346508bb9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5694702812135424/"
+        },
+        {
+          "title": "Redesigning and Updating the Learner Dashboard Page.",
+          "short_description": "Oppia brings forth a platform to conduct comprehensive courses in the form of classrooms. A classroom contains many different topics in it. At...",
+          "student_name": "Krishita Jain",
+          "code_url": "https://medium.com/@jainkrishita15/google-summer-of-code-2021-with-oppia-2ef3bf652883",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5743148063522816/"
+        },
+        {
+          "title": "Introduce Support for Displaying Copyright Licenses",
+          "short_description": "This project aims to introduce support for displaying the Copyright Licenses of the third-party Maven dependencies used to build the Oppia-Android...",
+          "student_name": "Abhay Garg",
+          "code_url": "https://medium.com/@prayutsu/google-summer-of-code-2021-oppia-7cb7588667ec",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5415259354955776/"
+        },
+        {
+          "title": "Angular Migration",
+          "short_description": "This project aims to introduce frontend routing in oppia using the angular router.\nThis will replace the current backend routing system which uses...",
+          "student_name": "Ashutosh_Chauhan",
+          "code_url": "https://gist.github.com/ashutoshc8101/4fa89e4f437c97df21ac91ddd0736440#file-gsoc-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4981049603391488/"
+        },
+        {
+          "title": "Make backend code typed",
+          "short_description": "This project aims at adding strict static type checks to Oppia codebase. In this project, static type checking will be done with the help of Mypy....",
+          "student_name": "Hardik Katehara",
+          "code_url": "https://hardikkatehara.medium.com/google-summer-of-code21-with-oppia-88076053621c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5105770890264576/"
+        },
+        {
+          "title": "Improving Front-End Typed System",
+          "short_description": "The proposal shares product and technical design for the project idea \"Improving Front-End Typed System\" under Oppia-web. The current codebase...",
+          "student_name": "Mridul",
+          "code_url": "https://gist.github.com/mridul-netizen/e732dfeae3b1201cdbbb23377467a6bd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6227110615580672/"
+        },
+        {
+          "title": "Implement feature flags & platform parameters",
+          "short_description": "This Project aims to help the developers in the Oppia Android team build features, solve issues and commit them into the develop branch without...",
+          "student_name": "Arjun Gupta",
+          "code_url": "https://medium.com/@arjupta/google-summer-of-code-2021-with-oppia-23758362d710",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4718982677921792/"
+        },
+        {
+          "title": "Developer Options Menu",
+          "short_description": "The project aims to introduce Developer Options to oppia-android. There are many instances when a developer needs to make some database related...",
+          "student_name": "Yash_Raj",
+          "code_url": "https://medium.com/@yashrajprime/google-summer-of-code-2021-oppia-599e915c2755",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6481174473474048/"
+        },
+        {
+          "title": "Write Frontend Tests",
+          "short_description": "This project aims to write frontend tests to fully cover each service, directive, and components in order to ensure that the quality of code...",
+          "student_name": "Aishwary Saxena",
+          "code_url": "https://aishwary023.github.io/gsoc-2021-oppia/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4895870167810048/"
+        },
+        {
+          "title": "Improve Frontend Type System",
+          "short_description": "Oppia uses Angular as the frontend framework with typescript as the primary language, hence this codebase is fully typed which implies that variable...",
+          "student_name": "Eesha Arif",
+          "code_url": "https://gist.github.com/EeshaArif/53016604eae2abb89355b8725f914c0a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4896898846031872/"
+        },
+        {
+          "title": "Move custom JS\\TS lint checks to eslint",
+          "short_description": "The project aims to migrate all the JS\\TS linter checks written in python using raw parsing algorithms and regex pattern checkers to custom eslint...",
+          "student_name": "Aditya-Dubey",
+          "code_url": "https://docs.google.com/document/d/1SK-n2Av8yb6rPPZh5XkyLarV-3GLNpr0JaH6rLTGat4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4957804703514624/"
+        },
+        {
+          "title": "Integrating the Oppia blog with Oppia.org",
+          "short_description": "Currently Oppia.org hosts its blog on a separate blogging site, \"Medium\". I would prefer to have the blogging interface directly on Oppia.org so that...",
+          "student_name": "Rijuta Singh",
+          "code_url": "https://medium.com/@rijuta_s/google-summer-of-code-2021-with-oppia-43e7a90c907b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5984057778765824/"
+        },
+        {
+          "title": "GSoC 2021 Proposal -- Implement schema validators for the handler params  (Nikhil Agarwal)",
+          "short_description": "The project requires to build an architecture for validating args of handler class. After building the architecture, some of the handler class in the...",
+          "student_name": "Nikhil Agarwal",
+          "code_url": "https://docs.google.com/document/d/1GDfd8QUuXq2Kub_grZ3o7s9PmtZEQ0LveC3f4J5as5Y/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6288867950329856/"
+        },
+        {
+          "title": "Improve Exploration save flow: Syncing edits in the background",
+          "short_description": "This project enables the edits made by the creators in the exploration to sync in the background so that the two creators can easily work...",
+          "student_name": "Aryaman Gupta",
+          "code_url": "https://atpug22.medium.com/google-summer-of-code-2021-with-oppia-d61fb8c848ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5143751185399808/"
+        },
+        {
+          "title": "Static Analysis Checks + Improvements",
+          "short_description": "One key part in ensuring a development team reaches optimal efficiency is by ensuring there are reasonable checks in place to avoid regressing...",
+          "student_name": "Sparsh Agrawal",
+          "code_url": "https://medium.com/@sparshagrawal1212/google-summer-of-code-2021-oppia-8a7011828f26",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5172098204434432/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/oppia-foundation/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Learner Diagnostic Tests",
+          "short_description": "Each learner that comes onto Oppia\u2019s platform has a different level of experience and comprehension within a given subject and some of them have...",
+          "student_name": "Nikhil_Agarwal",
+          "code_url": "https://docs.google.com/document/d/1Y8mYLd63phoHEcv3YalcqTMmbh0RMivu8YjxfkA8i_Q/edit#heading=h.b0obiqn3wkzm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4tEjoeF5/"
+        },
+        {
+          "title": "GSoC 2022 Proposal -- Fix validation errors (HITESH TOMAR)",
+          "short_description": "In this proposal, I have proposed a fix for some validation issues that have been accumulated. I will be using beam jobs to solve these validation...",
+          "student_name": "Hitesh Tomar",
+          "code_url": "https://medium.com/@lkbhitesh07/google-summer-of-code-2022-oppia-ee1c7a65633c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rG7XFX6n/"
+        },
+        {
+          "title": "Interactive Onboarding Flow",
+          "short_description": "The current onboarding workflow that the Oppia Android app offers is not intuitive enough. Users get confused or spend more time than necessary...",
+          "student_name": "Jishnu Goyal",
+          "code_url": "https://medium.com/@jishnugoyal007/google-summer-of-code22-27d168773eda",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/U4F39XEC/"
+        },
+        {
+          "title": "Helping learners when they get stuck.",
+          "short_description": "'Helping learners when they get stuck' aims to implement numerous improvements to make the core learner experience more adaptive, effective and...",
+          "student_name": "Manan Rathi",
+          "code_url": "https://medium.com/@rathimanan27/google-summer-of-code22-with-oppia-44e7611e19bc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EL64HgIp/"
+        },
+        {
+          "title": "Contributor Recognition Infrastructure",
+          "short_description": "This proposal focuses on building a system that shows users their \u201cimpact\u201d, modeled using points for completing tasks that ultimately provide value...",
+          "student_name": "Hasitha Kaushan",
+          "code_url": "https://hasithakaushan.medium.com/google-summer-of-code-2022-with-oppia-313ad47ddda0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/itzYC4nh/"
+        },
+        {
+          "title": "Improve Frontend Type System",
+          "short_description": "Oppia frontend codebase is fully typed, but our typing doesn\u2019t yet pass strict TypeScript checks. This means that variable assignment, procedure...",
+          "student_name": "Jeevesh Garg",
+          "code_url": "https://medium.com/@jeevesh.garg.cd.civ20/google-summer-of-code-2022-with-oppia-c2fcd9e31ef3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZBLhVlQu/"
+        },
+        {
+          "title": "Blog Integration",
+          "short_description": "Oppia.org's blog is currently hosted on \"Medium.\" I'd want to have the blogging interface on Oppia.org, so it's integrated with the rest of the site....",
+          "student_name": "Rijuta Singh",
+          "code_url": "https://medium.com/@rijuta_s/google-summer-of-code-2022-with-oppia-e8b3555b11c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BuDeqvzs/"
+        },
+        {
+          "title": "Learner Group MVP",
+          "short_description": "The aim of the project is to make it possible for teachers, tutors, and parents to support students who are using Oppia to learn. To solve this we...",
+          "student_name": "Pankaj Prajapati",
+          "code_url": "https://medium.com/@paprajapati9/google-summer-of-code-2022-with-oppia-8d0c3290c1eb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3r0CAta2/"
+        },
+        {
+          "title": "Making the Contributor Dashboard UI Responsive",
+          "short_description": "The Oppia Contributor Dashboard allows users to submit suggestions for translations and practice questions, which are then reviewed and...",
+          "student_name": "Harshvardhan Singh",
+          "code_url": "https://medium.com/@sharshvardhan101/google-summer-of-code-2022-with-oppia-a0a891c6b2f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/V3WbD854/"
+        },
+        {
+          "title": "Improving the lesson creation experience [part(a) + part(b)]",
+          "short_description": "The aim of this project is to provide two enhancements to the exploration editor page (for creating lessons) for lesson creators: (a) Development of...",
+          "student_name": "Soumyajyoti Dey",
+          "code_url": "https://medium.com/@soumyo123/google-summer-of-code-2022-with-oppia-ff7962efd6a5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BZ43Q9ap/"
+        },
+        {
+          "title": "Celebrating learners' accomplishments",
+          "short_description": "This project is centered around enhancing the experience of playing through explorations -- Oppia's lessons, which are the primary means of learning...",
+          "student_name": "Ch Vishnu Nithin Reddy",
+          "code_url": "https://nithinrdy.medium.com/gsoc-2022-with-oppia-foundation-d90b05b83207",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5XM0ONH7/"
+        },
+        {
+          "title": "Make backend code typed",
+          "short_description": "Last year oppia introduced python typing using MyPy (static type checker) in the backend codebase, but currently more than half of the backend...",
+          "student_name": "Sahil jhangar",
+          "code_url": "https://gist.github.com/sahiljoster32/2b2469e3a48092a31d86cb1ed09ecf39",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TBLvJ3Wq/"
+        },
+        {
+          "title": "Migrate the exploration editor page to Angular, and move the entire frontend to the Angular CLI",
+          "short_description": "The goal of this project is to migrate the exploration editor page from angularJs to angular. Users will be able to experience faster page...",
+          "student_name": "HeyimShivam",
+          "code_url": "https://medium.com/@shivamthalwal/google-summer-of-code-2022-with-oppia-aed8eb7b6359",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wxQUHgSd/"
+        },
+        {
+          "title": "Migrate Away From Protractor",
+          "short_description": "The Angular team plans to halt Protractor development at the end of 2022. The aim of this project is to set up the WebdriverIO with Github Actions,...",
+          "student_name": "Shivam Jha",
+          "code_url": "https://medium.com/@sssvjha/google-summer-of-code-2022-with-oppia-c1f725542a79",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Gm5Qf44Y/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/oppia-foundation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improvement to translation reviewer experience",
+          "short_description": "Presently, reviewing translations is a tedious task for translation reviewers, mainly due to the current workflow of the contributor dashboard. This...",
+          "student_name": "Ashwath Kannan",
+          "code_url": null,
+          "proposal_id": "YafNEU5K",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KyecKJP2"
+        },
+        {
+          "title": "Contributor Dashboard Admin Stats Table",
+          "short_description": "A redesign of the admin page for the contributor dashboard. The new design will include a table view of all contributors, with important statistics...",
+          "student_name": "Kshitij J Patil",
+          "code_url": "https://medium.com/@kshitijpatil1098/my-google-summer-of-code-2023-journey-with-the-oppia-foundation-bfb90f5df981",
+          "proposal_id": "6kASmzW8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MJCgQ0DY"
+        },
+        {
+          "title": "Improve Accessibility",
+          "short_description": "With this proposal, my aim is to make Oppia's learner-facing pages more accessible by by learners having any form of disability. My suggested method...",
+          "student_name": "Patel Muhammad",
+          "code_url": null,
+          "proposal_id": "BvUyx8Ls",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/M8gOyZft"
+        },
+        {
+          "title": "Serial Chapter Launch",
+          "short_description": "The aim of the project is to implement launching of chapters incrementally and sequentially, to avoid the large time gap when publishing a topic as a...",
+          "student_name": "Rishi Kejriwal",
+          "code_url": "https://docs.google.com/document/d/1L375JW9zJgQSeJNYTYUXfIgayfv5ZRvyKr9GzaXxF4I/edit?usp=sharing",
+          "proposal_id": "HUlBj5E0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7U1JV9n0"
+        },
+        {
+          "title": "Dockerize Oppia",
+          "short_description": "The objective of this project is to streamline the installation of Oppia's development server by utilizing Docker to containerize the application....",
+          "student_name": "Shivkant Chauhan",
+          "code_url": null,
+          "proposal_id": "Vw1zWiOb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/12F2fE3Q"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/oppia-foundation/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Make CI and pre-push hooks more efficient.",
+          "short_description": "Currently, Oppia has a pre-push hook which runs frontend unit tests on all files and lacks any backend unit tests in the pre-push hook which can lead...",
+          "student_name": "Justin Nguyen",
+          "code_url": "https://docs.google.com/document/d/1Ev_qaJ2yybLZBRpXAtu7WMQIjguuNamLWGKB57v3hUs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eeR5xBNo/"
+        },
+        {
+          "title": "Add Compelling Parent-Teacher, Volunteer, About Pages",
+          "short_description": "Oppia's current Volunteer, Parent-Teacher and About pages currently lack the engagement and clarity needed to effectively convert visitors into...",
+          "student_name": "Akash Paloju",
+          "code_url": "https://gsoc-journey-akash-paloju.blogspot.com/2024/08/my-gsoc24-journey-with-oppia-foundation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TVnmrdKI/"
+        },
+        {
+          "title": "4.1. Code coverage support and enforcement",
+          "short_description": "This project entails introducing support for measuring code coverage for all Kotlin files in the Android codebase with Bazel, with any support gaps...",
+          "student_name": "RD Rama Devi",
+          "code_url": "https://medium.com/@rd4dev/gsoc-24-final-report-oppia-android-code-coverage-enforcement-47089b8eb3e1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FPbtIrBt/"
+        },
+        {
+          "title": "Infrastructure and navigation for multiple classrooms",
+          "short_description": "Oppia currently features a classroom page for Math lessons, which is prominently accessible via the home page, navigation bar, community library, and...",
+          "student_name": "Mohd Afzal Khan",
+          "code_url": "https://medium.com/@afzl210/gsoc24-final-report-multiple-classrooms-8bcf3d4d10bf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WASggR9h/"
+        },
+        {
+          "title": "Enhancing Software Quality through Acceptance Testing in Oppia.",
+          "short_description": "The Oppia development team is looking to enhance the quality of their software by implementing Acceptance Testing on the develop branch. The problem...",
+          "student_name": "Akhilesh Kumar Yadav",
+          "code_url": "https://medium.com/@akacademic05/my-google-summer-of-code24-with-oppia-foundation-2c12e796f258",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/l4xcrYSx/"
+        },
+        {
+          "title": "Multiple Classrooms Support",
+          "short_description": "The app is currently limited to displaying a single list of basic numeracy topics. Together, these topics comprise what we call a 'classroom'. With...",
+          "student_name": "Saptak Manna",
+          "code_url": "https://medium.com/@Mr_17/my-google-summer-of-code24-journey-with-oppia-286ebcdef2fd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CDQLandI/"
+        },
+        {
+          "title": "Improvements to the exploration editor page",
+          "short_description": "Currently, for trivial changes to lessons in Oppia, lesson creators cannot update translations in a convenient manner, it is a very tedious and...",
+          "student_name": "Vir Kothari",
+          "code_url": "https://medium.com/@virkothari8/gsoc-2024-final-project-report-oppia-improvements-to-the-exploration-editor-page-fb93af950d3b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KxTcWISl/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/oppia-foundation",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Lesson Player Redesign",
+          "short_description": "Oppia's Exploration Player has several issues affecting the learning experience. Learners struggle to distinguish between hints and solutions, and...",
+          "student_name": "HARDIK GOYAL",
+          "code_url": null,
+          "proposal_id": "U6Hwajnf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZkQDPP94"
+        },
+        {
+          "title": "Acceptance Tests",
+          "short_description": "In order to streamline releases, we are planning to ensure that all critical user journeys (CUJs) on the Oppia web application are covered by...",
+          "student_name": "Jayam",
+          "code_url": null,
+          "proposal_id": "1iJ6GjQq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WyCNXoH0"
+        },
+        {
+          "title": "Android lint infrastructure and fixes",
+          "short_description": "The Android build ecosystem includes a robust linting tool designed to detect Android-specific issues that general-purpose linters may overlook....",
+          "student_name": "manas-yu",
+          "code_url": null,
+          "proposal_id": "lQfkNKSn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ijQbIqAi"
+        },
+        {
+          "title": "Clean up the structure for study guides and worked examples",
+          "short_description": "Currently, the study guides are made of a single long monolithic content field which makes it hard for the learners to focus and difficult for the...",
+          "student_name": "Mohit Ruwatia",
+          "code_url": null,
+          "proposal_id": "n0vopejF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BIAviwcL"
+        },
+        {
+          "title": "Flashbacks",
+          "short_description": "The current app experience can be frustrating for learners who are redirected to earlier concepts for revision after making a mistake, as they must...",
+          "student_name": "Subhajit Mallick",
+          "code_url": null,
+          "proposal_id": "svxqaczM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7Hv4NPOU"
+        },
+        {
+          "title": "Platform Parameters Dashboard",
+          "short_description": "The Platform Parameters Dashboard project aims to enhance Oppia Android's developer options by introducing a user interface for managing platform...",
+          "student_name": "theayushyadav11",
+          "code_url": null,
+          "proposal_id": "OPzf5Yne",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Faw0gBBe"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2021#communication",
+  "contact_email": "mailto:oppia-gsoc-discuss@googlegroups.com",
+  "mailing_list": "https://github.com/oppia/oppia/discussions",
+  "ideas_url": "https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2025#oppias-project-ideas-list",
+  "guide_url": "https://github.com/oppia/oppia/wiki/Google-Summer-of-Code-2025#getting-started",
+  "twitter_url": "https://x.com/oppiaorg",
+  "blog_url": "https://www.oppia.org/blog"
+}

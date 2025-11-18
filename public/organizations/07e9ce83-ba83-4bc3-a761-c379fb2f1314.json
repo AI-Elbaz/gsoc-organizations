@@ -1,0 +1,55 @@
+{
+  "name": "Cilium",
+  "url": "https://cilium.io",
+  "image_url": "https://lh3.googleusercontent.com/VPNqZNIcRxMMfF6D-9o6tvWwn17wdXQzXkmGYaLh5yO_v7DzRd7YQkjte75fFbjRpcDXc6h1VNWLM9ZF-Mgo7fdpFyoVxGaY0heHjj-or6BD",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "networking",
+    "kernel",
+    "cloud-native"
+  ],
+  "technologies": [
+    "c",
+    "linux",
+    "go",
+    "kubernetes",
+    "ebpf"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6055505163714560/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "A Feature Probe API for cilium/ebpf",
+          "short_description": "Currently bpftool as a userspace utility tool living in the linux kernel can do ebpf feature probing: bpftool feature probe. As the Go+ebpf user-base...",
+          "student_name": "rgo3",
+          "code_url": "https://gist.github.com/rgo3/609b17835870cba8de6ca3a5e92dc7c9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6231018767384576/"
+        },
+        {
+          "title": "Expose all active configurations and CLI improvements.",
+          "short_description": "Currently, cilium-agent CLI exposes only a subset of daemon configurations. However, most of the applied configurations can be seen by viewing the...",
+          "student_name": "Gaurav Genani",
+          "code_url": "https://gist.github.com/h3llix/20c2489ccc09881f63eb9c4157ce1c07",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4722189072334848/"
+        },
+        {
+          "title": "Explicit Allow-Listing for ICMP",
+          "short_description": "Cilium is a networking software which provides secure network connectivity and load-balancing between applications using eBPF. In addition, Cilium is...",
+          "student_name": "Tomoki Sugiura",
+          "code_url": "https://gist.github.com/chez-shanpu/146c7ac1ac931c742f01af8792f2ca9d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5847858258903040/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://docs.cilium.io/en/latest/community/#slack",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ciliumproject",
+  "blog_url": "https://cilium.io/blog"
+}

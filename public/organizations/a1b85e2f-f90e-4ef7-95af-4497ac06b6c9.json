@@ -1,0 +1,84 @@
+{
+  "name": "FOSDEM",
+  "url": "https://fosdem.org",
+  "image_url": "https://lh3.googleusercontent.com/WGA5vsI5s6wgv73iYJG8DD4Q6orAln6Q7N5mMv0vG-Rtun9JgRaFq2evxGkb23WbcofNtrj5MogvVtzDou2VfAzpvctWZ0k",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "web",
+    "programming languages",
+    "programming tools",
+    "ruby",
+    "programming",
+    "rails",
+    "web development",
+    "conference",
+    "rails application",
+    "video processing"
+  ],
+  "technologies": [
+    "postgresql",
+    "ruby on rails",
+    "git",
+    "html",
+    "css",
+    "javascript",
+    "grafana",
+    "voctomix",
+    "influxdb"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4603925500002304/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Implement overall change tracking in OSEM",
+          "short_description": "Open Source Event Manager (OSEM) is an event management application tailored to Free Software Conferences.\nSoftware conferences tend to have multiple...",
+          "student_name": "nishanthvijayan",
+          "code_url": "https://gist.github.com/nishanthvijayan/86e49608f259acaa8c0702d78fd480e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5639221461123072/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5733807646834688/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Track proposals and scheduling workflow",
+          "short_description": "Currently, a user can submit a proposal for an event. This document proposes a way to give the users the ability to submit requests for tracks (self...",
+          "student_name": "AEtherC0r3",
+          "code_url": "https://blog.aetherc0r3.eu/gsoc/2017/08/28/gsoc-2017-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5795285003403264/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5379070022385664/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve communication with stands and devrooms in Open Source Event Manager",
+          "short_description": "FOSDEM team will be able to use OSEM to handle the submission, evaluation, and acceptance of requests for stands for its event in minimum possible...",
+          "student_name": "Rahul Singh",
+          "code_url": "https://medium.com/@rahul2240/gsoc-with-fosdem-259f9b1a1fab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5348448784613376/"
+        },
+        {
+          "title": "ENHANCING STANDS AND DEVROOM SUBMISSION IN OSEM",
+          "short_description": "OSEM( Open Source Event Manager ) has the functionality to allow submissions for Booths and Tracks\nand evaluate them to either accept/reject the...",
+          "student_name": "rishabhptr",
+          "code_url": "https://medium.com/@rishabhptr/gsoc19-with-fosdem-91ea3867fb63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5227153472356352/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://webchat.freenode.net/?channels=fosdem-gsoc",
+  "contact_email": "mailto:info@fosdem.org",
+  "mailing_list": "https://fosdem.org/2016/contact/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/fosdem"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Carbon Language",
+  "url": "https://github.com/carbon-language/carbon-lang",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/carbon-language/gsrd8pzheipwksw8-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming languages",
+    "c++"
+  ],
+  "technologies": [
+    "llvm",
+    "c++",
+    "clang",
+    "Bison"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/carbon-language",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Editor Integration",
+          "short_description": "Make the developer experience for Carbon developers better by adding support for Carbon to editors and IDEs. Possible tasks include: Create an...",
+          "student_name": "maan2003",
+          "code_url": "https://docs.google.com/document/d/1TfgwYuFQq8A8k3XGuMZVLzHXOGAARZp25Jzbk3LLf34",
+          "proposal_id": "TMJwK9Pb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xY7b8v6G"
+        },
+        {
+          "title": "Improve the user-facing Carbon Explorer Output",
+          "short_description": "Currently, Carbon Explorer's trace output is both verbose and hard to use. There are a large range of improvements that could be made here. This is...",
+          "student_name": "prabhatexit0",
+          "code_url": "https://docs.google.com/document/d/1ilV5tV0wflvZ2Aph13uwiYA24a7Xfkk4NYh8qeJMhrQ/edit?usp=sharing",
+          "proposal_id": "cNuUfmdz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MV1y9Ngq"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/ZjVdShJDAs",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/greenexecutive"
+}

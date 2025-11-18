@@ -1,0 +1,146 @@
+{
+  "name": "Homebrew",
+  "url": "https://brew.sh",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/homebrew/9enfivj2ibae26ot-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "package system",
+    "homebrew",
+    "development tools",
+    "package management",
+    "distribution",
+    "package managers",
+    "macos",
+    "terminal applications",
+    "github",
+    "linux",
+    "package manager"
+  ],
+  "technologies": [
+    "ruby",
+    "git",
+    "osx",
+    "github",
+    "bash",
+    "macos",
+    "rspec",
+    "linux"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5422996969750528/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Closer integrating Homebrew with Homebrew cask",
+          "short_description": "The goal of my project is making Homebrew Cask better integrate with Homebrew by moving Cask core into Homebrew and making Cask commands use Homebrew...",
+          "student_name": "Anastasia",
+          "code_url": "https://docs.google.com/document/d/1iuR5DwRNmY_zOwzLawZjOJQceSsJAj3b757N21ZrjeA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5374137421791232/"
+        },
+        {
+          "title": "Integrating ruby-macho fully into Homebrew and removing external dependencies on install_name_tool/otool entirely",
+          "short_description": "During last year's GSoC, I began work on transitioning Homebrew away from its XCode dependency by modifying the bottling system to hook certain...",
+          "student_name": "woodruffw",
+          "code_url": "http://blog.woodruffw.us/2016/08/20/State-of-Ruby-Macho-GSoC-2016-Wrapup-Edition",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6500589231931392/"
+        },
+        {
+          "title": "GPG Verification in Homebrew",
+          "short_description": "Adding GPG optional verification for source packages and Homebrew-provided binary packages (bottles).",
+          "student_name": "domt4",
+          "code_url": "https://gist.github.com/DomT4/cbd077abaebfc67a5b872780fe21cc42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6078376766865408/"
+        },
+        {
+          "title": "Better support HEAD formulae",
+          "short_description": "For now HEAD formulae can't be upgraded by just running brew upgrade &lt;formula&gt; --HEAD. The only way to upgrade HEAD formula is to uninstall it...",
+          "student_name": "Vlad Shablinsky",
+          "code_url": "https://gist.github.com/vladshablinsky/f85838450103acfce86ef53418e464c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6302606271971328/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6752289616297984/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Increasing test coverage for Brew",
+          "short_description": "Why this project?\nThe impact this project has, is huge and being able to make such an impact and also exponentiate my growth graph attracted me...",
+          "student_name": "Mansimar Kaur",
+          "code_url": "https://medium.com/@mansimarkaur.mks/writing-tests-for-brew-during-gsoc-2017-9f61995d037c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4951665782292480/"
+        },
+        {
+          "title": "Port brew audit rules to RuboCop",
+          "short_description": "brew audit command now runs RuboCop custom cops to enforce and automatically fix Homebrew coding style guidelines within supported editors and using...",
+          "student_name": "Gautham Goli",
+          "code_url": "https://gauthamgoli.github.io/blog/2017/08/16/GSoC-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5140405569978368/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4830398454431744/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve Cask Integration",
+          "short_description": "The goal of this project is to improve the integration of Casks and Homebrew-Cask commands into Homebrew by removing redundant code that is used by...",
+          "student_name": "Markus Reiter",
+          "code_url": "https://github.com/Homebrew/brew/issues/4661",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4514338253570048/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6369733965774848/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "replace shell `patchelf` and `readelf` with ruby equivalents",
+          "short_description": "Refactor keg, keg_relocate and elf.rb modules to use rbelftools and patchelf.rb instead of calling shell commands.\nPatchelf.rb is doesn't work well...",
+          "student_name": "rmnull",
+          "code_url": "https://gist.github.com/rmNULL/1eccdc43874a661c90b49ded02699e11",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6419861770600448/"
+        },
+        {
+          "title": "Add support for type checking using Sorbet",
+          "short_description": "The majority of the code in Homebrew is written in Ruby which is a dynamic language. This means that types are checked when the code is run. My...",
+          "student_name": "Vidushee Amoli",
+          "code_url": "https://gist.github.com/vidusheeamoli/9abbcd6f7c72c8c3a66a06ecb0a8f2ba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5656724901462016/"
+        },
+        {
+          "title": "Adding a livecheck Formula DSL and migrating Livecheckables to home-brew/core",
+          "short_description": "DSLs or domain-specific languages are written in order to serve a highly specific purpose. Currently, Homebrew has DSLs for various purposes, in...",
+          "student_name": "Nanda H Krishna",
+          "code_url": "https://github.com/nandahkrishna/GSoC/blob/master/GSoC_2020_Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5328388006346752/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/homebrew/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Auto-bumping resources in Formulae (2022)",
+          "short_description": "Many Homebrew packages use resources, a special kind of package dependency. While Homebrew has tools which automatically upgrade packages to new...",
+          "student_name": "Mohammad Zain Abbas",
+          "code_url": "https://github.com/mohammadzainabbas/GSoC_2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VDmpki2A/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/homebrew/brew",
+  "contact_email": "",
+  "mailing_list": "https://github.com/Homebrew/discussions/discussions",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/machomebrew",
+  "blog_url": "https://brew.sh/blog"
+}

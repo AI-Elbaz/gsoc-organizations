@@ -1,0 +1,48 @@
+{
+  "name": "Mautic",
+  "url": "https://www.mautic.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mautic/p77ddc1xxldz2elv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "ai",
+    "DXP",
+    "Marketing",
+    "Marketing Automation",
+    "Digital Marketing"
+  ],
+  "technologies": [
+    "mysql",
+    "php",
+    "symfony"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/mautic/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "End to End test suite for Mautic",
+          "short_description": "Currently, Mautic lacks a comprehensive end-to-end test suite, which poses challenges in ensuring the reliability and stability of new changes...",
+          "student_name": "Priyanshi Gaur",
+          "code_url": "https://docs.google.com/document/d/1FXnUduefnXz-FEGHPTWRky4vo504pKr8exTjBg8P8LQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XtgSvMJU/"
+        },
+        {
+          "title": "Expand the Mautic Marketplace: Ratings, reviews and  UX improvements",
+          "short_description": "This project will expand the features of Marketplace to make it more user-friendly to the marketer. It will enable the marketer to rate and review...",
+          "student_name": "Ketu Patel (Kgitman)",
+          "code_url": "https://github.com/Kgitman/GSoC-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1ibacFQu/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://mautic.org/slack",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/MauticCommunity",
+  "blog_url": "https://www.mautic.org/blog"
+}

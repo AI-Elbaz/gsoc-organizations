@@ -1,0 +1,41 @@
+{
+  "name": "Kart Project",
+  "url": "https://kartproject.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kart-project/mtb71mb4pzybzrp5-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "version control",
+    "gis",
+    "data",
+    "point clouds",
+    "spatial"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "git",
+    "gis"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/kart-project/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Kart CLI Help Improvements",
+          "short_description": "Kart currently makes use of a CLI tool built using Click for supporting their CLI users as they interact with the commands and the data in their...",
+          "student_name": "Amal Thundiyil",
+          "code_url": "https://amalthundiyil.hashnode.dev/google-summer-of-code-22-with-kart-project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EfCc3ywr/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://github.com/koordinates/kart/discussions/categories/google-soc-sod",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/KartForData"
+}

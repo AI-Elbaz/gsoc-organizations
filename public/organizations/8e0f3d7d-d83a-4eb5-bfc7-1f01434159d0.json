@@ -1,0 +1,33 @@
+{
+  "name": "OW2",
+  "url": "http://www.ow2.org",
+  "image_url": "https://lh3.googleusercontent.com/zQhBjcSPVUqpmZhhdBQAumSlsm_j06H6ibTQAxY2Mq3HbqawRkUcR7DJXyyT6nj-Wfi4JQ7cTotGVER9axt2B6H6axqp1g",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "security",
+    "cloud",
+    "middleware",
+    "enterprise information systems"
+  ],
+  "technologies": [
+    "java",
+    "perl",
+    "middleware",
+    "bpm",
+    "wiki"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6376279188176896/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:management-office@ow2.org",
+  "mailing_list": "https://mail.ow2.org/wws/info/authzforce-team",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ow2"
+}

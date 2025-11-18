@@ -1,0 +1,35 @@
+{
+  "name": "Media Cloud",
+  "url": "https://mediacloud.org/",
+  "image_url": "https://lh3.googleusercontent.com/mBXUpKgF6XBRXAGdU9qKEnXF8nn6WqEtsNF2SgGg9SRZGZUWbdwkOg6vd3poGjfxNkCsLOHeqcX8busN0vJllsvqBPK0ZX5G9ssu65nh19Sr",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "research",
+    "media",
+    "news-media",
+    "media-analytics",
+    "civic-tech"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript",
+    "react",
+    "docker"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6194875543846912/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc-support@mediacloud.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/media_cloud",
+  "blog_url": "https://mediacloud.org/blog"
+}

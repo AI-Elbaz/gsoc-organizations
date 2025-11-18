@@ -1,0 +1,114 @@
+{
+  "name": "Mayor's Office of New Urban Mechanics",
+  "url": "https://www.boston.gov/mechanics",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mayors-office-of-new-urban-mechanics/nu2mgneanw1efocb-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "web",
+    "machine learning",
+    "gis",
+    "civic tech",
+    "analytics"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "ruby",
+    "tensorflow"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5504645576785920/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Boston.gov Solar Roof Potential",
+          "short_description": "This project uses computer vision, satellite imaging (Google Earth), and Analyze Boston to build a lightweight web service API that provides data on...",
+          "student_name": "Nnamdi",
+          "code_url": "https://github.com/monum/boston-solar-potential",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5637487203975168/"
+        },
+        {
+          "title": "Geospatial Tools for Post-Disaster Housing Analysis",
+          "short_description": "This project will focus on creating an open-source GIS Land Suitability Analysis as part of a larger  Regional Catastrophic Grant Program (RCGP) by...",
+          "student_name": "Paulette Vazquez",
+          "code_url": "https://github.com/jpvazque/GIS-Land-Suitability-Analysis-City-of-Boston.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6535510708715520/"
+        },
+        {
+          "title": "Urban Tree Canopy Detection Using Satellite and Aerial Imagery",
+          "short_description": "The City of Boston\u2019s Parks Department maintains a comprehensive data set on trees in Boston. However, it\u2019s a manual and laborious process to get the...",
+          "student_name": "Aditi Sawant",
+          "code_url": "https://github.com/monum/deep-forest-boston",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5207002631897088/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mayors-office-of-new-urban-mechanics/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improved Translation for the City\u2019s 311 App with Machine Learning",
+          "short_description": "The aim of the project is to build an API-accessible service that improves the translation of text from residents reporting issues through the 311...",
+          "student_name": "Tejasvi Chebrolu",
+          "code_url": "https://github.com/monum/311-translation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Is3b6kJY/"
+        },
+        {
+          "title": "Salihu Dickson Google Summer of Code proposal",
+          "short_description": "The Problems I am applying to solve are: 1. Building a Tool for Collecting Crowdsourced Ideas on Interactive maps, this is supposed to help people...",
+          "student_name": "Salihu",
+          "code_url": "https://github.com/monum/crowdsourced-map",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/k1Z2Puxy/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mayors-office-of-new-urban-mechanics",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Exploring Intersection of Civic Technology and Large Language Models",
+          "short_description": "For years, the government has struggled to provide helpful information for residents in need. Sometimes the resources are not readily accessible, or...",
+          "student_name": "August Fu",
+          "code_url": "https://medium.com/@yuntongf/gsoc-23-exploring-the-interesection-of-llms-and-civic-technologies-bb35cc9eb5ce",
+          "proposal_id": "HgthkMbg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/g6eReF6j"
+        },
+        {
+          "title": "Dashboard for Equity in City Infrastructure",
+          "short_description": "The goal of this project is to build a web-based dashboard that allows City departments to keep track of infrastructure investments and measure their...",
+          "student_name": "chiragmahapatra",
+          "code_url": "https://github.com/monum/llm-exploration",
+          "proposal_id": "DXHANEam",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yNFqE4fX"
+        },
+        {
+          "title": "Backend System for Historical Audio Tour Application",
+          "short_description": "We want to build an audio tour application that highlights sites visible from MBTA's (Massachusetts Bay Transportation Authority) public...",
+          "student_name": "SarahA",
+          "code_url": "https://github.com/monum/history-tour-server",
+          "proposal_id": "cV83eigX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/v3JUl21a"
+        },
+        {
+          "title": "Improving Civic Technology to Achieve Equity Goals",
+          "short_description": "This proposal is to assist the City of Boston in achieving in equity goals, either by helping implement a city chatbot powered by large...",
+          "student_name": "Sebastian O.",
+          "code_url": "https://github.com/sebastian-orozco/Google-Summer-of-Code-2023/tree/main",
+          "proposal_id": "gNB3rS6F",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/j7CMjD81"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@newurbanmechanics.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/newurbanmechs",
+  "blog_url": "https://newurbanmechanics.medium.com/"
+}

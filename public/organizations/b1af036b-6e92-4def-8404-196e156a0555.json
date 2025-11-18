@@ -1,0 +1,238 @@
+{
+  "name": "HumanAI",
+  "url": "http://humanai.foundation",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/humanai/n5oaqivpu4hu4alm-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "machine learning",
+    "artificial intelligence",
+    "ai",
+    "Arts",
+    "Humanities"
+  ],
+  "technologies": [
+    "python",
+    "machine learning",
+    "c++",
+    "data analysis",
+    "artificial intelligence"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/humanai/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Revealing the Unseen Paintings: Siamese Network-Based Image Retrieval with Multispectral Images",
+          "short_description": "This proposal outlines a novel approach for retrieving hidden image from paintings using AI-generated multispectral image dataset and a Siamese...",
+          "student_name": "Soyoung Park",
+          "code_url": "https://github.com/humanai-foundation/ArtExtract/tree/main/ArtExtract_Soyoung",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/UbSBMuRD/"
+        },
+        {
+          "title": "Automating Text Recognition and Transliteration of Historical Documents with CRNN architectures",
+          "short_description": "This project aims to address the challenge of text recognition from historical Spanish printed sources dating back to the seventeenth century, a...",
+          "student_name": "ShashankShekharSingh",
+          "code_url": "https://github.com/humanai-foundation/RenAIssance/tree/main/RenAIssance_CRNN_OCR_Shashank_Shekhar_Singh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lg7vQeMM/"
+        },
+        {
+          "title": "Text Recognition with Transformer Models",
+          "short_description": "Optical Character Recognition (OCR) technology has revolutionised document digitization, converting printed and handwritten text into...",
+          "student_name": "Arsh Ahmed Faisal Khan",
+          "code_url": "https://github.com/humanai-foundation/RenAIssance/tree/main/RenAIssance_Transformer_OCR_Arsh_Khan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qnIVjbSY/"
+        },
+        {
+          "title": "Driving Behavior Research through AI",
+          "short_description": "The aim of this project is to gain deeper insights into driver behavior, identifying potential risk factors, and developing effective interventions...",
+          "student_name": "Aditya Arvind",
+          "code_url": "https://github.com/humanai-foundation/ISSR/tree/main/ISSR_Fatigue_detection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lqT70TLt/"
+        },
+        {
+          "title": "AI-Generated Choreography - from Solos to Duets",
+          "short_description": "Traditionally, technology and dance have moved in separate circles, rarely crossing paths. However, the landscape is changing with the rise of AI in...",
+          "student_name": "Luis Zerkowski",
+          "code_url": "https://github.com/Luizerko/ai_choreo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/v8dulU0R/"
+        },
+        {
+          "title": "Gender, Roles & Careers: Exploring Congruity Theories",
+          "short_description": "This proposal seeks to investigate gender disparities in career trajectories and the impact of gender-minority status on career changes during...",
+          "student_name": "Rashi Gupta",
+          "code_url": "https://medium.com/@rashiguptaofficial/exploring-gender-roles-in-education-a-grade-wise-analysis-cb87db14bc7d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lz5XGsgO/"
+        },
+        {
+          "title": "AI-Generated Choreography - from Solos to Duets",
+          "short_description": "This proposal aims at developing AI-generated choreography for duets. It outlines a novel approach leveraging both Transformer and Graph Neural...",
+          "student_name": "Zixuan Wang",
+          "code_url": "https://github.com/wang-zixuan/ChoreoAI/tree/main/ChoreoAI_Zixuan_Wang",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PEvVr15z/"
+        },
+        {
+          "title": "Text Recognition with Transformer Models",
+          "short_description": "This proposal seeks to address the challenge of text recognition in seventeenth-century Spanish documents, a domain where contemporary OCR...",
+          "student_name": "Utsav Rai",
+          "code_url": "https://github.com/humanai-foundation/RenAIssance/tree/main/RenAIssance_Transformer_OCR_Utsav_Rai",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IxqaG5cU/"
+        },
+        {
+          "title": "HumanAI-2024-AI to Improve Analysis Accuracy",
+          "short_description": "Project: Enhancing Program Evaluation Research by Leveraging AI for Integrated Analysis of Mixed-Methods Data This project aims to leverage advanced...",
+          "student_name": "Shao Jin",
+          "code_url": "https://medium.com/@sj3192/18c818d77527",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mco38xiq/"
+        },
+        {
+          "title": "Self-supervised models for automatic historical OCR",
+          "short_description": "The goal of this project is to build a model to recognize text in century-old documents with over 80% accuracy. To achieve this goal, I will carry...",
+          "student_name": "Yukinori Yamamoto",
+          "code_url": "https://medium.com/@yamanko1234/historical-ocr-with-self-supervised-learning-c4f00da6637f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5ulwxFaQ/"
+        },
+        {
+          "title": "Examination of the evolution of language among Dark Web users",
+          "short_description": "This project uses Dark Web discussion board data to examine changes in language surrounding crime/offending over time. This project employs natural...",
+          "student_name": "Domenico Lacavalla",
+          "code_url": "https://medium.com/@domenicolacavalla8/examination-of-the-evolution-of-language-among-dark-web-users-67fd3397e0fb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kN6CmoUo/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/humanai",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "End-to-end handwritten text recognition for early modern spanish documents",
+          "short_description": "This project focuses on end-to-end Handwritten Text Recognition (HTR) for early modern Spanish manuscripts. Unlike traditional OCR systems, which...",
+          "student_name": "Aniket Junghare",
+          "code_url": null,
+          "proposal_id": "c5eyjx3g",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/53h89bdk"
+        },
+        {
+          "title": "End to End OCR System using Transformer Models",
+          "short_description": "Optical Character Recognition (OCR) technology has revolutionized document digitization. However, existing OCR tools like Adobe Acrobat and Google\u2019s...",
+          "student_name": "Arsh Ahmed Faisal Khan",
+          "code_url": null,
+          "proposal_id": "Bx2D55Q1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WvX5G3H0"
+        },
+        {
+          "title": "Healing Stones - Reconstructing digitized cultural heritage artifacts with artificial intelligence",
+          "short_description": "This project aims to develop an AI-powered system for the virtual reconstruction of fragmented cultural heritage artifacts, with a focus on Mayan...",
+          "student_name": "Atif_khan",
+          "code_url": null,
+          "proposal_id": "SvCkkykm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/elgslkxD"
+        },
+        {
+          "title": "Communication Analysis Tool for Human-AI Interaction Driving Simulator Experiments",
+          "short_description": "I propose to make an AI-powered tool that can analyze complex communication data from driving simulator experiments at the Translational Research for...",
+          "student_name": "eskayML",
+          "code_url": null,
+          "proposal_id": "ossKqKrj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tDtErLvN"
+        },
+        {
+          "title": "Improving Renaissance Spanish OCR with CNN-RNN Hybrids and Weighted Learning",
+          "short_description": "Project Summary: Problem: Renaissance-era Spanish texts remain digitally inaccessible due to modern OCR systems' inability to process archaic glyphs...",
+          "student_name": "Kate O'Reilly",
+          "code_url": null,
+          "proposal_id": "jBlXvd9I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/benininZ"
+        },
+        {
+          "title": "17th Century Spanish text recognition with transformer models",
+          "short_description": "This project addresses the challenge of accurately digitizing degraded 17th-century Spanish manuscripts, which suffer from irregular layouts, archaic...",
+          "student_name": "Kulkarni Pranav P",
+          "code_url": null,
+          "proposal_id": "xv7wy5Ot",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vz3dxbtz"
+        },
+        {
+          "title": "renAIssance: Synthetic text generation with Generative Models",
+          "short_description": "For Historical Manuscripts, limited availability of data a limiting factor in training OCR or Layout Detection models. In this project I propose the...",
+          "student_name": "SaarthakGupta",
+          "code_url": null,
+          "proposal_id": "VyQ777u0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tBqjGdfq"
+        },
+        {
+          "title": "Healing Stones \u2013 Reconstructing digitized cultural heritage artifacts with artificial intelligence",
+          "short_description": "Cultural heritage artifacts are often fragmented due to time, conflict, and environmental factors, making physical reconstruction challenging and...",
+          "student_name": "Satvik Nanda",
+          "code_url": null,
+          "proposal_id": "qNUqUAJW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hI7Ak1CO"
+        },
+        {
+          "title": "Automating text recognition & transliteration of historical documents with weighted CRNN models.",
+          "short_description": "This project aims to address the challenge of text recognition from historical Spanish printed sources dating back to the seventeenth century, a...",
+          "student_name": "ShashankShekharSingh",
+          "code_url": null,
+          "proposal_id": "KHrIDNDT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GjZqgamc"
+        },
+        {
+          "title": "Text Recognition with Transformer Models for Efficient Deployment",
+          "short_description": "This project addresses the challenge of making advanced Transformer-based OCR technology for historical documents accessible to non-technical users...",
+          "student_name": "Utsav Rai",
+          "code_url": null,
+          "proposal_id": "9exeMlOt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SWLdu59R"
+        },
+        {
+          "title": "AI-Powered Behavioral Analysis for Mental Health Crisis Detection and Geospatial Trend Analysis",
+          "short_description": "This project aims to build an AI-driven behavioural monitoring system to detect mental health, suicide, and substance use crises in real time using...",
+          "student_name": "Vishnu Sankhyan",
+          "code_url": null,
+          "proposal_id": "EvNNMJGL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/w3ZCPSZb"
+        },
+        {
+          "title": "Coding Actions and Fatalities in Militarized Interstate Confrontations",
+          "short_description": "This project builds a fully explainable NLP pipeline to identify and classify Military-Involved Conflicts (MIC) from raw text articles. Unlike...",
+          "student_name": "wJoshua",
+          "code_url": null,
+          "proposal_id": "PrFGxrTN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Aec3lKEK"
+        },
+        {
+          "title": "ArtExtract",
+          "short_description": "This project aims to enhance the analysis of multispectral paintings by detecting hidden images and understanding their structural characteristics....",
+          "student_name": "YANG MING-CHUN",
+          "code_url": null,
+          "proposal_id": "I90pCKLi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7NT6U2W1"
+        },
+        {
+          "title": "AI-Powered Behavioral Analysis for Crisis Detection and Prevention",
+          "short_description": "This project aims to develop an AI-powered system that supports early detection and ongoing monitoring of suicide, substance use, and mental health...",
+          "student_name": "Yixing (Spark) Fan",
+          "code_url": null,
+          "proposal_id": "RintC6Ym",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oiAp4mUW"
+        },
+        {
+          "title": "End-to-End Historical OCR Pipeline with 80%+ Accuracy",
+          "short_description": "The objective of this project is to develop a robust, end-to-end OCR pipeline capable of achieving at least 80% accuracy in recognizing characters...",
+          "student_name": "Yukinori Yamamoto",
+          "code_url": null,
+          "proposal_id": "IwIcjtSD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XCiS1TH7"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.gitter.im/#/room/#humanai-foundation:gitter.im",
+  "contact_email": "",
+  "mailing_list": "https://simba3.web.cern.ch/simba3/SelfSubscription.aspx?groupName=humanai-announce",
+  "ideas_url": "https://humanai.foundation/",
+  "guide_url": "",
+  "blog_url": "http://humanai.foundation"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Semi Technologies",
+  "url": "https://weaviate.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/semi-technologies/bcwggbwqvxkpo6qq.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "Vector Database",
+    "Search Engines"
+  ],
+  "technologies": [
+    "python",
+    "machine learning",
+    "golang",
+    "vectors",
+    "natural language processing"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/semi-technologies/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving the Weaviate CLI",
+          "short_description": "Weaviate CLI offers very limited functionalities. Even though there are various other options to interact with a Weaviate instance, we cannot simple...",
+          "student_name": "Aryan Narayan",
+          "code_url": "https://github.com/semi-technologies/weaviate-cli/pull/60",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Ln5K8yFb/"
+        },
+        {
+          "title": "Make a new Weaviate module",
+          "short_description": "Weaviate is a cloud-native vector search engine and a vector database. Weaviate is completely modularized and the functionalities of the weaviate can...",
+          "student_name": "Dasith Edirisinghe",
+          "code_url": "https://dasith-dev.medium.com/gsoc-2022-final-report-1324a75e2cfa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ByeaY6aK/"
+        },
+        {
+          "title": "Any new demo (e.g. python notebook) that can be integrated into our website/examples etc.",
+          "short_description": "This project aims to make more examples and tutorials for weaviate. As any beginner who wants to use weaviate, These examples and tutorials are the...",
+          "student_name": "Yash Gupta",
+          "code_url": "https://gist.github.com/YASH-GU24/9ce35e5c40ac8a2efbcaa1989a23da05",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4pziqZc9/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/weaviate/shared_invite/zt-goaoifjr-o8FuVz9b1HLzhlUfyfddhw",
+  "contact_email": "hello@semi.technology",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/weaviate_io"
+}

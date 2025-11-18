@@ -1,0 +1,575 @@
+{
+  "name": "Haskell.org",
+  "url": "https://haskell.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/haskellorg/ivy7hfguqhoz8onp-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming languages",
+    "functional-programming",
+    "education",
+    "compilers",
+    "haskell",
+    "functional programming",
+    "build tools",
+    "#compilers",
+    "#programming-tools",
+    "#functional-programming",
+    "#programming-languages",
+    "#education",
+    "programming tools"
+  ],
+  "technologies": [
+    "haskell",
+    "ghc",
+    "cabal",
+    "codeworld",
+    "servant",
+    "compiler"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Native-Metaprogramming Reloaded",
+          "short_description": "The goal is to continue on an ongoing work, utilising the Trees that Grow technique, to introduce native-metaprogramming in GHC....",
+          "student_name": "Shayan Najd",
+          "code_url": "https://github.com/shayan-najd/HsAST/blob/master/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6329812272545792/"
+        },
+        {
+          "title": "Benchmarking graph libraries and optimising algebraic graphs",
+          "short_description": "A graph represents a key structure in computer science and they are known to be difficult to work with in functional programming languages. Several...",
+          "student_name": "Alexandre Moine",
+          "code_url": "https://blog.nyarlathotep.one/2018/08/gsoc-results/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5650235770535936/"
+        },
+        {
+          "title": "Improvements to GHC's handling of conditionals.",
+          "short_description": "Improvements to GHC's Code Generator\nImproved code layout\nIn the current approach there is no way to incorporate additional control flow information...",
+          "student_name": "Andreas Klebinger",
+          "code_url": "https://gist.github.com/AndreasPK/c4a6d8b5f199215ea7747d98d0f65de4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5390430782881792/"
+        },
+        {
+          "title": "Hi Haddock",
+          "short_description": "A long-standing issue with Haskell\u2019s documentation tool Haddock is\nthat it needs to effectively re-perform a large part of the...",
+          "student_name": "Simon Jakobi",
+          "code_url": "https://sjakobi.github.io/blog/2018/08/14/hi-haddock-3/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5011474275631104/"
+        },
+        {
+          "title": "Improving the GHC code generator",
+          "short_description": "This project attempts to improve the native code generator of GHC by adding support for Intel AVX and SSE SIMD instructions. This support would...",
+          "student_name": "Abhiroop Sarkar",
+          "code_url": "https://gist.github.com/Abhiroop/9a2600f24f8139b7fc0742a2b4585bb3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5034051576528896/"
+        },
+        {
+          "title": "Enhancing the Haskell Image Processing Library with State of the Art Algorithms : Project Proposal GSoC, 2018",
+          "short_description": "The project proposed here aims to implement different classes of Image processing algorithms using Haskell and incorporate the same to the existing...",
+          "student_name": "Khilan Ravani",
+          "code_url": "https://medium.com/@khilanravani/image-processing-gsoc18-with-haskell-84177cec618",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5107844282056704/"
+        },
+        {
+          "title": "Functional test framework for the Haskell IDE Engine and Language Server Protocol Library",
+          "short_description": "The Haskell IDE Engine is a Haskell backend for IDEs, which utilises the Language Server Protocol to communicate between clients and servers.\nThis...",
+          "student_name": "Luke Lau",
+          "code_url": "https://lukelau.me/haskell/posts/lsp-test/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5604500005978112/"
+        },
+        {
+          "title": "Visual Tools and Bindings for Debugging in Code World",
+          "short_description": "Visual Debugging tools that will allow various ages to interact with and learn visually while tracing  their bugs in Haskell",
+          "student_name": "Krystal Maughan",
+          "code_url": "https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6213185723957248/"
+        },
+        {
+          "title": "A Library for In-Memory Data Analysis in Haskell",
+          "short_description": "A typical workflow in interactive data analysis consists of :\n\nLoading data (e.g.\u00a0a CSV on disk)\nTransforming the data\nVarious data processing stages...",
+          "student_name": "Gagandeep Bhatia",
+          "code_url": "https://hackage.haskell.org/package/Frames-beam",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4689277841571840/"
+        },
+        {
+          "title": "Dependently Typed Core Replacement in GHC",
+          "short_description": "In recent years, several works (Weirich et al., 2017; Eisenberg, 2016; Gundry, 2013) have proposed to integrate dependent types into Haskell....",
+          "student_name": "Ningning Xie",
+          "code_url": "https://xnning.github.io/papers/gsoc-report.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6515515652571136/"
+        },
+        {
+          "title": "Making GHC Tooling friendly",
+          "short_description": "GHC builds up a wealth of information about Haskell source as it compiles it, but throws all of it away when it's done. Any external tools that need...",
+          "student_name": "Zubin Duggal",
+          "code_url": "https://gist.github.com/wz1000/5ed4ddd0d3e96d6bc75e095cef95363d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4873731453222912/"
+        },
+        {
+          "title": "Helping cabal new-build become just cabal build",
+          "short_description": "While much of the functionality required to use the new-* commands has already been implemented, there are not-insignificant parts of the design that...",
+          "student_name": "Alexis Williams",
+          "code_url": "https://typedr.at/posts/what-i-did-on-my-summer-vacation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4915097491210240/"
+        },
+        {
+          "title": "Add support for deprecating exports",
+          "short_description": "Add support of deprecation pragmas within module exports. This would ease the transition between different versions of the software by warning the...",
+          "student_name": "Alanas Plascinskas",
+          "code_url": "https://medium.com/@alanas.pla/my-gsoc-2018-experience-689e1368cf61",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5883697978933248/"
+        },
+        {
+          "title": "Support for Multiple Public Libraries in a .cabal package",
+          "short_description": "Large scale haskell projects tend to have a problem with lockstep distribution of packages (especially backpack projects, being extremely granular)....",
+          "student_name": "Francesco Gazzetta @fgaz",
+          "code_url": "https://github.com/fgaz/gsoc/blob/master/2018/final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6273044817379328/"
+        },
+        {
+          "title": "Parallel Automatic Differentiation",
+          "short_description": "Automatic Differentation (AD) is a technique for computing derivatives of numerical functions that does not use symbolic differentiation or...",
+          "student_name": "Andrew Knapp",
+          "code_url": "https://github.com/ajknapp/accelerate-ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6325194578722816/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6049761981890560/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Issue-Wanted Web Application",
+          "short_description": "Issue-wanted is a web application focused on improving the open source Haskell community. It does so by centralizing and categorizing GitHub issues...",
+          "student_name": "Rashad Gover",
+          "code_url": "https://rashadg1030.github.io/rashad-blog/8.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6337793628831744/"
+        },
+        {
+          "title": "Improving HsYAML Library",
+          "short_description": "HsYAML is a pure Haskell idiomatic implementation of the YAML 1.2 data serialization language with a strong emphasis on compliance with the YAML 1.2...",
+          "student_name": "Vijay Tadikamalla",
+          "code_url": "https://vijayphoenix.github.io/blog/gsoc-the-conclusion/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5677076210778112/"
+        },
+        {
+          "title": "Improving Hackage Matrix Builder as a Real-world Fullstack Haskell Project",
+          "short_description": "Finding the best example of full-stack Haskell web development project is hard as a beginner to intermediate Haskell developer. This is based on my...",
+          "student_name": "Andika Riyandi (Rizary)",
+          "code_url": "https://github.com/haskell-CI/hackage-matrix-builder/issues/68",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5731777769897984/"
+        },
+        {
+          "title": "Putting hie Files to Good Use",
+          "short_description": "A collection of small to medium length tasks which will improve the Haskell\neditor tooling experience, as a continuation of my work on GSOC18 and...",
+          "student_name": "Zubin Duggal",
+          "code_url": "https://github.com/wz1000/hiw-hie/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5402739855589376/"
+        },
+        {
+          "title": "Upgrading hs-web3 library",
+          "short_description": "Impement a WebSocket layer to hs-web3 and use this WebSocket Functionality to upgrade the current web3 modules and implement an IPFS-Api module using...",
+          "student_name": "amany9000",
+          "code_url": "https://github.com/airalab/hs-web3/pull/93",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5512555794006016/"
+        },
+        {
+          "title": "More graph algorithms for Alga",
+          "short_description": "The project is about adding some new features to Alga library. This project is on the list of ideas.\nBriefly about goals:\nAcyclic graphs\nI finished...",
+          "student_name": "Vasily Alferov",
+          "code_url": "https://summer.haskell.org/news/2019-08-26-alga-results.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5612565801992192/"
+        },
+        {
+          "title": "Extending Alga",
+          "short_description": "Alga is a library for algebraic construction and manipulation of graphs in Haskell. Currently there are two main goals, as proposed by Mr. Andrey...",
+          "student_name": "O V Adithya Kumar",
+          "code_url": "https://gist.github.com/adithyaov/296dfc965f74002e8a10a8c35ee77e6e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4778315028627456/"
+        },
+        {
+          "title": "Implementing Chebyshev polynomial approximations in Haskell: Having the speed and precision of numerics with complex, non-polynomial functions.",
+          "short_description": "Practically speaking, in science, engineering, and statistics, most computations are done numerically. My project aims to implement a library that...",
+          "student_name": "Deifilia To",
+          "code_url": "https://github.com/DeifiliaTo/chebApprox",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6517962758946816/"
+        },
+        {
+          "title": "Hadrian Optimisation",
+          "short_description": "Hadrian seeks to replace GHC\u2019s current Make-based build system some time around GHC 8.8, but since the main goal of Hadrian so far has been to...",
+          "student_name": "ratherforky",
+          "code_url": "https://medium.com/@ratherforky/hsoc-hadrian-optimisation-final-report-7c6aa1132dcd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6087177404940288/"
+        },
+        {
+          "title": "Automated requirements checking as a GHC plugin",
+          "short_description": "The aim of this project would be to create a GHC plugin that allows instructors to define requirements for the code within a project and...",
+          "student_name": "Daniel Marshall",
+          "code_url": "https://gist.github.com/starsandspirals/3594e0b6072ff95c8d51e5264a7f6277",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5891792497541120/"
+        },
+        {
+          "title": "Extending Hasktorch With RNNs and Encoder-Decoder",
+          "short_description": "Project is to build a sequence-to-sequence encoder-decoder model as a module of the Hasktorch library, and demonstrate it on an NLP task.",
+          "student_name": "AdLucem",
+          "code_url": "https://adlucem.github.io/blog/2019/08/25/gsoc-roundup.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5907540984987648/"
+        },
+        {
+          "title": "Functional Machine Learning with Hasktorch: Produce Functional Machine Learning Model Reference Implementations",
+          "short_description": "Neural networks are a powerful tool in machine learning. An integral part of any network is its architecture. However, structuring and comparing new...",
+          "student_name": "Jesse Sigal",
+          "code_url": "https://github.com/jasigal/hasktorch-naperian",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5912323028418560/"
+        },
+        {
+          "title": "Property-based testing stateful programs using quickcheck-state-machine",
+          "short_description": "Testing software is essential. As a project gets bigger, the difficulty of testing the interactions of all its components increases. Property based...",
+          "student_name": "Kostas Dermentzis",
+          "code_url": "https://github.com/kderme/gsoc/blob/master/blog/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5992186468892672/"
+        },
+        {
+          "title": "A language server for Dhall",
+          "short_description": "The aim of the proposed project is to improve support for the Dhall language in mainstream editors via the Language Server Protocol standard.",
+          "student_name": "Frederik Ramcke",
+          "code_url": "https://github.com/EggBaconAndSpam/eggbaconandspam.github.io/blob/master/posts/2019-08-22-final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5156860695412736/"
+        },
+        {
+          "title": "A stronger foundation for interactive Haskell tooling",
+          "short_description": "Inevitably new and prospective Haskell users will attempt to obtain editor/IDE\nintegration for Haskell but unfortunately they are much more likely to...",
+          "student_name": "dxld",
+          "code_url": "https://gist.github.com/DanielG/bbb69a969cb73c05ed9eaf160a6e4ac4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5212790246080512/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4947391960055808/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Multiple Home Packages for GHC",
+          "short_description": "Haskell tooling has improved considerably over the last year. Haskell IDE Engine was able to build a user-base that is happy with the feature set....",
+          "student_name": "fendor",
+          "code_url": "https://gist.github.com/fendor/5b26d36538787c8c2ed8c6eb6e68541f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6581025452326912/"
+        },
+        {
+          "title": "`SPECIALIZABLE` GHC pragma",
+          "short_description": "The main task of this project is the addition of a SPECIALIZABLE pragma to GHC, that will have the effect of exposing an unfolding of the marked...",
+          "student_name": "Francesco Gazzetta @fgaz",
+          "code_url": "https://github.com/fgaz/gsoc/blob/master/2020/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6682244913037312/"
+        },
+        {
+          "title": "Functional Machine Learning Algorithms for Music Generation",
+          "short_description": "The proposed outcome of this Summer of Haskell research is the production of a library or package for live coding autonomous music through...",
+          "student_name": "Elizabeth Wilson",
+          "code_url": "https://blog.tidalcycles.org/autonomous-live-coding-summer-of-haskell-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5394169725452288/"
+        },
+        {
+          "title": "Custom Dataloader for Hasktorch",
+          "short_description": "Hasktorch is an important project for showcasing what a strong type system andfunctional programming can bring to machine learning tasks. The...",
+          "student_name": "Andre Daprato",
+          "code_url": "",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5091668233027584/"
+        },
+        {
+          "title": "Finish the package candidate workflow for Hackage",
+          "short_description": "Currently, the package candidates are not using the templating system and their UI can be improved. To improve the candidates publishing process, we...",
+          "student_name": "Sitao Chen",
+          "code_url": "https://sitaochen.github.io/hackage-server/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5233044966866944/"
+        },
+        {
+          "title": "Number Field Sieves",
+          "short_description": "This proposal aims to implement efficiently the quadratic sieve and the general number field sieve in Haskell while producing a mathematically...",
+          "student_name": "Federico Bongiorno",
+          "code_url": "https://github.com/folidota/GSoC2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6219713979351040/"
+        },
+        {
+          "title": "Building the Haskell Language Server and more",
+          "short_description": "After a busy couple of days at the Bristol Hackathon, the developers behind ghcide and haskell-ide-engine merged efforts resulting in an exciting...",
+          "student_name": "lukelau",
+          "code_url": "https://gist.github.com/bubba/22719e8854c728bc726d1a6cfb9ded81",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4626717085270016/"
+        },
+        {
+          "title": "Documentation generator for the Dhall configuration language",
+          "short_description": "Actual Problem\nDhall is a programmable configuration language. Despite as haskell programs which have haddock as a documentation generator tool,...",
+          "student_name": "German Robayo",
+          "code_url": "https://dev.to/german1608/season-finale-dhall-documentation-generator-2lfn",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4698605509672960/"
+        },
+        {
+          "title": "Add primops to expand the (boxed) array API",
+          "short_description": "GHC is an industry-strength compiler for Haskell. I am proposing to add primitives that allow more efficient operations involving immutable...",
+          "student_name": "buggymcbugfix",
+          "code_url": "https://github.com/buggymcbugfix/not-not-a-blog/blob/master/2020-08-28-gsoc.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4731011910336512/"
+        },
+        {
+          "title": "Update stylish-haskell to use ghc-lib-parser",
+          "short_description": "Stylish-haskell is a code prettifier that formats Haskell programs relying on the haskell-src-exts library to parse the Haskell code into an AST. ...",
+          "student_name": "Beatrice Vergani",
+          "code_url": "https://github.com/jaspervdj/stylish-haskell/tree/ab9953448c2253073d2d07a02b920beb32938fed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6121552904454144/"
+        },
+        {
+          "title": "Build-integration and Badges for Hackage",
+          "short_description": "Hackage have a dedicated Builder application which builds the package, documentation and report same to the hackage server. While this information...",
+          "student_name": "Shubham Awasthi",
+          "code_url": "https://awasthishubh.github.io/gsoc-2020-haskell",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4891990338043904/"
+        },
+        {
+          "title": "Optimising Haskell developer tool performance using OpenTelemetry",
+          "short_description": "The Haskell developer tool ecosystem, while greatly improving in recent years, has a performance problem. Haskell IDE Engine (HIE), the most popular...",
+          "student_name": "mpardalos",
+          "code_url": "https://github.com/wz1000/ghcide/pull/15",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5210917429575680/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6216810210263040/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Enhanced figure support in pandoc",
+          "short_description": "Figures play a central role in the life cycle of all kinds of research and analysis. That is: The communication of results.\nWhat we propose in this...",
+          "student_name": "Aner Lucero",
+          "code_url": "https://argent0.github.io/posts/2021/pandoc-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5684006363856896/"
+        },
+        {
+          "title": "Gradually Typed Hasktorch",
+          "short_description": "Hasktorch has two distinct APIs for tensors: Torch.Tensor and Torch.Tensor.Typed. While the untyped version can initially be easier to use and...",
+          "student_name": "Julius Marozas",
+          "code_url": "https://gist.github.com/jul1u5/7c5fadb51a9c5f8d7f2a722d6071c1da",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5692818261016576/"
+        },
+        {
+          "title": "Fixing ihaskell-widgets",
+          "short_description": "While mainly used in data science, Jupyter Notebook\u2019s interactivity makes it a great tool for teachingand learning new concepts and programming...",
+          "student_name": "David Dav\u00f3",
+          "code_url": "https://daviddavo.github.io/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5060935458226176/"
+        },
+        {
+          "title": "Haskell in CodeMirror 6",
+          "short_description": "CodeMirror 6 is an editor which supports many programming languages. However, it lacks first-class language support for Haskell. The Abstract Syntax...",
+          "student_name": "Olivian Cretu",
+          "code_url": "https://github.com/odc19/haskell_code_mirror",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5320241122377728/"
+        },
+        {
+          "title": "Visualization Libraries for ghc-debug",
+          "short_description": "\"ghc-debug\" is a heap profiler tool for GHC that pauses the current program and lets you run your own custom analyses on the heap. My proposal is to...",
+          "student_name": "Ethan Tsz Hang Kiang",
+          "code_url": "https://zyklotomic.github.io/blog/gsoc_2021_final_eval.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5349991454867456/"
+        },
+        {
+          "title": "Support call hierarchy in Haskell Language Server",
+          "short_description": "This proposal aims to add call hierarchy support in Haskell Language Server(HLS).\nLanguage Server Protocol(LSP) has supported call hierarchy in 3.16,...",
+          "student_name": "Lei Zhu",
+          "code_url": "https://github.com/haskell/haskell-language-server/pull/1955",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4749885739368448/"
+        },
+        {
+          "title": "TOML Support in dhall-haskell",
+          "short_description": "This is a proposal to add serialization and deserialization support for\nTOML in the functional configuration language Dhall. TOML is a relatively new...",
+          "student_name": "Julio Grillo",
+          "code_url": "https://gist.github.com/ear7h/78265c4755adc01fa6e6a19e3307ef4d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4861813493071872/"
+        },
+        {
+          "title": "TidalCycles API and editor plugin",
+          "short_description": "TidalCycles is an Embedded Domain Specific Language for pattern, in use by 10,000s of musicians worldwide. However it has had little work done on the...",
+          "student_name": "Martin Gius",
+          "code_url": "https://github.com/polymorphicengine/tidal-gui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4943335227129856/"
+        },
+        {
+          "title": "Dhall bindings to TOML configuration language",
+          "short_description": "Dhall is a programmable configuration language that uses functions, types and imports to make readable configuration files easily. Right now, Dhall...",
+          "student_name": "Marcos Lerones",
+          "code_url": "https://dev.to/marcosjlr/google-summer-of-code-summary-dhall-bindings-to-csv-4g0f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5861049479200768/"
+        },
+        {
+          "title": "Haskell Language Server: Symbol Renaming",
+          "short_description": "The Haskell Language Server is a popular, comprehensive Haskell IDE; however, it is yet to implement a core feature: symbol renaming. With the recent...",
+          "student_name": "Oliver Madine",
+          "code_url": "https://gist.github.com/OliverMadine/96927f88b6e5e7890e5179559089166c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5190011741274112/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/haskellorg/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Improve HLS Support for Record-Dot-Syntax",
+          "short_description": "For GHC 9.2.x to achieve more widespread adoption, tooling will need to support its best features. For years users have been frustrated by Haskell's...",
+          "student_name": "Colten",
+          "code_url": "https://coltenwebb.github.io/posts/2022-09-09-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JdYrRc8K/"
+        },
+        {
+          "title": "[Haskell.org]  Support more LSP features in Haskell Language Server",
+          "short_description": "This project proposes various new features for the haskell language server(HLS). While HLS already comes with the most important ones, a few haven\u2019t...",
+          "student_name": "Aarush Bhat (sloorush)",
+          "code_url": "https://blog.sloorush.com/posts/gsoc-hls/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/sQlM6bPH/"
+        },
+        {
+          "title": "Operating Chrome with Haskell",
+          "short_description": "The Chrome DevTools Protocol (CDP) serves a variety of automation use cases by providing programmatic access to Chrome. These include data...",
+          "student_name": "Arsalan Cheema",
+          "code_url": "https://github.com/arsalan0c/cdp-hs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/I80cR26b/"
+        },
+        {
+          "title": "Modularizing GHC",
+          "short_description": "The architecture of the GHC compiler in its current state is anti-modular. Designed with GHC-the-program as the sole consumer in mind, it is very...",
+          "student_name": "Dominik Peteler",
+          "code_url": "https://gitlab.haskell.org/mmhat/ghc/-/tree/wip/21611-move-corem",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WWgHBTde/"
+        },
+        {
+          "title": "Hackage - Package Rank",
+          "short_description": "hackage-server as of yet does not support more advanced algorithm for sorting relevant packages (at the moment user rating is used), this proposal...",
+          "student_name": "KubanekO",
+          "code_url": "https://kubaneko.github.io/posts/2022/PackageRank",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZePmlfr6/"
+        },
+        {
+          "title": "MMTk Port for GHC: An alternative of the current GHC storage manager",
+          "short_description": "The proposed project aims at establishing a port between GHC and [MMTk](https://www.mmtk.io/) -- an external memory management toolkit that provides...",
+          "student_name": "Junming Zhao",
+          "code_url": "https://gitlab.haskell.org/JunmingZhao42/ghc/-/blob/mmtk/nogc2.0/rts/mmtk/docs/GSoC_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VCly6JP2/"
+        },
+        {
+          "title": "Implementing a GPU Backend for Advanced Machine Learning Algorithms",
+          "short_description": "This project enhances Goal - a library of machine learning algorithms based on Haskell - with a GPU backend provided by Hasktorch. Goal strikes a...",
+          "student_name": "Zarak Mahmud",
+          "code_url": "https://gsoc-2022-final-report.netlify.app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4WYrEknl/"
+        },
+        {
+          "title": "New Hackage Features",
+          "short_description": "This proposal aims to add new features to the Hackage server, mainly include package sorting, user info update and user notification emails. It's...",
+          "student_name": "Alias Qli",
+          "code_url": "https://github.com/AliasQli/hackage-server",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IlhnLJqF/"
+        },
+        {
+          "title": "reimplement `cabal check`",
+          "short_description": "`cabal check` is a tool to check the correctness of a `.cabal` file and more generally to provide more useful output (warnings, especially related to...",
+          "student_name": "Francesco Ariis",
+          "code_url": "https://www.ariis.it/static/articles/cabal-check/page.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LFv0zcZR/"
+        },
+        {
+          "title": "Formalising Konnakol using Haskell",
+          "short_description": "Konnakol, in South Indian Carnatic music, is the art of performing percussion syllables vocally. However, notwithstanding its importance in Carnatic...",
+          "student_name": "Aravind Mohandas",
+          "code_url": "https://dev.to/aravindmohandas/formalizing-konnakol-using-haskell-gsoc-22-ekm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Q8cce5AG/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/haskellorg/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "HLS Cabal Plugin Continuation proposal",
+          "short_description": "I am aiming at solving the following parts of the \"Cabal Plugin Continuation\" project first: - Completion of local and non-local package names...",
+          "student_name": "Georgii Gerasev",
+          "code_url": "https://gist.github.com/VenInf/ae0d45074742f88db7505659d0eb837b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BAhTO86G/"
+        },
+        {
+          "title": "LSP Inlay Hints feature for haskell-language-server",
+          "short_description": "This proposal aims to describe how to add inlay hints support to the Haskell language server. Inlay hints can provide a more fancy, intuitive, and...",
+          "student_name": "jinser",
+          "code_url": "https://github.com/haskell/haskell-language-server/pulls/jetjinser",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/e6SOngyS/"
+        },
+        {
+          "title": "Continuous Integration Log Explorer Tool",
+          "short_description": "The problem we are trying to solve is, developers struggle to analyze massive CI test logs, especially for rare intermittent failures. This project...",
+          "student_name": "abhinav_1203",
+          "code_url": "https://gitlab.haskell.org/abhinav_1203/gsoc-24-haskell/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lONPLchH/"
+        },
+        {
+          "title": "Parse error recovery and incrementality for GHC",
+          "short_description": "GHC is Haskell's most advanced compiler, supporting Haskell2010 report as well as several compiler extensions. Yet, GHC is not fault-tolerant, an...",
+          "student_name": "Kariiem",
+          "code_url": "https://gitlab.haskell.org/Kariim/ghc/-/wikis/GHC-Tolerant-Parser",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3tNBjwL4/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/haskellorg",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Documenting and improving cmm",
+          "short_description": "Cmm is the intermediate representation and code generation layer used by the Glasgow Haskell Compiler (GHC). It is written in Haskell and sits...",
+          "student_name": "Diego Antonio Rosario Palomino",
+          "code_url": null,
+          "proposal_id": "SB4X5EZF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BvobfRuf"
+        },
+        {
+          "title": "Implement Signature Help for Haskell Language Server",
+          "short_description": "Haskell language server (HLS) implements the server part of Language Server Protocol (LSP) to improve user experience of reading and writing Haskell....",
+          "student_name": "linj",
+          "code_url": null,
+          "proposal_id": "drz3Jsus",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uxv4Yppj"
+        },
+        {
+          "title": "Language Server Support for cabal.project Files",
+          "short_description": "This project proposes to implement a new plugin for the Haskell Language Server (HLS) that adds full IDE-style support for cabal.project files. This...",
+          "student_name": "Rachel M",
+          "code_url": null,
+          "proposal_id": "P79bdJOq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dDJUUPt8"
+        },
+        {
+          "title": "Qualified Imports and Alias Resolution in Liquid Haskell",
+          "short_description": "This proposal aims to enhance Liquid Haskell\u2019s name resolution mechanism by enabling qualified imports for both (logic) type and predicate aliases....",
+          "student_name": "Xavier G\u00f3ngora",
+          "code_url": null,
+          "proposal_id": "rRRfZzRj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ALSN6wwr"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.haskell.org/irc/",
+  "contact_email": "mailto:committee@haskell.org",
+  "mailing_list": "https://discourse.haskell.org/",
+  "ideas_url": "https://summer.haskell.org/ideas.html",
+  "guide_url": "https://summer.haskell.org/tips.html",
+  "twitter_url": "https://twitter.com/HaskellOrg",
+  "blog_url": "https://summer.haskell.org/news.html"
+}

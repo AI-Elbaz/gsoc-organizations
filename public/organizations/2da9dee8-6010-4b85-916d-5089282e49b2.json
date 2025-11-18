@@ -1,0 +1,924 @@
+{
+  "name": "GNOME Foundation",
+  "url": "https://gnome.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnome-foundation/aqwqx1x6ozjnxsak-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "desktop applications",
+    "desktop environment",
+    "desktop",
+    "applications",
+    "operating system",
+    "end user applications",
+    "design",
+    "end user application",
+    "application",
+    "games",
+    "productivity",
+    "operating systems",
+    "graphics",
+    "open source",
+    "apps"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "javascript",
+    "gtk+",
+    "gobject",
+    "rust",
+    "gtk",
+    "vala",
+    "linux",
+    "Flatpak"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6228320517619712/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "Horizontal Map Wrapping In Libchamplain",
+          "short_description": "Libchamplain is a C library used to display maps. Currently, exploring locations right on the edge of the map is quite tricky. Having the map wrap...",
+          "student_name": "stancium",
+          "code_url": "https://github.com/GNOME/libchamplain/commits/master?author=StanciuMarius",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5646111125536768/"
+        },
+        {
+          "title": "Games: Support more game formats",
+          "short_description": "Games is a GNOME application that let's you pick games from your library and play them. Basically, the project aims to be like what Music app is for...",
+          "student_name": "Ricard Gascons",
+          "code_url": "http://rgascons.cc/gsoc/2016/08/22/final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5660765553950720/"
+        },
+        {
+          "title": "Configurable Shortcuts for Pitivi",
+          "short_description": "My primary goal is to implement customisable shortcuts for the Pitivi video editor. Users will be able to set their preference for every single...",
+          "student_name": "Jakub",
+          "code_url": "http://www.jakubbrindza.com/2016/08/gsoc-with-pitivi.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5663998322147328/"
+        },
+        {
+          "title": "Boxes: More SPICE features",
+          "short_description": "GNOME Boxes is an application used to access virtual and remote systems, which targets typical desktop users.\nThis proposal is about successfully...",
+          "student_name": "Visarion Alexandru",
+          "code_url": "https://alexandruvisarion.wordpress.com/2016/08/23/gnome-boxes-gsoc-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5668387241852928/"
+        },
+        {
+          "title": "Web: Session Sync",
+          "short_description": "The ultimate goal of my proposal is to allow users of GNOME Web to seamlessly sync data with Firefox with only using a Firefox account. Epiphany will...",
+          "student_name": "Gabriel Iva\u0219cu",
+          "code_url": "https://git.gnome.org/browse/epiphany/log/?h=wip/ephy-sync&qt=author&q=Gabriel+Ivascu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5749862234587136/"
+        },
+        {
+          "title": "Improve Search Functionality in GNOME Logs",
+          "short_description": "My proposal is about improving the current search functionality in GNOME Logs.\nThe current search functionality doesn't have any graphical option to...",
+          "student_name": "Pranav Ganorkar",
+          "code_url": "https://docs.google.com/document/d/1X444jRRdH0AgixSrUFQdwzfeUTiZ9BLQ4XKZsNbaalI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5406874199392256/"
+        },
+        {
+          "title": "Uploading photos to Google",
+          "short_description": "Sharing is critical for Photos. The inability to upload content is one of the bigger missing pieces, and this will be a big step forward in that...",
+          "student_name": "uajain",
+          "code_url": "https://bugzilla.gnome.org/show_bug.cgi?id=751181",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5484483453124608/"
+        },
+        {
+          "title": "Proxies in NetworkManager",
+          "short_description": "The project aims at implementing WPAD lookup via DHCP , DNS &amp; VPN servers and also providing manual proxy support in NetworkManager . Merged...",
+          "student_name": "Atul Anand",
+          "code_url": "https://atulhjp.wordpress.com/2016/08/21/gsoc16-work-product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6165470784782336/"
+        },
+        {
+          "title": "PKCS#11 certificate chooser",
+          "short_description": "Various tools needs certificate and keys for a authentication.The user's certificate and key may reside in the PKCS#11 token so these tools need a...",
+          "student_name": "tyagi-prashant",
+          "code_url": "https://docs.google.com/document/d/1CIFESQ-8Ldi1Vp5taIPJlS04eAg_ATOb5v7ibxrNFEY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4975013627166720/"
+        },
+        {
+          "title": "Audio tag editing support for GNOME Music",
+          "short_description": "Make GNOME Music more than just a read-only view of the user's music collection by providing features to embed metadata into the music files.",
+          "student_name": "saifulbkhan",
+          "code_url": "https://gist.github.com/saifulbkhan/f3d470880fd505d68d9192a715786857",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5029663596347392/"
+        },
+        {
+          "title": "Nautilus: Integrate file-roller and compressed file management",
+          "short_description": "This project aims to make compression and decompression a transparent\nprocess to the user, minimizing interaction with archives. In the vast majority...",
+          "student_name": "Razvan Chitu",
+          "code_url": "https://gist.github.com/razvanch/71f0822221896e9786af3dd6756ddaf3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5271934111580160/"
+        },
+        {
+          "title": "Nautilus: Batch renaming",
+          "short_description": "Until now, renaming of multiple files was a tiresome task, as the user had to do that file by file. The goal of this project is to provide Nautilus...",
+          "student_name": "Alexandru Pandelea",
+          "code_url": "https://docs.google.com/document/d/1WSecNPzzDzQrLeE9-rNwf4YJV91AK0g0coD28uVdXtk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5353229252558848/"
+        },
+        {
+          "title": "Web: Bookmarks Subsystem Update",
+          "short_description": "The goal of my proposal is updating the bookmarks subsystem by refactoring the current code and implementing the new bookmarks menu design proposed...",
+          "student_name": "Iulian Radu",
+          "code_url": "https://git.gnome.org/browse/epiphany/log/?h=wip%2Fbookmarks&qt=author&q=Iulian+Radu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5570186035855360/"
+        },
+        {
+          "title": "Games: Add gamepad support",
+          "short_description": "GNOME games\nThe ultimate goal of my proposal is to add support for gamepad to the GNOME Games project. A video game player without gamepad support...",
+          "student_name": "Megh Parikh",
+          "code_url": "https://meghprkh.github.io/blog/2016/08/22/GSoC-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6223562767597568/"
+        },
+        {
+          "title": "Improve the user experience for new and existing users",
+          "short_description": "While experienced IRC users have no problem getting used to Polari, the growing number of new users that are not familiar with IRC clients demands an...",
+          "student_name": "Rares-Mihail Visalom",
+          "code_url": "https://gist.github.com/raresvis/2f7fd50a81281404a143d49f8f8a27a7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6273873477632000/"
+        },
+        {
+          "title": "GNOME Music ownCloud support",
+          "short_description": "GNOME has had support for ownCloud integration since the release of GNOME 3.8 with more apps supporting it as a source every release. This project...",
+          "student_name": "gnarula",
+          "code_url": "https://drive.google.com/open?id=0BxMIJYZ8OAEiSzJSRFl5YXpzT1k",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5140181963243520/"
+        },
+        {
+          "title": "Implementation of week view in GNOME Calendar",
+          "short_description": "GNOME Calendar is the calendar application for GNOME. Although it is a usable product, it still misses the important Week and Day view required by...",
+          "student_name": "pandusonu",
+          "code_url": "https://github.com/pandusonu2/gnome-calendar/commits/wip/pandusonu/week-view?author=pandusonu2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5194537727164416/"
+        },
+        {
+          "title": "Modernising GNOME Keysign",
+          "short_description": "GNOME Keysign is a project that got started from the idea to make people more involved and interested in creating trusted \u201cconnections\u201d by using...",
+          "student_name": "Andrei Macavei",
+          "code_url": "https://github.com/andreimacavei/gnome-keysign-glade-ui/tree/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5210475008622592/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6040004186865664/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Nautilus: Improve Search",
+          "short_description": "During the last releases, the search in Nautilus received several nice improvements. Though, there are still some improvements left to be made which...",
+          "student_name": "Alexandru Pandelea",
+          "code_url": "https://docs.google.com/document/d/1LwRH4K2vRr4FDf5BzuLWOm1bRiDimCdvf944fnpMfOU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6591117210419200/"
+        },
+        {
+          "title": "Keysign: Alternative Key transports",
+          "short_description": "Currently, GNOME Keysign transfers keys via a wireless network. This requirement can be challenging in certain situations where the network does not...",
+          "student_name": "Ludovico de Nittis",
+          "code_url": "https://gist.github.com/RyuzakiKK/aa2697bac793f0e5031b7f5c25c96ee5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6637442190802944/"
+        },
+        {
+          "title": "Implement a Plugin System in Pitivi and a set of plugins",
+          "short_description": "The goal of this proposal is to implement a Plugin System in Pitivi and a set of at least three plugins: the \u201cDeveloper Console\u201d, the \u201cTimeline...",
+          "student_name": "Fabian Orccon",
+          "code_url": "https://cfoch.github.io/tech/2017/08/28/wrap-up-and-code-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6708954470023168/"
+        },
+        {
+          "title": "Rustify GJS",
+          "short_description": "The research and implementation of Rust language in to GJS to help reduce or eliminate memory leaks and increase memory safety.",
+          "student_name": "Luke Jones",
+          "code_url": "https://luke-nukem.gitlab.io/gsoc-2017.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5649393554292736/"
+        },
+        {
+          "title": "To Do: Todoist integration",
+          "short_description": "The project intends to integrate Todoist with GNOME To Do allowing the users to manage their Todoist account using GNOME To Do. Implementation of...",
+          "student_name": "Rohit Kaushik",
+          "code_url": "https://wiki.gnome.org/Outreach/SummerOfCode/2017/Projects/RohitKaushik_ToDo_TodoistPlugin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5703355523399680/"
+        },
+        {
+          "title": "Gnome-shell UX Tweaks",
+          "short_description": "The interface of Gnome-shell is elegant, intuitive and very user-friendly. Proof for this is the fact that GNOME is the most popular Linux Desktop...",
+          "student_name": "Rare\u0219 Visalom",
+          "code_url": "https://gist.github.com/raresvis/4992b9e816cee4c0e573d4a05723e44e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5015312499998720/"
+        },
+        {
+          "title": "Improving the out-of-the-box cloud experience with Nextcloud and GNOME",
+          "short_description": "The integration of privacy-aware cloud services is already quite good inside the GNOME desktop environment as gnome-online-services already provides...",
+          "student_name": "Julius H\u00e4rtl",
+          "code_url": "https://blog.juliushaertl.de/index.php/2017/08/28/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5023454147379200/"
+        },
+        {
+          "title": "Documentation Cards for GNOME Builder",
+          "short_description": "This project helps GNOME developers find documentation while they are writing code without having to switch to searching documentation on Google or...",
+          "student_name": "LucieCharvat",
+          "code_url": "https://wiki.gnome.org/Outreach/SummerOfCode/2017/Projects/LucieCharvat_DocCards",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5056319773999104/"
+        },
+        {
+          "title": "Pitivi: Color correction interface using three chromatic wheels",
+          "short_description": "Currently in Pitivi, the UI for configuring an effect applied to a clip is generated dynamically.  Also, as of now we simply use a Numeric widget to...",
+          "student_name": "suhas2go",
+          "code_url": "https://suhas2go.github.io/gnome/pitivi/2017/08/28/GSoCFinalReport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5230248232747008/"
+        },
+        {
+          "title": "GNOME Disks: Resize and repair filesystems",
+          "short_description": "Disks has only seen minor development recently and needs support for resizing and reparing filesystems in order to fully replace GParted which runs...",
+          "student_name": "Kai L\u00fcke",
+          "code_url": "https://wiki.gnome.org/Outreach/SummerOfCode/2017/Projects/KaiLueke_Disks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5301579586469888/"
+        },
+        {
+          "title": "Sharing of shopping list in Recipes App",
+          "short_description": "Implementation of sending the shopping list from Recipes to TODOist (the mobile app).  The purpose of sharing the shopping list is the ease of...",
+          "student_name": "Ekta Nandwani",
+          "code_url": "http://www.ektanandwani.com/2017/08/24/recipes-wrapping-up-gsoc-17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5304812891537408/"
+        },
+        {
+          "title": "Nautilus I/O Operation Management Rework",
+          "short_description": "Currently, I/O operations are largely unmanaged, allowing a large number of them to be running concurrently, which increases the amount of random I/O...",
+          "student_name": "Ernestas Kulik",
+          "code_url": "https://drive.google.com/open?id=0BwtF_9PyC18ReGQtZHcxd19FTHc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6188743467728896/"
+        },
+        {
+          "title": "GNOME Calendar: Add support to recurrent events",
+          "short_description": "GNOME Calendar doesn't have support for recurrent events as of version 3.24. This project intends to add support for recurrent events (repeating...",
+          "student_name": "Yash Singh",
+          "code_url": "https://wiki.gnome.org/Outreach/SummerOfCode/2017/Projects/YashSingh_Calendar_AddRecurrentEvents",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4732513062748160/"
+        },
+        {
+          "title": "Code Search for GNOME Builder",
+          "short_description": "Goal of this project is to implement fuzzy search of symbols in the project and improve Go to Definition in GNOME Builder.\nUsing fuzzy search we can...",
+          "student_name": "Anoop Chandu Kunisetty",
+          "code_url": "https://gist.github.com/anoopchandu/e2404de0d9abd427434d1369fe0a0b01",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6016025116016640/"
+        },
+        {
+          "title": "Search and User Interface Improvements in GNOME Logs",
+          "short_description": "In GSoC 2016, search functionality in GNOME Logs was improved in many ways. Now, further work to be done in GNOME Logs includes seamless integration...",
+          "student_name": "Pranav Ganorkar",
+          "code_url": "https://docs.google.com/document/d/1W-od0gOeVrBdMD8qkTLTj6cYGn6B85URZq8tLZ2Nww8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4874575011643392/"
+        },
+        {
+          "title": "Mutter Wayland without X11",
+          "short_description": "Currently, Mutter acts as both Wayland compositor and an X Window Manager. Even under Wayland session, X11 support is required to be present, which...",
+          "student_name": "Armin Krezovi\u0107",
+          "code_url": "https://armin-gnome.blogspot.ba/2017/08/the-gsoc-wrap-up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5769800546516992/"
+        },
+        {
+          "title": "Gamepads and Keyboard Configuration",
+          "short_description": "Games supports many gamepads but does not allow the users to configure them.\nThe project has been divided into three major phases :\n\nGamepad...",
+          "student_name": "theawless",
+          "code_url": "https://theawless.github.io/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5774983498301440/"
+        },
+        {
+          "title": "Improving word completion in gnome-builder",
+          "short_description": "Currently, Builder relies on \u201cWord Completion\u201d from GtkSourceView. This provides completion of words used within the current, or other open,...",
+          "student_name": "uajain",
+          "code_url": "http://bugzilla.gnome.org/show_bug.cgi?id=786151",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5778459200585728/"
+        },
+        {
+          "title": "Pitivi - UI for the Ken-Burns effect",
+          "short_description": "The Ken Burns effect is a type of panning and zooming effect used in video production from still imagery. This project aims to provide a way to...",
+          "student_name": "Stefan-Adrian Popa",
+          "code_url": "https://gist.github.com/stefanzzz22/260fa2be10bccd7404af87152ecd5a88",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6286742004957184/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5224661688254464/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Dino: Message Search",
+          "short_description": "GNOME is lacking a chat client which looks \u201cmodern\u201d and is thus visually and user experience-wise attractive to new users. Dino fits well into the...",
+          "student_name": "Fabian",
+          "code_url": "https://github.com/dino/dino/pull/415",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5691127080419328/"
+        },
+        {
+          "title": "Five or More: Modernisation",
+          "short_description": "Five or More is a puzzle game in which the player has to align at least five same coloured shapes into a horizontal, vertical or diagonal line to...",
+          "student_name": "Ruxandra Simion",
+          "code_url": "https://ruxandras.github.io/gnome/2018/08/11/five-or-more-final-thoughts.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5693607356923904/"
+        },
+        {
+          "title": "GNOME Games: Add Collection/Developer view",
+          "short_description": "Currently, Games lacks a good UI for displaying games. Displaying game metadata and statistics as well as segregating games by platform/developer...",
+          "student_name": "Saurabh Sabharwal",
+          "code_url": "https://1punman.github.io/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5715198627282944/"
+        },
+        {
+          "title": "Implement power panel in gnome-usage",
+          "short_description": "gnome-usage is a tool for informing users about system statistics and performance. This project aims to extend gnome-usage by implementing the power...",
+          "student_name": "Aditya Manglik",
+          "code_url": "https://embeddedintelligence.wordpress.com/projects/summer-of-code-2018-with-gnome/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5742960490577920/"
+        },
+        {
+          "title": "Liu Jiahui's applicantion for gnome-logs",
+          "short_description": "Logs could currently update the view when new log messages are added to the journal.",
+          "student_name": "hello_world_0",
+          "code_url": "https://docs.google.com/document/d/1J4W60tzViyv6vS5UJzgVeW6CcCa_2HmksjpaP5zrUb0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5744863563743232/"
+        },
+        {
+          "title": "To Do: Make Todoist and Todo.txt integration shine",
+          "short_description": "The project aims at improving the Todo.txt and Todoist plugin and to make them production ready. The Todo.txt parser will be improved to implement...",
+          "student_name": "Rohit Kaushik",
+          "code_url": "https://wiki.gnome.org/Outreach/SummerOfCode/2018/Projects/RohitKaushik_ToDo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5752256343310336/"
+        },
+        {
+          "title": "librsvg: port filter effects to Rust",
+          "short_description": "This project involves porting the librsvg filter effects from C to Rust and making sure they all work by adding missing tests from the SVG test...",
+          "student_name": "Ivan Molodetskikh",
+          "code_url": "https://imolodetskikh.wordpress.com/2018/08/10/gsoc-2018-overview/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6133850161807360/"
+        },
+        {
+          "title": "Fractal UI redesign and new dialogs",
+          "short_description": "Fractal is still an early alpha Matrix client. There are many features which are left to be implemented and work to beautify the interface, with more...",
+          "student_name": "Eisha CHEN-YEN-SU",
+          "code_url": "https://eishagsoc.wordpress.com/2018/08/09/my-final-report-for-gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4724779168825344/"
+        },
+        {
+          "title": "GJS Example Applications and Overall Improvement",
+          "short_description": "This project will unify the various GJS resources, create and expand the web experiences for GJS, write a tutorial around two created sample...",
+          "student_name": "Evan Welsh",
+          "code_url": "https://gitlab.gnome.org/rockon999/gsoc-end-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4771130455883776/"
+        },
+        {
+          "title": "Tests, profiling and debug framework for Nautilus",
+          "short_description": "This project's goal is to offer the Nautilus' community an easy way to test their contributions with consistent results and a profiling/coverity...",
+          "student_name": "Alexandru Fazakas",
+          "code_url": "https://alexfazakas.wordpress.com/2018/08/13/gsoc-2018-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6014283708104704/"
+        },
+        {
+          "title": "Improve the Fractal UI (A GTK Matrix client)",
+          "short_description": "This project will improve the Fractal UI and add basic missing features, such as user account settings. It  will also add a spell checker to improve...",
+          "student_name": "Julian Sparber",
+          "code_url": "https://blogs.gnome.org/jsparber/2018/08/11/the-end-of-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5853012987740160/"
+        },
+        {
+          "title": "Pitivi: Scaled Proxies",
+          "short_description": "The ability to use low resolution proxies during editing would allow more people to work on wider range of media without requiring access to an...",
+          "student_name": "Yatin Maan",
+          "code_url": "https://yatinmaan.github.io/2018/08/14/GSoC-18-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6279909785731072/"
+        },
+        {
+          "title": "Pitivi UI Polishing",
+          "short_description": "The current UI of Pitivi serves well to its aim of being an intuitive and flexible application for newbies as well as professionals but a little bit...",
+          "student_name": "Harish Fulara",
+          "code_url": "https://harishfulara07.wordpress.com/2018/08/13/gsoc-2018-final-report-pitivi-ui-polishing/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5174789064884224/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6458159500099584/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Improve Google-Drive support for GVfs",
+          "short_description": "Currently, the Google-Backend for GVfs supports only a subset of operations allowed by Google-Drive on the web-interface. The major problem with...",
+          "student_name": "Mayank_Sharma",
+          "code_url": "https://msharma.in/gsoc%202019/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6637470089740288/"
+        },
+        {
+          "title": "Converting GStreamer plugins to Rust",
+          "short_description": "GStreamer plugins are written in C and the developers are pursuing in an attempt to convert them to Rust which is more robust and easy to maintain. I...",
+          "student_name": "Sajeer Ahamed Riyaf",
+          "code_url": "https://sajeerahamed.blogspot.com/2019/08/review-gsoc-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6739634476810240/"
+        },
+        {
+          "title": "Implement side by side diff view in Gitg",
+          "short_description": "At this time, there's only a unified diff to show changes in gitg. Split view (original and modified file side by side) is a handy representation of...",
+          "student_name": "Gaurav Agrawal",
+          "code_url": "https://blogofkiritosan.wordpress.com/2019/08/22/google-summer-of-code-2019-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6234580145668096/"
+        },
+        {
+          "title": "Polari - Preview Links",
+          "short_description": "The proposed project is the implementation of Preview Links within the Polari IRC.\nPeople often share links during conversation and a number of times...",
+          "student_name": "Stefanos Dimos",
+          "code_url": "https://daronion.home.blog/2019/08/26/gsoc-preview-links-project-finished/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4556072566652928/"
+        },
+        {
+          "title": "GNOME Music: Full stack MusicBrainz integration",
+          "short_description": "The ultimate goal of the proposal is to provide a seamless integration between Gnome Music and \nMusicBrainz services. This integration will include...",
+          "student_name": "Sumaid",
+          "code_url": "https://gitlab.gnome.org/GNOME/gnome-music/issues/293",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4825289220161536/"
+        },
+        {
+          "title": "Rework the GTK Website",
+          "short_description": "The ultimate goal of my project is to redesign and redevelop the GTK\u2019s official website https://gtk.org by providing it a design that follows current...",
+          "student_name": "Ravgeet Dhillon",
+          "code_url": "https://ravgeetdhillon.github.io/blog/final-report-gsoc-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6488113407328256/"
+        },
+        {
+          "title": "Saved States Manager for GNOME Games",
+          "short_description": "An attempt at implementing this feature https://wiki.gnome.org/Design/Playground/Games/Snapshots",
+          "student_name": "Andrei Li\u015fi\u0163\u0103",
+          "code_url": "https://yetisgnomeadventure.home.blog/2019/08/20/gsoc-2019-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4866286562050048/"
+        },
+        {
+          "title": "gtk4-rs: GTK 4 Rust Bindings",
+          "short_description": "With GTK 4 around the corner, supporting it in Rust allows more developers to fully utilize Rust in GNOME development with its rich feature and...",
+          "student_name": "Xiang Fan",
+          "code_url": "https://sfanxiang.github.io/gsoc-2019/2019/08/12/post-6.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5774651559510016/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4988908019908608/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Port Nautilus Properties Dialog to Use GtkBuilder",
+          "short_description": "This Project is about using GtkBuilder to Construct the properties dialog for Nautilus.\nThe result of this project would be that design Improvements...",
+          "student_name": "Apoorv Sachan",
+          "code_url": "https://cocoonfly.wordpress.com/2020/08/30/gsoc-final-project-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6359472651370496/"
+        },
+        {
+          "title": "Fractal: Multi account support",
+          "short_description": "Fractal currently supports only one account, if you want to be connected at the same time with different accounts the user has to launch several...",
+          "student_name": "Alejandro Dom\u00ednguez",
+          "code_url": "https://aledomu.github.io/gnome/fractal-gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5670767263481856/"
+        },
+        {
+          "title": "Detecting Differences Between Two Non-Consecutive Commits For Gitg",
+          "short_description": "Currently in Gitg, We only show the differences between any two consecutive commits. One might find himself/herself want to compare between any two...",
+          "student_name": "Mahmoud Khalil",
+          "code_url": "https://medium.com/@mahmoudkhalil11/gsoc-final-report-of-gnome-gitg-work-ebcf52450692",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5718092266602496/"
+        },
+        {
+          "title": "Support Remote Sources in Music",
+          "short_description": "The goal of this project is to enable users to discover, play and enjoy music from remote sources with almost zero configuration and user efforts.",
+          "student_name": "Chinmay Gurjar",
+          "code_url": "https://chinmay-gurjar.github.io/posts/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4751438103707648/"
+        },
+        {
+          "title": "Add UI for importing and managing firmware in GNOME Games",
+          "short_description": "Currently if a user wants to play a game that needs a firmware, they would have to go to the application's flatpak directory according to the...",
+          "student_name": "Adwait Rawat",
+          "code_url": "https://adwaitongnome.wordpress.com/2020/08/31/gnome-games-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4821235415908352/"
+        },
+        {
+          "title": "GNOME Shell: Notification Popover Redesign",
+          "short_description": "Notifications are an important part of a system, by providing a way for users to check multiple statuses of apps, messages, or logs, without having...",
+          "student_name": "Mariana P\u00edcolo",
+          "code_url": "https://marianapicolo.com/blog/2020/08/29/gsoc-ending/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6490917038456832/"
+        },
+        {
+          "title": "Implement Collections in GNOME Games",
+          "short_description": "The ultimate objective of this project is to add collections feature to Games. This feature will help users create their own collection of games, as...",
+          "student_name": "Neville Antony",
+          "code_url": "https://nevilleantony98.gitlab.io/2020/08/23/week-12/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6024227100033024/"
+        },
+        {
+          "title": "gitg: polish and optimise files and diff plugins",
+          "short_description": "Optimise files plugin tree store and implement non-consecutive commit diff features",
+          "student_name": "S Sai Vineet",
+          "code_url": "https://gitlab.gnome.org/GNOME/gitg/-/merge_requests/155",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5909680288694272/"
+        },
+        {
+          "title": "Sound Recorder: Redesign the app to make it adaptive",
+          "short_description": "Updating whole app to follow the latest design patterns and make it adaptive so can work on small screens and larger screens.",
+          "student_name": "Kavan Mevada",
+          "code_url": "https://gitlab.gnome.org/GNOME/gnome-sound-recorder/-/issues/86",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5926277921374208/"
+        },
+        {
+          "title": "Design Improvements to Epiphany's dialogs",
+          "short_description": "The project aims to bring UI design improvements suggested by the design team and the community to Epiphany's Preferences dialog, History dialog and...",
+          "student_name": "Yetizone",
+          "code_url": "https://yetisgnomeadventure.home.blog/2020/08/26/gsoc-2020-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5931708202876928/"
+        },
+        {
+          "title": "GNOME.org: Evaluation of requirements, content, design and components for the refresh of the website",
+          "short_description": "The GNOME.org website needs a redesign (refresh) both in design terms and look-and-feel (UI) terms. This project is about the technical and...",
+          "student_name": "Clarissa Borges",
+          "code_url": "https://www.clarissaborges.com/2020/08/30/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5950133746794496/"
+        },
+        {
+          "title": "Battery Bench: Bring battery testing back to the future",
+          "short_description": "One thing we want to do for the next versions of GNOME and Fedora is to improve battery performance. Your laptop may well be advertised by the...",
+          "student_name": "Jos\u00e9 F Lorenzo-Hern\u00e1ndez",
+          "code_url": "https://batterybenchgsoc2020.wordpress.com/2020/08/31/project-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5973342173003776/"
+        },
+        {
+          "title": "Evolution Data Server EteSync sync module",
+          "short_description": "Implementing an EDS module to sync with EteSync, a secure, end-to-end encrypted and FLOSS sync solution that will enable GNOME/Evolution users to...",
+          "student_name": "Nour E-Din El-Nhass",
+          "code_url": "https://nourmat.wordpress.com/2020/08/31/where-to-next-gsoc-2020-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6285921839742976/"
+        },
+        {
+          "title": "Adaptive Grid/Form Widget",
+          "short_description": "Applications can have forms and tables which are a rigid layout to present. Such large rigid layouts can prevent applications from reaching small...",
+          "student_name": "Ujjwal Kumar",
+          "code_url": "https://medium.com/@ujjwalkumar0501/google-summer-of-code-2020-874d35f961b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6298212559749120/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6476318677401600/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Redesigning Health's MainView",
+          "short_description": "It is one of the existing project ideas: https://gitlab.gnome.org/Cogitri/Health/-/issues/70",
+          "student_name": "visvesh subramanian",
+          "code_url": "https://docs.google.com/spreadsheets/d/1NLG51abt86OPSKCYV8HXFjuM23XYhimUaI3gS5quWNU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5691085778583552/"
+        },
+        {
+          "title": "Shell: Implementing Layout Managers in Rust",
+          "short_description": "Exploration of the benefits of implementing layout manager in rust",
+          "student_name": "zbrown",
+          "code_url": "https://gitlab.gnome.org/ZanderBrown/quicklime/-/tree/zbrown/quicklime/src/ql",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5697424512778240/"
+        },
+        {
+          "title": "Implement active resource management in GNOME",
+          "short_description": "Better resource management in Linux Desktop will help in providing a snappier experience to users by making sure that there is a fair distribution of...",
+          "student_name": "Nishal Kulkarni",
+          "code_url": "https://nishalkulkarni.tumblr.com/post/660059966501158912/gsoc-2021-part-iv-final-review",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5109655855955968/"
+        },
+        {
+          "title": "Fractal: Multi account support",
+          "short_description": "Fractal currently supports only one account, if you want to be connected at the same time with different accounts the user has to launch several...",
+          "student_name": "Alejandro Dom\u00ednguez",
+          "code_url": "https://aledomu.github.io/gnome/fractal-next-gsoc-2021-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5227383929438208/"
+        },
+        {
+          "title": "Fractal NEXT",
+          "short_description": "Fractal stands on the brink of adapting new technologies. With the release of GTK 4, the evolution of Fractal\u2019s new foundation \u2013 the matrix-rust-sdk...",
+          "student_name": "Kai A. Hiller",
+          "code_url": "https://gist.github.com/V02460/d99fd41b3daf01d9509d3ba7d0914037",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4542820936843264/"
+        },
+        {
+          "title": "tracker: Improve custom ontology support",
+          "short_description": "The goal of the project is improving tracker support for custom ontologies. The goal is achieved by solving some bugs which face the application...",
+          "student_name": "Abanoub Ghadban",
+          "code_url": "https://abanoubgh.wordpress.com/2021/08/21/gsoc-2021-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4549995243503616/"
+        },
+        {
+          "title": "Shell: update screenshot and screen recorder",
+          "short_description": "gnome-shell allows taking screenshots and has a built-in screen recorder, it can take screenshots and record screencasts of an area, a window or the...",
+          "student_name": "Ivan Molodetskikh",
+          "code_url": "https://imolodetskikh.wordpress.com/2021/08/21/gsoc-2021-overview/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4699574626680832/"
+        },
+        {
+          "title": "Rework of Faces of GNOME website",
+          "short_description": "The ultimate goal of the project is to develop & rework the Faces of GNOME website using modern site generators & JavaScript to showcase past,...",
+          "student_name": "Arijit Kundu",
+          "code_url": "https://arijit-kundu.medium.com/gsoc-2021-faces-of-gnome-8bc05845e064",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6512399523250176/"
+        },
+        {
+          "title": "Tracker-miners: File creation time",
+          "short_description": "Tracker-miners is the indexer used for extracting the metadata from different\nfile types. The project aims to provide the support for storing...",
+          "student_name": "Nishit Patel",
+          "code_url": "https://nis130.github.io/blog/gsoc'21/2021/08/21/gsoc-final-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6030315851612160/"
+        },
+        {
+          "title": "Libadwaita animation API",
+          "short_description": "This is a proposal for the design and implementation of an animation API for libadwaita, as the GNOME ecosystem lacks a framework to provide...",
+          "student_name": "Manuel Genov\u00e9s",
+          "code_url": "https://blogs.gnome.org/manugen/2021/08/23/wrapping-up-gsoc-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6103873776779264/"
+        },
+        {
+          "title": "Design tooling: port to gtk 4",
+          "short_description": "The design tooling consists of a small set of applications that boosts the design team and developers productivity. App Icon Preview, Symbolic...",
+          "student_name": "Maximiliano Sandoval",
+          "code_url": "https://blogs.gnome.org/msandova/2021/08/19/gsoc-2021-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4886426272923648/"
+        },
+        {
+          "title": "libsecret: Extend file backend to use TPM2 derived encryption keys",
+          "short_description": "The current implementation of libsecret's file backend uses an encryption key derived from the user's login password. Security wise this not an ideal...",
+          "student_name": "Dhanuka Warusadura.",
+          "code_url": "https://dnuka.github.io/gsoc21-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6293033397518336/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gnome-foundation/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Pitivi Timeline Enhancements",
+          "short_description": "The Timeline is one of the most essential parts of a video editor. This project aims to improve the Timeline of Pitivi by adding some enhancements...",
+          "student_name": "Thejas Kiran P S",
+          "code_url": "https://thejaskiranps.github.io/blog/posts/final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vWus38MA/"
+        },
+        {
+          "title": "Faces of GNOME - Continuing the Development of the Platform",
+          "short_description": "The ultimate purpose of this proposal is to expand the GNOME community and make it more inclusive for everyone who wants to be a part of it, as well...",
+          "student_name": "Asmit Malakannawar",
+          "code_url": "https://dev.to/asmit2952/google-summer-of-code-2022-faces-of-gnome-47bl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jY2VwYCS/"
+        },
+        {
+          "title": "Pitivi: Port UI to GTK4",
+          "short_description": "The scope is the entire Pitivi UI. It is using the GTK widget toolkit version 3 which needs to be updated to GTK 4 for better compatibility,...",
+          "student_name": "Aryan Kaushik",
+          "code_url": "https://www.aryank.in/posts/2022-09-11-pitivi-gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CynkIQvi/"
+        },
+        {
+          "title": "Make \"New Documents\" feature discoverable",
+          "short_description": "The New Document creation feature is considered to be a part of core user experience, but its design implementation has room for improvement,...",
+          "student_name": "Ignacy Kuchci\u0144ski",
+          "code_url": "https://gitlab.gnome.org/GNOME/nautilus/-/merge_requests/914",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/i2qBI9g1/"
+        },
+        {
+          "title": "Revamp \"New Document\" submenu in GNOME Files.",
+          "short_description": "The goal of this project is to design and implement a UI for the New Document creation feature, which has long-standing discoverability and usability...",
+          "student_name": "Utkarsh Gandhi",
+          "code_url": "https://utkarshgsocsubmission.blogspot.com/2022/09/final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OhHLnbUs/"
+        },
+        {
+          "title": "Fractal: Media history viewer",
+          "short_description": "This project consists of adding a media history viewer to Fractal. Fractal is a Matrix client powered by GTK and Rust. A media history viewer is a...",
+          "student_name": "Marco Melorio",
+          "code_url": "https://gitlab.gnome.org/GNOME/fractal/-/merge_requests/1112",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/O82HZ9E2/"
+        },
+        {
+          "title": "Chromecast support for GNOME Network Displays",
+          "short_description": "GNOME Network Displays uses Miracast for sharing displays and windows currently. This proposal plans to add support for Chromecast and allow users to...",
+          "student_name": "Anupam Kumar",
+          "code_url": "https://gitlab.gnome.org/GNOME/gnome-network-displays/-/merge_requests/171",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DqAFewgr/"
+        },
+        {
+          "title": "Reworking Sync Options for Health",
+          "short_description": "Health is a health and fitness tracking application. It helps the user to track and visualize their health indicators better. Currently, most users...",
+          "student_name": "amankrx",
+          "code_url": "https://www.amankrx.com/blog/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xoVmK3Qv/"
+        },
+        {
+          "title": "GNOME HIG CSS Library",
+          "short_description": "The GNOME organization has numerous websites to accommodate all its operations. Every website albeit serving different purposes falls under the GNOME...",
+          "student_name": "Pooja Patel",
+          "code_url": "https://medium.com/@pooja724patel/wrapping-up-gsoc22-af9edc08f822",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yJTqNMbb/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gnome-foundation",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Make GNOME platform demos and create offline documentation viewer for Workbench",
+          "short_description": "Workbench is an application that lets you experiment and tinker with GNOME technologies. An important feature of Workbench is the \"Library\" which is...",
+          "student_name": "Akshay Warrier",
+          "code_url": "https://akshaywarrier.medium.com/gsoc-2023-final-project-report-78c70210bdcc",
+          "proposal_id": "4geNyZDz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AYtTvdlp"
+        },
+        {
+          "title": "Rust and GTK 4 Bustle Rewrite",
+          "short_description": "Bustle is a powerful graphical tool for analyzing D-Bus activities. The current implementation, while still functional, cannot take advantage of the...",
+          "student_name": "Dave Patrick Caberto",
+          "code_url": "https://seadve.github.io/blog/9-gsoc-2023-final-overview/",
+          "proposal_id": "mZ6ADVcd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/EfijCNWY"
+        },
+        {
+          "title": "Create a New \u201cSystem\u201d panel in GNOME Settings",
+          "short_description": "Create a new system panel to provide users with a unified interface for managing various settings. we can achieve it by merging Date & Time, Users,...",
+          "student_name": "Gotam Gorabh",
+          "code_url": "https://gotam672.github.io/FireFlyBlogs/gsoc2023-final-report/",
+          "proposal_id": "m4IME3GU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2Pu11u94"
+        },
+        {
+          "title": "Implement backlog search in Polari IRC client",
+          "short_description": "This project aims to implement backlog search capabilities for the Polari IRC client. The Polari IRC client\u2019s logging infrastructure has ported from...",
+          "student_name": "Gurmannat Sohal",
+          "code_url": "https://gitlab.gnome.org/GNOME/polari/-/merge_requests/273",
+          "proposal_id": "B5C2vTRH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qkIYWKmU"
+        },
+        {
+          "title": "Integrate GNOME Network Displays features into GNOME Settings",
+          "short_description": "GNOME Settings (aka gnome-control-center) is GNOME's main interface for configuration of various aspects of your desktop. GNOME Network Displays is a...",
+          "student_name": "Pedro Sader Azevedo",
+          "code_url": "https://gitlab.gnome.org/GNOME/gnome-network-displays",
+          "proposal_id": "xZzk8QGK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MKxaR231"
+        },
+        {
+          "title": "GNOME Crosswords Anagram Support",
+          "short_description": "This project is meant for Crosswords Editor with main aim of adding anagram search support with word-list. It will be a complete implementation...",
+          "student_name": "Pratham Gupta",
+          "code_url": "https://docs.google.com/document/d/1zcF667JiAQU1V6HXOZmAEYuQVAWAM9ClGN2jxT0xEzo/edit?usp=sharing",
+          "proposal_id": "lHY1It0I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/d2r0Q6TA"
+        },
+        {
+          "title": "Make GNOME Platform Demos for Workbench",
+          "short_description": "GOAL OF THE PROJECT: 1) Create beginner-friendly and easy-to-understand examples/demos for all widgets of GTK 4.10 and Libadwaita 1.3 to help...",
+          "student_name": "Sriyansh Shivam",
+          "code_url": "https://sonichere.hashnode.dev/gsoc-2023-final-report",
+          "proposal_id": "SwoJm8Sz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3Bjrr6So"
+        },
+        {
+          "title": "Add Acrostic Puzzles to GNOME Crosswords",
+          "short_description": "This project would start by extending a library called libipuz. This library loads and saves puzzles from the free ipuz file format. They would add...",
+          "student_name": "Tanmay Patil",
+          "code_url": "https://docs.google.com/document/d/1EPvboKOfs8Ry9fWKEUzOI7metTBehOkF2mfus4SIr5w/edit",
+          "proposal_id": "FJB0uwQa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Dj3YZXU4"
+        },
+        {
+          "title": "Flatpak synching between machines",
+          "short_description": "Currently, it\u2019s rather bothersome to sync the Flatpak packages installed on multiple systems: One either has to manually keep them in sync or use the...",
+          "student_name": "Tim F. Br\u00fcggemann",
+          "code_url": "https://gitlab.gnome.org/Cogitri/flatsync/-/merge_requests?scope=all&state=merged&author_username=TibiIius",
+          "proposal_id": "siWx925F",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NZ9FuzQL"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gnome-foundation/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Improve Tracker SPARQL developer experience by creating a \"web IDE\" for developing queries",
+          "short_description": "This proposal aims to create a web-based Integrated Development Environment (IDE) specifically for writing and executing SPARQL queries within...",
+          "student_name": "Divyansh_Jain",
+          "code_url": "https://demiigood.wordpress.com/2024/08/26/tinysparql-gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/O9YiKcZD/"
+        },
+        {
+          "title": "More durable synching for FlatSync",
+          "short_description": "FlatSync is a GSoC 2023 project to synchronise Flatpak installations across machines. While it already has basic synchronisation functionality, there...",
+          "student_name": "Mattia Formichetti",
+          "code_url": "https://gitlab.gnome.org/Cogitri/flatsync/-/merge_requests?scope=all&state=merged&author_username=IlChitarrista",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dyHJb6p8/"
+        },
+        {
+          "title": "Add support for the latest GIR attributes and gi-docgen formatting to Valadoc",
+          "short_description": "The Vala compiler and the Vala API generator currently have no support for the latest GObject Introspection attributes. This proposal plans to add...",
+          "student_name": "Sudhanshu Tiwari1",
+          "code_url": "https://sudhanshut.blogspot.com/2024/08/gsoc-2024-final-project-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CxooAggj/"
+        },
+        {
+          "title": "Port libipuz to Rust",
+          "short_description": "Libipuz is a C library that loads puzzle files and used by Crosswords as the underlying data structure. It is written in C. Since it is used...",
+          "student_name": "pranjal_",
+          "code_url": "https://gitlab.gnome.org/jrb/libipuz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lIKJdXdX/"
+        },
+        {
+          "title": "Add TypeScript Support to Workbench",
+          "short_description": "Workbench is a multi-language code sandbox for GNOME. It is prevalent in the GNOME Ecosystem and is helpful to both professional and amateur...",
+          "student_name": "Angelo Verlain Shema",
+          "code_url": "https://www.vixalien.com/blog/workbench-typescript",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NwJMOWF7/"
+        },
+        {
+          "title": "Improve Tracker SPARQL developer experience by creating \"web IDE\" for developing queries",
+          "short_description": "This will be an online tool whose main purpose would be to improve developer experience in Tracker SPARQL as well as provide a more accessible...",
+          "student_name": "rachle08",
+          "code_url": "https://rachleona.wordpress.com/2024/08/24/wrapping-up-my-gsoc-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/h1R1wKCz/"
+        },
+        {
+          "title": "Port Workbench demos to Vala, build a new Workbench Library, and replace the current code search",
+          "short_description": "Port the remaining demos in Workbench to Vala, the plan of action; port demos, get reviews from maintainers, and fix any issues. Build a new and...",
+          "student_name": "Bharat Tyagi",
+          "code_url": "https://medium.com/@bharat.atbrat/gsoc-2024-the-finale-1b6d56fcda92",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BmwoWaPj/"
+        },
+        {
+          "title": "Papers' small screen and touch support for mobile and tablet",
+          "short_description": "The ever-growing support of the GNOME ecosystem for both mobile device and tablet use cases highlights the need for a proper support of a PDF viewer,...",
+          "student_name": "Markus G\u00f6llnitz",
+          "code_url": "https://blogs.gnome.org/camelcasenick/2024/30/document-viewer-on-mobile",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1IsSYOF9/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gnome-foundation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Papers: Proof of Concept for Backend Isolation in GNOME Papers",
+          "short_description": "GNOME Papers (formerly Evince) currently processes all documents within a single application process, creating significant security and stability...",
+          "student_name": "Ahmed Fatthi",
+          "code_url": null,
+          "proposal_id": "N2N2tUk9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XuVwtTah"
+        },
+        {
+          "title": "Vala: XML, JSON, and YAML Integration",
+          "short_description": "The main objective is to integrate direct syntax support for parsing and emitting JSON, XML, and YAML formats in Vala. This will cut back the...",
+          "student_name": "Alley Chaggar",
+          "code_url": null,
+          "proposal_id": "bHKtrkQp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UWolvgXi"
+        },
+        {
+          "title": "Add Printing Support to GNOME Crosswords",
+          "short_description": "This project extends GNOME Crosswords' existing SVG functionality to support printable puzzles with clues, and integrates printing support with...",
+          "student_name": "Toluwaleke Ogundipe",
+          "code_url": null,
+          "proposal_id": "f7shGKUL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Kj1CKvxo"
+        },
+        {
+          "title": "Adding eBPF profiling capabilities to Sysprof",
+          "short_description": "This project aims to enhance Sysprof by integrating eBPF-based profiling to reduce overhead and improve performance. Currently, Sysprof relies on...",
+          "student_name": "Varun R Mallya",
+          "code_url": null,
+          "proposal_id": "Mu6DLAF3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UDF9XAcy"
+        },
+        {
+          "title": "Add construction aids to the GNOME Crosswords editor",
+          "short_description": "This project adds construction aids to the GNOME Crosswords editor. These aids provide hints, warnings, and data that help the user create better...",
+          "student_name": "Victor Ma",
+          "code_url": null,
+          "proposal_id": "WhppYXCp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/joz3e6Jc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://handbook.gnome.org/get-in-touch.html",
+  "contact_email": "mailto:board@gnome.org",
+  "mailing_list": "https://discourse.gnome.org/",
+  "ideas_url": "https://gsoc.gnome.org/2025/",
+  "guide_url": "https://gsoc.gnome.org",
+  "twitter_url": "https://floss.social/@gnome",
+  "blog_url": "https://foundation.gnome.org/news/"
+}

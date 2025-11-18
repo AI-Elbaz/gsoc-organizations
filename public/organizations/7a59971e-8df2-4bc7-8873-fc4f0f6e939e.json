@@ -1,0 +1,116 @@
+{
+  "name": "Open Transit Software Foundation",
+  "url": "https://opentransitsoftwarefoundation.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-transit-software-foundation/uz3p7k5vsxduhrhk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "ai",
+    "apps",
+    "Transit",
+    "travel",
+    "bus"
+  ],
+  "technologies": [
+    "android",
+    "java",
+    "golang",
+    "docker",
+    "ios"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-transit-software-foundation/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "OTPKit: OpenTripPlanner Client Library Written in Swift",
+          "short_description": "Trip Planner feature is a highly anticipated addition to the OneBusAway application. Recognizing the vital need for efficient route planning in...",
+          "student_name": "Hilmy Veradin",
+          "code_url": "https://github.com/OneBusAway/otpkit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RHtM4Lyc/"
+        },
+        {
+          "title": "TheTransitClock:-DetourDetective",
+          "short_description": "DetourDetective is a proposed plugin for TheTransitClock that aims to automatically detect detours on transit routes. It is expected, this will...",
+          "student_name": "Andrew Cunningham",
+          "code_url": "https://github.com/TheTransitClock/DetourDetective",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/F6ZyKmsA/"
+        },
+        {
+          "title": "Create cloud deployment strategy for OneBusAway",
+          "short_description": "The OneBusAway server provides real-time vehicle information to users, yet it currently lacks a streamlined deployment process. This project aims to...",
+          "student_name": "Alton He",
+          "code_url": "https://github.com/OneBusAway/onebusaway-deployment",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PnGdLXTu/"
+        },
+        {
+          "title": "Building an API Client for OBA Servers",
+          "short_description": "Summary: The OBA project aims to develop official OneBusAway REST API client libraries in TypeScript and Python, enhancing accessibility and user...",
+          "student_name": "Ahmed Hossam",
+          "code_url": "https://gist.github.com/Ahmedhossamdev/bf867112b98e1284cca7d917f4307740",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YZoanrXh/"
+        },
+        {
+          "title": "OBA Android App - Build Surveys into OneBusAway",
+          "short_description": "Transit agencies often struggle to obtain direct feedback from riders, which impedes their ability to improve service quality and accessibility. This...",
+          "student_name": "Amr Hossam Abo Ghanima",
+          "code_url": "https://github.com/OneBusAway/onebusaway-android/pull/1222",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/s5qkVzt1/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-transit-software-foundation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "WayStation - Next Generation Sign Mode",
+          "short_description": "This project aims to build a self-operating transit information display that works reliably in real-world transit environments. The system will show...",
+          "student_name": "Amr Abdelfattah",
+          "code_url": null,
+          "proposal_id": "uDUI5ktf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PmZ9fdSN"
+        },
+        {
+          "title": "Trip Planner: Building OTPKit, a Swift Library for OpenTripPlanner on iOS",
+          "short_description": "The goal of this project is to build OTPKit, a Swift library that brings OpenTripPlanner to iOS. It will work as a standalone package that can be...",
+          "student_name": "Manu R",
+          "code_url": null,
+          "proposal_id": "FeO1LuPr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7hA4Gs1k"
+        },
+        {
+          "title": "Enhancing Watchdog: Metrics Expansion for OBA Monitoring",
+          "short_description": "This project aims to enhance the monitoring capabilities of OneBusAway (OBA), an open-source platform that provides real-time transit information to...",
+          "student_name": "Mohamed Aboomar",
+          "code_url": null,
+          "proposal_id": "Ps9vXt8j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZzUiW13a"
+        },
+        {
+          "title": "Integration Test System For OBA",
+          "short_description": "Summary : The OBA project aims to develop an integration testing system to ensure the accuracy and stability of the OneBusAway API server. This...",
+          "student_name": "Satyam Kumar Chauhan",
+          "code_url": null,
+          "proposal_id": "NqgOqRQM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gxPo5O7k"
+        },
+        {
+          "title": "Survey Features (iOS)",
+          "short_description": "OneBusAway iOS Survey Feature - Proposal Summary This project proposes implementing a comprehensive survey feature for the OneBusAway iOS app that...",
+          "student_name": "Shreyas Sahoo",
+          "code_url": null,
+          "proposal_id": "VE44IjXy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/b4x8dfSt"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/onebusaway/shared_invite/zt-2jve26vs6-~qXjgxv_HkTliUKhAnuSDA",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://opentransitsoftwarefoundation.org/2025/01/google-summer-of-code-2025-project-ideas/",
+  "guide_url": "https://opentransitsoftwarefoundation.org/2024/02/how-to-craft-a-successful-gsoc-proposal/",
+  "blog_url": "https://opentransitsoftwarefoundation.org/blog/"
+}

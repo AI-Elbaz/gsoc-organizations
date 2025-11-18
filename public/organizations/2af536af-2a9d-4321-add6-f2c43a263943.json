@@ -1,0 +1,46 @@
+{
+  "name": "Distributed and Unified Numerics Environment (DUNE)",
+  "url": "https://www.dune-project.org",
+  "image_url": "https://lh3.googleusercontent.com/l2vFuvmUfWzb-nh0v58xX3NL6DC_oYaV6ENmgJbTn4r5sqSHqRJCp5ixF0qreW5tWReNLjX4qWRx1h_6ZXOWMOS6FKzLhg",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "mathematics",
+    "scientific computing",
+    "physics",
+    "high performance computing",
+    "partial differential equations"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "cmake"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5457125316755456/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Spline geometries for isogeometric analysis",
+          "short_description": "Isogeometric analysis is a finite element technique that allows to solve partial differential equations defined on spline surfaces. This is useful...",
+          "student_name": "Xinyun Li",
+          "code_url": "http://gsoc2016xinyun.blogspot.de/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5610205735813120/"
+        },
+        {
+          "title": "Python bindings for the DUNE grid interface",
+          "short_description": "DUNE, the Distributed and Unified Numerics Environment, is a modular toolbox to solve partial differential equation with grid-based methods. Thus,...",
+          "student_name": "Micha\u00ebl Sgha\u00efer",
+          "code_url": "http://misg.github.io/gsoc/dune/2016/08/22/python-bindings-for-the-dune-grid-interface",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5796349886857216/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:dune-devel@dune-project.org",
+  "mailing_list": "https://www.dune-project.org/mailinglists.html",
+  "ideas_url": "",
+  "guide_url": ""
+}

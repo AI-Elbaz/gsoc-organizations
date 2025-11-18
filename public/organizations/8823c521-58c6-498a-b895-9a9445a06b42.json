@@ -1,0 +1,66 @@
+{
+  "name": "Open Science Labs",
+  "url": "https://opensciencelabs.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-science-labs/rjv8l7mrkiwlv9ab-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "devops",
+    "devtools",
+    "open-science"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c++",
+    "docker",
+    "AST"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-science-labs",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Language Server Protocol for Makim\u2019s YAML Configuration",
+          "short_description": "This project will enhance Makim by implementing Language Server Protocol (LSP) support for its YAML configuration files. This will introduce features...",
+          "student_name": "Ansh Arora",
+          "code_url": null,
+          "proposal_id": "Rrvqqsj6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OPlaxDeq"
+        },
+        {
+          "title": "Alpha One And Only Classroom",
+          "short_description": "What good is a revolutionary learning platform if teachers still have to juggle Zoom, docs, and third-party whiteboards just to conduct a class?...",
+          "student_name": "ishaan-arora",
+          "code_url": null,
+          "proposal_id": "tpf7TGGv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eeyUM55Z"
+        },
+        {
+          "title": "Enhanced AI OCR Extraction Pipeline for Scientific Literature",
+          "short_description": "This project creates a comprehensive pipeline for extracting text and complex tables from scientific literature PDFs. By combining PyMuPDF,...",
+          "student_name": "Priyankesh",
+          "code_url": null,
+          "proposal_id": "vdOkB8tx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/npTUA7Qr"
+        },
+        {
+          "title": "Add Docker Swarm Support to Sugar",
+          "short_description": "This project will enable Sugar users to manage Docker Swarm clusters directly through Sugar\u2019s command-line interface (CLI). These enhancements will...",
+          "student_name": "Sai Sanjay Kottakota",
+          "code_url": null,
+          "proposal_id": "rppMc0tR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eK7R0d7E"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://opensciencelabs.org/discord",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://opensciencelabs.org/opportunities/gsoc/project-ideas/",
+  "guide_url": "https://opensciencelabs.org/opportunities/gsoc/guides/contributor/",
+  "twitter_url": "https://twitter.com/opensciencelabs",
+  "blog_url": "https://opensciencelabs.org/blog/"
+}

@@ -1,0 +1,399 @@
+{
+  "name": "Open Bioinformatics Foundation (OBF)",
+  "url": "https://www.open-bio.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-bioinformatics-foundation-obf/gcg4ymt4qhsd0fyj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "bioinformatics",
+    "web",
+    "computational biology",
+    "genomics",
+    "workflows",
+    "open science",
+    "Open Source Bioinformatics"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "haskell",
+    "ruby",
+    "perl",
+    "c",
+    "c++",
+    "javascript",
+    "php",
+    "d",
+    "biojs",
+    "react",
+    "html",
+    "css",
+    "Git/GitHub"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5480198954811392/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "openSNP: Linking Phenotypes to SNPs in openSNP",
+          "short_description": "A crucial component of the openSNP infrastructure is to make the available data\nmore accessible to the general users and scientists alike. Currently,...",
+          "student_name": "Vivek Rai",
+          "code_url": "https://vivekiitkgp.github.io/programming/gsoc-16-wrap-up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6590368275496960/"
+        },
+        {
+          "title": "Bionode workflow engine for streamed data analysis",
+          "short_description": "The streams based workflow engine will organize tasks into streams, allow parallelization of this streams, and work locally as well as integrated...",
+          "student_name": "thejmazz",
+          "code_url": "https://github.com/bionode/gsoc16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5735739308376064/"
+        },
+        {
+          "title": "openSNP: Extending Quantified-Self Support in openSNP",
+          "short_description": "Over 100,000 people have already been genotype through DTC genetic testing however, these data live in siloes, often inaccessible to the public....",
+          "student_name": "gdyer",
+          "code_url": "https://SXibolet.2pitau.org/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5303768677613568/"
+        },
+        {
+          "title": "Automated tool wrapper/converter for CWL",
+          "short_description": "The project is aimed to generate CWL tool descriptions from Python tools which use argparse.",
+          "student_name": "Anton Khodak",
+          "code_url": "https://anton-khodak.github.io/argparse2cwl-blog/2016/08/11/gsoc-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5549054796759040/"
+        },
+        {
+          "title": "OpenSNP",
+          "short_description": "We all know that nowadays a website needs a responsive layout, by the fact that there are a lot of different devices sizes, like smartphones, tablets...",
+          "student_name": "mateusjabour",
+          "code_url": "http://mateusjabour.github.io/gsoc-code-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4851164755525632/"
+        },
+        {
+          "title": "Improve the prediction for RiPP clusters",
+          "short_description": "Ribosomally synthesised and post-translationally modified peptides (RiPPs) are a class of secondary metabolites that share a common biosynthetic...",
+          "student_name": "MNave",
+          "code_url": "https://bitbucket.org/antismash/antismash/pull-requests/23/gsoc-2016-specific-modules-lassopeptides/commits",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6289112021598208/"
+        },
+        {
+          "title": "GeneNetwork Genome Browser",
+          "short_description": "Modify GeneNetwork to embed the BioDalliance genome browser in it. BioDalliance (henceforth\nBD) would be integrated into GeneNetwork (henceforth GN)\u037e...",
+          "student_name": "christian_f",
+          "code_url": "https://chfi.se/posts/2016-08-22-gsoc-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5187735035838464/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6098536001175552/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Adding Python 3 compatibility and improving mypy support for cwltool",
+          "short_description": "The goal of this proposal is to enhance support and usability of cwltool by:\n\nAdding Python 3 compatibility to CWL Tool, Schema Salad and CWL Test...",
+          "student_name": "Manvendra Singh",
+          "code_url": "https://gist.github.com/manu-chroma/8e10ea9fd728356a4363b5af1f0d8aaa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6701160580775936/"
+        },
+        {
+          "title": "Implement algorithms for the generation of high-resolution isotope patterns",
+          "short_description": "In mass spectrometry the isotope pattern of an unknown molecule consists a powerful analytical tool to identify its molecular formula. Modern...",
+          "student_name": "Nikos Patikas",
+          "code_url": "https://pati-ni.github.io/2017/08/26/final-submission-post.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6722516903002112/"
+        },
+        {
+          "title": "antiSMASH Migration to Template System",
+          "short_description": "antiSMASH, a python-based tool to mine micro-organisms genomes, currently uses pyQuery to generate static HTML pages. Consequently, several...",
+          "student_name": "Mariana Nave",
+          "code_url": "https://bitbucket.org/antismash/antismash/pull-requests/116/gsoc-2017-move-antismash-to-jinja2-a/diff",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5688096846774272/"
+        },
+        {
+          "title": "ETE/Tree matcher",
+          "short_description": "TreeMatcher is a subproject of ETE3. Target of TreeMatcher is to perform search on phylogenetic trees using tree patterns that allows relax...",
+          "student_name": "Dimitris Pliakos",
+          "code_url": "https://dpliakos.github.io/gsoc2017_overview/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5709813409382400/"
+        },
+        {
+          "title": "GeneNetwork Genome Browser",
+          "short_description": "Modify GeneNetwork to embed the BioDalliance genome browser in it. BioDalliance (henceforth BD) would be integrated into GeneNetwork (henceforth GN);...",
+          "student_name": "Christian Fischer",
+          "code_url": "https://chfi.se/posts/2017-08-25-gsoc2017-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5014950649004032/"
+        },
+        {
+          "title": "Common Workflow Language reference implementation modernization- Making cwltool and schema-salad, Microsoft Windows compatible and providing complete Python 3 support for cwltool and schema-salad",
+          "short_description": "Cwltool is a reference implementation of the Common Workflow Language. It provides comprehensive validation of CWL files and include tools related to...",
+          "student_name": "Kapil kumar",
+          "code_url": "https://gist.github.com/kapilkd13/309f9893ebf5657f33c823b154555212",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4952969170649088/"
+        },
+        {
+          "title": "Bionode-Watermill - A Streaming Workflow Engine for Bioinformatics",
+          "short_description": "This project started in last GSoC but is still missing core functionality",
+          "student_name": "Tiago Jesus",
+          "code_url": "https://github.com/bionode/GSoC17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5883245933625344/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5813329234755584/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Adding methods to cobrapy for improved constraint-based metabolic modelling.",
+          "short_description": "Constraint-Based Reconstruction and Analysis (COBRA) methods for Genome-wide Metabolic Networks (GEMs) have proven to be essential for the varied...",
+          "student_name": "synchon",
+          "code_url": "https://medium.com/@synchon_mandal/gsoc-2018-with-open-bioinformatics-foundation-dc201bf945b9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5430800522674176/"
+        },
+        {
+          "title": "Frontend Website Student Project for BioJS",
+          "short_description": "BioJS is a library of over two hundred JavaScript components which enables users to visualise and process data. BioJS currently has two websites:\n...",
+          "student_name": "Sarthak Sehgal",
+          "code_url": "https://sarthaksehgal18.wordpress.com/2018/08/12/gsoc-2018-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6129302596747264/"
+        },
+        {
+          "title": "Implement the support for Research Object specification into Nextflow framework",
+          "short_description": "The goal of this project is to implement the support for Research Object specification into Nextflow workflow framework, with the aim to improve the...",
+          "student_name": "Edgar Garriga Nogales",
+          "code_url": "https://github.com/edgano/nextflow/tree/663a933db47a246cae35703892bebd4b03e97b5b/subprojects/nxf-prov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4805810840403968/"
+        },
+        {
+          "title": "Improve Posterior Error Probability Estimation For Peptide Search Engine Results",
+          "short_description": "OpenMS is an open-source software C++ library for mass spectrometry (MS) data management and analyses. A common task in proteomics is to identify and...",
+          "student_name": "Sophia Mersmann",
+          "code_url": "https://sophiamersmann.github.io///2018/08/08/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5921078421487616/"
+        },
+        {
+          "title": "Backend Website Student Project",
+          "short_description": "BioJS is a library of over two hundred JavaScript components enabling developers to visualize and process data using current web technologies. The...",
+          "student_name": "MEGH THAKKAR",
+          "code_url": "https://megh-thakkar.github.io/2018-08-12-GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6278298501906432/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5294944380518400/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "antiSmash submission redesign",
+          "short_description": "antiSmash run multiple instances of the submission page, depending on whether people want to analyse bacterial or fungal sequences, or run the...",
+          "student_name": "Jeevan",
+          "code_url": "https://github.com/antismash/2019-gsoc-webui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5125077937422336/"
+        },
+        {
+          "title": "Add Variant Graph (VG) support to BioD",
+          "short_description": "The current representation of reference genomes is as a sequence of nucleotides akin to a long string. Intuitively, this doesn\u2019t represent a genome...",
+          "student_name": "Njagi Mwaniki",
+          "code_url": "https://blog.urbanslug.com/posts/2019-08-20-Google-Summer-of-Code-2019-Final-Submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5246044214919168/"
+        },
+        {
+          "title": "BAM to ADAM converter on Sambamba\u2019s base",
+          "short_description": "This project is aimed to build an efficient BAM format to ADAM format converter utilizing Sambamba library base.",
+          "student_name": "Nick Rozinsky",
+          "code_url": "https://gist.github.com/NickRoz1/a4ce8fff0b6904bb97f701c2d852a63e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4644761342836736/"
+        },
+        {
+          "title": "Interactive Yeoman generator for BioJS components",
+          "short_description": "BioJS is a library of over one hundred JavaScript components enabling users to visualise and process data using current web technologies. BioJS makes...",
+          "student_name": "Nikhil Vats",
+          "code_url": "https://blog.biojs.net/2019-08-20-gsoc-wrap-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4928963908993024/"
+        },
+        {
+          "title": "Add blockchain and hyperledger support for the \u2018Journal of Open Data Publications\u2019",
+          "short_description": "Open science is a movement that promotes open access to research data, publications, and scientific collaboration. It promises to increase...",
+          "student_name": "Pradyumna Bang",
+          "code_url": "https://bangpradyumna.github.io/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5147590344048640/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4595548239167488/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implementation of SVML in SIMDe",
+          "short_description": "This project will be aimed to create an API-compatible open-source implementation of Intel's proprietary SVML which would be portable to other...",
+          "student_name": "Himanshi Mathur",
+          "code_url": "https://medium.com/@himanshi18037/final-work-product-gsoc-2020-5fba8744cbcf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6576740249370624/"
+        },
+        {
+          "title": "OpenMS R-Package",
+          "short_description": "OpenMS, an open-source C++ library for the analysis of mass spectrometric data exposes a large part of its functionality to the Python community via...",
+          "student_name": "Shekhar Shukla",
+          "code_url": "https://gist.github.com/24sharkS/7cb791091a8301f7c8460f15c04b97a0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5403269754519552/"
+        },
+        {
+          "title": "Parallel Graph Traversal for Variation Graphs",
+          "short_description": "Traditionally, Bioinformatics has focused its e\ufb00orts on the study of single genomes, each representing an individual of a certain species. In more...",
+          "student_name": "Francesco Porto",
+          "code_url": "https://gsocgraph.blogspot.com/2020/08/final-week-recap-of-my-gsoc-experience.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5109120027328512/"
+        },
+        {
+          "title": "Implementing user-friendly search features",
+          "short_description": "Pysradb provides a convenient method to retrieve information from NCBI\u2019s SRA database. Currently, pysradb is transitioning to phase out its...",
+          "student_name": "Boshen Yan",
+          "code_url": "https://bscrow.github.io/gsoc2020.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6238152676605952/"
+        },
+        {
+          "title": "Healthcare-Researcher-Connector (HRC): A Federated Learning package for bridging the gap between Healthcare providers and researchers",
+          "short_description": "Nowadays, sharing and use of human biomedical data is heavily restricted and regulated by multiple laws. Such data-sharing restrictions allow keeping...",
+          "student_name": "Srijan Verma",
+          "code_url": "https://github.com/vermasrijan/srijan-gsoc-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4898360579850240/"
+        },
+        {
+          "title": "SIMDe : Add implementations of ISA extensions (SSE4.2 and AVX512) and NEON implementations of SSE4.1,SSE4.2,SSE3,SSSE3 ISA extension",
+          "short_description": "The project deals with writing portable implementations for SIMD ISA extensions SSE4.2 and AVX-512 functions and NEON implementations for...",
+          "student_name": "Hidayat Ullah Khan",
+          "code_url": "https://masterchef2209.wordpress.com/2020/08/26/final-work-product-submission-report-google-summer-of-code-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4905563541995520/"
+        },
+        {
+          "title": "Protein sequence and structural analysis CWL pipeline for comparative biology",
+          "short_description": "While there are a multitude of open source ML methods for prediction of various structural or biological related attributes, there are no open source...",
+          "student_name": "Eliza Martin",
+          "code_url": "https://github.com/eliza-m/CrossSpeciesWorkflow/blob/GSOC2020/GSOC2020_final_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6302555174338560/"
+        },
+        {
+          "title": "Using DeNovo Sequencing to Predict Protein Database Suitability",
+          "short_description": "When using mass spectrometry to analyze protein samples it is key to use the appropriate protein database. Most of the time a sample from only one...",
+          "student_name": "T. Waschischeck",
+          "code_url": "https://openmsgsoc2020.blogspot.com/2020/08/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5225514815455232/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6326136019091456/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implementations of AVX-512 functions",
+          "short_description": "This project aims to add portable implementations for SIMD ISA extension AVX-512 functions which are not yet supported by SIMDe. This will make...",
+          "student_name": "Kunwar Maheep Singh",
+          "code_url": "https://simba611.wordpress.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6431754096738304/"
+        },
+        {
+          "title": "Developing WellcomeML further for the visualisation of academic research data",
+          "short_description": "Synopsis\nWellcomeML is a python package containing a set of utility functions that use machine learning for reading, processing, embedding and...",
+          "student_name": "Federica Trevisan",
+          "code_url": "https://gist.github.com/federikovi/0ff5f376105e3111d624d935758cded3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5736009995649024/"
+        },
+        {
+          "title": "Enabling and prototyping JavaScript visualizations in the Qt-based viewer TOPPView (OpenMS).",
+          "short_description": "This project aims to enable JavaScript visualizations in TOPPView using Qt WebEngine and its different modules.",
+          "student_name": "Dhanmoni Nath",
+          "code_url": "https://github.com/OpenMS/OpenMS/pull/5489",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5109826782232576/"
+        },
+        {
+          "title": "Implementation of NEON functions (SIMDe)",
+          "short_description": "The aim on this project is to implement NEON functions into SIMD which are not yet supported. Adding these implementations will allow the NEON SIMD...",
+          "student_name": "Atharva Nimbalkar",
+          "code_url": "https://docs.google.com/document/d/1vDrG2qiU7NSABXG1BUoDeztsWhvzlv6rJOkq6h6MLVc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6257652765556736/"
+        },
+        {
+          "title": "Design and implementation of Code is Science front-end using ReactJS",
+          "short_description": "The Code is science website is currently built using vanilla HTML, CSS and JavaScript with Ruby as part of its backend. The current frontend needs to...",
+          "student_name": "Isaac Miti",
+          "code_url": "https://ikayz.github.io/code-is-science-frontend/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4885658513965056/"
+        },
+        {
+          "title": "Data streaming in scientific workflows, implementation for Toil",
+          "short_description": "Toil is an open-source Python workflow engine that lets people write data analysis pipelines in Python, CWL, and WDL. Toil has support for common...",
+          "student_name": "Mihai Popescu",
+          "code_url": "https://gist.github.com/mhpopescu/da10ef62158f03141e7898d2bb156c05",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5793792606601216/"
+        },
+        {
+          "title": "gtfBase- A curated resource of multispecies genomic regions",
+          "short_description": "While GTF files are by themselves comprehensive, a lot of analysis is focused on individual features. For example, any analysis focused on...",
+          "student_name": "Tanishq Gupta",
+          "code_url": "https://medium.com/@tanishqgupta_91919/final-evaluation-gsoc-2021-8f109d4fa458",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5883191075799040/"
+        },
+        {
+          "title": "Development of a user interface to visualise VEP data using neXtProt tools",
+          "short_description": "The goal of this project would be to develop a web based user interface to visualise the variant prediction data from VEP plugin using the neXtProt...",
+          "student_name": "Shrey Sachdeva",
+          "code_url": "https://medium.com/@shreysachdeva.2000/obf-development-of-a-user-interface-for-the-vep-nextprot-plugin-cebafa386d64",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5894767623274496/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open-bioinformatics-foundation-obf/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Feature Viewer - Enhanced User Experience and Performance",
+          "short_description": "Analyzing positional features/annotations in sequences is important in bioinformatics. Visualizing such data is quite a challenging task, considering...",
+          "student_name": "Chalith Tharuka",
+          "code_url": "https://gist.github.com/chaliya96/1d5b52f0c40a34a52d8b7925d761fdf8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rxjfYo3p/"
+        },
+        {
+          "title": "Migration of the backend to Express, GraphQL, and MongoDB",
+          "short_description": "Currently, the backend of the journal policy tracker is on Flask and SQLite3. The goal for this project is to create a full-fledged functioning...",
+          "student_name": "Devesh Kumar",
+          "code_url": "https://gist.github.com/d-e-v-esh/d0c7cde2bdfecde2e265b7d63dd1c89a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vTyb8f1v/"
+        },
+        {
+          "title": "Journal tracker \u2013 finalise and deploy React front-end",
+          "short_description": "The project aims at helping researchers find journals that require open source code easily. I aim to create a user interface that could seamlessly...",
+          "student_name": "Padmaja Bhol",
+          "code_url": "https://codeisscience-community.netlify.app/blog/GSoC-22-Building-the-Journal-Policy-Tracker",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Jmh3T7CH/"
+        },
+        {
+          "title": "Efficient data layout for mass spectrometry data (OpenMS)",
+          "short_description": "In this project, we need to implement a zero-cost abstraction using Modern C++, which can help us to switch between Structure of Arrays (SoA) and...",
+          "student_name": "Pranav Joshi",
+          "code_url": "https://pranavich18.github.io/datalayout-mass-spectrometry/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/k2WCuWM8/"
+        },
+        {
+          "title": "Genestorian data refinement",
+          "short_description": "Genstorian data refinement tool is pipeline to identify allele names in genotype of a model organism and strain information related to the allele...",
+          "student_name": "Anamika Yadav",
+          "code_url": "https://gist.github.com/anamika-yadav99/371a486a489b6e327906eefad69f71ba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2UDvDlA2/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://obf.github.io/GSoC/contact/",
+  "contact_email": "mailto:gsoc@mailman.open-bio.org",
+  "mailing_list": "https://groups.google.com/g/obf-gsoc-general",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/obf_news",
+  "blog_url": "https://www.open-bio.org/blog/"
+}

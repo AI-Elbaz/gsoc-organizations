@@ -1,0 +1,328 @@
+{
+  "name": "GNU Compiler Collection (GCC)",
+  "url": "https://gcc.gnu.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnu-compiler-collection-gcc/kpspl59nyj0hoxlr-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "toolchain",
+    "openmp",
+    "developer tools",
+    "rust",
+    "link time optimization"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "openmp",
+    "gnu autotools",
+    "gnu make"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6598377584197632/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Textual Representation of LTO Object Files (Textual LTO dump tool project)",
+          "short_description": "As far as I understand, the motivation for LTO framework was to enable cross-file interprocedural optimizations, and for this purpose an ipa pass is...",
+          "student_name": "HRISHIKESH KULKARNI",
+          "code_url": "https://gist.github.com/hrisearch/8c14970ea1a558a85b2072a5558ae554",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4617060583735296/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4808868352229376/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Make C/C++ not automatically promote memory_order_consume to memory_order_acquire",
+          "short_description": "memory_order_consume gets automatically promoted to memory_order_acquire due to the difficulties faced by the compiler while tracing dependencies at...",
+          "student_name": "akshatg",
+          "code_url": "http://www.rdrop.com/~paulmck/submission/DNNNN%20_Dependent_ptr%20to%20simplify%20carries%20a%20dependency.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6577645809041408/"
+        },
+        {
+          "title": "Add new math.h and complex.h functions as built-ins.",
+          "short_description": "GCC has support for built-in functions in C99/C11 standards along with features of IEEE standards. These functions do appropriate calculations...",
+          "student_name": "Tejas Joshi",
+          "code_url": "https://gist.github.com/Joshi-Tejas/a87bde3b7bef1aa256a7e687cafe1b80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6642860592463872/"
+        },
+        {
+          "title": "Implementing OpenMP Work Stealing Scheduling",
+          "short_description": "This project is to Implement work-stealing scheduling into the GCC implementation of the OpenMP standard. Task parallelism often yields highly...",
+          "student_name": "Khurai Kim",
+          "code_url": "https://gcc.gnu.org/ml/gcc-patches/2019-08/msg01713.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5308701278208000/"
+        },
+        {
+          "title": "Parallelize GCC with Threads",
+          "short_description": "GCC alone is unable to compile a single large file in parallel, causing parallelization bottlenecks in some projects such as GCC itself. Here we...",
+          "student_name": "Giuliano Belinassi",
+          "code_url": "https://gcc.gnu.org/wiki/ParallelGcc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4789348396957696/"
+        },
+        {
+          "title": "7 Years Later: On vector<bool> and optimized Standard Algorithms in libstdc++",
+          "short_description": "With the coming revival of bit utilities paper for the C++ Standard and the potential of a new\nsuite of bit utilities coming from a header \n [5], the...",
+          "student_name": "ThePhD",
+          "code_url": "https://thephd.github.io/seize-bits-production-gsoc-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4789587371622400/"
+        },
+        {
+          "title": "Implement Csmith fuzzer leveraging GCC C Extensions",
+          "short_description": "The aim of this project is to add GCC C Extensions such as compiler attributes, vector extensions, etc. in Csmith. Run Csmith against GCC and report...",
+          "student_name": "SHUBHAM NARLAWAR",
+          "code_url": "https://github.com/shubhamnarlawar77/csmith/tree/csmith-gcc-v2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5863413903785984/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4862862406713344/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "General Jobserver Client/Server Library",
+          "short_description": "Both Link Time Optimization (LTO) and C++20 Modules will benefit from\na closer interaction between build system and compiler.  LTO benefits\nfrom...",
+          "student_name": "John Ravi",
+          "code_url": "https://drive.google.com/drive/folders/1JqH36dfBG1bAIeRBijZ5Ks6cGyBewoCf?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5280131632857088/"
+        },
+        {
+          "title": "Automatic Detection of Parallel Compilation Viability",
+          "short_description": "In this project, we aim to detect whether compiling a file in parallel can improve the compilation performance. If so, then we proceed the...",
+          "student_name": "Giuliano Belinassi",
+          "code_url": "https://gcc.gnu.org/pipermail/gcc/2020-August/233524.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5373315276865536/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5653860256841728/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Extending C++ support for static analysis pass",
+          "short_description": "The project aims to make GCC's static analysis pass ( -fanalyzer option ) understand dynamic dispatch ( virtual functions ) in C++.\nThis project will...",
+          "student_name": "Ankur Saini",
+          "code_url": "https://gist.github.com/Arsenic-ATG/8f4ac194f460dd9b2c78cf51af39afef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5659699365543936/"
+        },
+        {
+          "title": "Cargo tool for Rust-GCC",
+          "short_description": "Make gccrs usable under the cargo build system in order to bridge the gap between rustc and gccrs. The project aims to create a base upon which to...",
+          "student_name": "Arthur Cohen",
+          "code_url": "https://hackmd.io/2OHsmYGUTgSyhgIaO6U00w?view",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4994348801851392/"
+        },
+        {
+          "title": "Static analysis for unreachable functions",
+          "short_description": "Add an unreachable static analysis if a function is unused all functions after that point is unused.\n\nliveness analysis to get all reachable symbols...",
+          "student_name": "Wenzhang Yang",
+          "code_url": "https://gist.github.com/thomasyonug/1123968f182ac546019872eeeee4c245",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6068561092542464/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gnu-compiler-collection-gcc/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Extend GCCs static analyzer to support checking for POSIX file descriptor APIs",
+          "short_description": "The project aims to extend GCC\u2019s static analyzer to support reporting warnings for \u201cmisuse\u201d of POSIX FD APIs such as double-close, leakage, access...",
+          "student_name": "Immad Mir",
+          "code_url": "https://gist.github.com/mirimmad/9524fa6ada8dda5436447dcc4cfc86f0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/y8k0d5Ew/"
+        },
+        {
+          "title": "New checkers for GCC\u2019s static analyzer",
+          "short_description": "Static analysis helps developers to find bugs in their code at compile-time. Shipping a static analysis tool built into the compiler, which can be...",
+          "student_name": "Tim Lange",
+          "code_url": "https://tim-lange.me/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HgyLX6dS/"
+        },
+        {
+          "title": "Complete Support for Constant Folding in GCC Rust Frontend",
+          "short_description": "This projects aims to complete the support for Constant Folding in GCC Rust frontend. It will do so by finishing the already started constant folding...",
+          "student_name": "Faisal Abbas",
+          "code_url": "https://gist.github.com/abbasfaisal/41f8e161691f53b33318d92e266dbb60",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TVxnEP2B/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gnu-compiler-collection-gcc",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Extending gcc -fanalyzer C++ support for self-analysis",
+          "short_description": "Currently, the static analyzer offers little dedicated support for C++. Even when projecting the most straightforward valid C test cases to C++, the...",
+          "student_name": "Benjamin Priour",
+          "code_url": "https://github.com/vultkayn/gsoc23-gcc",
+          "proposal_id": "wll1o5lK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6t9Yjufu"
+        },
+        {
+          "title": "GCC static analyzer plugin for CPython extension modules",
+          "short_description": "One pertinent use case of the gcc-python plugin was to provide the infrastructure for cpychecker, a static analysis tool designed for CPython...",
+          "student_name": "Eric Feng",
+          "code_url": "https://gist.github.com/efric/9faa9cb19fe829b97a54d5c7eabf5e72",
+          "proposal_id": "C0p92ibt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/EzIUWs5x"
+        },
+        {
+          "title": "C++: Implement compiler built-ins for the standard library traits",
+          "short_description": "Many C++ standard library traits are often implemented using template metaprogramming, which can result in worse compilation performance due to...",
+          "student_name": "Ken Matsui",
+          "code_url": "https://github.com/ken-matsui/gsoc23/blob/main/REPORT.md",
+          "proposal_id": "9EFvTclU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp"
+        },
+        {
+          "title": "Improving user errors & Error Code Support for GCC Rust Frontend",
+          "short_description": "The goal of this project is to enhance the user experience of gccrs by enabling it to emit error codes similar to rustc. This will help bridge the...",
+          "student_name": "Muhammad Mahad",
+          "code_url": "https://mahadmuhammad.github.io/gsoc/23/r/final-report/",
+          "proposal_id": "7tFMw13G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PZbjvfZl"
+        },
+        {
+          "title": "Unicode Support for GCC Rust Frontend",
+          "short_description": "The Rust programming language supports Unicode in identifiers, similarly to other modern programming languages such as Go, C++, and JavaScript. The...",
+          "student_name": "Raiki Tamura",
+          "code_url": "https://hackmd.io/@tamaron/ryqNQUvj2",
+          "proposal_id": "vH3OAJhe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mBU2ozBa"
+        },
+        {
+          "title": "Bypass assembler when generating LTO object files",
+          "short_description": "Link Time Optimization (LTO) enables GCC to dump its internal representation (GIMPLE) to disk so that a single executable can be optimized as a...",
+          "student_name": "Rishi Raj",
+          "code_url": "https://github.com/rsh-raj/gcc-gsoc-submission/tree/main",
+          "proposal_id": "ig255B3I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1CgxstnB"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gnu-compiler-collection-gcc/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Fortran \u2013 DO CONCURRENT",
+          "short_description": "The project aims to enhance the f951 compiler's `DO CONCURRENT` construct by implementing locality clauses, supporting reduction operation and...",
+          "student_name": "Anuj Mohite",
+          "code_url": "https://gcc.gnu.org/pipermail/gcc-patches/2024-September/663534.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KLoKMGKM/"
+        },
+        {
+          "title": "gccrs - Inline Assembly Support",
+          "short_description": "gccrs is a full alternative implementation of the Rust language ontop of GCC with the goal to become fully upstream with the GNU toolchain. One of...",
+          "student_name": "jjasmine",
+          "code_url": "https://badumbatish.github.io/posts/what_I_did_for_gsoc_2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ad6rmTlD/"
+        },
+        {
+          "title": "Borrow-checking IR location support",
+          "short_description": "The main goal of this project is to add location support in GCC Rust, to BIR i.e an intermediate representation that will be exclusively used by the...",
+          "student_name": "Kushal Pal",
+          "code_url": "https://github.com/braw-lee/gsoc-2024/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DPiEgdZa/"
+        },
+        {
+          "title": "Improve nothrow detection in GCC",
+          "short_description": "Exception handling in GCC follows the Itanium ABI, particularly the C++ exception handling ABI. This process involves creating, throwing, and finally...",
+          "student_name": "Pranil Dey",
+          "code_url": "https://github.com/satansunny47/GSoC-24-GCC/blob/main/GSoC%20Final%20Submission.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kc8YwgXV/"
+        },
+        {
+          "title": "Offloading to a separate process on the same host",
+          "short_description": "The project focuses on streamlining the debugging and development process for code intended for offloading to devices like GPUs. It proposes a method...",
+          "student_name": "Georgii Burunsuzian",
+          "code_url": "https://gist.github.com/Goshabur/8b7ebdc8a072f1565a95ed251e2a2b78",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yfVMdOXn/"
+        },
+        {
+          "title": "Rustc Testsuite Adapter for GCC Rust (GCCRS)",
+          "short_description": "We have to adapt a copy of the rustc testsuite to make use of the error code framework implemented in gccrs as part of GSoC 2023. We need to develop...",
+          "student_name": "Muhammad Mahad",
+          "code_url": "https://mahadmuhammad.github.io/gsoc/24/r/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KVAetUOC/"
+        },
+        {
+          "title": "Structured Dumping of GENERIC Trees",
+          "short_description": "This project adds a new dump option to gcc that dumps GENERIC trees as JSON. We also add some plumbing into gcc's gdb hooks that allow one to browse...",
+          "student_name": "Thor Preimesberger",
+          "code_url": "https://gcc.gnu.org/pipermail/gcc-patches/2024-September/663531.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Xl593raA/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gnu-compiler-collection-gcc",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Implementation of a simple in-memory  file system for running offloading tests  on NVIDIA GPUs",
+          "short_description": "This project aims to implement an in-memory, volatile file system for NVIDIA GPUs using the NVPTX backend in newlib. NVPTX offloading in GCC enables...",
+          "student_name": "ArijitKD",
+          "code_url": null,
+          "proposal_id": "yzcbD82n",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hsckMPiN"
+        },
+        {
+          "title": "Fortran - 2018/202x",
+          "short_description": "This project aims to implement some new language features introduced in Fortran 2018 and Fortran 202x, enhancing gfortran's compatibility with newer...",
+          "student_name": "c8ef",
+          "code_url": null,
+          "proposal_id": "pqfuYXEU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/doLDYuto"
+        },
+        {
+          "title": "Implementing Parallel Features on the GCC Ada Frontend",
+          "short_description": "The GNAT front end does not currently recognize the \"parallel\" keyword added as part of Ada 2022. The goal of this project is to add support in the...",
+          "student_name": "Ethan McDonough",
+          "code_url": null,
+          "proposal_id": "uec8fJ6T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ex0T0sK7"
+        },
+        {
+          "title": "Tooling for running BPF GCC tests on a live kernel",
+          "short_description": "This project addresses the lack of execution tests for the BPF backend in GCC. While GCC has many compile-time tests, the BPF backend\u2014which generates...",
+          "student_name": "PiyushRaj927",
+          "code_url": null,
+          "proposal_id": "FIRiHKon",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YhgWG1pn"
+        },
+        {
+          "title": "Rewrite Rust lints to operate on  frontend's HIR",
+          "short_description": "GCC Rust (gccrs) is an alternative Rust compiler frontend based on GCC, aiming for full integration into the GNU toolchain. This project focuses on...",
+          "student_name": "Ryutaro Okada",
+          "code_url": null,
+          "proposal_id": "vsCPaIwP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mYnazxTu"
+        },
+        {
+          "title": "gccrs: Improving match expressions & pattern matching",
+          "short_description": "This medium-sized project aims to improve pattern matching support in gccrs, the GCC frontend for Rust, by implementing compilation for the currently...",
+          "student_name": "Zhi Heng",
+          "code_url": null,
+          "proposal_id": "o8jortO7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/T6KZYLtU"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gcc-rust.zulipchat.com/login/",
+  "contact_email": "mailto:gcc@gcc.gnu.org",
+  "mailing_list": "https://gcc.gnu.org/mailman/listinfo/gcc",
+  "ideas_url": "https://gcc.gnu.org/wiki/SummerOfCode",
+  "guide_url": "https://gcc.gnu.org/wiki/SummerOfCode",
+  "twitter_url": "https://twitter.com/gnutools"
+}

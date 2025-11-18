@@ -1,0 +1,46 @@
+{
+  "name": "eunomia-bpf",
+  "url": "https://eunomia.dev/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/eunomia-bpf/xnyotwpqgsmqh6xf.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "cloud",
+    "OS",
+    "runtime"
+  ],
+  "technologies": [
+    "linux",
+    "llvm",
+    "ebpf",
+    "webassembly"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/eunomia-bpf/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Living Patching Distributed ClickHouse with Shared IO and Network Interface over io_uring and eBPF",
+          "short_description": "This project aims to enhance the performance of distributed ClickHouse by leveraging io_uring and eBPF to optimize I/O operations across network...",
+          "student_name": "fr0m_scratch",
+          "code_url": "https://github.com/orgs/eunomia-bpf/discussions/354",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1s5DrKHb/"
+        },
+        {
+          "title": "Porting bpftime to MacOS",
+          "short_description": "Since bpftime can run in userspace and does not require kernel eBPF, why not enable eBPF on MacOS/FreeBSD/Other Platforms? The goal of this project...",
+          "student_name": "hp77",
+          "code_url": "https://medium.com/@hp77/gsoc-2024-final-submission-219743e648d2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eBI5l9e7/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/jvM73AFdB8",
+  "contact_email": "team@eunomia.dev",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://eunomia.dev/blogs/"
+}

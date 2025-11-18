@@ -1,0 +1,61 @@
+{
+  "name": "PMD",
+  "url": "https://pmd.github.io/",
+  "image_url": "https://lh3.googleusercontent.com/XshAjEG09ri7DW3eLjpOB7zgcI57j2CBMhOmcWRJ3haTuJWphGXHF-b7Sc_hf01BFc3YgtOmbh6qujmpC3JJyS6bdNYjWaY",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "code analysis",
+    "code quality",
+    "source code analyzer",
+    "linter"
+  ],
+  "technologies": [
+    "java",
+    "xml",
+    "javacc",
+    "antlr",
+    "xpath"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5158578918785024/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Bringing Object-Oriented Metrics to PMD",
+          "short_description": "Object-Oriented (OO) metrics synthesize characteristics of OO entities (classes, methods) and of their relations, and if combined efficiently, can...",
+          "student_name": "Cl\u00e9ment Fournier",
+          "code_url": "https://gist.github.com/oowekyala/819016d5cc9509f88034bbd6bcb986c9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6505217864499200/"
+        },
+        {
+          "title": "Complete type resolution for Java",
+          "short_description": "Currently, PMD's support for type resolution with the Java language is limited. This severely restricts the code inspection rules which could be...",
+          "student_name": "Bendeg\u00faz Nagy",
+          "code_url": "https://github.com/pmd/pmd/commits/master?author=WinterGrascph",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5987510559703040/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5852375185096704/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Automated regression tests against real-world projects",
+          "short_description": "A regression testing tool is created to ensure that new problems and unexpected behaviors will not be introduced to PMD project after fixing an issue...",
+          "student_name": "Binguo Bao",
+          "code_url": "https://gist.github.com/djydewang/37aa8b99fb56889dc4b570aaa62d541a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5149325545963520/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/pmd/pmd",
+  "contact_email": "mailto:pmd-devel@lists.sourceforge.net",
+  "mailing_list": "https://lists.sourceforge.net/lists/listinfo/pmd-devel",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/pmd_analyzer"
+}

@@ -1,0 +1,202 @@
+{
+  "name": "FreeType",
+  "url": "https://freetype.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/freetype/bbbcwzgimhkwpcvx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "graphics",
+    "rendering",
+    "fonts",
+    "opentype",
+    "truetype",
+    "library"
+  ],
+  "technologies": [
+    "c",
+    "fonts",
+    "opentype",
+    "library",
+    "python",
+    "gnu make",
+    "gnu autotools",
+    "autotools",
+    "meson"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4699374705704960/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "GSoC 2017 Proposal - Kushal",
+          "short_description": "For a widely used library like FreeType, a test framework to check font rasterization is a must have.\nHaving a test framework to test the output of...",
+          "student_name": "Kushal K S V S",
+          "code_url": "http://lists.nongnu.org/archive/html/freetype-devel/2017-08/msg00154.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6350994178834432/"
+        },
+        {
+          "title": "Adding support for Type 1 fonts to Adobe CFF Engine",
+          "short_description": "Thanks to Adobe's contribution of their CFF engine, FreeType has excellent rasterization of CFF fonts. However, Type 1 fonts, a similar PostScript...",
+          "student_name": "Ewald Hew",
+          "code_url": "http://lists.gnu.org/archive/html/freetype-devel/2017-08/msg00148.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5183742326865920/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6550700024659968/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improve Fuzzing for FreeType",
+          "short_description": "Fuzzing is a very important asset when verifying programs, as it reveals critical edge cases that can be missed easily by structured testing....",
+          "student_name": "Armin Hasitzka",
+          "code_url": "https://gist.github.com/cherusker/eba16df5670063f496317d8eb6396112",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6417229084098560/"
+        },
+        {
+          "title": "Redevelop FreeType's documentation using markdown",
+          "short_description": "The goal of this project is to redesign and fully automate the documentation methods for FreeType, and make it easier to update and manage the...",
+          "student_name": "Nikhil Ramakrishnan",
+          "code_url": "https://gist.github.com/nikramakrishnan/416e34ea126287446df7764b2ebba8ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5174492376596480/"
+        },
+        {
+          "title": "Integrating VFlib's TeX format drivers into FreeType",
+          "short_description": "The goal of this project is to add the support of TeX's bitmap font formats (GF, TFM, PK and VF fonts) into FreeType by providing new modules to...",
+          "student_name": "Parth Wazurkar",
+          "code_url": "https://gist.github.com/parthw1/58a9168cebf79641fe6ce07bd543a2df",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5195709045276672/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6561043747176448/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improve the 'ftinspect' demo program",
+          "short_description": "\u2018ftinspect\u2019 is an essential part of FreeType to show how a font gets rendered by FreeType, allowing control over virtually all rendering parameters....",
+          "student_name": "Veeki Yadav",
+          "code_url": "https://gist.github.com/GeVic/75889ae2728f6dee0a490166ff8e2271",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5541736875556864/"
+        },
+        {
+          "title": "Adding support for OpenType-SVG Fonts to FreeType",
+          "short_description": "To support colored glyphs in OpenType fonts, several formats currently exist, namely SBIX, CBDT and COLR. These are used widely with varying degree...",
+          "student_name": "Moazin",
+          "code_url": "https://lists.nongnu.org/archive/html/freetype-devel/2019-08/msg00084.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6002250785226752/"
+        },
+        {
+          "title": "Add Support for WOFF2 Fonts to FreeType",
+          "short_description": "The aim of this project is to integrate seamless support for the WOFF File Format 2.0 into FreeType so that these fonts can be recognized,...",
+          "student_name": "Nikhil Ramakrishnan",
+          "code_url": "https://gist.github.com/nikramakrishnan/f88f3bae3cd2f0ba06d20ab3e0c74fb3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6267232768753664/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5205992846917632/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Add / Improve Freetype Testing Framework",
+          "short_description": "I plan to address the idea \"Develop a test framework for checking FreeType's rendering output\". Frreetype needs to be able to compare images for...",
+          "student_name": "Greg Williamson",
+          "code_url": "https://gitlab.com/freetype2/freetype2/-/blob/GSoC-2020-greg/CI/Readme.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5648454337953792/"
+        },
+        {
+          "title": "Replace FreeType's tracing and debugging facilities with an external logging library",
+          "short_description": "FreeType is an open-source library used to render fonts\u200b. FreeType is packed with a lot of complex font-related features, therefore, logging is an...",
+          "student_name": "Priyesh Kumar",
+          "code_url": "https://gist.github.com/Priyeshkkumar/c07ad743e6d385f64c3d9add8d11495a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4559915714084864/"
+        },
+        {
+          "title": "Integrating Distance Field Generation in FreeType",
+          "short_description": "Distance fields looks similar to rasterized images but are very different from them. In the context of fonts, each pixel in a distance field image...",
+          "student_name": "Anuj Verma",
+          "code_url": "https://lists.nongnu.org/archive/html/freetype-devel/2020-08/msg00111.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4812339095797760/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5483147923292160/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Re: Develop a test framework for checking FreeType's rendering output",
+          "short_description": "This Framework aims to compare the development version to the baseline version .\nUpon each commit, several builds are triggered for various operating...",
+          "student_name": "Sarthak Bhardwaj-1",
+          "code_url": "https://gist.github.com/1sarthakbhardwaj/082b81df1de51fbf16e2031d3f424297",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5957370127056896/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/freetype/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Integrate FreeType with alternative font rendering engines",
+          "short_description": "Investigate and implement alternative font renderers in FreeType, including: \u2022 font-rs \u2022 font-go \u2022 fontdue \u2022 Pathfinder Thus the project is about...",
+          "student_name": "Anurag Thakur",
+          "code_url": "https://docs.google.com/document/d/1dGnYX_OxbuUMnizaeHwJBddeDRUSyXe6iAOq736gx_o/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RD0zDKK1/"
+        },
+        {
+          "title": "Improve FreeType demo program ftinspect",
+          "short_description": "In this project, the Qt-based ftinspect program in the FreeType Demo Programs project is improved from a skeleton with extremely limited...",
+          "student_name": "Jiang Zhirui",
+          "code_url": "https://gist.github.com/cqjjjzr/1af5f3bca1d71bf188b3d2e73d9c1b94",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UTT0MqfN/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/freetype",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integrating ftbench into FreeType's Build Structure: A Performance Benchmarking Automation Project",
+          "short_description": "The goal of this project is to improve the ftbench program in FreeType's build structure for easier performance testing. The current manual process...",
+          "student_name": "Ahmet G\u00f6ksu",
+          "code_url": "https://gitlab.freedesktop.org/freetype/freetype/-/tree/gsoc-2023-ahmet-final",
+          "proposal_id": "4r8Y3Bmb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WTILl9LD"
+        },
+        {
+          "title": "Integrate FreeType with alternative rendering engines",
+          "short_description": "Investigate and implement alternative font renderers in FreeType, including: \u2022 font-rs: A font renderer developed by Raph Levien. A blogpost...",
+          "student_name": "Anurag Thakur",
+          "code_url": "https://docs.google.com/document/d/14me6L4HEMnjBVFwOCjaBayRjQym-WK_RQuOJt7A3pCY/edit?usp=sharing",
+          "proposal_id": "VR7lPhUp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vnrdFMIr"
+        },
+        {
+          "title": "Adding a \u201ccapabilities database\u201d to the FreeType auto-hinter",
+          "short_description": "It is easy to render fonts well on screens with high pixel density. However, straightforward algorithms run into problems when rendering with few...",
+          "student_name": "gerzytet",
+          "code_url": "https://gitlab.freedesktop.org/freetype/freetype/-/tree/gsoc-craig-2023-final",
+          "proposal_id": "6CaOVRhz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/s3CapZKT"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/freetype/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:freetype-devel@nongnu.org",
+  "mailing_list": "freetype-devel@nongnu.org",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,600 @@
+{
+  "name": "Eclipse Foundation",
+  "url": "https://www.eclipse.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/eclipse-foundation/xo1ntao7atq7yjg2-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "java",
+    "eclipse",
+    "developer tools",
+    "locationtech",
+    "runtimes",
+    "frameworks",
+    "research",
+    "internet of things",
+    "industry",
+    "runtime systems",
+    "iot",
+    "cloud",
+    "ide",
+    "robotics",
+    "automotive",
+    "tools",
+    "cloud native java",
+    "iot & edge"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "java",
+    "geospatial",
+    "geo",
+    "iot",
+    "che",
+    "ide",
+    "javascript",
+    "php",
+    "xtext",
+    "jakarta",
+    "openj9",
+    "deep learning",
+    "eclipsejavaide",
+    "jakartaee",
+    "deeplearning",
+    "rtos",
+    "softwaredefinedvehicles"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6236335463464960/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Web-based Dev Tool to create Information Models",
+          "short_description": "This project aims to create a web based code editor for Information models provided on Eclipse Vorto. The web editor will be used to provide similar...",
+          "student_name": "Shiv Kandikuppa",
+          "code_url": "http://shivkandikuppa.blogspot.in/2016/08/gsoc-2016-final-submission-vorto_22.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6393479726891008/"
+        },
+        {
+          "title": "Sign and Verify Script",
+          "short_description": "EASE is a scripting project for eclipse which allows users to execute scripts from local and remote sources. It is a threat to user in executing...",
+          "student_name": "Varun Raval",
+          "code_url": "https://docs.google.com/document/d/1xWA3TiPQVgPvY_f-DPPJYihptfG4L92_3zb0vA6VVf8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6714493367222272/"
+        },
+        {
+          "title": "EMF Forms goes AngularJS: Backend integration with OpenAPI",
+          "short_description": "This project consists on integrating EMF Forms with OpenAPIs to automatically create web UIs that communicate with REST services.",
+          "student_name": "hgabaldon",
+          "code_url": "https://docs.google.com/document/d/1yUrT86F5VFLcuNvreY8O3qNS7f-SyKBn9d54hD2W7ZE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5717424225648640/"
+        },
+        {
+          "title": "Statistics from the Developer Workspace",
+          "short_description": "In this project, \u201cDeveloper Statistics\u201c should be extended through GIT metrics and new Mylyn statistics/views. Furthermore the UI should be cleaned...",
+          "student_name": "Akif",
+          "code_url": "https://docs.google.com/document/d/18OW0AWDE6xxY4jJD32N8pMhdkNeyjwmvir_6yAzHqVM/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5739238230327296/"
+        },
+        {
+          "title": "JUnit and TestNG Test Runner Plugin for Eclipse Che",
+          "short_description": "Eclipse Che provides an open source IDE and a platform for developing Java ,JavaScript, Php projects and cloud IDE extensions. The Che is mainly...",
+          "student_name": "Mirage",
+          "code_url": "https://docs.google.com/document/d/1_dcEZuq3jzsYoto_Fq8naT-jE32f343qH_VHS0W-PiQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4996791795712000/"
+        },
+        {
+          "title": "Eclipse EASE Jupyter Kernels",
+          "short_description": "This Google Summer of Code proposal describes a project to create custom Jupyter kernels for the Eclipse Advanced Scripting Environment's (EASE)...",
+          "student_name": "Martin Kloesch",
+          "code_url": "https://github.com/kmhsonnenkind/ease_jupyter_kernels",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5292257359953920/"
+        },
+        {
+          "title": "Interface to send additional requested data for Eclipse Automated Error Reporting Initiative",
+          "short_description": "Exentsion of the AERI module with a new interface to submit requested \"needinfo\" data directly from the IDE to avoid the roundtrip of a user to the...",
+          "student_name": "Daniel H",
+          "code_url": "https://docs.google.com/document/d/1jcvye7i6EHozZgvv8kfpjUDlZTvhgHAPuk2CmYDdmng/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5364336843292672/"
+        },
+        {
+          "title": "Implement filesystem sync in Eclipse Flux",
+          "short_description": "Add support of file-system based synchronization in Eclipse Flux.",
+          "student_name": "Fjodor Vershinin",
+          "code_url": "https://gist.github.com/fjodorver/b5dcfe291bebaea8f8f76fe31220177d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6114091298979840/"
+        },
+        {
+          "title": "Eclipse CHE: Pair programming with Eclipse Che Cloud IDE",
+          "short_description": "Nowadays people tend to work with cloud IDEs more than  standalone IDEs. Simplified sharing mechanisms do a  major role in cloud IDEs.  Pair...",
+          "student_name": "rnavagamuwa",
+          "code_url": "http://www.rnavagamuwa.com/open-source/gsoc-2016-final-submission-pair-programming-with-eclipse-che-cloud-ide/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4930443140923392/"
+        },
+        {
+          "title": "Vorto : Web based Graphical IoT System Modeling Too",
+          "short_description": "The Vorto Web based IoT System Modeling tool provides user to design/model the IoT solution in a graphical way using web browser (Chrome/Firefox)...",
+          "student_name": "Tharindu",
+          "code_url": "https://github.com/nagavijays/IoT-Graphical-System-Modeler/commits?author=tharindu99",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5176288276905984/"
+        },
+        {
+          "title": "EMF Forms goes AngularJS: A web-based editor for UI schemata",
+          "short_description": "The objective of this project is to make the creation of web forms easier and more accessible to non-programmers. By taking advantage of the...",
+          "student_name": "fraruca",
+          "code_url": "https://docs.google.com/document/d/1nqM4JER7vEU0O7k6Ppz7oImdKdqiWDG7FgpEUhU3XSc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5186912281165824/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5043263878725632/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Eclipse Kapua: IoT gateway simulation",
+          "short_description": "The goal of my project is to create a data model close enough to the reality, manage to interface it with an existing gateway simulation (that would...",
+          "student_name": "Arthur Deschamps",
+          "code_url": "https://github.com/arthurdeschamps/kapua-iot-gateway-simulation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6399202233942016/"
+        },
+        {
+          "title": "ChemClipse - Integrating R",
+          "short_description": "ChemClipse is a solution developed under The Eclipse Foundation to explore and visualize analytical data of Chemistry from more than one source...",
+          "student_name": "Hitesh Gaur",
+          "code_url": "https://medium.com/@hitesh.gaur/google-summer-of-code-2017-final-report-6003c4bc982e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4962628283662336/"
+        },
+        {
+          "title": "Add support for Shapes Constraint Language (SHACL) for Eclipse RDF4J",
+          "short_description": "Shapes Constraint Language (SHACL) is a data modelling language which is used to validate RDF graphs against a set of conditions.those conditions are...",
+          "student_name": "Heshan Jayasinghe",
+          "code_url": "https://gist.github.com/heshanjse/a081be9902458e909b2e411fbb8bac82",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5345666620456960/"
+        },
+        {
+          "title": "Eclipse CHE: Data Source plugin for Eclipse Che 5",
+          "short_description": "Rewriting the Data Source plugin for Eclipse Che 5 using the previously used plugin used in Eclipse Che 3",
+          "student_name": "Sudaraka Jayathilaka",
+          "code_url": "https://medium.com/@sudarakayasindu/gsoc-2017-data-source-plugin-for-eclipse-che-5-743235de3f6c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6197195963367424/"
+        },
+        {
+          "title": "Improve PCA functionality in ChemClipse",
+          "short_description": "ChemClipse is program for processing mass spectra and chromatograms. Chromatography and mass spectrometry techniques are widely used tools for life...",
+          "student_name": "Jan Holy",
+          "code_url": "https://docs.google.com/document/d/1T345gtNlYVwcZ9uAqC4JfiEKzmUaHaGV4OQBXuHTaJE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4534467557326848/"
+        },
+        {
+          "title": "Eclipse CHE: Java Plug-Ins for code assist/checkers",
+          "short_description": "This document have an description about who I am and one brief description about the project Eclipse CHE: Java Plug-Ins for code assist/checkers...",
+          "student_name": "Sara Vidinha Cruz Santos",
+          "code_url": "https://github.com/saravidinha/Che-JavaPlugins/blob/master/GSoC2017.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4568930374909952/"
+        },
+        {
+          "title": "UI Modernisation (Developer Statistics)",
+          "short_description": "The goal of this project is to further optimize the user interface. The structure of the overview pages shall be improved. For a better structure,...",
+          "student_name": "Julian W.",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vQWKd01l_QWFtqX6fvZwcuegmgJBxiRkEm8eI1e1jFhzK8zsrzkHpWTwXQAwnFKRTfRNfU0tJBMNYd-/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6562100411367424/"
+        },
+        {
+          "title": "A4MCAR: A Distributed and Parallel Demonstrator for Eclipse APP4MC",
+          "short_description": "Distributing software effectively to multi core, many core, and distributed systems has been studied for decades but still advances successively...",
+          "student_name": "Mustafa \u00d6z\u00e7elik\u00f6rs",
+          "code_url": "https://mozcelikors.github.io/a4mcar/content/intro.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6112006629228544/"
+        },
+        {
+          "title": "A Generic Editor Framework for JSON",
+          "short_description": "This proposal references the EMF Forms goes Angular JS idea in the Eclipse wiki.\nJSON has become a de-facto standard for data exchange in web...",
+          "student_name": "Lucas Koehler",
+          "code_url": "https://docs.google.com/document/d/130uhopJUQk2jJTvV6AUAHujbX8TqjKm2XlNVpzImhBg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5760384636026880/"
+        },
+        {
+          "title": "Eclipse OMR: Teach memcheck which regions of memory are accessible",
+          "short_description": "Garbage collector does the job of allocating the objects in memory heap, checking them if they are alive i.e., if they are referenced from any other...",
+          "student_name": "Varun  Garg",
+          "code_url": "https://github.com/eclipse/omr/pull/1311/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5762172684599296/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5743257380192256/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Eclipse SmartHome meets IOTA\u2019s Tangle distributed ledger: accumulating data through Tangle for the SmartHome in exchange of IOTAs.",
+          "short_description": "Eclipse SmartHome is not an end user product per se, but rather a framework used to build end user solutions on top. ESH therefore serves as an...",
+          "student_name": "Th\u00e9o Giovanna",
+          "code_url": "https://giovannatheo.github.io/esh-iota/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6348258284666880/"
+        },
+        {
+          "title": "Null to Optional (N2O) Eclipse Plugin",
+          "short_description": "This project\u2019s goal is to add to the Eclipse JDT a fully automated, semantics-preserving refactoring for legacy Java code that replaces occurrences...",
+          "student_name": "Oren Friedman",
+          "code_url": "https://github.com/ponder-lab/Null-to-Optional-Eclipse-Plugin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5672330625810432/"
+        },
+        {
+          "title": "Eclipse CDT: Integration with the Language Server Protocol",
+          "short_description": "This project will improve the CDT for eclipse by using cquery or clangd language server for getting source code analysis of a C++ project.",
+          "student_name": "Manish Khurana",
+          "code_url": "https://gist.github.com/ManishKhurana11/f940b82c8cebe04ee1bb91ebb2ac861d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5732808731394048/"
+        },
+        {
+          "title": "Eclipse OMR : Improve Floating Point performance in OMR x86 backend",
+          "short_description": "This project aims at increasing floating point performance by the following improvements:\n\nIn Simplifier and Value Propagation, less work is done on...",
+          "student_name": "Shivam Mittal",
+          "code_url": "https://shivammittal99.github.io/GSoC2018-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6128487559593984/"
+        },
+        {
+          "title": "Generating JSON Editors based on JSON Schema",
+          "short_description": "Manual writing and editing form-based UIs is time consuming and error prone effort. JSON Forms allows you to describe the layout and controls of your...",
+          "student_name": "Ahmet Tanakol",
+          "code_url": "https://docs.google.com/document/d/1eBlUQj38FEPInoCqluMJ2c1m95_fuT4XH3DM3Iu0fug/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5768714657988608/"
+        },
+        {
+          "title": "Eclipse Vert.x: Apache Cassandra client",
+          "short_description": "Vert.x is a toolkit for building reactive applications on JVM. It also has a lot of extensions for working with different services, for example with...",
+          "student_name": "Pavel Drankou",
+          "code_url": "https://docs.google.com/document/d/1hX2Xhso89qOuudD775D87jb1IseuCw3z-Spa2VDewc8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5822576634888192/"
+        },
+        {
+          "title": "Eclipse Hono: AMQP protocol adapter",
+          "short_description": "Eclipse Hono allows business applications to consume telemetry and event data from IoT devices regardless of the communication protocol supported by...",
+          "student_name": "Alfusainey Jallow",
+          "code_url": "https://gist.github.com/Alfusainey/1e29e432e515c11a6031ec17eae4fdcb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5963921592680448/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4793126693109760/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Dynamic Code Loading for Eclipse 4diac",
+          "short_description": "As Eclipse 4diac allows programming of many different devices, such as Plcs, RaspberryPies, Lego Mindstorms, a runtime environment has to be compiled...",
+          "student_name": "Jan Holzweber",
+          "code_url": "https://wiki.eclipse.org/Eclipse_4diacWiki/Development/Dynamic_Type_Loader",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5644259758178304/"
+        },
+        {
+          "title": "RTFParallella (Real Time Framework Parallella)",
+          "short_description": "A framework to implement real time software on Adapteva Parallella platform",
+          "student_name": "Mahmoud Bazzal",
+          "code_url": "https://github.com/mahmood1994ha/RTFParallella",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5528287655231488/"
+        },
+        {
+          "title": "APP4MC capable Real-Time applications on embedded Systems",
+          "short_description": "We want to execute real-time applications using a RTOS on typical heterogeneous embedded systems and compare the results with APP4MC. In order to...",
+          "student_name": "Andreas Pronosa",
+          "code_url": "https://gitlab-pages.idial.institute/panorama.gsoc.project/rover.doc/content/intro.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6176731348598784/"
+        },
+        {
+          "title": "Model Visualization for App4MC",
+          "short_description": "Model Visualization Plugin for App4MC - Eclipse IDE\nThe world in which we live in is evolving faster than anyone can expect. New Technologies and...",
+          "student_name": "David Nagy",
+          "code_url": "https://gsocdoku.echo5.me/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5284828306472960/"
+        },
+        {
+          "title": "Reactive relational database client",
+          "short_description": "This project aims at implementing TDS (Tabular Data Stream) protocol of Microsoft SQL Server based on SPI of the Reactive SQL Client for Eclipse...",
+          "student_name": "Billy Yuan",
+          "code_url": "https://github.com/BillyYccc/incubator-vertx-mssql-client/blob/master/GSoC-summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5286114598846464/"
+        },
+        {
+          "title": "Optimizing Heterogeneous Systems through Quality Evaluation (Eclipse APP4MC Topic 5: CPU-GPU Response Time and Mapping Analysis)",
+          "short_description": "I am highly interested in APP4MC Topic 5 (CPU-GPU Response Time and Mapping Analysis), and would like to contribute to this topic with my experience...",
+          "student_name": "Junhyung Ki",
+          "code_url": "https://gsoc-doc.readthedocs.io/en/latest/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6207209711599616/"
+        },
+        {
+          "title": "Eclipse SWT Chart - Extending the export options",
+          "short_description": "Eclipse SWTChart allows to create different types of charts. The API is well designed and allows to create Line, Bar and Scatter charts easily. In...",
+          "student_name": "Sanatt Abrol",
+          "code_url": "https://mavrk.github.io/gsoc2019-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4795697918902272/"
+        },
+        {
+          "title": "Live Synchronization Skeleton for CoEditing in Che and Theia",
+          "short_description": "Increasingly, distributed software development teams rely on online collaboration. The proposed project aims to implement the first skeleton of...",
+          "student_name": "Rijul Saini",
+          "code_url": "https://rijul5.github.io/GoogleSummerOfCode-Che-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6558363687583744/"
+        },
+        {
+          "title": "CDGen",
+          "short_description": "The CDGen is an application using Eclipse APP4MC for code generation using the System Model to enhance cost-effectiveness and decreasing the chance...",
+          "student_name": "Ram Prasath Govindarajan",
+          "code_url": "https://github.com/rprasathg/cdgen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4933864181465088/"
+        },
+        {
+          "title": "Dart support for the Eclipse IDE",
+          "short_description": "Dart is a recent programming language. Originally proposed by a team at Google in 2010, its main purposes were to be a flexible, but structured...",
+          "student_name": "Jonas Hungershausen",
+          "code_url": "https://jonas-jonas.dev/posts/dartboard-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5771363007070208/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4711920076062720/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Migrating Linux Tools dependency to SWTChart and solving Slider selection issue",
+          "short_description": "SWT is a Java widget toolkit currently under Eclipse that delegates the heavy work to the native operating system. This renders it performant speed...",
+          "student_name": "Himanshu Balasamanta",
+          "code_url": "https://himanshu-balasamanta.github.io/expirience/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5684744731230208/"
+        },
+        {
+          "title": "CoEditing in Eclipse Che 7",
+          "short_description": "Today, distributed software development teams depend on online collaboration more than ever. The ongoing pandemic Covid-19 has enforced...",
+          "student_name": "Rijul Saini",
+          "code_url": "https://rijul5.github.io/GSoC-Eclipse-Che-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5733736315879424/"
+        },
+        {
+          "title": "BTF (Best Trace Format) generation on RTFParallella (Real Time Framework Parallella)",
+          "short_description": "Tracing is an elegant and efficient way of obtaining runtime information on a system. Advanced\nscheduling concepts are used in multicore processor...",
+          "student_name": "Anand Prakash",
+          "code_url": "https://github.com/anand6105/GSoC2020.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6129499801911296/"
+        },
+        {
+          "title": "Eclipse SWTChart-Extending The Export Options",
+          "short_description": "SWTChart is a powerful API utilizing SWT widgets to create custom charts used in chromatography ,mass spectroscopy and other fields requiring data...",
+          "student_name": "Yash Bharatiya",
+          "code_url": "https://yashtef.github.io/GSoC-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6228710459441152/"
+        },
+        {
+          "title": "Detecting Model Inconsistencies in 4diac Models with OCL",
+          "short_description": "Eclipse 4diac is an open source environment for programming distributed industrial automation solutions and control systems based on the IEC 61499...",
+          "student_name": "S\u00e1ndor B\u00e1csi",
+          "code_url": "https://wiki.eclipse.org/Eclipse_4diacWiki/Development/Detecting_Model_Inconsistencies_in_4diac_Models_with_OCL",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4624700564570112/"
+        },
+        {
+          "title": "A Simulation-Visualizer For Eclipse APP4MC",
+          "short_description": "The aim of this project is to visualize the execution trace of a simulated APP4MC model including its states within APP4MC using a framework such as...",
+          "student_name": "Philip Okonkwo",
+          "code_url": "https://github.com/NPKompleet/SimulationGUI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4651757516357632/"
+        },
+        {
+          "title": "Non-Preemptive and Limited-Preemptive Response Time Analysis for Eclipse APP4MC",
+          "short_description": "There are many way to schedule tasks in multi-cores platforms and each of them have result in different timing. One of the effective way to increase...",
+          "student_name": "The Bao Bui",
+          "code_url": "https://gsoc2020doc.readthedocs.io/en/latest/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5984849631903744/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/eclipse-foundation/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Migrate To Mockito For Mocking Tests",
+          "short_description": "JKube has many plugins and libraries which can deploy your projects on to cloud by building container images. Currently it is using JMockit for...",
+          "student_name": "Bhargavi Reddy K",
+          "code_url": "https://medium.com/@bhargavirkotha/project-report-for-gsoc-2022-df9a35df1e4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/i7rO5R2m/"
+        },
+        {
+          "title": "CloudEvents Mapper for Eclipse Ditto",
+          "short_description": "This proposal is for an out-of-the box CloudEvents mapper for Ditto which will convert incoming CloudEvents into Ditto Protocol and further look to...",
+          "student_name": "Pranshu Grover",
+          "code_url": "https://gist.github.com/Pranshu-G/159f8744bbb459438ef4362d234c8151",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SM12PgWQ/"
+        },
+        {
+          "title": "Eclipse JKube\u2122: Migrate To JUnit5 Testing Framework from JUnit4",
+          "short_description": "Migrate to Junit5 Testing Framework from Junit4. Eclipse JKube is currently using the JUnit4 testing framework, the goal of this proposal is to...",
+          "student_name": "Anurag Singh Rajawat",
+          "code_url": "https://gist.github.com/anurag-rajawat/a4c5f26e1c85deccd5742f614271475d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/y9hRNsi4/"
+        },
+        {
+          "title": "Eclipse 4diac Model-based Testing",
+          "short_description": "The Eclipse 4diac project provides an open source infrastructure for distributed Industrial Process Measurement and Control Systems (IPMCS) based on...",
+          "student_name": "Paul Pavlicek",
+          "code_url": "https://wiki.eclipse.org/Eclipse_4diacWiki/Development/Model-based_Testing_for_IEC_61499_Function_Blocks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ILoGc2cA/"
+        },
+        {
+          "title": "JSON-RPC as wire protocol for the event bus TCP bridge",
+          "short_description": "Eclipse Vert.x offers a message-driven programming model based on an event bus that allows applications to scale to multiple processes or nodes...",
+          "student_name": "thefallenangel",
+          "code_url": "https://lucifer4j.github.io/vertx-tcp-eventbus-bridge/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5mwJqpNr/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/eclipse-foundation",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Eclipse 4diac IDE User Interface Quality Improvement Through Automated Testing",
+          "short_description": "Often open source projects have only a few contributors. These try to incorporate all new ideas and improvements. However, this leaves little time...",
+          "student_name": "Andrea Zoitl",
+          "code_url": "https://wiki.eclipse.org/Eclipse_4diacWiki/Development/User_Interface_Quality_Improvement",
+          "proposal_id": "taKUuAD5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/LWRyOju1"
+        },
+        {
+          "title": "Upgrading Eclipse Cargo Tracker to Jakarta EE 10 and Payara 6",
+          "short_description": "The Eclipse Cargo Tracker project is a key part of the EE4J/Jakarta EE umbrella at the Eclipse Foundation. One of the current challenges the project...",
+          "student_name": "Ojus Chugh",
+          "code_url": "https://medium.com/@ojuschugh1/gsoc23-work-product-submission-a9d8cabd53c",
+          "proposal_id": "CTfuw1IW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/R3i5iNpL"
+        },
+        {
+          "title": "Eclipse 4diac: Modeling Implicit Assumptions within IEC 61499 Software",
+          "short_description": "Automated software engineering helps developers of control software to manage complex industrial applications. Eclipse 4diac has, in recent years,...",
+          "student_name": "Paul Pavlicek",
+          "code_url": "https://wiki.eclipse.org/Eclipse_4diacWiki/Development/Modeling_Implicit_Assumptions",
+          "proposal_id": "7f2cyYYv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TMpXon84"
+        },
+        {
+          "title": "Improve JKube user experience",
+          "short_description": "Currently, the JKube repo has ten open issues with the label \u2018UX\u2019. From a user perspective, these issues unnecessarily complicate trivial tasks like...",
+          "student_name": "Shivang Mishra",
+          "code_url": "https://gist.github.com/ShivangMishra/eb7f066ec2ad7fce003b1d0c015bf62e",
+          "proposal_id": "htsxzfzS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JrxqxQmW"
+        },
+        {
+          "title": "Eclipse Vert.x client for Apache Pinot",
+          "short_description": "Eclipse Vert.x is a toolkit to build reactive applications on the Java virtual machine. It provides asynchronous and non-blocking clients for...",
+          "student_name": "thefallenangel",
+          "code_url": "https://vertx.io/blog/soc-vertx-pinot-client/",
+          "proposal_id": "M7iNp4KJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/av8RmOiu"
+        },
+        {
+          "title": "Eclipse Cargo Tracker: Improve Visual Appeal and User Experience",
+          "short_description": "Eclipse Cargo Tracker is a web application to track or monitor cargo information in real time based on the Jakarta EE specification. It demonstrates...",
+          "student_name": "Yash Bharatiya",
+          "code_url": "https://github.com/yashTEF/gsoc-2023/blob/main/README.md",
+          "proposal_id": "vsOpXX0x",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XtV7l10F"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/eclipse-foundation/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Advanced Features and Inhancements for Vert.x Http Proxy",
+          "short_description": "vertx-http-proxy is a programmable reverse proxy based on Vert.x. The current implementation uses interceptors to modify requests and responses...",
+          "student_name": "Zengyi Wang",
+          "code_url": "https://vertx.io/blog/gsoc-vertx-proxy-updates/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/e9I8o8K9/"
+        },
+        {
+          "title": "GSoC 2024 Proposal - OSASIS TOSCA Language Server",
+          "short_description": "The proposal aims to enhance Eclipse Winery, a web-based environment for modeling OASIS TOSCA topologies, by implementing basic security measures....",
+          "student_name": "Omar Awad",
+          "code_url": "https://omarawd7.github.io/GSoC-24-TOSCA-LSP-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/56o5Fdkj/"
+        },
+        {
+          "title": "User Interface Quality Improvement  With Automated Testing SubApps  and Error Markers in 4diac IDE",
+          "short_description": "Open source projects often only have a few contributors. They try to incorporate all new ideas and improvements. However, this leaves little time for...",
+          "student_name": "Andrea Zoitl",
+          "code_url": "https://gist.github.com/Andrearium/42b7b71684afca621716f2d08a9b0247",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/narUYKCG/"
+        },
+        {
+          "title": "Modernize Eclipse Cargo Tracker Documentation",
+          "short_description": "I propose to modernize the Eclipse Cargo Tracker documentation to address current challenges regarding structure, consistency, and scalability. My...",
+          "student_name": "Tayebwa Noah",
+          "code_url": "https://dev.to/noah55/wrapping-up-my-google-summer-of-code-2024-journey-modernizing-eclipse-cargo-tracker-documentation-4ik7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rmT2HuM6/"
+        },
+        {
+          "title": "4diac IDE: Improving the Reliability of the Graphical Editors for Eclipse 4diac",
+          "short_description": "The 4diac IDE is an extensible, IEC 61499 compliant engineering environment for distributed control applications. The current state of its graphical...",
+          "student_name": "Prashantkumar Khatri",
+          "code_url": "https://gist.github.com/ShantKhatri/b1c6f1a53f32b74e10c2e8617ff751d2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WCHRGlOJ/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/eclipse-foundation",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "GlitchWitcher: BugCache/FixCache and REPD for AI Bug Prediction",
+          "short_description": "My project will implement, compare, and ultimately combine two complementary approaches to software defect prediction: the BugCache/FixCache...",
+          "student_name": "Anirudh Sengar",
+          "code_url": null,
+          "proposal_id": "bYh10Nyo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6AKlDH6U"
+        },
+        {
+          "title": "Dynamic UI generation based on IoT device descriptions",
+          "short_description": "This project aims to create a web-based tool that can make user interfaces from \"Thing Descriptions\" (TDs) - a term from the Web of Things standards....",
+          "student_name": "Manu Dev",
+          "code_url": null,
+          "proposal_id": "OpaphKkz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/clMHM0q1"
+        },
+        {
+          "title": "CommitHunter: AI-Powered Commit Debugger",
+          "short_description": "The Eclipse OpenJ9 project is a high-performance, scalable Java Virtual Machine (JVM) designed for cloud and enterprise applications, where debugging...",
+          "student_name": "Prashantkumar Khatri",
+          "code_url": null,
+          "proposal_id": "zwKnUAZo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ux93yt6n"
+        },
+        {
+          "title": "CommitHunter : AI-Powered Commit Debugger",
+          "short_description": "CommitHunter is an AI-powered debugging tool that automatically identifies problematic Git commits causing test failures in software projects. When...",
+          "student_name": "Rashmi_",
+          "code_url": null,
+          "proposal_id": "YXv4tgiA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ibz4qUJS"
+        },
+        {
+          "title": "Observable Public Cloud Infrastructure for IoT Developers",
+          "short_description": "Observable Public Cloud Infrastructure for IoT Developers is a project to enhance the Eclipse Thingweb ecosystem. The overarching goal is to create a...",
+          "student_name": "Sai Lalith Kanumuri",
+          "code_url": null,
+          "proposal_id": "bh7V0LPQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oNCE2drE"
+        },
+        {
+          "title": "Improving the Usability of the State Machine Editor in Eclipse 4diac IDE",
+          "short_description": "The 4diac IDE provides several graphical editors to support the development of industrial automation applications based on the IEC 61499 standard....",
+          "student_name": "Sandor Bacsi",
+          "code_url": null,
+          "proposal_id": "PsDy6Nzk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xa7Qc4Jl"
+        },
+        {
+          "title": "GlitchWitcher: AI-assisted Bug Prediction",
+          "short_description": "The \"GlitchWitcher: AI-assisted Bug Prediction\" project aims to develop and compare two distinct approaches for predicting defects in source code:...",
+          "student_name": "Tayebwa Noah",
+          "code_url": null,
+          "proposal_id": "775V5TdC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n5yZIjPY"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.eclipse.org/IRC",
+  "contact_email": "mailto:emo@eclipse-foundation.org",
+  "mailing_list": "https://dev.eclipse.org/mailman/listinfo/soc-dev",
+  "ideas_url": "https://gitlab.eclipse.org/eclipsefdn/emo-team/gsoc-at-the-ef/-/issues/?sort=due_date&state=opened&label_name%5B%5D=Project%20Idea&label_name%5B%5D=GSoC%202025&first_page_size=50",
+  "guide_url": "https://gitlab.eclipse.org/eclipsefdn/emo-team/gsoc-at-the-ef/-/blob/main/README.md",
+  "twitter_url": "https://twitter.com/EclipseFdn",
+  "blog_url": "https://planet.eclipse.org"
+}

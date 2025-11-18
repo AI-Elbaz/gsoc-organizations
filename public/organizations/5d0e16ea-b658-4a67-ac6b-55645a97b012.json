@@ -1,0 +1,60 @@
+{
+  "name": "Ivy (lets-unify.ai)",
+  "url": "https://lets-unify.ai",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ivy-lets-unifyai/zlfatiyvgun6ec6e-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "artificial intelligence",
+    "computation graph",
+    "code conversion",
+    "unified API"
+  ],
+  "technologies": [
+    "python",
+    "cython",
+    "tensorflow",
+    "pytorch",
+    "Jax"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/ivy-lets-unifyai",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "TensorLy: Multi-backend Tensor API Libraries",
+          "short_description": "The aim of this project is to use IVY as a framework and build that into TensorLy project so that TensorLy would be usable with any of the frameworks...",
+          "student_name": "Amitesh Vatsa",
+          "code_url": "https://docs.google.com/document/d/1IVkpVEWFVziwcYmpp-x68Y0YHV4QIUKPZQ0FA79Hrew/edit?usp=sharing",
+          "proposal_id": "Eo7MMLXY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kvfFWRyF"
+        },
+        {
+          "title": "GradSLAM -2: Multi-backend framework support of GradSLAM in Ivy by implementing missing PyTorch APIs",
+          "short_description": "Multi-backend framework support of GradSLAM in Ivy by implementing missing PyTorch APIs: Brief Implementation Plan: 1.) Developing support of a basic...",
+          "student_name": "Dhruv Rajendra Patel",
+          "code_url": "https://dhruv2012.github.io/gsoc23/",
+          "proposal_id": "tn6AXBJ0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pUV5O2Hj"
+        },
+        {
+          "title": "Implementing Vision Models using Ivy for Hugging Face Model Zoo",
+          "short_description": "My project proposal for GSoC in Ivy is to work on building Vision Models using Ivy and creating demos and tutorials to showcase the implementation of...",
+          "student_name": "shireenchand",
+          "code_url": "https://docs.google.com/document/d/14AWfWCFbPZkW7qFE4gQF9XHvrw90undGXes2KSU-UXc/edit?usp=sharing",
+          "proposal_id": "OqtYJ6Ag",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gdj9BHzh"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/5Z6XjPG9uw",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/letsunifyai",
+  "blog_url": "https://www.youtube.com/@unifyai"
+}

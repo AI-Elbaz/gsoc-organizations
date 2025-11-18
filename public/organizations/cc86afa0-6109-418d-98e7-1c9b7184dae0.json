@@ -1,0 +1,53 @@
+{
+  "name": "GPAC",
+  "url": "http://gpac.io",
+  "image_url": "https://lh3.googleusercontent.com/d3oNDfuyytm6SKBXs4Hg1T9_c1-9H5gyMKsvJYT9Uk4KczL3IQvT7eomOu-XMqyNZeGfyqTic6tAsHT_yQCaoo3-p2V3dWWH",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "research",
+    "streaming",
+    "multimedia",
+    "industry",
+    "playback",
+    "rendering",
+    "packaging",
+    "interactivity"
+  ],
+  "technologies": [
+    "javascript",
+    "c++",
+    "mp4",
+    "dash",
+    "mp4box",
+    "c",
+    "opengl"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4917249001390080/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Hardware-accelerated media decoding on Android",
+          "short_description": "The goal of this project is to make \"osmo4\" player take advantage of the Android's low level media APIs i.e. MediaCodec APIs by writing a decoding...",
+          "student_name": "AbdulRauf",
+          "code_url": "https://github.com/rauf/gpac/commits/android_osmo4?author=rauf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4785383036420096/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6028158437949440/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:contact@gpac.io",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/wearegpac",
+  "blog_url": "http://wiki.gpac.io/"
+}

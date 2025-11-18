@@ -1,0 +1,74 @@
+{
+  "name": "Linkerd",
+  "url": "https://linkerd.io/",
+  "image_url": "https://lh3.googleusercontent.com/OC5OtAHv88jewoffOwBhWygdW4jb-33_nrW_BGZSol_KnQGNLwuQg51nvG89fjCqXNl5Ry82c6txYdW3xzBknr41sJ4PHio",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "networking",
+    "kubernetes",
+    "service mesh",
+    "cloud native",
+    "dev-ops",
+    "containers",
+    "microservices",
+    "cloud infrastructure"
+  ],
+  "technologies": [
+    "prometheus",
+    "react",
+    "rust",
+    "golang",
+    "kubernetes",
+    "linkerd"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6364232440872960/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Service Mesh Interface Metrics",
+          "short_description": "SMI-Metrics aims to have a commen interface to get metrics from servish mesh implementations. Applications, Tools can be built targeting this...",
+          "student_name": "Tarun Reddy",
+          "code_url": "https://github.com/Pothulapati/gsoc-meta-linkerd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4829112898682880/"
+        },
+        {
+          "title": "Support Kafka metrics in Linkerd",
+          "short_description": "In this proposal, we aim to implement the detection and analysis of the Kafka traffic in Linkerd so that users can watch their Kafka service in a...",
+          "student_name": "Rui (Ray) Guo",
+          "code_url": "https://github.com/ruig2/KafkaRustCodec/blob/master/gsoc.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6482651198783488/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6500210139725824/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "ARM Support",
+          "short_description": "This project goal is to make Linkerd officially support ARM architecture",
+          "student_name": "Ali Ariff",
+          "code_url": "https://github.com/aliariff/gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4783780381851648/"
+        },
+        {
+          "title": "Conformance Validation",
+          "short_description": "This project proposes a new test suite that shall be used for conformance validation. The new test suite shall be used to validate non-trivial...",
+          "student_name": "Mayank Shah",
+          "code_url": "https://github.com/mayankshah1607/gsoc20-linkerd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5138761307914240/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://linkerd.slack.com",
+  "contact_email": "mailto:thomas@buoyant.io",
+  "mailing_list": "https://lists.cncf.io/g/cncf-linkerd-users",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/linkerd",
+  "blog_url": "https://blog.linkerd.io"
+}

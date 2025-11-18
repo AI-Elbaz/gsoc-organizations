@@ -1,0 +1,118 @@
+{
+  "name": "The ENIGMA Team",
+  "url": "https://enigma-dev.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-enigma-team/ipdbzf7owbf34bdr-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "graphics",
+    "game development",
+    "compiler",
+    "programming",
+    "game design"
+  ],
+  "technologies": [
+    "android",
+    "opengl",
+    "c++",
+    "qt5",
+    "recursive-descent"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5988826467532800/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Polygon Based Collision Detection System",
+          "short_description": "A Collision Detection system that is an alternate to Bounding Box and Precision Collision Systems. Used In Enigma to detect collisions in a game...",
+          "student_name": "Nabeel Danish",
+          "code_url": "https://github.com/enigma-dev/enigma-dev/pull/2229",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5100634545586176/"
+        },
+        {
+          "title": "Android Support for ENIGMA",
+          "short_description": "This project aims to fix the issues regarding the Android platform that includes fixing the shader, adding a new audio system and the addition of ...",
+          "student_name": "Abhishek Kumar Jha",
+          "code_url": "https://github.com/enigma-dev/enigma-dev/pull/2261",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4918214366068736/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-enigma-team/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Data Buffers / Serialization",
+          "short_description": "This project is about finishing the Binary Buffer system's API to read and write arbitrary data into a byte buffer, along with using this system to...",
+          "student_name": "Dhruv Chawla",
+          "code_url": "https://github.com/enigma-dev/enigma-dev/pull/2318",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BrXiUNA2/"
+        },
+        {
+          "title": "Expand CI test coverage to Windows",
+          "short_description": "ENIGMA is a free, open source development environment and game engine. It supports game development in Linux, Windows and MacOS and also Android as...",
+          "student_name": "NilanjanB",
+          "code_url": "https://github.com/enigma-dev/enigma-dev/pull/2313",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eh2TNW86/"
+        },
+        {
+          "title": "Add Tiled compatibility to/from Enigma",
+          "short_description": "Enigma\u2019s future plan includes becoming more independent by shifting focus away from Game Maker. As Tiled offers better room editing features than...",
+          "student_name": "Kartik Shrivastava",
+          "code_url": "https://github.com/enigma-dev/enigma-dev/pull/2302",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TowRJHuL/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-enigma-team",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Better (de)serialization support for objects",
+          "short_description": "The ENIGMA project uses a hierarchy of objects to represent entities. These objects are serialized and deserialized using (de)serialization routines...",
+          "student_name": "Fares Atef",
+          "code_url": "https://gist.github.com/FaresAtef1/b2b0b3ccebef8b60a0690f7ff2f291fc",
+          "proposal_id": "BWCqRT4W",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/VLdX6L5x"
+        },
+        {
+          "title": "Steam Workshop SDK/Third Party Integration For ENIGMA",
+          "short_description": "ENIGMA currently lacks third-party integration with various digital distribution platforms such as Steam, Xbox, or Origin. First-class support for...",
+          "student_name": "Saif Kandil",
+          "code_url": "https://k0t0z.github.io/posts/2023/GSoC_2023_final_evaluation_report.html",
+          "proposal_id": "Zr5zZY3b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kHDskccO"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-enigma-team/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implement The New Parser",
+          "short_description": "The ENIGMA project has its own language, EDL (ENIGMA Development Language), along with a dedicated parser. Two years ago, a significant effort was...",
+          "student_name": "Fares Atef",
+          "code_url": "https://gist.github.com/FaresAtef1/20a28f074d1bddec3d57c52d3e74a168",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vPyMX6cs/"
+        },
+        {
+          "title": "Procedural Fragment Shader Generation Using Classic Machine Learning",
+          "short_description": "The world of procedural generation in gaming, exemplified by titles like No Man's Sky and Minecraft, utilizes algorithms to create vast universes and...",
+          "student_name": "Seif Kandil",
+          "code_url": "https://docs.google.com/document/d/1ahKWo3m9fgqAfR9a3cqaIA08Sns05O68nhalpMNjDd8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wYTZuQbA/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/XTzB43C",
+  "contact_email": "enigma-team@googlegroups.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://enigma-dev.org"
+}

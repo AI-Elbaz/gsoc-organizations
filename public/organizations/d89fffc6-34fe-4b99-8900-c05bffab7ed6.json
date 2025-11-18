@@ -1,0 +1,214 @@
+{
+  "name": "Center for Research in Open Source Software (CROSS)",
+  "url": "https://cross.ucsc.edu/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/uhktecwqhmrixy6f-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "big data",
+    "reproducibility",
+    "distributed networks",
+    "storage systems",
+    "opendata",
+    "cloud databases",
+    "ceph",
+    "architecture",
+    "generative text",
+    "databases",
+    "hardware",
+    "storage",
+    "sensors",
+    "callibration",
+    "data science",
+    "networking",
+    "data management",
+    "systems"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c++",
+    "hadoop",
+    "ceph",
+    "c",
+    "verilog",
+    "robotics",
+    "c++17",
+    "arrow",
+    "apache arrow",
+    "matlab/simulink"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6272574585569280/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "ZLog entry caching & benchmarking",
+          "short_description": "Introduce a caching module in the current ZLog architecture and use a benchmarking tool to empirically test its performance.",
+          "student_name": "Javier Ron",
+          "code_url": "https://gist.github.com/javierron/040ef5c7d6b1a571edc7cfc3941da3e6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6093303187505152/"
+        },
+        {
+          "title": "Archiving with Popper CLI",
+          "short_description": "The project involves the implementation of a popper sub-command archive to create an online archive (snapshot) of the repository at any point of time...",
+          "student_name": "Ankan Poddar",
+          "code_url": "https://medium.com/@friendyankan/gsoc-2018-final-report-30d16c2048c8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5223266494971904/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5907529257713664/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Extend current processing methods with column-oriented processing via Arrow",
+          "short_description": "This proposal will develop object-class methods to transform on-disk Flatbuffer data (row oriented) into Apache Arrow format (col-oriented) in...",
+          "student_name": "Ashay Shirwadkar",
+          "code_url": "https://github.com/uccross/skyhookdm-ceph/wiki/Google-Summer-of-Code-2019-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6662499464642560/"
+        },
+        {
+          "title": "Popper Actions Library & Example Workflows",
+          "short_description": "This project will help in scientific research and exploration by automating the repetitive tasks in the research domain. We will create actions that...",
+          "student_name": "Mohd Arshul Mansoori",
+          "code_url": "https://gist.github.com/arshul/dbf592a1da7dc7d297af83ab83ca4d0c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6702319264071680/"
+        },
+        {
+          "title": "Popper 2.0",
+          "short_description": "This project focuses on adding various new features to Popper 2.0 like the addition of various runtimes, adding more subcommands, developing a...",
+          "student_name": "Jayjeet Chakraborty",
+          "code_url": "https://medium.com/@jayjeetchakraborty25/final-report-of-google-summer-of-code-2019-with-cross-8575971f3c88",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4514222942191616/"
+        },
+        {
+          "title": "Popper library and REANA workflow engine",
+          "short_description": "The current way of interacting with the Popper engine is through the Popper CLI tool. This tool implements all the features of the engine including...",
+          "student_name": "Barbaragd",
+          "code_url": "https://gist.github.com/barbaraDorame/86fd838f851bec4d0071e208272be045",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5838773995175936/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6311773715562496/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Alpine, macOS support",
+          "short_description": "LiveHD only supports glibc-based Linux at the moment. We can extend support to other platforms like Alpine Linux and macOS, so more people can use...",
+          "student_name": "Jixin Chen",
+          "code_url": "https://users.soe.ucsc.edu/~jchen304/pages/00-SUM2021-LiveHD-GSoC-AlpineOSX.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6593248692273152/"
+        },
+        {
+          "title": "Port wiki to ReadTheDocs or another documentation platform",
+          "short_description": "Skyhook Data Management is programmable storage for databases. Every software needs documentation that is easily accessible and easy to use/refer to....",
+          "student_name": "Yash Jipkate",
+          "code_url": "https://jedijipkate.tech/blogs/gsocfinal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6617056165756928/"
+        },
+        {
+          "title": "Object Centric Data Storage PDC_Ceph Rados Integration",
+          "short_description": "In this project, I am working on integrating the Proactive data Containers with Ceph Rados with the help of Configuring the librados (Library file...",
+          "student_name": "Mishal Singhai",
+          "code_url": "https://github.com/Mikeflames/pdc/wiki/Final-Report-of-Google-Summer-of-Code-2021-@-CROSS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5409610801872896/"
+        },
+        {
+          "title": "IMU Calibration & Self-Correction Algorithm for Open Source Autonomous Vehicle Controller",
+          "short_description": "Information obtained from an Inertial Measurement Unit (IMU) is constrained due to physical limitations such as noise, drifts, misalignments and...",
+          "student_name": "Rishikesh Vanarse",
+          "code_url": "https://github.com/uccross/open-source-autonomous-vehicle-controller/tree/master/python",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5949449569828864/"
+        },
+        {
+          "title": "Path finding algorithm using OpenCV",
+          "short_description": "Briefly, the problem is detecting the course markers to help an autonomous vehicle find an\noptimal trajectory to complete the circuit. The idea is to...",
+          "student_name": "Rupal Sharma",
+          "code_url": "https://rsdel2007.github.io/GSoC-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6325589249622016/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/center-for-research-in-open-source-software-cross/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Path finding algorithm using OpenCV and machine learning",
+          "short_description": "This project uses OpenCV to identify a track for an autonomous vehicle to follow. A new model using EfficientDet along with an existing training set...",
+          "student_name": "Pranay Mathur",
+          "code_url": "https://matnay.github.io/GSoC/GSoC22.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OoWwS8eP/"
+        },
+        {
+          "title": "Register File Generator",
+          "short_description": "Extension of OpenRAM to provide the automated generation framework of Register File which will be based upon DFF and using standard cells of skywater...",
+          "student_name": "Talha Ahmed",
+          "code_url": "https://talhaahmed1.medium.com/openregfile-open-source-register-file-generation-9638d1da32a3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/F3JBSbRA/"
+        },
+        {
+          "title": "Geospatial Data Science on AsterixDB",
+          "short_description": "AsterixDB is a parallel big-data management system that is highly scalable. It can manage semi-structured data but also supports a query language...",
+          "student_name": "Mohammad Abdussalam",
+          "code_url": "https://github.com/Mohammad1722/chicago-crimes_geospatial-analysis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1U2vuTHS/"
+        },
+        {
+          "title": "Python Interface to HDF5 Asynchronous I/O",
+          "short_description": "The problem I am solving: The existing HDF5 asynchronous I/O feature supports the C/C++ interface. This project involves the development and...",
+          "student_name": "Xuan",
+          "code_url": "https://github.com/xxLovy/GSoC-2022-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bkpeTfKY/"
+        },
+        {
+          "title": "Create python interface for PDC",
+          "short_description": "PDC (Proactive Data Containers) is a software-defined data management system meant for high performance computing systems with several layers of...",
+          "student_name": "gerzytet",
+          "code_url": "https://github.com/gerzytet/pdc-python-api",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/aXtefGUz/"
+        },
+        {
+          "title": "OpenLane/SKY130 Demos and tutorials",
+          "short_description": "OpenLane and SKY130 users are encountering a lot of trouble with current documentation. Even I, experienced software/VLSI developer, struggled with...",
+          "student_name": "Arman @armleo Avetisyan",
+          "code_url": "https://github.com/The-OpenROAD-Project/OpenLane/pull/1351",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pGBagjdk/"
+        },
+        {
+          "title": "[PolyPhy] Develop a website for PolyPhy - UC CROSS GSoC Contributor Proposal",
+          "short_description": "Polyphorm is an interactive tool to analyze intergalactic gas and dark matter filaments (together known as 'Cosmic web') using the Monte Carlo...",
+          "student_name": "Asavari Ambavane",
+          "code_url": "https://drive.google.com/file/d/1c9xwG7XU7Vi6z-sDdoKrlq1_LPbo1azd/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MQ5ZuS3x/"
+        },
+        {
+          "title": "Discrete graph extraction from simulated scalar fields",
+          "short_description": "The project aims at extracting graphs from PolyPhy simulated scalar fields. The project is part of PolyPhy, a python implementation of PolyPhorm...",
+          "student_name": "Hari Prasad",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vT21sMj148UXh1nFqUMHk8SUCJmHY3ZDOadUwy2U24okSFdYaPk7NWDTJfJNPebQsMz2nqJ-pYjfTsW/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/970vW53Z/"
+        },
+        {
+          "title": "Driver Module for Open Source Autonomous Vehicle Controller",
+          "short_description": "LiDAR and Camera could be considered the most important senses of autonomous vehicles. The camera can help to create a 2D map of the surroundings and...",
+          "student_name": "Bhumil Depani",
+          "code_url": "https://bhumildepani.github.io/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3V01T7uD/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/uccross/gsoc",
+  "contact_email": "cross-info@ucsc.edu",
+  "mailing_list": "https://cross.ucsc.edu/contact/index.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/@cross_ucsc",
+  "blog_url": "https://cross.ucsc.edu/news/blog/index.html"
+}

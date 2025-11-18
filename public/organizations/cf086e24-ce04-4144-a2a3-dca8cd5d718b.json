@@ -1,0 +1,128 @@
+{
+  "name": "Open Food Facts",
+  "url": "https://world.openfoodfacts.org/discover",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-food-facts/ypo4wfmbo5ueujuf-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "open data",
+    "health",
+    "computer vision",
+    "crowdsourcing",
+    "food",
+    "environment",
+    "mobile"
+  ],
+  "technologies": [
+    "android",
+    "machine learning",
+    "mongodb",
+    "perl",
+    "ios",
+    "python",
+    "tensorflow",
+    "flutter",
+    "javascript"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5395828684357632/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "OCR on Nutritional Facts Table",
+          "short_description": "Open Food Facts currently have a huge dataset that is not being utilized for anything except for showing the raw data to the users. Despite the...",
+          "student_name": "Sagar Panchal",
+          "code_url": "https://github.com/openfoodfacts/off-nutrition-table-extractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4816708648828928/"
+        },
+        {
+          "title": "Add Continuous Scan and Thorough Product Addition using OCR in Native Android Application",
+          "short_description": "This project aims to introduce a continuous scan feature in the Open Food Facts native android application. This will make the process of scanning...",
+          "student_name": "Huzaifa Iftikhar",
+          "code_url": "https://github.com/openfoodfacts/openfoodfacts-androidapp/tree/master/PROJECTS/GSOC-2018-huzaifa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5150591688900608/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open-food-facts/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implement an offline mode for the new Open Food Facts Flutter application",
+          "short_description": "1. Understanding the Flow and Discussion: Make a clear understanding of the flow of data between the mobile and the server, Including how the app...",
+          "student_name": "Aman Raj",
+          "code_url": "https://github.com/AshAman999/GSoC-Report2022-openfoodfacts",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0B0YhUb3/"
+        },
+        {
+          "title": "Setup an External Authentication Service",
+          "short_description": "This project sets up an authentication micro-service for the open source organization OpenFoodFacts. The project entails migrating all users to the...",
+          "student_name": "LandonPattison",
+          "code_url": "https://gist.github.com/LandonPattison/21839d41101923fe1564f653d90ffa6f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RIwJKyYg/"
+        },
+        {
+          "title": "Facets knowledge panels",
+          "short_description": "This project aims at building an Api based on knowledge panel of Open Food Facts that return client a specific knowledge panel with use of one or two...",
+          "student_name": "Sumit Kashyap",
+          "code_url": "https://gist.github.com/sumit-158/dd9fd3b6337fda5b95e882160bf4ea16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Orz9SFRa/"
+        },
+        {
+          "title": "Build a Taxonomy Editor",
+          "short_description": "The Open Food Facts database contains a lot of information on food products, such as ingredients, labels, additives etc. To link this information to...",
+          "student_name": "Aadarsh Anantha Ramakrishnan",
+          "code_url": "https://github.com/aadarsh-ram/GSoC2022-OpenFoodFacts/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WvIpqgrR/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-food-facts",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Completion of products data with USDA's FDC database, new exports and database documentation",
+          "short_description": "This project is in 3 sections. Section 1 : Continuation of the FDC import project. The Open Food Facts database is missing some data on a lot of...",
+          "student_name": "Estrella Paoli",
+          "code_url": null,
+          "proposal_id": "jDuNeTzW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd"
+        },
+        {
+          "title": "Enhancing Developer Experience Through Automation and Workflow Optimization",
+          "short_description": "Open Food Facts (OFF) relies on contributions from a global community of developers and volunteers. However, setting up development environments,...",
+          "student_name": "Jagjeevan Kashid",
+          "code_url": null,
+          "proposal_id": "cOxGxJ8K",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bCxnCqZt"
+        },
+        {
+          "title": "Folksonomy Engine: a one size fit all for any product data",
+          "short_description": "The Folksonomy Engine does not support intuitive property suggestions and reusable web components. In order to enhance usability and scalability, the...",
+          "student_name": "Kirtan Chandak",
+          "code_url": null,
+          "proposal_id": "n93venhh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AoicMwVR"
+        },
+        {
+          "title": "Open Food Facts Explorer - A New Generation Frontend",
+          "short_description": "This Google Summer of Code (GSoC) project aims to enhance the Open Food Facts Explorer by implementing new features, ensuring design consistency,...",
+          "student_name": "Mitali Singh",
+          "code_url": null,
+          "proposal_id": "CeAklX09",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3AaDmj04"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.openfoodfacts.org",
+  "contact_email": "mailto:contact@openfoodfacts.org",
+  "mailing_list": "",
+  "ideas_url": "https://wiki.openfoodfacts.org/GSOC/2025_ideas_list",
+  "guide_url": "https://world.openfoodfacts.org/google-summer-of-code",
+  "twitter_url": "https://twitter.com/OpenFoodFacts",
+  "blog_url": "https://blog.openfoodfacts.org/en/news/tis-the-season"
+}

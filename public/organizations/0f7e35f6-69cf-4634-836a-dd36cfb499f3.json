@@ -1,0 +1,224 @@
+{
+  "name": "X.Org Foundation",
+  "url": "https://www.x.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/xorg-foundation/g3sbklva7h1ksltv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "graphics",
+    "graphics stack",
+    "operating system",
+    "3d",
+    "video",
+    "3d acceleration",
+    "media acceleration",
+    "2d acceleration",
+    "windowing system",
+    "graphic stack",
+    "2d/3d graphics",
+    "windowing systems",
+    "testing/ci",
+    "gpu",
+    "drivers",
+    "kernel"
+  ],
+  "technologies": [
+    "c",
+    "opengl",
+    "c++",
+    "vulkan",
+    "opencl",
+    "x11",
+    "wayland",
+    "DRM"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5141521993039872/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "\"Soft\" double precision floating point support",
+          "short_description": "For decades CPUs did not have hardware floating point support. Floating point was implemented using using bit twiddling operations and integer math....",
+          "student_name": "Hopetech",
+          "code_url": "https://hopetech.github.io/tech/2016/08/18/Last_week_GSoC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5364636148826112/"
+        },
+        {
+          "title": "Plug the core-apitrace support for performance counters to qapitrace",
+          "short_description": "Apitrace is an open source program that allows tracing, replaying, inspecting and profiling OpenGL/Direct3D calls made by any application.\nLast...",
+          "student_name": "trtt",
+          "code_url": "https://perfc.wordpress.com/2016/08/23/gsoc-16-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5548391492747264/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6339354280591360/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Add OpenMAX state tracker in Mesa/Gallium that uses Tizonia",
+          "short_description": "Currently the OpenMAX state tracker in Mesa/Gallium uses. Bellagio has not been updated for a few years and only supports the OpenMAX IL 1.1...",
+          "student_name": "Gurkirpal Singh",
+          "code_url": "https://singhcodes.wordpress.com/2017/08/22/gsoc-2017-project-summary-success/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6355967214092288/"
+        },
+        {
+          "title": "Software Renderer for Vulkan",
+          "short_description": "Write a software renderer for Vulkan that implements graphics and compute shaders by translating directly from SPIR-V to LLVM IR, running a custom...",
+          "student_name": "Jacob Lifshay",
+          "code_url": "https://github.com/programmerjake/vulkan-cpu/blob/gsoc-2017/docs/gsoc-2017-landing-page.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5689794164162560/"
+        },
+        {
+          "title": "Multi buffered Present in XWayland",
+          "short_description": "XWayland currently only renders into a single Wayland buffer. This leads to tearing in case of prolonged use by the compositor or on direct scan out....",
+          "student_name": "romangg",
+          "code_url": "https://lists.x.org/archives/xorg-devel/2017-August/054422.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6098284611371008/"
+        },
+        {
+          "title": "Piper, gaming mice configuration",
+          "short_description": "Piper is an application frontend to libratbag and ratbagd, a library and system daemon to\nconfigure gaming mice respectively. In its current state...",
+          "student_name": "Jente Hidskes",
+          "code_url": "https://hjdskes.github.io/blog/gsoc-part-15/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5203581049241600/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4893771770626048/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve the Linux/DRM GPU scheduler to feed one entity into multiple run queues",
+          "short_description": "All the GPU drivers have a scheduler component that schedules the job received from the applications on the GPU hardware. Recently the amdgpu\u2019s...",
+          "student_name": "Nayan Deshmukh",
+          "code_url": "https://ndesh26.github.io/gsoc/2018/08/07/My-GSoC-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5618182563823616/"
+        },
+        {
+          "title": "Virtual KMS module",
+          "short_description": "The Kernel Mode-Setting (KMS) is a mechanism that enables a process to command the kernel to set a mode (screen resolution, color depth, and rate)...",
+          "student_name": "Rodrigo Siqueira",
+          "code_url": "http://siqueira.tech/report/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4614338513993728/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4999753610297344/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Tiled Textures Support For Adreno 3XX Gallium Driver",
+          "short_description": "The project sets to add tilling support for the Adreno 3XX gallium driver, figuring out the\nvarious layouts for different types of textures, when to...",
+          "student_name": "Khaled Emara",
+          "code_url": "https://gitlab.freedesktop.org/ekhaled1836/mesa/snippets/658",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5506050613051392/"
+        },
+        {
+          "title": "A Wayland application proxy",
+          "short_description": "To create a program which acts as a Wayland proxy (client + server pair), and which can forward Wayland protocol information and local shared-memory...",
+          "student_name": "mstoeckl",
+          "code_url": "https://mstoeckl.com/notes/gsoc/blog.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6302692069081088/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5883488672153600/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve VKMS using IGT GPU Tools",
+          "short_description": "This project proposal is around the VKMS, a software-only model of a KMS driver part of the DRM subsystem. My primary goal is to improve VKMS using...",
+          "student_name": "Melissa Wen",
+          "code_url": "https://melissawen.github.io/blog/2020/08/31/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6046648674811904/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/xorg-foundation/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Introduce Unit Tests to the AMDGPU \u201cDCE\u201d Component",
+          "short_description": "My project\u2019s primary goal is to create unit tests using KUnit for the AMDGPU driver focused on the Display and Compositing Engine (DCE) 11.2, which...",
+          "student_name": "Tales",
+          "code_url": "https://tales-aparecida.github.io/tales-tips-and-tricks/posts/dri-devel/gsoc-final-report/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JYeBJNnX/"
+        },
+        {
+          "title": "Introducing Unit Testing to the Display Mode VBA Library",
+          "short_description": "The Display Mode Library (DML) is a fundamental part of the AMDGPU driver. It involves lots of complex calculations and a large number of parameters....",
+          "student_name": "Ma\u00edra Canal",
+          "code_url": "https://mairacanal.github.io/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fATmfPlL/"
+        },
+        {
+          "title": "DRM AMDGPU Unit tests",
+          "short_description": "My project mainly aims at testing files in the DML folder in the AMDGPU Linux kernel driver. The AMDGPU driver is the largest one in the kernel, with...",
+          "student_name": "Isabella Basso",
+          "code_url": "https://crosscat.me/gsoc-22-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6AoBcunH/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/xorg-foundation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Increase Code Coverage to the DRM core helpers",
+          "short_description": "This proposal aims to increase code coverage on the DRM core helpers with meaningful tests. Unfortunately, it is impractical to have 100% coverage on...",
+          "student_name": "Arthur Grillo",
+          "code_url": "https://grillo-0.github.io/blog/kernel%20developing/2023/08/27/gsoc-2023-final-report.html",
+          "proposal_id": "nJnc4HWb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kaJtz1s3"
+        },
+        {
+          "title": "Videoconvert plugin for PipeWire",
+          "short_description": "Sharing video buffers via PipeWire requires at the moment consumers and producers to provide a common capability set of buffer type, buffer format...",
+          "student_name": "columbarius",
+          "code_url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests/1704",
+          "proposal_id": "rypkWXzd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BRWjKfFw"
+        },
+        {
+          "title": "Port the Valve Infra to Raspberry Pis",
+          "short_description": "Valve CI Infrastructure currently requires to be run on an x86_64 gateway, which raises its deployment and maintenance costs. Single board computers...",
+          "student_name": "jpy794",
+          "code_url": "https://gitlab.freedesktop.org/mupuf/boot2ipxe",
+          "proposal_id": "mzBiO0nH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IyeWQriR"
+        },
+        {
+          "title": "YCbCr Support for the Nouveau Vulkan Driver",
+          "short_description": "YCbCr is a color space used in video and digital systems to express color, where Y is the luma component and CB and CR are the blue-difference and...",
+          "student_name": "Mohamexiety",
+          "code_url": "https://mohamexiety.github.io/posts/final_report/",
+          "proposal_id": "kPUIg2AQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YQplnMlR"
+        },
+        {
+          "title": "wlroots presentation scheduling",
+          "short_description": "wlroots would benefit from a smarter frame schedule that reduces waiting between client commits and compositing, and between compositing and scanout....",
+          "student_name": "Rose Hudson",
+          "code_url": "https://blog.krx.sh/gsoc23/final/",
+          "proposal_id": "d5bcspeD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vRcNkDIJ"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://webchat.oftc.net/?channels=#dri-devel",
+  "contact_email": "mailto:https://lists.freedesktop.org/mailman/listinfo/dri-devel",
+  "mailing_list": "https://www.x.org/wiki/SummerOfCodeIdeas/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/XOrgFoundation",
+  "blog_url": "https://planet.freedesktop.org/"
+}

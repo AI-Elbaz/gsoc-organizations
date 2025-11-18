@@ -1,0 +1,211 @@
+{
+  "name": "Kiwix",
+  "url": "https://www.kiwix.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kiwix/b6zuffwiyoulh0ku-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "offline",
+    "android",
+    "offline access",
+    "browser",
+    "compression"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "java",
+    "c++",
+    "qt",
+    "javascript",
+    "c",
+    "node.js",
+    "python 3",
+    "kotlin",
+    "typescript",
+    "perl",
+    "vue.js"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4687429327912960/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Kiwix Android App UX Improvement",
+          "short_description": "Create a new initial landing page with suggested ZIM files that a user might want to download and\nimprove the download management UI to flow more...",
+          "student_name": "Abdul Wadood",
+          "code_url": "https://github.com/kiwix/kiwix-android/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aabdulwd+created%3A2018-04-23..2018-08-14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5561430342369280/"
+        },
+        {
+          "title": "Improve the Kiwix Android app\u2019s CI setup and increase the code coverage",
+          "short_description": "This project aims to improve the existing test infrastructure (as well as write new tests), and  refactoring parts of the code to improve...",
+          "student_name": "Siddharth Sharma",
+          "code_url": "https://gist.github.com/siddharth2010/d9e3154902c18f2d401cd82518ed7dc1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6269021842309120/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5778289111597056/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Kiwix-Android User Experience & Features",
+          "short_description": "New Features:\n\nLocal sharing of ZIMs using WiFi: Enable users to share ZIM files locally using WiFi, allowing users to easily share ZIM files with...",
+          "student_name": "Aditya Sood",
+          "code_url": "https://medium.com/@aditya.sood/gsoc-2019-work-product-document-cefe9d0b439c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5331090825281536/"
+        },
+        {
+          "title": "Create a Kiwix Hotspot application.",
+          "short_description": "Create a Kiwix hotspot application that would be an extension to the kiwix android application. It would allow the users to share their ZIM Files...",
+          "student_name": "Adeel Zafar",
+          "code_url": "https://gist.github.com/iadeelzafar/a70219ee50e22a1f1c238dc1983af233",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5776609125072896/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5280668067561472/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving MWOffliner Scraping Experience",
+          "short_description": "This proposal is about improving the overall experience of Mediawiki scarping including the various horizons like providing customary plugins,...",
+          "student_name": "Utkarsha Bakshi",
+          "code_url": "https://medium.com/@utkarshabakshi/my-gsoc-2020-final-report-472e060791d6?sk=fe6e8510bd35baa227cb188006c4cc3c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5230723302162432/"
+        },
+        {
+          "title": "Creating a design guide and refactoring the Kiwix user interface",
+          "short_description": "A problem with open source projects is that every contributor has their own idea of what good UI looks like. This leads to messy and non-uniform user...",
+          "student_name": "Frans-Lukas L\u00f6venvald",
+          "code_url": "https://gist.github.com/Frans-Lukas/8448d544de91582f9783d7cb4e4aa98f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6248765574348800/"
+        },
+        {
+          "title": "Improve Python scrapers",
+          "short_description": "Currently, scrapers are used to generate ZIM files and contain code that is difficult to maintain. A new library called scraperlib is being developed...",
+          "student_name": "satyamtg",
+          "code_url": "https://gist.github.com/satyamtg/c2685cd199ef3594b8703f59fd84056d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4637064299020288/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6595970359361536/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improve suggestion and full-text search features in Kiwix",
+          "short_description": "Search is a fundamental operation performed by Kiwix that helps users to find the content they want in a quick and efficient manner. Though it is...",
+          "student_name": "Maneesh P M",
+          "code_url": "https://gist.github.com/maneeshpm/f2a63bde56198957877268a6253d2cb2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5448608467386368/"
+        },
+        {
+          "title": "New library catalogue UI for Kiwix-serve",
+          "short_description": "This project is about improving the UI/UX experience of kiwix-serve which is used to host library.kiwix.org and other local servers for hosting zim...",
+          "student_name": "Manan Jethwani",
+          "code_url": "https://mananjethwani.github.io/GSoC-2021-New-Library-Catalogue-UI-for-kiwix-serve/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5181355436015616/"
+        },
+        {
+          "title": "WP1 Selection",
+          "short_description": "Develop new modules to build list and Improve/extend selection base solution infrastructure for WP1.",
+          "student_name": "Mahak Porwal",
+          "code_url": "https://gist.github.com/mahakporwal02/5f81e57ba0de7176097a36156cb770f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5191080181497856/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/kiwix",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Kiwix-Desktop library rework",
+          "short_description": "Most components of Kiwix-Desktop are written in QT C++, except for the library (aka content manager). The library is the view which allows you to...",
+          "student_name": "Nikhil Tanwar",
+          "code_url": "https://gist.github.com/juuz0/0912b00616e2e5a38e07586b50502f38",
+          "proposal_id": "YiLrsAQR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SvDW1HGZ"
+        },
+        {
+          "title": "Implement a user-friendly Web UI for Nautilus",
+          "short_description": "Kiwix is useful because it can provide a lot of content to people without internet access. Therefore, the easiest it is to generate content that is...",
+          "student_name": "Zhekang Xu",
+          "code_url": "https://github.com/openzim/nautilus-webui",
+          "proposal_id": "rRsq3xoQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/fvvrDjwz"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/kiwix/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Closing Out Stale and Long-Overdue Issues in Kiwix-Desktop",
+          "short_description": "Kiwix-Desktop aims to be a browser-like viewer for Zim files and presents a great experience on the viewing side. However, working on issues in the...",
+          "student_name": "Shaopeng (Chris) Lin",
+          "code_url": "https://gist.github.com/ShaopengLin/f1b80ded606f10a88f6dd9f82646e8e2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fGBlHNP4/"
+        },
+        {
+          "title": "Automated Download Speed Testing for download.kiwix.org",
+          "short_description": "The proposal outlines the plan on how to develop services that will record the download speeds of kiwix.org from various locations and show the...",
+          "student_name": "Uchechukwu Orji",
+          "code_url": "https://elfkuzco.github.io/gsoc-2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kr1RiKiJ/"
+        },
+        {
+          "title": "Youtube UI Revamp",
+          "short_description": "This project aims to enhance Kiwix's capabilities by improving its user interface for rendering YouTube channels & playlists. However, the current...",
+          "student_name": "Dan Niles",
+          "code_url": "https://dan-niles.github.io/gsoc-2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Zkus2foO/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kiwix",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Gutenberg Library - UI Revamp",
+          "short_description": "This project undertakes a comprehensive redesign of the Project Gutenberg ZIM Library user interface to provide a high-performance, fully responsive...",
+          "student_name": "Lorrainnn",
+          "code_url": null,
+          "proposal_id": "dZcartei",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RigFQ6Dt"
+        },
+        {
+          "title": "Scheduled ZIM Generation from WP1 Selections",
+          "short_description": "This project proposes the Scheduled ZIM Generation feature for the Kiwix WP1 Selections interface. It introduces an automated system that allows...",
+          "student_name": "Nicola Pace",
+          "code_url": null,
+          "proposal_id": "NXINjyQu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CIaZ59Ht"
+        },
+        {
+          "title": "Automated scheduling of creation of ZIM files",
+          "short_description": "This project aims to automate the creation of ZIM files for Wikipedia selections on WP1 by allowing users to schedule updates at regular intervals...",
+          "student_name": "Uchechukwu Orji",
+          "code_url": null,
+          "proposal_id": "hj5i0PY9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JtY6Q7U2"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/kiwixoffline/shared_invite/zt-c5fgl342-VDYtm7fwY6w0BAeBqYxIGg",
+  "contact_email": "mailto:contact+gsoc@kiwix.org",
+  "mailing_list": "",
+  "ideas_url": "https://kiwix.org/en/google-summer-of-code/",
+  "guide_url": "https://kiwix.org/en/writing-your-google-summer-of-code-application/",
+  "twitter_url": "https://mastodon.social/@kiwix",
+  "blog_url": "https://www.kiwix.org/en/blog/"
+}

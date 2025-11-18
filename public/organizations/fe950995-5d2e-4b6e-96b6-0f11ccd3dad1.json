@@ -1,0 +1,49 @@
+{
+  "name": "3DTK",
+  "url": "http://threedtk.de",
+  "image_url": "https://lh3.googleusercontent.com/5bb1zuSJfNaskJVgD5jO4Mdzamk1udiUH1BXVSzMcM8fB-kIy62kBFS6MtQj1EW445ZkQ1BWlvJL2oXRJNqsYBcmPWpSXng",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "3d",
+    "slam",
+    "mapping",
+    "point clouds"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "ros",
+    "opencv",
+    "cmake",
+    "boost"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5685665089978368/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Surface Reconstruction Tool for 3DTK",
+          "short_description": "A Poisson surface reconstruction tool for 3DTK, to reconstruct mesh surface from point clouds with or without normals. Major functions include normal...",
+          "student_name": "Xia Sun",
+          "code_url": "https://xiasun.github.io/gsoc2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6459721275932672/"
+        },
+        {
+          "title": "Replacing the glui GUI with a Qt5 GUI",
+          "short_description": "3DTK provides a program to visualize point clouds called \u201cshow\u201d.  GUI of \u201cshow\u201d is written by glui framework now, but glui framework is old and...",
+          "student_name": "Ichiho Ojima",
+          "code_url": "https://gist.github.com/b1ackturtle/6507745a4015d3b602985031e6bab3eb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5666983458635776/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:johannes.schauer@uni-wuerzburg.de",
+  "mailing_list": "https://sourceforge.net/p/slam6d/discussion/",
+  "ideas_url": "",
+  "guide_url": ""
+}

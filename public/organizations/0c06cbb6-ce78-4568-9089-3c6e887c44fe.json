@@ -1,0 +1,72 @@
+{
+  "name": "UCSC Xena",
+  "url": "http://xena.ucsc.edu",
+  "image_url": "https://lh3.googleusercontent.com/hlRCFceco1ZLWp8ayUER9wOB1bqQKT8k5afqeeXRS8otR1s34Gds8dRajI3_W3-DIadsncH4GmxzV6AomZZiipAiKnsM9hA",
+  "image_background_color": "#1a535c",
+  "category": "Science and medicine",
+  "topics": [
+    "genomics",
+    "data visualization",
+    "cancer",
+    "bioinformatics",
+    "web application",
+    "web applications",
+    "scientific visualization",
+    "cancer research"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "react",
+    "clojure",
+    "d3",
+    "jvm"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4944943755821056/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Transcript Centric View",
+          "short_description": "Currently UCSC Xena is designed in such a way that each row is a sample and columns are data types. Biologists often need to study the different...",
+          "student_name": "Akhil Kamath",
+          "code_url": "https://github.com/ucscXena/ucsc-xena-client/wiki/Google-Summer-of-Code-2017---Transcript-View",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4658280458616832/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5088326407159808/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Web interface to load data into local Xena hub",
+          "short_description": "In order to visualize their private datasets, users of UCSC Xena browser have to upload data using separate desktop application. This behavior does...",
+          "student_name": "Kristupas Repe\u010dka",
+          "code_url": "https://github.com/ucscXena/ucsc-xena-client/wiki/Xena-web-loader",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4755153580195840/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4731456398557184/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Update GDC Data on Xena",
+          "short_description": "UCSC Xena is a functional genomics visualization and analysis platform. For this (genomics visualization and analysis), there are many datasets which...",
+          "student_name": "Ayan Banerjee",
+          "code_url": "https://github.com/ucscXena/ucsc-xena-client/wiki/Update-GDC-Data-Ingestion-Pipeline-and-Run",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5581938927075328/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:genome-cancer@soe.ucsc.edu",
+  "mailing_list": "https://groups.google.com/forum/#!forum/xena-google-summer-of-code",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ucscxena"
+}

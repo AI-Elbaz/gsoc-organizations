@@ -1,0 +1,137 @@
+{
+  "name": "appleseed",
+  "url": "https://appleseedhq.net/",
+  "image_url": "https://lh3.googleusercontent.com/fsKtYgvjsvcdf4l6Uscn9CACN6kGKEyuWCWZwl_GqZF3ZhS10gsfHpEMhwqBJEa0FOF-eJD8JWFALd1hi8LNSLAmHKHQe8Y",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "3d",
+    "rendering",
+    "computer graphics",
+    "animation",
+    "vfx",
+    "mathematics",
+    "graphics",
+    "physics",
+    "high performance",
+    "simulation",
+    "image synthesis"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "qt",
+    "c",
+    "opengl",
+    "c++11"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6110372931043328/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Python scripting feature for appleseed.studio",
+          "short_description": "Python is an easy-to-learn and easy-to-use language which is often used to automate actions with scripts and to accelerate development of modules,...",
+          "student_name": "Gleb Mishchenko",
+          "code_url": "https://github.com/glebmish/GSoC-appleseed-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5680813790199808/"
+        },
+        {
+          "title": "Implementation of the Improved Many-Light Sampling Algorithm by Nathan Veghdal",
+          "short_description": "In order to render a nice looking scene (where light is concerned) we need to take into consideration that an object is lit by a combination of...",
+          "student_name": "Petra Gospodneti\u0107",
+          "code_url": "https://medium.com/@petragospodneti/gsoc-2017-with-appleseedhq-cc5f33d04170",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4810446049640448/"
+        },
+        {
+          "title": "Volume Rendering",
+          "short_description": "Currently, appleseed only renders the surfaces of objects, and treats the space between objects as a void. Hereby, one of the most requested features...",
+          "student_name": "Artem Bishev",
+          "code_url": "https://github.com/Biart95/appleseed-volumetric-rendering-final-report/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5167749210832896/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5125340301099008/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Embree Integration",
+          "short_description": "Embree is a collection of high-performance ray tracing kernels, developed at Intel and being adopted by a range of commercial renderers such as VRay...",
+          "student_name": "Fedor Matantsev",
+          "code_url": "https://docs.google.com/document/d/1BBKFKzQWjTVDoqYZ9ndKE8jHCdYyCv1IB1r6lNseDLQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4810871519838208/"
+        },
+        {
+          "title": "Hair Rendering II - Hair shader and binary format",
+          "short_description": "The project aims to add three main components to the appleseed render to improve the hair and fur pipeline. Firstly, the addition of per vertex...",
+          "student_name": "Girish Ramesh",
+          "code_url": "https://docs.google.com/document/d/1PwRI3yieYznrLBfh0sA5sI6AHinuv7MV7mva0EspN6o/edit#",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4831516353888256/"
+        },
+        {
+          "title": "Adaptive image plane sampling proposal",
+          "short_description": "Current implementation of adaptive sampling needs to be overwriten so that it is more efficient, easier to use for any user and more robust regarding...",
+          "student_name": "Kevin Masson",
+          "code_url": "https://github.com/oktomus/gsoc-2018/blob/master/appleseed-final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5797050771832832/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5485316792647680/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Light Paths Visualization and Viewport Unification",
+          "short_description": "Light path recording is a unique and potentially extremely valuable tool in appleseed; however, it is currently relatively limited in capability of...",
+          "student_name": "Gray Olson",
+          "code_url": "https://www.grayolson.me/blog/posts/gsoc-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6635569482825728/"
+        },
+        {
+          "title": "Practical Path Guiding",
+          "short_description": "For my Google Summer of Code project proposal I suggest implementing the technique described in the paper \u201cPractical Path Guiding for Efficient...",
+          "student_name": "Stephen Agyemang",
+          "code_url": "https://github.com/BashPrince/GSoC-2019-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5250155975016448/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5459614121852928/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Microfacet-based Normal Mapping",
+          "short_description": "Texture maps are used for defining material properties for every point per object surface. Normal maps are textures that are efficient for...",
+          "student_name": "Lovro Bosnar",
+          "code_url": "https://github.com/lorentzo/GSOC-2020-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5359071688916992/"
+        },
+        {
+          "title": "New Post-Processing Stages",
+          "short_description": "This project aims to equip the post-processing pipeline with a good amount of new artistic effects, to allow users to tweak the overall look and feel...",
+          "student_name": "Tiago Loureiro Chaves",
+          "code_url": "https://github.com/laurelkeys/gsoc-2020/blob/master/gsoc-final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4671601607442432/"
+        },
+        {
+          "title": "Revisiting Physical Sun and Sky Model",
+          "short_description": "This project will improve the current Appleseed's implementation of physical sun and sky models. Fixing the current blue tint present on Appleseed...",
+          "student_name": "Jo\u00e3o Marcos Moror\u00f3 Costa",
+          "code_url": "https://github.com/mororo250/Gsoc-sun-sky/blob/master/gsoc_final_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4825622892773376/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/dNCE5J8",
+  "contact_email": "mailto:hello@appleseedhq.net",
+  "mailing_list": "https://groups.google.com/forum/#!forum/appleseed-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/appleseedhq"
+}

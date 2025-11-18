@@ -1,0 +1,133 @@
+{
+  "name": "Netfilter project",
+  "url": "https://www.netfilter.org",
+  "image_url": "https://lh3.googleusercontent.com/PXmFpc9huYwQ7dPtTUuAHE3wiw1Kd4hEZwm25wicFtGaF5Yy5pxhyoDvqnLr243AP-CVZ-9_CQJmnoimUsFjjNomUYYJoHTm",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "networking",
+    "firewall",
+    "linux kernel",
+    "computer networking",
+    "software defined networking",
+    "network monitoring",
+    "network security"
+  ],
+  "technologies": [
+    "networking",
+    "linux kernel",
+    "firewall",
+    "c",
+    "linux",
+    "kernel"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6465361373298688/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Nftables proposal:  missing features and library improvements",
+          "short_description": "I'm interesting in two of the proposed tasks. I'm talk about how I would work on these and my experience with netfilter.",
+          "student_name": "carlosfg",
+          "code_url": "https://fark.github.io/GSoC-Work/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6709475771678720/"
+        },
+        {
+          "title": "Increasing the adoption of nftables by finishing the iptables-translate tool",
+          "short_description": "By completing the iptables-translate tool we can let people know the benefits of using nftables and make the adoption of nftables easier.",
+          "student_name": "robertgc",
+          "code_url": "https://robgc.github.io/gsoc2016/netfilter/2016/08/22/GSOC2016.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4801386889871360/"
+        },
+        {
+          "title": "Work on nftables missing features and iptables to nftables translation tool",
+          "short_description": "I am interested in the proposed tasks 1 and 4. These tasks are related with the implementation of nftables missing features and the completion of the...",
+          "student_name": "pablombg",
+          "code_url": "https://gist.github.com/pablombg/6279b507ea2c57fc5398f71cc12d2674",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6054899938754560/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6602954140286976/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Missing features in nftables.",
+          "short_description": "I'm interested in proposed Task 1 : Implement missing features in nftables.",
+          "student_name": "Shyam Saini",
+          "code_url": "https://gist.github.com/mysticTot/0c3651f473cb0885d809d5ab63848592",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5698623274745856/"
+        },
+        {
+          "title": "Development of nft-sync tool",
+          "short_description": "I would like to work in the, currently halted, development of nft-sync tool.",
+          "student_name": "pablombg",
+          "code_url": "https://gist.github.com/pablombg/02cd222c50590442f27065bc7bb7f529",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5580791383851008/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6483451842658304/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implement missing features in nftables",
+          "short_description": "As of Linux kernel 4.15, nftables provides around 80% of the iptables feature-set. The idea is to work on implementing missing or new features on...",
+          "student_name": "ffmancera",
+          "code_url": "http://ffmancera.net/netfilter-work-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5747672405245952/"
+        },
+        {
+          "title": "Socket match and transparent proxy support implementation in nftables",
+          "short_description": "Nftables is the successor of {ip,ip6,arp,eb}tables as a network filtering and\nclassification framework.  Its enhancement is to unite all the tools...",
+          "student_name": "M\u00e1t\u00e9 Eckl",
+          "code_url": "http://gsoc-blog.ecklm.com/gsoc-2018-project-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4655075741925376/"
+        },
+        {
+          "title": "Adding missing features to nftables",
+          "short_description": "As of Linux kernel 4.15, nftables provides around 80% of the iptables feature-set .\nI'm interested in working on project \u201cHelp by implementing...",
+          "student_name": "Harsha Sharma",
+          "code_url": "https://gist.github.com/hs256/b642e53ac2f6b485bc479672381cf6ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5219285261615104/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6409236987248640/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Adding missing features in nftables",
+          "short_description": "I would like to work implementing missing features in nftables. My plan is to work on the following subtasks: extending stateful object...",
+          "student_name": "ffmancera",
+          "code_url": "http://ffmancera.net/post/netfilter-work-gsoc-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5744305870733312/"
+        },
+        {
+          "title": "Project for developing automated tests and other new features for nftables",
+          "short_description": "This project will be focused towards developing the missing features in nftables which are present in iptables. Features such as \"-m time support\" to...",
+          "student_name": "Shekhar Sharma",
+          "code_url": "https://gist.github.com/shekhar-sharma/c847462847d4535cea6f90e612f42f1b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5329767488815104/"
+        },
+        {
+          "title": "Missing feature implementation in nftables",
+          "short_description": "At the end of the project nftables\u2019 feature set should very closely match that of iptables. This project has the objective of implementing all the...",
+          "student_name": "Ander Juaristi Alamos",
+          "code_url": "https://gitlab.com/juaristi/nftables/wikis/GSoC-2019-project-description",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4731994427097088/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://irc.netsplit.de/channels/details.php?room=%23Netfilter&net=freenode",
+  "contact_email": "mailto:coreteam@netfilter.org",
+  "mailing_list": "https://netfilter.org/mailinglists.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/nftables/"
+}

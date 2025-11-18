@@ -1,0 +1,48 @@
+{
+  "name": "Named Data Networking Project",
+  "url": "http://named-data.net/",
+  "image_url": "https://lh3.googleusercontent.com/xkQpjOYnfflUCW0ZdNDW3IMvyVB_1oq7XFWCDkxCkEwihelm44Wg5veYUpVFBkVn1UqedlNvAUpIJzg0ak_hB5l3PUXMJw",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "networking",
+    "informationc centric networking",
+    "ipfs"
+  ],
+  "technologies": [
+    "javascript",
+    "android",
+    "java",
+    "c++14",
+    "c#"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5873958367264768/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "NDN Redefining MailSync",
+          "short_description": "MailSync is a beautiful proof of work for the NDN project with the potential to make NDN's value understood through the popularization of this app....",
+          "student_name": "Avakash Bhat",
+          "code_url": "https://docs.google.com/document/d/1xs6VeQJLevliCIZH8wM3WNuqVks5WPER4FGitBFZnGk/edit#heading=h.r1vs07blxev3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4832651280646144/"
+        },
+        {
+          "title": "Android app improvement",
+          "short_description": "NpChat is a photo and file sharing application built on Android and is inspired by Snapchat. It runs over the Named Data Network (NDN) and focuses on...",
+          "student_name": "dev-ritik",
+          "code_url": "https://gist.github.com/dev-ritik/cddad0f015f75d362511d183e187a77e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4940146259001344/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://minindn.memphis.edu/ndnslack/",
+  "contact_email": "mailto:info@named-data.net",
+  "mailing_list": "https://named-data.net/codebase/platform/support/mailing-lists/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "http://twitter.com/nameddata",
+  "blog_url": "http://reddit.com/r/ndn"
+}

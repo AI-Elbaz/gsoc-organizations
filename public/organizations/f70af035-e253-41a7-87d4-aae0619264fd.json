@@ -1,0 +1,127 @@
+{
+  "name": "Inclusive Design Institute",
+  "url": "https://inclusivedesign.ca",
+  "image_url": "https://lh3.googleusercontent.com/XTprn0SsGg4WcXZU0UXeJZ_qSqBCnQ0rZ-TayCndjJoRMVdpddcOTsTeR3SDr0od8Qxo4xzCmqCe4qA-h1HAi_3deWfhzRiN",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "web applications",
+    "accessibility",
+    "inclusivity",
+    "web development",
+    "inclusion"
+  ],
+  "technologies": [
+    "javascript",
+    "html5",
+    "node.js",
+    "css",
+    "jquery",
+    "html",
+    "php"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4725596554788864/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Data Visualization with Infusion",
+          "short_description": "This came from a project I pitched last year with Antranig Basman and Colin Clark. Our goal is to make public data sources accessible for analysis...",
+          "student_name": "wannabecitizen",
+          "code_url": "https://github.com/wannabeCitizen/data-dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6433018390511616/"
+        },
+        {
+          "title": "Accessible, Responsive Music UI Controls",
+          "short_description": "With the introduction of the Web Audio API and music frameworks such as Flocking, it's possible to make music and develop custom instruments entirely...",
+          "student_name": "Dinuka De Silva",
+          "code_url": "https://github.com/dinukadesilva/music-ctrls",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5288711059144704/"
+        },
+        {
+          "title": "Stanislav Shterev IDI UIO Responsive Design Proposal",
+          "short_description": "My proposal for a project is to implement the current features of the User Interface Options on the responsive design.  The project goal is to also...",
+          "student_name": "Stan Shterev",
+          "code_url": "https://github.com/fluid-project/infusion/pull/726",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6238524554608640/"
+        },
+        {
+          "title": "Game for First Discovery of Preferences",
+          "short_description": "Project aims to develop a game that will help users to discover their appropriate digital and learning preferences in an interactive environment by...",
+          "student_name": "Sparsh Paliwal",
+          "code_url": "https://github.com/PaliwalSparsh/Discovery-Cat/tree/v0.1.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4882108115845120/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6198653098131456/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Inclusively Design & Build a Game for Kids",
+          "short_description": "Main objectives of this project were to develop an online game for young kids using an eye-gaze technology. This will help them to develop their...",
+          "student_name": "Ria Bhatia",
+          "code_url": "https://medium.com/@riabhatia_73052/gsoc-2018-spifind-music-mania-3e9cc7ec8d5e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4632759091855360/"
+        },
+        {
+          "title": "Upgrading AChecker",
+          "short_description": "Due to the release of PHP 7+, which lead to some PHP functions/code being deprecated, there is a need to ensure that all web applications that are...",
+          "student_name": "Victor Alagwu",
+          "code_url": "https://gist.github.com/VictorAlagwu/ded80c52cc8c927f7f857bd26cb05f5c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6021790975393792/"
+        },
+        {
+          "title": "Build a Service for Adaptive content and Learning supports",
+          "short_description": "This project involves making a well-structured and easy to access web service, fetching data from other third-party services. As each third-party has...",
+          "student_name": "KUNAL MOHTA",
+          "code_url": "https://kunalmohta.wordpress.com/2018/08/11/gsoc18-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4917819695169536/"
+        },
+        {
+          "title": "Playtown!: Creativity through Exploration",
+          "short_description": "Playtown! is a switch-accessible children's game that will allow users to customize a character and explore a town map. The character will be able to...",
+          "student_name": "Christine Hu",
+          "code_url": "https://github.com/christine-hu/playtown",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5783910386499584/"
+        },
+        {
+          "title": "Import external data to MyL3",
+          "short_description": "Project Description: \u2018My Life Long Learning Lab\u2019 (MyL3) allows learners to become experimental researchers in subject of their own learning. MyL3 not...",
+          "student_name": "Jeevan Prakash",
+          "code_url": "https://github.com/fluid-lab/MyL3-External-Data",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5924252133883904/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5992304050962432/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Migrate FLOE and Fluid project websites to a Modern Static Site Generator",
+          "short_description": "The FLOE Project site is currently using static, hand-coded HTML, while the Fluid Project site is currently built using DocPad. Even though...",
+          "student_name": "Sachin Chopra",
+          "code_url": "https://gist.github.com/sachin10101998/76cb4d4ef493342b80f88a26c667dccc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6253691868282880/"
+        },
+        {
+          "title": "Using a Game Controller as a Navigation Aid",
+          "short_description": "Until now, the traditional ways to navigate across a web browser are by using a mouse or a keyboard. Browser navigation was not much extended as an...",
+          "student_name": "Divyanshu Mahajan",
+          "code_url": "https://gist.github.com/dmahajan980/865d137e486c21f02f3335ac34f9c2b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6008528424140800/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.fluidproject.org/display/fluid/IRC+Channel",
+  "contact_email": "",
+  "mailing_list": "https://lists.idrc.ocad.ca/mailman/listinfo/fluid-work",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/FluidProject"
+}

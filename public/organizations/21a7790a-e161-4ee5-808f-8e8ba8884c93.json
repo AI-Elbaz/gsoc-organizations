@@ -1,0 +1,45 @@
+{
+  "name": "Elm Tooling",
+  "url": "https://github.com/elm-tooling?type=source",
+  "image_url": "https://lh3.googleusercontent.com/-XNgKxWjgT1sO2zqY9dM86ocsPJAUPj-XM2iojUjf8vaEhyBmAj_gk8MR4mnIpKd8UYx-aXCnSjkPBHrkZM1ypuyaYFJ-hmzjOzdNUP0RQBN",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "web",
+    "linter",
+    "tooling",
+    "parser"
+  ],
+  "technologies": [
+    "functional programming",
+    "typescript",
+    "elm"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5833213695492096/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve pure Elm markdown parser",
+          "short_description": "This project is based on the idea Improve pure Elm markdown parser. As the idea described, some specs of the pure Elm markdown parser...",
+          "student_name": "Jinyi",
+          "code_url": "https://lulu-gsoc-blog.netlify.app/process/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4755132679454720/"
+        },
+        {
+          "title": "Integrating performance improvements from the Elm compiler into elm-format",
+          "short_description": "Elm's de-facto standard source code formatter, elm-format is based on Elm's 0.15 compiler parsing code. Since Elm 0.19 the compilers parsing code has...",
+          "student_name": "Emma Bast\u00e5s",
+          "code_url": "https://gist.github.com/emmabastas/431137110ab5484fbd2ee1be12670df8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5973224797503488/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://elmlang.herokuapp.com/",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

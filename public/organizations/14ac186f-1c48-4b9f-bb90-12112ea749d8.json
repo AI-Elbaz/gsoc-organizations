@@ -1,0 +1,35 @@
+{
+  "name": "SeaQL",
+  "url": "https://sea-ql.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/seaql/tkc2iu6ottkqbq0b-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "database",
+    "library",
+    "framework",
+    "sql",
+    "rust"
+  ],
+  "technologies": [
+    "mysql",
+    "postgresql",
+    "rust",
+    "sql",
+    "sqlite"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/seaql/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://discord.com/invite/uCPdDXzbdv",
+  "contact_email": "hello@sea-ql.org",
+  "mailing_list": "https://github.com/SeaQL/summer-of-code/discussions",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/sea_ql",
+  "blog_url": "https://www.sea-ql.org/SeaORM/blog"
+}

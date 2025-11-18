@@ -1,0 +1,80 @@
+{
+  "name": "Point Cloud Library",
+  "url": "https://pointclouds.org/",
+  "image_url": "https://lh3.googleusercontent.com/AOzUOMLm4TOHrEUH5LV9vlw6WgOjPt3DIm8hFkXUox68mU2eFZvb4nVLyeeo_joW2BSHQ6fAz10QKrlsB4-nSxldoa3zi54gZ_qXBxwXchveZg",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "3d computer vision",
+    "perception",
+    "computer vision",
+    "data structures",
+    "2d/3d graphics",
+    "gpu computing"
+  ],
+  "technologies": [
+    "cmake",
+    "cpp",
+    "devops",
+    "python",
+    "cuda",
+    "c++14",
+    "computer vision"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6128597321908224/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Refactoring, Modernisation & Feature  Addition with Emphasis on GPU Module",
+          "short_description": "Despite being the go-to library for point cloud based computation, PCL can cause some friction to users due to its old-fashioned and sometimes...",
+          "student_name": "Haritha Jayasinghe",
+          "code_url": "https://pointclouds.org/gsoc-2020/gpu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5743656952135680/"
+        },
+        {
+          "title": "Unified API for Algorithms",
+          "short_description": "Motivation\nWith the current trend of increasing parallelism, there is a need for a uniform way of making these parallel implementations available...",
+          "student_name": "Shrijit Singh",
+          "code_url": "https://pointclouds.org/gsoc-2020/executors/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5956677699895296/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6260986197049344/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Better Voxel Filter",
+          "short_description": "In PCL, there are a variety of filters, many of which contain similar filtering logic in at least part of their code.\nIn the early years, the filters...",
+          "student_name": "Tin Chon Chan",
+          "code_url": "https://github.com/tin1254/PCL_GSoC_2021/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6682359029563392/"
+        },
+        {
+          "title": "Enhancing clang-bind",
+          "short_description": "Enhancing Point Cloud Library\u2019s clang-bind project to fix and extend its existing capabilities. \nCurrently, the project is lacking in its scope to...",
+          "student_name": "Divyanshu Madan",
+          "code_url": "https://gist.github.com/divmadan/33a6e469e9055bc7c85bb53a8465d1be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4740755578421248/"
+        },
+        {
+          "title": "Enable CUDA builds on CI",
+          "short_description": "The increasing parallelism brought by CUDA and GPU libraries benefits PCL as well as other open-source communities greatly. However, the test for...",
+          "student_name": "Hang Yan",
+          "code_url": "https://docs.google.com/document/d/1M6oeheNOyYMi45y8mSZUQJdYz7xR5pKYNYrPrgR4RsQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6005703977730048/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/JFFMAXS",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://pointclouds.org/gsoc-2020/"
+}

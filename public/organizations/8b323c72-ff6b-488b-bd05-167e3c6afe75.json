@@ -1,0 +1,109 @@
+{
+  "name": "stdlib",
+  "url": "https://stdlib.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/stdlib/7ornclj6w5zz9fca-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "mathematics",
+    "web",
+    "scientific computing",
+    "numerical computing",
+    "statistics"
+  ],
+  "technologies": [
+    "c",
+    "javascript",
+    "node.js",
+    "typescript",
+    "webassembly"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/stdlib/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "A better Node.js REPL for Numerical and Scientific Computing",
+          "short_description": "The read-eval-print loop (REPL) is a fixture of data analysis and numerical computing and provides a critical entry-point for individuals seeking to...",
+          "student_name": "Snehil Shah",
+          "code_url": "https://github.com/stdlib-js/stdlib/wiki/GSoC-2024-%E2%80%90-Snehil-Shah",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KRRdM6F8/"
+        },
+        {
+          "title": "Add BLAS bindings and implementations for linear algebra",
+          "short_description": "The goal of this proposal is to add BLAS (Basic Linear Algebra Subprograms) routines and their C, Fortran, and Js implementations for linear algebra....",
+          "student_name": "Aman Bhansali",
+          "code_url": "https://github.com/stdlib-js/stdlib/wiki/GSoC-2024-%E2%80%90-Aman-Bhansali",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gxSf9XqK/"
+        },
+        {
+          "title": "Develop C implementations for base special mathematical functions",
+          "short_description": "This project aims at developing C implementations for base special mathematical functions in stdlib, which are currently implemented in JavaScript....",
+          "student_name": "Gunj Joshi",
+          "code_url": "https://github.com/stdlib-js/stdlib/wiki/GSoC-2024-%E2%80%90-Gunj-Joshi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PVwSgrbG/"
+        },
+        {
+          "title": "Add support for Boolean arrays in Stdlib",
+          "short_description": "Referring the implementation of how complex64 arrays are implemented, I proposed adding support for boolean arrays in stdlib. Unlike complex64 array,...",
+          "student_name": "Jaysukh Makvana",
+          "code_url": "https://github.com/stdlib-js/stdlib/wiki/GSoC-2024-%E2%80%90-Jaysukh-Makvana",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8zUO9AU0/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/stdlib",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Add LAPACK bindings and implementations for linear algebra",
+          "short_description": "The goal of this project is to develop JavaScript implementations of LAPACK (Linear Algebra Package) routines. Each implementation will provide both...",
+          "student_name": "Aayush Khanna",
+          "code_url": null,
+          "proposal_id": "vDq1qj53",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/opJzlQTz"
+        },
+        {
+          "title": "Expanding array-based statistical computation in stdlib",
+          "short_description": "This project aims to enhance the stats routines in stdlib by introducing convenience array wrappers for all 1D strided APIs, simplifying access to...",
+          "student_name": "Gururaj Gurram",
+          "code_url": null,
+          "proposal_id": "qDJC1GiI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JYSuqCBs"
+        },
+        {
+          "title": "Implement base special mathematical functions in JavaScript and C",
+          "short_description": "This project aims to implement and enhance base special mathematical functions in JavaScript and C for stdlib. The goal is to complete missing C...",
+          "student_name": "Karan Anand",
+          "code_url": null,
+          "proposal_id": "gldClMl7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Td3c9qv2"
+        },
+        {
+          "title": "achieve ndarray API parity with built-in JavaScript arrays",
+          "short_description": "JavaScript lacks a general purpose and cache efficient multi-dimensional array API for operating on large datasets of high-dimensionality. To address...",
+          "student_name": "muhammad_haris",
+          "code_url": null,
+          "proposal_id": "OGIQTqx5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lKDCoGBz"
+        },
+        {
+          "title": "Add BLAS bindings and implementations for linear algebra",
+          "short_description": "This project aims to increase BLAS (Basic Linear Algebra Subprograms) support in stdlib via the development of JavaScript, C, Fortran, and...",
+          "student_name": "Shabareesh Shetty",
+          "code_url": null,
+          "proposal_id": "wtSZ7pS6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NJC5LuLO"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/stdlib-js/stdlib",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/stdlib-js/google-summer-of-code/blob/main/ideas.md",
+  "guide_url": "https://github.com/stdlib-js/google-summer-of-code",
+  "twitter_url": "https://x.com/stdlibjs"
+}

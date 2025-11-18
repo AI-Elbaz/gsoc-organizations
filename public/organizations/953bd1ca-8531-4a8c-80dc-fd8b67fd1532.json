@@ -1,0 +1,45 @@
+{
+  "name": "Unitex/GramLab",
+  "url": "http://unitexgramlab.org",
+  "image_url": "https://lh3.googleusercontent.com/eRTNtDGJfmj06lZRbxDWDv1KHDjkbSnrDBZse3rWYuDNDPLNc7jyebqWSmK1O_yl_gLmeQOInzBjVrV3AaAty2Psi16zB6M",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "natural language processing",
+    "local grammars",
+    "finite state automata",
+    "corpus annotation",
+    "multilingual language resources"
+  ],
+  "technologies": [
+    "java",
+    "c++"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6601174413213696/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "TreeCloud Visualization tool",
+          "short_description": "TreeCloud is a project for visualizing the word occurences of the text in a form of the tree with words as leaves. This concept is alike with...",
+          "student_name": "aleksandrachasch",
+          "code_url": "https://drive.google.com/drive/folders/0B1uzOloZ6LTcVDY3bjBLbXExYmc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5907565380632576/"
+        },
+        {
+          "title": "Integration of Classic IDE and Project-oriented IDE",
+          "short_description": "The project aims to integrate the two IDEs, Unitex and GramLab into a new one having both perspectives: Classical and Project-oriented. The...",
+          "student_name": "Mukarram",
+          "code_url": "https://drive.google.com/open?id=0B1uzOloZ6LTcbVFLXzFhbjRDWTQ",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6306704207642624/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://unitexgramlab.org/index.php?page=5",
+  "contact_email": "mailto:unitex-devel@univ-mlv.fr",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

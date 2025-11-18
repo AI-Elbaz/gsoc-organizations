@@ -1,0 +1,460 @@
+{
+  "name": "Open Chemistry",
+  "url": "https://openchemistry.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-chemistry/esda0gvsxomll6my-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "chemistry",
+    "graphics",
+    "materials science",
+    "data science",
+    "scientific visualization",
+    "science",
+    "scientific computing",
+    "computational chemistry",
+    "cheminformatics",
+    "quantum chemistry"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "opengl",
+    "c++",
+    "webgl",
+    "java",
+    "html",
+    "c",
+    "c++14",
+    "c++17"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6038224459792384/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Materials Science Advances in Avogadro 2",
+          "short_description": "As a Ph. D. student in a computational chemistry research group involving crystallography, I\u2019m very familiar with many of the features and functions...",
+          "student_name": "Patrick Avery",
+          "code_url": "http://avogadro2crystals.blogspot.com/2016/08/gsoc-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5746821397741568/"
+        },
+        {
+          "title": "Avogadro-2: Integration of cclib data parser using Chemical JSON",
+          "short_description": "This project proposes to integrate the cclib data parsing library with Avogadro-2 using the Chemical JSON format. Chemical JSON is a standard JSON...",
+          "student_name": "Sanjeed Schamnad",
+          "code_url": "https://schamnad.github.io/blog/2016/08/21/gsoc-2016-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6523710383063040/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5928781713768448/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "RDKIt - 3Dmol.js integration",
+          "short_description": "Although RDKit is a widely used extremely versatile chemoinformatics software package, it still lacks efficient 3D molecule visualization capability....",
+          "student_name": "Malitha Humayun Kabir",
+          "code_url": "https://github.com/malithakabir/RDKitGSoC2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6332750499938304/"
+        },
+        {
+          "title": "Computational Chemistry Web repository",
+          "short_description": "This project aims at creating a framework consisting of following modules :\n\nScript to setup MongoDB based database storing parsed results from...",
+          "student_name": "nitish6174",
+          "code_url": "https://medium.com/@nitish6174/google-summer-of-code-with-open-chemistry-7c998e2442ed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5044640952614912/"
+        },
+        {
+          "title": "cclib Project: Implement New Writers",
+          "short_description": "The project aims to bridge the AIMALL and Molden programs with cclib by adding support for writing wfx/wfn files and Molden format files.\nMolden...",
+          "student_name": "Sagar Gaur",
+          "code_url": "http://gaursagar.github.io/gsoc-cclib-2017.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5051218426593280/"
+        },
+        {
+          "title": "Intelligent LC/MS Feature Detection",
+          "short_description": "This project aims at developing efficient algorithm to analyze complex 3D data obtained from the Liquid Chromatography Mass Spectrometry (LCMS). The...",
+          "student_name": "Dharak Tushar Shah",
+          "code_url": "https://github.com/msdk/msdk/tree/master/msdk-featdet/msdk-featdet-ADAP-3D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5238154999103488/"
+        },
+        {
+          "title": "Visualization of MD trajectory files using Google cardboard",
+          "short_description": "Virtual reality has become a rage with Oculus Rift VR headsets and Google Daydream View headsets hitting the markets. More importantly, with the...",
+          "student_name": "Manohar Karigerasi",
+          "code_url": "https://gist.github.com/Manohar-94/3149fd43eb2bcd4b3759c057f0e752b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6504792394301440/"
+        },
+        {
+          "title": "MSDK-IO library",
+          "short_description": "There are many file formats in use for mass spectrometry data. For interoperability of algorithms in Java-based processing workflows, there is an...",
+          "student_name": "Adhithya Rajagopal",
+          "code_url": "https://adhi1419.github.io/msdk-gsoc-17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4863665526276096/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4981977648201728/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Implementing new parsers",
+          "short_description": "In this project I aim to implement new parsers for MOLCAS and TURBOMOLE. They will be a part of the cclib.parser module and will be implemented along...",
+          "student_name": "Kunal Sharma",
+          "code_url": "https://gist.github.com/kunalsharma05/c95b1d53ed1bcdf347fb0cbf43d0c014",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6369521124245504/"
+        },
+        {
+          "title": "Imaging Tools",
+          "short_description": "DeepChem has been great library for the application of deep learning for drug/chemical discovery. As of now there is no imaging models implemented in...",
+          "student_name": "Skand Vishwanath Peri",
+          "code_url": "https://medium.com/@blog_945/imaging-tools-google-summer-of-code-2018-8cdd71fa3a20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5441464590925824/"
+        },
+        {
+          "title": "Create a generalized fingerprinting API",
+          "short_description": "Chemical fingerprints are very important for both querying chemical data (using similarity in fingerprint space) and the use of molecular entities in...",
+          "student_name": "Boran Adas",
+          "code_url": "https://github.com/rdkit/rdkit/pull/2005",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6066783307956224/"
+        },
+        {
+          "title": "Avogadro 2: Molecular Dynamics",
+          "short_description": "This project aims to implement support for Molecular Dynamics in Avogadro.\nMolecular dynamics (MD) is a computer simulation method for studying the...",
+          "student_name": "Adarsh Balasubramanian",
+          "code_url": "https://gist.github.com/badarsh2/f72c115062154022020ebc57607e31cb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4861646958755840/"
+        },
+        {
+          "title": "RDKit-MolVS Integration Project - GSoC 2018",
+          "short_description": "MolVS (https://molvs.readthedocs.io/en/latest/) provides very useful functionality for molecular validation and standardization. MolVS is built using...",
+          "student_name": "Susan Leung",
+          "code_url": "https://github.com/rdkit/rdkit/pull/2002",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4878514637504512/"
+        },
+        {
+          "title": "MS/MS identification module for MZmine.",
+          "short_description": "The goal is to implement a wrapper (common interface) for the identification algorithms\u2019 logic in MSDK (that will allow to invoke tools like SIRIUS...",
+          "student_name": "Evgeny Sorokin",
+          "code_url": "https://github.com/mzmine/mzmine2/tree/81582619348600be5c7caaa86abfebe67fc68c43/src/main/java/net/sf/mzmine/modules/peaklistmethods/identification/sirius",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5955915236769792/"
+        },
+        {
+          "title": "Fast, Efficient Fragment-Based Coordinate Generation",
+          "short_description": "Chemical information is provided in various formats. Open Babel is a tool to convert file formats. When we translate a format which does not include...",
+          "student_name": "Naruki Yoshikawa",
+          "code_url": "https://docs.google.com/document/d/1pvAt8ykIDNs9GWTGVUgjvw4-JyHzykBn13jRKGErW_o/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5957928301363200/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4508112394911744/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "CNN Scoring for Flexible Docking",
+          "short_description": "Molecular docking\u2014the prediction of binding modes and binding affinity of a molecule to a target of known structure\u2014is a great computational tool for...",
+          "student_name": "Rocco Meli",
+          "code_url": "https://github.com/RMeli/gsoc19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5721769153921024/"
+        },
+        {
+          "title": "Volumetric rendering for 3Dmol.js",
+          "short_description": "Volumetric viewing of scientific phenomena is an important feature in modern scientific visualizing tools because it can express specific phenomena...",
+          "student_name": "Bassem Samir",
+          "code_url": "https://github.com/3dmol/3Dmol.js/pull/423/files#diff-c6aa741fec7ca98965f45a569edbd358",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5107415219961856/"
+        },
+        {
+          "title": "More Improved Coordinate Generation for Open Babel: Combining Fragment-based Method and Distance Geometry",
+          "short_description": "Open Babel is a widely used open source toolkit for cheminformatics. One of its important functions is 3D structure prediction of input molecules....",
+          "student_name": "Naruki Yoshikawa",
+          "code_url": "https://docs.google.com/document/d/1AIGeAmo1pNlsvWUfTm3THHHgkjejO44NLO8h-VWgbN4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5300703310905344/"
+        },
+        {
+          "title": "Project: neo4j integration",
+          "short_description": "The project will be focused on development of extension for neo4j graph database for querying knowledge graphs storing molecular and chemical...",
+          "student_name": "Evgeny Sorokin",
+          "code_url": "https://github.com/rdkit/neo4j-rdkit/tree/966391ae6e4d96defa6710f7f296560ce6c46184",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6567101345562624/"
+        },
+        {
+          "title": "Transfer Learning Framework",
+          "short_description": "Even though chemistry has become a more data driven discipline in the recent years, the amount of data available for training deep learning models is...",
+          "student_name": "Vignesh Ram Somnath",
+          "code_url": "https://forum.deepchem.io/t/summer-of-code-with-deepchem/55",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6115389082173440/"
+        },
+        {
+          "title": "Active Learning Environment In 3Dmol.js",
+          "short_description": "The 3D structures of protein and organic molecules are tough to understand since not all can visualize their structures in the mind. The project aims...",
+          "student_name": "Keshavan Seshadri",
+          "code_url": "https://docs.google.com/document/d/19XWL5JvC3FHIvMguenLDBxk2Mcq-UM8gt0cTNOPEXg8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4875385718702080/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5796522697949184/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implementation of Modern Quantum Chemical Analysis in cclib",
+          "short_description": "The usual approach taken in computational chemistry is to first run a simulation, which can often be long, on a target molecule and then to analyze...",
+          "student_name": "Minsik Cho",
+          "code_url": "https://mscho527.github.io/gsoc2020/cclib/2020/08/24/final-words.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6654533616271360/"
+        },
+        {
+          "title": "Integrating Trained Neural Networks with RDKit",
+          "short_description": "RDKit is a collection of cheminformatics and machine learning tools written in C++ and Python. Which is more important, it allows you to work with...",
+          "student_name": "Manan Goel-1",
+          "code_url": "https://github.com/rdkit/rdkit/pull/3377",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6241569088208896/"
+        },
+        {
+          "title": "Creating a Chemically Intelligent MongoDB Integration for RDKit",
+          "short_description": "Chemical databases involve great heterogeneity. They are often variably indexed and represent chemical structures using custom data structures. This...",
+          "student_name": "cwzou",
+          "code_url": "https://chriswzou.github.io/2020/08/27/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4684208779296768/"
+        },
+        {
+          "title": "Implement a generalized file reader",
+          "short_description": "The goal is to implement a flexible generic interface for reading molecular file formats (for example .smi, .sdf, and the compressed versions...",
+          "student_name": "Shrey Aryan",
+          "code_url": "https://github.com/rdkit/rdkit/pull/3363",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4807972187799552/"
+        },
+        {
+          "title": "JAX Chem : JAX-based Deep Learning Library for complex and versatile chemical modelings",
+          "short_description": "In recent years, deep learning has made remarkable progress in the area of NLP and CV with big data. In the area of chemistry, Graph Convolutional...",
+          "student_name": "Daiki Nishikawa",
+          "code_url": "https://forum.deepchem.io/t/summary-of-2020-gsoc/249",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5967290597638144/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5838773731983360/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Large Scale Protein Modeling in DeepChem",
+          "short_description": "DeepChem has enabled powerful and practical applications for machine learning in many disciplines of the natural sciences. While its name recognizes...",
+          "student_name": "Alana Xiang",
+          "code_url": "https://forum.deepchem.io/t/google-summer-of-code-2021-large-scale-protein-modeling-in-deepchem/507/5?u=alat-rights",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6417344884113408/"
+        },
+        {
+          "title": "Tools for visualization and efficient editing",
+          "short_description": "Data visualization is a key aspect to understand complex models. In biology they work with complex structures composed of atoms, a common structure...",
+          "student_name": "Marc P. Mas\u00f3",
+          "code_url": "https://serk12.github.io/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6688823861313536/"
+        },
+        {
+          "title": "DeepChem Retrosynthesis",
+          "short_description": "Synthesis is at the heart of organic chemistry. It is the process of constructing a molecule through a series of reactions. Efficient molecular...",
+          "student_name": "Ashwin M",
+          "code_url": "https://forum.deepchem.io/t/summary-of-gsoc-21-deepchem-retrosynthesis/560",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5663013100584960/"
+        },
+        {
+          "title": "3Dmol UI Design and Improved Controls",
+          "short_description": "3Dmol has most of the necessary features that make it a good visualization plugin for application and web. But this tool becomes difficult for the...",
+          "student_name": "Jaxmatrix",
+          "code_url": "https://docs.google.com/document/d/1w2S8eWSnMmReYxDCkdtBn_lrDR6Kj9j0tZeJff6293A/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6049879964516352/"
+        },
+        {
+          "title": "Make Deepchem More Robust: Implement Cutting-Edge Models and Other Features",
+          "short_description": "Deepchem is one of the premier open-source deep learning libraries for chemistry. It is used by people worldwide, thus there is a need to develop and...",
+          "student_name": "Atreya Majumdar",
+          "code_url": "https://forum.deepchem.io/t/summary-of-gsoc-21-make-deepchem-more-robust-by-implementing-cutting-edge-models-and-other-features/561",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5908299085512704/"
+        },
+        {
+          "title": "Extended Interoperability of ChemTools and Quantum Chemistry Software",
+          "short_description": "ChemTools is an open-source Python library for interpreting quantum chemistry calculations. It is currently the only library capable of interpreting...",
+          "student_name": "Victor Hugo Cano Gil",
+          "code_url": "https://github.com/theochem/chemtools/pull/46",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5956766482825216/"
+        },
+        {
+          "title": "JaxModel: A high level API for building purely functional models suitable for Molecular Predictions & Simulations",
+          "short_description": "In this proposed project we build JaxModel, which provides a high-level API for training and deploying Machine Learning Models using JAX framework....",
+          "student_name": "M. Vignesh Venkataraman",
+          "code_url": "https://forum.deepchem.io/t/summary-of-gsoc-21-jax-integeration-into-deepchem/559",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6322685180641280/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open-chemistry/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Enhancing Avogadro for Biomolecular Modeling",
+          "short_description": "Last year there was some work regarding Avogadro's usability as a tool for bioinformatics. My proposal is working along the same line, giving...",
+          "student_name": "Aritz Erkiaga",
+          "code_url": "https://aerkiaga.github.io/gsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/oPDlDO6e/"
+        },
+        {
+          "title": "Deepchem - Pytorch Lightning",
+          "short_description": "Pytorch Lightning provides framework and functionalities for building and training PyTorch models. If integrated with deepchem, PyTorch-lightning...",
+          "student_name": "Princy chahal",
+          "code_url": "https://forum.deepchem.io/t/summary-google-summer-of-code-2022-deepchem-pytorch-lightning/802",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kT8zbn8O/"
+        },
+        {
+          "title": "Positive Semi-definite Procrustes (PSDP) Problem",
+          "short_description": "Procrustes (a part of Theochem by QC-Devs) is a library for finding the optimal transformation that makes two matrices as close as possible to each...",
+          "student_name": "Alapan Chaudhuri (Arjo)",
+          "code_url": "https://banrovegrie.github.io/files/GSOC.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HPZ1bacs/"
+        },
+        {
+          "title": "D-MPNN Model Implementation for DeepChem",
+          "short_description": "The DeepChem project aims to create high-quality, open-source tools to democratize the use of deep learning in drug discovery, materials science,...",
+          "student_name": "Aryan Amit Barsainyan",
+          "code_url": "https://medium.com/@aryan.barsainyan/google-summer-of-code-2022-8ad4a5c93668",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TKDPK1ZV/"
+        },
+        {
+          "title": "The Porting of Normalizing Flow model from TensorFlow to PyTorch",
+          "short_description": "TensorFlow, Keras, and PyTorch are the most prominent libraries used for building DL and ML models. The use of PyTorch, as the primary backend for...",
+          "student_name": "Jos\u00e9 A. Sig\u00fcenza",
+          "code_url": "https://forum.deepchem.io/t/gsoc-22-final-report-the-porting-of-normalizing-flow-model-from-tensorflow-to-pytorch/806",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h8XjLIlI/"
+        },
+        {
+          "title": "Implement multi-step calculation protocols",
+          "short_description": "CalcUS aims to democratize access to computational chemistry by providing a user-friendly web interface to simplify running and analyzing quantum...",
+          "student_name": "Divyam Agarwal",
+          "code_url": "https://github.com/cyllab/CalcUS/pull/15",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hoXKGeec/"
+        },
+        {
+          "title": "Democratizing deep learning models for genomic data",
+          "short_description": "The project I am proposing would expand DeepChem\u2019s tools for working with genomic datasets for drug discovery thus strengthening DeepChem\u2019s new...",
+          "student_name": "Paulina",
+          "code_url": "https://forum.deepchem.io/t/gsoc-22-final-report-strengthening-deepchem-s-bioinformatics-arm/805",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZfwjXeDu/"
+        },
+        {
+          "title": "Implementing Ferminet, an Ab initio solution to many-electron systems using DNNs",
+          "short_description": "Implementation of Ferminet with PyTorch. Ferminet is a neural-network-based Variational Monte-Carlo technique that aims to minimize the local energy...",
+          "student_name": "Shai_pranesh",
+          "code_url": "https://forum.deepchem.io/t/gsoc-22-ferminet-model-for-deepchem-report/815",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4r2YA3FP/"
+        },
+        {
+          "title": "Porting xyz2mol to the RdKit core",
+          "short_description": "This project aims to construct a C++ implementation of the Python package xyz2mol from Prof. Jan H. Jensen\u2019s research group...",
+          "student_name": "Sreya G",
+          "code_url": "https://github.com/rdkit/rdkit/pull/5557",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ugO4HoEX/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/open-chemistry",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Improve and enhance 3DMol.js",
+          "short_description": "The 3DMol.js library size is quite large, but can be optimized by using const instead of var, array destructuring, global constants, and the...",
+          "student_name": "Adithya Krishna V Sharma",
+          "code_url": "https://gist.github.com/adithyaakrishna/33c35519edaa8cac130ec4a96800c93f",
+          "proposal_id": "7UOLddFT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/r2fhQb5e"
+        },
+        {
+          "title": "Developing Large-Scale Calculation Management Tools for CalcUS",
+          "short_description": "CalcUS aims to democratize access to computational chemistry by providing a user-friendly web interface to simplify running and analyzing quantum...",
+          "student_name": "Anchal Malani",
+          "code_url": "https://gist.github.com/anchalm03/75bf9c8e288b2478f116f4ffee906f4c",
+          "proposal_id": "saIhEzGJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7GV3rZJU"
+        },
+        {
+          "title": "Active Learning based Bayesian Geometry Optimizer",
+          "short_description": "The goal of this project is to develop an Active Learning based Bayesian Geometry Optimizer(ALBGO) using PyTorch and BoTorch for optimizing the...",
+          "student_name": "Mayank Goel",
+          "code_url": null,
+          "proposal_id": "C1uClJzn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kHh0ki8k"
+        },
+        {
+          "title": "Porting SeqToSeq and DTNN Model to PyTorch",
+          "short_description": "PyTorch is becoming increasingly popular as the preferred backend for developing algorithms, thanks to its sustainability. DeepChem has decided to...",
+          "student_name": "Rakshit Kumar Singh",
+          "code_url": "https://forum.deepchem.io/t/gsoc-23-porting-dtnn-and-seqtoseq-model-to-pytorch-report/1013",
+          "proposal_id": "pjv9mPoF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Pu8up6x4"
+        },
+        {
+          "title": "MXMNet Model Implementation for DeepChem",
+          "short_description": "The DeepChem project aims to create high-quality, open-source tools to democratize the use of deep learning in drug discovery, materials science,...",
+          "student_name": "RiyaSingh",
+          "code_url": "https://medium.com/@riya-singh28/google-summer-of-code-2023-60391fda5a35",
+          "proposal_id": "k4x0UJrS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TFXdEVvm"
+        },
+        {
+          "title": "Implementation of GAMESS .dat and NBO Parsers",
+          "short_description": "The goal of this GSoC project is to address outstanding issues on GitHub for supporting additional programs and formats that are not currently...",
+          "student_name": "Veronika Zak",
+          "code_url": "https://weronika.link/2023/Google-Summer-of-Code/",
+          "proposal_id": "BRXm9nSp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RH7FRHUZ"
+        },
+        {
+          "title": "Julia Bindings for Cclib",
+          "short_description": "The Cclib library is a popular tool used in computational chemistry for parsing and interpreting output files from software packages such as...",
+          "student_name": "Victor Hugo Cano Gil",
+          "code_url": "https://gist.github.com/vcanogil/fc779aa066f5dd2063686688551d361f",
+          "proposal_id": "V4tduh6M",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xoj739kx"
+        },
+        {
+          "title": "Addition of support for NWChem to the ccinput package",
+          "short_description": "The necessity of having an application for the automated generation of input files for computational chemistry codes is evident. The ccinput is an...",
+          "student_name": "\u017darko Ivkovi\u0107",
+          "code_url": "https://gist.github.com/zarkoivkovicc/c3c54b1dcba202d03cb06c12b0f0f356",
+          "proposal_id": "6CeuV8ro",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8EJMdhl3"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-chemistry/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improved Rendering with Tessellation Shaders",
+          "short_description": "In avogadrolibs repo, there are ambient occlusion / shading but nothing for fog or blur effects. Moreover, we currently lack real-time structure...",
+          "student_name": "Perminder Singh",
+          "code_url": "https://gist.github.com/perminder-17/fea694c006ed4aa98efd1fe447e795b1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yGb9JsdA/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://openchemistry.slack.com/",
+  "contact_email": "mailto:openchemistry-developers@public.kitware.com",
+  "mailing_list": "https://public.kitware.com/mailman/listinfo/openchemistry-developers",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/openchem",
+  "blog_url": "https://blog.kitware.com/tag/open-chemistry/"
+}

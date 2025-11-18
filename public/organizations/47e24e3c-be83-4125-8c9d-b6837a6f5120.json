@@ -1,0 +1,52 @@
+{
+  "name": "Typelevel",
+  "url": "https://typelevel.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/typelevel/hxlcctbqekguxcxx.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "web",
+    "functional programming",
+    "cloud",
+    "AI/ML",
+    "cats"
+  ],
+  "technologies": [
+    "linux",
+    "node.js",
+    "jvm",
+    "scala",
+    "wasm"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/typelevel",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Polling-based I/O in FS2",
+          "short_description": "FS2, a functional streaming library for Scala, currently utilizes blocking I/O operations, resulting in performance bottlenecks such as context...",
+          "student_name": "Purmani Rahul Reddy",
+          "code_url": null,
+          "proposal_id": "xSzO8Xkh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/m1AIvq9j"
+        },
+        {
+          "title": "Efficient Machine Learning Inference in Cats Effect via Scala Native and mlpack",
+          "short_description": "This project addresses the challenge of integrating computationally intensive Machine Learning inference into responsive Scala applications without...",
+          "student_name": "Shrey Pant",
+          "code_url": null,
+          "proposal_id": "hZ0ZvubJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/p31TQtpS"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/NAUJXXMxzh",
+  "contact_email": "mailto:gsoc@typelevel.org",
+  "mailing_list": "",
+  "ideas_url": "https://typelevel.org/gsoc/ideas",
+  "guide_url": "https://typelevel.org/gsoc",
+  "twitter_url": "https://fosstodon.org/@typelevel",
+  "blog_url": "https://typelevel.org/blog/"
+}

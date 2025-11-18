@@ -1,0 +1,125 @@
+{
+  "name": "Orcasound",
+  "url": "https://orcasound.net",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/orcasound/fu5kadqoa0vlsjhx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "web application",
+    "audio",
+    "real-time",
+    "citizen science",
+    "scientific visualization",
+    "audio analysis",
+    "web",
+    "ai",
+    "acoustics",
+    "community science"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "react",
+    "raspberry pi",
+    "elixir",
+    "NextJs"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6216078121762816/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Active Listening & Learning of Orca Sounds",
+          "short_description": "The aim of the project is to create an Active Deep Learning and Machine Learning model that would predict the class of the calls depending on the...",
+          "student_name": "Kunal Mehta",
+          "code_url": "https://github.com/orcasound/orcaal-research",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6717430627303424/"
+        },
+        {
+          "title": "OrcaAL | Orca detection Active Learning tool",
+          "short_description": "Underwater noise pollution impedes the orcas\u2019 ability to communicate and echolocate scarce salmon. \nTo be able to detect orca calls, a deep learning...",
+          "student_name": "Diego R. Saltijeral",
+          "code_url": "https://github.com/orcasound/orcaal/tree/0e4e7188da3bb54139d387c638574249c84cfbde",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5773169048158208/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6255426160558080/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Github Actions Workflows for Scheduled Algorithm Deployment",
+          "short_description": "Purpose of this project is to create a suite of GitHub Actions workflows for scheduled algorithm deployment on datastreams from Ocean Observatories...",
+          "student_name": "Dmitry Volodin",
+          "code_url": "https://github.com/orcasound/orca-action-workflow/wiki/GSoC-2021-project-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5026942771789824/"
+        },
+        {
+          "title": "Improve site architecture and add features to the Orcamap",
+          "short_description": "This project aims to focus on some of the primary goals the repo orcamap-react needs to support the visualization of hydrophones, orca calls, ships,...",
+          "student_name": "Dhananjay Purohit",
+          "code_url": "https://github.com/orcasound/orcasite/wiki/Improve-site-architecture-and-add-features-(GSoC-2021)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5983673446301696/"
+        },
+        {
+          "title": "Sounds similar for me: Using open embeddings to improve sampling on orcAL Tool",
+          "short_description": "This project aims to improve the current active sampling strategy by implementing other information measures such as information density and...",
+          "student_name": "Jose Giraldo",
+          "code_url": "https://github.com/orcasound/orca-embeddings/wiki/GSoC-2021-Final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5131301618712576/"
+        },
+        {
+          "title": "Changing the frontend of OrcaSound",
+          "short_description": "OrcaSounds main objective is to educate and protect the orcas in the pacific. But in order to do that the website specifically the frontend needs to...",
+          "student_name": "isabella Macchivello",
+          "code_url": "https://github.com/orcasound/orcasite/wiki/Building-Orcasound-Content-Site-for-GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5131752858714112/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/orcasound/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Multimodal sound monitoring: hydrophones, vessel tracking via AIS, radar, and camera systems",
+          "short_description": "One of the goals of this project is to utilize Deep Learning models to better interpret underwater sounds. We are required to train neural networks...",
+          "student_name": "Devdoot Chatterjee",
+          "code_url": "https://github.com/orcasound/acoustic-separation/wiki/Bioacoustic-Source-Separator/1a0e95f4573e4e61542685d0cc5e3a3dee9237cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BBXVHG68/"
+        },
+        {
+          "title": "Multimodal sound monitoring Ambra Jin",
+          "short_description": "The killer whale, also known as orca, is the largest dolphin species. Commercial hunting and culling for fisheries protection are threatening its...",
+          "student_name": "Ambra Jin",
+          "code_url": "https://github.com/orcasound/acoustic-separation/wiki/Orca-call-analysis-for-acoustic-sound-separation/eb438925ea708f722f05e96b04f13bb05629d06c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/iCAlQpNK/"
+        },
+        {
+          "title": "#30_BenjaminChew_Streamlining OrcaAL tool",
+          "short_description": "OrcaAL is an active learning tool built by past GSoC students for identifying orca calls. It achieves this by leveraging both expert and machine...",
+          "student_name": "Benjamin Chew",
+          "code_url": "https://github.com/Benjamintdk/orcaal/wiki/GSoC'22-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/b5DkDRJR/"
+        },
+        {
+          "title": "Stream external hydrophones to Orcasound website",
+          "short_description": "Orcanode repository contains a set of projects distributed in different directories that provide a number of tools to deal with capturing,...",
+          "student_name": "Karan Mishra",
+          "code_url": "https://gist.github.com/karan2704/1f1827728d9ad6d179dc9d09a970de8e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0ZB6Ifsx/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://orcasound.slack.com/",
+  "contact_email": "mailto:info@orcasound.net",
+  "mailing_list": "http://lists.orcasound.net/listinfo.cgi/dev-orcasound.net",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/OrcasoundApp",
+  "blog_url": "http://orcasound.net/blog"
+}

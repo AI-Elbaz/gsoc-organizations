@@ -1,0 +1,223 @@
+{
+  "name": "IOOS",
+  "url": "https://ioos.noaa.gov/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ioos/oe7caipkhwnizoyr-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "open data",
+    "data science",
+    "earth sciences",
+    "data discovery",
+    "open science",
+    "data management",
+    "Oceanography",
+    "Marine Biodiversity"
+  ],
+  "technologies": [
+    "python",
+    "big data science",
+    "ocean technology",
+    "ocean science",
+    "java",
+    "r",
+    "Zarr",
+    "NetCDF"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5159672092295168/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Translate ERDDAP User Interface Into Different Languages",
+          "short_description": "ERDDAP is a data server widely used in many organizations over the world to upload and gather data sets on the ocean environment, but currently it...",
+          "student_name": "Qi Zeng",
+          "code_url": "https://q1zeng.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5466532406099968/"
+        },
+        {
+          "title": "erdappy-griddap: Accessing gridded oceanographic data in near real time",
+          "short_description": "This proposal will add griddap functionality to the erddapy package and simplify the API. Support for griddap will enable near real time access to...",
+          "student_name": "Callum Rollo",
+          "code_url": "https://gist.github.com/callumrollo/ee28f7e1863d30162bdb041156314543",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6234338642886656/"
+        },
+        {
+          "title": "Machine Learning for Sea Floor Sampling and IOOS Demo Data Center migration to Jupyterbook",
+          "short_description": "Sea Floor Sampling is a tedious job and requires a lot of manual work. This project intends to automate the process of labelling the videos using...",
+          "student_name": "Lohith Munakala",
+          "code_url": "https://lohithmunakala.medium.com/seafloor-sampling-and-data-demo-center-jupyter-book-migration-gsoc21-ioos-a9930abc4c42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5205597170958336/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/ioos/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Efficient access to IOOS data in the cloud: interfacing WRF forecast grib2 data to zarray",
+          "short_description": "The Kerchunk package provides a means to access legacy geospatial datasets, such as GRIB2, in a cloud performant manor by creating a reference file...",
+          "student_name": "Peter Marsh",
+          "code_url": "https://github.com/fsspec/GSoC-kechunk-2022/blob/main/GSOC_monitor.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ms3uAtPQ/"
+        },
+        {
+          "title": "Echoshader: Interactive visualization of ocean sonar data",
+          "short_description": "Echoshader, an open source project, aims to enhance the ability to interactively visualize large amounts of cloud-based data to accelerate the data...",
+          "student_name": "Dingrui Lei",
+          "code_url": "https://github.com/OSOceanAcoustics/echoshader/wiki/Google-Summer-of-Code-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/iWuQqugy/"
+        },
+        {
+          "title": "Refactoring of erddapy into separate core and object layers",
+          "short_description": "The erddapy package provides a Python interface to the ERDDAP data server API. Currently, most of erddapy's functionality is concentrated into a...",
+          "student_name": "Vini Salazar",
+          "code_url": "https://gist.github.com/vinisalazar/c2a5fc91667bf84ad7ac1ea49c553b61",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/KuI0XBxq/"
+        },
+        {
+          "title": "Making ocean biodiversity data easily accessible with python (pyobis revamp)",
+          "short_description": "The goal of the project is to modify the pyobis python package to support the new OBIS API v3. This project also aims to improve tests coverage,...",
+          "student_name": "Ayush Anand",
+          "code_url": "https://ayushanand18.github.io/GSoC_design_documents",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/aMwpR5uH/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/ioos/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Enhancements for Erddap administrators",
+          "short_description": "Erddap is a data server used by many organizations as a way to download scientific data in various formats. However, adding these datasets to Erddap...",
+          "student_name": "ayushsingh01042003",
+          "code_url": "https://ayushsingh.hashnode.dev/gsoc-2024-ioos-erddap",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VRUk5pC9/"
+        },
+        {
+          "title": "Data Visualization with Gliderpy",
+          "short_description": "The project focuses on improving the Gliderpy package by incorporating a pandas-flavor plotting interface. This interface will allow for the creation...",
+          "student_name": "Flora Sauerbronn",
+          "code_url": "https://gist.github.com/FloraSauerbronn/b83cb417c082d32dde490c76195cb1a5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8h63Owzq/"
+        },
+        {
+          "title": "QA/QC for glider data",
+          "short_description": "My proposal aims to improve the quality assurance and quality control (QA/QC) practices for underwater glider data within the ioos_qc library....",
+          "student_name": "RDX",
+          "code_url": "https://gist.github.com/Sakshamgupta90/38efedf28b279df3ee9a86d6627dd3c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eqZttvrN/"
+        },
+        {
+          "title": "Enhancing Searvey: Real-Time Observational Data Unification, Analysis, and Retrieval",
+          "short_description": "Extend the capabilities of the Searvey Python package to retrieve on-demand oceanographic data from additional sources (Canadian Hydrographic...",
+          "student_name": "abdu558",
+          "code_url": "https://gist.github.com/abdu558/e7d651a82207f5f4caeaef9863eeed54",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tWUJtS4s/"
+        },
+        {
+          "title": "Kerchunk enhancements for fast NODD GRIB aggregations",
+          "short_description": "Kerchunk is a python library which helps in streamline access to the climate modelling data stored in grib and other formats, by creating...",
+          "student_name": "Anurag Nayak",
+          "code_url": "https://github.com/Anu-Ra-g/GSoC2024_Kerchunk/blob/main/GSoC2024_kerchunk.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nLJFBbIV/"
+        },
+        {
+          "title": "STOFS Subsetting Tool",
+          "short_description": "Developing a subsetting tool to access ocean forecast data is critical and addresses an immediate need for maximizing the utilization of STOFS model...",
+          "student_name": "Omkar Kabde",
+          "code_url": "https://gist.github.com/omkar-334/f5a3ec3a80f0a790178c61a5a7a32748",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VxCwfSg0/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/ioos",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "MQTT Protocol Support for ERDDAP",
+          "short_description": "MQTT is a lightweight messaging protocol which is used by IoT based devices as a way to transfer data at very high speeds. Adding its support to...",
+          "student_name": "ayushsingh01042003",
+          "code_url": null,
+          "proposal_id": "JX1KXaer",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5tZcgSox"
+        },
+        {
+          "title": "Build web UI versions for IOOS tools (ioos-qc and compliance checker)",
+          "short_description": "This project aims to develop a user-friendly, browser-based interface for oceanographic data quality control tools. The goal is to create an...",
+          "student_name": "Chiara Monforte",
+          "code_url": null,
+          "proposal_id": "pG6b3aHD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YR0AVIjH"
+        },
+        {
+          "title": "Extending Crocolake\u2019s available datasets",
+          "short_description": "CrocoLakeTools is a Python package designed to convert oceanographic datasets from various formats (like netCDF and CSV) into CrocoLake\u2019s unified...",
+          "student_name": "David Nady",
+          "code_url": null,
+          "proposal_id": "lMOVUPo4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mdb8VnRw"
+        },
+        {
+          "title": "Update ERDDAP\u2122 page rendering to use a template framework",
+          "short_description": "Proposal Summary This project aims to modernize ERDDAP\u2122 page rendering by migrating it to a templating framework. The current rendering process...",
+          "student_name": "Harish Peddina",
+          "code_url": null,
+          "proposal_id": "IDW0XeVa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WFMQYGxF"
+        },
+        {
+          "title": "Improving Usability and Features of the Phytoclass R Package and GUI for Phytoplankton Estimation\"",
+          "short_description": "This GSoC project focuses on enhancing the usability and functionality of the phytoclass R package and its Shiny-based GUI, which are used to...",
+          "student_name": "Khan Mohd Aasim",
+          "code_url": null,
+          "proposal_id": "YLzLSWXE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KQGtg0Ge"
+        },
+        {
+          "title": "pyOBIS for stakeholders",
+          "short_description": "This project addresses the issue of translating complex marine biodiversity data into actionable knowledge for ecosystem management in Florida. It...",
+          "student_name": "Mehraz Hossain Rumman",
+          "code_url": null,
+          "proposal_id": "SpkMuLNk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Af6KBBl2"
+        },
+        {
+          "title": "Migrating SurveyJoin to a Relational Database for Scalability and Improved Performance",
+          "short_description": "The Northeast Pacific Ocean hosts a diverse array of marine species, yet the absence of a standardized, international database for transboundary...",
+          "student_name": "nityam",
+          "code_url": null,
+          "proposal_id": "3dH8gL85",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ewtYg3ZW"
+        },
+        {
+          "title": "Autoval Enhancement: USGS Observation Data Integration, Datum Conversion & Smarter Visualization",
+          "short_description": "Autoval is a tool made for validation of STOFS models. In this project proposal I propose to enhance Autoval significantly. This includes three major...",
+          "student_name": "Siddharth_Chauhan",
+          "code_url": null,
+          "proposal_id": "DHIN5BZG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dbT37m5A"
+        },
+        {
+          "title": "OCSMesh Parallelization",
+          "short_description": "OCSMesh is a Python package designed for generating unstructured meshes tailored to ocean modeling. However, its current workflow, particularly the...",
+          "student_name": "Yashveer_Singh",
+          "code_url": null,
+          "proposal_id": "v60udfoz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9mj1dDWr"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/ioos",
+  "contact_email": "mailto:ocefpaf@gmail.com",
+  "mailing_list": "https://groups.google.com/g/ioos_tech/",
+  "ideas_url": "https://github.com/ioos/gsoc/blob/main/2025/ideas-list.md",
+  "guide_url": "https://github.com/ioos/gsoc/blob/main/contributor-guidance.md",
+  "twitter_url": "https://x.com/usioosgov",
+  "blog_url": "https://ioos.github.io/notebooks_demos/"
+}

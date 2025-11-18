@@ -1,0 +1,655 @@
+{
+  "name": "Liquid Galaxy project",
+  "url": "https://www.liquidgalaxy.eu",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/liquid-galaxy-project/idbd8hebl6j7ajxn-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "virtual reality",
+    "graphics",
+    "geospatial",
+    "visualisation",
+    "webvr",
+    "visualization",
+    "data",
+    "cluster",
+    "geo",
+    "machine learning",
+    "data visualization",
+    "maps",
+    "linux",
+    "google earth",
+    "networking",
+    "ux",
+    "artificial intelligence"
+  ],
+  "technologies": [
+    "javascript",
+    "ros",
+    "gis",
+    "cesium",
+    "cesiumjs",
+    "python",
+    "android",
+    "node.js",
+    "maps api",
+    "java",
+    "html",
+    "vue",
+    "arduino",
+    "machinelearning",
+    "linux",
+    "flutter",
+    "Google Earth"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6555183903408128/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Visualization DLP (Drone Logistics Platform)",
+          "short_description": "Main object of the project is the continuity of the FAED code, converting it to DLP, bug stabilizing it and documenting correctly.\nThe aim of the DLP...",
+          "student_name": "Xavi Cobos",
+          "code_url": "https://github.com/LiquidGalaxyLAB/DLP/blob/master/GSOC2016.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5247075109306368/"
+        },
+        {
+          "title": "Cloud Point Visualization for Liquid Galaxy",
+          "short_description": "This project will join the capabilities of Cloud Point visualization and the high-resolution capabilities of Liquid Galaxy. Different middlewares...",
+          "student_name": "Ismael Arroyo",
+          "code_url": "https://github.com/LiquidGalaxyLAB/asherat666-lg-potree/commits/master?author=asherat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4508230675857408/"
+        },
+        {
+          "title": "Enabling Cesium for Liquid Galaxy",
+          "short_description": "Enabling other applications for Liquid Galaxy would greatly benefit the open source community, thereby nurturing the open source culture and...",
+          "student_name": "abhishekp",
+          "code_url": "https://github.com/abhishekvp/cesium-lg/commits?author=abhishekvp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4553593583566848/"
+        },
+        {
+          "title": "PILT (Panoramic Interactive Live Tracker)",
+          "short_description": "PILT project wants to create a standard to display static and dynamic information over the LG system. We are going to build a system that creates...",
+          "student_name": "MarcGC",
+          "code_url": "https://github.com/LiquidGalaxyLAB/PILT/blob/master/GSOC16.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5762247578091520/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5279287632461824/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "SAVT (Smart Agro Visualization Tool)",
+          "short_description": "SAVT will be a software engine to visualize data of crop fields to Liquid Galaxy, allowing you to track his state.\nThis image data, collected by...",
+          "student_name": "Javier Calvo Garc\u00eda",
+          "code_url": "https://github.com/calv00/SAVT-Dashboard/blob/master/docs/GSOC17.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6707810934980608/"
+        },
+        {
+          "title": "Fly Over Your Big Data",
+          "short_description": "The aim this project is to develop a system that, making use of the Liquid Galaxy capacity to display information over an interactive map obtained...",
+          "student_name": "Ivan Josa Llovera",
+          "code_url": "https://github.com/LiquidGalaxyLAB/FlOYBD/blob/master/docs/GSOC17.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6074492237381632/"
+        },
+        {
+          "title": "Wikimedia Data Liquid Galaxy",
+          "short_description": "Mainly the project has the purpose of showing some data in Liquid Galaxy (different options to choose by the user). The presentation will be so...",
+          "student_name": "Guillem Barbosa",
+          "code_url": "https://github.com/LiquidGalaxyLAB/WikimediaDataProject/blob/master/docs/GSoC17.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5863566930345984/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4783124586692608/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Forest analysis and visualization",
+          "short_description": "The reforestation is a problem that affects a lot of countries nowadays, due to this project tries to be a system able to automatically reforestation...",
+          "student_name": "Marcel Porta Vall\u00e9s",
+          "code_url": "https://github.com/Marcelpv96/GSOC-2019-Dronecoria",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6458206325309440/"
+        },
+        {
+          "title": "AirMashup for Liquid Galaxy",
+          "short_description": "AirMashup for Liquid Galaxy is a project that helps to comprehend how airspace is structured. Displaying in Liquid Galaxy airways, airports, flights...",
+          "student_name": "Albert Morea",
+          "code_url": "https://github.com/moreaf/AirMashup",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5110650471186432/"
+        },
+        {
+          "title": "Liquid Galaxy For Education",
+          "short_description": "Liquid Galaxy for Education is a project which consists of bringing Liquid Galaxy to children by using Chromebooks as screens and a tablet as a...",
+          "student_name": "Ivan Colomer Vallejo",
+          "code_url": "https://github.com/LiquidGalaxyLAB/LGxEDU/blob/master/GSOC19.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5357479104348160/"
+        },
+        {
+          "title": "New tools for the liquid galaxy",
+          "short_description": "When we are working with a dataset with geolocation, we need a tool to display it. The idea is build this tool. We will be able to upload the kml or...",
+          "student_name": "Eric Monn\u00e9 Mesalles",
+          "code_url": "https://github.com/LiquidGalaxyLAB/New-tools-for-the-liquid-galaxy-GSoC-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5379934049009664/"
+        },
+        {
+          "title": "JavaScript library for data simulation and acquisition",
+          "short_description": "Liquid Galaxy is a interactive environment with many processing nodes and screens. This proposal aims to create a new JavaScript library to acquire...",
+          "student_name": "Renato Aurelio Totti",
+          "code_url": "https://github.com/LiquidGalaxyLAB/Renato-Fernandes-GSoC2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6104686828978176/"
+        },
+        {
+          "title": "Python library for real time data visualization",
+          "short_description": "I will develop a library to acquire data from external sources mainly through forms on an Android application, store them on a local database and...",
+          "student_name": "Mihaela Claudia Diosan",
+          "code_url": "https://github.com/LiquidGalaxyLAB/PythonLibraryForRealTimeDataVisualizationGSoC2019--API-nodeJs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5852299384061952/"
+        },
+        {
+          "title": "Liquid Galaxy Controller Application Redesign",
+          "short_description": "A redefined application developed on flutter containing various tools for controlling the LG screen. Touch gesture based navigation to control the LG...",
+          "student_name": "Sreyas",
+          "code_url": "https://gist.github.com/Sreyas-108/85820b7ac07a06ec09e075e4ea87f158",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5157825855094784/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6406567974404096/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Liquid Galaxy Presentations Tool",
+          "short_description": "The presentation tool idea is to create an interface that is capable to create different sets of data configuration to be displayed on a Liquid...",
+          "student_name": "Karine Pistili",
+          "code_url": "https://github.com/LiquidGalaxyLAB/Presentation-Tool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6375757422526464/"
+        },
+        {
+          "title": "Seasight Forecasting",
+          "short_description": "This project will shows a sea surface temperature chart of a selected region on seas or oceans.\nThree options will be abailable for showing the...",
+          "student_name": "Gabriel Izquierdo",
+          "code_url": "https://github.com/rascundampelcuf/Seasight-Forecasting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5425394003476480/"
+        },
+        {
+          "title": "3D Visualization Library",
+          "short_description": "My project goal for this project is to create a software library that can be integrated in Liquid Galaxy, that allows third parties to easily apply...",
+          "student_name": "Sara Caballero Bruno",
+          "code_url": "https://github.com/LiquidGalaxyLAB/3D_Visualization_API",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5443608087363584/"
+        },
+        {
+          "title": "SimpleCMS",
+          "short_description": "In the project SIMPLE CMS I am going to develop and Android application that will act as User interface and backend, with the following features:\n...",
+          "student_name": "Diego Riveros",
+          "code_url": "https://docs.google.com/document/d/1qWEogjHxxKFm0sqYzb1oQyUhLMhoXAi00s6tFumv93I/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5089447164510208/"
+        },
+        {
+          "title": "HAPIS (Homeless Aid Panoramic Interactive System)",
+          "short_description": "Mainly the project will be developed in Android and it will make use of of the Liquid Galaxy capacity to display information over an interactive map,...",
+          "student_name": "Mihaela Claudia Diosan",
+          "code_url": "https://github.com/LiquidGalaxyLAB/GSoC2020_HomelessAidPanoramicInteractiveSystem",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6262292271857664/"
+        },
+        {
+          "title": "Arduino Controller for Liquid Galaxy",
+          "short_description": "The idea of \u200b\u200bthe project is to develop an Arduino controller for Liquid Galaxy, following the ideas already developed, integrating them into a...",
+          "student_name": "Ot\u00e1vio  Oliveira",
+          "code_url": "https://docs.google.com/document/d/1L3De7pT--0PAN_WPsGAGwpgR-Uefg-zB5E6Fwcxug6o/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4643809276723200/"
+        },
+        {
+          "title": "Free parking Visualization Tool",
+          "short_description": "The project idea is to build a platform for detecting free parking spaces from surveillance video camera footage in public areas. Using integration...",
+          "student_name": "Charanya Chandrasekaran",
+          "code_url": "https://github.com/LiquidGalaxyLAB/FPVT",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6565873076142080/"
+        },
+        {
+          "title": "Gesture Controller to Liquid Galaxy",
+          "short_description": "Currently, the Liquid Galaxy project has only space navigator, touch screen and voice to controls it, but it would be\ninteresting to see more ways to...",
+          "student_name": "Bruno Fa\u00e9 Faion",
+          "code_url": "http://github.com/LiquidGalaxyLAB/Gesture-Controller",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5999567243313152/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5964067927228416/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "SimpleCMS E.S.",
+          "short_description": "Creating an android application which is \nable to mimics the functionality of Google Earth Studio and gives response in .esp format,create a feature...",
+          "student_name": "Goutam Verma",
+          "code_url": "https://docs.google.com/document/d/1_fAQDEsCKxJplXi3In13HkArZVgT51elc_i1bOv5z_4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6663634549211136/"
+        },
+        {
+          "title": "Orbit Satellite Visualizer for Liquid Galaxy",
+          "short_description": "Orbit Satellite visualizer and other space related concepts displayed in Liquid Galaxy ecosystem.",
+          "student_name": "Albert Morea",
+          "code_url": "https://github.com/moreaf/OrbitSatelliteVisualizer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5659142429081600/"
+        },
+        {
+          "title": "Crop Doc",
+          "short_description": "The main objective of this project is to develop a tool for companies or competent authorities to help them visualize certain crop illnesses on the...",
+          "student_name": "Guillem Felis",
+          "code_url": "https://github.com/gfelis/cropDoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5667681595817984/"
+        },
+        {
+          "title": "Electronics Monitor Board (EMB)",
+          "short_description": "The main objective of this project is to create a visualization therefore farmers can control the state and weather of their crop analyzing...",
+          "student_name": "Albert Font",
+          "code_url": "https://github.com/MCDeu/EMB",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5671936398458880/"
+        },
+        {
+          "title": "Visit the World",
+          "short_description": "This project has as main objective the development of a navigation system for the Liquid Galaxy project, using only voice commands, with a voice...",
+          "student_name": "Ot\u00e1vio Oliveira",
+          "code_url": "https://docs.google.com/document/d/1wmf3RlnG6OPCinq2i24hmwCivorzR_RFPMEAJcPpmOw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5708041537716224/"
+        },
+        {
+          "title": "Liquid Galaxy Stellarium",
+          "short_description": "This project is about visualizing Stellarium in a liquid galaxy setup. I have divided this project into two tasks.\ntask-1: Setting of view-matrix...",
+          "student_name": "Mithil",
+          "code_url": "https://docs.google.com/document/d/1O3HeAYWhZxJVLKGbJdmPJMjYKpV4SAEldE6Wz_e5vh0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4973951196856320/"
+        },
+        {
+          "title": "Reforestation Assistant & Simulator",
+          "short_description": "The Reforestation Assistant & Simulator idea is to create an app to help on reforestation of degraded areas of the planet by drone or manually. The...",
+          "student_name": "Karine Pistili",
+          "code_url": "https://github.com/LiquidGalaxyLAB/reforestation-assistant-simulator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5003433328771072/"
+        },
+        {
+          "title": "Liquid Galaxy Retro Gaming",
+          "short_description": "The idea of playing games on the Liquid Galaxy has already been explored by some developers, there are currently two classic retro games that have...",
+          "student_name": "Leonardo Coelho Ruas",
+          "code_url": "https://gist.github.com/leoruas/ec2de571a1ba8f61858eaf38baf2f800",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5561093929304064/"
+        },
+        {
+          "title": "VISIT THE WORLD HOME EDITION",
+          "short_description": "The objective of the Visit the World Home edition project is to facilitate access to Liquid Galaxy or a private TV via voice commands, using an...",
+          "student_name": "Ainhoa Maestro",
+          "code_url": "https://github.com/ainhoamguardiola/VisitTheWorldHomeEdition.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5627667499450368/"
+        },
+        {
+          "title": "Liquid Galaxy Image Satellite Visualizer",
+          "short_description": "Liquid Galaxy as a meaningful presentation tool has a lot of information that can be displayed for diverse purposes like an educational tool, or for...",
+          "student_name": "Oct\u00e1vio H. M\u00fcller Barrio",
+          "code_url": "https://github.com/LiquidGalaxyLAB/image-satellite-visualizer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5160157792698368/"
+        },
+        {
+          "title": "Crop Doc Terminal TPU",
+          "short_description": "This project will be focused on the control and monitoring of plant pests and diseases. Especially focused on agriculture, for the detection and...",
+          "student_name": "Ferran Delgado Garcia",
+          "code_url": "https://github.com/ferrydelgado/CropDoc.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5209681282203648/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/liquid-galaxy-project/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "LG Space Chess",
+          "short_description": "Use of Hydra-Space in order to make an asynchronous chess game, so two-player could play from different places so we will use satellites...",
+          "student_name": "Pablo Sanchidrian",
+          "code_url": "https://pablosanchi.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zcj3VxzC/"
+        },
+        {
+          "title": "Galaxy Asteroids",
+          "short_description": "Until today, playing games has become an activity loved by many, mainly due to the fun and competitiveness offered to those who play them. In Liquid...",
+          "student_name": "Leticia CR",
+          "code_url": "https://github.com/LiquidGalaxyLAB/asteroids-lg-retro-gaming",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/W5iole2x/"
+        },
+        {
+          "title": "Dronecoria RAS Version 2",
+          "short_description": "Liquid Galaxy is a visualization system that helps users to interact with/use applications like Google Earth in an immersive and interactive way. It...",
+          "student_name": "Syed Ali Ahmed",
+          "code_url": "https://docs.google.com/document/d/14DEJ7QUfUwplxrVIs-03MRNCCEHnuXz7oXNm-ehoA8c/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ygjnwJrh/"
+        },
+        {
+          "title": "TinyGS data visualization for Liquid Galaxy",
+          "short_description": "This project aims to build an android application from scratch. Which gets information about satellites, stations, and packets from the TinyGS...",
+          "student_name": "Goutam Verma",
+          "code_url": "https://docs.google.com/document/d/1zUR-_JD9rVjYK8aAel4UVYQqgon1oHZHt8vZKzb1rf0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Ft7KP8Dj/"
+        },
+        {
+          "title": "350h La Palma Volcano Eruption tracking tool",
+          "short_description": "I plan to develop a Volcano Eruption Tracking tool made with the help of the Dart native package called web_scraper 0.1.4 that collects all the data...",
+          "student_name": "Yash Raj",
+          "code_url": "https://docs.google.com/document/d/1lLE_qWeqxlHgSe_jQJVEC1_QGFWCJ3zV9yIqMApLu6s/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YsfWtGqw/"
+        },
+        {
+          "title": "CropDoc for Android",
+          "short_description": "The main objective of this project is to develop an Android application to help companies or competent authorities and farmers to detect certain crop...",
+          "student_name": "GuillemCF",
+          "code_url": "https://github.com/GuillemCamats/CropDocForAndroid",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UlSbQdDT/"
+        },
+        {
+          "title": "Liquid Galaxy SatNOGS Visualization Tool  (LG S.V.T.)",
+          "short_description": "The goal of this project is to create a mobile app that makes it possible for people to look for a satellite. Using the NORAD id from the satellite,...",
+          "student_name": "Michell Algarra",
+          "code_url": "https://github.com/LiquidGalaxyLAB/SatNOGS-Visualization-Tool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8TUw3N9s/"
+        },
+        {
+          "title": "BIM Liquid Galaxy Visualizer",
+          "short_description": "This project aims to build a platform to see BIM models and their corresponding metadata both in an android 10\u2019 tablet and on the Liquid Galaxy...",
+          "student_name": "Vin\u00edcius Cavalcanti",
+          "code_url": "https://github.com/LiquidGalaxyLAB/BIM-Liquid-Galaxy-Visualizer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/v3W6m6tQ/"
+        },
+        {
+          "title": "Alejandro Ill\u00e1n Marcos GSoC 2022 - Android Application refurbishment",
+          "short_description": "I want to help you refurbishing some past proyects that couldn't be validated on play store. I'm familiar with play store and i like so much Android...",
+          "student_name": "Alejandro Ill\u00e1n Marcos",
+          "code_url": "https://github.com/Alexevers/Alejandro-Android-Application-Refurbishment",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/KEqnvisL/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/liquid-galaxy-project",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Google Developers Community Visualization Tool",
+          "short_description": "Many members of Google Developers Groups are available on Meetup . So I want to develop a platform which will make developers easily to get all...",
+          "student_name": "AdityaKumar",
+          "code_url": "https://gist.github.com/soCallmeAdityaKumar/47419801a0c22f743eddd4f15f82b76f",
+          "proposal_id": "R638ekHb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7mnhMUjo"
+        },
+        {
+          "title": "COVID-19 data explorer",
+          "short_description": "The project is a data visualizer about COVID 19, it aims to analyze the data obtained about the virus through an API, calculate its evolution using...",
+          "student_name": "Ana Laura",
+          "code_url": "https://github.com/Na1au/COVID19_data_explorer",
+          "proposal_id": "V0nrBL5C",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UTsePWCM"
+        },
+        {
+          "title": "Agro Robot Swarm dashboard for Liquid Galaxy",
+          "short_description": "The purpose of this project is to create a dashboard application that allows better control of their fields, to all farmers who want to take their...",
+          "student_name": "Artur Culleres",
+          "code_url": "https://docs.google.com/document/d/1O2xYHiNRehPv2lAI_7w9kVmLUspu-7Ib3AwGxcu0mwU/edit",
+          "proposal_id": "CnSebRgw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/096FweCs"
+        },
+        {
+          "title": "STEAM Celestial Satellite tracker in real time",
+          "short_description": "This project represents the orbit of a satellite orbiting earth on an Arduino-controlled pointer and a Liquid Galaxy rig through a mobile...",
+          "student_name": "Krishna Agrawal",
+          "code_url": "https://gist.github.com/savitore/e26c444d907df5e8f6008150e8a6ff1e",
+          "proposal_id": "PLag5Wh4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/f6b4xoXN"
+        },
+        {
+          "title": "HAPIS Refurbishment \"Humanitarian Aid Panoramic Interactive System\"",
+          "short_description": "Introduction: The main idea of HAPIS Refurbishment is to have a simple functional application that is able to connect those who need something with...",
+          "student_name": "Mahinour Elsarky",
+          "code_url": "https://medium.com/@mahinouralaa2002/google-summer-of-code-2023-with-liquid-galaxy-organization-f9dd550f6bc1",
+          "proposal_id": "UXE8BYIN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Fv4ImOa2"
+        },
+        {
+          "title": "Manash Kumar_Proposal_Rocket Launcher Visualizer / SpaceX Rocket Visualizer_350 Hours Duration",
+          "short_description": "I am planning to build the app using flutter for frontend and calling APIs using dart package called \u201cretrofit\u201d for collecting data of rocket...",
+          "student_name": "Manash Kumar",
+          "code_url": "https://gist.github.com/SagittariusA11/1042d88f5e560366770307be8a9db108",
+          "proposal_id": "g1VmuLNM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5ZScXUZt"
+        },
+        {
+          "title": "The LiquidArt AI",
+          "short_description": "The LiquidArt AI is a mobile application developed in Flutter that allows users to generate images using a text or an audio to text prompt and a...",
+          "student_name": "Murilo Nogueira Duarte",
+          "code_url": "https://github.com/MurilonND/LiquidArt_AI/tree/main",
+          "proposal_id": "o9qlXb9s",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cCYnzu24"
+        },
+        {
+          "title": "Smart City Dashboard for Liquid Galaxy",
+          "short_description": "The idea of the project is to utilize the space that Liquid Galaxy gives us to show the features of Smart Cities in a better way. There will be a...",
+          "student_name": "Prayag X",
+          "code_url": "https://gist.github.com/Prayag-X/d436610ff922b9c6434797eb842da916",
+          "proposal_id": "BMPxbSk9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wC8xPFRk"
+        },
+        {
+          "title": "Satellite Space Collision prevision",
+          "short_description": "In this project, I am going to make a neural network which is going to predict the probability that one satellite will collide with another. With...",
+          "student_name": "Rafel Salgueiro",
+          "code_url": "https://docs.google.com/document/d/10pF6yFT35_TvV1RgtrKNj4I8XoyquvbY7CIpSRbbrdE/edit?usp=sharing",
+          "proposal_id": "1WFgxo9i",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/o4g0AJgd"
+        },
+        {
+          "title": "LG Gesture and Voice Control",
+          "short_description": "The LG Gesture and Voice Control Project aims to improve the control of the Liquid Galaxy Rig by providing a more comprehensive solution using voice...",
+          "student_name": "Sudhanyo Chatterjee",
+          "code_url": "https://github.com/Sudhanyo/LG-Gesture-And-Voice-Control",
+          "proposal_id": "FILeEsR1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/q7XviTSE"
+        },
+        {
+          "title": "Located Voice CMS",
+          "short_description": "To the existing Liquid Galaxy Controller on Google Play Store, I am: 1. Adding the voice functionality: For default POIs via AI generated voice mp3...",
+          "student_name": "Vedant Singh",
+          "code_url": "https://docs.google.com/document/d/1zlpWdz4w3vOLVkALyRG4Yp7DE8aV8ru_h5QBwbnCMDY/edit?usp=sharing",
+          "proposal_id": "CJDgVKLw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/n3hWZbED"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/liquid-galaxy-project/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "AI-based Touristic Information Tool for LG (based on GEMMA model running locally)",
+          "short_description": "Seeking an escape from daily life chores, many turn to travel as a means of relaxation, renewal, and exploration. However, planning a trip can be...",
+          "student_name": "Mahinour Elsarky",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#mahinour",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hSET07zW/"
+        },
+        {
+          "title": "AI Fictional Travel Itinerary Generator for LG, based on Groq\u2019s API",
+          "short_description": "Imagine a captivating journey through iconic destinations brought to life by a fictional travel itinerary generator. In this concept, the application...",
+          "student_name": "Nevish_302",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#shiven",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DHnK9nZW/"
+        },
+        {
+          "title": "AI Fictional Travel Itinerary Generator for LG",
+          "short_description": "Planning a vacation can be quite a task. One of the challenges is finding some engaging details about destinations to explore. Often when we look...",
+          "student_name": "Rohit_Kumar_",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#rohit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/knnm59jc/"
+        },
+        {
+          "title": "Wildfire Tracker for Liquid Galaxy",
+          "short_description": "The project will be a responsive Flutter application designed for tablets, which through an SSH connection and API calls, we will be able to...",
+          "student_name": "Gerard Mons\u00f3",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#gerard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SLnTEOe6/"
+        },
+        {
+          "title": "Agro Task Manager",
+          "short_description": "A Flutter tool made to be able to control agronomical robots from a distance, with a database with data on different plants' ideal cycle: planting...",
+          "student_name": "Davit Mas",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#davit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VifALBEf/"
+        },
+        {
+          "title": "Gemini based IA based Touristic tool",
+          "short_description": "The project aims to develop an AI-based Flutter application that will be connected to the Liquid Galaxy system and will allow users to ask the app...",
+          "student_name": "Sidharth Mudgil",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#sidharth",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6q7HffsP/"
+        },
+        {
+          "title": "Android, Chrome and AI Application management",
+          "short_description": "This project aims to recode, test, and publish applications developed by contributors of the Liquid Galaxy community during the 2023-2024 period,...",
+          "student_name": "OscarPena",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#oscar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/phiEg2xz/"
+        },
+        {
+          "title": "AI Educational Touristic Explorer for LG",
+          "short_description": "The application aims to provide users with an immersive and informative experience, showcasing the essence of a city through mesmerizing...",
+          "student_name": "Manas Manoj Dalvi",
+          "code_url": "https://github.com/LiquidGalaxyLAB/LG-AI-Touristic-explorer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/p7WO4nQ1/"
+        },
+        {
+          "title": "AIS Visualization for Liquid Galaxy",
+          "short_description": "This project utilizes open AIS data to create a real-time visualization tool on Google Earth and Liquid Galaxy rigs. The goal is to provide users...",
+          "student_name": "Rofayda",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#rofayda",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NaX6fUKu/"
+        },
+        {
+          "title": "Space Visualizations for Liquid Galaxy",
+          "short_description": "Space Visualizations for Liquid Galaxy is an application that showcases the Mars 2020 NASA mission and some of the most famous Earth orbits. The...",
+          "student_name": "Baggini Mattia",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#mattia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/oIJG0x9B/"
+        },
+        {
+          "title": "Super Liquid Galaxy Controller",
+          "short_description": "This project aims to create a brand new de-facto Liquid Galaxy Controller that will master all the previous controller apps made for Liquid Galaxy....",
+          "student_name": "Aritra Biswas",
+          "code_url": "https://www.liquidgalaxy.eu/2024/08/work-product-submission-from-google.html#aritra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RRJe0whD/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/liquid-galaxy-project",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "GeoVisionAI: AI-Powered Geospatial Storytelling on Liquid Galaxy",
+          "short_description": "GeoVisionAI aims to enhance the Liquid Galaxy platform by integrating AI to analyze and visualize geographic data in real-time. This project will...",
+          "student_name": "_Anishka_",
+          "code_url": null,
+          "proposal_id": "dtR5XnTo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HQ7rA7b9"
+        },
+        {
+          "title": "RoboStream: Real-Time Telemetry & Vision Platform.",
+          "short_description": "RoboStream is a comprehensive solution designed to address the challenge of monitoring and visualizing complex robotic telemetry in real time. As...",
+          "student_name": "alexbernaldo",
+          "code_url": null,
+          "proposal_id": "oMrFQX4P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/R7s4YYln"
+        },
+        {
+          "title": "Robotics Simulation For Liquid Galaxy",
+          "short_description": "The Robotics Simulation for Liquid Galaxy 2025 Project is an innovative addition to the ever growing Liquid Galaxy Ecosystem. This project aims to...",
+          "student_name": "Debanjan Naskar",
+          "code_url": null,
+          "proposal_id": "12yxPOuh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GsIU6Hvc"
+        },
+        {
+          "title": "Kennedy Approach porting to Liquid Galaxy",
+          "short_description": "This project modernizes the classic Kennedy Approach air traffic control game by rebuilding it as a custom, multi-screen interactive experience on...",
+          "student_name": "DEV T GADANI",
+          "code_url": null,
+          "proposal_id": "UMm28lLk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aTEtH65S"
+        },
+        {
+          "title": "Google Research - Open Buildings Data Visualization",
+          "short_description": "The Open Buildings Visualization project aims to create a geospatial visualization platform that synergistically integrates Google Earth Engine (GEE)...",
+          "student_name": "JaivardhanShukla",
+          "code_url": null,
+          "proposal_id": "5JRh3yOk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rCU0P9NY"
+        },
+        {
+          "title": "Voice-Driven Robot Goal Assignment System with Liquid Galaxy",
+          "short_description": "This project proposes developing a robot control system through the Liquid Galaxy system. Integrating immersive visualization with speech recognition...",
+          "student_name": "JavierMancho",
+          "code_url": null,
+          "proposal_id": "cAtfhuBO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gdisJu5n"
+        },
+        {
+          "title": "Liquid Galaxy Master Web and Flutter Application",
+          "short_description": "The GSoC program provides students from around the world with the opportunity to work on their own projects with the help of experienced mentors....",
+          "student_name": "Lucia Fernandez",
+          "code_url": null,
+          "proposal_id": "D1i4p8Ip",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tyU5Ps7c"
+        },
+        {
+          "title": "Marc Ba\u00f1eres Farr\u00e1n-DATA Spaces FrontEnd For Liquid Galaxy-GSoC2025",
+          "short_description": "DATA Spaces FrontEnd For Liquid Galaxy is a project designed to enhance data visualization using Liquid Galaxy, an immersive multi-screen system....",
+          "student_name": "Marc Ba\u00f1eres Farr\u00e1n",
+          "code_url": null,
+          "proposal_id": "c9xfqB7G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LJbiQZL7"
+        },
+        {
+          "title": "Martian Climate Dashboard",
+          "short_description": "The project aims to provide real-time and historical climate data visualization from Mars on Liquid Galaxy through an engaging and interactive...",
+          "student_name": "Mohit_Sharma",
+          "code_url": null,
+          "proposal_id": "gfbLdGxK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/t0R7jKR6"
+        },
+        {
+          "title": "Catastrophe Visualizer",
+          "short_description": "The Catastrophe Visualizer is a real-time disaster monitoring application designed to work seamlessly with the Liquid Galaxy system. It fetches live...",
+          "student_name": "Saniya_Singh",
+          "code_url": null,
+          "proposal_id": "yI7K4L5k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/s3oP5apd"
+        },
+        {
+          "title": "Eco Explorer for Liquid Galaxy",
+          "short_description": "This project provides a master interface that showcases a dashboard of expansive forests around the globe and allows users to explore them. Its...",
+          "student_name": "Shuvam Swapnil Dash",
+          "code_url": null,
+          "proposal_id": "6yKRizrU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5LWWagWD"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://liquidgalaxy.slack.com/",
+  "contact_email": "mailto:liquidgalaxylab@gmail.com",
+  "mailing_list": "https://discord.gg/peGA5K8tJU",
+  "ideas_url": "https://www.liquidgalaxy.eu/2024/11/unique-post-for-gsoc-2025-at-liquid.html",
+  "guide_url": "https://www.liquidgalaxy.eu/2024/11/unique-post-for-gsoc-2025-at-liquid.html",
+  "twitter_url": "https://twitter.com/_liquidgalaxy",
+  "blog_url": "https://www.liquidgalaxy.eu/#main-wrapper"
+}

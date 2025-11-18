@@ -1,0 +1,49 @@
+{
+  "name": "Apache DataFusion",
+  "url": "https://datafusion.apache.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/apache-datafusion/tqdstft3qk2yleu9-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "databases",
+    "big data",
+    "OLAP"
+  ],
+  "technologies": [
+    "python",
+    "rust",
+    "sql",
+    "arrow"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/apache-datafusion",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Supporting Correlated Subqueries in Apache DataFusion",
+          "short_description": "This project aims to implement comprehensive support for correlated subqueries in Apache DataFusion by applying Hyper's 'Unnesting Arbitrary Queries'...",
+          "student_name": "renjj",
+          "code_url": null,
+          "proposal_id": "DOrDMlzI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zYjgxNUI"
+        },
+        {
+          "title": "Improving Spilling Execution in DataFusion",
+          "short_description": "Apache DataFusion is an in-memory query execution engine optimized for OLAP workloads using Apache Arrow's columnar format. However, to support...",
+          "student_name": "SeoYoung Lee",
+          "code_url": null,
+          "proposal_id": "I2XMkMSN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3Ooae7Uu"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/jHzkpK4em5",
+  "contact_email": "",
+  "mailing_list": "dev@datafusion.apache.org",
+  "ideas_url": "https://datafusion.apache.org/contributor-guide/gsoc_project_ideas",
+  "guide_url": "https://datafusion.apache.org/contributor-guide/gsoc_application_guidelines",
+  "twitter_url": "https://x.com/apachedatafusio",
+  "blog_url": "https://datafusion.apache.org/blog/"
+}

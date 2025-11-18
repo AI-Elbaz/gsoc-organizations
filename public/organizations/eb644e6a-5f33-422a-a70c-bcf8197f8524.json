@@ -1,0 +1,1090 @@
+{
+  "name": "The Linux Foundation",
+  "url": "http://www.linuxfoundation.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-linux-foundation/ydeu9rliawhe6of9-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "kernel",
+    "wireless",
+    "printing",
+    "lsb",
+    "spdx",
+    "wireguard",
+    "automotive",
+    "iio",
+    "zephyr"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "mysql",
+    "c++",
+    "cups",
+    "gtk",
+    "ipp",
+    "linux",
+    "ai",
+    "fuzz-testing"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4711296729612288/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Diagnose my ceph cluster",
+          "short_description": "The project aims to build a script that can be run very quickly and give the user best guess as to what was wrong with the running Ceph cluster and...",
+          "student_name": "penguinRaider",
+          "code_url": "https://gist.github.com/hellboy2k8/dbd1ccdbe38b4e0c0a1e32ed742b1334",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6336374915465216/"
+        },
+        {
+          "title": "Linux Kernel Backports",
+          "short_description": "One of the main challenges when creating custom Linux Kernel images is choosing the adequate drivers composing it, respectively to the target...",
+          "student_name": "Cristina-Gabriela Moraru",
+          "code_url": "https://kernelsense.wordpress.com/2016/08/23/gsoc-2016-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6376816327524352/"
+        },
+        {
+          "title": "Porting mainline kernel to ARM Cortex-M7 microcontroller",
+          "short_description": "The project goal is boot up to mainline kernel on STM32F7-discovery ARM Cortex-M7 microcontroller evaluation board and to implement code to utilize...",
+          "student_name": "tnishinaga",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ZO8Rzt7pT4TaCwkuZEE0e5ntt6JE1eF0BswDdCBHYr4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6617849892175872/"
+        },
+        {
+          "title": "Environment model specifications for more bugs to reveal",
+          "short_description": "Static verification of Linux kernel modules has already helped to reveal hundreds of real bugs in Linux kernel device drivers. On practice software...",
+          "student_name": "Ilya Zakharov",
+          "code_url": "http://forge.ispras.ru/news/553",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5714677862498304/"
+        },
+        {
+          "title": "The Linux Foundation OpenPrinting Proposal (Draft)",
+          "short_description": "Collaborate with Artifex to implement a resource efficient print function that bypasses common drivers found throughout desktop computers in order to...",
+          "student_name": "Kevin Naughton Jr.",
+          "code_url": "https://kdn251.github.io/linux-description-page.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6171282278187008/"
+        },
+        {
+          "title": "Race detection in Linux kernel",
+          "short_description": "Race conditions are one of the most challenging bugs, I would like to deal with them. I have already participated to the project, which is related to...",
+          "student_name": "Pavel.Alpha",
+          "code_url": "http://linuxtesting.org/16-08-2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5296785597661184/"
+        },
+        {
+          "title": "Add MuPDF support to cups-filters for a lightweight mobile printing stack",
+          "short_description": "The current PDF renderer in cups-filters, namely Ghostsscript and Poppler, are much heavy weight to mobile devices as compared to MuPDF which is...",
+          "student_name": "Pranjal Bhor",
+          "code_url": "http://pranjalbhor.me/articles/gsoc16.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6263429190909952/"
+        },
+        {
+          "title": "LLVMLinux: Static Analysis",
+          "short_description": "Clang/LLVM provide a static analyzer that is focused towards userspace errors; however, it can be extended to kernelspace.  The final goal is to fix...",
+          "student_name": "andrew wells",
+          "code_url": "https://github.com/andrewmw94/llvm_clang_GSoC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4600081235836928/"
+        },
+        {
+          "title": "Programmatically Discover Data Center Topology",
+          "short_description": "The goal of this project is to develop a Ceph enhancement in Rust that utilizes basic networking tools to discover the physical topology of a network...",
+          "student_name": "Michael Skalka",
+          "code_url": "https://github.com/mskalka/DataCenterTopology",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6557193948102656/"
+        },
+        {
+          "title": "LSB Navigator",
+          "short_description": "The aim of this project is to implement collecting data about package dependencies in the LSB data collection tools and implement support for these...",
+          "student_name": "Mikhail Kraev",
+          "code_url": "https://lists.linuxfoundation.org/pipermail/lsb-discuss/2016-August/008168.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6056343047766016/"
+        },
+        {
+          "title": "Disk Removal Safety Utility for Ceph",
+          "short_description": "Using Ceph's JSON dump we can create a utility to help decipher whether or not\na disk is safe to remove from within a Ceph cluster. Since Ceph...",
+          "student_name": "Alberto C.",
+          "code_url": "https://github.com/CanonicalLtd/ceph_safe_disk/commits/master?author=0X1A",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5760161029292032/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5902526847123456/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Common Print Dialog for desktop applications and mobile devices",
+          "short_description": "To make printing easy for the users of desktop systems and mobile devices, a well designed print dialog should be there where a user can easily find...",
+          "student_name": "Abhijeet Dubey",
+          "code_url": "https://github.com/dracarys09/gcp-backend/wiki/1.-Google-Summer-of-Code-2017-%7C-Common-Printing-Dialog",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6715861582741504/"
+        },
+        {
+          "title": "Add support to CUPS-FILTERS for enabling conversion to and printing of PCLm files supported by IPP everywhere printers.",
+          "short_description": "PCLm is a file format which is a light-weight subset of PDF which makes printing fast and efficient. It is streamable, i.e. can be printed page by...",
+          "student_name": "Sahil Arora",
+          "code_url": "https://github.com/sahilarora535/cups-filters/wiki/Google-Summer-of-Code-2017-%7C-The-Linux-Foundation---Adding-PCLm-support-to-cups-filters",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5722648516493312/"
+        },
+        {
+          "title": "Flattening non-static content (like filled forms) in PDF files for printing",
+          "short_description": "At present, CUPS filter does not support printing the PDF files with dynamic form content. The dynamic form content includes digitally filled forms,...",
+          "student_name": "Pranjal Bhor",
+          "code_url": "https://psmlbhor.github.io/whiteglass/2017/08/27/Google-Summer-of-Code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5482169807929344/"
+        },
+        {
+          "title": "Finding bugs related to the memory errors in Linux kernel",
+          "short_description": "Memory errors at the kernel of operation system are a kind of bugs that lead to grave consequences but are hard to detect. Debug and disclose of...",
+          "student_name": "Anton Vasilyev",
+          "code_url": "http://linuxtesting.org/27-08-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5485056025952256/"
+        },
+        {
+          "title": "DBus activatable Print Backends and Common Libraries for the Common Printing Dialog",
+          "short_description": "Goals: Design a dbus interface for the common print dialog(CPD). Switching over to a dbus interface for communicating to print backends would also...",
+          "student_name": "Nilanjana Lodh",
+          "code_url": "https://nilanjanalodh.github.io/common-print-dialog-gsoc17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5017841430429696/"
+        },
+        {
+          "title": "Userland implementation of WireGuard in Golang",
+          "short_description": "WireGuard is a simple VPN solution, opting for speed and simplicity over cipher and protocol agility.\nThe end result is that the WireGuard codebase...",
+          "student_name": "rot256",
+          "code_url": "https://gist.github.com/rot256/e4ba56cdff7e1bffe6e7e62c4cd9b85c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5030120205058048/"
+        },
+        {
+          "title": "Qt based Common Print Dialog",
+          "short_description": "To make printing easy for the users of desktop systems and mobile devices, we need a well-designed print dialog where one can easily find the right...",
+          "student_name": "Rithvik Patibandla",
+          "code_url": "https://github.com/rithvikp1998/cpd/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4643900639674368/"
+        },
+        {
+          "title": "Performance Optimization / Android Interface",
+          "short_description": "WireGuard is already a fast, efficient VPN solution because it is implemented in the kernel and uses modern cryptography. While it supports parallel...",
+          "student_name": "Samuel Holland",
+          "code_url": "https://gist.github.com/smaeul/975a11083db0294ca93c2ec6a8df4010",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6045119761350656/"
+        },
+        {
+          "title": "Finding bugs related to the data races in Linux kernel",
+          "short_description": "This project's goal is making the Linux kernel more error-proof through the detection of data races with the help of static verification tools....",
+          "student_name": "Anton Volkov",
+          "code_url": "http://linuxtesting.org/28-08-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6074673162878976/"
+        },
+        {
+          "title": "Common Print Dialog",
+          "short_description": "This project aims to create a unified solution for printing in desktop and mobile environments. A well designed print dialog will help the users to...",
+          "student_name": "Anshul Gupta",
+          "code_url": "https://anshulgupta0803.github.io/common-print-dialog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5877421957971968/"
+        },
+        {
+          "title": "Common Print Dialog",
+          "short_description": "I intend to integrate the backend being developed as part of the common print dialog in libreoffice.\nThe common backend ensures that all...",
+          "student_name": "Yash Srivastav",
+          "code_url": "https://yashsriv.org/2017/08/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5193723830861824/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5146991633891328/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Automotive Grade Linux (AGL)",
+          "short_description": "Running the AGL demo platform (agl-demo-platform)",
+          "student_name": "Yordan Dimitrov",
+          "code_url": "https://ydimitrov.github.io/gsoc-participation-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6670476931760128/"
+        },
+        {
+          "title": "Improve environment model for memory safety verification of the Linux kernel and find bugs related to the memory errors in Linux kernel",
+          "short_description": "Problems with memory management and array access by unchecked index or pointer introduce significant risk. Especially if it comes to the OS kernel....",
+          "student_name": "Anton Vasilyev",
+          "code_url": "http://linuxtesting.org/13-08-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5690257819303936/"
+        },
+        {
+          "title": "Improving bannertopdf filter to use QPDF instead of Poppler APIs",
+          "short_description": "The bannertopdf filter in cups-filters uses unstable and unsupported Poppler APIs which makes the code unable to build. The filter should be...",
+          "student_name": "Sahil Arora",
+          "code_url": "https://github.com/OpenPrinting/cups-filters/wiki/Google-Summer-of-Code-2018-%7C-The-Linux-Foundation-%7C-Improving-bannertopdf-filter-to-use-QPDF-instead-of-Poppler-APIs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5412668647145472/"
+        },
+        {
+          "title": "Content Oriented Printer AutoSelection",
+          "short_description": "To print a document, one first needs to select a printer and then adjust its settings to fit their requirement. This project aims at enhancing user...",
+          "student_name": "Deepak Patankar",
+          "code_url": "https://github.com/deepak0405/GSoC2018_documentation/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5115857952833536/"
+        },
+        {
+          "title": "WireGuard Kernel Hacking",
+          "short_description": "Hacking on the WireGuard kernel implementation, improving performance and memory consumption by implementing lock-free multi-producer multi-consumer...",
+          "student_name": "Tharre",
+          "code_url": "https://gist.githubusercontent.com/Tharre/a4bc82e1b57d0037cffedadc8be884a4/raw/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5334080409305088/"
+        },
+        {
+          "title": "Enhancements for ipptool",
+          "short_description": "The project involves the task of enhancing the ipptool where I will be writing ipptool scripts in order to cover operations and attributes that are...",
+          "student_name": "Akash_Sharma",
+          "code_url": "https://github.com/akashs-india/ippsample/wiki/Google-Summer-of-Code-2018-%7C-The-Linux-Foundation---Enhancements-for-Ipptool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6241757859676160/"
+        },
+        {
+          "title": "WireGuard Kernel related tasks",
+          "short_description": "As WireGuard is supposed to be merged in the kernel mainline soon, several issues should be fixed. I am trying to fix several kernel-related issues...",
+          "student_name": "Gauvain \"GovanifY\" R-T",
+          "code_url": "https://govanify.com/post/gsoc-wireguard/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4672114145624064/"
+        },
+        {
+          "title": "Common Print Dialog Backend",
+          "short_description": "I intend to create a new CPDB backend for printing to a (PDF) file and fix the bugs in the CUPS backend.\nI also have to develop a new GTK3 Adaptor...",
+          "student_name": "Ayush  Bansal",
+          "code_url": "https://github.com/ayush268/GSoC_2018_Documentation/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4878663283638272/"
+        },
+        {
+          "title": "Idea: Enhancements for ipptool",
+          "short_description": "Ipptool is a program that allows sending IPP requests to a specific printer or server in order to test it or to receive printer information in the...",
+          "student_name": "Lakshay Bandlish",
+          "code_url": "https://github.com/lbandlish/Google-Summer-of-Code-2018-The-Linux-Foundation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4914234068566016/"
+        },
+        {
+          "title": "Performance and benchmarking improvements in WireGuard",
+          "short_description": "In this project, I will optimize the in-kernel implementation of WireGuard and\nimprove WireGuard's infrastructure for measuring its performance.\nBy...",
+          "student_name": "Jonathan Neusch\u00e4fer",
+          "code_url": "https://lists.zx2c4.com/pipermail/wireguard/2018-August/003240.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4935339470749696/"
+        },
+        {
+          "title": "IPPDOCLINT Program",
+          "short_description": "The proposed linter program will take as input common print file formats and checks them for any structural or content errors. The linter should...",
+          "student_name": "Rithvik Patibandla",
+          "code_url": "https://github.com/rithvikp1998/ippsample",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5919661820477440/"
+        },
+        {
+          "title": "IIO Driver Project (Bosch BME680)",
+          "short_description": "The project is to write a driver for Bosch BME680(4-in-1) sensor module using the Industrial I/O interface to effectively read data from each of the...",
+          "student_name": "Himanshu Jha",
+          "code_url": "https://kernelnewbies.org/HimanshuJha/GSoC18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6296586405543936/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6487994943406080/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Generic Framework to turn legacy drivers consisting of CUPS filters and PPDs into Printer Applications",
+          "short_description": "In classic CUPS-based printing environment, the PPD files and print filters have to be put into standardized directories of the CUPS installation....",
+          "student_name": "Dheeraj",
+          "code_url": "https://gist.github.com/dheeraj135/852733a6944d2f7ede670fe9d3d0ac6a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6426363857207296/"
+        },
+        {
+          "title": "Improve the pdftoraster filter",
+          "short_description": "Currently, pdftoraster uses the Poppler libraries which are unstable and change their function definition after updates due to which there are...",
+          "student_name": "Tanmay Anand",
+          "code_url": "https://github.com/tanmayanand44/cups-filters-gsoc19/wiki/Google-Summer-of-Code-2019-%7C-The-Linux-Foundation-%7C-Improving-pdftoraster-filter-to-use-stable-Poppler-APIs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4755926370746368/"
+        },
+        {
+          "title": "IPP: ipptool test suite updates for IPP errata updates",
+          "short_description": "I aim to develop additional IPP tool test scripts for IPP errata including IPP Document Object v1.1, IPP Job Extensions v1.1, and IPP 3D Printing...",
+          "student_name": "Sharad Shukla",
+          "code_url": "https://github.com/Sharadd15/ippsample/wiki/Gsoc-2k19-%7C-OpenPrinting-%7C-The-Linux-Foundation-%7C-Ipptool-test-suite-updates-for-IPP-errata-updates",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4783275850072064/"
+        },
+        {
+          "title": "ipptool test suite for IPP System Service",
+          "short_description": "ipptool is used for development and debugging of IPP-related software and for PWG self-certification for IPP Everywhere printers for driverless...",
+          "student_name": "Aakash Lahoti",
+          "code_url": "https://github.com/aakashlahoti/Google-Summer-Of-Code-2019-The-Linux-Foundation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6018291884097536/"
+        },
+        {
+          "title": "Proposal for GSoC 2019 IIO Driver: AD7292",
+          "short_description": "Main goal: have the AD7292 driver in the Linux kernel tree.\nSecondary goal: develop a series of tutorial posts for newcomers.\nThe following...",
+          "student_name": "Marcelo Schmitt",
+          "code_url": "https://github.com/marceloschmitt1/linux/tree/GSOC_2019_ad7292",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4887010987212800/"
+        },
+        {
+          "title": "ASoC codec driver",
+          "short_description": "The goal of the project is to write a driver for I2S Stereo Decoder - UDA1334A",
+          "student_name": "Andra Danciu",
+          "code_url": "https://andramaria1997.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4930324859977728/"
+        },
+        {
+          "title": "Add Driver Support for AD5940 in the IIO Subsystem",
+          "short_description": "Writing the driver of AD5940 in the IIO subsystem and add support for manipulating ADC channels, DAC channels, internal temperature sensor and GPIO...",
+          "student_name": "Song Qiang",
+          "code_url": "https://cybertale.github.io/2019/08/26/GSoC-2019-AD5940-Driver-development.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5160712073117696/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5415607517839360/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Jailhouse support to AGL",
+          "short_description": "Realtime capabilities are an important part of the requirements of automotive systems. One approach is to partition your CPU using a partitioning...",
+          "student_name": "Parth Dode",
+          "code_url": "https://lists.automotivelinux.org/g/agl-dev-community/topic/gsoc_final_report/76533799?p=,,,20,0,0,0::recentpostdate%2Fsticky,,,20,2,0,76533799",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6456694739042304/"
+        },
+        {
+          "title": "Extract raster data from PDFs for direct printing",
+          "short_description": "Currently, if an incoming print job is a PDF file and the printer is not a PDF printer, the file will be rasterized and the converted to PWG/CUPS...",
+          "student_name": "Vikrant Malik",
+          "code_url": "https://vikrantmalik051.blogspot.com/2020/08/blog-post.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5650438981943296/"
+        },
+        {
+          "title": "IIO Driver for ADXRS290 Gyroscope",
+          "short_description": "Industrial I/O subsystem, the home of Linux sensors, as Daniel Baluta rightly calls it, provides software support for sensors, ADCs, DACs, clock...",
+          "student_name": "Nishant Malpani",
+          "code_url": "https://github.com/layman-n-ish/GSoC2020-Doc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5716712172814336/"
+        },
+        {
+          "title": "General Printer Application SDK",
+          "short_description": "A universal Printer Application SDK (Software Development Kit) to create new printer drivers, from scratch, and convert classic drivers without using...",
+          "student_name": "Jai Luthra",
+          "code_url": "https://jailuthra1.github.io/google-summer-of-code-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5724232224342016/"
+        },
+        {
+          "title": "IIO Driver",
+          "short_description": "The main goal of the project is to build an Inustrial I/O driver for LTC2376 SAR ADC in the linux kernel tree. The code will be tested on real...",
+          "student_name": "Meenal Parakh",
+          "code_url": "https://github.com/meenalparakh/linux/blob/ltc2376_3/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5456863765725184/"
+        },
+        {
+          "title": "Porting of Jailhouse partitioning hypervisor into Automotive Grade Linux",
+          "short_description": "Real-time capabilities are an important part of the requirements of automotive systems. One approach is to partition the CPU using a partitioning...",
+          "student_name": "Jakub Luzny",
+          "code_url": "https://limoto.github.io/gsoc20-blog/2020/08/25/final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5293961863757824/"
+        },
+        {
+          "title": "Analysis and fixing of race condition warnings in the Linux kernel",
+          "short_description": "The project is about analyzing warnings reported by LDV Tools and classifying them as false-positives or real bugs. Once a warning is identified as a...",
+          "student_name": "Madhuparna Bhowmik",
+          "code_url": "https://docs.google.com/document/d/1BiVfHdAsThY1ZITcqpwvTctVgZk6ACUjMvpGGO72Bhs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4774990496399360/"
+        },
+        {
+          "title": "Integrate PaStA with Patchwork",
+          "short_description": "PaStA stands for Patch Stack Analysis and is a tool developed to parse and analyse patch stacks and mailboxes. PaStA has a lot of potential...",
+          "student_name": "Rohit Sarkar",
+          "code_url": "https://rsarky.github.io/2020/08/10/pasta-patchwork.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4808703238209536/"
+        },
+        {
+          "title": "Speed/Scaling Optimisation of cups-browsed",
+          "short_description": "Cups-browsed is a nice utility for networks with large numbers of printers as it provides some great features of forming printer clusters, filtering...",
+          "student_name": "Mohit Mohan",
+          "code_url": "https://github.com/mohitmo/GSoC-2020-Documentation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6494658156298240/"
+        },
+        {
+          "title": "Linux GUI application to admin MF devices using IPP System Service",
+          "short_description": "Currently, the way to manage network printers is using web interfaces, which has its advantages in that no software needs to be installed on the...",
+          "student_name": "Lakshay Bandlish",
+          "code_url": "https://github.com/lbandlish/Administrate-MF-Devices-GUI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6030220022251520/"
+        },
+        {
+          "title": "Make Printer Applications Configurable",
+          "short_description": "Printer Applications are emulations of IPP printers on the local machine usually, to make a non-IPP printer work, the Printer Application being the...",
+          "student_name": "Sambhav Dusad",
+          "code_url": "https://dsam82.github.io/gsoc20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4880658133942272/"
+        },
+        {
+          "title": "Development of environment model specifications for static verification of Linux Kernel",
+          "short_description": "I want to improve the kernel environment model by developing models for operations with strings. Also I want to reduce rate of wrong verdicts to LDV...",
+          "student_name": "Nadezda Lutovinova",
+          "code_url": "https://docs.google.com/document/d/1BlFZacWsJNzbbKGHU5Oi38ALBb2Hp7di3Pazh_UlZEo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4922099702956032/"
+        },
+        {
+          "title": "Linux Kernel Driver Debugging Support",
+          "short_description": "The goal is to enhance the Linux kernel debugging support on imx8 and imx8m platforms by capturing traces when the DSP panics.",
+          "student_name": "Gabriel Iulian Olaru",
+          "code_url": "https://iulianolaru249.github.io/GSoC2020-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5771471328116736/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5715751809318912/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "VirtIO-blk implementation with AGL on Jailhouse",
+          "short_description": "Jailhouse is a static partitioning hypervisor and its support for Automotive Grade Linux is added in the recent previous seasons of this program....",
+          "student_name": "Anmol .",
+          "code_url": "https://anmol.netlify.app/post/gsoc-2021-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6584720028073984/"
+        },
+        {
+          "title": "Examining the Coccinelle\u2019s Handleability of All Function Headers Found in the Linux Kernel",
+          "short_description": "Coccinelle is a C-program matching and transformation tool developed for C programmers to write intuitive code manipulation rules. This tool was...",
+          "student_name": "Keisuke Nishimura",
+          "code_url": "https://gist.github.com/mu-mu-mu/61b78fb561810df623b799298e7c242e#file-final-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5693202593480704/"
+        },
+        {
+          "title": "Make All Filter Functions Work Well Even Without PPD Files",
+          "short_description": "We have already moved from Postscript to PDF as the standard data format for print jobs. Michael Sweet has deprecated the use of PPD files, but due...",
+          "student_name": "suraj kulriya",
+          "code_url": "https://surajkulriya.medium.com/gsoc-2021-final-work-product-the-linux-foundation-make-printing-work-through-cups-without-bf06dbfa1789",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5467975515111424/"
+        },
+        {
+          "title": "Optimizing build and deploy in Kworkflow: towards the Beta release",
+          "short_description": "The main goal of this project is to make kw ready for it\u2019s Beta release. The work is divided into two stages. The first one, corresponding to the...",
+          "student_name": "Jo\u00e3o Seckler",
+          "code_url": "https://docs.google.com/spreadsheets/d/1Fl-mLcXNZ04U_mqssxnGiuFKXxicefw0Kbf1FzGHSy8/edit#gid=0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5084230253543424/"
+        },
+        {
+          "title": "Multi-threading in perf",
+          "short_description": "This project proposes to implement a thread pool inside perf, which could be \nused first to improve the existing parallelization in the synthetic...",
+          "student_name": "Riccardo Mancini",
+          "code_url": "https://lore.kernel.org/lkml/3c4f8dd64d07373d876990ceb16e469b4029363f.camel@gmail.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5100428756254720/"
+        },
+        {
+          "title": "Improving statistics from kw",
+          "short_description": "This project aims to improve the statistics part of kw, adding more options, and also implementing a way to let users, who choose to, take part in a...",
+          "student_name": "Magali Lemes",
+          "code_url": "https://gist.github.com/magalilemes/d076a87c2e87395aafc1b68f2551b2da",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5243010228420608/"
+        },
+        {
+          "title": "Expanding support for Kworkflow: bootloaders  and Linux distributions",
+          "short_description": "Kworkflow is a kernel developer workflow tool with the simple mission of reducing the overhead with infrastructure setup for Linux development. In...",
+          "student_name": "Alan Barzilay",
+          "code_url": "https://docs.google.com/spreadsheets/d/1YTjz8dPDWtzGEaPh0-RH6Y9D2GPMqpfUF_fs_cTCzSQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5346817239154688/"
+        },
+        {
+          "title": "Finding bugs related to memory errors in Linux Kernel and improving environment model specifications for static verification",
+          "short_description": "I want to improve the Linux kernel environment model for more accurate work with memory.",
+          "student_name": "Nadezda Lutovinova",
+          "code_url": "http://linuxtesting.org/23-08-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5557298755272704/"
+        },
+        {
+          "title": "Add dynamic load module support for SOF",
+          "short_description": "Add dynamic load module support for SOF",
+          "student_name": "Liviu-Alexandru Bud",
+          "code_url": "https://potochi.github.io/post/gsoc_sof/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5635260464758784/"
+        },
+        {
+          "title": "IIO Driver: ADXL355 Accelerometer",
+          "short_description": "IIO Subsystem is the home of Linux sensors, it provides support to ADCs, DACs, Accelerometers, Temperature sensors, etc. IoT and industrial...",
+          "student_name": "Puranjay Mohan",
+          "code_url": "https://github.com/puranjaymohan/GSoC-2021-DOC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6194057184804864/"
+        },
+        {
+          "title": "GSOC 2021 Proposal - GUI for listing and managing available IPP services",
+          "short_description": "The current print management tools only list the local queues  and we have to use the web interface to work on queues shared with remote print...",
+          "student_name": "Divyasheel",
+          "code_url": "https://github.com/divyashk/GSOC21_summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4690129087627264/"
+        },
+        {
+          "title": "LSB: Analysis & Fixing of Race Condition Warnings in the Linux Kernel",
+          "short_description": "The task is to catch bugs due to race conditions in Linux Kernel 5.4 device drivers. A software verification framework called Klever automates the...",
+          "student_name": "Saubhik Mukherjee",
+          "code_url": "http://linuxtesting.org/20-08-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4818588170452992/"
+        },
+        {
+          "title": "Create a single universal CUPS filter to replace the chain of individual filters",
+          "short_description": "Currently cups calls a sequence of filters in order to convert the input file format to the desired format. This makes CUPS call a lot of external...",
+          "student_name": "Pranshu Kharkwal",
+          "code_url": "https://gist.github.com/pranshukharkwal/9413499a6744049ef549159948392023",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6547105979564032/"
+        },
+        {
+          "title": "LIDAR visualization application on AGL using ROS2",
+          "short_description": "Integration of the meta-ros layer with Automotive Grade Linux (AGL), to support Robot Operating System (ROS2) which is an open-source robotics...",
+          "student_name": "boron",
+          "code_url": "https://growupboron.github.io/blog/the-linux-foundation-gsoc-2021-project-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6565305567936512/"
+        },
+        {
+          "title": "IIO Driver: AD511X DigiPOT",
+          "short_description": "Aims to implement an IIO driver for Analog Devices, Inc.\u2019s (ADI) AD5110/AD5112/AD5114 Single Channel, 128-Position, I2C, \u00b18% Resistor Tolerance,...",
+          "student_name": "Mugilraj D",
+          "code_url": "https://github.com/mugilr/linux/blob/ad5110_docs/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5993206696640512/"
+        },
+        {
+          "title": "Firmware and other file handling in PAPPL",
+          "short_description": "Currently, PAPPL supports only raster printers and that too for very few specific input formats like JPEG and PNG. Adding the code in PAPPL for...",
+          "student_name": "Bhavna Kosta",
+          "code_url": "https://github.com/Bhavna2020/GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6292943874293760/"
+        },
+        {
+          "title": "Proposal for GSoC 2021 IIO Driver: ADXL313",
+          "short_description": "The main goal of this project is to develop an IIO driver from scratch for the ADXL313 device and have it on Linux kernel tree. The driver will be...",
+          "student_name": "Lucas Stankus",
+          "code_url": "https://docs.google.com/document/d/1fCNo8em2Xp6eb9cWtSN84HjliHcOI1GIFvankmUCy5w/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5167901249634304/"
+        },
+        {
+          "title": "CUPS Filters: Converting Filters to Filter Functions",
+          "short_description": "CUPS-Filters provide the filters which CUPS needs to convert job data from the input data to the printer's native language. Filters enable a user to...",
+          "student_name": "Pratyush Ranjan",
+          "code_url": "https://pranjanpr.github.io/pratyush/#/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5205259948916736/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-linux-foundation/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Flutter based application that reads and displays CAN data through kuksa.val",
+          "short_description": "AGL is working to get all car manufacturers to use Linux for dashboards and clusters. Currently, many companies use QT5, which is not very compatible...",
+          "student_name": "hritik chouhan",
+          "code_url": "https://gist.github.com/hritik-chouhan/ab81be0d05e18f0240ebe2708d9961e8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eV1CKYPp/"
+        },
+        {
+          "title": "Arduino module based on Zephyr",
+          "short_description": "The project idea is to create a Zephyr module that leverages the Arduino Core so that a developer can use Zephyr as the underlying OS when they use...",
+          "student_name": "Dhruva Gole",
+          "code_url": "https://dhruvag2000.github.io/Blog-GSoC22/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CLdtJiEB/"
+        },
+        {
+          "title": "Create new printer setup tool for the GNOME Control Center",
+          "short_description": "A lot of users expect that if they plug in a USB printer that it is immediately available for use, without need to set it up. It is, therefore,...",
+          "student_name": "thealgosniper",
+          "code_url": "https://github.com/7shivamx/Google-Summer-of-Code-2022-The-Linux-Foundation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dtBfKb8w/"
+        },
+        {
+          "title": "Apache Thrift Module for Zephyr",
+          "short_description": "Thrift for Zephyr Module aims to support the mature Remote Procedure Call (RPC) framework Apache Thrift on the Zephyr operating system (OS). This...",
+          "student_name": "Young",
+          "code_url": "https://sdtelectronics.github.io/programming/2022/09/01/Review-of-My-GSoC-2022-Project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/k7Be74Yb/"
+        },
+        {
+          "title": "Scanning Support in PAPPL with eSCL Support",
+          "short_description": "Our task here is to build an eSCL scan interface to the programme so that it can imitate an eSCL scanner. The most prevalent communication protocol...",
+          "student_name": "Rishabh Maheshwari",
+          "code_url": "https://gist.github.com/Rishabh-792/b1a2960b7e0e3d2bd3a5f4db3d260fc0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FUiR9Rqb/"
+        },
+        {
+          "title": "Adding CPDB support to existing Print Dialogs",
+          "short_description": "Print Dialogs are one of the most used features for many people, and it is important that they stay up to date with the current print technologies...",
+          "student_name": "Gaurav Guleria",
+          "code_url": "https://github.com/TinyTrebuchet/gsoc22/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/E9I1qBEq/"
+        },
+        {
+          "title": "Official Release  of Open-source Uptane Server (\u201cOTA Community Edition\u201d)",
+          "short_description": "It\u2019s no longer easy for an individual developer to make use of Uptane, be it for an early-stage automotive project using Automotive Grade Linux or...",
+          "student_name": "dxxepxxth",
+          "code_url": "https://gist.github.com/d80ep08th/d72f7e44efbee62cda83b7fc1a0c5a98",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0qIdlcTq/"
+        },
+        {
+          "title": "converting Braille embosser support into a printer application",
+          "short_description": "Cups-filters presently supports Braille embossers through a set of PPD files and shell scripts that transform documents into a textual layout, the...",
+          "student_name": "Chandresh Soni",
+          "code_url": "https://gist.github.com/Chandresh2702/73923b2c686039404cdd9b050edbe995",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TzT4v7Gr/"
+        },
+        {
+          "title": "Lore interface for kw",
+          "short_description": "KWorkflow (kw) is a tool that aims to unify and simplify the Linux kernel development proccess, to do this it offers a series of features that...",
+          "student_name": "rubensgn",
+          "code_url": "https://github.com/kworkflow/kworkflow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RE49fQ8O/"
+        },
+        {
+          "title": "Add Avahi calls for discovering and resolving driverless IPP printers and Optimize the processes",
+          "short_description": "The project aims to implement functions utilizing Avahi service discovery APIs and use them in libcupsfilter package. This implementation will...",
+          "student_name": "Sachin Thakan",
+          "code_url": "https://github.com/thakan25/gsoc22-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QGl65LJJ/"
+        },
+        {
+          "title": "GUI for discovering non-driverless printers and finding suitable Printer Applications for them",
+          "short_description": "Currently, most modern printers are driverless and support IPP printing and are set up automatically with CUPS. Printers that do not do driverless...",
+          "student_name": "Mohit  Verma",
+          "code_url": "https://github.com/vermamohit13/GSOC_2022_Summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rvZJiNWL/"
+        },
+        {
+          "title": "An Offline voice-agent for Automotive Grade Linux",
+          "short_description": "Automotive Grade Linux is a collaborative, open-source project for the purpose of building open source software based on Linux for automotive...",
+          "student_name": "Aman Arora",
+          "code_url": "https://aman-arora.space/gsoc_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vo7q5kbY/"
+        },
+        {
+          "title": "Write a flutter demo application demonstrating an Instrument Cluster.",
+          "short_description": "Automotive Grade Linux is a platform which is bringing together automakers to accelerate the development and adoption of a fully open software stack...",
+          "student_name": "Aakash Solanki",
+          "code_url": "https://gist.github.com/aakash-s45/6d398f233ec7704dff6fa6ad90d7001f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LMQx2tHw/"
+        },
+        {
+          "title": "Make Kworkflow Stronger: Legacy Bug Fix and New Distribution Support",
+          "short_description": "This project is related to two stages. Its aim is to make Kworkflow Stronger. The first stage is to fix bugs as many as possible and the next stage...",
+          "student_name": "lookas",
+          "code_url": "https://18kas.com/gsoc-2022-worklist",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VnGRDyv3/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-linux-foundation",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Overhauling Uptane.io: Creating a Better User Experience for the Uptane Project Website",
+          "short_description": "Uptane is an important project that provides secure software updates for connected vehicles, and it needs to offer a better experience to its users...",
+          "student_name": "Abhijay jain",
+          "code_url": "https://github.com/Abhijay007/Uptane-GSoC-Report/blob/main/GSoC-2023-Uptane-Final-Report.md",
+          "proposal_id": "uEhdUPhg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QDCxHcPz"
+        },
+        {
+          "title": "Sand-Boxed Scanner Application Framework",
+          "short_description": "The main purpose of the project is to enable driverless scanning or, in general, to create a Scanner Application Framework under PAPPL. This should...",
+          "student_name": "Akarshan Kapoor",
+          "code_url": "https://dev.to/kappuccino111/sandboxing-scanners-a-leap-into-the-driverless-realm-gsoc-23-report-3eci",
+          "proposal_id": "2s2BC9vy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UFP1WmKR"
+        },
+        {
+          "title": "Perf Data Converter",
+          "short_description": "Linux profiling tool a.k.a perf is the home for analyzing the entire system. It provides the support to analyze the stacks end to end leading from...",
+          "student_name": "Anup Sharma",
+          "code_url": "https://gist.github.com/TwilightTechie/94f6fc54413e7d88b751615ff280af17",
+          "proposal_id": "fdOh4M7f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OTLxQ6xy"
+        },
+        {
+          "title": "kworkflow: Implementing lore.kernel.org interface",
+          "short_description": "In the context of the kworkflow project that aims to simplify the Linux kernel development workflow and provide a unified experience to kernel...",
+          "student_name": "David de Barros Tadokoro",
+          "code_url": "https://davidbtadokoro.github.io/posts/gsoc23-final-report/",
+          "proposal_id": "8chtaRnA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eqFrXfAz"
+        },
+        {
+          "title": "HTTP Server Implementation",
+          "short_description": "This project is proposed because of the need for a fully-integrated HTTP server in Zephyr that can replace the deprecated CivetWeb module. The...",
+          "student_name": "Emna Rekik",
+          "code_url": "https://gist.github.com/Emna-Rekik/658bcd3efabc6961d48f800d58fe9161",
+          "proposal_id": "2uCjHEKT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2R4TPIET"
+        },
+        {
+          "title": "Adding support for the new functionality of IPP Everywhere 2.x to libcupsfilters and CPDB",
+          "short_description": "Printers are certified for version 1.1 IPP Everywhere at the moment. IPP Everywhere is about to release version 2. In version 2 To cover the newest...",
+          "student_name": "Gayatri Kapse",
+          "code_url": null,
+          "proposal_id": "ydDchy3s",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/r4Vv38cp"
+        },
+        {
+          "title": "OpenPrinting : CPDB support for application's print dialogs: Firefox, Chromium, LibreOffice",
+          "short_description": "Print Dialogs are one of the most used features for many people, and it is important that they stay up to date with the current print technologies...",
+          "student_name": "kushagra sharma",
+          "code_url": "https://github.com/kushagra20251/GSoC/",
+          "proposal_id": "YiHbAK0T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HAgvMsZB"
+        },
+        {
+          "title": "AGL @ Linux Foundation | GSoC 2023 | Enhance Speech Recognition",
+          "short_description": "Abstract: This project aims to enhance the speech recognition engine used in Automotive Grade Linux by creating a natural language intent engine that...",
+          "student_name": "Malik Talha Saeed",
+          "code_url": "https://blog.maliktalha.me/post/gsoc2023-final-report",
+          "proposal_id": "YJgS4jyL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/v0K55l17"
+        },
+        {
+          "title": "GNOME Control Center: List and handle IPP print services for the New Architecture",
+          "short_description": "Modern printers usually are driverless IPP printers, and those get discovered fully automatically by CUPS; no CUPS queue needs to be explicitly...",
+          "student_name": "Mohit  Verma",
+          "code_url": "https://github.com/vermamohit13/GSOC-2023",
+          "proposal_id": "0BuyEztx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1RcJRKse"
+        },
+        {
+          "title": "Continuous Integration: Test Programs for libcupsfilters, libpappl-retrofit, libppd, CPDB, CPDB Libs",
+          "short_description": "To protect a free software project worked on by several contributors against regressions caused by a committed change, one needs frequent, automated...",
+          "student_name": "Pratyush Ranjan",
+          "code_url": "https://github.com/pranjanpr/GSoC-23",
+          "proposal_id": "Oyj5LBza",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9Q3PCxCv"
+        },
+        {
+          "title": "Qt5 Application to Visualise/ Simulate CAN bus traffic using Kuksa.val",
+          "short_description": "The objective of this project is to develop a Qt5 application that will allow the end-users to emit signals using Kuksa.val to visualize and interact...",
+          "student_name": "Suchinton Chakravarty",
+          "code_url": "https://suchinton.github.io/articles/final-report/",
+          "proposal_id": "fw3oLSud",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4GykHUGj"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-linux-foundation/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Implement a GUI to Control Data for SOF Components",
+          "short_description": "While SOF has an incredibly robust and comprehensive back-end implementation, the ability for users and developers to access the features quickly and...",
+          "student_name": "alex.brown.3103",
+          "code_url": "https://github.com/thesofproject/sof/pull/9406",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/f0WflWlD/"
+        },
+        {
+          "title": "Enhance Speech Recognition Demo for AGL",
+          "short_description": "The goal of this project is to enhance the speech recognition demo in Automotive Grade Linux by integrating Whisper AI for improved accuracy and...",
+          "student_name": "Anuj Solanki",
+          "code_url": "https://medium.com/@anuj603362/gsoc-2024-with-the-linux-foundation-agl-ca863dc9a4fe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/twcGVqzT/"
+        },
+        {
+          "title": "IIO Driver: AD7294-2 ADC/DAC",
+          "short_description": "IIO (Industrial I/O) subsystem provides support for various sensors in the Linux kernel. It hosts drivers for a wide array of ADCs, accelerometers,...",
+          "student_name": "Anshul Dalal",
+          "code_url": "https://github.com/analogdevicesinc/linux/pull/2578",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WRrGoMYJ/"
+        },
+        {
+          "title": "perf trace and BTF",
+          "short_description": "Background: perf trace is similar to strace but much performant since it doesn't use ptrace. So it needs to capture and understand the format of...",
+          "student_name": "Howard Chu",
+          "code_url": "https://lore.kernel.org/linux-perf-users/CAH0uvohVui=31tMSD=J-qshtsKHg2__4c7XEQWWXa6Ycf0Umaw@mail.gmail.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZuHkbFmm/"
+        },
+        {
+          "title": "Replace QPDF by PDFio as PDF manipulation library in libcupsfilters",
+          "short_description": "This project focuses on standardization of the libcupsfilters code into C. As the libcupsfilters library is principally written in regular C and not...",
+          "student_name": "UddhavPhatak",
+          "code_url": "https://medium.com/@uddhavphatak/gsoc-2024-final-report-the-refactor-report-a46756e9d6ce",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/UztKr6k8/"
+        },
+        {
+          "title": "Integration Tests for Kworkflow",
+          "short_description": "Currently, kworkflow has unit tests to validate functionalities, in addition to some basic integration tests, but the latter are not as robust as the...",
+          "student_name": "aquilamacedo",
+          "code_url": "https://aquilamacedo.github.io/gsoc/2024/08/23/final-report-for-google-summer-of-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/znuvIhrV/"
+        },
+        {
+          "title": "Extend AGL's Demo Control Panel",
+          "short_description": "This project aims to extend the features of AGL's Demo Control Panel by \u25cf Porting the app from Qt5 to Qt6 \u25cf Adding file playback capability (eg....",
+          "student_name": "Suchinton Chakravarty",
+          "code_url": "https://suchinton.github.io/articles/gsoc24/gsoc2024-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WxbmtPoG/"
+        },
+        {
+          "title": "Building support for an A/B partition scheme-based update for Uptane Client",
+          "short_description": "Aktualizr is an Uptane client written in C++, targeting embedded Linux systems. Aktualizr combines two important areas of functionality: implementing...",
+          "student_name": "Shivam Singhal",
+          "code_url": "https://github.com/singhals163/gsoc-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8r2exO5W/"
+        },
+        {
+          "title": "Desktop integration: CPDB support for the print dialogs of Mozilla",
+          "short_description": "The print dialogs of the major GUI toolkits, GTK, Qt, got CPDB support added in GSoC 2022, but several applications come with their own creation of a...",
+          "student_name": "KushagraSharma",
+          "code_url": "https://github.com/kushagra20251/GSoC24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Ul9pUEe8/"
+        },
+        {
+          "title": "Desktop Integration: Update system-config-printer for the New Architecture of printing.",
+          "short_description": "For switching distributions into the New Architecture, meaning from CUPS 2.x to CUPS 3.x, the printer setup tool needs to get appropriately adapted,...",
+          "student_name": "Shivam Jaiswal",
+          "code_url": "https://github.com/TheJayas/GSoC-2024-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YPJmdFLp/"
+        },
+        {
+          "title": "Converting Braille embosser support into a Printer Application",
+          "short_description": "This proposal addresses the outdated support for Braille embossers in printing systems, which currently relies on shell scripts and PPD files. To...",
+          "student_name": "ArunPatwa",
+          "code_url": "https://docs.google.com/document/d/1ZUQV_Qha9f14ceZc6mW39i3RZfWGu6HGPGcXsz3dKUE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rFeTbCUA/"
+        },
+        {
+          "title": "Desktop integration: CPDB support for the LibreOffice print dialog",
+          "short_description": "Print Dialogs are vital components for many users, facilitating their printing tasks efficiently. It's crucial that these dialogs remain updated with...",
+          "student_name": "Biswadeep Purkayastha",
+          "code_url": "https://medium.com/@bpdps95/providing-cpdb-support-for-the-libreoffice-print-dialog-my-gsoc-journey-e46f72d5a61c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7Y7YYa2G/"
+        },
+        {
+          "title": "Make a native printer Application from Gutenprint",
+          "short_description": "Abstract - Gutenprint is a high-quality printer driver for a wide range of inkjets, especially Epson and Canon, dye-sublimation printers and even...",
+          "student_name": "Ankit Pal Singh",
+          "code_url": "https://docs.google.com/document/d/1BkjO4FAIIyeQCJV_1qkUsx9pG2DD1HqgrsoL0MuYG3A/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/INz0i1dl/"
+        },
+        {
+          "title": "Packaging CUPS and Printer Apps into OCI images",
+          "short_description": "The project focuses on packaging the Common Unix Printing System (CUPS) and Printer Apps into OCI (Open Container Initiative) images using Rockcraft....",
+          "student_name": "Rudra Pratap Singh",
+          "code_url": "https://medium.com/@rudransh.iitm/gsoc-2024-final-report-container-chronicles-759fe7f23ac6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RTfTiMia/"
+        },
+        {
+          "title": "GNOME Control Center: Finalizing the New Printing Architecture for GNOME",
+          "short_description": "The latest CUPS 3.x versions exclusively support driverless printing through the new IPP everywhere architecture. Modern printers now predominantly...",
+          "student_name": "Kaushik Vishwakarma",
+          "code_url": "https://medium.com/@kaushik.vishwakarma2003/gsoc-2024-thelinuxfoundation-journey-07e24d7e9be9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xa58gHA4/"
+        },
+        {
+          "title": "Integrating C-based OpenPrinting Projects in OSS-Fuzz Testing",
+          "short_description": "This proposal targets enhancing the security of OpenPrinting projects, which are foundational to printing software yet vulnerable due to their...",
+          "student_name": "ttfish",
+          "code_url": "https://github.com/OpenPrinting/fuzzing/wiki/Integrating-C%E2%80%90based-OpenPrinting-Projects-in-OSS%E2%80%90Fuzz-Testing-(GSoC-2024)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QX4kRWZO/"
+        },
+        {
+          "title": "PAPPL API Bridging for Scanner Applications",
+          "short_description": "The PAPPL API Bridging for Scanner Applications project aims to extend the functionality of PAPPL by integrating the comprehensive scanner API....",
+          "student_name": "Akarshan Kapoor",
+          "code_url": "https://dev.to/kappuccino111/pappl-scan-api-bridging-gsoc-2024-project-report-2hoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6TrwzA5Q/"
+        },
+        {
+          "title": "Device tree bindings: Convert device tree bindings to DT schema",
+          "short_description": "A Device Tree (DT) is a data structure used to describe non-discoverable hardware to the OS or bootloader. It is written in a device tree source...",
+          "student_name": "Animesh Agarwal",
+          "code_url": "https://animeshagarwal28.github.io/2024/08/17/blog5.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/n6hlc8cT/"
+        },
+        {
+          "title": "Implementing kw self-owned CI server infrastructure",
+          "short_description": "The kworkflow project has a GitHub Actions hosted CI pipeline that restricts testing possibilities for core kworkflow features, such as kw deploy,...",
+          "student_name": "MarceloSpessoto",
+          "code_url": "https://marcelospessoto.github.io/final-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dtZ1xm2i/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-linux-foundation",
+      "num_projects": 21,
+      "projects": [
+        {
+          "title": "IIO Driver for ADE9113",
+          "short_description": "Create a Linux IIO driver for Analog Devices, Inc.'s ADE9113 Isolated, Sigma-Delta Analog to Digital Converter. Upstream the driver and associated...",
+          "student_name": "abhinjai",
+          "code_url": null,
+          "proposal_id": "00st6oF2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ENS6gMck"
+        },
+        {
+          "title": "App Store: A Secure, User-Friendly Application Platform for Embedded Linux IVI Systems",
+          "short_description": "Problem: Embedded Linux systems, particularly for In-Vehicle Infotainment (IVI), lack a user-friendly, secure application store that matches the...",
+          "student_name": "Ahmed Wafdy",
+          "code_url": null,
+          "proposal_id": "Aclo9V7e",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/l9ir7nwf"
+        },
+        {
+          "title": "Intelligent Camera Stream Integration and Warning System (ICSW)",
+          "short_description": "The proposed implementation is planned to include building the camera-based warning system, starting from the low-level driver implementation,...",
+          "student_name": "Amr Elkenawy",
+          "code_url": null,
+          "proposal_id": "O8NEwg2T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YUBlZH0X"
+        },
+        {
+          "title": "Conformance Checker for SPDX AI SBOM",
+          "short_description": "Adding support of a new file format (SPDX 3.0) and a new compliance standard (EU Artificial Intelligence Act) for SPDX SBOM Conformance Checker. This...",
+          "student_name": "Arthit Suriyawongkul",
+          "code_url": null,
+          "proposal_id": "sxDdYkC1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CeR3hQTq"
+        },
+        {
+          "title": "Porting Printing to Zephyr",
+          "short_description": "Current driverless print servers can be complex and resource-demanding in large part since they only run on full-scale operating systems like Linux....",
+          "student_name": "Hubert Guan",
+          "code_url": null,
+          "proposal_id": "XISI8NDP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/f9CKDFJW"
+        },
+        {
+          "title": "Stabilizing and extending patch-hub for a v1.0.0 release",
+          "short_description": "patch-hub, a sub-project of kw, diverged from its parent around July 2024 to accommodate a broader scope. Since then, it has introduced several...",
+          "student_name": "Ivin Joel Abraham",
+          "code_url": null,
+          "proposal_id": "TY8PMQVS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tPajUL8q"
+        },
+        {
+          "title": "GNOME Control Center: Finalizing the New Printing Architecture for GNOME",
+          "short_description": "The latest CUPS 3.x versions support only driverless printing through the new IPP Everywhere architecture. Modern printers predominantly use...",
+          "student_name": "Kaushik Vishwakarma",
+          "code_url": null,
+          "proposal_id": "plJCX1VX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PTiuC47E"
+        },
+        {
+          "title": "Google Summer of Code 2025: IIO Driver",
+          "short_description": "I am going to write the code for the ADE9113 IIO Driver and the related device tree documentation. I will also provide a comprehensive tutorial...",
+          "student_name": "Marilene Andrade Garcia",
+          "code_url": null,
+          "proposal_id": "EfFmziR2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/c9zg3p6z"
+        },
+        {
+          "title": "Rust bindings for libcups2/3",
+          "short_description": "This project will create comprehensive Rust bindings and idiomatic wrappers for CUPS (Common UNIX Printing System), enabling Rust applications to...",
+          "student_name": "Mintu Gogoi",
+          "code_url": null,
+          "proposal_id": "XEbBOcnd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Vxc0sLQU"
+        },
+        {
+          "title": "Integrating OSS-Fuzz for Go-Based and Python-Based OpenPrinting Projects",
+          "short_description": "The OpenPrinting ecosystem includes several utilities for driverless printing, protocol implementation, and printer management, including projects...",
+          "student_name": "Mohammed Imaduddin",
+          "code_url": null,
+          "proposal_id": "UMRGLJDt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rBWHXaha"
+        },
+        {
+          "title": "Modernize OpenPrinting Website with Next.js",
+          "short_description": "The OpenPrinting website is an essential platform for Linux printing resources. The current system lacks modern UI enhancements and optimized SEO....",
+          "student_name": "Rudra Pratap Singh",
+          "code_url": null,
+          "proposal_id": "enfDa5bz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YEV4FNMy"
+        },
+        {
+          "title": "Automotive Grade Linux (AGL) - meta-ros",
+          "short_description": "The integration of the Robot Operating System (ROS) Framework as an option within Automotive Grade Linux (AGL) through the meta-ros yocto layer is an...",
+          "student_name": "Saalim Quadri",
+          "code_url": null,
+          "proposal_id": "DXTLvuuQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OwFx8eRG"
+        },
+        {
+          "title": "OpenPrinting Image Output Verification Framework",
+          "short_description": "Currently, OpenPrinting's testing only looks for errors or crashes; it does not automatically verify the content of print or scan output. This...",
+          "student_name": "Sanskar2303",
+          "code_url": null,
+          "proposal_id": "Gh20a21n",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aFApa0Ws"
+        },
+        {
+          "title": "Porting pyCUPS to CUPS 3.x API and implementing it in system config printer",
+          "short_description": "Currently, PyCups support upto libcups 2.4.x. PyCups being written using the C extensions for Python, is very tough to maintain, and to implement new...",
+          "student_name": "Soumyadeep Ghosh",
+          "code_url": null,
+          "proposal_id": "FFe0juMO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/S3e2JPY8"
+        },
+        {
+          "title": "Enhancing the Functionality of spdx-license-diff",
+          "short_description": "The spdx-license-diff browser extension compares selected text on a webpage against the SPDX License List, showing the best matching license and a...",
+          "student_name": "Sujal Bhor",
+          "code_url": null,
+          "proposal_id": "uuMOkRgQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TwtGeZ4X"
+        },
+        {
+          "title": "Add Virtual DAI component to SOF",
+          "short_description": "The project aims to implement a Virtual Digital Audio Interface (DAI) for the Sound Open Firmware (SOF) to facilitate debugging, rapid prototyping....",
+          "student_name": "Suraj Sonawane",
+          "code_url": null,
+          "proposal_id": "zPRSobBO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hf59vme1"
+        },
+        {
+          "title": "KDE Print Manager vs. CUPS 3.x",
+          "short_description": "The KDE Print Manager, a critical component of the KDE desktop environment, requires updates to support the advancements introduced in CUPS 3.x. This...",
+          "student_name": "Tarun Srivastava",
+          "code_url": null,
+          "proposal_id": "EpyQ1IBd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VON8sRJK"
+        },
+        {
+          "title": "Running Open-Source ML Models on HiFi4 DSP with Zephyr RTOS",
+          "short_description": "This proposal tackles the challenge of efficiently running machine learning models on resource-constrained HiFi4 DSPs using Zephyr RTOS. The approach...",
+          "student_name": "Thong Phan",
+          "code_url": null,
+          "proposal_id": "uEhFiiRa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/L81rDpY3"
+        },
+        {
+          "title": "Rust bindings for cpdb-libs",
+          "short_description": "The Common Print Dialog Backends (cpdb-libs) library from OpenPrinting serves as a bridge between application print dialogs (like GTK, Qt,...",
+          "student_name": "Titiksha Bansal",
+          "code_url": null,
+          "proposal_id": "mycHYbkB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Z88JfqZq"
+        },
+        {
+          "title": "GTK Print Dialog: Modern dialog with built-in preview in main view",
+          "short_description": "We are trying to solve the problem of print dialogs in the gtk. The actual gtk contains a very simplistic approach regarding the print dialogs which...",
+          "student_name": "VididVidid",
+          "code_url": null,
+          "proposal_id": "PjWBTOfH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HcP5bOK2"
+        },
+        {
+          "title": "Utilizing OSS-Fuzz-Gen to Improve Fuzz Testing  for OpenPrinting Projects",
+          "short_description": "This project aims to improve fuzz testing for OpenPrinting\u2019s C/C++ codebases by leveraging OSS-Fuzz-Gen, a new framework that uses Large Language...",
+          "student_name": "Zixuan Liu",
+          "code_url": null,
+          "proposal_id": "2uy1aOmj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gRbcUkWB"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.linuxfoundation.org/gsoc/google-summer-code-2025#contact_us",
+  "contact_email": "mailto:till@linux.com",
+  "mailing_list": "https://wiki.linuxfoundation.org/gsoc/google-summer-code-2025#contact_us",
+  "ideas_url": "https://wiki.linuxfoundation.org/gsoc/google-summer-code-2025",
+  "guide_url": "https://wiki.linuxfoundation.org/gsoc/google-summer-code-2025",
+  "twitter_url": "https://twitter.com/Open_Printing",
+  "blog_url": "https://linuxfoundation.org/blog/"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Moodle",
+  "url": "https://moodle.org/",
+  "image_url": "https://lh3.googleusercontent.com/tVi2arz1wSGuftyHK1NkpIeie1tbz3lNTJxiHXS0TldjWfgCP95-JTckc-DW-7Uh0j3mRGJf_vDpf36dgFiwIlg3y5bhBXfp",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "education",
+    "web applications",
+    "e-learning",
+    "learning management",
+    "school systems",
+    "web application",
+    "school system"
+  ],
+  "technologies": [
+    "mysql",
+    "postgresql",
+    "javascript",
+    "php",
+    "jquery",
+    "sql",
+    "angular",
+    "ionic"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4769741570834432/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Image Resize/Crop/Rotate Proposal.",
+          "short_description": "The following is my proposal to the \u201cAbility to crop/resize/rotate an image in atto\u201d project for GSOC. This proposal comes with an already highly...",
+          "student_name": "JoeyAndres",
+          "code_url": "https://tracker.moodle.org/browse/MDL-44239",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5743497629925376/"
+        },
+        {
+          "title": "Add support to end-to-end testing in the Mobile app",
+          "short_description": "The main objective of this particular GSoC project is add more tests to the app( MOBILE-1179) and document the set-up process in the Moodle...",
+          "student_name": "Supun Wanniarachchi",
+          "code_url": "http://blog.supun.me/2016/08/19/gsoc-2016-final-protractor-test-implementation-documentation-moodle-mobile-app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5876476796731392/"
+        },
+        {
+          "title": "Adding search to more moodle components",
+          "short_description": "The project aims to extend the scope of Moodle's GlobalSearch to more moodle components. The GlobalSearch feature enables the user to search faster...",
+          "student_name": "Devang Gaur",
+          "code_url": "https://tracker.moodle.org/browse/MDL-55538",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6322447678701568/"
+        },
+        {
+          "title": "tool_pluginkenobi: Your guide to plugin creation",
+          "short_description": "To make sharing code among users easier, Moodle has created the Moodle plugins directory, where users can download and install a wide variety of...",
+          "student_name": "Alexandru Elisei",
+          "code_url": "https://github.com/mudrd8mz/moodle-tool_pluginskel/commits/master?author=alexandru-elisei",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5191232481394688/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5171600185884672/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve End-to-End Testing in the Mobile App",
+          "short_description": "The project aims to enable the Moodle Mobile App with fully automated End-to-End testing capabilities with SauceLabs and Travis CI using latest...",
+          "student_name": "Diwakar Moturu",
+          "code_url": "https://github.com/moodlehq/moodlemobile2/pull/1126",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5514133491417088/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5904449381859328/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5681434444955648/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adding multi-class classification to machine learning backend",
+          "short_description": "Adding multi-class classification to the Moodle machine learning backend by exposing functionality derived from python Tensorflow and the phpml...",
+          "student_name": "Vlad Apetrei",
+          "code_url": "https://gist.github.com/valadhi/992b808005a2cf7b7988276aa1533c92",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5688027890843648/"
+        },
+        {
+          "title": "Attendance password rotation/expiry",
+          "short_description": "The attendance plugin provides the ability for teachers to display a QR code to allow students to take their own attendance, the QR code is currently...",
+          "student_name": "Mohammed Rahman",
+          "code_url": "https://gist.github.com/maksudr/61cabe45df7316e7eca3c825a0cf4299",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5176443934343168/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://telegram.me/moodledev",
+  "contact_email": "mailto:support@moodle.org",
+  "mailing_list": "https://docs.moodle.org/dev/Moodle_dev_mailing_list",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/@moodle",
+  "blog_url": "https://moodle.com/news/"
+}

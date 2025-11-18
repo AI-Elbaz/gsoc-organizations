@@ -1,0 +1,154 @@
+{
+  "name": "Scilab",
+  "url": "https://www.scilab.org",
+  "image_url": "https://lh3.googleusercontent.com/lIs5ySAf3RTl47fydovwKV_c6iXAVC9iSG_tuhDg_uq7EWYQCwqKasW3EF7C4xM8SCm8Q7KNpmrkoYHb0FkCZPxfrFUXL8w",
+  "image_background_color": "#092F4D",
+  "category": "End user applications",
+  "topics": [
+    "engineering",
+    "graphics",
+    "vision",
+    "user interface",
+    "mechanics",
+    "programming language",
+    "numerical computing",
+    "scientific visualization",
+    "mathematics",
+    "science",
+    "numerical computation"
+  ],
+  "technologies": [
+    "c",
+    "java",
+    "c++",
+    "fortran",
+    "scilab",
+    "python",
+    "opengl"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5960176045654016/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Native Scilab Kernel for Jupyter",
+          "short_description": "Jupyter project provides a way to perform scientific/mathematical computations with several different programming languages using the same user...",
+          "student_name": "leonardojc",
+          "code_url": "http://bitiquinho.github.io/2016-08-18-notebook/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6165785793789952/"
+        },
+        {
+          "title": "Xcos Automatic Layout II",
+          "short_description": "Xcos is a great tool for modeling and simulation. However, as the number of the blocks increases, an Xcos schema can become quickly messy.\nThis idea...",
+          "student_name": "sampig",
+          "code_url": "https://wiki.scilab.org/GSoC2016_ChenfengZHU",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4710427267170304/"
+        },
+        {
+          "title": "Improving UI-Elements",
+          "short_description": "Scilab being a software used worldwide, needs to focus on how its users (potential developers) interact with Scilab and how comfortable they are with...",
+          "student_name": "Rishubh Jain",
+          "code_url": "http://batcode17.blogspot.in/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4823522614444032/"
+        },
+        {
+          "title": "Memory Safety",
+          "short_description": "The main objective of this project is to reduce the memory errors faced by the Scilab code-base and ensure memory safety.",
+          "student_name": "Dhruv Khattar",
+          "code_url": "https://codereview.scilab.org/#/q/owner:dhruv%2540khattarindia.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5994243994681344/"
+        },
+        {
+          "title": "General Graphics Improvements",
+          "short_description": "This project aims to polish the current graphics features of Scilab such as zooming, datatips and interactive curve edition through plotting.\nUsually...",
+          "student_name": "Caio Souza",
+          "code_url": "https://wiki.scilab.org/GSoC_2016_Caio_SOUZA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5180804300800000/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6603475844595712/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "OpenModelica Integration",
+          "short_description": "Modelica is an object-oriented and declarative language specification for description/modeling of dynamic systems (mechanical, electrical, thermal,...",
+          "student_name": "Leonardo Jos\u00e9 Consoni",
+          "code_url": "http://bitiquinho.github.io/2017-08-24-almost_there/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6706348901269504/"
+        },
+        {
+          "title": "OpenFOAM",
+          "short_description": "The main objective of this project is to connect OpenFOAM solver to Scilab. This will give the user a better interface to use computational fluid...",
+          "student_name": "Aashay Singhal",
+          "code_url": "https://github.com/aashay201297/OpenFOAM-toolbox/tree/1.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4720873164505088/"
+        },
+        {
+          "title": "Xcos Profiler",
+          "short_description": "Since Scilab is an open source, various practitioners use it to simulate real-time applications and systems. However, Simulation cannot be achieved...",
+          "student_name": "Rui Shi",
+          "code_url": "https://github.com/Rui517/do_profile_superblock42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6069519202123776/"
+        },
+        {
+          "title": "Machine Learning features in Scilab",
+          "short_description": "Machine learning has been implemented in all major software languages( C++, Java, Python, MATLAB) , with each having their individual set of...",
+          "student_name": "Mandar Deshpande",
+          "code_url": "https://github.com/mandroid6/machine-learning-Toolbox-SCILAB",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4877103942074368/"
+        },
+        {
+          "title": "Matlab MEX-Files management",
+          "short_description": "The main aim of this project is to provide a wrapper of Matlab MEX-Files headers on the current API Scilab. By using the MEX-Files wrapper the...",
+          "student_name": "Siddhartha Gairola",
+          "code_url": "https://wiki.scilab.org/siddhartha.gairola18%40gmail.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4882600426471424/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4786317862895616/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Working Demo with Usage Docs for the Mex Module",
+          "short_description": "The aim of this project is to write a working Demo for the Matlab Mex modules present in Scilab. The Matlab MEX-Files is an API which is a wrapper on...",
+          "student_name": "Siddhartha Gairola",
+          "code_url": "https://wiki.scilab.org/Working%20Demo%20with%20Usage%20Docs%20for%20the%20Mex%20Module",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4984602812743680/"
+        },
+        {
+          "title": "MacOS 10.13 signed app",
+          "short_description": "A proposal for MacOS signed applications with basically three agendas:\n\nTo write a script that installs all the third party automatically, in short...",
+          "student_name": "Divyanshu Kumar",
+          "code_url": "https://dvkcool.github.io/gsoc-2018/blog/FinalProjectReport.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5113954611232768/"
+        },
+        {
+          "title": "Machine learning features in Scilab : An autobiography",
+          "short_description": "The project aims to enhance machine learning features in SCILAB, for SCILAB and by SCILAB. The main concentration would be to integrate deep learning...",
+          "student_name": "Soumitra Agarwal",
+          "code_url": "https://soumitraagarwal.github.io/Scilab-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5243621217402880/"
+        },
+        {
+          "title": "Code Quality",
+          "short_description": "The aim of this project is to improve the code quality of Scilab with the help of various Static Analysis Tools like Scan Coverity(Java and C/C++),...",
+          "student_name": "Nimish Kapoor",
+          "code_url": "https://wiki.scilab.org/Nimish%20Kapoor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6122154563207168/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.scilab.org/resources/user_community/irc",
+  "contact_email": "mailto:gsoc@lists.scilab.org",
+  "mailing_list": "http://www.scilab.org/en/development/ml",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/scilab",
+  "blog_url": "https://www.scilab.org/community/news"
+}

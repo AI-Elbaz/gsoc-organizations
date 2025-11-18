@@ -1,0 +1,126 @@
+{
+  "name": "GNU Image Manipulation Program",
+  "url": "https://www.gimp.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnu-image-manipulation-program/n73ytwpnna15tra2-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "graphics",
+    "design",
+    "photography",
+    "illustration"
+  ],
+  "technologies": [
+    "c",
+    "GEGL"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gnu-image-manipulation-program/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Implement basic CMYK support in GIMP",
+          "short_description": "One of the most requested features for GIMP is support for CMYK and desktop publishing - there's even an FAQ entry on their site specifically for it!...",
+          "student_name": "cmyk-student",
+          "code_url": "https://cmykstudent.blogspot.com/2022/09/google-summer-of-code-2022-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/x9DLkUcC/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gnu-image-manipulation-program",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implement Initial Non-Destructive Editing Workflow in GIMP",
+          "short_description": "GIMP utilizes a Destructive Editing workflow \u2013 all changes are made directly to the image itself. A much requested feature is Non-Destructive Editing...",
+          "student_name": "cmyk-student",
+          "code_url": "https://gimp-nde-gsoc-2023.blogspot.com/2023/08/record-of-work-done-on-nde.html",
+          "proposal_id": "dutevTyw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CuwyAr75"
+        },
+        {
+          "title": "Improving the Text Tool",
+          "short_description": "GIMP is a high end photo editor, but its text tool is rudimentary. A lot could be done to improve it, UI/UX-wise and feature-wise. I plan on...",
+          "student_name": "Idriss Fekir",
+          "code_url": "https://gitlab.gnome.org/GNOME/gimp/-/merge_requests?scope=all&state=all&author_username=user062&label_name=9.%20GSoC&deployed_before=2.99.18",
+          "proposal_id": "scgfZ5yQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/l07oaC3k"
+        },
+        {
+          "title": "Auto-growing layers",
+          "short_description": "GNU Image Manipulation Program, or GIMP in short, is one of the most popular image editing programs that is Free and Open Source. But currently, the...",
+          "student_name": "sbdaule5",
+          "code_url": "https://gitlab.gnome.org/GNOME/gimp/-/merge_requests/961",
+          "proposal_id": "UPCU0RhS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6mh7rn5o"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gnu-image-manipulation-program/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving the Text-Tool (cont'd)",
+          "short_description": "Continuing last year\u2019s GSOC work done on the text-tool, This project aims at bringing OpenType features support to GIMP, and also improve Font...",
+          "student_name": "Idriss Fekir",
+          "code_url": "https://gitlab.com/user062/text-layout-experiment",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hSGxzFxr/"
+        },
+        {
+          "title": "Porting from GtkTreeView to a new GimpTreeView",
+          "short_description": "Currently GIMP uses the complicated GtkTreeView from GTK3. My job is to create a new GimpTreeView widget which moves away from GtkTreeView as it will...",
+          "student_name": "Cheesequake",
+          "code_url": "https://gist.github.com/cheesequake/c5381fca202b5a60e5eab9b8d085b63f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PanhUm2r/"
+        },
+        {
+          "title": "Robust OpenCL Operations",
+          "short_description": "The massively parallel nature of many real-world computations has led to the development of specialized massively parallel hardware such as GPUs,...",
+          "student_name": "Varun Samaga B L",
+          "code_url": "https://gist.github.com/VarunSamaga/8de8def82d154f141649a1ffcf43bfd3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NmrndTt8/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gnu-image-manipulation-program",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Desing and Implementation of a GEGL Filter Browser for GIMP",
+          "short_description": "This project aims to create a GEGL filter browser for GIMP, improving the user experience by providing an easy-to-use interface to explore and apply...",
+          "student_name": "Gabriele Barbero",
+          "code_url": null,
+          "proposal_id": "QtwLDkrm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bHqrCiaR"
+        },
+        {
+          "title": "Enhance the plug-in/filter development experience",
+          "short_description": "The new 3.0 release of GIMP introduced many API changes that require all third-party plugins to be updated. Notably, a new filter API for using GEGL...",
+          "student_name": "Ond\u0159ej M\u00edchal",
+          "code_url": null,
+          "proposal_id": "w5EXEZJQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VQ0jE58o"
+        },
+        {
+          "title": "Extension website",
+          "short_description": "This proposal outlines a comprehensive plan to develop a new website for GIMP's extension platform. The project will focus on creating a primarily...",
+          "student_name": "SamIsTheFBI",
+          "code_url": null,
+          "proposal_id": "5H82Ouyy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4I53AOAO"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.gimp.org/discuss.html#irc-matrix",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://developer.gimp.org/core/internship/ideas/",
+  "guide_url": "https://developer.gimp.org/core/internship/",
+  "twitter_url": "https://twitter.com/GIMP_Official",
+  "blog_url": "https://www.gimp.org/news/"
+}

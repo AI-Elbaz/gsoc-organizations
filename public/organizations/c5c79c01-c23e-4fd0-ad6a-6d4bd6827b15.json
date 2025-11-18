@@ -1,0 +1,52 @@
+{
+  "name": "McGill Space Institute",
+  "url": "http://msi.mcgill.ca",
+  "image_url": "https://lh3.googleusercontent.com/xYPOD3cQUrdMoAZDukxGEtyUuRyMYYKE0H1z4XCbDn_0RrwcYdD2MtIBjJilqquJF4mT26vbo74tJB5gmEuEqFnAEbI0_MU",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "astronomy",
+    "space"
+  ],
+  "technologies": [
+    "python",
+    "sql",
+    "big data",
+    "databases"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4739150934704128/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Coders of Habitability",
+          "short_description": "To code up a Python open source data reduction pipeline for space-based infrared observations. The goal of this project is to reduce images from the...",
+          "student_name": "popeye",
+          "code_url": "https://docs.google.com/document/d/1A_k3HauPRCvzfQME1XpiDP7tZpY_ReYrlFzRY5r2gL4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5578260574371840/"
+        },
+        {
+          "title": "Open-Source Coding of Models of Microbial S-isotope Fractionation: Exploring Transdisciplinary Scientific Collaboration",
+          "short_description": "Transparency in conceptualizing, creating, and circulating a model is respected within the scientific community; however, open sharing of these has...",
+          "student_name": "jysi",
+          "code_url": "http://suigeneris.shinyapps.io/app_test/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4634261122449408/"
+        },
+        {
+          "title": "Lightcurve modelling with Icarus",
+          "short_description": "Icarus is an open source tool used for light curve synthesis. The aim of the project is to add more functionalities to Icarus.",
+          "student_name": "Akshay Narasimha",
+          "code_url": "https://github.com/akshayah3/XRbinary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4818299128905728/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:kelly.lepo@mcgill.ca",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/McGillMSI"
+}

@@ -1,0 +1,301 @@
+{
+  "name": "OpenVINO Toolkit",
+  "url": "https://docs.openvino.ai/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Development tools",
+  "topics": [
+    "deep learning",
+    "Neural networks",
+    "Edge AI",
+    "DL-inference",
+    "machine learning",
+    "ai",
+    "neural network",
+    "inference",
+    "gen ai"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "x86",
+    "arm"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/openvino-toolkit/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "3D Jupyter Notebooks and WebGL Integration for OpenVINO",
+          "short_description": "We usually need visualization, in fact, to enhance the interpretability of data or results, and facilitate the understanding of developers and users....",
+          "student_name": "Ran Piao",
+          "code_url": "https://gist.github.com/spencergotowork/4877de7aa989a7e737bb699f19249e74",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/swrwomsh/"
+        },
+        {
+          "title": "Object Detection demo application to run AI on ARM-based Android devices",
+          "short_description": "The openvino_contrib contains The ARM CPU Plugin project, which provides support for ARM CPUs, and Java Wrappers access The underlying infering...",
+          "student_name": "Bo Lv",
+          "code_url": "https://github.com/openvinotoolkit/openvino_contrib/pull/382",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3aCUzQEw/"
+        },
+        {
+          "title": "Train a DL model for synthetic data generation for model optimization",
+          "short_description": "The project is divided into two parts. The goal for the first part is to train a lightweight Deep Learning model to generate a dataset of synthetic...",
+          "student_name": "Athanasios Masouris",
+          "code_url": "https://gist.github.com/ThanosM97/04a88826a00d8930f89ab51b05944c79",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bCmHAPIL/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openvino-toolkit",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Industrial meter reading with OpenVINO",
+          "short_description": "The aim of the project is to read industrial meter with Deep Learning frameworks and OpenVINO .The project is divided into two parts. In the first...",
+          "student_name": "Ashish Bangwal",
+          "code_url": "https://gist.github.com/ashish-2005/36d27cf400ecd3468a5b6eb8434e59e5",
+          "proposal_id": "OXAgcmg0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3eKcuFkd"
+        },
+        {
+          "title": "Add ensembling methods for tiling to Anomalib",
+          "short_description": "When tackling the challenge of detecting defects in high-resolution images, we encounter many challenges. One significant problem is the difficulty...",
+          "student_name": "Bla\u017e Rolih",
+          "code_url": "https://gist.github.com/blaz-r/cfaa95ff33708635fefade1d12b7a8a7",
+          "proposal_id": "ckSTs5zo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WUSjdxGl"
+        },
+        {
+          "title": "Anomaly Segmentation Metrics for anomalib",
+          "short_description": "This project proposes novel evaluation metrics for anomaly segmentation in computer vision, taking into account pixel-level and spatial information....",
+          "student_name": "Joao P C Bertoldo",
+          "code_url": "https://gist.github.com/jpcbertoldo/12553b7eaa97cfbf3e55bfd7d1cafe88",
+          "proposal_id": "YkU9PckZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SPMopugd"
+        },
+        {
+          "title": "Add OpenVINO support to John Snow Labs Spark NLP",
+          "short_description": "Performance-focused, production-level machine learning libraries need to leverage the resources at their disposal to the maximum extent to deliver...",
+          "student_name": "Rajat Krishna",
+          "code_url": "https://github.com/rajatkrishna/google-summer-of-code/tree/main",
+          "proposal_id": "a9RuYEwo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4YM6Dr1f"
+        },
+        {
+          "title": "Showcase performance of PyTorch Image Models (Timm) with OpenVINO",
+          "short_description": "My proposal aims to optimize PyTorch Image Models (Timm) using OpenVINO and NNCF libraries. The problem at hand is that these models are...",
+          "student_name": "Sawradip Saha",
+          "code_url": "https://github.com/huggingface/optimum-intel/pull/404",
+          "proposal_id": "f4qZ41B2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WIZaWTq5"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/openvino-toolkit/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Porting and Optimizing OpenVINO for RISC-V Devices with Vector Extension",
+          "short_description": "[Problem] The project aims to enhance the runtime performance of OpenVINO on RISC-V devices to fully leverage their power efficiency for running...",
+          "student_name": "BHbean",
+          "code_url": "https://github.com/openvinotoolkit/openvino/pull/25674",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OQfr1njq/"
+        },
+        {
+          "title": "OpenVINO adapters - PyTorch adapter",
+          "short_description": "This project aims to make PyTorch and OpenVINO interchangeable. By using the Python API of OpenVINO, we will create an adapter for PyTorch, the first...",
+          "student_name": "Luca Tam",
+          "code_url": "https://gist.github.com/LucaTamSapienza/52430fdc387529d5b9a4f8f82192c58b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ycul7Mf5/"
+        },
+        {
+          "title": "1. OpenVINO Extension for Automatic1111 Stable Diffusion WebUI",
+          "short_description": "This proposal is provided by OpenVINO team. I just copy and paste here. Short description: Automatic1111 is a powerful web user interface based on...",
+          "student_name": "Mengbing Wang",
+          "code_url": "https://github.com/mengbingrock/Stable-Diffusion-WebUI-Extention-OpenVINO/tree/final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BwJdrnsb/"
+        },
+        {
+          "title": "VisionGuard: Smart Screen Time Management",
+          "short_description": "VisionGuard is a desktop application designed for AI-enabled PCs to mitigate eye strain through real-time gaze tracking. The app builds on OpenVINO's...",
+          "student_name": "Inbasekaran",
+          "code_url": "https://github.com/inbasperu/VisionGuard/blob/main/docs/GSoC_2024_VisionGuard_Final_Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QUbIeRAM/"
+        },
+        {
+          "title": "Inference of Neural model in Node.js environment using OpenVINO",
+          "short_description": "This project targets the expansion of OpenVINO's functionality within the Node.js ecosystem, the Node.js API which currently lacks comprehensive...",
+          "student_name": "qxPrakash",
+          "code_url": "https://gist.github.com/qxprakash/784473df5557342c5fb97a9810c5c5f4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SFIcDSA2/"
+        },
+        {
+          "title": "OpenVINO GenAI",
+          "short_description": "I will extend the existing OpenVINO GenAI text-to-image pipeline to support image-to-image functionality by incorporating ControlNet and utilizing...",
+          "student_name": "Yongsheng Xu",
+          "code_url": "https://github.com/openvinotoolkit/openvino.genai/pull/740",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CG19DjKW/"
+        },
+        {
+          "title": "Improve Generative AI workload performance on ARM devices with OpenVINO",
+          "short_description": "This project aims to enhance the performance of Generative AI (GenAI) workloads on ARM devices using the OpenVINO toolkit, focusing on reducing...",
+          "student_name": "mory91",
+          "code_url": "https://gist.github.com/mory91/bd528f7751f836e9d6f98e23801b0bdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WGN9SuB2/"
+        },
+        {
+          "title": "AnomalibVLM: Enhancing Anomaly Detection with Vision Language Models.",
+          "short_description": "Problem: Traditional anomaly detection systems often struggle with limited data scenarios and can lack the ability to explain their detections....",
+          "student_name": "Bepitic - Paco Amoros Cubells",
+          "code_url": "https://bepitic.github.io/gsoc_2024.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jA70KMpe/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openvino-toolkit",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Interactive Multimodal Data Explorer using Datumaro and OTX",
+          "short_description": "\u200bManaging and refining large-scale multimodal datasets\u2014comprising images, text, and other data types\u2014poses significant challenges due to the lack of...",
+          "student_name": "Aarya Pandey",
+          "code_url": null,
+          "proposal_id": "aMU86ach",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j834yUmd"
+        },
+        {
+          "title": "OpenVINO GenAI provider for LangChain",
+          "short_description": "This project aims to develop an OpenVINO GenAI extension for LangChain, enabling users to utilize OpenVINO as a backend for running language models....",
+          "student_name": "bhuminjaysoni",
+          "code_url": null,
+          "proposal_id": "ElPZdMZz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7zYWvO3f"
+        },
+        {
+          "title": "Enhancing Anomalib with SOTA Anomaly Detection Benchmarks, Models and Evaluation Metrics",
+          "short_description": "This project aims to enhance Anomalib by integrating state-of-the-art (SOTA) anomaly detection models, including GLASS, GLAD, MuSc, for both...",
+          "student_name": "code-dev05",
+          "code_url": null,
+          "proposal_id": "eB1h0xOZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xOJtUUDA"
+        },
+        {
+          "title": "Improve OTX Classification via DoRA and Transformer Backbone.",
+          "short_description": "This project addresses the inefficiency of full fine-tuning in classification tasks on small-scale datasets and low-resource environments within...",
+          "student_name": "GyuIlLim",
+          "code_url": null,
+          "proposal_id": "I3bCch34",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1iiEaSOA"
+        },
+        {
+          "title": "Optimized Serving endpoint for classic machine learning model training and inference",
+          "short_description": "As machine learning models grow in size and complexity, there is a rising need for fast, efficient, and scalable ways to serve them in production...",
+          "student_name": "Harshitha Manne",
+          "code_url": null,
+          "proposal_id": "aQolUqhp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iPrS5Atx"
+        },
+        {
+          "title": "Proposal for 20. Demonstrating integration of  open-webui with OpenVINO Model Server",
+          "short_description": "The goal of this project is to enable seamless integration between Open-WebUI\u2014a comprehensive frontend platform designed for generative AI...",
+          "student_name": "Huanli",
+          "code_url": null,
+          "proposal_id": "fmhl25qi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jpuxDLqI"
+        },
+        {
+          "title": "Traffic Intersection Monitoring System with OpenVINO",
+          "short_description": "The project is designed to detect vehicles, pedestrians, and traffic violations such as red-light jumping in real time. At its core, the system uses...",
+          "student_name": "Jatin Sachdeva",
+          "code_url": null,
+          "proposal_id": "TzRG3LYe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Jgei3MYO"
+        },
+        {
+          "title": "Fine-tuning Vision-Language Models for Object Detection and Hierarchical Classification",
+          "short_description": "This project aims to fine-tune Vision-Language Models (VLMs) for domain-specific tasks like object detection and hierarchical classification,...",
+          "student_name": "Jiayu Li",
+          "code_url": null,
+          "proposal_id": "lo7WpiNl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eYkkpBH5"
+        },
+        {
+          "title": "OpenVINO AI PC Model Training Kit",
+          "short_description": "This proposal outlines a detailed, structured, and actionable two-phase strategy for developing an OpenVINO AI PC Model Training Kit. The core...",
+          "student_name": "LeoHeim",
+          "code_url": null,
+          "proposal_id": "h6bjkHTs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/i7OuLusy"
+        },
+        {
+          "title": "Keras hub GenAI/LLM pipelines for the OpenVINO backend in Keras 3",
+          "short_description": "Enable popular Keras Hub GenAI/LLM pipelines for the OpenVINO backend in Keras 3 and optimize their performance. This project focuses on implementing...",
+          "student_name": "Mohamed Ashraf Ibrahim",
+          "code_url": null,
+          "proposal_id": "uHMyZqvx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Gf0CDHkh"
+        },
+        {
+          "title": "Project 18: Multimodal embeddings based on OVMS",
+          "short_description": "This project aims to optimize the calculation of multimodal embeddings (text, image, audio, video) by exposing REST API endpoints in OpenVINO Model...",
+          "student_name": "Raghav Yadav",
+          "code_url": null,
+          "proposal_id": "JjhK8qcb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AApbJ45K"
+        },
+        {
+          "title": "Expand OpenVINO AUTO",
+          "short_description": "The AI PC has multiple processing units. While most face detection models use just one unit throughout their lifetime, we try to use all the units...",
+          "student_name": "RaghavSharma",
+          "code_url": null,
+          "proposal_id": "bOTEQvKL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NcCGwcnx"
+        },
+        {
+          "title": "Accelerating Inference of NNCF-Compressed LLMs with Triton",
+          "short_description": "Large Language Models (LLMs) have demonstrated exceptional performance across a wide range of tasks, leading to their widespread adoption. However,...",
+          "student_name": "Riffat Khan",
+          "code_url": null,
+          "proposal_id": "Q4qTCAnH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dVmaMFJg"
+        },
+        {
+          "title": "OpenVINO Messenger AI-Assistant for an AI PC",
+          "short_description": "Modern messaging platforms like Discord and Slack are not just used for communication but also for consuming news, discussions, and topic-specific...",
+          "student_name": "Siddhant Chauhan",
+          "code_url": null,
+          "proposal_id": "9ou5MaPf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n5QRaAsb"
+        },
+        {
+          "title": "Gesture Control with OpenVINO",
+          "short_description": "This project aims to develop a hand-gesture computer control system by porting MediaPipe\u2019s Gesture Recognizer to OpenVINO, enhancing performance on...",
+          "student_name": "VijayKr338",
+          "code_url": null,
+          "proposal_id": "xofw6TnN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j0BaBXKt"
+        },
+        {
+          "title": "Training Edge-Deployable Models via Collaborative Annotation with Humans and Large Foundation Models",
+          "short_description": "This project aims to implement a framework that leverages Large Foundation Models (LFMs) for automated dataset annotation. It also aims to distill...",
+          "student_name": "Yuki Wakai",
+          "code_url": null,
+          "proposal_id": "CGg1zFTv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2xtHy9KV"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://github.com/openvinotoolkit/openvino/discussions/categories/google-summer-of-code",
+  "ideas_url": "https://github.com/openvinotoolkit/openvino/wiki/Google-Summer-Of-Code#project-ideas-for-2025",
+  "guide_url": "https://github.com/openvinotoolkit/openvino/wiki/Google-Summer-Of-Code#application-template",
+  "blog_url": "https://medium.com/openvino-toolkit"
+}

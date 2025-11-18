@@ -1,0 +1,47 @@
+{
+  "name": "Space @ Virginia Tech",
+  "url": "http://space.vt.edu",
+  "image_url": "https://lh3.googleusercontent.com/tUn7jhnuyPGZNW88fhBLLh6XVMsYmRtyLre0lPZKl1hT_afixt6PL8P_GN-dP7oaoomiz8FrHdUhIUs8QH4VDLtYDXUGy6U",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web",
+    "data visualization",
+    "real time",
+    "data analytics"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "javascript",
+    "mongodb",
+    "d3"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5667370274127872/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Using machine learning to improve SuperDARN data classification",
+          "short_description": "This project aims to develop a new approach of classifying SuperDARN (Super Dual Auroral Radar Network) data using machine learning algorithms. In...",
+          "student_name": "Esther Robb",
+          "code_url": "https://github.com/vtsuperdarn/clustering_superdarn_data",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6630641378525184/"
+        },
+        {
+          "title": "BoLN and ST-ResNet:  Deep Predictive Models for GPS TEC Maps",
+          "short_description": "GPS TEC Map (Global Positioning System - Total Electron Count) is an important quantity of the ionosphere for analysis of space weather. Building an...",
+          "student_name": "Sneha Singhania",
+          "code_url": "https://github.com/vtsuperdarn/DeepPredTEC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5663741160980480/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:space.vt.gsoc@gmail.com",
+  "mailing_list": "http://space.vt.edu/space_gsoc_2018.html",
+  "ideas_url": "",
+  "guide_url": ""
+}

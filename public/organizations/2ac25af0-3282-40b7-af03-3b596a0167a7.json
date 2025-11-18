@@ -1,0 +1,50 @@
+{
+  "name": "Environmental Data And Governance Initiative",
+  "url": "https://envirodatagov.org/",
+  "image_url": "https://lh3.googleusercontent.com/6M5VZ3XHpr1IpCBDAb1NnmreVjiAW4PPYSh8kJUEspShRoZ4oTx2kPdWG0cJjfXeCwDbtfuYsSArr31ynvZMyAkIhMhrLx9C",
+  "image_background_color": "#f4f4f4",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "crawling",
+    "api",
+    "open data",
+    "open science"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "ruby on rails",
+    "google cloud",
+    "go"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4941941976334336/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Data Visualization of Archived Content",
+          "short_description": "The purpose of this project is to develop a set of visually impactful and meaningful models that allow users to easily visualize the changes archived...",
+          "student_name": "Harsh Baid",
+          "code_url": "http://harshbaid.com/blog/2017/working-with-edgi/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6462216651931648/"
+        },
+        {
+          "title": "Identifying and prioritizing important website changes using learning algorithms",
+          "short_description": "The project goal is to utilise machine learning algorithms to identify changes on government agency websites which are worth reviewing.\nThe ignorant...",
+          "student_name": "Janak Raj Chadha",
+          "code_url": "https://envirodatagov.org/google-summer-code-2017-web-monitoring-project-janak-raj-chadha/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4910480938237952/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://archivers-slack.herokuapp.com/",
+  "contact_email": "mailto:EnviroDGI@protonmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/EnviroDGI",
+  "blog_url": "https://envirodatagov.org/blog/"
+}

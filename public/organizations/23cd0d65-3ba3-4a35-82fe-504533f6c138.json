@@ -1,0 +1,55 @@
+{
+  "name": "DeepPavlov",
+  "url": "https://deeppavlov.ai/",
+  "image_url": "https://lh3.googleusercontent.com/8My3sdK_IV-eO8auuG5u2b4zAtqDSkh8w6IyZFa11hZ9prbIGV6wI_Scgj87kUDcfFI15s9DsVNVyR4n_iY5g4Qnk-QEJzxJQEhB1y900k6c",
+  "image_background_color": "#0076BD",
+  "category": "Other",
+  "topics": [
+    "nlp",
+    "conversational",
+    "agent"
+  ],
+  "technologies": [
+    "python",
+    "tensorflow",
+    "docker",
+    "python deep learning frameworks",
+    "pytorch"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6618455117135872/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "TripPy + DeepPavlov",
+          "short_description": "The TripPy architecture brings transformer models to Goal-oriented Chatbots. While setting new SoTA results on MultiWOZ among others, TripPy also...",
+          "student_name": "Niklas Muennighoff",
+          "code_url": "https://gist.github.com/Muennighoff/5675250e830f9a0c847a57e2df5bc770",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5658708167622656/"
+        },
+        {
+          "title": "Refactor Multi-Task BERT",
+          "short_description": "Multi-task learning shares information between related tasks, reducing the number of parameters required. State of the art results across natural...",
+          "student_name": "Anshuman Singh",
+          "code_url": "https://gist.github.com/rimijoker/e9d950e39314fd08202aed0c9dcfb885",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4977973869936640/"
+        },
+        {
+          "title": "Relation Extraction",
+          "short_description": "The main goal of the project is to provide the user of DeepPavlov Framework with an out-of-box solution for relation extraction. I would consider...",
+          "student_name": "Anastasiia Sedova",
+          "code_url": "https://gist.github.com/anasedova/0cdcf8588f73873c5d7c4998cec90b37",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6210130160386048/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://t.me/DeepPavlovDreamDiscussions",
+  "contact_email": "mailto:gsoc@deeppavlov.ai",
+  "mailing_list": "https://mailchi.mp/a570023a6136/news",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/deeppavlov",
+  "blog_url": "https://deeppavlov.ai/blog"
+}

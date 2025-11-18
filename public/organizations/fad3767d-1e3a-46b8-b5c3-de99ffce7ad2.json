@@ -1,0 +1,46 @@
+{
+  "name": "Plan 9 Foundation",
+  "url": "http://p9f.org/",
+  "image_url": "https://lh3.googleusercontent.com/HGZK0TXmYe6UAht6sgArgJi8TVarCJr-GPdVkHlCOpWO6e3kfzPrjpLvSeIgDcu7lAErDfcPPVqiqh-Eeu70rRxTROQgwa4kPouOYYmvu4_I",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "distributed systems",
+    "network programming"
+  ],
+  "technologies": [
+    "c",
+    "golang",
+    "distributed systems",
+    "concurrency"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5118711358291968/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Modernize the underlying data struct of edwood",
+          "short_description": "Adding a modern edit buffer data structure to edwood and solving a few other issues, time permitting.",
+          "student_name": "Cameron Connell",
+          "code_url": "https://docs.google.com/document/d/1oOLTqb21IuHbVN70lazmBrOSLletIvsyQTVdD04LGz0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6382159572500480/"
+        },
+        {
+          "title": "Add support for OAuth2 Login (i.e. OpenID Connect) authentication to factotum",
+          "short_description": "A proposal for the inclusion of OAuth 2.0 and OpenID Connect support in factotum. The main issue is that the structure of the OAuth landing page is...",
+          "student_name": "Dimitrios Iatrakis",
+          "code_url": "https://gist.github.com/Mitsos101/cc75f9e9b9c31a1b27f0e9e6f11bfbe2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6238845103767552/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://p9f.org/wiki/IRC/index.html",
+  "contact_email": "mailto:gsoc@p9f.org",
+  "mailing_list": "http://p9f.org/wiki/Mailing_lists/index.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/Plan9_OS/"
+}

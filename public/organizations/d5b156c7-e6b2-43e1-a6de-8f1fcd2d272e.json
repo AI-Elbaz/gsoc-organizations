@@ -1,0 +1,65 @@
+{
+  "name": "Xi Editor",
+  "url": "https://xi-editor.io/",
+  "image_url": "https://lh3.googleusercontent.com/R82mVJvjn_-GopH6nXsXTMa2Wap1X9NiuFt5_Lxuz0bkiLSfJVWm4MF1n9IdahgVW4gmt6XTNLV9p8dh09a9xOHm4Rddnww",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "ide",
+    "text editing",
+    "text editor",
+    "end user application"
+  ],
+  "technologies": [
+    "rust",
+    "swift"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6530090020110336/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Language Server Plugin in Xi",
+          "short_description": "Xi-Editor currently has a support of plugins but the Plugin API is quite small. The current plugin API has support for implementing things like...",
+          "student_name": "Pranjal Paliwal",
+          "code_url": "https://gist.github.com/betterclever/88ca87b3d8809804cadff92b714e4392",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5127649919762432/"
+        },
+        {
+          "title": "Improve Xi-Mac\u2019s UI and polish its core editing experience",
+          "short_description": "Xi-Mac, Xi Editor's official macOS frontend is still very barebones and thus making Xi Editor on Mac not yet fit to act as a developer's main editor....",
+          "student_name": "D\u0169ng L\u00ea",
+          "code_url": "https://nangtrongvuon.github.io/2018/08/08/my-time-at-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5576286030266368/"
+        },
+        {
+          "title": "Find Enhancements",
+          "short_description": "Searching, finding and replacing text in files is a very common task when working with text editors. Currently, xi-editor only supports a very basic...",
+          "student_name": "scholtzan",
+          "code_url": "https://gist.github.com/scholtzan/7668dc065cb02ee45c05447915a05a47",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6281106336776192/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4795917817872384/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "High performance piet backend",
+          "short_description": "Despite the ubiquity of text in computing applications, rendering high quality text using the GPU remains a challenging problem (see section titled...",
+          "student_name": "Brian Merchant",
+          "code_url": "https://gist.github.com/bzm3r/10e24f8a544edd17a50897ae29857e51",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4707456339410944/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://xi.zulipchat.com/",
+  "contact_email": "mailto:mods@xi-exitor.io",
+  "mailing_list": "https://www.reddit.com/r/xi_editor/",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://xi-editor.io/updates.html"
+}

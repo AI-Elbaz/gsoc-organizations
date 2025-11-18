@@ -1,0 +1,1150 @@
+{
+  "name": "SCoRe Lab",
+  "url": "https://scorelab.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/score-lab/x8apbdrxwdrmqv7f-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "security",
+    "iot",
+    "mobile",
+    "forensic",
+    "cloud with google computer engine",
+    "mobile applications",
+    "embedded systems",
+    "web",
+    "machine learning",
+    "web development",
+    "cloud",
+    "information security"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "java",
+    "golang",
+    "hadoop",
+    "gcp",
+    "golan",
+    "go",
+    "node.js",
+    "pyth",
+    "machine learning",
+    "web development",
+    "cloud",
+    "mobile",
+    "reactjs"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4828464645406720/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Bassa",
+          "short_description": "Automated download queue to take the best use of internet bandwidth by monitoring the network traffic and downloading at the optimum time period.",
+          "student_name": "malithsen",
+          "code_url": "https://github.com/scorelab/Bassa/commits?author=malithsen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5462650255310848/"
+        },
+        {
+          "title": "G-Clouds",
+          "short_description": "A homogeneous client library implemented in GO language for performing basic cloud computing tasks via heterogeneous APIs provided by different cloud...",
+          "student_name": "Tharindu Munasinghe",
+          "code_url": "https://github.com/TharinduMunasinge/gocloud/wiki/GSoC-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4991902243880960/"
+        },
+        {
+          "title": "OpenADS - On the fly insights from the elasticsearch data stream",
+          "short_description": "Task would be to get the data from Elasticsearch as a stream and model it as a graph in order to  provide insights on the fly. Once we map the data...",
+          "student_name": "Milindu Sanoj Kumarage",
+          "code_url": "https://docs.google.com/document/d/1nfuYr_ObdLZjTZytDojhHPNv72DUHhqLqHZfAcVY4eA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5116335499509760/"
+        },
+        {
+          "title": "User interfaces for Tracker",
+          "short_description": "This proposal is for User interfaces for Tracker project in SCoRe",
+          "student_name": "Dilushi",
+          "code_url": "https://gist.github.com/Dilu9218/c40f73b8fbb7e2f70077f20eafda031b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5602835840368640/"
+        },
+        {
+          "title": "A Clustering-based Analysis Tool for Anomaly Detection at Large Scale",
+          "short_description": "Security is a serious problem nowadays.  Anomaly Detection might be a good answer to the problem. As the amount of data becomes extreme large, normal...",
+          "student_name": "xiaolei",
+          "code_url": "https://github.com/xiaoleihuang/OpenADS/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6225674012459008/"
+        },
+        {
+          "title": "Implementing the tracker front end",
+          "short_description": "Tracker is a Node.js application (Restful Service) + MongoDB stack which is capable of  sending and receiving hundreds of GPS data in real time, with...",
+          "student_name": "Tharindu Ranathunga",
+          "code_url": "https://docs.google.com/document/d/1xk1vP2tWpNzDXF-YkavHudpKC4ryUrKOnn6T4VfbALg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4648968164212736/"
+        },
+        {
+          "title": "IoT middle-ware platform",
+          "short_description": "With the low cost of sensors and many interesting usages of them, many industries and academia are increasingly using them.\nAutomation is becoming...",
+          "student_name": "tharidu",
+          "code_url": "https://github.com/scorelab/OpenIoE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4740818724192256/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4984473024200704/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "NodeCloud - unified API for cloud providers",
+          "short_description": "NodeCloud is an easy to use abstract API which will remove the burden of switching in between many libraries to use cloud related APIs. NodeCloud is...",
+          "student_name": "Rajika Abeyrathne",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Rajika_AbeyrathneNode_Cloud_Unified_API_For_Cloud_Providers.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6356148139589632/"
+        },
+        {
+          "title": "Query parser for Senze language",
+          "short_description": "In MySensors platform the application communicate each other using  Senzes language. At the moment there are no proper mechanism to generate and...",
+          "student_name": "Kavindi",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Kavindi_Query_Parser_For_Senze_Language.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6618901085421568/"
+        },
+        {
+          "title": "Gocloud",
+          "short_description": "gocloud is a standard library for Go that abstracts away differences among multiple cloud providers. The gocloud compute package is designed to make...",
+          "student_name": "Pratik Dhanave",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Pratik_Dhanave_GoCloud.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6634555972780032/"
+        },
+        {
+          "title": "OpenDF - Image annotation and describe module",
+          "short_description": "Nowadays, digital forensic tools are often used to investigate cyber crimes, which are becoming more and more frequent. OpenDF is a tool for forensic...",
+          "student_name": "Shehan Weerakkody",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Shehan_Weerakkody_OpenDF_Image_Annotation_And_DescribeModule.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6147934433312768/"
+        },
+        {
+          "title": "Implementing an Android application for controlling Drones (DronePilot)",
+          "short_description": "This is a project that is intended to support Public Health Inspector (PHI) to find and investigate \u201cDengue(mosquito) breeding sites in a given...",
+          "student_name": "Lasith Niroshan",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Lasith_Niroshan_Implementing_An_Android_Application_For_Controlling_Drones.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6170966329655296/"
+        },
+        {
+          "title": "Drone Comm",
+          "short_description": "Drone Comm is community platform which is help to meet drone onwers and drone required people. using this platform drone required people can request...",
+          "student_name": "Amila Karunathilaka",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Amila_Karunathilaka_Drone_Comm.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5075293865771008/"
+        },
+        {
+          "title": "Stackle",
+          "short_description": "Stackle is an web communication portal aimed at providing Open Source organizations a platform to have discussions on their GitHub projects and their...",
+          "student_name": "Pasan Gamaetige",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Pasan_Gamaetige_Stackle.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5081230047444992/"
+        },
+        {
+          "title": "OpenPub Publication Manager",
+          "short_description": "OpenPub is a publication manager for individuals and small research groups. OpenPub provides research's to upload and share their\u2019s publications with...",
+          "student_name": "Achinthya",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Achinthya_OpenPub_Publication_Manager.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5332693403303936/"
+        },
+        {
+          "title": "Rewriting\u00a0OpenDF\u00a0frontend\u00a0using\u00a0React",
+          "short_description": "Goal of this project is to rewrite the current OpenDF frontend using React and make the UI fully component based . Also will use ES6, SCSS and Gulp...",
+          "student_name": "Pasan Ranathunga",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Pasan_Ranathunga_Rewriting_OpenDF_Frontend_Using_React.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5377515413569536/"
+        },
+        {
+          "title": "Kute-Android app-A vehicle pooling solution",
+          "short_description": "An app that allows users to pool vehicles during their daily up-down trips or other trips,this draft includes a smart algorithmic approach to...",
+          "student_name": "Nipun Arora",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Nipun_Arora_Kute_Android_App_A_Vehicle_Pooling_Solution.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6200671665651712/"
+        },
+        {
+          "title": "EtherBeat - Smart Contract Monitoring Service",
+          "short_description": "With the growing popularity of BitCoin in the last couple of years, other blockchains have been in development for solving various problems that need...",
+          "student_name": "Tharidu Fernando",
+          "code_url": "https://github.com/scorelab/EtherBeat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4739816117764096/"
+        },
+        {
+          "title": "DroLa",
+          "short_description": "A ground station tool for monitor the locations of various kind of drones. Increase flying  range with monitoring through this system. Uniquely...",
+          "student_name": "Namal Jayasuriya",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Namal_Jayasuriya_DroLa.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6046674002640896/"
+        },
+        {
+          "title": "Bassa - Dockerize and modify features.",
+          "short_description": "Bassa is an automated download queue which tries to minimize bandwidth wastage. It\nsolves the problem of wasting internet bandwidth by queuing...",
+          "student_name": "Kaveesha Baddage",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Kaveesha_Baddage-Bassa_Dockerize_And_Modify_Features.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4945706112516096/"
+        },
+        {
+          "title": "DroneSym",
+          "short_description": "The proposal outlines the approach and a tentative technological architecture of the solution I'm expecting to implement under the GSoC project idea...",
+          "student_name": "Hasanga Somaratne",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Hasanga_Somaratne_DroneSym.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5864529539891200/"
+        },
+        {
+          "title": "BellyDynamic: A scalable data structure to handle online and offline dynamic graph objects",
+          "short_description": "A social network evolves over time through the creation or deletion of ties among a set of actors.The volatile nature of social ties provides a...",
+          "student_name": "Yasanka Horawalavithana",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Yasanka_Horawalavithana_BellyDynamic_A_Scalable_Data_Structure_To_Handle_Onlin_And_Offline_Dynamic_Graph_Objects.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5997473138999296/"
+        },
+        {
+          "title": "OpenIoE - Implement bidirectional publish-subscribe behaviour",
+          "short_description": "OpenIoE is an open source project capable of retrieving and storing data from sensors with a web frontend to monitor and manage this sensor data. ...",
+          "student_name": "Priya Pappachan",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2017/Priya_Pappachan_OpenIoE_Implement_Bidirectional_Publish_Subscribe_Behaviour.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5999150457946112/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5745237494333440/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "Soundcom(React-native-app)",
+          "short_description": "SoundCom is an mobile application which can transmit data through sound waves.",
+          "student_name": "Piyush Singhal",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Piyush_Singhal-Soundcom.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6599012299833344/"
+        },
+        {
+          "title": "Stackle - Frontend Functionality and User Interface Improvements",
+          "short_description": "Being a web communication portal for Open Source organizations to discuss about their GitHub projects and their issues, Stackle provides the...",
+          "student_name": "Nandun Bandara",
+          "code_url": "https://gist.github.com/ntbandara3/b33e492d229167697ecac17d06c5a501",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6694787050635264/"
+        },
+        {
+          "title": "OpenSNA",
+          "short_description": "A ground-up implementation of a toolkit to extract, analyze and visualize interactions in multiple social networks",
+          "student_name": "Malith Senaweera",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Malith_Senaweera-OpenSNA.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6696800115228672/"
+        },
+        {
+          "title": "CLocal Azure",
+          "short_description": "An emulation engine for Azure services to try out in local environment",
+          "student_name": "Lakindu Gunasekara",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Lakindu_Gunasekara-CLocal_Azure.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6714490414432256/"
+        },
+        {
+          "title": "CLocal GCP",
+          "short_description": "CLocal gcp will be a tool which can be used to test Google cloud products locally before running them in the actual cloud platform. And later...",
+          "student_name": "Dilantha Wijayarathne",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Dilantha_Wijayarathne-CLocal_GCP.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6725478417170432/"
+        },
+        {
+          "title": "OpenDF - Implement the frontend using ReactJS",
+          "short_description": "The project is to rewrite the frontend of OpenDF with ReactJS and Redux. Some UI Components have been done and others will complete through the...",
+          "student_name": "Kavinda Jayakody",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Kavinda_Jayakody-OpenDF_Frontend_ReactJS.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5718156383354880/"
+        },
+        {
+          "title": "ChainKeeper",
+          "short_description": "ChainKeeper is a web application to explore and analyze block-chain data for users. This proposal consists of technical details and implementation...",
+          "student_name": "Sajitha Liyanage",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Sajitha_Liyanage-Chainkeeper.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5432066665611264/"
+        },
+        {
+          "title": "Implement Ali cloud Provider support and Rackspace Provider support for GoCloud",
+          "short_description": "Project Description\nGoCloud is a golang library which hides differences between different cloud providers' APIs and allows you to manage different...",
+          "student_name": "OddCN",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/OddCN_GoCloud_AliCloud_Vulter.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5066855060340736/"
+        },
+        {
+          "title": "Azure Support with new Architecture implementation",
+          "short_description": "Project\nRewrite core node cloud architecture and add Azure Provider Support.\nPrevious contributions\nFixed issues and added new features to NodeCloud,...",
+          "student_name": "Rajendra Kadam",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Rajendra_Kadam-NodeCloud_NewArchitecture_Azure.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5094326610690048/"
+        },
+        {
+          "title": "Stackle-Structure Routes",
+          "short_description": "Project:\nStackle is a web communication portal aimed at providing Open Source organizations a platform to have discussions on their GitHub projects...",
+          "student_name": "Shivam Arora",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Shivam_Arora-Stackle_routes.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5119496662548480/"
+        },
+        {
+          "title": "ImageLab",
+          "short_description": "ImageLab is an image analyzing platform. Users can load large set of images to ImageLab and then they can perform analyzes by labeling and clustering...",
+          "student_name": "Kesh101",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Kesh101-ImageLab.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4552225300938752/"
+        },
+        {
+          "title": "Bassa - Implement a mechanism to download files from local server",
+          "short_description": "Bassa is an automated download queue for enterprises use. If a software can download all your files in the background without keeping it open then...",
+          "student_name": "vivonk",
+          "code_url": "https://github.com/vivonk/GSoC/blob/master/GSoC-2018/Nirmal_Saraswat-Bassa.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4827480829460480/"
+        },
+        {
+          "title": "Common app template to Go Social - React Native",
+          "short_description": "Community of today used to use mobile phones to make their life easier and Community based mobile applications are famous among them. There are...",
+          "student_name": "Dinith Minura",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Dinith_Minura-GoSocial_Common_template.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6519248314695680/"
+        },
+        {
+          "title": "Bassa - Mobile App",
+          "short_description": "Bassa is automated download queue for the enterprise to take the best use of their internet bandwidth. It is capable of avoiding redundant downloads...",
+          "student_name": "Gayashan Bombuwala",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Gayashan_Bombuwala-Bassa_Mobile.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6534682749435904/"
+        },
+        {
+          "title": "Drola - Backend with Realtime Database",
+          "short_description": "Redesign and Implement the DroLa system as a real time database based system instead of  WebSocket based system. Introduced bi-directional end-to-end...",
+          "student_name": "Janagan Siva",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Janagan_Siva-Drola_Backend.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6556513866874880/"
+        },
+        {
+          "title": "SenZ Switch",
+          "short_description": "SenZ Switch is a high-speed message passing system which can be used to do the communicating between IoT devices. After connecting the devices to the...",
+          "student_name": "Sumedhe Dissanayake",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Sumedhe_Dissanayake-Senz_Switch.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5984382145789952/"
+        },
+        {
+          "title": "EtherBeat - Optimize block extracting mechanism in EtherBeat",
+          "short_description": "Ethereum is an opensource and public blockchain based distributed platform. Main feature of it which differs from other platforms is \u201cSmart Contract\u201d...",
+          "student_name": "Umesh Jayasinghe",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Umesh_Jayasinghe-EtherBeat.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6270271744901120/"
+        },
+        {
+          "title": "Extending GoCloud provider support for ali cloud, Microsoft Azure and OpenStack",
+          "short_description": "gocloud is a standard library for Go that abstracts away differences among multiple cloud providers. The gocloud  package is designed to make it easy...",
+          "student_name": "Pratik Dhanave",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2018/Pratik_Dhanave-GoCloud.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6286038167191552/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4922378566500352/",
+      "num_projects": 27,
+      "projects": [
+        {
+          "title": "ChainKeeper - Optimized Blockchain Analytical Interface for ChainKeeper",
+          "short_description": "Currently, ChainKeeper is working as a web application which can use for the retrieve blockchain data for any kind of purposes. And it has an inbuilt...",
+          "student_name": "Poornima Rangoda",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Poornima-Rangoda-ChainKeeper.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6407970257108992/"
+        },
+        {
+          "title": "CLocal Azure Project Proposal - GSoC 2019",
+          "short_description": "CLocal Azure will be an easy to use emulation engine for the users of azure cloud services. In this project the users will be able to test/mock the...",
+          "student_name": "Lakindu Gunasekara",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Lakindu-Gunasekara-CLocal-Azure.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6629940475199488/"
+        },
+        {
+          "title": "Senz Admin Panel",
+          "short_description": "Admin panel is the view of the software that interact with the user and enable overall\ncontrol on the devices .It fetches data from multiple sources...",
+          "student_name": "Yash Mehrotra",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Yash-Mehrotra-Senz.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5685591436427264/"
+        },
+        {
+          "title": "Dunner",
+          "short_description": "Dunner is a container based task runner tool built in Golang using Docker\u2019s client library. A user can define multiple tasks, each task with some...",
+          "student_name": "ayushjn20",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/ayushjn20-Dunner.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5698036506820608/"
+        },
+        {
+          "title": "NodeCloud Provider Implementation - DigitalOcean & AliCloud",
+          "short_description": "NodeCloud is Node.js based API for open cloud. It works as a standalone core and depends on the cohesive plugins that extends its support onto...",
+          "student_name": "Rishabh Singh",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Rishabh-Singh-NodeCloud.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5419096986877952/"
+        },
+        {
+          "title": "Bassa - Making installation of Bassa and containerize in a better way with efficient file storage",
+          "short_description": "Bassa project is about making installation of Bassa easier  for its users and containerizing in a better way to use available resources in efficient...",
+          "student_name": "Pawan Bhadu",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Pawan-Bhadu-Bassa.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5063104327581696/"
+        },
+        {
+          "title": "FrontEnd UI page for NodeCloud Resource Management",
+          "short_description": "Currently, NodeCloud supports AWS, GCP, and Azure. This project aims at creating a common dashboard which will be linked to the portal, for checking...",
+          "student_name": "Amrita Chaturvedi",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Amrita-Chaturvedi-NodeCloud.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5362784781467648/"
+        },
+        {
+          "title": "Making Installation of Bassa and Containerize in a Better Way",
+          "short_description": "Bassa is an automated download queue for communities. It is an n-tier application which needs extra layers of development and operations to make it...",
+          "student_name": "Mehant Kammakomati",
+          "code_url": "https://github.com/kmehant/GSoC/blob/master/GSoC-2019/Mehant-Kammakomati-Bassa.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5566441527443456/"
+        },
+        {
+          "title": "Shifting Bassa codebase from Angular to React using Webpack",
+          "short_description": "Though the basic functionality of Bassa is complete and working, however AngularJS is not much supportive right now so the codebase needs to be...",
+          "student_name": "Singh Rohan",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Singh-Rohan-Bassa.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6192049081024512/"
+        },
+        {
+          "title": "Community App Using Go Social Framework -  Animal Rescue App",
+          "short_description": "A common sight on today\u2019s streets is the number of abandoned animals languishing on the streets suffering with injuries and disease and live without...",
+          "student_name": "Wathsara Daluwatta",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Wathsara-Daluwatta-Go-Social.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4555534538113024/"
+        },
+        {
+          "title": "ChainKeeper - Optimized Bitcoin blockchain parser for memory constrained devices",
+          "short_description": "Bitcoin blockchain is a huge data structure with 180+GB in size. Due to this huge size,\u200b available Bitcoin parsers take several hours to parse the...",
+          "student_name": "Hansika Perera",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Hansika-Perera-ChainKeeper.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4584811585339392/"
+        },
+        {
+          "title": "DroneSym - Drone Fleet Controlling System",
+          "short_description": "DroneSym is a web-based platform which focuses on controlling drone fleets realtime.\nUsers will have the functionality to add new drones, configure...",
+          "student_name": "Dilina Dehigama",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Dilina-Dehigama-DroneSym.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4596776508588032/"
+        },
+        {
+          "title": "Go-social Community App - TrackPal",
+          "short_description": "TrackPal is a public based mobile application that will be implemented using react-native. And the components that are in operation with this...",
+          "student_name": "Shehan Dhaleesha",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Shehan-Dhaleesha-Go-social.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4658526058708992/"
+        },
+        {
+          "title": "Androphsy(OpenMF) - Redesign and Develop Backend in Python",
+          "short_description": "To convert the Androphsy(OpenMF) backend to python",
+          "student_name": "Wolf-Legend",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Wolf-Legend-Androphsy(OpenMF).md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4680225173012480/"
+        },
+        {
+          "title": "LabelLab",
+          "short_description": "LabelLab is an image analyzing and classification platform. The web application should allow users to upload batches of images and classify them with...",
+          "student_name": "Tushar Varshney",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/TusharVarshney-LabelLab.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4772875267997696/"
+        },
+        {
+          "title": "TensorMap",
+          "short_description": "TensorMap is a web application that will allow users to create machine learning algorithms visually. TensorMap supports reverse engineering of the...",
+          "student_name": "Suleka Helmini",
+          "code_url": "https://github.com/suleka96/GSoC/blob/master/GSoC-2019/Suleka-Helmini-Tensor-Map.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4789681256923136/"
+        },
+        {
+          "title": "Implement NodeCloud CLI",
+          "short_description": "nodecloud-cli is an unified command line interface for open cloud based on nodecloud. nodecloud-cli supports cloud providers like AWS, Azure, GCP and...",
+          "student_name": "Tharaka Romesh",
+          "code_url": "https://github.com/cloudlibz/nodecloud-cli",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4835663445229568/"
+        },
+        {
+          "title": "OpenIoE - Implement authentication for message broker and rest API for OpenIOE",
+          "short_description": "OpenIoE is an Open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything. It enables...",
+          "student_name": "withan",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/withan-OpenIoE.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6528639762432000/"
+        },
+        {
+          "title": "Fact-Bounty - Implement a backend for a crowd-driven Fact-checking platform",
+          "short_description": "Fact Bounty is a crowd driven fact checking platform. With the growth of the social media ecosystem, came the issues of misleading news and rumours....",
+          "student_name": "Anmol Bansal",
+          "code_url": "https://github.com/Anmolbansal1/gsoc-report/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6567340706103296/"
+        },
+        {
+          "title": "Tensormap",
+          "short_description": "TensorMap will be a web platform to play with the machine and deep learning algorithms, where a user will define a flow of algorithm using simple...",
+          "student_name": "Durgesh Kumar",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Durgesh-Kumar-Tensor-Map.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6075505747427328/"
+        },
+        {
+          "title": "Mobile App for LabelLab",
+          "short_description": "Sustainable Computing Research Lab has done researches and project to identify elephants from images and tag them. LabelLab projects is a generalized...",
+          "student_name": "Udesh Kumarasignhe",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Udesh-Kumarasignhe-LabelLab.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6122784428654592/"
+        },
+        {
+          "title": "Fact Bounty Web App Proposal",
+          "short_description": "The Internet is a place where people come to find out information and due to the rapid growth of the use of social media there is so much data...",
+          "student_name": "Devon Wijesinghe",
+          "code_url": "https://github.com/wdevon99/GSoC/blob/master/GSoC-2019/Devon-Wijesinghe-Fact-Bounty.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4928975636267008/"
+        },
+        {
+          "title": "OpenIoE - Implement User Interface for OpenIoE",
+          "short_description": "OpenIoE is an Open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything. It is an...",
+          "student_name": "dande9304",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/dande9304-OpenIoE.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5784997246533632/"
+        },
+        {
+          "title": "Bassa: File Management and ACL",
+          "short_description": "To scale Bassa from its current use of an internet download queueing micro-service to a full-fledged file management system for uploading resources...",
+          "student_name": "Vibhor Gupta",
+          "code_url": "https://bit.ly/33NiGt7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5808994168340480/"
+        },
+        {
+          "title": "Fact-Bounty - A web interface for a crowd-driven Fact-checking platform",
+          "short_description": "Fact-Bounty is a platform to view news items from low-credible sources and seeks the opinion from the community regarding the truthfulness of the...",
+          "student_name": "Tuan Amith",
+          "code_url": "https://github.com/root5533/GSoC/blob/master/GSoC-2019/Tuan-Amith-Fact-Bounty.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5883905192755200/"
+        },
+        {
+          "title": "SCoRe - Dunner",
+          "short_description": "Build a Docker based task runner in Golang.",
+          "student_name": "Apoorva Manjunath",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Apoorva-Manjunath-Dunner.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5935691073060864/"
+        },
+        {
+          "title": "Vision based machine drawing analyzing system(VBMDAS)",
+          "short_description": "The ultimate objective of this project is to develop an automated software system with a graphical user interface that can estimate the manufacturing...",
+          "student_name": "made777",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Madhuri-VBMDAS.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5217910383968256/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5384571547287552/",
+      "num_projects": 25,
+      "projects": [
+        {
+          "title": "Community Dictionary",
+          "short_description": "Community Dictionary (ComDict) is a crowdsourced online dictionary for multiple languages. Each head term in the dictionary is defined only in...",
+          "student_name": "Asitha Indrajith",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Asitha-Indrajith-Community-Dictionary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6475158769893376/"
+        },
+        {
+          "title": "A DLT-based Trust Framework for IoT Ecosystems",
+          "short_description": "This proposal will present a scalable attributed based access control mechanism based on the Hyperledger Fabric platform. The ABAC model is a new...",
+          "student_name": "Pasindu Kuruppuarachchi",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Pasindu-Kuruppuarachch-A-DLT-based-Trust-Framework-for-IoT-Ecosystems.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6580840198307840/"
+        },
+        {
+          "title": "Dengue Stop Community Application and Admin Panel",
+          "short_description": "Dengue Stop is a project which helps officials to monitor the dengue incidents and metrics all over the world/country in a meaningful manner so that...",
+          "student_name": "Omal Vindula",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Omal-Vindula-Proposal-for-Dengue-Stop-Admin-Panel-Project.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6667410666422272/"
+        },
+        {
+          "title": "ChainKeeper - Optimized Blockchain Analytical Interface",
+          "short_description": "ChainKeeper is a web-based application that can be used to retrieve Bitcoin blockchain. From the context of analysis, bitcoin addresses are very...",
+          "student_name": "Ravindu De Silva",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Ravindu-De-Silva-ChainKeeper-Optimized-Blockchain-Analytical-Interface.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6731845879726080/"
+        },
+        {
+          "title": "Integrate a cluster monitoring and alerting system using Prometheus for the Bassa kubernetes cluster and write client libraries for better usage of Bassa API server.",
+          "short_description": "Bassa has been deployed on a single node Kubernetes cluster with good orchestration yet there is a need for a dedicated monitoring and alerting...",
+          "student_name": "Mehant Kammakomati",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Mehant-Kammakomati-Bassa.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5387183793373184/"
+        },
+        {
+          "title": "Node Cloud: Implement development road-map",
+          "short_description": "Node cloud is a NodeJS library which helps developers to switch between cloud providers. Node cloud supports AWS, Azure,  Google cloud, Alibaba and...",
+          "student_name": "Rajitha Warusavitarana",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Rjitha-Warusavitarana-Node-Cloud-Implement-development-road-map.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5450840342528000/"
+        },
+        {
+          "title": "Integrate ML module for LabelLab",
+          "short_description": "LabelLab  allows the user to upload images and label them using bounding boxes and polygons. Currently, there is no way for the user to build models...",
+          "student_name": "Lakshyajeet Dwivedee",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Lakshyajeet-Dwivedee-Integrate-ML-module-for-LabelLab.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5485976262017024/"
+        },
+        {
+          "title": "Tor Scraper",
+          "short_description": "The Tor Scraper is a dark web tor hidden service crawler. It starts crawling from a given .onion URL list(seed list) and it also discovers new hidden...",
+          "student_name": "dande9304",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Dande9304-Tor-Scraper.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5122865667506176/"
+        },
+        {
+          "title": "TAF - Test Automation Framework",
+          "short_description": "TAF is a new Cloud-based Universal Test Automation Framework that mainly focuses on regression testing. So it will greatly improve the quality and...",
+          "student_name": "jiraiya665",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Jiraiya665-TAF.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5122950996426752/"
+        },
+        {
+          "title": "Bug Zero gateway",
+          "short_description": "For bug bounty programs such as Bug Zero, organizations may need to expose their vulnerable systems securely only specific Hackers and monitor their...",
+          "student_name": "Lakindu Akash",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Lakindu-Akash-Bug-Zero-gateway.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5384574130978816/"
+        },
+        {
+          "title": "Labellab - Revamp the web application",
+          "short_description": "LabelLab is an image analysing and classification platform. It can handle labelling bulks of images of different formats in order to be used for...",
+          "student_name": "Aditya Bhatnagar",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Aditya-Bhatnagar-Labellab-Revamp-the-web-application.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6227069278617600/"
+        },
+        {
+          "title": "Ukiyo - A push based container update tool",
+          "short_description": "The idea of this project is to implement a lightweight agent run on the docker which facilitate push-based solution for automating container...",
+          "student_name": "Hansika Wanniarachchi",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Hansika-Wanniarachchi-Ukiyo-A-push-based-container-update-tool.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4810401528676352/"
+        },
+        {
+          "title": "Express Python",
+          "short_description": "Express Python is a Python code editor designed to be a valuable companion application for learning and competitive programming. It runs easily on...",
+          "student_name": "Harshit Verma",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Harshit-Verma-Express-Python.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4822105717211136/"
+        },
+        {
+          "title": "Community Dictionary  - A crowd-sourced multilingual dictionary",
+          "short_description": "This project focuses on developing a crowd-sourced dictionary which will support the English language as well as multiple other languages. The...",
+          "student_name": "Vinuri Bandara",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Vinuri%20BandarCommunity-Dictionary-A-crowd-sourced-multilingual-dictionary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6492954497122304/"
+        },
+        {
+          "title": "OpenMF",
+          "short_description": "Implementation of a web client with additional features for open-source Android smartphone forensic tool that'll help digital forensic investigators...",
+          "student_name": "shivanshu1333",
+          "code_url": "https://github.com/shivanshu1333/GSoC/blob/master/GSoC-2020/shivanshu1333-OpenMF.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6497553098473472/"
+        },
+        {
+          "title": "CodeLabz",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform will...",
+          "student_name": "Nipuna Weerasekara",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Nipuna-Weerasekara-CodeLabz.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6543684704665600/"
+        },
+        {
+          "title": "CodeLabz",
+          "short_description": "CodeLabz is a platform that provides users (organisations, individuals) to create and engage in online tutorials. It will be developed using Google...",
+          "student_name": "Thisura Rathnayake",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Thisura-Rathnayake-CodeLabz.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4891346864701440/"
+        },
+        {
+          "title": "Generalized Website Builder\u201d using Gatsby JS",
+          "short_description": "Building and maintaining a website is an essential task for any business or organization. This project aims to ease the workflow of getting a website...",
+          "student_name": "Devon Wijesinghe",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Devon-Wijesinghe-Webiu.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5790970714521600/"
+        },
+        {
+          "title": "Raven",
+          "short_description": "Raven is a cloud-native API monitoring tool to monitor the health of 3rd party APIs. APIs can be grouped by spaces. A target represents APIs to be...",
+          "student_name": "Tharaka Hewavitharana",
+          "code_url": "https://github.com/leopardslab/raven/pulls?q=is%3Apr+is%3Aclosed+author%3ATRomesh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5976064309854208/"
+        },
+        {
+          "title": "Automated deployments and testing for installer.to",
+          "short_description": "Installer.to is a way of installing software on Linux, MacOS machines simply using cURL. Installer.to maintains a repository of publicly available...",
+          "student_name": "Heshan Geasman",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Heshdude-leopardslab-installerto-project.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5984976199221248/"
+        },
+        {
+          "title": "LabelLab - Updating the mobile application",
+          "short_description": "Labellab is an image labeling and classification tool for researchers. Currently, the mobile app supports image uploading and labeling. The goal of...",
+          "student_name": "Sashika Nawarathne",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Sashika-Nawarathne-LabelLab-Updating-the-mobile-application.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6005168920854528/"
+        },
+        {
+          "title": "CrawlerX - Extensible, Distributed, Scalable Crawler System",
+          "short_description": "Web crawling often called web scraping is a method of programmatically going over a collection of web pages and extracting data which is useful for...",
+          "student_name": "Poornima Rangoda",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Poornima-Rangoda-CrawlerX-Extensible-Distributed-Scalable-Crawler-System.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6266451175931904/"
+        },
+        {
+          "title": "ImageLab",
+          "short_description": "ImageLab is a standalone tool which supports anyone to get started with image processing related concepts and techniques in an interactive, less...",
+          "student_name": "Dilum De Silva",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Dilum-De-Silva-ImageLab.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5133699454074880/"
+        },
+        {
+          "title": "Integrate Splash based website Crawler and Analysis Interface  for Tor Scraper",
+          "short_description": "The Tor network is a volunteer-run system that helps make internet use more anonymous. Tor Scraper can crawl web pages hosted on the ToR network. At...",
+          "student_name": "made777",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/made777-Tor%20Scraper.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5141705776431104/"
+        },
+        {
+          "title": "S-ChainX",
+          "short_description": "In commerce, supply chain management, the management of the flow of goods\nand services, involves the movement and storage of raw materials, of...",
+          "student_name": "Nimesha",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2020/Nimesha-S-ChainX.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5214707469778944/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5416561266917376/",
+      "num_projects": 23,
+      "projects": [
+        {
+          "title": "Service Market",
+          "short_description": "The proposed project will create a fair-ground for service producers and consumers who employ intermediaries to engage with each other. In between...",
+          "student_name": "Shyam",
+          "code_url": "https://github.com/scorelab/Service-Market",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6386200465637376/"
+        },
+        {
+          "title": "Proposal for CodeLabZ",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is...",
+          "student_name": "Shadow",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/15-Shadow-CodeLabZ.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6400884052852736/"
+        },
+        {
+          "title": "CrawlerX - Distributed crawling system",
+          "short_description": "The CrawlerX is a platform which we can use for crawling web URLs in different kinds of protocols in a distributed way.\nThis proposal mainly focuses...",
+          "student_name": "Sandagomi Pieris",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/05-Sandagomi-Pieris-CrawlerX-Distributed-Crawling-System.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6689067634262016/"
+        },
+        {
+          "title": "Improving Image Lab Project UI/UX",
+          "short_description": "Improving the ImageLab project user experience by enhancing user interface and adding new interesting features.",
+          "student_name": "Pola Hano Shehat",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/12-Pola-Hano-Shehat-Improving-Image-Lab-UI-UX.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5708407146807296/"
+        },
+        {
+          "title": "Scan8",
+          "short_description": "Scan8 is a distributed scanning system for detecting trojans, viruses, malware, and other malicious threats embedded in URLs or files. The system...",
+          "student_name": "Maanas Talwar",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/19-Maanas-Talwar-Scan8.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5731138496102400/"
+        },
+        {
+          "title": "Scan8",
+          "short_description": "Scan8 is a kubernetes based rapid URL/file scan system that allows users to submit a list of URLs/file and take out the scan results.Scan8 uses...",
+          "student_name": "Sarthak Singh",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/18-Sarthak-Singh-Scan8.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5467365898190848/"
+        },
+        {
+          "title": "Improving Functionality of OpenMF-GSOC'21",
+          "short_description": "This proposal focuses on improving frontend and backend part of openMF. Creating Frontend sections for admin, management and extractor. Creating new...",
+          "student_name": "Sachin Som",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/11-Sachin-Som-Improving-Functionality-of-OpenMF.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4993509169299456/"
+        },
+        {
+          "title": "CodeLabz - FrontEnd Improvements",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is...",
+          "student_name": "SOUGATA DAS",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/03-SOUGATA-DAS-CodeLabz-FrontEnd-Improvements.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5073799589920768/"
+        },
+        {
+          "title": "DNSTool proposal",
+          "short_description": "DNSTool is a project that serves the purpose of rapid monitoring of DNS traffic over time. This system allows its users to create their seed lists...",
+          "student_name": "Jeevi",
+          "code_url": "https://github.com/scorelab/GSoC/blob/a8b37bdd6b178e261b4d9ebf112f765dafe8118d/GSoC-2021/07-Jeevi-DNSTool.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5077072992534528/"
+        },
+        {
+          "title": "Webiu",
+          "short_description": "Webiu is a \u201cgeneralized website builder\u201d which magnificently eases the essential process of getting a website up and running easily. The project...",
+          "student_name": "Yash",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/23-Yash-Webiu.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5630565159534592/"
+        },
+        {
+          "title": "Ask SCORE - Community App",
+          "short_description": "Ask SCORE app is the community app, which helps organisation in Collaboration, teamwork, promotion, cooperation with their members(Mentors, Mentees,...",
+          "student_name": "Abhi Kulshrestha",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/01-Abhi%20Kulshrestha-Ask-SCORE-Community-App.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5631385095634944/"
+        },
+        {
+          "title": "S-ChainX: Product Hunter",
+          "short_description": "Selecting a good product for consumption is hard due to bad products in the market. So an application that can trace a product and its raw materials...",
+          "student_name": "Esandha Vithanage",
+          "code_url": "https://github.com/leopardslab/ChainX",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6202972899377152/"
+        },
+        {
+          "title": "GSOC 2021 CodeLabz Proposal",
+          "short_description": "This is a proposal for CodeLabz - FrontEnd Improvemnts idea (#22). This contains my personal information, my implementation idea, my SCoRe lab...",
+          "student_name": "Lycanthrope",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/09-Lycanthrope-Code-Labz.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6222823600685056/"
+        },
+        {
+          "title": "SCoRe Lab Open MF Proposal",
+          "short_description": "OpenMF is an open-source forensic tool by SCoRe Lab for Android smartphones that helps digital forensic investigators throughout the digital forensic...",
+          "student_name": "Swapnal Shahil",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/20-Swapnal-Shahil-Open-MF.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6260374466199552/"
+        },
+        {
+          "title": "LabelLab: Improve Team Management and Collaborative Experience",
+          "short_description": "LabelLab is an image labeling and classification tool for researchers. Currently, it allows the user to upload a batch of images and label them, in...",
+          "student_name": "Amlan Kumar Nandy",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/13-Amlan-Kumar%20Nandy-LabelLab-Improve-Team-Management-and-Collaborative-Experience.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4552573163405312/"
+        },
+        {
+          "title": "NodeCloud - Digital Ocean Provider",
+          "short_description": "NodeCloud is a NodeJs package that aims to provide a one-stop solution to use multiple cloud providers in a project. It provides a plugin for each...",
+          "student_name": "Mohit Bhat",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/14-Mohit-Bhat-NodeCloud-Digital-Ocean-Provider.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4636945044471808/"
+        },
+        {
+          "title": "DNSTool Middleware/API",
+          "short_description": "DNSTool Middleware/API\nDNSTool is a system to monitor a given set of internet resources such as Domains, IPs, etc. The DNSTool Middleware/API is the...",
+          "student_name": "Ramanujan",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/06-Ramanujan-DNSTool-Middleware-API.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4638981630722048/"
+        },
+        {
+          "title": "CodeLabz",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform will...",
+          "student_name": "Kalana Mihiranga",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/02-Kalana-Mihiranga-CodeLabz.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4641665448411136/"
+        },
+        {
+          "title": "DNSTool Web Application",
+          "short_description": "DNSTool WebApplication is the main access portal of the DNSTool which is designed to monitor the given set of internet resources like domains, IP,...",
+          "student_name": "Sahan Randika",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/08-Sahan-Randika-DNSTool-Web-Application.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4711571913179136/"
+        },
+        {
+          "title": "ImageLab - extend the functionality",
+          "short_description": "Extends the current functionalities to the next stage with the core objective of gaining the most prominent concepts in the image processing domain...",
+          "student_name": "Sahan Dissanayaka",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/10-Sahan-Dissanayaka-ImageLab.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6118946796732416/"
+        },
+        {
+          "title": "CrawlerX - Develop Extensible, Distributed, Scalable Web Crawling System",
+          "short_description": "The CrawlerX is a web platform which supports crawling web URLs in a distributed way, focusing for people who are interested in data analysis, data...",
+          "student_name": "Beshiniii",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/04-Beshiniii-CrawlerX-Develop-Extensible-Distributed-Scalable-Web-Crawling-System.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4881150106927104/"
+        },
+        {
+          "title": "SCoRe Lab's Gitter ChatBot",
+          "short_description": "Many open-source contributors face challenges to get started with the community's projects. This project aims to\nmake a Gitter chatbot for the...",
+          "student_name": "Mayank Meena",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/21-Mayank-Meena-SCoRe-Lab-Gitter-ChatBot.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4888131911811072/"
+        },
+        {
+          "title": "Revive TensorMap",
+          "short_description": "TensorMap is a visual designer for ML code. The codebase has gone stale after the initial start-up of the project. TensorMap only consists of very...",
+          "student_name": "Asela Dasanayaka",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2021/16-Asela-Dasanayaka-Revive-TensorMap.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4903585036369920/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/score-lab/",
+      "num_projects": 21,
+      "projects": [
+        {
+          "title": "KubeBot",
+          "short_description": "Kubernetes is a great tool for container orchestration, running Kubernetes in your production environment is getting traction in the Cloud industry....",
+          "student_name": "Priyanshu Raj Shrivastava",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/12-Priyanshu-Raj-Shrivastava-KubeBot.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CrF9bzaI/"
+        },
+        {
+          "title": "CodeLabz: Frontend improvements",
+          "short_description": "CodeLabz is a platform where users can engage with online tutorials, and organizations can create tutorials for the users. The main objectives of...",
+          "student_name": "Saksham Sharma",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/05-Saksham-Sharma-CodeLabz-Frontend-Improvements.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/J5Q0vFr1/"
+        },
+        {
+          "title": "CodeLabz",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is...",
+          "student_name": "Janvi S Thakkar",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/01-Janvi-S-Thakkar-CodeLabz.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/A6NVMn4x/"
+        },
+        {
+          "title": "Design 5 new Themes for WebIU",
+          "short_description": "Building and maintaining a website is an essential task for any business or organization. This project aims to ease the workflow of getting a website...",
+          "student_name": "Abhijay jain",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/09-Abhijay-jain-Design-5-new-Themes-for-WebIU.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/R2NUHUJP/"
+        },
+        {
+          "title": "NodeCloud - Ali Cloud Provider",
+          "short_description": "NodeCloud is an API for the open cloud and acts as a package to abstract away the specifics of implementation for multiple cloud providers, as a...",
+          "student_name": "Pranjal Walia",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/16-Pranjal%20Walia-NodeCloud-Ali-Cloud-Provider.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/l704UX9O/"
+        },
+        {
+          "title": "LabelLab: Ticketing/Issue Tracking System",
+          "short_description": "LabelLab is an image analysis and classification platform for Machine Learning researchers. The goal for this year's GSoC is to improve the...",
+          "student_name": "Nishant Andoriya",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/14-Nishant-Andoriya-LabelLab-Ticketing-Issue-Tracking-System.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BRb6s0fz/"
+        },
+        {
+          "title": "CodeLabz Project Proposal",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is...",
+          "student_name": "Mohammad Sarfraz Alam",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/04-Mohammad-Sarfraz-Alam-CodeLabz-Project-Proposal.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wn0QHAVr/"
+        },
+        {
+          "title": "CodeLabz - FrontEnd, News Feed, Profiles, Organization, Profiles",
+          "short_description": "It includes the front end enhancements of an existing project as well as improvements and new features that can be introduced such as a profile menu,...",
+          "student_name": "Thanda Mahender Goud",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/03-Thanda-Mahender-Goud-CodeLabz-Front-End-News-Feed-Profiles-Organization-Profiles.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zwGmPCW4/"
+        },
+        {
+          "title": "React Email",
+          "short_description": "Problem: Modern-day web browsers are pretty standardized and come with a certain guarantee that if a web page works in one browser, it will work in...",
+          "student_name": "Niloy Sikdar",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/20-Niloy-Sikdar-React-Email.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YpuqZEdd/"
+        },
+        {
+          "title": "Rewrite ImageLab backend",
+          "short_description": "As the proposed project will create the backend of the existing ImageLab electron project the users are able to access image processing functions...",
+          "student_name": "Kaveesha Dinamidu",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/21-Kaveesha-Dinamidu-Rewrite-ImageLab-backend.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9njzCFJk/"
+        },
+        {
+          "title": "OpenXDR GSoC 2022",
+          "short_description": "Detection time and response time are the major critical accepts of all detection and response systems. Considering the vast amount of system logs...",
+          "student_name": "pikulk",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/18-pikulk-OpenXDR-GSoC-2022.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/B7KUMyWw/"
+        },
+        {
+          "title": "Survey 6",
+          "short_description": "Pv6 is the future of the internet, and this created a necessity for a more scalable survey tool to understand how routing and DNS functions work....",
+          "student_name": "1209973",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/23-1209973-Survey-6.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2cIQ4Zvg/"
+        },
+        {
+          "title": "LabelLab - Improve Collaborative Experience and Version Tracking System",
+          "short_description": "LabelLab is an image labeling and classification platform for Machine Learning researchers. It classifies all kind of images and carry out various ML...",
+          "student_name": "Vaishnavi Gupta",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/13-Vaishnavi-Gupta-LabelLab-Improve-Collaborative-Experience-and-Version-Tracking-System.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VbS59H79/"
+        },
+        {
+          "title": "CrawlerX - Web",
+          "short_description": "The CrawlerX is a platform that we can use to crawl web URLs in a distributed fashion with different types of protocols. The main objectives of this...",
+          "student_name": "Takeshii",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/08-Takeshii-CrawlerX-Web.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7Cr2y0Tz/"
+        },
+        {
+          "title": "Codelabz Project Proposal",
+          "short_description": "Codelabz provides a platform that consists of guided tutorial which has been created by organizations for the users. Codelabz is developed using...",
+          "student_name": "Shahaab Manzar",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/06-Shahaab-Manzar-Codelabz-Project-Proposal.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2lgUvVcr/"
+        },
+        {
+          "title": "Design 5 new Themes for Webiu",
+          "short_description": "Building and maintaining a website is an essential task for any business or organization. This project aims to ease the workflow of getting a website...",
+          "student_name": "Ravindu-Hirimuthugoda",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/10-Ravindu-Hirimuthugoda-Design-5-new-Themes-for-Webiu.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hbMLCcC9/"
+        },
+        {
+          "title": "CrawlerX - Extend CrawlerX for multi protocols",
+          "short_description": "The CrawlerX is a platform that we can use to crawl web URLs in different kinds of protocols in a distributed way. This proposal focuses on adding...",
+          "student_name": "Drifter",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/07-Drifter-CrawlerX-Extend-CrawlerX-for-multi-protocols.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9x4krJ3S/"
+        },
+        {
+          "title": "IPv6 Survey Tool ( Survey6 )",
+          "short_description": "SurveyP is an IPv6 listener that will passively collect IPv6 traffic data as a passive data collection tool for cyber security research. It is a...",
+          "student_name": "Dhruvi Doshi",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/11-Dhruvi-Doshi-IPv6-Survey-Tool-Survey6.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jlm7VZtC/"
+        },
+        {
+          "title": "NFT-Toolbox",
+          "short_description": "Non Fungible Tokens can provide many creators a platform to monetize their digital creations. However the understanding of Web3 technologies like...",
+          "student_name": "SadashayKanungo",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/15-SadashayKanungo-NFT-Toolbox.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2PHsoS0l/"
+        },
+        {
+          "title": "CodeLabz - FrontEnd, News Feed, Profiles, Organization, Profiles",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is...",
+          "student_name": "Ayush Bansal",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/02-Ayush-Bansal-CodeLabz-Front-End-News-Feed-Profiles-Organization-Profiles.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FpUMWZPS/"
+        },
+        {
+          "title": "OpenXDR - Real-time Open Source Extended Detection and Response System",
+          "short_description": "OpenXDR is a real-time open source extended detection and response system. That can seamlessly integrate with various information security systems...",
+          "student_name": "Upalanka K",
+          "code_url": "https://github.com/scorelab/GSoC/blob/master/GSoC-2022/17-Upalanka-K-OpenXDR-Real-time-Open-Source-Extended-Detection-and-Response-System.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eW0iWrUd/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/score-lab",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Image Lab",
+          "short_description": "The proposed project aims to revamp the entire front-end of the app. The new front-end will be built using React on top of Electron to match industry...",
+          "student_name": "Abdullah Ranginwala",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/01-Abdullah-Ranginwala-Image-Lab.md",
+          "proposal_id": "yCPT0ufZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0BLb9KSk"
+        },
+        {
+          "title": "Frontend and Backend Integration in Codelabz",
+          "short_description": "CodeLabz is a platform where users can engage with online tutorials and organizations can create tutorials for the users. Currently, the Project...",
+          "student_name": "Abhishek-Pandey",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/02-Abhishek-Pandey-Codelabz.md",
+          "proposal_id": "2R7JwRy7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uT9XSYT8"
+        },
+        {
+          "title": "Scan8 - Web-scanner",
+          "short_description": "The Scan8 project aims to develop a distributed scanning system for detecting malicious threats such as trojans, viruses, and malware embedded in...",
+          "student_name": "Atharva Karambe",
+          "code_url": "https://github.com/Atharva-karambe/GSoC/blob/master/GSoC-2023/Atharva-Karambe-Scan8.md",
+          "proposal_id": "0udXwc3Y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vJNlrVcX"
+        },
+        {
+          "title": "Survey 6  (Data Aggregator)",
+          "short_description": "Ipv6 is the internet's future, and it necessitated a more scalable survey tool to comprehend how routing, DNS function and other traffic. The purpose...",
+          "student_name": "Dhruvi Doshi",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/04-Dhruvi-Doshi-Survey-6.md",
+          "proposal_id": "bYOTxAuH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/LdlUOWJd"
+        },
+        {
+          "title": "RayZed : Ray-based, distributed web vulnerability scanner",
+          "short_description": "Finding out web vulnerabilities for specific targets(URLs) is a critical task. For this OWASP ZAP-ZED helps by using its various scan functionalities...",
+          "student_name": "KushalShah",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/05-KushalShah-RayZed.md",
+          "proposal_id": "tg5SLmMP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1IN7Sna1"
+        },
+        {
+          "title": "NodeCloud",
+          "short_description": "NodeCloud is a standard library to get a single API on the open cloud with multiple providers. It is a NodeJs library which comes with plugins for...",
+          "student_name": "Partik Singh",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/06-Partik-Singh-NodeCloud.md",
+          "proposal_id": "FJHJznZo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/62Zo1VXJ"
+        },
+        {
+          "title": "GraphNet",
+          "short_description": "Graphnet is a Javascript graph library that will be created as a module for the semantic UI framework. Whereas Graphnet dynamically renders all nodes...",
+          "student_name": "Pushpendra Chandravanshi",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/07-Pushpendra-Chandravanshi-GraphNet.md",
+          "proposal_id": "7El4JnQt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oUeY8arQ"
+        },
+        {
+          "title": "Scan8 - Realtime frontend",
+          "short_description": "Scan8 is a distributed scanning system for detecting trojans, viruses, malware, and other malicious threats embedded in files. The system will allow...",
+          "student_name": "Shelly Suthar",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/08-Shelly-Suthar-Scan8.md",
+          "proposal_id": "cAoH3XkQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KK8mBdNH"
+        },
+        {
+          "title": "Frontend and Backend Integration in Codelabz",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. I'll design new...",
+          "student_name": "Shiva Nanda Reddy Gumma",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/09-Shiva-Nanda-Reddy-Gumma-Codelabz.md",
+          "proposal_id": "0lNiEPEP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/glRDYyLP"
+        },
+        {
+          "title": "Project Explainer: Summarization using Large Language Models",
+          "short_description": "Large Language Models are picking pace very quickly and they are turning out to be extremely good in multiple tasks. With the help of zero-shot,...",
+          "student_name": "Sripravallika",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/10-Sripravallika-Project-Explainer.md",
+          "proposal_id": "05KJnS4n",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eJoLPhgw"
+        },
+        {
+          "title": "B0Bot - CyberSecurity News API",
+          "short_description": "In this project, our objective is to develop a CyberSecurity News API tailored for automated bots on social media platforms. It is a cutting-edge...",
+          "student_name": "Tingyuan(Leon) Cui",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/11-Tingyuan-Leon-Cui-B0Bot.md",
+          "proposal_id": "KBBF6h21",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qdMmh9Hb"
+        },
+        {
+          "title": "TensorMap Project",
+          "short_description": "The main goal of this year's contribution is to make the TensorMap application bug free with clearly documented steps for setup. That will be the...",
+          "student_name": "Wenuka Somarathne",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2023/12-Wenuka%20Somarathne-TensorMap.md",
+          "proposal_id": "IETepejz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nqtxQqnS"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.gitter.im/#/room/#scorelab_Google-Summer-of-Code:gitter.im",
+  "contact_email": "mailto:gsoc@scorelab.org",
+  "mailing_list": "https://groups.google.com/g/score-community",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/SCoReLab_Org",
+  "blog_url": "https://medium.com/scorelab"
+}

@@ -1,0 +1,946 @@
+{
+  "name": "Machine Learning for Science (ML4SCI)",
+  "url": "https://ml4sci.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "science and medicine",
+    "algorithms",
+    "physics",
+    "astronomy"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "machine learning",
+    "data analysis",
+    "artificial intelligence"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5101210708738048/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Machine Learning Model for the Planetary Albedo",
+          "short_description": "The goal of the project is to use ML techniques to identify relationships between planetary mapped datasets, with the goal of providing deeper...",
+          "student_name": "Sofia Strukova",
+          "code_url": "https://github.com/ML4SCI/MLMapper/tree/main/Lunar_Prospector/ML_for_Planetary_Albedo_Sofia_Strukova",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6388424486944768/"
+        },
+        {
+          "title": "Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing",
+          "short_description": "The study of substructures in the dark matter has shown signs of promise to deliver on the open-ended and long-standing problem of the identity of...",
+          "student_name": "Apoorva Vikram Singh",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/Equivariant_Neural_Networks_for_DeepLense_Apoorva_Singh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6390539322130432/"
+        },
+        {
+          "title": "Graph Neural Networks for Particle Momentum Estimation in the CMS Trigger System",
+          "short_description": "The Compact Muon Solenoid (CMS) is a detector at the Large Hadron Collider (LHC) located\nnear Geneva, Switzerland. The CMS experiment detects the...",
+          "student_name": "Emre Kurtoglu",
+          "code_url": "https://github.com/ekurtgl/GSoC-2021-GNN_for_Trigger",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6452511203917824/"
+        },
+        {
+          "title": "On the potential of graph-based models in High Energy Physics",
+          "short_description": "The Large Hadron Collider (LHC) at CERN is the world's highest energy particle accelerator, delivering the highest energy proton-proton collisions...",
+          "student_name": "Ali A. Hariri",
+          "code_url": "https://github.com/ML4SCI/DeepFalcon/tree/main/GNN_for_Fast_Detector_Simulation_Ali_Hariri",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6686993836146688/"
+        },
+        {
+          "title": "Machine Learning Model for the Albedo of Mercury",
+          "short_description": "Using Deep Learning techniques in order to model the relationship between the planetary albedo and chemical composition of Mercury.",
+          "student_name": "Georgios Pipilis",
+          "code_url": "https://github.com/ML4SCI/MLMapper/pull/2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5666647045570560/"
+        },
+        {
+          "title": "Direct Objective Function for Anomaly Detection",
+          "short_description": "Currently, DeepLense supports the following models for unsupervised dark matter classification:\n - Adversarial Autoencoder\n - Convolutional...",
+          "student_name": "Yurii Halychanskyi",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/DeepLense_Regression_Yurii_Halychanskyi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5719965138681856/"
+        },
+        {
+          "title": "Background Estimation with Neural AutoRegressive Flows",
+          "short_description": "Neural AutoRegressive Flows are one of the most recent addition to the family of autoregressive flows. By using NAFs, probability density estimation...",
+          "student_name": "Muhammad Ehsan ul Haq",
+          "code_url": "https://github.com/ML4SCI/MLBender/tree/main/Anomaly_Detection_with_Normalizing_Flows_Muhammad_Ehsan_ul_Haq",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5731919643279360/"
+        },
+        {
+          "title": "End-to-End Deep Learning Reconstruction for CMS Experiment",
+          "short_description": "One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single...",
+          "student_name": "Purva Chaudhari",
+          "code_url": "https://medium.com/@purva.chaudhari02/google-summer-of-code-2021-5cf8ef45d2d2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5752881768038400/"
+        },
+        {
+          "title": "Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment",
+          "short_description": "This project focuses on the study and implementation of Graph Neural Networks (GNNs) for low-momentum Tau Particle Identification using the CMS Open...",
+          "student_name": "Shravan Chaudhari",
+          "code_url": "https://github.com/Shra1-25/GSoC2021_BoostedTopJets",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5481164319490048/"
+        },
+        {
+          "title": "Normalizing Flows for Fast Detector Simulation",
+          "short_description": "DeepFalcon is an ultra-fast non-parametric detector simulation package. This project aims to extend DeepFalcon by adding functionality for Graph...",
+          "student_name": "Aditya Ahuja",
+          "code_url": "https://github.com/ML4SCI/DeepFalcon/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5274521866600448/"
+        },
+        {
+          "title": "Quple - Quantum GAN",
+          "short_description": "The proposed project \"Quple - Quantum GAN\" serves as an extension to the 2020 GSoC project \"Quple\" with a major focus on the implementation of...",
+          "student_name": "Chi Lung Cheng",
+          "code_url": "https://github.com/ML4SCI/QMLHEP/tree/main/Quantum_GAN_for_HEP_Chi_Lung_Cheng",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4792725857107968/"
+        },
+        {
+          "title": "Dimensionality Reduction for Studying Diffuse Circumgalactic Medium",
+          "short_description": "This project will seek to identify dimensionality-reduction methods that achieve a reduction in the number of features while maintaining predictive...",
+          "student_name": "Jakub Rybak",
+          "code_url": "https://github.com/ML4SCI/CGM/tree/main/Dimensionality_Reduction_for_CGM_Jakub_Rybak",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4819159568875520/"
+        },
+        {
+          "title": "Quantum Convolutional Neural Networks for High-Energy Physics Analysis at the LHC",
+          "short_description": "One of the challenges in High-Energy Physics (HEP) is events classification, which is to predict whether an image of particle jets belongs to events...",
+          "student_name": "Eraraya Ricardo Muten",
+          "code_url": "https://github.com/eraraya-ricardo/qcnn-hep",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4853064678244352/"
+        },
+        {
+          "title": "Background Estimation with Neural Autoregressive Flows Proposal",
+          "short_description": "Data-driven background estimation is crucial for many scientific searches, including searches for new phenomena in experimental datasets. Neural...",
+          "student_name": "Sinan Gen\u00e7o\u011flu",
+          "code_url": "https://github.com/ML4SCI/MLBender/tree/main/Normalizing_Flows_for_Background_Estimation_Sinan_Gen%C3%A7o%C4%9Flu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4909112927715328/"
+        },
+        {
+          "title": "Machine Learning for Turbulent Fluid Dynamics",
+          "short_description": "Our understanding of Turbulence is still not very clear, studying fluid transitions to turbulence still poses challenging problems. The Navier-Stokes...",
+          "student_name": "Amey Varhade",
+          "code_url": "https://github.com/ML4SCI/TurbulentFluidDynamics/tree/main/ML_for_Turbulent_Fluid_Dynamics_Amey_Varhade",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5841879664427008/"
+        },
+        {
+          "title": "End-to-End Deep Learning Regression for Measurements with the CMS Experiment",
+          "short_description": "Experiments conducted at the Large Hadron Collider (LHC) are the source of the most important discoveries in new physics. One of the most prominent...",
+          "student_name": "Anis Ismail",
+          "code_url": "https://github.com/ML4SCI/E2E/tree/main/E2E_Regression_Anis_Ismail",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5944488077295616/"
+        },
+        {
+          "title": "Decoding quantum states through Nuclear Magnetic Resonance",
+          "short_description": "At low temperatures, many materials transition into an electronic phase which cannot be classified as a simple metal or insulator, and quantum phases...",
+          "student_name": "Anantha Rao",
+          "code_url": "https://github.com/Anantha-Rao12/Decoding-Quantum-States-with-NMR",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5981431137828864/"
+        },
+        {
+          "title": "Domain Adaptation for Decoding Dark Matter with Strong Gravitational Lensing",
+          "short_description": "Dark matter is one of the biggest questions in current cosmology, and many different theories were created to try to explain it. One of the...",
+          "student_name": "Marcos Tidball",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/Domain_Adaptation_for_DeepLense_Marcos_Tidball",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6297273905971200/"
+        },
+        {
+          "title": "Uncovering the Enigma of Type-Ia Supernovae: Thermonuclear Supernova Classification via their Nuclear Signatures",
+          "short_description": "Fundamental questions about Thermonuclear Supernovae (Type-Ia or SNeIa), the beacons visible across the universe, remain unanswered. Using the...",
+          "student_name": "Sophia He",
+          "code_url": "https://github.com/ML4SCI/LOX/tree/main/Thermonuclear_Supernova_Classification_Sophia_He",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5167133490675712/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/machine-learning-for-science-ml4sci/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Finding Exoplanets with Astronomical Observations",
+          "short_description": "Finding Exoplanets with Astronomical Observations. The aim of this of this project would be to apply machine learning / deep learning methods on...",
+          "student_name": "Jack Mcnish",
+          "code_url": "https://gist.github.com/Torus403/b98799102002cf463f49e75fb259665f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/y2IVgVAJ/"
+        },
+        {
+          "title": "Implementation of QGANs to Perform High Energy Physics Analysis at the LHC",
+          "short_description": "One of the challenges in High-Energy Physics(HEP) is fast simulation of particle transport, and hence various deep neural network methods have been...",
+          "student_name": "Abhay Kamble",
+          "code_url": "https://github.com/abzsd/GSoC-ML4SCI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QzBcIxrS/"
+        },
+        {
+          "title": "Anomalies Detection",
+          "short_description": "Anomaly detection is the process of identifying data points, events, and observations that differ from a dataset's expected behavior, called...",
+          "student_name": "Amal Saif",
+          "code_url": "https://github.com/ML4SCI/Anomaly-Detection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XIkPphMz/"
+        },
+        {
+          "title": "Finding Exoplanets with Astronomical Observations",
+          "short_description": "The purpose of this project is to use publicly available data from astronomical observations intended to identify exoplanets in order to determine...",
+          "student_name": "Mahdi Boulila",
+          "code_url": "https://mahdiboulila.medium.com/google-summer-of-code-2022-finding-exoplanets-with-astronomical-observations-985d8cd26b34",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LxYh0Jtq/"
+        },
+        {
+          "title": "Gravitational Lens Finding for Dark Matter Substructure Pipeline",
+          "short_description": "Machine learning techniques are regarded to have the potential to help researchers better comprehend dark matter. Convolutional Neural Networks...",
+          "student_name": "Mriganka Nath",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/DeepLense_Gravitational_Lensing_Mriganka_Nath",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Bc0tUyhL/"
+        },
+        {
+          "title": "Quantum Generative Adversarial Neural Networks for High Energy Physics Analysis at the LHC",
+          "short_description": "One of the problems in High Energy Physics experiments is that particle collisions give rise to novel subatomic particles which need to be detected...",
+          "student_name": "Amey Bhatuse",
+          "code_url": "https://github.com/Amey-2002/GSoC_2022_QMLHEP",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jp4vG7tW/"
+        },
+        {
+          "title": "Updating the DeepLense Pipeline",
+          "short_description": "The study of dark matter substructures has shown promise in addressing the open-ended and long-standing challenge of identifying the true nature of...",
+          "student_name": "Saranga Kingkor Mahanta",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/Updating_the_DeepLense_Pipeline__Saranga_K_Mahanta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nZV4B8Xz/"
+        },
+        {
+          "title": "Vision Transformers for End-to-End Particle Reconstruction for the CMS Experiment",
+          "short_description": "The project aims to use Vision Transformer-based architectures to classify high-energy particles. The data consists of multi-channel simulated images...",
+          "student_name": "Diptarko Choudhury",
+          "code_url": "https://github.com/dc250601/GSOC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZlIvAjlo/"
+        },
+        {
+          "title": "Transformers for Dark Matter Morphology with Strong Gravitational Lensing",
+          "short_description": "Strong gravitational lensing is a phenomenon where the light of distant galaxies is bent and distorted by the gravity of massive galaxy clusters,...",
+          "student_name": "Kartik Sachdev",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/L557jFPL/"
+        },
+        {
+          "title": "Finding Exoplanets with Astronomical Observations",
+          "short_description": "The ultimate purpose of this project is to train image-based deep learning models to detect planets embedded in protoplanetary disks. This will be...",
+          "student_name": "Jason Terry",
+          "code_url": "https://github.com/ML4SCI/EXXA/tree/main/KINEMATIC_APPROACH",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ifDd82zk/"
+        },
+        {
+          "title": "Symbolic empirical representation of squared amplitudes in high-energy physics",
+          "short_description": "Calculating squared amplitudes and cross sections of a Feynman Diagram in high-energy physics is a tedious task. While software like MARTY (A Modern...",
+          "student_name": "Marco Knipfer",
+          "code_url": "https://github.com/BoGGoG/SYMBA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pb2tY6OB/"
+        },
+        {
+          "title": "Quantum Variational Autoencoders for HEP Analysis at the LHC",
+          "short_description": "In the search for physics beyond the standard model physics, the growing amount of data and the evasive of the signals that are being searched for,...",
+          "student_name": "ToMago",
+          "code_url": "https://github.com/ML4SCI/QMLHEP/tree/main/Quantum_AE_for_HEP_Tom_Magorsch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ePnjKlJs/"
+        },
+        {
+          "title": "Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment",
+          "short_description": "Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment: The goal of the project would be to develop, train, test, and...",
+          "student_name": "Jai Bardhan",
+          "code_url": "https://medium.com/@JaiBardhan/google-summer-of-code-2022-with-ml4sci-e2e-top-mass-regression-using-graph-neural-networks-3268a091660b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5rp25PJB/"
+        },
+        {
+          "title": "End-to-End Deep Learning Reconstruction for CMS Experiment",
+          "short_description": "One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single...",
+          "student_name": "Purva Chaudhari",
+          "code_url": "https://github.com/Purva-Chaudhari/RecoE2E",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zT2XkLRX/"
+        },
+        {
+          "title": "Transformers for Dark Matter Morphology with Strong Gravitational Lensing",
+          "short_description": "Since Dark Matter was discovered, physicists have been trying to understand its composition. In practice, the best method to detect substructure is...",
+          "student_name": "Archil Srivastava",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/DeepLense_Classification_Transformers_Archil_Srivastava",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/iFKJMj0t/"
+        },
+        {
+          "title": "Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment",
+          "short_description": "In recent years, the convolutional neural network has been successfully applied in particle physics identification tasks. Despite its great success,...",
+          "student_name": "Xin Yi",
+          "code_url": "https://github.com/Allyyi/ML4SCI-GSOC-GNN",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MB5Hx1cQ/"
+        },
+        {
+          "title": "Equivariant Transformers for Decoding Dark Matter with Strong Gravitational Lensing",
+          "short_description": "Convolutional Neural Networks require large receptive fields in order to track long-range dependencies within an image, which in practice involves...",
+          "student_name": "Yurii Claus",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/DeepLense_Regression_Yurii_Halychanskyi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/58Y5QOU4/"
+        },
+        {
+          "title": "Quantum Convolutional Neural Networks for High Energy Physics Analysis at the LHC",
+          "short_description": "This study aims to show the capabilities of QML especially QCNN for classifying the HEP image datasets. QCNN can be completely quantum or can be a...",
+          "student_name": "Gopal Ramesh Dahale",
+          "code_url": "https://github.com/ML4SCI/QMLHEP/tree/main/Quantum_CNN_for_HEP_Gopal_Ramesh_Dahale",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0gbpQgKv/"
+        },
+        {
+          "title": "Fast Accurate Symbolic Empirical Representation of Histograms",
+          "short_description": "This proposal regards mapping histogram data to its underlying function; both of which can be represented as sequences and hence a transformer can...",
+          "student_name": "Aaron Mayer",
+          "code_url": "https://github.com/ML4SCI/FASEROH",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/f5Oq08iH/"
+        },
+        {
+          "title": "Deep Regression Exploration",
+          "short_description": "Using Deep Regression techniques to decode Dark Matter with Strong Gravitational Lensing. Try to use the SOTA deep model (such as transformers) to do...",
+          "student_name": "Zhongchao Guan",
+          "code_url": "https://medium.com/@gg884691896/gsoc-2021-with-ml4sci-deep-regression-exploration-34d5d8fb4643",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lnptRFqq/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/machine-learning-for-science-ml4sci",
+      "num_projects": 23,
+      "projects": [
+        {
+          "title": "Diffusion Models for Fast Detector Simulation",
+          "short_description": "Particle colliders such as the Large Hadron Collider (LHC) play a crucial role in advancing our understanding of fundamental particles and their...",
+          "student_name": "Akshit Choudhari",
+          "code_url": "https://github.com/ML4SCI/DeepFalcon",
+          "proposal_id": "DleO3qxe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QDPyBSbO"
+        },
+        {
+          "title": "Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment",
+          "short_description": "This project focuses on developing and evaluating end-to-end Graph Neural Network (GNN) models for low-momentum tau identification in the context of...",
+          "student_name": "Anthony Song",
+          "code_url": "https://medium.com/@anthony_iytrzx/test-title-gsoc-2023-92732bff3e57",
+          "proposal_id": "VXTNJNPv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/69elZR8R"
+        },
+        {
+          "title": "Equivariant Quantum Neural Networks for Continuous Symmetry in High Energy Physics",
+          "short_description": "This project aims to explore the development and application of equivariant quantum neural networks (EQNNs) for continuous symmetry in high-energy...",
+          "student_name": "Cosmos Dong",
+          "code_url": "https://medium.com/@zhontiandong/equivariant-quantum-neural-networks-be4ba231c457",
+          "proposal_id": "QfSTKWjr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Pzd5EZBm"
+        },
+        {
+          "title": "Exploring the underlying symmetries in particle physics with equivariant neural networks",
+          "short_description": "Symmetry is one of the most beautiful and interesting phenomena in physics. Particle Physics is dominated by Lorentz symmetry. It is seen that...",
+          "student_name": "Diptarko Choudhury",
+          "code_url": "https://medium.com/@cdiptarko/invariant-nets-and-particle-showers-b6ac21275d86",
+          "proposal_id": "hAmeBnIX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OZd31ChO"
+        },
+        {
+          "title": "Prediction of High Energy Particle Kinematics via Masked Autoencoding",
+          "short_description": "In high energy physics, much research revolves around the study of particles produced by colliding protons at near the speed of light. The Higgs...",
+          "student_name": "Eric Reinhardt",
+          "code_url": "https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df",
+          "proposal_id": "arKvYz98",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SQ6YkFc3"
+        },
+        {
+          "title": "Quantum transformer for High Energy Physics Analysis at the LHC",
+          "short_description": "Transformer-based models are gaining more and more traction in many fields, including physics. However, they are particularly known to require...",
+          "student_name": "Eyup",
+          "code_url": "https://medium.com/@eyupb.unlu/cd9ed594e4a2",
+          "proposal_id": "JWWJQg2J",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ooYoBWbw"
+        },
+        {
+          "title": "Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing",
+          "short_description": "Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning...",
+          "student_name": "Geo Jolly",
+          "code_url": "https://github.com/kingjuno/GSoC-23/",
+          "proposal_id": "ZsZq7B95",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QA2XXRFh"
+        },
+        {
+          "title": "Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC",
+          "short_description": "The LHC at CERN contains large detectors which are made up of numerous small detectors that capture the hundreds of particles produced during...",
+          "student_name": "Gopal Ramesh Dahale",
+          "code_url": "https://github.com/ML4SCI/QMLHEP/pull/9",
+          "proposal_id": "EqIQR6sV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/sRqbxQyq"
+        },
+        {
+          "title": "Identifying the Physical Process of Planet Formation (EXXA)",
+          "short_description": "Planets form in complex, dynamic environments. The physics behind the process is not well-understood, and the limited high-quality observational data...",
+          "student_name": "Jason Terry",
+          "code_url": "https://github.com/ML4SCI/EXXA/tree/5120b8c29af5c0fa87288afa17d61ab1f7152d9c/ANOMALY_DETECTION/EXXA_Final_JTerry",
+          "proposal_id": "CMTipocB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MYYJDFU9"
+        },
+        {
+          "title": "Super-Resolution for Strong Gravitational Lensing",
+          "short_description": "Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning...",
+          "student_name": "K Pranath Reddy",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/Super_Resolution_Pranath_Reddy",
+          "proposal_id": "ScNICqpw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Rh8kJLr4"
+        },
+        {
+          "title": "Vision Transformers for End-to-End Particle Reconstruction for the CMS Experiment",
+          "short_description": "The goal of the project is to apply and develop \u201cend-to-end\u201d vision transformer (ViT)-based networks for jet-flavor identification with the CMS open...",
+          "student_name": "Ka Wa Ho",
+          "code_url": "https://github.com/ML4SCI/E2E/tree/main/E2E_Visual_Image_Transformer_Ka_Wa_Ho",
+          "proposal_id": "T0qyt79t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Oosr0bT3"
+        },
+        {
+          "title": "Self-Supervised Learning for Strong Gravitational Lensing",
+          "short_description": "Supervised learning might be challenging in cases where there are extremely few known instances in a given category. This is a common occurrence in...",
+          "student_name": "Kartik Sachdev",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/Transformers_Classification_DeepLense_Kartik_Sachdev",
+          "proposal_id": "WF74jIVS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vOCJj7R0"
+        },
+        {
+          "title": "Lensiformer: A Physics-Informed Vision Transformer Architecture for Dark Matter Morphology",
+          "short_description": "We introduce Lensiformer, a state-of-the-art transformer architecture that incorporates the principles of relativistic physics for the classification...",
+          "student_name": "Lucas Jos\u00e9",
+          "code_url": "https://medium.com/@lucas.jose.veloso.de.souza/lensiformer-a-relativistic-physics-informed-vision-transformer-architecture-for-dark-matter-a119f6d0dc0d",
+          "proposal_id": "tdJv6pzl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eNzfLWS9"
+        },
+        {
+          "title": "Quantum Transformers for HEP Analysis at the LHC",
+          "short_description": "This project aims to develop quantum transformer architectures for high energy physics (HEP) analysis at the Large Hadron Collider (LHC). The focus...",
+          "student_name": "Mar\u00e7al Comajoan Cara",
+          "code_url": null,
+          "proposal_id": "0QUhS7vw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/t0AHVDEG"
+        },
+        {
+          "title": "Finding Exoplanets with Astronomical Observations",
+          "short_description": "Protoplanetary disks are birthplaces of planetary systems. Newly forming planets inside a protoplanetary disk interact with gas and dust in the disks...",
+          "student_name": "Mihir Tripathi",
+          "code_url": "https://medium.com/@mihirtripathi97/exxa-detecting-planets-in-dusty-disks-bd5a7db30cc8",
+          "proposal_id": "MRDPz4RS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZH6drPWV"
+        },
+        {
+          "title": "Symbolic empirical representation of squared amplitudes in high-energy physics",
+          "short_description": "In particle physics, a cross section is a measure of the likelihood that particles will interact or scatter with one another when they collide. It is...",
+          "student_name": "Neeraj Anand",
+          "code_url": "https://medium.com/@neerajanandfirst/my-journey-to-google-summer-of-code-2023-with-ml4sci-8822ce64464a",
+          "proposal_id": "xtPQU7lz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DLza6brS"
+        },
+        {
+          "title": "FASEROH : Building seq2seq model for mapping histograms to empirical symbolic representations",
+          "short_description": "The problem involves creating a seq2seq model for mapping histograms to empirical function sequences. I propose to tackle this in two steps. Step 1...",
+          "student_name": "Pushpdeep Singh",
+          "code_url": "https://pushpdeep.medium.com/gsoc-2023-with-ml4sci-faseroh-1d2bb96d727e",
+          "proposal_id": "DuUNAMoK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5kE1mg0m"
+        },
+        {
+          "title": "Invariant and Equivariant Quantum Graph Attention Transformers for HEP Analysis at the LHC",
+          "short_description": "Machine learning algorithms are heavily relied on to understand the data generated at the European Council for Nuclear Research's (CERN) Large Hadron...",
+          "student_name": "Roy T. Forestano",
+          "code_url": "https://royforestano.github.io/blog/2023/2023-gsoc-ml4sci-qmlhep/",
+          "proposal_id": "nHtmbbIr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1ERZ3hp2"
+        },
+        {
+          "title": "Deriving planetary surface composition from orbiting observations from spacecraft",
+          "short_description": "Multiple robotic spacecraft have been sent by NASA to collect orbital remote sensing data, which is used to analyze surface composition. Gamma-ray...",
+          "student_name": "Sandeepan Dhoundiyal",
+          "code_url": "https://medium.com/@dsandeepan995/gsoc23-with-ml4sci-deriving-planetary-surface-composition-from-orbiting-observations-from-46f81885c9be",
+          "proposal_id": "7zehUC8c",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AVoivIHy"
+        },
+        {
+          "title": "Updating the DeepLense Pipeline",
+          "short_description": "Studying the substructures of dark matter holds promise in solving the longstanding problem of determining the true nature of dark matter. By using...",
+          "student_name": "Saranga Kingkor Mahanta",
+          "code_url": "https://medium.com/@saranga.boo/updating-the-deeplense-pipeline-part-2-gsoc-2023-with-ml4sci-299a48d0dd23",
+          "proposal_id": "hncGxsns",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/i3gCtDUx"
+        },
+        {
+          "title": "Quantum Generative Adversarial Networks for HEP event generation the LHC",
+          "short_description": "An important part of the analysis pipeline of high energy physics experiments is the generation of expected data from first principles. For decades,...",
+          "student_name": "ToMago",
+          "code_url": null,
+          "proposal_id": "sl5lRXxr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ggoiGDQ5"
+        },
+        {
+          "title": "SYMBA - Symbolic empirical representation of squared amplitudes in high-energy physics",
+          "short_description": "The interaction cross-section is an important quantity in high-energy physics, serving as a bridge between abstract theory and experiment. Is is also...",
+          "student_name": "VBaules",
+          "code_url": null,
+          "proposal_id": "IQZgYYPp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/A1tU7p7j"
+        },
+        {
+          "title": "Self-Supervised Learning for Strong Gravitational Lensing",
+          "short_description": "Problem Statement: An unprecedented amount of lensing data is available, however manually labeling it is unsustainable. Hence an approach must be...",
+          "student_name": "yaashwardhan",
+          "code_url": "https://yaashwardhan.medium.com/self-supervised-learning-for-strong-gravitational-lensing-part1-5a049e976b51",
+          "proposal_id": "iDCIi1UT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TBOsy4MA"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/machine-learning-for-science-ml4sci/",
+      "num_projects": 26,
+      "projects": [
+        {
+          "title": "Learning quantum representations of classical  high energy physics data with contrastive learning",
+          "short_description": "This project investigates the fusion of classical data encoding onto quantum models using contrastive learning techniques. The objective is to...",
+          "student_name": "Sanya Nanda",
+          "code_url": "https://github.com/ML4SCI/QMLHEP/tree/main/Quantum_SSL_for_HEP_Sanya_Nanda",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IDScJm9Z/"
+        },
+        {
+          "title": "Non-local GNNs for Jet Classification",
+          "short_description": "The quest for new physics has encompassed and intrigued physicists for decades. At CERN LHC, high-energy proton-proton collisions can create new,...",
+          "student_name": "Tanmay Bakshi",
+          "code_url": "https://github.com/DarthRevan07/DeepFalcon",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/d1G8ygJr/"
+        },
+        {
+          "title": "Quantum transformer for High Energy Physics Analysis at the LHC",
+          "short_description": "This proposal sets out to implement several kinds of Quantum Vision Transformers (QViT) for High Energy Physics (HEP) analysis at the Large Hadron...",
+          "student_name": "Alessandro Tesi",
+          "code_url": "https://medium.com/@tesi.alessandro88/gsoc-24-quantum-transformer-for-high-energy-physics-analysis-at-ml4sci-ab8a86acdab0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JLeQwG3r/"
+        },
+        {
+          "title": "Superresolution for Strong Gravitational Lensing",
+          "short_description": "The \"Superresolution for Strong Gravitational Lensing\" project aims to enhance the resolution of astronomical images through advanced deep learning...",
+          "student_name": "Atal",
+          "code_url": "https://medium.com/@guptaatal/single-image-super-resolution-using-denoising-auto-encoder-f05facda6485",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3YAQgkHr/"
+        },
+        {
+          "title": "Graph Neural Networks for Particle Momentum Estimation in the CMS Trigger System",
+          "short_description": "This project aims to apply Deep Learning algorithms specifically Graph Neural Networks (GNN) for momentum regression in the trigger system....",
+          "student_name": "Vishak K Bhat",
+          "code_url": "https://medium.com/@vishak.bhat5/gsoc24-with-ml4sci-graph-neural-networks-for-particle-momentum-estimation-in-the-cms-trigger-e67e3f43a292",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IvXRHeSE/"
+        },
+        {
+          "title": "Learning Representation Through Self-Supervised Learning on Real Gravitational Lensing Images",
+          "short_description": "Deep learning has transformed the analysis of supervised lensing data, utilizing feature spaces to uncover latent variables related to dark matter....",
+          "student_name": "yaashwardhan",
+          "code_url": "https://yaashwardhan.medium.com/self-supervised-learning-for-strong-gravitational-lensing-part1-5a049e976b51",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GNfjYVmg/"
+        },
+        {
+          "title": "Equivariant quantum neural networks for High Energy Physics Analysis at the LHC",
+          "short_description": "The investigation of symmetries has long been a cornerstone in analyzing physical systems. As formalized by Noether\u2019s theorem, conserved quantities...",
+          "student_name": "Lazaro Raul Diaz Lievano",
+          "code_url": "https://github.com/ML4SCI/QMLHEP/tree/main/EQNN_for_HEP_Lazaro_Diaz_Lievano",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3nRhnPRb/"
+        },
+        {
+          "title": "Masked Auto-Encoders for Efficient E2E Particle Reconstruction & Compression for CMS Experiment",
+          "short_description": "The goal of this project is to develop Masked Vision Transformer for reconstruction and compression of CMS data. It is much easy to procure...",
+          "student_name": "Lokesh Badisa",
+          "code_url": "https://github.com/ML4SCI/E2E/tree/main/E2E_MAE_Lokesh_Badisa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4KpQiVr8/"
+        },
+        {
+          "title": "Resilient Physics-Informed Anomaly Detection and Inference of Lensing Images on Sparse Datasets",
+          "short_description": "Inferences using machine learning methods are becoming increasingly necessary in probing dynamical systems with complex and imperfect datasets. This...",
+          "student_name": "Anirudh Shankar",
+          "code_url": "https://medium.com/@anirudhshankar99/physics-informed-unsupervised-super-resolution-of-lensing-images-gsoc-2024-x-ml4sci-51cedc1cfb00",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AvlaMMJJ/"
+        },
+        {
+          "title": "Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC",
+          "short_description": "Discovering new phenomena, like the Higgs boson, involves the identification of rare signals that could shed light into unanswered questions about...",
+          "student_name": "Jogi Suda Neto",
+          "code_url": "https://jogisuda.github.io/posts/2024/07/lie-eqgnn/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Yul5lU5e/"
+        },
+        {
+          "title": "QMLHEP3: Learning quantum representations of classical HEP data with contrastive learning",
+          "short_description": "QMLHEP3, or \"Learning quantum representations of classical high energy physics data with contrastive learning,\" aims to study an intersection of...",
+          "student_name": "duydl",
+          "code_url": "https://github.com/duydl/gsoc24-qml-workspace",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4hPKaqPv/"
+        },
+        {
+          "title": "Equivariant Vision Networks for Predicting Planetary Systems' Architectures",
+          "short_description": "Understanding the architecture of planetary systems is crucial for insights into their formation and evolution. This project aims to leverage the...",
+          "student_name": "Alexandra Murariu",
+          "code_url": "https://docs.google.com/document/d/1K_cv7PbCubY-_vpb3Gc2EyGaN9kaNrc4qkqRB9j3K4M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9kvha0VA/"
+        },
+        {
+          "title": "Physics-Guided Machine Learning",
+          "short_description": "The project aims to develop a physics-informed neural network framework in order to do the inference for the properties and distribution of dark...",
+          "student_name": "Ashutosh Ojha",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/DeepLense_Physics_Informed_Neural_Network_for_Dark_Matter_Morphology_Ashutosh_Ojha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HjZq0wjG/"
+        },
+        {
+          "title": "Evolutionary and Transformer Models for Symbolic Regression",
+          "short_description": "Symbolic Regression refers to discovering a function that accurately fits a given dataset. Evolutionary/genetic algorithms have been dominating this...",
+          "student_name": "Aryamaan Thakur",
+          "code_url": "https://github.com/ML4SCI/SYMBA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fIWFP5zW/"
+        },
+        {
+          "title": "Quantum Generative Adversarial Networks for Monte Carlo Simulations",
+          "short_description": "This project aims to improve the efficiency and accuracy of Monte Carlo simulations by leveraging Quantum Generative Adversarial Networks (QGANs)....",
+          "student_name": "Luis Rey",
+          "code_url": "https://reyguadarrama.github.io/posts/GSoC-2024.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HnazN3SK/"
+        },
+        {
+          "title": "Diffusion Models for Gravitational Lensing Simulation",
+          "short_description": "My project focuses on utilizing Diffusion Models for Gravitational Lensing Simulation, encompassing two primary tasks. The first task involves...",
+          "student_name": "J Rishi",
+          "code_url": "https://github.com/ML4SCI/DeepLense/tree/main/DeepLense_Diffusion_Rishi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WG4tmCv7/"
+        },
+        {
+          "title": "Learning quantum representations of classical high energy physics data with contrastive learning",
+          "short_description": "In this project, we introduce quantum contrastive learning, a quantum machine learning technique to enhance performance of models involving high...",
+          "student_name": "Amey Bhatuse",
+          "code_url": "https://github.com/Amey-2002/GSoC_2024_QMLHEP",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nyIWIGtE/"
+        },
+        {
+          "title": "Implementation of Quantum Generative Adversarial Networks to Perform HEP Analysis at LHC",
+          "short_description": "The project aims to implement different GAN architectures ranging from classical models to fully quantum models, including hybrid models as well. And...",
+          "student_name": "Adithya Penagonda",
+          "code_url": "https://medium.com/@swheatdreamz/whos-at-loss-0b921b3e1bb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OKkyXUkV/"
+        },
+        {
+          "title": "Exoplanet Atmosphere Characterization",
+          "short_description": "This project intends to develop cutting-edge machine-learning tools for spectral analysis to characterize the atmospheres of exoplanets. The project...",
+          "student_name": "Gaurav Shukla",
+          "code_url": "https://medium.com/@shuklag554/exoplanet-atmosphere-characterization-gsoc24-ml4sci-part-2-96392e3ba190",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ir53unkD/"
+        },
+        {
+          "title": "Quantum Diffusion Model for High Energy Physics",
+          "short_description": "Classical diffusion models (DMs) have experienced rapid growth in usability, availability, and research. The classical DM algorithm consists of two...",
+          "student_name": "Masha",
+          "code_url": "https://medium.com/@mashapotatoes/gsoc-quantum-diffusion-model-for-high-energy-physics-part-ii-6e693d625931",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sCNGAri6/"
+        },
+        {
+          "title": "Learning Representation Through Self-Supervised Learning on Real Gravitational Lensing Images",
+          "short_description": "Strong gravitational lensing provides a means to probe dark matter substructure. In recent years, machine learning techniques, particularly...",
+          "student_name": "Sreehari Iyer",
+          "code_url": "https://github.com/iyersreehari/DeepLense/tree/deeplense_ssl_sreehari_iyer_branch/DeepLense_SSL_from_real_dataset_Sreehari_Iyer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LvO4hLFt/"
+        },
+        {
+          "title": "Masked Auto-Encoders for End-to-End Particle Reconstruction and Compression for the CMS Experiment",
+          "short_description": "Proposal Summary: The project aims to achieve two primary objectives: efficient and precise particle identification and the development of effective...",
+          "student_name": "Shashank Shekhar Shukla",
+          "code_url": "https://medium.com/@shuklashashankshekhar863/masked-autoencoders-for-efficient-end-to-end-particle-reconstruction-and-compression-for-the-cms-fdd7b941a2bb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BVlo7Qca/"
+        },
+        {
+          "title": "Self-Supervised Learning for End-to-End Particle Reconstruction for the CMS Experiment",
+          "short_description": "The End-to-End Deep Learning project within the CMS experiment at the Large Hadron Collider plays a critical role in identifying and reconstructing...",
+          "student_name": "3podi",
+          "code_url": "https://github.com/ML4SCI/E2E/tree/main/E2E_IJEPA_Riccardo_Tripodi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Jl6UUy9k/"
+        },
+        {
+          "title": "Evolutionary and Transformer Models for Symbolic Regression",
+          "short_description": "Symbolic Regression serves as a powerful tool for uncovering symbolic expressions that encapsulate data patterns, such as physical laws. This project...",
+          "student_name": "Samyak Jha",
+          "code_url": "https://github.com/SamyakJha114/GSOC-24-SR",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AgKltyEl/"
+        },
+        {
+          "title": "Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP",
+          "short_description": "In particle physics, a cross section is a measure of the likelihood that particles will interact or scatter with one another when they collide. It is...",
+          "student_name": "Ritesh Bhalerao",
+          "code_url": "https://www.linkedin.com/posts/ritesh-bhalerao_gsoc-activity-7256869917877026816-2TCY?utm_source=share&utm_medium=member_desktop",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/0Oa841IT/"
+        },
+        {
+          "title": "Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC",
+          "short_description": "The Large Hadron Collider (LHC) built by CERN is the world\u2019s largest and the most powerful particle accelerator, which generates about 1 billion...",
+          "student_name": "Haemanth V",
+          "code_url": "https://medium.com/@haemanth10/quantum-graph-neural-networks-9cde9613a8d5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iREEAOx9/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/machine-learning-for-science-ml4sci",
+      "num_projects": 31,
+      "projects": [
+        {
+          "title": "Foundation models for End-to-End event reconstruction",
+          "short_description": "Current deep learning models for CMS particle reconstruction are often task-specific. This project aims to develop versatile foundation models by...",
+          "student_name": "Aaditya Porwal",
+          "code_url": null,
+          "proposal_id": "GSkyXouP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qZDekrLE"
+        },
+        {
+          "title": "Unsupervised Super-Resolution and Analysis of Real Lensing Images",
+          "short_description": "This project develops an open-source, unsupervised super-resolution (SR) pipeline for enhancing the resolution of gravitational lensing images,...",
+          "student_name": "Aleksandr Duplinskii",
+          "code_url": null,
+          "proposal_id": "9BB8gWtG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0Dpx7PkX"
+        },
+        {
+          "title": "Quantum Particle transformer for High Energy Physics Analysis at the LHC",
+          "short_description": "This proposal aims to build upon and expand the progress made in recent years on Quantum Vision Transformers (QViTs) for High Energy Physics (HEP)...",
+          "student_name": "Alessandro Tesi",
+          "code_url": null,
+          "proposal_id": "eaJnSjKY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1MGPehm9"
+        },
+        {
+          "title": "Discovering Hidden Symmetries in CMS Calorimetric Data via Semi-Supervised Learning",
+          "short_description": "This project tackles the challenge of learning hidden symmetries in complex, high-dimensional physics data using modern machine learning techniques....",
+          "student_name": "Alexandra Murariu",
+          "code_url": null,
+          "proposal_id": "9hIX9FDS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SiAABTM9"
+        },
+        {
+          "title": "Unsupervised super-resolution and analysis of observed lensing images",
+          "short_description": "Machine learning based analyses are proving to be very potent in understanding complex physical systems. This project aims to develop a reinforcement...",
+          "student_name": "Anirudh Shankar",
+          "code_url": null,
+          "proposal_id": "wcoImMz7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FN4tGXDE"
+        },
+        {
+          "title": "Q-MAML for Variational Quantum Algorithms for High Energy Physics Analysis at the LHC",
+          "short_description": "This project focuses on developing a new machine learning approach called Quantum Model-Agnostic Meta-Learning (Q-MAML) specifically for high-energy...",
+          "student_name": "arnavsinghal09",
+          "code_url": null,
+          "proposal_id": "AVvumE5d",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dHEy5F8z"
+        },
+        {
+          "title": "Physics Guided Machine Learning on Real Lensing Images",
+          "short_description": "The project aims to develop a physics-informed neural network framework to infer the properties and distribution of dark matter in the lensing galaxy...",
+          "student_name": "Ashutosh Ojha",
+          "code_url": null,
+          "proposal_id": "q99zIUs9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IfQvKrOC"
+        },
+        {
+          "title": "Discovery of hidden symmetries and conservation laws",
+          "short_description": "Because of its cylindrical shape, the Compact Muon Solenoid (CMS) detector has intrinsic rotational symmetries. Data analysis can be greatly improved...",
+          "student_name": "Avishikta_Bhattacharjee",
+          "code_url": null,
+          "proposal_id": "HaJCkaGs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XgeDrH4B"
+        },
+        {
+          "title": "Physics-Informed Performer for Symbolic Squared Amplitudes in HEP",
+          "short_description": "In high-energy physics (HEP), automating the symbolic computation of squared amplitudes is essential for predicting cross-sections and validating...",
+          "student_name": "Ayush Mishra A",
+          "code_url": null,
+          "proposal_id": "sJ5AUXx0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FAUugAQ0"
+        },
+        {
+          "title": "A Diffusion-Based Deep Learning Framework for Denoising Protoplanetary Disk Observations",
+          "short_description": "This project proposes ProtoDiff, a diffusion-based deep learning model designed to denoise astronomical observations of protoplanetary disks from...",
+          "student_name": "Chukwunwogor Faithful",
+          "code_url": null,
+          "proposal_id": "XM31oQKL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HEfdSjzD"
+        },
+        {
+          "title": "Continuous learning for high-energy physics data quality monitoring",
+          "short_description": "Continuous learning serves as a powerful approach for maintaining reliable data quality monitoring in high-energy physics experiments facing evolving...",
+          "student_name": "Daksh Mor",
+          "code_url": null,
+          "proposal_id": "GjzEIe4u",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LaROwUCf"
+        },
+        {
+          "title": "DeepLense: Gravitational Lens Finding Project",
+          "short_description": "This project aims to develop and optimize deep learning algorithms for identifying strong gravitational lenses within wide-field surveys such as the...",
+          "student_name": "DhruvSrivastava",
+          "code_url": null,
+          "proposal_id": "TF0inRsc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/22BgqGr7"
+        },
+        {
+          "title": "Exoplanet Atmosphere Characterization",
+          "short_description": "This project intends to develop cutting-edge machine-learning tools for spectral analysis to characterize the atmospheres of exoplanets. The project...",
+          "student_name": "Gaurav Shukla",
+          "code_url": null,
+          "proposal_id": "5l0JfF1W",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2W9zeTPN"
+        },
+        {
+          "title": "Discovery of hidden symmetries and conservation laws",
+          "short_description": "This project aims to uncover fundamental symmetries and conserved laws hidden within complex high-energy physics data (specifically CMS datasets). It...",
+          "student_name": "Green Kedia",
+          "code_url": null,
+          "proposal_id": "8gKYpYtC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7sbHDzye"
+        },
+        {
+          "title": "Diffusion Models for Gravitational Lensing Simulation",
+          "short_description": "My project focuses on developing diffusion models for gravitational lensing simulations. I will implement and evaluate various diffusion-based...",
+          "student_name": "hamees-sayed",
+          "code_url": null,
+          "proposal_id": "XFJmmm4I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/T27qiqDH"
+        },
+        {
+          "title": "Foundation Model for Gravitational Lensing",
+          "short_description": "This project aims to develop a vision foundation model for strong gravitational lensing by comparing various self-supervised learning techniques,...",
+          "student_name": "J Rishi",
+          "code_url": null,
+          "proposal_id": "JnTywUNC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bDYOfWmR"
+        },
+        {
+          "title": "Latent Neural Signatures in Clinical vs. Neurotypical Dyads: A CEBRA Pipeline",
+          "short_description": "This project aims to develop a cutting-edge computational pipeline\u2014\"Latent Neural Signatures in Clinical vs. Neurotypical Dyads: A CEBRA Pipeline\"\u2014to...",
+          "student_name": "jeffreyhuang1009",
+          "code_url": null,
+          "proposal_id": "FLhs6QH4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n70Uehmn"
+        },
+        {
+          "title": "Data Processing Pipeline for the LSST",
+          "short_description": "The project, \"Data Processing Pipeline for the LSST,\" is designed to bridge the gap between the LSST data ecosystem and DeepLense's deep learning...",
+          "student_name": "Kartik Mandar",
+          "code_url": null,
+          "proposal_id": "MMa6Q3ix",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HoQUCDWw"
+        },
+        {
+          "title": "Foundation models for symbolic regression tasks",
+          "short_description": "Problem: Symbolic regression is crucial for discovering underlying physical laws from data, but traditional methods are often computationally...",
+          "student_name": "Krish Malik",
+          "code_url": null,
+          "proposal_id": "k7PTZhS3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RtrwLUB6"
+        },
+        {
+          "title": "Neural Harmony \u2013 Decoding Social Interactions with CEBRA-based framework for analysing EEG data",
+          "short_description": "This project aims to decode the neural dynamics of social interactions by adapting the CEBRA framework to analyze dyadic EEG data. Focusing on...",
+          "student_name": "Maria Glushanina",
+          "code_url": null,
+          "proposal_id": "FCAs123g",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Rjgy9LB6"
+        },
+        {
+          "title": "Quantum Diffusion Model for HEP",
+          "short_description": "Diffusion models have experienced rapid growth in usability, availability, and research. The classical algorithm consists of two main parts: a...",
+          "student_name": "Masha",
+          "code_url": null,
+          "proposal_id": "9P7GWtJS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zoK9XWAM"
+        },
+        {
+          "title": "Implementation of Quantum Generative Adversarial Networks to Perform HEP Analysis at the LHC",
+          "short_description": "This project aims to implement a Quantum Generative Adversarial Network (QGAN) using the Pennylane framework to explore the advantages of quantum...",
+          "student_name": "Maya Ma",
+          "code_url": null,
+          "proposal_id": "2zCnp4ft",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4zV712HN"
+        },
+        {
+          "title": "Building a Foundational Model for Symbolic Regression in High Energy Physics",
+          "short_description": "This project proposes the development of a foundational model for symbolic regression tailored to high energy physics (HEP). Symbolic regression can...",
+          "student_name": "Miche",
+          "code_url": null,
+          "proposal_id": "LQGqJfZb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OEZlYZ6G"
+        },
+        {
+          "title": "State-space models for squared amplitude calculation in high-energy physics",
+          "short_description": "One of the most important physical quantities in particle physics is the cross section, or a probability that a particular process takes place in the...",
+          "student_name": "Prasanth Naidu",
+          "code_url": null,
+          "proposal_id": "RazuRQdv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yq2sYd99"
+        },
+        {
+          "title": "Quantum Kolmogorov-Arnold Networks for High Energy Physics Analysis at the LHC",
+          "short_description": "This project explores Quantum Kolmogorov\u2013Arnold Networks (QKANs) as a novel and interpretable architecture for analyzing collider data from the...",
+          "student_name": "Ria Khatoniar",
+          "code_url": null,
+          "proposal_id": "cHqKJ0BJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TNdAnfnC"
+        },
+        {
+          "title": "Next-Generation Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP",
+          "short_description": "In particle physics, a cross section is a measure of the likelihood that particles will interact or scatter with one another when they collide. It is...",
+          "student_name": "Ritesh Bhalerao",
+          "code_url": null,
+          "proposal_id": "bDzvTm9P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/niqGYrnh"
+        },
+        {
+          "title": "Graph Representation Learning for Fast Detector Simulation",
+          "short_description": "High-fidelity detector simulations are critical for accurate analysis in particle physics, but traditional Monte Carlo-based methods are...",
+          "student_name": "Rushil Singha",
+          "code_url": null,
+          "proposal_id": "LGxRuMRq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pLGb5JlM"
+        },
+        {
+          "title": "Physics informed neural network diffusion equation",
+          "short_description": "This project aims at incorporating Physics informed neural network (PINN) based ODE solvers into the Diffusion probabilistic models(DPM) , to build a...",
+          "student_name": "Sijil",
+          "code_url": null,
+          "proposal_id": "JSMaIzdZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uGmyAV1q"
+        },
+        {
+          "title": "Quantum Machine Learning For Exoplanet Characterization",
+          "short_description": "This project aims to develop quantum machine learning models for exoplanet atmosphere characterization by leveraging the power of quantum neural...",
+          "student_name": "Sourish Phate",
+          "code_url": null,
+          "proposal_id": "bbSF7Hhy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xIJEvndL"
+        },
+        {
+          "title": "Foundation Models for Exoplanet Characterization",
+          "short_description": "The project aims at building foundational models suitable for characterizing the vast astronomical data and emphasizing their use case for various...",
+          "student_name": "Tanmay Singhal",
+          "code_url": null,
+          "proposal_id": "qdl5158j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/T6ZNRVxa"
+        },
+        {
+          "title": "A Self-Supervised, Physics-Informed Hybrid Transformer Framework for Multi-Tasks in HEP",
+          "short_description": "Accurately classifying particle collisions\u2014whether distinguishing quark- from gluon-initiated jets or isolating Higgs events from complex...",
+          "student_name": "Thanh P Nguyen",
+          "code_url": null,
+          "proposal_id": "NNOo5u5D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MyOKgQ1j"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.gitter.im/#/room/#ML4SCI_general:gitter.im",
+  "contact_email": "mailto:ml4-sci@cern.ch",
+  "mailing_list": "https://simba3.web.cern.ch/simba3/SelfSubscription.aspx?groupName=ml4sci-announce",
+  "ideas_url": "https://ml4sci.org/",
+  "guide_url": ""
+}

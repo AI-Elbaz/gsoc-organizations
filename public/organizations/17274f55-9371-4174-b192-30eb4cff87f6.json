@@ -1,0 +1,78 @@
+{
+  "name": "Mathesar",
+  "url": "https://mathesar.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mathesar/v96apwcwn80c3uch-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "databases",
+    "web",
+    "data",
+    "nonprofit",
+    "self-hosted"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript",
+    "django",
+    "svelte"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mathesar/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support for JSON Data Type",
+          "short_description": "As a tool aiming to deliver database assets for non-technical personnel, Mathesar should support more data types for the purpose of straightforward...",
+          "student_name": "Jinxiao Li",
+          "code_url": "https://groups.google.com/a/mathesar.org/g/mathesar-developers/c/7iHlVobzW08",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ggLRaaH3/"
+        },
+        {
+          "title": "Construct Dependency Graph for Database Objects",
+          "short_description": "Implement a \"dependency graph\" functionality that will consist of API endpoints for querying dependents for specific database objects and a UI for...",
+          "student_name": "Yurii Palaida",
+          "code_url": "https://wiki.mathesar.org/en/engineering/reports/gsoc-2022-dependents-graph",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/iW52iFny/"
+        },
+        {
+          "title": "Support Importing Data into Existing Tables",
+          "short_description": "Currently, Mathesar only supports creating a new table when a CSV or TSV file is imported. This project aims to enhance the capability of Mathesar\u2019s...",
+          "student_name": "Anish Surendra Umale",
+          "code_url": "https://wiki.mathesar.org/en/engineering/reports/gsoc-2022-importing-data-into-existing-tables",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/oCtBUJHr/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mathesar",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Support importing Excel and JSON files",
+          "short_description": "Mathesar is an open-source, web-based database management tool that is easy to use, flexible, and scalable. It provides users a simple, intuitive...",
+          "student_name": "Anshuman Maurya",
+          "code_url": "https://github.com/centerofci/mathesar/issues/3216",
+          "proposal_id": "r3MiZitC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/A3gI5pYL"
+        },
+        {
+          "title": "Add More Summarization Functions",
+          "short_description": "The Mathesar Data Explorer enables an action called \u201cSummarize\u201d that let a user view a summary of their data, which is in fact an aggregation of some...",
+          "student_name": "Aritra Majumder",
+          "code_url": "https://aritra8438.github.io/gsoc-final-blog/",
+          "proposal_id": "QHBkrwPN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/D9XvkQCN"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.mathesar.org/en/community/matrix",
+  "contact_email": "",
+  "mailing_list": "https://wiki.mathesar.org/en/community/mailing-lists",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/mathesar_org"
+}

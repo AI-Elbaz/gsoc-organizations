@@ -1,0 +1,54 @@
+{
+  "name": "BioJS",
+  "url": "http://biojs.net/",
+  "image_url": "https://lh3.googleusercontent.com/NJnR_nyuJm9IpGUdAKb3BZbh85fQ3OqgsPa7kV0Y7eVFXphP7CKOJrMe8fBk_sDl9E99XKGBo4LrmSNaWJPqi5gPOeeZnTkD",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "bioinformatics",
+    "javascript",
+    "coding standards",
+    "life sciences"
+  ],
+  "technologies": [
+    "python",
+    "javascript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6650532982685696/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Bonestagram - DICOM visualisation made fun",
+          "short_description": "Bonestagram is an Augmented Reality web project that aims to encourage everyone to collect a personal copy of their medical scans. Most people today...",
+          "student_name": "Faye",
+          "code_url": "https://github.com/fayeli/biojs-vis-bonestagram",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6178961948147712/"
+        },
+        {
+          "title": "Visualization of target-disease relationships in drug discovery",
+          "short_description": "Purpose of this project is the creation of a data visualization component part of the BioJS BioJS. The visualization aims to create an association...",
+          "student_name": "dimitris_proios",
+          "code_url": "http://partizanos.github.io/VizTargetDiseases/about.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5101048368726016/"
+        },
+        {
+          "title": "Generic protein expression view for Human Body",
+          "short_description": "I am a software engineering student from China who have a wonderful front-end development experience, especially have biologically relevant projects...",
+          "student_name": "JinJin Lin",
+          "code_url": "https://github.com/calipho-sib/hierarchic-heatmap-table-component/commits/master?author=linjinjin123",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6540014615789568/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/biojs/biojs",
+  "contact_email": "mailto:community@biojs.net",
+  "mailing_list": "https://groups.google.com/d/forum/biojs",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/BiojsLibrary",
+  "blog_url": "http://biojs.net/news"
+}

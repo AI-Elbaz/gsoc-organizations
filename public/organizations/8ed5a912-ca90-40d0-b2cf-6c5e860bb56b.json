@@ -1,0 +1,57 @@
+{
+  "name": "Stratosphere Laboratory, Czech Technical University in Prague",
+  "url": "https://www.stratosphereips.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/stratosphere-laboratory-czech-technical-university-in-prague/94v2dwoajljheoba-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "network security",
+    "Security Defense",
+    "civil society"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "redis",
+    "flask",
+    "docker",
+    "textual"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/stratosphere-laboratory-czech-technical-university-in-prague",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improving SLIPS Performance Data Gathering",
+          "short_description": "SLIPS is a Machine Learning based intrusion detection system, which scans network traffic and processes the data using a variety of techniques, both...",
+          "student_name": "Daniel Yang",
+          "code_url": "https://docs.google.com/document/d/1eTPEl_uJKz9h9TFsc-cA48RMlz5za3Fq9vQ_Pyn7Jdw/edit?usp=sharing",
+          "proposal_id": "o7SlNNvm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pxeNagBx"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/stratosphere-laboratory-czech-technical-university-in-prague/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Codebase Enhancement through Unit Testing",
+          "short_description": "Currently, the codebase lacks comprehensive unit testing coverage for all critical components, and the existing unit tests do not provide adequate...",
+          "student_name": "Sekhar Kumar Dash",
+          "code_url": "https://docs.google.com/document/d/1K1yUYC3M7emRXEYtlnKUJY3gl3OKwpcGo79ira_suBQ/edit#heading=h.avjlpk1h4ozw",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1yEvtDDA/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "stratosphere@aic.fel.cvut.cz",
+  "mailing_list": "https://discord.com/invite/zu5HwMFy5C",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://infosec.exchange/@stratosphere",
+  "blog_url": "https://www.stratosphereips.org/blog"
+}

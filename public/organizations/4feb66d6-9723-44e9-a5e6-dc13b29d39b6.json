@@ -1,0 +1,51 @@
+{
+  "name": "Neuroinformatics Unit",
+  "url": "https://neuroinformatics.dev",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/neuroinformatics-unit/ebzgcbxkxvbe9igk.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "neuroscience",
+    "data-science",
+    "Computer-Vision",
+    "neuroanatomy"
+  ],
+  "technologies": [
+    "python",
+    "numpy",
+    "pytorch",
+    "Scipy",
+    "napari"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/neuroinformatics-unit",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "BrainGlobe: Automating Region Selection in brainglobe-registration",
+          "short_description": "Synopsis: This project aims to enhance the brainglobe-registration tool by automating the selection of atlas regions for aligning 2D or 3D brain...",
+          "student_name": "Saarah Hussain",
+          "code_url": null,
+          "proposal_id": "xZdss07P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7Xk4Fl7t"
+        },
+        {
+          "title": "Datashuttle: Allow Google Drive or AWS as remote storage (Shrey)",
+          "short_description": "This is a proposal to extend Datashuttle's functionality to allow connections to Google Drive and AWS buckets as remote storage options. This project...",
+          "student_name": "Shrey Singh",
+          "code_url": null,
+          "proposal_id": "MdUK4Ajz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/33o1XAWV"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://neuroinformatics.zulipchat.com",
+  "contact_email": "mailto:code@adamltyson.com",
+  "mailing_list": "",
+  "ideas_url": "https://neuroinformatics.dev/get-involved/gsoc",
+  "guide_url": "https://neuroinformatics.dev/get-involved/gsoc/guidelines",
+  "twitter_url": "https://x.com/swc_niu"
+}

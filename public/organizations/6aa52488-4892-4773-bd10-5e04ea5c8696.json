@@ -1,0 +1,102 @@
+{
+  "name": "Uramaki LAB",
+  "url": "https://github.com/ruxailab",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/uramaki-lab/pr3ivuk0zg7lhgj1-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "user experience",
+    "Usability",
+    "User Evaluation",
+    "Eye Tracking",
+    "Sentimental Analysis"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "html",
+    "css",
+    "Firebase"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/uramaki-lab/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Eye Tracking Algorithm Optimization Based on Low-Resolution Cameras",
+          "short_description": "This project aims to improve eye-tracking algorithms by exploring new techniques, optimizing existing parameters, and integrating JavaScript...",
+          "student_name": "Sitam Meur",
+          "code_url": "https://github.com/ruxailab/web-eye-tracker/pull/26",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lEPzZg7S/"
+        },
+        {
+          "title": "Implementation of Card Sorting method on RUXAILAB",
+          "short_description": "The project proposes the implementation of a new user evaluation method using a card sorter, integrated into the RUXAILAB environment. This method...",
+          "student_name": "Julio Manoel",
+          "code_url": "https://github.com/ruxailab/RUXAILAB/pull/534",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fOn3TCQw/"
+        },
+        {
+          "title": "Data Extraction for Sentiment Analysis from Usability Tests",
+          "short_description": "This project is a standalone backend solution that leverages sentiment analysis to streamline the evaluation process for moderated usability test. By...",
+          "student_name": "Basma Elhoseny",
+          "code_url": "https://github.com/ruxailab/sentiment-analysis-api",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/V469U9cf/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/uramaki-lab",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Transcription Tool for Usability Testing",
+          "short_description": "In moderated usability testing sessions, moderators often need to revisit specific points mentioned during the session. Without clear markers, this...",
+          "student_name": "Basma Elhoseny",
+          "code_url": null,
+          "proposal_id": "w4KDwl2r",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aOHlFhUA"
+        },
+        {
+          "title": "Improving User Testing with Eye Tracking, Sentiment Analysis & Pre/Post Tasks",
+          "short_description": "This project aims to enhance RUXAILAB, an open-source platform for usability evaluation, by integrating three key components: eye tracking, sentiment...",
+          "student_name": "Jo\u00e3o Franzoni",
+          "code_url": null,
+          "proposal_id": "B3HKfcmL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KrpA8CbI"
+        },
+        {
+          "title": "UI Layout Optimization for RUXAILAB and Migrating the Codebase to Vue 3",
+          "short_description": "This project aims to enhance the usability, accessibility, and responsiveness of the RUXAILAB UI while modernizing its codebase by migrating from Vue...",
+          "student_name": "sahitya-chandra",
+          "code_url": null,
+          "proposal_id": "43H8FaS8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iTnW9V5g"
+        },
+        {
+          "title": "Integration of GitHub Actions with Discord Role Management",
+          "short_description": "Problem ------- Open-source projects struggle with manual Discord role management, inconsistent PR workflows, and lack of contributor analytics. This...",
+          "student_name": "Tianqin Meng",
+          "code_url": null,
+          "proposal_id": "SpNonjnN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gZbjuWuX"
+        },
+        {
+          "title": "AI-Powered Accessibility Evaluation in Ruxailab",
+          "short_description": "This project aims to develop a comprehensive AI-powered accessibility evaluation system within RUXAILAB, focusing on automating and enhancing WCAG...",
+          "student_name": "vishalwith4iie",
+          "code_url": null,
+          "proposal_id": "3MWDOPH2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/sId6ueuE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/ruxailab/RUXAILAB/issues",
+  "contact_email": "mailto:ruxailab@gmail.com",
+  "mailing_list": "https://discord.gg/6P4C6xuqtC",
+  "ideas_url": "https://github.com/ruxailab/gsoc/blob/main/ideas2025.md",
+  "guide_url": "https://github.com/ruxailab/gsoc/tree/main",
+  "blog_url": "https://github.com/ruxailab/RUXAILAB/discussions"
+}

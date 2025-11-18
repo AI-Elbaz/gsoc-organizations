@@ -1,0 +1,460 @@
+{
+  "name": "JBoss Community",
+  "url": "http://www.jboss.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/jboss-community/vno1fifehc0i6aa6-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "testing",
+    "monitoring",
+    "mobile",
+    "eclipse",
+    "enterprise applications",
+    "enterprise application",
+    "openshift",
+    "cloud",
+    "mobile development",
+    "javaee",
+    "microservices",
+    "database",
+    "kubernetes",
+    "codeuino",
+    "programming languages and development tools",
+    "aerogear",
+    "machine learning",
+    "iot",
+    "messaging",
+    "cfc"
+  ],
+  "technologies": [
+    "android",
+    "java",
+    "ide",
+    "asciidoctor",
+    "aerogear",
+    "kubernetes",
+    "mobil",
+    "ios",
+    "opentracing",
+    "apache kafka",
+    "react",
+    "golang",
+    "node.js",
+    "rust"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6177116454387712/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Ceylon Markdown",
+          "short_description": "This project aims to create a Markdown processor written in Ceylon that will be a part of the Ceylon SDK. This will be based mainly on the CommonMark...",
+          "student_name": "rohitmohan96",
+          "code_url": "https://github.com/rohitmohan96/ceylon.markdown",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6635801781731328/"
+        },
+        {
+          "title": "AeroGear WebPush and UnifiedPush Server integration",
+          "short_description": "The AeroGear UnifiedPush Server is a powerful and scalable server that allows sending push notifications to different (mobile) platforms. And now...",
+          "student_name": "Idel Pivnitskiy",
+          "code_url": "https://gist.github.com/idelpivnitskiy/71a3373c7625034bbb7be3976e050fe7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6663863487430656/"
+        },
+        {
+          "title": "Ceylon TypeScript Loader",
+          "short_description": "Write a program that loads TypeScript declarations for use in the Ceylon compiler.\nThis will allow people to use TypeScript libraries and programs,...",
+          "student_name": "Lucas Werkmeister",
+          "code_url": "https://gist.github.com/lucaswerkmeister/64085bbf2ae17f702a0abdb46a5e3daf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5328730759102464/"
+        },
+        {
+          "title": "Test scheduling for large test suites",
+          "short_description": "In real life projects it is not uncommon that the whole test suite takes hours to execute completely. This makes it hard to follow the good practices...",
+          "student_name": "dimcho",
+          "code_url": "https://drive.google.com/file/d/0B51JRSedIsfmdHhZSFVfeGNZNEE/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6218247342915584/"
+        },
+        {
+          "title": "Hibernate Search: JSR 352 batch job for re-indexing entities",
+          "short_description": "Hibernate Search is an extension to Hibernate ORM that brings the powers of full-text search via Lucene and Elasticsearch to JPA models. Think of it...",
+          "student_name": "mincongh",
+          "code_url": "http://in.relation.to/2016/08/22/new-implementation-of-mass-indexer-using-jsr-352/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4803353448022016/"
+        },
+        {
+          "title": "Improve existing Android client of Hawkular",
+          "short_description": "World want to use features in mobility, and android is the best open source to provide that. Present Hawkular Android Client built for Alpha 3, Which...",
+          "student_name": "Anuj Garg",
+          "code_url": "https://github.com/hawkular/hawkular-android-client/commits/master?author=anuj1708",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6500218254131200/"
+        },
+        {
+          "title": "Gabov Anton. Smart HTTP/2-based protocol for Infinispan",
+          "short_description": "Smart HTTP/2-based protocol for Infinispan.\nThe Infinispan Server distribution contains a server module that implements Infinispan\u2019s custom binary...",
+          "student_name": "Anton Gabov",
+          "code_url": "https://github.com/AntonGabov/infinispan/blob/topologyId/client/rest-client/GSoC.txt",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4952105882222592/"
+        },
+        {
+          "title": "Hawkular-agent For Vert.x",
+          "short_description": "Vert.x has already the capability to send metrics to Hawkular. However, students in thie proposal have to implement the functionality needed so that...",
+          "student_name": "Austin",
+          "code_url": "https://github.com/vert-x3/vertx-hawkular-metrics/commits/inventory-reporter?author=auszone",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5922029756743680/"
+        },
+        {
+          "title": "Drools Rules in Minecraft",
+          "short_description": "Drools and Java can work together. Java and Minecraft work together. The obvious next step is to get Drools and Minecraft to work together.\nThe plan...",
+          "student_name": "Samuel Richardson",
+          "code_url": "https://docs.google.com/spreadsheets/d/124mZDqz2cVahhoRPY7wzSvpsAIImOTlFO_5fWvFI7oI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5937268300709888/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5307802188775424/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Apache Kafka/HBase integration in Unified Push Server",
+          "short_description": "The AeroGear UnifiedPush Server sends native push messages to different mobile operating systems, such as Android, iOS and others. It has already...",
+          "student_name": "Polina Koleva",
+          "code_url": "https://polinankoleva.github.io/gsoc2017/2017/08/28/GSoC-Final-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5570100404944896/"
+        },
+        {
+          "title": "Improving the hawkular android client",
+          "short_description": "The aim of developing the Hawkular android client was to provide users with a seamless experience of monitoring their servers, by allowing general...",
+          "student_name": "Pallavi Gupta",
+          "code_url": "https://gist.github.com/pg301/a282062645933c48548869a9d7750565",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6036380845080576/"
+        },
+        {
+          "title": "Analysis of Scalable Solutions for UPS database with Apache Kafka, Apache Spark and HBase",
+          "short_description": "The Unified Push Server Database is currently based on MySQL/PostgreSQL, and the data is all stored in one schema. Database updates are handled by a...",
+          "student_name": "Dimitra",
+          "code_url": "https://gist.github.com/dimitraz/042e79d712dcee71689186b4ed22bc14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6322957169197056/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5357551935815680/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "EAT(EAP Additional testsuite)",
+          "short_description": "Our project come in category of Testing which is   EAT(EAP additional Testsuite)   by which we can Test infinite software project versions .The best...",
+          "student_name": "koderproxy",
+          "code_url": "https://github.com/koderproxy/GSoC-2018---EAT---JBoss-Community",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5424596912177152/"
+        },
+        {
+          "title": "Strimzi - Bridging HTTP to Apache Kafka.",
+          "short_description": "Strimzi is a project about running Apache Kafka on Kubernetes and OpenShift.\nAn important component of Strimzi is Amqp-Kafka bridge which as the name...",
+          "student_name": "Shubham Vashisht",
+          "code_url": "https://gist.github.com/shubhamvashisht/21515516f6015adc8671029d7f21cc52",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6538568553988096/"
+        },
+        {
+          "title": "Security Vulnerability Tracking Tool.",
+          "short_description": "JBoss Web Servers consists of Apache Tomcat 7, Apache Tomcat 8 and Apache Tomcat 8.5 servers. JBoss Core Services consists of Apache HTTP server and...",
+          "student_name": "Examin",
+          "code_url": "https://hackmd.io/s/rJFZzVgUX",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5883994868547584/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6481976553373696/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Script Engine Integration for Elytron",
+          "short_description": "WildFly Elytron is a new security framework developed by WildFly to provide a single unified security framework across whole of the application...",
+          "student_name": "Bhaskar Gupta",
+          "code_url": "https://github.com/bhaskargupta98/wildfly-elytron-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6375774242734080/"
+        },
+        {
+          "title": "EAT (Eap Additional Testsuite)",
+          "short_description": "Test new features that will help develop the application and work on all versions of the software.",
+          "student_name": "Lkop",
+          "code_url": "https://github.com/Lkop/GSoC-2019---EAT---JBoss-Community",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6446855146176512/"
+        },
+        {
+          "title": "JBoss - Release Notes Generation Tool",
+          "short_description": "The proposed tool aims to collect, process, and analyze data from various Bug Tracking Systems. The outcomes by this processed data are easily...",
+          "student_name": "Pantelis Tzamalis",
+          "code_url": "https://github.com/tzamalisp/release-notes-generation-tool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6595479939317760/"
+        },
+        {
+          "title": "Adding support for missing resources & missing test coverage in Kubernetes-Client.",
+          "short_description": "Adding support in Kubernetes Client for several types of Resources:\n ServiceCatalog \n TemplateInstance \n VolumeAttachment\n CertificateSigningRequest\n...",
+          "student_name": "KunalKushwaha",
+          "code_url": "https://gist.github.com/kunal-kushwaha/0bcacc0afd3a1908c58fd998a806261c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5069713124622336/"
+        },
+        {
+          "title": "Conflict Resolution and Offline Support for the AeroGear Android SDK",
+          "short_description": "The aim is to extend Data Sync ( Data Synchronization using Voyager Framework ) to android by porting of the current aerogear-js-SDK (in which it is...",
+          "student_name": "Lavanya Gaur",
+          "code_url": "https://gist.github.com/Lavanyagaur22/56e5fd7e42a59c7011b279016de26c07",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5638954081058816/"
+        },
+        {
+          "title": "Adding more options in Fabric8-Maven-Plugin for building images",
+          "short_description": "The project aims to add more options to fabric maven plugin for building images for OpenShift build mode. Right now fmp supports two kinds of binary...",
+          "student_name": "Kartik Sapra",
+          "code_url": "https://gist.github.com/theexplorist/289318b08db42dbeb8099407836e53d8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6195613031464960/"
+        },
+        {
+          "title": "Development of modules with new UI/UX",
+          "short_description": "Development of 16 modules for the DONUT platform for better UI/UX. To simplify the configuration, these predefined modules will have the most common...",
+          "student_name": "Lakshya Khera",
+          "code_url": "https://github.com/codeuino/Social-Platform-Donut/tree/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/"
+        },
+        {
+          "title": "Resolver First, Secure and OpenShift Ready, Out of the Box Backend Solution using Voyager Framework.",
+          "short_description": "The goal of the project is to provide production ready, autoconfigured service that will be using all the AeroGear Voyager Server functionalities and...",
+          "student_name": "Ankit Jena",
+          "code_url": "https://gist.github.com/ankitjena/6b4c252e32ac8c58fea8ea515415960d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4870721870757888/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6073291866898432/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Intrusion Detection using Elytron Security Events",
+          "short_description": "Elytron is an open-source, standalone library made with the purpose to provide a single, unified security solution across the whole Wildfly...",
+          "student_name": "Piyush Palta",
+          "code_url": "https://drive.google.com/file/d/1JThq0cZLfEpWmBs3JQIHOYG4YQ9wcX06/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6687506516410368/"
+        },
+        {
+          "title": "GraphQL Engine on top of Knative and NodeJS using Apache Kafka and Debezium",
+          "short_description": "Knative can autoscale applications but currently, it doesn\u2019t support GraphQL servers with subscriptions. GraphQL subscriptions currently use...",
+          "student_name": "Eunovo",
+          "code_url": "https://gist.github.com/Eunovo/18ec70119ae664d6b0e5007e7943ff8b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5664119325196288/"
+        },
+        {
+          "title": "Adding a CI (Continuous Integration) tool in EAT (EAP Additional Testsuite)",
+          "short_description": "Develop a CI (Continuous Integration) tool in EAT and make some changes and expansions in project\u2019s documentation. This CI tool will be based on the...",
+          "student_name": "Lkop",
+          "code_url": "https://github.com/Lkop/GSoC-2020---EAT---JBoss-Community",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5750600471412736/"
+        },
+        {
+          "title": "Quarkus : Improve Gradle support",
+          "short_description": "Quarkus is a Kubernetes Native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards,which...",
+          "student_name": "Garima Monga",
+          "code_url": "https://gist.github.com/Garima829/a348563fa4908570dcc4ec45be25f1b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4577598731976704/"
+        },
+        {
+          "title": "Integrate Docker Hub and Tekton into Knative Eventing",
+          "short_description": "Knative is a Kubernetes-based platform to deploy and manage serverless workloads. Eventing is a key feature for Serverless Computing. They deliver...",
+          "student_name": "tom24d",
+          "code_url": "https://docs.google.com/document/d/118UIHF06gDtalQAarbFgilrm6pBCMbGjKN19vmH0m3o/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4850164403011584/"
+        },
+        {
+          "title": "Alternative Broker Implementation based on Apache Kafka",
+          "short_description": "Knative eventing is a system that is designed to address a common need for cloud-native development and provides composable primitives to enable...",
+          "student_name": "Pierangelo Di Pilato",
+          "code_url": "https://gist.github.com/pierDipi/d81374794e58845ac79df03f33c41fb7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4918539275730944/"
+        },
+        {
+          "title": "Teiid Translators for AVRO, Parquet files",
+          "short_description": "Teiid is a data virtualization tool. This tool enables querying multiple data sources with a\nsingle query. My project covers the following 3 major...",
+          "student_name": "Aditya Manglam Sharma",
+          "code_url": "https://github.com/aditya300899/teiid-gsoc-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5783884354027520/"
+        },
+        {
+          "title": "Starfish",
+          "short_description": "Starfish would be a cross platform client side application that would let you open a file in IDE of your choice (vscode, eclipse, intellij, emacs,...",
+          "student_name": "Fahad Israr",
+          "code_url": "https://gist.github.com/fahad-israr/7e246013ebfc858d8af05fe21e38d715",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6286643897565184/"
+        },
+        {
+          "title": "k3s vs k8s",
+          "short_description": "By comparing k3s k8s and writing related blogs to help technicians make technology selection in software development",
+          "student_name": "Xu Han",
+          "code_url": "https://github.com/HANXU2018/K8s-k3s-on-Fedora",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5203574679666688/"
+        },
+        {
+          "title": "Data Synchronization engine with serverless GraphQL backends",
+          "short_description": "This project aims to extend Graphback by adding additional capabilities by building custom plugins. Plugins will provide Data Synchronization and...",
+          "student_name": "Shibani Shankar Dash",
+          "code_url": "https://gist.github.com/ssd71/a68a9e70660feb5b9004329c444771c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5224279643258880/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5722851356704768/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Develop a Golang-based framework to enhance Knative\u2019s functionalities",
+          "short_description": "Knative is an open-source community project that extends Kubernetes with modules for deploying, operating, and maintaining serverless, cloud-native...",
+          "student_name": "Namit Chandwani",
+          "code_url": "https://gist.github.com/namit-chandwani/3a28a544fd4d48e2703e4f0ca08d318b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6598455065051136/"
+        },
+        {
+          "title": "Create and Enhance APIs related to Education Platform",
+          "short_description": "The project aims to Create and Enhance APIs and to produce a well-built backend mechanism related to an Education Platform which strives to enable...",
+          "student_name": "Devesh Kumar",
+          "code_url": "https://medium.com/@deveshk2102/gsoc-2021-final-report-jboss-create-and-enhance-apis-related-to-education-platform-2b0e7c9f0f8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5676377394642944/"
+        },
+        {
+          "title": "Classroom and Doubt forum feature in Mobile Application.",
+          "short_description": "The CFC mobile application (Educult) project aims to add some specific features to the Mobile Application which will allow students from all over the...",
+          "student_name": "Adarsh Kumar Singh",
+          "code_url": "https://medium.com/@adarshkumarsingh865/gsoc-2021-final-report-jboss-classroom-and-doubt-forum-feature-in-mobile-application-51f215901fd1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5368121417793536/"
+        },
+        {
+          "title": "3scale - Envoy proxy authorization cache",
+          "short_description": "Implementing an in-proxy authorization cache for envoy proxy using web assembly and proxy-WASM rust SDK. The cache will be in synchronization with...",
+          "student_name": "Lahiru Udayanga De Silva",
+          "code_url": "https://github.com/3scale-labs/gsoc-wasm-filters",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6205479449001984/"
+        },
+        {
+          "title": "EAT - EAP Additional Testsuite",
+          "short_description": "EAT is a testsuite to develop tests against infinite number of JBoss servers. It\u2019s an innovative tool because it\u2019s creating the test once and testing...",
+          "student_name": "Stefanos Vlachos",
+          "code_url": "https://github.com/stefanos-vlachos/GSoC-2021_EAT_JBoss-Community",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4823643883831296/"
+        },
+        {
+          "title": "Project Starfix : Open anything anywhere in any IDE/editor",
+          "short_description": "StarFix is a cross-platform client-side application that would let you open a file in the Editor of your choice (vscode, eclipse, intellij, emacs,...",
+          "student_name": "Fahad Israr",
+          "code_url": "https://gist.github.com/fahad-israr/5d7271ef7f11d346a538d1476740dfa3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4827511468326912/"
+        },
+        {
+          "title": "Trust anchor management for drg",
+          "short_description": "Adding trust anchor functionality to drg.\nDrogue Cloud supports the authentication of devices using X.509 certificates. Drg is the command-line...",
+          "student_name": "Vedang Joshi",
+          "code_url": "https://vedangj044.github.io/blog/gsoc-phase2/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6507438030716928/"
+        },
+        {
+          "title": "3Scale - Envoy proxy authorization cache",
+          "short_description": "3Scale\u2019s API Management service allows us to manage APIs with features like authorize, rate-limit, and monetize, etc.In this project, we are going to...",
+          "student_name": "Rahul Anand",
+          "code_url": "https://github.com/3scale-labs/gsoc-wasm-filters",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6551776420954112/"
+        },
+        {
+          "title": "CoAP protocol endpoint for Drogue IoT",
+          "short_description": "This project aims to implement the CoAP endpoint library for the drogue-cloud project. The endpoint would have the ability to facilitate the...",
+          "student_name": "Pranav Bhatt",
+          "code_url": "https://pranav-bhatt.github.io/GSoC_2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4908878684225536/"
+        },
+        {
+          "title": "Resolving problems with Apache Kafka examples using Charmil  Framework",
+          "short_description": "The Charmil Framework will help in resolving the problems in apache Kafka examples and improve Apache Kafka CLI experience by providing a number of...",
+          "student_name": "Ankit Hans",
+          "code_url": "https://ankithans.github.io/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5984731920859136/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/jboss-community/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Using Bayesian Optimization to tune Kubernetes application",
+          "short_description": "Description:Kruize Autotune is a Performance Tuning Tool for Kubernetes. . It uses Hyper Parameter Optimization to tune the language runtime layers...",
+          "student_name": "Prakalp23",
+          "code_url": "https://docs.google.com/presentation/d/1k4BujK4fqYELFtIVXAdyjDfHjWDA7c3ks7HVG3X31Rs/edit#slide=id.g15633037191_2_167",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/G5B72NfB/"
+        },
+        {
+          "title": "E\u0391\u03a4 - Addition of Jboss Community Server Release Snapshot and multi-version Android Projects",
+          "short_description": "EAT (Eap Additional Testsuite) is a testsuite to develop tests against infinite number of JBoss servers. It\u2019s an innovative tool because it\u2019s...",
+          "student_name": "Stefanos Vlachos",
+          "code_url": "https://github.com/stefanos-vlachos/GSoC-2022_EAT_JBoss-Community",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/k3hMrNAM/"
+        },
+        {
+          "title": "Flotta- Edge example application",
+          "short_description": "The project aims to build an application to run a workload container on a bunch of flotta-configured edge devices which collects/processes input from...",
+          "student_name": "Deependra Singh Shekhawat",
+          "code_url": "https://project-flotta.io/flotta/2022/08/27/image-classification-on-edgedevices.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fiDCLAgJ/"
+        },
+        {
+          "title": "AQAvit - Deep AQAtik",
+          "short_description": "The current proposal deals with the task of document similarity utilizing dense text representations. Furthermore, it leverages topic modelling to...",
+          "student_name": "Giannis Christodoulou",
+          "code_url": "https://medium.com/@ichristod/google-summer-of-code-2022-final-work-summary-3b931c9fade5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mR4UtEJJ/"
+        },
+        {
+          "title": "Flotta - Edge Example Application with sensing the Internet",
+          "short_description": "Flotta Operator is a Kubernetes operator used to manage the workloads of the IoT edge devices via Kubernetes API. Flotta workloads running on...",
+          "student_name": "Ahmad Ateya",
+          "code_url": "https://github.com/ahmadateya/misc-files/blob/master/opensource/gsoc-2022.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/g0gWTw4h/"
+        },
+        {
+          "title": "Flotta  - Reduce energy consumption",
+          "short_description": "The project idea aims to reduce power consumption on Flotta-device agents on small factor edge devices at several levels. OS toolings would be...",
+          "student_name": "SIBASISH BEHERA",
+          "code_url": "https://github.com/TheRealSibasishBehera/GSOC-2022/blob/main/gsoc-flotta-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ULohWfG0/"
+        },
+        {
+          "title": "Infinispan and Quarkus",
+          "short_description": "This proposal defies the roadmap that i am going to follow for adding search&query, REST API, duplicates and reactive API support as well as...",
+          "student_name": "Yusuf Karadag",
+          "code_url": "https://docs.google.com/document/d/1Jd3C0-rTe-N1sQrKRhDmNk0A57AavLt0EfxHO6Y-ut0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8Bri0gD2/"
+        },
+        {
+          "title": "Quarkus  - API validation and tracking for Quarkus and Quarkiverse",
+          "short_description": "This project is to utilize the already existing revapi.org setup and expand it to properly detect and generate documentation for api breakages in a...",
+          "student_name": "Zaheed Beita",
+          "code_url": "https://gist.github.com/zedbeit/b196d93a2ae4f6d7c8a693017d71c5a6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ILTtSkvT/"
+        },
+        {
+          "title": "Infinispan and NodeJS  - NodeJS client evolutions",
+          "short_description": "Currently, infinispan js client doesn't have the support of Protobuf encoded caches also Ickle is not implemented in the js client. This project aims...",
+          "student_name": "Neeraj Gartia",
+          "code_url": "https://medium.com/@neerajgartia211002/gsoc22-final-report-633bf3d4919",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WTABCLtH/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/JBossOutreach/GSoC",
+  "contact_email": "mailto:mwessendorf@gmail.com",
+  "mailing_list": "https://developer.jboss.org/wiki/JBossGSoCContactInformation",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/jbossdeveloper",
+  "blog_url": "http://planet.jboss.org/"
+}

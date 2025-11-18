@@ -1,0 +1,702 @@
+{
+  "name": "Processing Foundation",
+  "url": "http://processingfoundation.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/processing-foundation/xr2sncljbvtlop1n-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "education",
+    "web",
+    "graphics",
+    "creative coding",
+    "design"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "java",
+    "opengl",
+    "javascr",
+    "typescript",
+    "webgl",
+    "GitHub Actions"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5256745899261952/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Easier Debugging and Development in the p5 Web Editor",
+          "short_description": "This project aims to improve debugging and development in the p5 web editor by implementing autocomplete code suggestions and improving the existing...",
+          "student_name": "Jen Kagan",
+          "code_url": "http://blog.jennnkagan.com/2017/08/19/google-summer-of-code-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6347130318880768/"
+        },
+        {
+          "title": "p5.js Web Editor:  Public Release and Online Community Building",
+          "short_description": "There is an ongoing effort to create a browser-based editor for p5.js. I propose to help the current developers working to create a stable version of...",
+          "student_name": "Zachary Rispoli",
+          "code_url": "https://medium.com/@zrispo/a-free-to-use-classrooms-system-for-p5-js-5d7b455ded08",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6389992481882112/"
+        },
+        {
+          "title": "Image Processing Library to ease differentiation of colors for Color Blind People",
+          "short_description": "My proposal is to build a processing library to process images and ease differentiation of colors for color blind people. Color blind people cannot...",
+          "student_name": "Sarjak Thakkar",
+          "code_url": "https://gsocsarjak.wordpress.com/finalsubmission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5754905868369920/"
+        },
+        {
+          "title": "Processing for Android: Cardboard Mode Demo",
+          "short_description": "\u201cCardboard Mode Demo\u201d is a Virtual Reality application aimed at demonstrating the possibilities of Cardboard Mode in Processing.",
+          "student_name": "Sara Di Bartolomeo",
+          "code_url": "https://github.com/picorana/VR_audioscape",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6181263379529728/"
+        },
+        {
+          "title": "Web GL improvements for p5.js",
+          "short_description": "Add web GL support for texture (u, v) coordinate mapping, add support for additional camera features, and fix bugs in the web GL renderer.",
+          "student_name": "Kate Hollenbach",
+          "code_url": "http://www.katehollenbach.com/gsoc-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5091597561626624/"
+        },
+        {
+          "title": "p5: Bringing the Processing API to Python",
+          "short_description": "p5 is a Python package based on the core ideas of Processing. It aims to make programming more accessible for beginners, artists, and educators by...",
+          "student_name": "Abhik Pal",
+          "code_url": "https://abhikpal.github.io/blog/2017/08/27/p5-google-summer-of-code-progress-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5258601325133824/"
+        },
+        {
+          "title": "Redesign Friendly Debugger for p5.js",
+          "short_description": "I propose to redesign p5.js\u2019s friendly debugger module to improve user-experience -- in particular, to make it more inviting and helpful for both...",
+          "student_name": "Alice Chung",
+          "code_url": "https://medium.com/@almchung/gsoc17-redesign-friendly-debugger-for-p5-js-cf63a85ae57",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5336838449397760/"
+        },
+        {
+          "title": "i18n for Processing and p5.js",
+          "short_description": "Work on expanding the community in other languages related to Processing software. In particular, work on both the Processing and p5.js i18n...",
+          "student_name": "Aar\u00f3n Montoya-Moraga",
+          "code_url": "https://github.com/montoyamoraga/gsoc_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5589277165486080/"
+        },
+        {
+          "title": "Processing.R",
+          "short_description": "Offer a new mode in Processing for R Language. Refer to github.com/gaocegege/Processing.R for more details.",
+          "student_name": "Ce Gao",
+          "code_url": "https://github.com/gaocegege/Processing.R",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5596616996159488/"
+        },
+        {
+          "title": "p5.js addon and examples for spatial and data mapping.",
+          "short_description": "This proposal describes a project to build a set of p5.js tools around mapping with the specific purpose of being able to quickly and smoothly add a...",
+          "student_name": "Cristobal Valenzuela",
+          "code_url": "https://github.com/cvalenzuela/Mappa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6258464745586688/"
+        },
+        {
+          "title": "Improvement to WebGL core for p5.js",
+          "short_description": "I would like to work on stabilizing the WebGL core for p5.js. This would be done with an eye towards accessibility. Also, I would investigate the...",
+          "student_name": "Stalgia Grigg",
+          "code_url": "https://mlarghydracept.github.io/GSOC17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4639299119087616/"
+        },
+        {
+          "title": "p5.js.Sound Enhancements - Abstract Classes, Sound Design, and Composition",
+          "short_description": "Processing and p5.js are accessible tools that can be easy to understand for the novice programmer and powerful enough for the experienced. With the...",
+          "student_name": "Jeevan Farias",
+          "code_url": "https://jvntf.github.io/gsoc_workproduct/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4915582285643776/"
+        },
+        {
+          "title": "Build system migration from Ant to Gradle",
+          "short_description": "Currently, Processing for Android uses ANT scripts and android tool for building the project. The latest version of the Android SDK tools removes...",
+          "student_name": "Rupak Das",
+          "code_url": "https://procandsoc17.wordpress.com/2017/08/25/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5967477087404032/"
+        },
+        {
+          "title": "Implementing New Developer Operations and Enhancing Current Ones in p5.js",
+          "short_description": "This Project aims to address and pursue DevOps Issues of p5.js (#522, #94, #707), along with implementing an Issue Template for contributors....",
+          "student_name": "sakshamsaxena",
+          "code_url": "https://github.com/processing/p5.js/wiki/Wrapping-Up-GSoC-2017-(by-@sakshamsaxena)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5217232200138752/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5665833682468864/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "P5.js WebGL Updates",
+          "short_description": "This project would build upon P5.js\u2019 webGL functionality with a focus on helping the beginning coder understand how the computer represents and...",
+          "student_name": "Aidan Nelson",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/aidannelson_gsoc_2018.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6720556116213760/"
+        },
+        {
+          "title": "APDE Beta Push",
+          "short_description": "APDE (Android Processing Development Environment) is a fully-functional IDE for creating Processing sketches on Android devices, but it is in need of...",
+          "student_name": "William Smith",
+          "code_url": "https://medium.com/@william_87398/apde-gsoc-18-preview-mode-incremental-compilation-and-wrap-up-a27c08739058",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5659553769193472/"
+        },
+        {
+          "title": "Hello, is it me you\u2019re looking for? updating hello.p5js.org",
+          "short_description": "The goal of this project is to modernize the hello.p5js.org website through the development and implementation of a new trailer featuring diverse...",
+          "student_name": "elgin",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/elginmclaren_gsoc_2018.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5393282238513152/"
+        },
+        {
+          "title": "GLSL Editor for PDE",
+          "short_description": "The goal of the project is to implement a GLSL editor for the Processing Development Environment as a contributed tool. This tool will enable users...",
+          "student_name": "Izza Tariq",
+          "code_url": "http://www.izzatariq.com/final-gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5396650231070720/"
+        },
+        {
+          "title": "API extensions and fixes for the p5 backend",
+          "short_description": "Last year, as a project under the Google Summer of Code, I created\n  p5 --- a native Python implementation of the Processing\n  API. The goal then was...",
+          "student_name": "Abhik Pal",
+          "code_url": "https://p5.readthedocs.io/en/latest/releasenotes/0.5.0.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6178505339437056/"
+        },
+        {
+          "title": "Improving p5.js WebGL/3D mode",
+          "short_description": "The project aims to implement missing primitives in p5.js WebGL mode.",
+          "student_name": "Adil Rabbani",
+          "code_url": "https://adilrabbani.github.io/blogposts/SummerWithProcessing.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6179338831527936/"
+        },
+        {
+          "title": "p5.js : Improvements for I/O methods",
+          "short_description": "p5.js has multiple methods for I/O handling. I propose to work on Improving the file I/O methods by identifying, documenting and finding solutions...",
+          "student_name": "Tanvi Kumar",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/tanvi_gsoc_2018.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5050899927924736/"
+        },
+        {
+          "title": "Complete overhaul of processing-sound library",
+          "short_description": "The official Processing Sound library is a natural entry point for Processing users who want to augment their generative designs with generative...",
+          "student_name": "Kevin Stadler",
+          "code_url": "https://github.com/kevinstadler/processing-sound",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5255091196002304/"
+        },
+        {
+          "title": "Android Debugger for PDE",
+          "short_description": "This proposal aims to build a Java or JavaScript (Electron) based android debugger for PDE. The debugger architecture will follow Java Platform Debug...",
+          "student_name": "Manav Jain",
+          "code_url": "https://manavmjjain.wixsite.com/home/blog-1/gsoc-18-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5602519891836928/"
+        },
+        {
+          "title": "Dynamic Learning",
+          "short_description": "Collaborative platform of teachers and programmers to improve teaching of STEM subjects with the use of interactive simulations and animations....",
+          "student_name": "Jithin KS",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/jithinks_gsoc_2018.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5629805013762048/"
+        },
+        {
+          "title": "A Platform for Algorithmic Composition on p5.js-sound",
+          "short_description": "p5.js, and Processing in general, have been revolutionary tools in the world of creative coding. For visual artists, there are few programmatic tools...",
+          "student_name": "Chan Jun Shern",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/junshern_gsoc_2018.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6250727496220672/"
+        },
+        {
+          "title": "Processing for ARM devices (such as Raspberry Pi)",
+          "short_description": "A set of highly detailed project-based tutorials that teach users how to use Raspberry Pi and similar devices with Processing development environment.",
+          "student_name": "Maks Surguy",
+          "code_url": "https://msurguy.github.io/GSOC2018-processing-pi/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4898535560445952/"
+        },
+        {
+          "title": "Test strategy for maintaining and updating mobile functionality of p5.js",
+          "short_description": "This project proposes to design a test strategy to extensively test and update the p5.js mobile functionality so that compatibility issues can be...",
+          "student_name": "Sithe Ncube",
+          "code_url": "https://github.com/processing/p5.js/pull/3146",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5855899205763072/"
+        },
+        {
+          "title": "New JavaScript console in p5.js web editor",
+          "short_description": "p5.js web editor is an environment to write p5.js sketches with no need for downloading or installing any dependencies. With the purpose of making...",
+          "student_name": "Liang Tang",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/liang_gsoc_2018.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5952565699149824/"
+        },
+        {
+          "title": "ARCore Renderer : Processing - Android",
+          "short_description": "ARcore Renderer focuses on creating an Augmented Reality Renderer for Processing - Android, that will be able to render 3D Objects onto the Real...",
+          "student_name": "Syam Sundar K",
+          "code_url": "https://syamsundarkirubakaran.github.io/pfinal.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5961452322029568/"
+        },
+        {
+          "title": "Development Environment:  Beginner/New User Experience Features",
+          "short_description": "Processing is a programming language and an IDE for digital arts and visualization for the purpose of teaching non-programmers, the fundamentals of...",
+          "student_name": "Jae Hyun",
+          "code_url": "https://medium.com/@jaewhyun/gsoc-18-w-the-processing-foundation-b6e8af4d342c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5138161583783936/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5422734538964992/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Stabilizing and improving p5.xr during Alpha release",
+          "short_description": "p5.xr is a library p5.js that enables WebXR capabilities with p5 sketches. The goal of the library is to allow p5.js sketches to become multiplatform...",
+          "student_name": "Vedhant Agarwal",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/vedhant_gsoc_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6356980724137984/"
+        },
+        {
+          "title": "Improving WebGL functionality of p5.js",
+          "short_description": "WebGL is a web version on OpenGL, i.e a 3D engine. It allows you to make 3D materials in the browser, using JavaScript. It is rendered using the GPU...",
+          "student_name": "sanketsingh24",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/sanket_gsoc_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6631950519894016/"
+        },
+        {
+          "title": "Using Audio Worklet in the p5.Sound library",
+          "short_description": "Audio Worklet, an extension to the Web Audio API currently available in Google Chrome, allows developers to write their own AudioWorkletNodes that...",
+          "student_name": "Oren Shoham",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/orenshoham_gsoc_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5654216096350208/"
+        },
+        {
+          "title": "P5 Math in Motion",
+          "short_description": "P5 Math In Motion would be a library that renders interactive math notation inside p5.js projects with the help of Katex, an open-source library for...",
+          "student_name": "Oskar Garcia",
+          "code_url": "https://github.com/math-in-motion/early-demo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5710491593211904/"
+        },
+        {
+          "title": "Curating Community Creativity for p5.js 1.0",
+          "short_description": "This project involves showcasing people and their work for http://p5js.org/ on the occasion of the upcoming 1.0 release to celebrate the power of...",
+          "student_name": "Ashley Kang",
+          "code_url": "https://github.com/processing/p5.js/pull/3967#commits-pushed-3e07a82",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5005097354919936/"
+        },
+        {
+          "title": "p5.touchgui",
+          "short_description": "p5.js is a wonderfully accessible way for students and creative minds to both learn computer programming and create interactive art and experiences....",
+          "student_name": "L05",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/L05_GSOC_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5029533437132800/"
+        },
+        {
+          "title": "P5 Math in Motion",
+          "short_description": "P5 Math In Motion would be a library that renders interactive math notation inside p5.js projects with the help of Katex, an open-source library for...",
+          "student_name": "Alexandra Cheng",
+          "code_url": "https://github.com/math-in-motion/early-demo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5092161308065792/"
+        },
+        {
+          "title": "p5.serial library update",
+          "short_description": "This project proposes to update the p5.serial library, created by Shawn Van Every and contributed by Jen Kagan and Tom Igoe. The last commit date of...",
+          "student_name": "Jiwon Shin",
+          "code_url": "https://github.com/p5-serial/p5.serialport/wiki/GSoC-2019-Work-Production",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5578661716033536/"
+        },
+        {
+          "title": "Improve p5.js unit tests",
+          "short_description": "This project will focus on improving the unit tests as well as creating a more complete unit test coverage for p5.js. This project would also include...",
+          "student_name": "Urvashi Verma",
+          "code_url": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/urvashi_gsoc_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5580038320160768/"
+        },
+        {
+          "title": "Processing Language Server : Processing",
+          "short_description": "Processing Language Server focuses on creating a Language Server Protocol (LSP) implementation for Processing Programming Language. PDE is currently...",
+          "student_name": "Syam Sundar K",
+          "code_url": "https://syamsundarkirubakaran.github.io/lspfinal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6196723280510976/"
+        },
+        {
+          "title": "Stabilize Processing Video with GStreamer 1.x",
+          "short_description": "Stabilizing the Processing video library by repackaging GStreamer 1.x for a leaner video release and addressing some additional clean-up to reach a...",
+          "student_name": "Alex Stamm",
+          "code_url": "https://www.alexstamm.com/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6233315126804480/"
+        },
+        {
+          "title": "Searching and Grouping Sketches",
+          "short_description": "Provide more convenience for organizing and retrieving sketches within an individual account through a search bar and a collections tab.",
+          "student_name": "Rachel Lim",
+          "code_url": "https://github.com/raclim/p5.js/blob/rachellim/developer_docs/project_wrapups/rachellim_gsoc_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4551176303935488/"
+        },
+        {
+          "title": "Completing P5.py API and Improving Documentation",
+          "short_description": "The aim of this project is to make P5.py ready for public use by completing the APIs to make it on par with Processing and P5.js. Examples and...",
+          "student_name": "Arihant Parsoya",
+          "code_url": "https://p5.readthedocs.io/en/latest/releasenotes/0.6.0.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4901897880731648/"
+        },
+        {
+          "title": "Maintenance of Android mode: SDK downloader/updater, emulator, library structure",
+          "short_description": "Implement an up-to-date SDK and Emulator installer, and hence improve its functionalities\nImplement and solve all issues on the Android SDK Updater....",
+          "student_name": "Deeraj Esvar R",
+          "code_url": "https://medium.com/@deerajtheepshi/google-summer-of-code-2019-final-report-59513df76c72",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5784425965551616/"
+        },
+        {
+          "title": "Code Slang",
+          "short_description": "Code Slang is a javascript library that is flexible, intuitive and human; whose syntax resembles natural language more than programming language;...",
+          "student_name": "Jenna Xu",
+          "code_url": "https://github.com/xujenna/codeslang",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5863653264326656/"
+        },
+        {
+          "title": "Extending and Improving Dynamic Learning",
+          "short_description": "This project will improve and extend Dynamic Learning, a project created by Jithin KS as part\nof his 2018 Google Summer of Code project. Dynamic...",
+          "student_name": "Ashneel Das",
+          "code_url": "https://docs.google.com/document/d/1wWG1YPJunLOIw5uM_kXUtk59DGePMVATLixkDt4nbQA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5919701245362176/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5988762313555968/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "p5 for 50+ teaching",
+          "short_description": "Reaching out to 50 and more p5 educators around the world, \u201cp5 for 50+ teaching\u201d aims to contribute in documenting, showcasing, and sharing teaching...",
+          "student_name": "Inhwa Yeom",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/inhwayeom_gsoc_2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6330401192148992/"
+        },
+        {
+          "title": "Swift Processing Library Development",
+          "short_description": "I propose to work on the open issues and also bring the Camera functionality and 3D primitives to Swift Processing.",
+          "student_name": "Juan Lee",
+          "code_url": "https://docs.google.com/document/d/1siwGaA-DuH-Zmn2wtCh3-q0hZO0_T3EnFvYJ7jro6Rc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6450370903015424/"
+        },
+        {
+          "title": "Extending p5.js Friendly Error System",
+          "short_description": "The Friendly Error System in p5.js helps beginners with common errors, transforming\nerror messages into a simpler form and checking for common...",
+          "student_name": "Akshay Padte",
+          "code_url": "https://gist.github.com/akshay-99/14d0325231c6a66ee8940f02dcfdaeac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5492392406286336/"
+        },
+        {
+          "title": "p5.js accessibility and canvas descriptions",
+          "short_description": "This project aims to continue the p5.js accessibility efforts by merging the text output and table output functionalities of the accessibility add-on...",
+          "student_name": "Luis Morales-Navarro",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/luismn_gsoc_2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6154480673882112/"
+        },
+        {
+          "title": "P5 Web Editor Spanish Translation",
+          "short_description": "I propose to improve and expand the Spanish translation of the p5.js web editor and documentation,(with a strong focus on the Latin American...",
+          "student_name": "Omar Verduga",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ohsRqqzKiOPaURopZOeyJzxy9SIx7vW5L37kKLuWN3M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5384185369329664/"
+        },
+        {
+          "title": "Use ES6 Import and Classes in p5.Sound library",
+          "short_description": "This project aims to upgrade the codebase to use es6 features and change the current module format( AMD)  and loaders(requierJS)  to modern es6...",
+          "student_name": "Divyanshu Raj",
+          "code_url": "https://github.com/endurance21/GSOC-20-WrapUp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4796121735495680/"
+        },
+        {
+          "title": "Italian translation and i18n improvements",
+          "short_description": "My project aims at making the internationalisation process of the p5.js website easier and more accessible to contributors, while also simplifying...",
+          "student_name": "Yukie Nomiya",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/yukienomiya_gsoc_2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5908911623766016/"
+        },
+        {
+          "title": "Support for Kotlin Native",
+          "short_description": "Add support of Kotlin/Native in processing-android.\nMigration of Java based processing's android mode to Kotlin.\nSpilt Android specific logic from...",
+          "student_name": "ADITYA RANA",
+          "code_url": "https://medium.com/@ranaaditya/google-summer-of-code20-final-progress-report-7738aaaf6b1f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6320511123980288/"
+        },
+        {
+          "title": "Improved Web Editor Mobile UI",
+          "short_description": "The Web Editor is at the core of the p5 community. With over a million saved sketches, it is a great tool for creators and an attraction for many...",
+          "student_name": "Thales Grilo",
+          "code_url": "https://ghales.top/posts/gsoc-end-12020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5140551269089280/"
+        },
+        {
+          "title": "Increasing Organization and Scope of the p5.js Showcase",
+          "short_description": "My proposed project is to develop the p5.js showcase to allow users to filter through the projects by the libraries or functions that are used within...",
+          "student_name": "Connie Liu-1",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/connieliu_gsoc_2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5193315982508032/"
+        },
+        {
+          "title": "Improving p5py",
+          "short_description": "This project aims to improve the p5py API and implement new features.\nSpecifically, the base goals are:\n\nStandardize p5py API so it's as close as...",
+          "student_name": "Ziyao Zhang",
+          "code_url": "https://p5.readthedocs.io/en/latest/releasenotes/0.7.0-0.7.1.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5204501285306368/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4923136667025408/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Improving the p5.xr Library Through Artistic Examples",
+          "short_description": "My goal is to create a series of examples using the p5.xr library that show people how to work with creative coding concepts inside of virtual space....",
+          "student_name": "Anais Gonzalez",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/anaisgonzalez_gsoc_2021.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4988788765360128/"
+        },
+        {
+          "title": "p5.js 2021 Showcase: The Love Ethic",
+          "short_description": "\u201cp5.js 2021 Showcase: The Love Ethic\u201d is a proposal for the continued development of the p5.js showcase, but with a particular focus on the softness...",
+          "student_name": "Katie Chan",
+          "code_url": "https://github.com/kchan2000/p5.js-showcase/pull/14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5112945196924928/"
+        },
+        {
+          "title": "Adding to p5.js Friendly Error System",
+          "short_description": "This project aims to extend the existing functionality(\"fesErrorMonitor\") of the p5.js Friendly Error system and add a new feature that will allow...",
+          "student_name": "Shantanu Kaushik",
+          "code_url": "https://gist.github.com/Aloneduckling/c62bb4289fa5bce47e4a78162c3e7975",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5575014320963584/"
+        },
+        {
+          "title": "Korean Translations and Website Improvements",
+          "short_description": "Updating and adding to Korean translations, as well as restructuring the Learn and Examples sections of the p5 website. Adding features such as a...",
+          "student_name": "Joseph Hong",
+          "code_url": "https://docs.google.com/document/d/1G8QkaeMsTyw6jj6Yb0hWAoN8bmCmzQQCyLrSky0Xslo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6246956317278208/"
+        },
+        {
+          "title": "Internationalization(i18n) and Deployment of P5.js Website",
+          "short_description": "The p5.js website has all the features but it lacked Translation features. In this project, I have added the new translation feature to the P5.js...",
+          "student_name": "Sanjay Singh Rajpoot",
+          "code_url": "https://sanjay22rajpoot.medium.com/gsoc21-internationalization-of-p5-js-final-report-aba1e13e2be3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4627061787852800/"
+        },
+        {
+          "title": "Create p5 Music examples - interactive and generative",
+          "short_description": "Create example functions for interacting with sound on p5.js and also examples for creating visuals as feedback to sound. These could be further...",
+          "student_name": "Stuti Mohgaonkar",
+          "code_url": "https://thirsty-jobaria-fd1.notion.site/Code-of-Music-GSoC-84ad01fc7bad477cbf1522e3050b458f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4757876492468224/"
+        },
+        {
+          "title": "Add Examples and Fix Bugs in Swift Processing",
+          "short_description": "This proposal fulfills the need for continued development of the Swift Processing code base. This means that bugs would be fixed and more...",
+          "student_name": "Masood Kamandy",
+          "code_url": "https://gist.github.com/masoodkamandy/5f92e756489d884a022f88f2fe679de8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4764288073334784/"
+        },
+        {
+          "title": "Addon Library Development - p5.teach.js",
+          "short_description": "This project would involve developing tools for teaching STEM through p5.js, adding functions to animate shapes, and animating math symbols. The main...",
+          "student_name": "Aditya Siddheshwar",
+          "code_url": "https://gist.github.com/two-ticks/4dda385f078abe5ac63cba98eac30e5d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4797012234469376/"
+        },
+        {
+          "title": "Improve Test Coverage in p5.Sound library",
+          "short_description": "Testing is vital for quality coding. It not only makes the code more consistent but also ensures that any addition of new code won\u2019t break the...",
+          "student_name": "Sai Bhushan",
+          "code_url": "https://github.com/satyasaibhushan/gsoc-21-wrapup",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4834048140115968/"
+        },
+        {
+          "title": "Adding Alt Text",
+          "short_description": "I would like to help improve the web accessibility of p5js.org through adding alt text to visual elements on the p5.js website.",
+          "student_name": "Katie Liu",
+          "code_url": "https://github.com/processing/p5.js-website/pull/1075",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6516361328590848/"
+        },
+        {
+          "title": "Activism Through Storytelling with Code",
+          "short_description": "I will be creating a web-based Artist Activist Handbook that will act like a utility and a possible guideline for other artists, activists, and...",
+          "student_name": "Niki Ito",
+          "code_url": "https://github.com/niki-ito/activism-through-storytelling-with-code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5827589368709120/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/processing-foundation/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "p5 Examples Code Improvement",
+          "short_description": "The project aims to work on a set of examples that introduces both programming constructs alongside concepts of art & design. My hope is that by...",
+          "student_name": "Malay Vasa",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/malayvasa_gsoc_2022.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MSThRVFX/"
+        },
+        {
+          "title": "Improving p5.js WebGL Functionality",
+          "short_description": "WebGL, being the OpenGL variant for Web, is the most popular graphics library which makes use of GPU for efficient and fast drawing of graphics. This...",
+          "student_name": "Shubham Kumar Sharma",
+          "code_url": "https://github.com/ShenpaiSharma/GSoC-2022-Wrap-Up/tree/main",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/n5T0obJl/"
+        },
+        {
+          "title": "GSoC'22 Processing Proposal (Teach Page)",
+          "short_description": "\u3010Idea of update the Teach Page\u3011 1.Re-organize media from the teachers, code and video a)re-organize the resources with more detailed tags b) renew...",
+          "student_name": "Gracia Zhang",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/graciazhang_gsoc_2022.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZvOXyBHH/"
+        },
+        {
+          "title": "Saving GIF files",
+          "short_description": "In this proposal, my main goal is to add functionality to the p5.js library to be able to save GIF files quickly and easily. GIF file saving is...",
+          "student_name": "Jes\u00fas Rasc\u00f3n",
+          "code_url": "https://github.com/processing/p5.js/pull/5709",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3pT9TiqC/"
+        },
+        {
+          "title": "Beginner-friendly ML Library for Processing",
+          "short_description": "This project aims to develop a new beginner-friendly Machine Learning Library for Processing by (1) using the diverse model pool supported by Deep...",
+          "student_name": "Jeongin Lee",
+          "code_url": "https://github.com/jjeongin/creative-machine",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8QMnLtav/"
+        },
+        {
+          "title": "BONDS: Improving the p5.js Showcase\u2019s Accessibility to Expand Community Support For New Coders",
+          "short_description": "Expanding on Katie Chan's 2021 p5.js Showcase theme of The Love Ethic, the driving force of this project will be the theme of BONDS, but more...",
+          "student_name": "Annie Zheng",
+          "code_url": "https://github.com/processing/p5.js-showcase/blob/main/contributors/GSOC2022-wrapup.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YKTssMvn/"
+        },
+        {
+          "title": "p5.xr Enter VR button, controller functionality, interface primitives, and basic locomotion",
+          "short_description": "In this proposal, I outline the addition of key features to p5.xr, in order to expand the VR capabilities of p5.js. This includes an improved Enter...",
+          "student_name": "Samir Ghosh",
+          "code_url": "https://github.com/smrghsh/GSOC22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Vm3v6mNv/"
+        },
+        {
+          "title": "Resolving Bugs and Expanding Documentation for WebGL in p5.js",
+          "short_description": "My proposal is to resolve a number of outstanding bugs with WebGL functionality in p5.js, as well as expand on the documentation and tests for that...",
+          "student_name": "Austin Slominski",
+          "code_url": "https://gist.github.com/aceslowman/3d18e8e3acac994bde2ae2512cc85f3d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/r9OknbNi/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/processing-foundation",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Improving p5.js WebGL/3d functionality.",
+          "short_description": "In p5.js, there are two render modes: P2D (default renderer) and WEBGL. It enables the user to draw in 3D. There are many ways to implement...",
+          "student_name": "ARYAN KOUNDAL",
+          "code_url": "https://github.com/processing/p5.js/blob/main/contributor_docs/project_wrapups/aryan_koundal_gsoc_2023.md",
+          "proposal_id": "DNTPISmt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WGVqRdp4"
+        },
+        {
+          "title": "Friendly Error System(FES) and Documentation",
+          "short_description": "I propose to work on the following for enhancement of Friendly Error System : 1. Decoupling the Friendly Error System to a standalone package 2....",
+          "student_name": "Ayush Shankar",
+          "code_url": "https://docs.google.com/document/d/1yL2YAVKJGVIeAmJ_-Np7jF3TYb2IwN2W1Mjk8Epu2Pg/edit?usp=sharing",
+          "proposal_id": "zALftbnx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/62XKU2Y8"
+        },
+        {
+          "title": "Mobile/Responsive Design Implementation of p5.js Web Editor.",
+          "short_description": "This project focuses on the mobile responsive views implementation of the web editor. The p5 community has over a million sketches and the p5 web...",
+          "student_name": "dewanshDT",
+          "code_url": "https://dewanshthakur.hashnode.dev/google-summer-of-code-wrap-up",
+          "proposal_id": "THSEPT6H",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kJWpttJC"
+        },
+        {
+          "title": "Adding AR Image Markers and Migrating VR Library",
+          "short_description": "This project aims at migrating the current VR library to Cardboard SDK from Google VR(deprecated since 2019) and adding Image Marker functionality to...",
+          "student_name": "Gaurav Puniya",
+          "code_url": "https://medium.com/@gauravpny/project-report-for-gsoc-2023-f07329d3861c",
+          "proposal_id": "3jsZcP4P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5DBKH7wz"
+        },
+        {
+          "title": "Support Shader-Based Filters in p5.js",
+          "short_description": "What\u2019s the need for shader-based filters? Image filters in p5.js are too slow with their current pixel-by-pixel loop implementation. It frustrates...",
+          "student_name": "Justin Wong",
+          "code_url": "https://wonger.dev/posts/p5js-shader-filters",
+          "proposal_id": "s9u39j3S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9tXipZke"
+        },
+        {
+          "title": "Updating p5js.org Site Documentation and Accessibility",
+          "short_description": "This project aims to improve the accessibility of the p5js.org site by conducting an accessibility audit to gauge the current deficits of the...",
+          "student_name": "Kathryn Lichlyter",
+          "code_url": "https://www.klich.co/project/p5-js-documentation-accessibility",
+          "proposal_id": "eZDuDPRC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/LnJrJmjI"
+        },
+        {
+          "title": "A Typographic Revamp for p5.js \ud83c\udf38",
+          "short_description": "This project aims to improve the P5.js library by fixing the issue flag on GitHub, adding new features, developing new examples for typography...",
+          "student_name": "munus",
+          "code_url": "https://www.notion.so/munusshih/A-Typographic-Revamp-for-p5-js-b02be315331c4ca7becc9bd8169dfede?p=d79c46e2bee744119c96f9b469e454dd&pm=s",
+          "proposal_id": "7RkJkwHE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/B8qYDtdU"
+        },
+        {
+          "title": "Friendlier Error Messages for Processing",
+          "short_description": "This proposal entails revamping the existing Processing error message system so that it resembles the P5.js Friendly Error System (FES). The problem...",
+          "student_name": "willybobilly",
+          "code_url": "https://github.com/processing/processing4/pull/771#issuecomment-1695917774",
+          "proposal_id": "woAypnSi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/w544i774"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/processing-foundation",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Friendly p5.js Reference Translation Tasks",
+          "short_description": "This project will build friendly automation tooling to support community translation of the p5.js reference documentation (including p5.js core and...",
+          "student_name": "Divyansh013",
+          "code_url": null,
+          "proposal_id": "ds4AQTVX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/45ZFrkH4"
+        },
+        {
+          "title": "Context-Aware Autocomplete and Refactoring Enhancements for the p5.js Web Editor",
+          "short_description": "Currently, the autocomplete feature in the p5.js Web Editor is facilitated by CodeMirror and a custom-built static hinter (as given in the structured...",
+          "student_name": "Kamakshi",
+          "code_url": null,
+          "proposal_id": "PTjGKJbt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5AOSrOSt"
+        },
+        {
+          "title": "Friendly Sketch Embedder for p5.js",
+          "short_description": "Embedding p5.js sketches on different platforms can be tricky because some sites block scripts, remove iframes, or require a specific format. This...",
+          "student_name": "Nwakaego Glory",
+          "code_url": null,
+          "proposal_id": "EWCZkQwr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bOT40ITT"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://pf-gsoc.slack.com",
+  "contact_email": "mailto:foundation@processing.org",
+  "mailing_list": "http://discourse.processing.org",
+  "ideas_url": "https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2025)",
+  "guide_url": "https://github.com/processing/Processing-Foundation-GSoC",
+  "twitter_url": "https://twitter.com/ProcessingOrg",
+  "blog_url": "https://medium.com/@ProcessingOrg"
+}

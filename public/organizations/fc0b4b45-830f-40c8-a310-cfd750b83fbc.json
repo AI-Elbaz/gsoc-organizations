@@ -1,0 +1,1084 @@
+{
+  "name": "FOSSASIA",
+  "url": "https://fossasia.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/fossasia-bg/rquaoyo4v86xj21l-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web",
+    "graphics",
+    "mobile",
+    "fashiontech",
+    "json",
+    "machine learning",
+    "artificial intelligence",
+    "cloud",
+    "event management",
+    "web development",
+    "personal assistants",
+    "open science",
+    "search",
+    "voice assistants",
+    "hardware",
+    "event solutions",
+    "android",
+    "firmware"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "java",
+    "json api",
+    "php",
+    "artificial intelligence",
+    "c",
+    "reactjs",
+    "django"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4912324552949760/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "Loklak apps/microservices to the open tweet platform loklak.net and IoT integrations using the loklak backend",
+          "short_description": "loklak is free software hosted on loklak.org which provides message search results from twitter in json format. loklak is a complete search engine...",
+          "student_name": "Sudheesh Singanamalla",
+          "code_url": "https://drive.google.com/file/d/0ByvcOk0FPKwKQ2dqb2FPMnJkZkk/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6447260770500608/"
+        },
+        {
+          "title": "Open-Event-Webapp",
+          "short_description": "The objective of the project is to implement new features in the Open-event-webapp , improving the User Experience ,integrating the Fossasia...",
+          "student_name": "Aayush Arora",
+          "code_url": "https://aayusharora.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6735847407747072/"
+        },
+        {
+          "title": "Improve sTeam",
+          "short_description": "The aim of my project is to improve the interface of sTeam and make it more interactive and secure. I will be adding the TLS protocol for all the...",
+          "student_name": "Siddhant085",
+          "code_url": "https://github.com/Siddhant085/sTeam/wiki/Siddhant085-Work-during-GSOC-2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6141210527793152/"
+        },
+        {
+          "title": "Open Source Science Experiments & Data Acquisition System  for Physics Education and Research with ExpEYES - Pocket Science Lab",
+          "short_description": "Pocket Science Lab at FOSSASIA aims to develop open source hardware &amp; software technology to improve science education in the developing  world....",
+          "student_name": "Gnovi",
+          "code_url": "http://wavicles.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5233580858933248/"
+        },
+        {
+          "title": "Conception and development of loklak_depot: a platform and marketplace for data",
+          "short_description": "loklak_depot is a new product, which aims to be a platform, for all things data. The big-picture aim is to:\n\nusing the data loklak scrapes from...",
+          "student_name": "Shiven Mian",
+          "code_url": "https://gist.github.com/shivenmian/7e0815a9ed91c2cd4ca661e9c82f6b6c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5323730880299008/"
+        },
+        {
+          "title": "Loklak: IoT prototypes and a loklak backend systems",
+          "short_description": "IoT has been a growing field and has been ever increasing at tremendous rates, All of this makes it important to have open data systems such that the...",
+          "student_name": "Damini Satya",
+          "code_url": "https://docs.google.com/document/d/1FxkKu1SwrOruzMYLM2R6l8Ro1HnogABZ1s-u8XKRQdU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5369164386533376/"
+        },
+        {
+          "title": "Improve the Open Event Organizer Server and implement missing features",
+          "short_description": "Organizing an event like a Conference or a technical festival is not an easy task. Here\u2019s where the need for a software platform to assist the team...",
+          "student_name": "Niranjan R",
+          "code_url": "https://github.com/fossasia/open-event-orga-server/commits/development?author=niranjan94",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5373822412783616/"
+        },
+        {
+          "title": "Open Event Web and Mobile App",
+          "short_description": "I wish to contribute to the development of the client side apps of Open Event project (both web and android) and be able to fix the existing bugs,...",
+          "student_name": "championswimmer",
+          "code_url": "https://github.com/fossasia/open-event-webapp/commits/development?author=championswimmer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5381507317235712/"
+        },
+        {
+          "title": "CommonsNet",
+          "short_description": "Across the world there are different legal settings and requirements for sharing of Internet connections and specifically Open Wifi connections. The...",
+          "student_name": "Agata",
+          "code_url": "https://gist.github.com/agwisniewska/7c59390602fd90d0587b2d4e4393a2d9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6209061078958080/"
+        },
+        {
+          "title": "Enhancements to the FOSSAsia Open Event Android App",
+          "short_description": "Enhancing the FOSSAsia Open Event Template to add new functionalities like\n\nFixing app specific bugs (Random Force Close and similar errors),...",
+          "student_name": "Harshit Dwivedi",
+          "code_url": "https://gist.github.com/the-dagger/742f3bbd565718355d7ef1e6cbe8353b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4543415047946240/"
+        },
+        {
+          "title": "Open Event Organizer Server Feature Enhancement",
+          "short_description": "The proposal looks forward to implement features such as API auth, calendar export, review system, etc.  that could make the project better and more...",
+          "student_name": "SaptakS",
+          "code_url": "https://gist.github.com/SaptakS/ae5be5186110cd559e5213b33938407a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4774998610804736/"
+        },
+        {
+          "title": "Enhancing Open Event Server",
+          "short_description": "API to insert/update/delete data on server. \nRedesign/enhance web UI \nAuthenticated review/rating system \nReduce data redundancy\nSpeaker login...",
+          "student_name": "aviaryan",
+          "code_url": "https://github.com/fossasia/open-event-orga-server/commits?author=aviaryan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6544601640861696/"
+        },
+        {
+          "title": "GSOC proposal for Timeline and Search Navigation for loklak.net",
+          "short_description": "loklak is free software hosted on loklak.org which provides message search results from twitter in json format. \nloklak is a complete search engine...",
+          "student_name": "zeus",
+          "code_url": "https://gist.github.com/sopu/d4c76e24984d65500cc83a4856e1fc39",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4879108618059776/"
+        },
+        {
+          "title": "Create REST APIs to write data to the Open Event Organizer Server",
+          "short_description": "Improve the current Open Event Organizer Server application. Write tests for existing models and views. Provide bug fixes and enhancements.\nCreate...",
+          "student_name": "Shivam Mamgain",
+          "code_url": "https://github.com/fossasia/open-event-orga-server/commits?author=shivamMg",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4901518415233024/"
+        },
+        {
+          "title": "Open Event Orga Server",
+          "short_description": "Solution which will accelerate a process of creating conference event",
+          "student_name": "Rafal Kowalski",
+          "code_url": "https://gist.github.com/rafalkowalski/2c3cdf586f0961f1c747b4e7de9668af",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4922402962145280/"
+        },
+        {
+          "title": "Proposal for Knitting and IoT-cloud services",
+          "short_description": "Over the past years I have become an open source enthusiast valuing community. I would be happy to join the FOSSASIA community in their effort to...",
+          "student_name": "niccokunzmann",
+          "code_url": "https://niccokunzmann.github.io/blog/2016-08-10/Google-Summer-of-Code-Contributions",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4926423051534336/"
+        },
+        {
+          "title": "Improve tooling for sTeam collaboration platform",
+          "short_description": "A Collaborative software is an application software designed to help people involved in a common task to achieve their goals. sTeam is one such...",
+          "student_name": "Ajinkya Wavare",
+          "code_url": "https://github.com/ajinkya007/sTeam/wiki/GSOC-16-Work:-sTeam-CLI-%5Bajinkya007%5D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5929253354864640/"
+        },
+        {
+          "title": "Improve and enhance the Open Event system",
+          "short_description": "Open event system is at a basic stage, but the functionality is still not complete, like the server is not secure, the app is not fully customisable,...",
+          "student_name": "Manan Wason",
+          "code_url": "https://gist.github.com/mananwason/882471d00e09d1c96aafae57a6098caa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6289482999398400/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5936828200779776/",
+      "num_projects": 51,
+      "projects": [
+        {
+          "title": "Updating Phimp.me Image Application",
+          "short_description": "Updating Phimp.me, Image application and getting it ready for publishing in stores by implementing features like Image Tuning, Adding Filters of...",
+          "student_name": "Vinay Sajjanapu",
+          "code_url": "https://gist.github.com/vinaysajjanapu/e3b8367921a50846bc6012c4d9c39c12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6337933451722752/"
+        },
+        {
+          "title": "Open Event Frontend -Design the new frontend and integrate it with the API",
+          "short_description": "Redesign the frontend of the Open Event project using semantic UI\nEnhance the functionality and reimplement functionality using ember JS\nIntegrate...",
+          "student_name": "Abhinav Khare",
+          "code_url": "https://gist.github.com/CosmicCoder96/cc6ed77d539333b227748bb8d18759a1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6348389146951680/"
+        },
+        {
+          "title": "Develop firmware and experiments for Pocket Science Lab (PSLab)",
+          "short_description": "Characteristic of a shift into the digital era, students have started to learn to code at an early age. However, most of the academic applications...",
+          "student_name": "Jithin BP",
+          "code_url": "https://jithinbp.github.io/GSoC2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6419685604065280/"
+        },
+        {
+          "title": "Develop Susper Search Appliance",
+          "short_description": "Introduction:-The Susper Search Appliance uses Yacy-Grid. Currently only the backend exists, that can be used via terminal. The goal of this project...",
+          "student_name": "Nikhil Rayaprolu",
+          "code_url": "https://gist.github.com/nikhilrayaprolu/1dd9b32939e9fc1f699adfe0693c98f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6421362923012096/"
+        },
+        {
+          "title": "Show loklak search results as auto-refreshing media wall",
+          "short_description": "The view of the search results is currently showing as a list of results. The aim of the project is to offer an additional view as a wall.\na.) Part...",
+          "student_name": "Achint Sharma",
+          "code_url": "https://gist.github.com/Achint08/18759d76f34a61f8f19bb4d290f39c97",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6422325532557312/"
+        },
+        {
+          "title": "Develop an Android Science App for PSLab Experiments",
+          "short_description": "Create an Android App from scratch which would enable user to use PSLab directly from their mobile phone through an OTG cable and perform various...",
+          "student_name": "Vivek Singh Bhadauria",
+          "code_url": "https://gist.github.com/viveksb007/b394b5815ebe4208435509ce40ec4521",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6464072077803520/"
+        },
+        {
+          "title": "Developing the FOSSASIA\u2019s Open Event Frontend App",
+          "short_description": "The FOSSASIA Summit is an exciting Open Technology event for developers, students, and startups using open source to build up their businesses. It is...",
+          "student_name": "Harshita Gupta",
+          "code_url": "https://gist.github.com/harshitagupta30/a0eac0c50e1bf3458d4a3402709538af",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5683815569686528/"
+        },
+        {
+          "title": "Yaydoc - Build and Push documentation easily",
+          "short_description": "Yaydoc is a one stop solution for all documentation needs. It is intended to be similar to Continuous integration services such as Travis CI, Circle...",
+          "student_name": "Priyam Singh",
+          "code_url": "https://gist.github.com/pri22296/f473eaef93a20ef2a02082cf5f13166b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5699365767217152/"
+        },
+        {
+          "title": "Enhancement of SUSI.AI Server and Android App",
+          "short_description": "SUSI.AI is a powerful and Open Source Artificial Intelligence based Personal Assistant which retrieves data from various sources and answers queries...",
+          "student_name": "Chirag Wadhera",
+          "code_url": "https://gist.github.com/chiragw15/0631223836130601d9f94ed7a887042f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5725239723950080/"
+        },
+        {
+          "title": "Enhancement to FOSSAsia Loklak Search webapp",
+          "short_description": "Enhancing the Loklak Search webapp by fixing bugs and adding new features to the application which are performant and stable.\nEnhancing the UI/UX...",
+          "student_name": "Hemant Jadon",
+          "code_url": "https://gist.github.com/hemantjadon/4e13120d72a1470b6167743619f54f4d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5422632434401280/"
+        },
+        {
+          "title": "Implementation of frontend for eventyay",
+          "short_description": "The aim of this project is to decouple the current orga-server and move to API centric approach, with orga-server as the central API server &amp;...",
+          "student_name": "Dilpreet Singh",
+          "code_url": "https://gist.github.com/geekyd/613fb9e4cb6fb4cecf410e6343461a16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5436200504524800/"
+        },
+        {
+          "title": "A Front End for the Search Appliance in Susper",
+          "short_description": "Building a user- friendly UI for the search appliance in Susper, which has an existing Yacy-Grid back end. This project also aims to include many...",
+          "student_name": "Soumya Vadlamannati",
+          "code_url": "https://gist.github.com/Marauderer97/898630a8ffb23e7be7405bab648a9531",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6143398947848192/"
+        },
+        {
+          "title": "SUSI",
+          "short_description": "SUSI is an AI-powered chat bot with the ability to reply almost every query asked by the user not only in the form of text but visuals as well. It...",
+          "student_name": "Madhav Rathi",
+          "code_url": "https://gist.github.com/madhavrathi/9be16a7778c8530b0e153dc522411cd5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6147191001317376/"
+        },
+        {
+          "title": "Add Endpoints to Loklak API and Implement World Mood Tracker",
+          "short_description": "Add stream and mood API to loklak server and build mood heatmap web app on it's top.",
+          "student_name": "singhpratyush",
+          "code_url": "https://gist.github.com/singhpratyush/49ced965be92a2986b110d1338433e7b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6156762604371968/"
+        },
+        {
+          "title": "Loklak Wok Android app into library and app with search and tweet features",
+          "short_description": "Addition of required Javadoc comments and refactoring variable names, methods and some classes in the loklakj_lib\u200b, so that it can be published in...",
+          "student_name": "Siddhant Kumar Patel",
+          "code_url": "https://gist.github.com/SKrPl/10fa22d0bdfe9f53b6ce7348c98b523b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5062099726237696/"
+        },
+        {
+          "title": "Open Event Format in other Open Source Event Apps",
+          "short_description": "The Open Event Project offers event managers a platform to organise all kinds of events including concerts, conferences, summits and regular meetups....",
+          "student_name": "sadboy",
+          "code_url": "https://gist.github.com/heysadboy/5d0509d38e493ecc94678bdbd858046f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5117290592862208/"
+        },
+        {
+          "title": "SUSI Android",
+          "short_description": "SUSI.AI is an open source AI based personal assistant which retrieve data from various sources like twitter and provide answer to queries of user. So...",
+          "student_name": "Amit Tiwary",
+          "code_url": "https://gist.github.com/amitiwary999/7709c9b1845214f057750fe370defdf7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5127065938427904/"
+        },
+        {
+          "title": "Enhancements in Susper Search Engine",
+          "short_description": "The idea is to improve the current Susper Search Engine by helping to update the theme to the latest search engine site using Angular Material, add...",
+          "student_name": "Harshit Prasad",
+          "code_url": "https://docs.google.com/document/d/1TPAhQaXjEAE93io1W8XIyhYFgCvu33cygxEmPddXFQg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5545607011762176/"
+        },
+        {
+          "title": "Developing the Meilix Generator for Custom Linux Distributions",
+          "short_description": "The task is to develop a webapp for generating custom Linux Operating System. This webapp will guide one through a Graphical User Interface to get an...",
+          "student_name": "Harsh Lathwal",
+          "code_url": "https://gist.github.com/xeon-zolt/f9027c7dc566883021c8ffe7bd71b3be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5558694313984000/"
+        },
+        {
+          "title": "SUSI.AI",
+          "short_description": "SUSI is an Artificial Intelligence system which apart from having its own Android, iOS, web and IoT clients also offers an extended support for...",
+          "student_name": "Dravit Lochan Gupta",
+          "code_url": "https://gist.github.com/DravitLochan/01944318d14a74c2be26abf8d4f4c4b9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5581911028137984/"
+        },
+        {
+          "title": "Enhancing SUSI AI server, skills and developing SUSI AI messenger bots",
+          "short_description": "The goal of this project is to enhance SUSI, integrating different APIs to make it more responsive and smart and implementing SUSI AI messenger...",
+          "student_name": "Ali Ayub Khan",
+          "code_url": "https://gist.github.com/AliAyub007/d3cde0b03f3a603629561530afe76446#file-gsoc-finalreportaliayubkhan-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5586404100800512/"
+        },
+        {
+          "title": "Phimpme Android Project",
+          "short_description": "PhimpMe   Android   is   an   image   application   that   aims   to   replace   proprietary   photo\nediting   applications.   It   offer   features ...",
+          "student_name": "Anant Prasad",
+          "code_url": "https://gist.github.com/anantprsd5/a5ab456a2fb3981b6df436d0f8880bba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5625049679659008/"
+        },
+        {
+          "title": "Yaydoc - Build and Push documentation easily",
+          "short_description": "Yaydoc is a one stop solution for all documentation needs. It is intended to be used in Continuous integration services such as Travis CI, Circle CI,...",
+          "student_name": "balaji r",
+          "code_url": "https://gist.github.com/sch00lb0y/86c1e67798da6583f97627fbd2f427ed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4556591202304000/"
+        },
+        {
+          "title": "SUSI.AI",
+          "short_description": "SUSI AI is an intelligent Open Source personal assistant. It is capable of chat and voice interaction and by using APIS to perform actions such as...",
+          "student_name": "Chetan Kaushik",
+          "code_url": "https://gist.github.com/dynamitechetan/ef25eaa20acd25e6e3c0b79c76ca64e6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4577455616557056/"
+        },
+        {
+          "title": "Phimpme Image App Proposal",
+          "short_description": "I have gone through the various projects of Fossasia and impressed with the kind of project organisation is working upon.I choose to work on Phimpme...",
+          "student_name": "Mohit Manuja",
+          "code_url": "https://gist.github.com/mohitmanuja/fca01bd10c01a1e452043b21e0a65702",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4587911714439168/"
+        },
+        {
+          "title": "Loklak: Track Emojis on Twitter and show them on a map using the loklak API",
+          "short_description": "loklak is free software hosted on loklak.org which provides message search results from twitter in json format. loklak is a complete search engine...",
+          "student_name": "Kavitha E Nair",
+          "code_url": "https://gist.github.com/kavithaenair/ce4629f9cd93e935f92acaa3012a6485",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4599339817107456/"
+        },
+        {
+          "title": "Improve and enhance open-event-webapp",
+          "short_description": "This project aims to improve and enhance open-event-webapp and add new features like calendar and png export of the event schedule. The other...",
+          "student_name": "Princu7",
+          "code_url": "https://gist.github.com/Princu7/93a3c444c84c05aff6154379b961168a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4623427201662976/"
+        },
+        {
+          "title": "Implementation of webapp to generate customize Meilix Linux Distro",
+          "short_description": "To design a Linux Distro based on a platform to achieve certain requirements. The proposal focuses on building such as Distro.\nThe distro will be...",
+          "student_name": "Tarun Kumar (sucode)",
+          "code_url": "https://gist.github.com/meets2tarun/270f151d539298831ce542be5f733c82",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4649083591458816/"
+        },
+        {
+          "title": "A Web Application making use of the SUSI.AI Server functionalities",
+          "short_description": "To build a web application similar to the existing Android and iOS clients, making use of the functionalities of SUSI.AI Server. The web application...",
+          "student_name": "udaytheja",
+          "code_url": "https://gist.github.com/uday96/1a6f97de17f33b4dbf5f55c2fb2ba2b6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4703316948811776/"
+        },
+        {
+          "title": "Development of an Android Application for Pocket Science Lab Experiments",
+          "short_description": "Pocket Science Lab is a complete and powerful tool that can really power a regular science lab. It can work as Oscilloscope and Logical Analyzer....",
+          "student_name": "Akarshan Gandotra",
+          "code_url": "https://gist.github.com/akarshan96/ad7ed49b1c5d4762cc17abb21af14652",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4704853473361920/"
+        },
+        {
+          "title": "PSLab - Android/Firmware/Hardware",
+          "short_description": "PSLab is a new addition to FOSSASIA Science Lab. This tiny pocket lab provides an array of necessary equipments for doing science and engineering...",
+          "student_name": "Padmal",
+          "code_url": "https://padmal-gsoc17.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4706641521934336/"
+        },
+        {
+          "title": "Enhancement of Phimpme Android App",
+          "short_description": "Since Phimpme lags basic functionalities like connecting to the social network and sharing photos is limited to Bluetooth. Editing photos are also...",
+          "student_name": "Subhankar Shah",
+          "code_url": "https://gist.github.com/Subhankar29/c3c3653d8c83842e08cf76a52aeae997",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4725675474812928/"
+        },
+        {
+          "title": "Decoupling the building the frontend for Open event server in Ember js.",
+          "short_description": "Currently the open-event-server has very unorganized and uneven frontend which does not look good on different screens. So I will be decoupling the...",
+          "student_name": "Sumedh Nimkarde",
+          "code_url": "https://gist.github.com/sumedh123/dfdcd7de01c1b2cfbbc7ce1b73af46a0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4741979170668544/"
+        },
+        {
+          "title": "An iOS app making use of the SUSI.AI Server functionalities",
+          "short_description": "The main aim of this project was to develop an iOS app on top of the SUSI.AI Server functionalities. The server makes use of different skills which...",
+          "student_name": "Chashmeet Singh",
+          "code_url": "https://gist.github.com/chashmeetsingh/c3db2ee75ae7b416360467379fa9a9aa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6483869595336704/"
+        },
+        {
+          "title": "A SUSI Web Chat Application with advanced features for various SUSI skills.",
+          "short_description": "The SUSI Web Chat App shall be implemented over the SUSI Server API with features supporting chat responses in the form of text, maps, images,...",
+          "student_name": "Rishi Raj",
+          "code_url": "https://gist.github.com/rishiraj824/2d0a4848d863a148c61d03bf487ee88d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6548532341243904/"
+        },
+        {
+          "title": "Enhancements to FOSSASIA Open Event Android App",
+          "short_description": "Aim of the project is to improve and enhance Open Event Android project by adding more features, improving performance and fixing bugs.\n\nAdd support...",
+          "student_name": "Shailesh351",
+          "code_url": "https://gist.github.com/Shailesh351/536281e4d6dbde7ae44d9bbf0cffa30e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6065655342170112/"
+        },
+        {
+          "title": "Enhancement to the Fossasia\u2019s PhimpMe Android application",
+          "short_description": "I would like to enhance this project and like to develop an all in one photo app. Where user can directly share his/her image on different accounts...",
+          "student_name": "Pawan Pal",
+          "code_url": "https://gist.github.com/pa1pal/6edb314a3fc2dc22fe8400898fcb3da1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4866412963168256/"
+        },
+        {
+          "title": "Develop Organizer features for Open Event Orga Server",
+          "short_description": "Open event orga server offers the great solution for Organizing event. There are great tools and features like sessions, speakers, ticket management...",
+          "student_name": "Piyush Agrawal",
+          "code_url": "https://gist.github.com/poush/4e08e5da67301be8b9f796c941e8ed99",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4884934204325888/"
+        },
+        {
+          "title": "Import of Events into Open Event Orga Server",
+          "short_description": "This project aims at providing support for automatic import of events from various event listing sites into Open Event. This import of events is...",
+          "student_name": "Afroz Ahamad",
+          "code_url": "https://gist.github.com/enigmaeth/da43a8023ccfca9fc81bf270c0c175ac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4957105492590592/"
+        },
+        {
+          "title": "Developing a Plug and Play adaptation of Susi to run on Hardware Device like Raspberry Pi",
+          "short_description": "This proposal aims at adding support for running Susi AI on the devices modeled after Amazon Echo and Google Home. The project has aims to:\n\nMake...",
+          "student_name": "Pranjal Paliwal",
+          "code_url": "https://gist.github.com/betterclever/149bff3537f0614bb7ffeaec0de5d5ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5824553058041856/"
+        },
+        {
+          "title": "Implement json-api spec compliant API for Open Event Server",
+          "short_description": "At the time of writing this, the frontend and the backend in open-event-orga-server are tightly coupled with each other. The goal of the project is...",
+          "student_name": "Shubham Padia",
+          "code_url": "https://gist.github.com/shubham-padia/77c7f0345907f1e970d813ec7c869790",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5845352242479104/"
+        },
+        {
+          "title": "Yaydoc - An automated documentation generator",
+          "short_description": "The primary goal is to work on an automated documentation generator that will deploy documentation for various projects using Continuous...",
+          "student_name": "Ujjwal Bhardwaj",
+          "code_url": "https://gist.github.com/imujjwal96/3c794cc86f7d5467dc2f41ccee8788f3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5902910172954624/"
+        },
+        {
+          "title": "Development of Android Science App for PSLab and enhancement of firmware",
+          "short_description": "I propose to develop an Android App for Science Experiments with PSLab. Due to the growing influence of smartphones, the requirement of an Android...",
+          "student_name": "Asitava Sarkar",
+          "code_url": "https://gist.github.com/asitava1998/4cefce195392fd9ec866923fab03a6e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5941842440880128/"
+        },
+        {
+          "title": "Improvement in Susi Web app and it's integration",
+          "short_description": "Adding feedback feature to Susi\u2019s functionality.\nIntegration of Susi assistant to Viber, Skype and Gitter.\n\nFeedback Feature:\nI will change the UI of...",
+          "student_name": "Manveer Singh",
+          "code_url": "https://gist.github.com/Manveer695/699f5e716a500d236cbb5d7d41c910c8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5961715522994176/"
+        },
+        {
+          "title": "Proposal for Open Event project under FOSSASIA",
+          "short_description": "Improve attendee experience of ticketing and subtickets, for meetups and develop a venue custom map",
+          "student_name": "magdalenesuo",
+          "code_url": "https://gist.github.com/magdalenesuo/07b5bcc63c00c777e29f13a11cd7c011",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5973278917132288/"
+        },
+        {
+          "title": "SUSI.AI- Artificial Intelligence for Chat Bots",
+          "short_description": "An open source personal assistant that makes interaction with smartphones easy. Providing SUSI with abilities to reply almost every query asked by...",
+          "student_name": "Saurabh Jain",
+          "code_url": "https://gist.github.com/saurabhjn76/7154623db054f8a1717b15731f840b8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5980840743927808/"
+        },
+        {
+          "title": "Enhancing the Loklak app service and adding more apps",
+          "short_description": "The site at http://apps.loklak.org presently showcases various apps which are build with the loklak api. The aim of this project is to enhance the...",
+          "student_name": "DEEPJYOTI MONDAL",
+          "code_url": "https://gist.github.com/djmgit/651cd0974956f5aafaef2122b7d008ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6293649117675520/"
+        },
+        {
+          "title": "Open Event Orga Android App Development",
+          "short_description": "Open Event Orga App is an  Android client for the Open Event Orga API for event management. The app allows organizers to sign up and log in, view...",
+          "student_name": "Areeb Jamal",
+          "code_url": "https://gist.github.com/iamareebjamal/b7b1eb4c2888715617fe00c57f1978cf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6312277061926912/"
+        },
+        {
+          "title": "Open Event Organizer Android Application",
+          "short_description": "Open Event Organizer is an Android Application for Event Organizers and Entry Managers. It is a client side application for another project under...",
+          "student_name": "mejariamol",
+          "code_url": "https://gist.github.com/mejariamol/9ca7464eb4a977499a04bb0a185303c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5132564838744064/"
+        },
+        {
+          "title": "Add more harvester to loklak server",
+          "short_description": "'LOKLAK SERVER' is a distributed message search server to anonymously collect, share, dump and index social media search results.\nCURRENTLY...",
+          "student_name": "Vibhor Verma",
+          "code_url": "https://gist.github.com/vibhcool/e7722cbb2196cdeceacfd9e319bd2eb6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5162772014825472/"
+        },
+        {
+          "title": "Enhancements of SUSI AI web Chat",
+          "short_description": "Susi AI is open source chatbot with enabled voice assistance. It can perform various tasks like music playback, making to-do lists, setting alarms,...",
+          "student_name": "isuruAb",
+          "code_url": "https://gist.github.com/isuruAb/8f7a610571ff79a1c24bbe9891f1f392",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5212033544880128/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6489254813237248/",
+      "num_projects": 32,
+      "projects": [
+        {
+          "title": "Enhancing the SUSI AI bots, server and creating a web bot plugin for SUSI AI",
+          "short_description": "The goal of this project is to enhance the currently present SUSI AI bots, create a chatbot of SUSI AI for Twitch and create a web bot plugin for...",
+          "student_name": "Divyanshu N Singh",
+          "code_url": "https://gist.github.com/DNS-404/84c8c52f966f3aa2aaf32d4f62b43ff0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6346860339920896/"
+        },
+        {
+          "title": "Enhancements to Open-Event-Android App",
+          "short_description": "Open Event Android is a generalized events application with it one can browse through different events happening nearby or anywhere in the world, get...",
+          "student_name": "Harsimar Singh Parihar",
+          "code_url": "https://gist.github.com/simarsingh24/9023b03edd062e76b777623cd2a69515",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6410777573457920/"
+        },
+        {
+          "title": "Enhance AAA system, implementing Admin panel, adding features to susi accounts, webclient and UI/UX of SUSI.AI",
+          "short_description": "Enhance the AAA(Authentication, Authorization, Accounting) system of SUSI.AI by enhancing accounts.susi.ai and implementing Admin panel of SUSI where...",
+          "student_name": "Praduman",
+          "code_url": "https://gist.github.com/PrP-11/8dbc5b6f3181e6888a09f2a5eb42e29c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6615905211514880/"
+        },
+        {
+          "title": "Develop Badgeyay into Complete Service",
+          "short_description": "The main goal of this year's GSoC was to develop Badgeyay  into a complete Service with services ranging from simple to complex functionalities which...",
+          "student_name": "Parth Shandilya",
+          "code_url": "https://gist.github.com/ParthS007/a3f24294cf489b565a9bded339827761",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6691437513015296/"
+        },
+        {
+          "title": "Develop SUSI Web Bot Plugin and Private Skills",
+          "short_description": "SUSI web bot plugin allows users to deploy customised chatbots to their own websites. Users can create a private skill corresponding to a chatbot...",
+          "student_name": "Harshit Kedia",
+          "code_url": "https://gist.github.com/hkedia321/593735a632427312bd8e6352687b6488",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5664757726052352/"
+        },
+        {
+          "title": "Improve the Android Science App for PSLab",
+          "short_description": "The project is targeted to increase the UI of the PSLab app along with implementing all the major instruments in Android app available in the device...",
+          "student_name": "Harsh Patel",
+          "code_url": "https://harsh-2711.github.io/Harsh-GSoC18/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5675941284020224/"
+        },
+        {
+          "title": "The Meilix Road Block Project",
+          "short_description": "The Meilix road block projects deals with resolving all the major road blocks of the Meilix Linux custom distribution to put it into a productive...",
+          "student_name": "Tarun",
+          "code_url": "https://gist.github.com/meets2tarun/3688c91560b305c70797e7e1dcc55703",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5703401627189248/"
+        },
+        {
+          "title": "Enhancements to SUSI.AI Android Client and Server",
+          "short_description": "SUSI.AI is an intelligent open source personal assistant. It offers various features to the users through the skills that it has. SUSI.AI Android app...",
+          "student_name": "Arundhati Gupta",
+          "code_url": "https://gist.github.com/arundhati24/cc8fab44253c170fb22e9ab1273afcce",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5721867235098624/"
+        },
+        {
+          "title": "Improvements To FOSSASIA\u2019s Open Event Server and Android",
+          "short_description": "The Open Event Project offers event managers a platform to organize all kinds of events including concerts, conferences, summits and regular meetups....",
+          "student_name": "Mayank Vaidya",
+          "code_url": "https://gist.github.com/mayank8318/60103c5e91d55fa175309dba1a518bdc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5743868070854656/"
+        },
+        {
+          "title": "Open Event Android Project",
+          "short_description": "My Google Summer of code project was basically to create an android app which will show a general list of events created and published by the event...",
+          "student_name": "Sanyog Ghosh",
+          "code_url": "https://gist.github.com/dreadpool2/e1b01b0b2cba2ebb6e6716bb93905cb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5421926650478592/"
+        },
+        {
+          "title": "Enhancement of Susi Web Client and Server",
+          "short_description": "This proposal is aimed to enhance the functionalities and overall server side of Susi.",
+          "student_name": "Akshat Jain",
+          "code_url": "https://gist.github.com/Akshat-Jain/5bf06c2aa1d2b05c1d9647ad40cafe5a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5537387719426048/"
+        },
+        {
+          "title": "Improve automatic import of events with enhancement of event analytics and addition of machine learning capabilities for Big data services and search in Open Event Server",
+          "short_description": "Improve the feature of automatic import of events\nImplement a system for event analytics\nImplement machine learning capabilities for Big Data...",
+          "student_name": "Bhavesh Anand",
+          "code_url": "https://gist.github.com/bhaveshAn/10c69bed23345fee8d81eaaffa727110",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5100511363596288/"
+        },
+        {
+          "title": "Developing new features for the Open Event Frontend",
+          "short_description": "The New Frontend\u2019s basic foundations have been laid in previous work during last summer of code and subsequent contributions thereafter, with CRUD...",
+          "student_name": "Ritika Motwani",
+          "code_url": "https://gist.github.com/ritikamotwani/959c9ca7dde46da4d5178afd8985f0d9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5291329177255936/"
+        },
+        {
+          "title": "Enhancement to FOSSASIA\u2019s Phimpme Android Application.",
+          "short_description": "Phimp.me is an Android photo application that aims to replace proprietary image applications. It offers features such as taking photos, adding...",
+          "student_name": "Saurav Vishal",
+          "code_url": "https://gist.github.com/sauravvishal8797/030a06277c28b03371c9fb7db59a8459",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5315526553239552/"
+        },
+        {
+          "title": "Adding and Improving System Features, Enhancing Organizer Ease-of-Use and Integrating with Social Media and Other Communication Tools",
+          "short_description": "This proposal aims to improve ease of app use for organizers and addition of more system features as well as solid integration with social media and...",
+          "student_name": "Saurabh Chaturvedi",
+          "code_url": "https://gist.github.com/schedutron/901fff8ac5d0896669b360856b875677",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5368760793825280/"
+        },
+        {
+          "title": "Building Analytical Tool for SUSI.AI",
+          "short_description": "\u00b7        Analyzing user engagement.\n\u00b7        Sentimental Analysis on chats.\n\u00b7        Analyzing the correctness of SUSI replies (thumbs up / thumbs...",
+          "student_name": "Anup Kumar Panwar",
+          "code_url": "https://gist.github.com/AnupKumarPanwar/46eba01c2c0e72df2cbb55c50a32b1f0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5588590507589632/"
+        },
+        {
+          "title": "Enhancements To Open Event Orga Application",
+          "short_description": "Open Event Orga Application is a client-side application for Open Event API designed for Event Organizers. The app provides functionality to Create...",
+          "student_name": "Priyanshu Khandelwal",
+          "code_url": "https://gist.github.com/Masquerade0097/0046ed69b891b0daca6787fb99361762",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5636635823702016/"
+        },
+        {
+          "title": "Open Event",
+          "short_description": "The  Open Event  Project offers event managers a platform to organize all kinds of events including concerts, conferences, summits and regular...",
+          "student_name": "Saurav Tiwary",
+          "code_url": "https://gist.github.com/srv-twry/3e39aa7bcb344da386fd32b8552eff3e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5639603444776960/"
+        },
+        {
+          "title": "Badgeyay as a complete service",
+          "short_description": "Badgeyay\nThis is an online utility to generate badges for events like conference, talks etc. This project is an extension project to Eventyay project...",
+          "student_name": "Yash Ladha",
+          "code_url": "https://gist.github.com/yashLadha/49c7b2b5a02064f27a6fb04afc4da0de",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6200819439370240/"
+        },
+        {
+          "title": "Mohit Kumar - SUSI.AI Android",
+          "short_description": "Enhancing the SUSI.AI android client and Improve the CMS and Editor skills for SUSI.AI.\nSUSI currently has room for many improvements, many new...",
+          "student_name": "Mohit",
+          "code_url": "https://gist.github.com/batbrain7/b7120f952290d252e32cd90f116ac29d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6207520796311552/"
+        },
+        {
+          "title": "Build an analytics tool  for  SUSI.AI",
+          "short_description": "SUSI.AI CMS is the web client for SUSI.AI ( An intelligent open source personal assistant) which showcases the skills that SUSI.AI has to offer,...",
+          "student_name": "Akshat Garg",
+          "code_url": "https://gist.github.com/akshatnitd/43cd069fe9cbbc541411c1bd0317cd06",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4537155267330048/"
+        },
+        {
+          "title": "Enhancement to SUSI iOS Project",
+          "short_description": "This proposal aimed to enhance the SUSI iOS App by resolving bugs and adding new features to the app. This also aims to connect the iOS device to...",
+          "student_name": "Jogendra Singh",
+          "code_url": "https://gist.github.com/imjog/e51cf846e2637b0aa26451789c2f28e8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4591342990655488/"
+        },
+        {
+          "title": "Integrate app as microservice and implement the interaction and sharing features",
+          "short_description": "The aim is to enable multiple web-apps generations by implementing  queue data structure for the series of requests triggered by users from the...",
+          "student_name": "Ayush Gupta",
+          "code_url": "https://gist.github.com/agbilotia1998/72a5928b7b1b9daf7593f289eb6e746d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4696676728045568/"
+        },
+        {
+          "title": "Development Of Android App for PS LAB",
+          "short_description": "Pocket Science Lab is a tiny yet powerful tool that integrates the functionalities of most of the electronic equipment present in the lab. It can...",
+          "student_name": "Avjeet Singh",
+          "code_url": "https://gist.github.com/Avjeet/63b6cd81a8492f3eae61a641c749afa9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6566070034890752/"
+        },
+        {
+          "title": "Show loklak search results as auto-refreshing media wall and add support for Twitter-Api",
+          "short_description": "Aim of this project is to use api/stream.json endpoint of loklak_server to continuously fetch new tweets and use them to show results as...",
+          "student_name": "Saurabh Srivastava",
+          "code_url": "https://gist.github.com/simsausaurabh/8115cdf90d4d8a595097b6e805cc5f4c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6063710191747072/"
+        },
+        {
+          "title": "Enhance SUSPER Search with Improved  Search Results, Search options,New  Design & Internationalization Features.",
+          "short_description": "The idea of the project is to improve the current SUSPER Search by:\n1.Improving Search Results by changing back-end to YaCy Grid.\n2.Implementing more...",
+          "student_name": "Praveen Ojha",
+          "code_url": "https://gist.github.com/praveenojha33/c3475dca8879a37ff290bf5660947a37",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4851643778596864/"
+        },
+        {
+          "title": "Developing Badgeyey into a complete Macro Service",
+          "short_description": "Developing Badgeyay into a complete Macro Service with UI enhancement, Badge Management System, QR-Code feature and a lot more",
+          "student_name": "Manish Devgan",
+          "code_url": "https://gist.github.com/gabru-md/62bbf21cde8ef5873f86658ec8e3e48e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4870923618353152/"
+        },
+        {
+          "title": "Improve Experience of Ticketing and Subtickets, Develop a Venue Custom Map and Enhance Organizer Features",
+          "short_description": "Implement ticketing system for meetups.\nImproving sub ticketing experience, i.e. once they get their conference/meetup tickets they can sign up for...",
+          "student_name": "Pradeep Gangwar",
+          "code_url": "https://gist.github.com/pradeepgangwar/a63a55bc14d05849264ee8407ef23dbe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4891777496514560/"
+        },
+        {
+          "title": "Open-event-orga-app",
+          "short_description": "The open-event-orga-app is an app for organizers with the help of which any Event Organizer out there can create events and manage them. The app has...",
+          "student_name": "Sridhar Jajoo",
+          "code_url": "https://gist.github.com/sridharjajoo/72e414f64a1f71fd1d0aa95a7e5e948e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5810607165014016/"
+        },
+        {
+          "title": "Build upon Open Event Orga App, and make improvements to Open Event Android",
+          "short_description": "The Open Event project has SIX components:\n\nThe Open Event Format Definition\nThe Open Event Server\nThe Open Event Generic Android App and It's...",
+          "student_name": "Vaibhav Shrivastava",
+          "code_url": "https://gist.github.com/mishuvs/5678de9aac2fb616b8474a9ed02ab457",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5888409893601280/"
+        },
+        {
+          "title": "A Plug and Play adaptation for SUSI.AI",
+          "short_description": "To make a Smart Speaker using SUSI.AI as the virtual assistant based on open sourced hardware like Raspberry Pi.\nThe aim is to make a working...",
+          "student_name": "Sanskar Jethi",
+          "code_url": "https://gist.github.com/stealthanthrax/b895acb99a10a33f315d6cadb2c3a207",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6264061490626560/"
+        },
+        {
+          "title": "SUSI Analytics",
+          "short_description": "Analytics tool to showcase conversational analytics/statistics using the data received from SUSI server.\nDeliverables -\n\nA PWA using ReactJS to...",
+          "student_name": "anshumanv",
+          "code_url": "https://gist.github.com/anshumanv/9d8abcdc70a39779510edddcb4af6dbe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5148362265329664/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5483378286002176/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "FOSSASIA GSOC'19 Proposal: Neurolab-Android",
+          "short_description": "My project is about porting, implementing and developing the features specifically, the Audio and Visual Feedback features of the Neurolab...",
+          "student_name": "Jaideep Prasad",
+          "code_url": "https://gist.github.com/jddeep/f577efa04baea912a44605fbbf7d8d91",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6374419633537024/"
+        },
+        {
+          "title": "Development of new features for the Open Event Organizer App",
+          "short_description": "Open Event Organizer App is an app used by event organizers to create events and manage them. This project aims to develop the app further and...",
+          "student_name": "Shridhar Goel",
+          "code_url": "https://gist.github.com/ShridharGoel/3d1486259496b4b0cf49fe2349710f81",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6410728213315584/"
+        },
+        {
+          "title": "ENHANCEMENT ON OPEN EVENT ANDROID AND SERVER",
+          "short_description": "Open Event is an application that allows users to find and book tickets for events. This proposal is about integrating major missing components of...",
+          "student_name": "TRAN ANH DUC LE",
+          "code_url": "https://gist.github.com/anhanh11001/d3dd04e512f0398f9cc55c9ea20858e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6586092214550528/"
+        },
+        {
+          "title": "Enhancement of FOSSASIA Eventyay Attendee App",
+          "short_description": "Open event project provides a platform for managing all the activities in an event. It has different mobile applications for both attendees and...",
+          "student_name": "liveHarshit",
+          "code_url": "https://gist.github.com/liveHarshit/e5b317aed5d24c459afe9ddbef46528d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5665387591499776/"
+        },
+        {
+          "title": "Feature Completion and Standardisation of SUSI.AI Web Projects",
+          "short_description": "I worked on merging the susi_skill_cms, account.susi.ai and chat.susi.ai into one consolidated susi.ai repository and integrating redux, upgrading...",
+          "student_name": "Harsh Jindal",
+          "code_url": "https://gist.github.com/harsh-jindal/05000bab7bb25ceda56fc0860daa7f6e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5018988973654016/"
+        },
+        {
+          "title": "PSLab - Desktop App",
+          "short_description": "I plan to shift the platform to a more modern and reliable Electron framework. Being a NodeJS powered framework specifically designed to create...",
+          "student_name": "humble_D",
+          "code_url": "https://gist.github.com/AakashMallik/1386ebb1e52bbeeaaf38eefbe4bed8fb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5071062348333056/"
+        },
+        {
+          "title": "SUSI Smart Speaker enhancement",
+          "short_description": "This project aims at enhancing the SUSI Smart Speaker Project.\nThis project adds the following features:\n\nRework the sound architecture \nPersonal...",
+          "student_name": "alok kumar",
+          "code_url": "https://gist.github.com/alok760/8c18d4f40556b96e665b2d82615d124b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5567182879064064/"
+        },
+        {
+          "title": "Project Proposal for SUSI.AI Android Client and Smart Speaker",
+          "short_description": "The proposal aims to enhance the functionalities of the SUSI.AI android app. It focusses on the integration of SUSI.AI smart speaker with the app,...",
+          "student_name": "Amartya Mondal",
+          "code_url": "https://gist.github.com/atm1504/03b6c01ae5d330babe0ba8ada6a0aac3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5596079419031552/"
+        },
+        {
+          "title": "PSLab Android",
+          "short_description": "I will be working on enhancing many functionalities of the current PSLab Android Application. Will also be working on adding functionality to connect...",
+          "student_name": "Neel Trivedi",
+          "code_url": "https://gist.github.com/neel1998/56a0c4420189dd4b3bc8fe626d5afe85",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4561592136499200/"
+        },
+        {
+          "title": "General UI and startup enhancements",
+          "short_description": "UI enhancements with Featured Event Implementation\nOpen-event is currently undergoing a revamp from v1 to v2 and I want to contribute towards...",
+          "student_name": "Uddeshya Singh",
+          "code_url": "https://gist.github.com/uds5501/03b27984cf345666f07f0b0534c38c9e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4686924382470144/"
+        },
+        {
+          "title": "Implement a waitlist for participants and enhance the Admin/User dashboard",
+          "short_description": "Implementing waiting list for event tickets\nImplement account page for payment overviews for users similar to Paypal.\nImplement emails for different...",
+          "student_name": "Shreyansh Dwivedi",
+          "code_url": "https://gist.github.com/shreyanshdwivedi/395ee916733e63d1e0d336402a6cdee8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4887385857327104/"
+        },
+        {
+          "title": "Integration of Various Payment Gateways and Enhancement of Admin/Account functionalities",
+          "short_description": "One of the goals set for this proposal is  to integrate various payment gateways which are deemed popular in certain countries. In this way, the...",
+          "student_name": "Saicharan Reddy",
+          "code_url": "https://gist.github.com/mrsaicharan1/a2dee3e56620acf3b5c62303481a7b27",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4940572316401664/"
+        },
+        {
+          "title": "Feature Completion and Standardization of SUSI.AI Web Projects",
+          "short_description": "Migrate Chat, Skill, Account SUSI.AI under a common app SUSI.AI. Create a set of common and modular components. For styling 1 common approach should...",
+          "student_name": "Shubham Gupta-2",
+          "code_url": "https://gist.github.com/fragm3/7b0fa432fab1023b14a6d55f512f3007",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5813105928437760/"
+        },
+        {
+          "title": "Making nextgen of Open Event Production ready for Eventyay",
+          "short_description": "In the past two years since the projects around decoupling Open Event\u2019s frontend and backend began, significant progress has been made in developing...",
+          "student_name": "Abhinav Khare",
+          "code_url": "https://gist.github.com/CosmicCoder96/4e15dc3eeac4f88f63310cb190d11872",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5851448980537344/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/fossasia-bg/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Cross Platform Aplication for Badge Magic",
+          "short_description": "Badge magic is an application that displays user-entered text and some clip art to the Bluetooth low-energy LED badges. I am proposing to make a...",
+          "student_name": "Jhalak Upadhyay",
+          "code_url": "https://gist.github.com/Jhalakupadhyay/f369a15b57bfff8fe3adf5c87fd0487b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dEuC40qN/"
+        },
+        {
+          "title": "Eventyay Badge Creation, Check-In, and Lead Scanning System for Organizers and Exhibitors",
+          "short_description": "This project aims to enhance the Eventyay platform by implementing a seamless workflow that covers badge creation, attendee check-in, and lead...",
+          "student_name": "Srivatsav Auswin",
+          "code_url": "https://gist.github.com/Sak1012/dcb5e1a8e2e3bd2e35684260590dbdee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/w8k8iAmw/"
+        },
+        {
+          "title": "Update Oscilloscope in Android App of Pocket Science Lab and Implement Support for New Instruments",
+          "short_description": "The Pocket Science Lab (PSLab) Android app currently offers a range of scientific instruments for on-the-go data collection and analysis. However,...",
+          "student_name": "Anashuman Singh Cheema",
+          "code_url": "https://ascress.github.io/GSoC2024WorkReport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EN5CvVy7/"
+        },
+        {
+          "title": "Badge Magic open firmware",
+          "short_description": "LED name badges are small matrix LEDs that can be written text, and images, and create animations over Bluetooth or USB connection. The Badge Magic...",
+          "student_name": "Dien-Nhung Nguyen",
+          "code_url": "https://www.kienlab.com/posts/fossasia-badge-magic-open-firmware-google-summer-of-code-2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KZ3lsPEG/"
+        },
+        {
+          "title": "Upgrading Eventyay-Video with Real-Time Multilingual Audio and Auto-Deployment",
+          "short_description": "The Eventyay-Video platform is a robust tool for hosting virtual events. This GSoC project aims to enhance its functionality, improve deployment...",
+          "student_name": "Untari",
+          "code_url": "https://github.com/untari/eventyay-video",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/C1N22Qmc/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/fossasia-bg",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Complete the Port of the PSLab app to Flutter",
+          "short_description": "As we plan to take the PSLab project to the next level, developing multiplatform support for the app and enhancing its communication capabilities are...",
+          "student_name": "Anashuman Singh Cheema",
+          "code_url": null,
+          "proposal_id": "32NyzmeX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zOKL7i70"
+        },
+        {
+          "title": "Building an Advanced Flutter-Based Drawing Canvas for Magic ePaper Badge Customization",
+          "short_description": "This project aims to deliver a fully-featured, cross-platform canvas-based editor for the Magic ePaper Badge, built entirely in Flutter without...",
+          "student_name": "Dhruv Rastogi",
+          "code_url": null,
+          "proposal_id": "8vh1F0xm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mF6sXvYQ"
+        },
+        {
+          "title": "Implement eventyay features as a plugin in eventyay-talk",
+          "short_description": "The Eventyay Talk Plugin project aims to modularize and enhance the integration of key data from the Eventyay ecosystem\u2014attendees, speakers,...",
+          "student_name": "Gagan-Ram",
+          "code_url": null,
+          "proposal_id": "dbFbi2U4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SPHqOZ5X"
+        },
+        {
+          "title": "Proposal for Revamping FOSSASIA.org with WordPress for a Modern, Maintainable Website",
+          "short_description": "As an experienced WordPress and Flutter developer, I propose redesigning FOSSASIA.org into a sleek, responsive, and easily maintainable website using...",
+          "student_name": "Nimeshan",
+          "code_url": null,
+          "proposal_id": "R7DTSSYj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vwdtZRI3"
+        },
+        {
+          "title": "Revamp FOSSASIA.org",
+          "short_description": "The applicant has analyzed the FOSSASIA website and documented observations regarding navigation, SEO, and user experience. This proposal outlines a...",
+          "student_name": "Nishil Hoogar",
+          "code_url": null,
+          "proposal_id": "6OSVpQbT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GXXXVnix"
+        },
+        {
+          "title": "Enhancing Scrum Helper Chrome Extension",
+          "short_description": "The project Scrum Helper is designed to aid individuals in generating and injecting daily scrums into popular email clients such as Gmail, Outlook,...",
+          "student_name": "preet_146",
+          "code_url": null,
+          "proposal_id": "AbT9MVVN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tVDF1SLa"
+        },
+        {
+          "title": "Advanced Robot Control and  Python Integration for the PSLab  Android App",
+          "short_description": "This project aims to enhance the existing robotic arm control module in the PSLab Android app by introducing advanced functionality that goes beyond...",
+          "student_name": "Rahul  Das",
+          "code_url": null,
+          "proposal_id": "qqKpwA52",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SqGDj8iP"
+        },
+        {
+          "title": "Revamping FOSSASIA.ORG",
+          "short_description": "The project will see a complete overhaul of the current website's design and content/information architecture. The current website has not been...",
+          "student_name": "Robert Sim",
+          "code_url": null,
+          "proposal_id": "aF5231Jy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SEQ3RnkS"
+        },
+        {
+          "title": "Convert eventyay-tickets VueJS implementation to Single Page application",
+          "short_description": "This proposal outlines a comprehensive plan to transform the eventyay-tickets platform from its current multi-page VueJS implementation to a modern...",
+          "student_name": "Saksham Sirohi",
+          "code_url": null,
+          "proposal_id": "GjuCEtHc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ejC7rj48"
+        },
+        {
+          "title": "Enhance the feature set of the Flutter Badge Magic Application",
+          "short_description": "Project Summary : The goal of this project is to take Badge Magic to the next level by adding more creative and interactive features for users. Right...",
+          "student_name": "Samruddhi Rahegaonkar",
+          "code_url": null,
+          "proposal_id": "RVthb5Zd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EAWwj9Nd"
+        },
+        {
+          "title": "Enhance Usability of the Eventyay Badge Creator and Eventyay Check-In",
+          "short_description": "The goal of this project is to streamline the process of generating and printing badges for eventyay. Organizers often need to print badges on the...",
+          "student_name": "Srivatsav Auswin",
+          "code_url": null,
+          "proposal_id": "8znedJbb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9kNDpNth"
+        },
+        {
+          "title": "Integration of Talks and Speakers component with eventyay Video",
+          "short_description": "Integration of Talks and Speakers Component with eventyay Video I will create a seamless connection between eventyay-talk and eventyay-video...",
+          "student_name": "Suhail Nadaf",
+          "code_url": null,
+          "proposal_id": "7JrO6pPD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jgBR6jIw"
+        },
+        {
+          "title": "Create a Firmware Prototype for PSLab Mini: A Compact Oscilloscope & Multimeter",
+          "short_description": "The PSLab Mini is a compact version of the PSLab board that encompasses similar features but with fewer instruments, with more focus on those...",
+          "student_name": "Tejas Garg",
+          "code_url": null,
+          "proposal_id": "uKRHSI23",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IDNSSH0J"
+        },
+        {
+          "title": "Eventyay Badge Creator Usability Enhancement",
+          "short_description": "The aim of this project is to simplify the creation and printing of badges for eventyay. Organizers frequently require the ability to print badges...",
+          "student_name": "Tuyet Tran",
+          "code_url": null,
+          "proposal_id": "E6gmsX9h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FByh1x3G"
+        },
+        {
+          "title": "Revamp FOSSASIA.org with WordPress for a Modern, Maintainable Website",
+          "short_description": "This project aims to revamp FOSSASIA.org using WordPress to create a modern, maintainable, and scalable website aligned with the FOSSASIA brand...",
+          "student_name": "Ubayed Bin Sufian",
+          "code_url": null,
+          "proposal_id": "BTciGgrs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/x6G18dFv"
+        },
+        {
+          "title": "Enhancing Scrum Helper Chrome Extension GSoC - Vedansh Saini",
+          "short_description": "The Scrum Helper Chrome Extension project is about improving the way Scrum teams generate daily standup reports by making the process smoother and...",
+          "student_name": "Vedansh Saini",
+          "code_url": null,
+          "proposal_id": "ISErb36h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PZuZUYOI"
+        },
+        {
+          "title": "Enhancing the Magic ePaper App for a Functional and Seamless User Experience",
+          "short_description": "This project aims to transform the Magic ePaper Badge App into an intuitive, cross-platform toolkit for designing and transferring content to...",
+          "student_name": "Vishveshwara Uthayakumaran",
+          "code_url": null,
+          "proposal_id": "0DdXIwk3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Y7nMUc7g"
+        },
+        {
+          "title": "LED BADGE MAGIC",
+          "short_description": "Project Title: Flutter Badge Magic App Mentors: Aditya, MarioB, cweitat Problem: The current Badge Magic app offers limited customization (fixed...",
+          "student_name": "Vivek_singh3472",
+          "code_url": null,
+          "proposal_id": "6p6Rgi8k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tAM6EhAc"
+        },
+        {
+          "title": "Enhance Usability of the Eventyay-Badge Creator",
+          "short_description": "I want to greatly improve the Eventyay Badge Creator's use and capability over the GSoC period. I will redesign the user interface in the first...",
+          "student_name": "Yakshit Savaliya",
+          "code_url": null,
+          "proposal_id": "BHXkYeuT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IhaFe9a9"
+        },
+        {
+          "title": "Magic ePaper Badge app Enhancement",
+          "short_description": "Enhancing the Magic ePaper Badge Flutter App Problem Statement The Magic ePaper Badge Flutter App allows users to create and transfer customizable...",
+          "student_name": "Yugesh Kumar",
+          "code_url": null,
+          "proposal_id": "mbsAl09P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AD7fchJF"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/fossasia/fossasia",
+  "contact_email": "mailto:office@fossasia.org",
+  "mailing_list": "https://groups.google.com/d/forum/fossasia",
+  "ideas_url": "https://docs.google.com/document/d/1Tz1KxYefreKzBr98C4vbCv9UwnchZoyTwO8rBrz_lmg/edit?tab=t.0#heading=h.9sjk3ie7l2o2",
+  "guide_url": "https://fossasia.org",
+  "twitter_url": "https://x.com/fossasia",
+  "blog_url": "https://fossasia.org/blog"
+}

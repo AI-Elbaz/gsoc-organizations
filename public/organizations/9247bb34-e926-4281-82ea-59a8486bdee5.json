@@ -1,0 +1,136 @@
+{
+  "name": "D Language Foundation",
+  "url": "https://dlang.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/d-language-foundation/u25qvh5ljfkkhkjj.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming languages",
+    "functional programming",
+    "web programming",
+    "object-oriented programming",
+    "system programming",
+    "operating systems",
+    "algorithms",
+    "data structures",
+    "optimizations"
+  ],
+  "technologies": [
+    "c++",
+    "dlang",
+    "linux",
+    "osx",
+    "windows",
+    "bsd",
+    "make",
+    "d",
+    "C\\C++"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4688223091556352/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Precise Garbage Collection for D",
+          "short_description": "Implementing precise collection as a first step towards a better garbage collector.",
+          "student_name": "JDeHaan",
+          "code_url": "https://drive.google.com/open?id=0B-UTFTbYro4vQzJnR1NQa3E4WTA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5710606233501696/"
+        },
+        {
+          "title": "Improvements for dstep.",
+          "short_description": "This is a project to improve the dstep conversion tool. The major goal is to extend dstep to the point in which it is able to create bindings for the...",
+          "student_name": "ciechowoj",
+          "code_url": "https://github.com/ciechowoj/dstep/commits/master?author=ciechowoj",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5732312192909312/"
+        },
+        {
+          "title": "A replacement of std.xml for the Phobos standard library",
+          "short_description": "XML is probably the most used storage and interchange format for structured and semi-structured data, being also used for object serialization and...",
+          "student_name": "Lodovico Giaretta",
+          "code_url": "https://github.com/lodo1995/experimental.xml/tree/v0.1.2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5056473587515392/"
+        },
+        {
+          "title": "Science for D - a non-uniform RNG",
+          "short_description": "D is a modern language that offers the convenience of Python at the speed of C++. While D is constantly evolving, its support for scientific research...",
+          "student_name": "Greenify",
+          "code_url": "http://forum.dlang.org/post/ckwjysezxagpnrdkbtpq@forum.dlang.org",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4617597723082752/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6223494952517632/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Reference-Counted Data Structures for D",
+          "short_description": "Currently, D\u2019s built-in data structures (arrays and associative arrays) and\nPhobos collections (e.g. std.container.rbtree) rely on garbage...",
+          "student_name": "lesderid",
+          "code_url": "https://github.com/dlang/druntime/pull/2760",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6372712585363456/"
+        },
+        {
+          "title": "Dataframes for D",
+          "short_description": "This project aims at bringing native dataframes to D Programming Language. The main task would be to implement a dataframe which supports...",
+          "student_name": "Prateek Nayak",
+          "code_url": "https://gist.github.com/Kriyszig/08316365281c050c8994a1783307ec19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6700435165937664/"
+        },
+        {
+          "title": "Header generation for C/C++",
+          "short_description": "Automated C/C++ header generation from D files",
+          "student_name": "Eduard Staniloiu",
+          "code_url": "https://gist.github.com/edi33416/d2f8afff217e64deae368e0e81f2adcf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5282070350266368/"
+        },
+        {
+          "title": "Replace Runtime Hooks with Templates",
+          "short_description": "D\u2019s betterC mode is an important tool to be able to use D on bare-metal and embedded platforms. By disabling, for example the class support, the...",
+          "student_name": "Dan Printzell",
+          "code_url": "https://github.com/Vild/GSOC2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5343585740783616/"
+        },
+        {
+          "title": "Independency of D from the C Standard Library",
+          "short_description": "An effort to decouple D from the C standard library.",
+          "student_name": "Stefanos Baziotis",
+          "code_url": "http://users.uoa.gr/~sdi1600105/google-summer-of-code.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4735613390028800/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/d-language-foundation",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Translate DRuntime Hooks to Templates",
+          "short_description": "This project proposes to modernize DRuntime by converting legacy runtime hooks (functions that implement high-level language constructs like array...",
+          "student_name": "Albert Guiman",
+          "code_url": null,
+          "proposal_id": "urpzQAtG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/O7gYiZ5b"
+        },
+        {
+          "title": "Json Library for D",
+          "short_description": "D\u2019s current JSON libraries (e.g., Phobos\u2019s std.json) rely heavily on dynamic typing, which sacrifices type safety and performance\u2014critical drawbacks...",
+          "student_name": "Fei",
+          "code_url": null,
+          "proposal_id": "JsmhrXLh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KJKaBv0n"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/tw2c6mcKAp",
+  "contact_email": "mailto:razvan.nitu@dlang.org",
+  "mailing_list": "https://forum.dlang.org/",
+  "ideas_url": "https://dlang.github.io/GSoC/",
+  "guide_url": "https://dlang.github.io/GSoC/#become-a-dlang-gsocc-contributor",
+  "twitter_url": "https://twitter.com/D_Programming",
+  "blog_url": "https://dlang.org/blog/"
+}

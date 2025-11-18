@@ -1,0 +1,78 @@
+{
+  "name": "Earth Science Information Partners",
+  "url": "http://esipfed.org",
+  "image_url": "https://lh3.googleusercontent.com/ZXOtj8mQ7DQDnvENKTCjaBDFpnoMo_1bx8aCoqcEfCJ9glclzmsl52FQcBSgDHSowB5BaFqKynsSQwETWUFb2IkqGeSb5Z4",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "data visualization",
+    "earth data",
+    "semantics",
+    "discovery",
+    "earth science",
+    "semantic web",
+    "data visualisation",
+    "earth observation",
+    "cloud databases",
+    "data-science"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "kubernetes",
+    "dask",
+    "xarray",
+    "deep learning",
+    "jupyter",
+    "gdal"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4862665201549312/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Create Environmental Science Libraries in Python using the Workflow Paradigm for HPC",
+          "short_description": "The objective of the proposal is twofold:- \nBuild a Python library based on the workflow paradigm which would facilitate stream watershed delineation...",
+          "student_name": "Aarif Shaikh",
+          "code_url": "https://aarifsk.github.io/foss/python/2018/08/14/GSocC-Final-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5408782842593280/"
+        },
+        {
+          "title": "Recurrent Neural Networks applied in the time-series classification over a high resolution data",
+          "short_description": "The increasing number of sensors orbiting the earth is systematically producing larger volumes of data, with better spatiotemporal resolutions. To...",
+          "student_name": "Evandro C Taquary",
+          "code_url": "https://github.com/ESIPFed/GSoC/wiki/ISSUE-10-Reporting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5153329663442944/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6268499498893312/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "A Next Generation GUI for  Visualizing Big Gridded Data in Python",
+          "short_description": "This project aims to create a Graphical User Interface (GUI) for big gridded geospatial data visualization in the browser interface backed by the...",
+          "student_name": "Harman Deep Singh",
+          "code_url": "https://github.com/intake/intake-gsoc-gui/blob/master/Report%20for%20GSOC%202019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6544996893720576/"
+        },
+        {
+          "title": "OrcaCNN: Detecting and Classifying Killer Whales from Acoustic Data",
+          "short_description": "Passive acoustic observation of whales is an increasingly important tool for whale research. Accurately detecting whale sounds and correctly...",
+          "student_name": "Abhishek Singh",
+          "code_url": "https://github.com/axiom-data-science/OrcaCNN",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5793045159608320/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://esip-slack-invite.herokuapp.com/",
+  "contact_email": "mailto:lab@esipfed.org",
+  "mailing_list": "http://www.lists.esipfed.org/mailman/listinfo/esip-all",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/esipfed",
+  "blog_url": "http://esipfed.org/news"
+}

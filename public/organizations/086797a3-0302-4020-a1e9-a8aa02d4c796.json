@@ -1,0 +1,49 @@
+{
+  "name": "xrdesktop",
+  "url": "https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/home",
+  "image_url": "https://lh3.googleusercontent.com/9DVL8t3HZvIY-zQpA2vliolCzTLeYkO9EInYrXgfPJstmxVVLTt5J-YFfhWy8jrgfYji2f5DF6BLcjyI_B3bYrIYMWAR6rsTfzitXKDksp9HGw",
+  "image_background_color": "#1a1a1a",
+  "category": "Media",
+  "topics": [
+    "virtual reality",
+    "graphics",
+    "real time",
+    "3dui",
+    "window management"
+  ],
+  "technologies": [
+    "c",
+    "vulkan",
+    "wayland",
+    "glib",
+    "openxr"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5134539654955008/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Predictive Text Input for Virtual Reality",
+          "short_description": "A complete predictive text input solution for xrdesktop. It is an aggregation of three input modes: Dasher, Swype and a normal virtual keyboard....",
+          "student_name": "Remco Kranenburg",
+          "code_url": "https://remcokranenburg.com/2021/08/22/gsoc-retrospective.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5383747716775936/"
+        },
+        {
+          "title": "glTF virtual environment loading",
+          "short_description": "Virtual desktops look nice with a comfortable environment round them. This project allows the user to use a glTF file as their custom xrdesktop...",
+          "student_name": "sin3point14",
+          "code_url": "https://sin3point14.github.io/GSoC-Final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6316487811268608/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/Contact",
+  "contact_email": "mailto:xrdesktop@collabora.com",
+  "mailing_list": "https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/wikis/Contact",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/xrdesktop"
+}

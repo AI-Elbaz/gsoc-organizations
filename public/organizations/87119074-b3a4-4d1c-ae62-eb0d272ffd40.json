@@ -1,0 +1,314 @@
+{
+  "name": "Pharo Consortium",
+  "url": "https://pharo.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/pharo-consortium/zrxygkl3ycuvw6nb-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "data science",
+    "user interface",
+    "ide",
+    "object oriented programming",
+    "dynamic environment",
+    "web development",
+    "nlp",
+    "cli",
+    "material design",
+    "compilers",
+    "visualization",
+    "programming languages",
+    "virtual machines",
+    "machine learning",
+    "Modelling",
+    "Live music"
+  ],
+  "technologies": [
+    "smalltalk",
+    "roassal",
+    "polymath",
+    "pharo",
+    "ide",
+    "squeak",
+    "os",
+    "spec",
+    "git",
+    "SUnit"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5691803940421632/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Advancing in Pharo Code Quality Support",
+          "short_description": "Pharo and Smalltalk in general always encouraged a good quality of code [Kent Beck \u201cSmalltalk with style\u201d; Refectoring Browser; SmallLint;...",
+          "student_name": "Myroslava Romaniuk",
+          "code_url": "https://github.com/myroslavarm/Pharo-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6133050358366208/"
+        },
+        {
+          "title": "Tabular Data Structures for Data Analysis",
+          "short_description": "Bringing the functionality of Pandas to Pharo",
+          "student_name": "Oleksandr Zaytsev",
+          "code_url": "https://github.com/PolyMathOrg/DataFrame",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5126844210741248/"
+        },
+        {
+          "title": "Improving the VM Profiler",
+          "short_description": "Improving the VM Profiler\nThe current VM profiler is a sampling profiler cadenced at 1.3GHz tracking down where the time is spent in the C code of...",
+          "student_name": "SophieK",
+          "code_url": "https://gist.github.com/sophie-kaleba/d0e9a10b7c7b66271f6a3bfbc9aff625",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4865388479250432/"
+        },
+        {
+          "title": "Improve FastTable and extend its possibilities",
+          "short_description": "FastTable was integrated into Pharo 5.0 to solve two main problems that the old lists implementations were facing, first the performance issue, old...",
+          "student_name": "Elhamer",
+          "code_url": "https://github.com/SamTheDev/Morphic-Widgets-FastTable",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4906184360329216/"
+        },
+        {
+          "title": "Enhancing Pharo Command Line Support",
+          "short_description": "Command line is the most flexible and powerful platform. It is also the fastest way to work compared to a GUI. Also, the command line will give scope...",
+          "student_name": "Rajula Vineet Reddy",
+          "code_url": "https://vineetreddy.wordpress.com/2017/08/28/google-summer-of-code-2017-final-report-pharo-consortium-rajula-vineet-reddy/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5927132983197696/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6725431019962368/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Improving Code Completion",
+          "short_description": "In the ten years since its creation, the Pharo programming environment has evolved greatly: it now has Github support and many cool tools; it\u2019s...",
+          "student_name": "Myroslava Romaniuk",
+          "code_url": "https://github.com/myroslavarm/Experimental-Completion",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5722915775971328/"
+        },
+        {
+          "title": "Next Generation Unit Testing",
+          "short_description": "In Pharo almost every project uses SUnit and because of that working in enhancing SUnit  and provide a user interface is valuable for everyone....",
+          "student_name": "Dayne Guerra Calle",
+          "code_url": "https://medium.com/@daynestorm/drtests-is-ready-tutorial-1c9579e22393",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5301449561473024/"
+        },
+        {
+          "title": "Extending DataFrame library",
+          "short_description": "Aim of this project is to include advanced features in DataFrame library such as handling missing values, as well as to improve documentation...",
+          "student_name": "Atharva Khare",
+          "code_url": "https://khare.dev/posts/2019/08/gsoc-2019-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5643688477196288/"
+        },
+        {
+          "title": "Graph library with layouting algorithms",
+          "short_description": "My project is about creating a complet, reusable library for graphs including the layouting algorithms, in Pharo. The idea is to leave it open for...",
+          "student_name": "Nina Medi\u0107",
+          "code_url": "https://github.com/medicka/graPharo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6189004234424320/"
+        },
+        {
+          "title": "New Collections for Pharo",
+          "short_description": "The project idea is to work on the development of the Containers library and to develop, collect, clean, test and document alternate collections and...",
+          "student_name": "Smiljana Knezev",
+          "code_url": "https://pharokeepers.github.io/pharo/2019/08/25/Final-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4794529150926848/"
+        },
+        {
+          "title": "Better and more refactorings for Pharo",
+          "short_description": "Refactoring tools help pharo developers to perform a number of predefined refactorings in automated fashion. However, besides the options provided by...",
+          "student_name": "Evelyn Cusi L\u00f3pez",
+          "code_url": "https://lin777.github.io/gsoc2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6072619529404416/"
+        },
+        {
+          "title": "NLP Library for Pharo",
+          "short_description": "The aim of this project is to bring SpaCy and Gensim functionality to Pharo. Along with that, I plan on integrating all the existing functioning NLP...",
+          "student_name": "Nikhil Pinnaparaju",
+          "code_url": "https://github.com/PolyMathOrg/Polyglot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6304617237839872/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5738046581899264/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "3D CAD scripting using Smalltalk",
+          "short_description": "In this project, we will attempt to embed FreeCAD into Pharo Smalltalk IDE, such that Smalltalk code can drive FreeCAD directly. With a pure...",
+          "student_name": "Mrinalkanti Roy",
+          "code_url": "https://github.com/roymrinalkanti/StFreeCAD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6614377515450368/"
+        },
+        {
+          "title": "Refining Code Critics",
+          "short_description": "Code critics are super important while developing software systems. They help developers to find source code sections which code quality is subject...",
+          "student_name": "Alejandra Coss\u00edo Ch.",
+          "code_url": "https://alecossioch.github.io/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6667755369005056/"
+        },
+        {
+          "title": "Matrix State of the Art",
+          "short_description": "There are several matrix implementations in Pharo. This project aims to compare all those implementations on different parameters like run-time,...",
+          "student_name": "Rakshit P",
+          "code_url": "https://gist.github.com/rakki-18/30418db797d6b59481abf8a7a7203542",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5239279680225280/"
+        },
+        {
+          "title": "DataFrame",
+          "short_description": "This project aims at adding some missing functionalities in Pharo DataFrame.  Implementing the missing features and functionality of Pandas DataFrame...",
+          "student_name": "Balaji G",
+          "code_url": "https://balaji612141526.wordpress.com/2021/08/20/gsoc21-with-pharo-consortium-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5546114391998464/"
+        },
+        {
+          "title": "Matrix state of the art",
+          "short_description": "Today, many fields of computational sciences (Data Science, Data Visualization and even Machine Learning), mathematics, engineering, geology and...",
+          "student_name": "GUIFO FODJO A Yvan",
+          "code_url": "https://gist.github.com/YvanGuifo/5c3d29c55a92f0e26334128639aac92c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5626824108802048/"
+        },
+        {
+          "title": "Classes and Methods for Spatial Data",
+          "short_description": "This project aims to implement \"Simple Feature Access\" OGC Standards in Pharo. We want to be able to load classical geospatial data files like...",
+          "student_name": "Laurine Dargaud",
+          "code_url": "https://gsoc.ldargaud.fr/final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4808630188113920/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/pharo-consortium",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improvements in the DrTest tool",
+          "short_description": "This project proposal focuses on improving two DrTest plugins: Coverage and Executable Comment. In particular, to enhance how these plugins show the...",
+          "student_name": "Carolina Melendez",
+          "code_url": "https://medium.com/@carolina.melendez376/improvements-in-the-drtest-tool-gsoc-2023-final-report-3da5ca1024f0",
+          "proposal_id": "OPoC3z31",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Wk43GERq"
+        },
+        {
+          "title": "Complex network library on top of PharoAI graph library",
+          "short_description": "The study of complex networks involves analyzing the structure and dynamics of the networks and their emergent properties, such as resilience,...",
+          "student_name": "Goutham Denthaje",
+          "code_url": "https://gist.github.com/dkgoutham/f5c0364ceaa241a26774ded3a34ce54f",
+          "proposal_id": "Hq67qKVZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UFWGDIYi"
+        },
+        {
+          "title": "Pharo-to-C VM Transpiler",
+          "short_description": "The Pharo VM project is a continuation of the opensmalltalk-vm (or Cog VM) project which is the virtual machine underneath Pharo, this project will...",
+          "student_name": "ivojawer",
+          "code_url": "https://ivojawer.hashnode.dev/series/gsoc",
+          "proposal_id": "AU6bNr1S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5IG4ZU48"
+        },
+        {
+          "title": "DataFrame Improvements",
+          "short_description": "This project aims at bridging the gap between popular DataFrames and the Pharo DataFrame. This can be done by adding more functionality to the Pharo...",
+          "student_name": "Joshua Jose Dias Barreto",
+          "code_url": "https://gist.github.com/Joshua-Dias-Barreto/47c6162d3670d3d7e5792a15c1b87740",
+          "proposal_id": "7T2BbE8j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/jaHJQ1K3"
+        },
+        {
+          "title": "Chart library",
+          "short_description": "Data visualization is crucial for effective communication of complex information. Chart libraries simplify chart creation with customizable...",
+          "student_name": "Kevin C\u00e9spedes Arancibia",
+          "code_url": "https://medium.com/@kev.cespedes.arancibia/roassal3-chart-library-gsoc-2023-final-report-f529755af3a1",
+          "proposal_id": "cR7ieAfd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BDZlSnEs"
+        },
+        {
+          "title": "Graph libraries Integration and redesign",
+          "short_description": "Pharo is a powerful object-oriented programming language widely used in research and industry, as seen here. The graph algorithms library in PharoAI...",
+          "student_name": "Viren Varma",
+          "code_url": "https://docs.google.com/document/d/1xkOSk99cQD7g-49oN0nwfGnnbnoQFO2Y/edit?usp=sharing&ouid=109889987756541902691&rtpof=true&sd=true",
+          "proposal_id": "krnN4fGG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/I4MHVOJ5"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/pharo-consortium",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implementation of Standard Data Structures and Algorithms",
+          "short_description": "Pharo currently lacks robust, well-designed implementations of fundamental data structures, with existing collections being weakly supported and...",
+          "student_name": "Alok Pathak",
+          "code_url": null,
+          "proposal_id": "Xk0yKus4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JNhTr4F3"
+        },
+        {
+          "title": "DrTest Reloaded: Enhanced User Experience and Plugin Power",
+          "short_description": "This project aims to enhance the DrTest tool in Pharo by improving its usability, functionality, and performance. DrTest is a critical resource for...",
+          "student_name": "Estefania Pakarati Cofr\u00e9",
+          "code_url": null,
+          "proposal_id": "6cPVpu2B",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rc674LMN"
+        },
+        {
+          "title": "Support for serious games in Cormas",
+          "short_description": "This project aims to expand support for serious games within the Cormas platform, enabling easier interaction between players and environment, and...",
+          "student_name": "Jovan Kupusovi\u0107",
+          "code_url": null,
+          "proposal_id": "cNkqpIwq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YqbsMaJg"
+        },
+        {
+          "title": "Computer Vision for Game Piece Detection",
+          "short_description": "This project extends the open-source Cormas simulation platform by integrating a computer vision system that allows real-world interaction with...",
+          "student_name": "Kyla Kaplan",
+          "code_url": null,
+          "proposal_id": "1xdm9Tv9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GFFWrYJN"
+        },
+        {
+          "title": "Optimizing the Pharo Compiler with Bytecode-Level Inlining",
+          "short_description": "This project aims to optimize the Pharo compiler by implementing bytecode level optimization within its DRUID-based optmizing compiler. By applying...",
+          "student_name": "Lucio_08",
+          "code_url": null,
+          "proposal_id": "RbEGybYp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZAqo1UGN"
+        },
+        {
+          "title": "PAM : A text-to-speech (TTS) tool for Pharo",
+          "short_description": "PAM (Pharo Automated Mouth) is Pharo's first ever text-to-speech (TTS) system. It will convert English text into phonemes, add basic prosody, and...",
+          "student_name": "Neerja Doshi",
+          "code_url": null,
+          "proposal_id": "XSBgERTO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7yEBbF4z"
+        },
+        {
+          "title": "Eliminate Object Pointers in JIT-Compiled Code for Better GC Performance",
+          "short_description": "The Pharo VM currently embeds object pointers directly into machine code. This approach introduces two key issues: 1. garbage collection overhead:...",
+          "student_name": "Shengyu",
+          "code_url": null,
+          "proposal_id": "vxF7lhlX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dfWhMh68"
+        },
+        {
+          "title": "A Seamless Interface Between LLMs and Pharo",
+          "short_description": "This project aims to build ChatPharo, an intelligent, AI-powered assistant that integrates Large Language Models (LLMs) directly into the Pharo...",
+          "student_name": "SrajalDwivedi17",
+          "code_url": null,
+          "proposal_id": "MSHLTFFx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3vcywQr1"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/QewZMZa",
+  "contact_email": "mailto:https://gsoc.pharo.org/ideas",
+  "mailing_list": "pharo-users@lists.pharo.org",
+  "ideas_url": "https://gsoc.pharo.org/ideas",
+  "guide_url": "https://gsoc.pharo.org/",
+  "twitter_url": "https://twitter.com/pharoproject",
+  "blog_url": "https://thepharo.dev/"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "OpenMS",
+  "url": "https://openms.de",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openms/fwdw8iqmudobrij3-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "automation",
+    "deep learning",
+    "algorithms",
+    "webdev"
+  ],
+  "technologies": [
+    "python",
+    "cython",
+    "c++",
+    "r",
+    "pytorch"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openms",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Accelerated Read/Write and Robust OpenMS Workflows (ARROW)",
+          "short_description": "This is a biparted project in which we first focus on integrating Apache Arrow into OpenMS\u2019s build system and dependency management framework, as...",
+          "student_name": "Avni Badiwale",
+          "code_url": null,
+          "proposal_id": "CfzJXfYP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lSRBsIeV"
+        },
+        {
+          "title": "Optimizing Casanovo for Fast and Accurate De Novo Peptide Sequencing",
+          "short_description": "I'm tackling Casanovo's slow beam search decoding, which stalls big proteomics datasets. By reducing GPU-CPU transfers and removing redundant steps,...",
+          "student_name": "lingwen xu",
+          "code_url": null,
+          "proposal_id": "CDo7QoVg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CQrrkZlh"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/4TAGhqJ7s5",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://www.openms.org/news/gsoc2025/",
+  "guide_url": "https://openms.de/news/gsoc2025/",
+  "twitter_url": "https://twitter.com/openmsteam?s=21&t=frinz1Od6YuV4uNOlFpFrg"
+}

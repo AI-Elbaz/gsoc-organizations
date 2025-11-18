@@ -1,0 +1,376 @@
+{
+  "name": "The Terasology Foundation",
+  "url": "https://terasology.org/",
+  "image_url": "https://lh3.googleusercontent.com/M0PBCc2Ddh0Ld7fkCNbaZdH-0yAdu9lgG3d39rmhGQstkM-gXLaN_C5DPPBD8TnOqkKI4GqMU7VbuAj_Qo0onNzCne6wxEANQbx5AzkhPG6_",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "game",
+    "voxel",
+    "minecraft",
+    "sandbox",
+    "modding",
+    "games",
+    "ai",
+    "graphics",
+    "graphics / video / audio / virtual reality",
+    "game engines"
+  ],
+  "technologies": [
+    "java",
+    "opengl",
+    "blender",
+    "gradle",
+    "lwjgl",
+    "json",
+    "github",
+    "lwgjl",
+    "kotlin"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5187993270747136/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Standalone NUI extraction and visual NUI editor",
+          "short_description": "Currently, Terasology uses its own NUI (New User Interface) framework to render in-game UI elements. This solution works great for the game\u2019s...",
+          "student_name": "Rostyslav Zatserkovnyi",
+          "code_url": "https://rzats.github.io/gsoc/2016-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6688294335152128/"
+        },
+        {
+          "title": "DAG-based Rendering Pipelines for Terasology",
+          "short_description": "DAG (Directed Acyclic Graph) pipelines for Terasology, is an extensive refactor of the current rendering engine of Terasology. While refactors are...",
+          "student_name": "tdgunes",
+          "code_url": "http://tdgunes.org/2016/08/23/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5464468368654336/"
+        },
+        {
+          "title": "Application for City Generation and dynamic Simulation",
+          "short_description": "A conceptual framework for a population based city simulation is developed in this proposal. Concrete implementation approaches for the steps...",
+          "student_name": "Cpt. Crispy Crunchy",
+          "code_url": "http://forum.terasology.org/threads/gsoc-2016-city-simulation-project.1587/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6565433037553664/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4985951029821440/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Telemetry System for Terasology",
+          "short_description": "Telemetry System for Terasology has two goals: to gather players' gameplay information and to gather their error logs enriched with system details....",
+          "student_name": "Jin XIA",
+          "code_url": "https://gabrielxia.github.io/gsoc2017Final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6620829257302016/"
+        },
+        {
+          "title": "Destination Sol Resurrected",
+          "short_description": "Started back in 2015 as a demo, Destination Sol is a Space Shooter that gives the player a chance to be the captain of his own fantasy ship, fighting...",
+          "student_name": "Aresh Mishra",
+          "code_url": "http://forum.terasology.org/threads/gsoc-2017.1896/#post-15188",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6754962965004288/"
+        },
+        {
+          "title": "Sectors",
+          "short_description": "The focus of this project is to add sectors to the Terasology engine. Sectors are a level of entity storage between block-scope and world-scope,...",
+          "student_name": "Vizaxo",
+          "code_url": "https://vizaxo.github.io/permalinks/gsoc2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5120865616265216/"
+        },
+        {
+          "title": "Anatomy System and Genome integrations",
+          "short_description": "Currently, Terasology has a simple HP bar for a character's health and no anatomy. This project aims to add anatomical body parts (like head, arms,...",
+          "student_name": "Arpan Banerjee",
+          "code_url": "http://arpan98.github.io/2017/08/23/gsoc-wrap-up-post.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5304929124089856/"
+        },
+        {
+          "title": "Physics-based Combat System",
+          "short_description": "Currently, Terasology lacks a proper Physics-based combat system. Basic combat, based entirely on proximity and angles, can be simulated currently...",
+          "student_name": "Swastik Garg",
+          "code_url": "https://gist.github.com/0shine0/aba355bbc437b57b3c5d8aaeaa2a0296",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5617791721799680/"
+        },
+        {
+          "title": "Exploration World- Improved gameplay",
+          "short_description": "Add WildAnimals, Puzzles, Exploration and other content to create a new gameplay module.\nThe new gameplay module would pack together the best of...",
+          "student_name": "Nihal Singh",
+          "code_url": "http://nihal111.github.io/2017/08/15/GSoC-wrap-up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4610784562774016/"
+        },
+        {
+          "title": "API(s) for out-of-game interaction with Terasology server",
+          "short_description": "The main goal of my project is implementing an HTTP/WebSocket server running inside the game server process that will allow access to Terasology...",
+          "student_name": "Gianluca Nitti",
+          "code_url": "https://gist.github.com/gianluca-nitti/80cef8062b0cc15a734c28943943676a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4624709383618560/"
+        },
+        {
+          "title": "Better blender md5 exporter",
+          "short_description": "Improving the current md5 exporter for blender which is better suited to the needs of Terasology. The script will automate most of the tasks while...",
+          "student_name": "Kartikey Agrawal",
+          "code_url": "https://kartikey0303.github.io/GSOC-wrapup",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4912248854151168/"
+        },
+        {
+          "title": "Behavior Trees",
+          "short_description": "[from the proposal's synopsis]\nFor my Google Summer of Code project, I want to complete Terasology\u2019s behavior tree AI implementation, to the point...",
+          "student_name": "David Kambersky",
+          "code_url": "https://dkambersky.github.io/tera/2017/08/24/google-summer-of-code-2017-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4934034270453760/"
+        },
+        {
+          "title": "Terasology Scenario Creation",
+          "short_description": "The inspiration for this proposal is from elements of Minecraft along with some pre-existing suggestions and ideas within Terasology. The concept of...",
+          "student_name": "Tyler Thompson",
+          "code_url": "https://thompsontyler.github.io/gsoc/2017/08/25/scenario-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5756370854871040/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4941292362530816/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improving the Server Facade",
+          "short_description": "During Google summer of code 2017, one student worked on making a backend that exposes information about Terasology servers. He also made a frontend...",
+          "student_name": "Neil Moon",
+          "code_url": "https://forum.terasology.org/threads/gsoc-2018-improving-the-server-facade.2170/#post-16059",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6415776378519552/"
+        },
+        {
+          "title": "Renovation of MasterOfOreon",
+          "short_description": "Renovation of Master of Oreon is an extensive refactor of the current Master of Oreon module. The vision behind MOO is to create a game-play scenario...",
+          "student_name": "Naman Tiwari",
+          "code_url": "https://naman-sopho.github.io/2018-08-07-GSoCWrapUp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5686147871145984/"
+        },
+        {
+          "title": "Extending \u201cLight and Shadow\u201d Gameplay and Functionality",
+          "short_description": "My goal for Google Summer of Code is to work on improvements for the current Light and Shadow module. My hope for the end of the summer is to create...",
+          "student_name": "Devi Acharya @dacharya64",
+          "code_url": "http://dacharya64.postach.io/post/gsoc-final-project-wrapup",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5510538872225792/"
+        },
+        {
+          "title": "Event Recording Feature",
+          "short_description": "At present, Terasology has a very limited amount of types of automated\ntesting, which includes standard unit tests, environment-based tests and some...",
+          "student_name": "Iaron da Costa Ara\u00fajo",
+          "code_url": "https://iaronaraujo.wixsite.com/meusite/blog/google-summer-of-code-2018-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4962146240692224/"
+        },
+        {
+          "title": "Developing an assortment of sandbox-friendly framework and content modules",
+          "short_description": "This proposal involves creating a \u201cbase game\u201d, or gameplay template, usable by players and expansion mod developers alike. I have spent a long time...",
+          "student_name": "Adrian Siekierka",
+          "code_url": "https://forum.terasology.org/threads/gsoc-2018-frameworks-and-content.2175/#post-16063",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4791743614550016/"
+        },
+        {
+          "title": "GooKeeper Implementation",
+          "short_description": "The aim of this project is to bring SuperSnark\u2019s brilliant game design to life - GooKeeper!  In GooKeeper the player has to setup and maintain a...",
+          "student_name": "Shreyas Iyer",
+          "code_url": "https://gist.github.com/l0ftyWhizZ/121194027c49b2b11a4997b0e3e822bb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6524215712808960/"
+        },
+        {
+          "title": "Tower Defence Gameplay Template",
+          "short_description": "Terasology\nOne of the main goals of Teraoslogy is to be Overwhelmingly Customisable. This means that the base engine only provides the bare minimum...",
+          "student_name": "jellysnake",
+          "code_url": "https://github.com/Terasology/GooeyDefence/wiki/Summer-of-Code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6559586647539712/"
+        },
+        {
+          "title": "Multiple Worlds",
+          "short_description": "Terasology is an open world, open source game but it\u2019s open in the sense that one can explore a single world as much as possible. The idea of this...",
+          "student_name": "Sarthak Khandelwal",
+          "code_url": "https://theflash98.github.io/main/2018/08/12/GSoC-Wrap-Up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6321608952119296/"
+        },
+        {
+          "title": "Game / saved world / module preview image content",
+          "short_description": "From my perspective, we could redo some game menus and improve user's experience. The general idea is to provide more opportunities to manage module...",
+          "student_name": "Siarhei Shalyhaila",
+          "code_url": "https://ar0ne.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5170686498701312/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5741667284418560/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "The render DAG enhancements",
+          "short_description": "The rendering pipeline of Terasology is represented by a direct acyclic graph (DAG) consisting of sets of nodes and edges. Nodes being (sets of)...",
+          "student_name": "David S",
+          "code_url": "https://dave2s.github.io/gsoc/posts/final_report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5669443114369024/"
+        },
+        {
+          "title": "Apiculture",
+          "short_description": "The project proposes the creation of content bringing content inspired by the Forestry and ExtraBees mods for Minecraft to Terasology.\nThe content...",
+          "student_name": "Cameron McWilliams",
+          "code_url": "https://sndwv.net/post-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5425565794828288/"
+        },
+        {
+          "title": "Light And Shadow Remastered",
+          "short_description": "The aim of this project would be to enhance and complete the basic gameplay mode which would be a fast-paced Capture The Flag set up in the Dark...",
+          "student_name": "darshan3",
+          "code_url": "https://darshan3.github.io/gsoc-wrap-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6176684523388928/"
+        },
+        {
+          "title": "Restoration 100",
+          "short_description": "Health is one of the fundamental logic for any game. The proposal is to make the Health component, which takes care of the health of the player and...",
+          "student_name": "E. Aakash",
+          "code_url": "https://e-aakash.github.io/2019/08/23/gsoc-wrap.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5315743967608832/"
+        },
+        {
+          "title": "Terasology Launcher 4.0",
+          "short_description": "Terasology uses a desktop launcher to help users manage different game versions and tweak additional settings. The launcher is developed using...",
+          "student_name": "Priyadarshi Raj",
+          "code_url": "https://forum.terasology.org/threads/gsoc-2019-terasology-launcher-4-0.2268/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6197056140476416/"
+        },
+        {
+          "title": "Metal Renegades: Initial World Implementation",
+          "short_description": "Metal Renegades originally started as an idea on the MovingBlocks forum for a brand new gameplay module for use the Terasology engine. The new game...",
+          "student_name": "AndyTechGuy",
+          "code_url": "https://andytechguy.blogspot.com/2019/08/gsoc-2019-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4655180329517056/"
+        },
+        {
+          "title": "Collective Behavior in Terasology",
+          "short_description": "The objective of this project is to Improve the behavior mechanism in Terasology in order to allow collective behaviors among multiple actors....",
+          "student_name": "casals",
+          "code_url": "https://casals.io/code/gsoc-final-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5946247498694656/"
+        },
+        {
+          "title": "Metal Renegades - Multiplayer Implementation",
+          "short_description": "Metal Renegades will be a sandbox style game mode set in the wild west where humans and machines coexist. Players will play as robots themselves. It...",
+          "student_name": "Mayant Mukul",
+          "code_url": "https://wabadump.postach.io/post/final-report-gsoc-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5989395344130048/"
+        },
+        {
+          "title": "Module Showcase Website!",
+          "short_description": "Terasology is designed to be a modular voxel engine but as said: \u201cwith great power comes great responsibility\u201d. Keeping track of all the modules can...",
+          "student_name": "Tejas \"majordwarf\" Tank",
+          "code_url": "https://docs.google.com/document/d/1-ukkz9Fy4hEx_mdKvB35dUa62Q72hM6CEDV44unIoEY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5144970413998080/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4504833932918784/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Interactive Journey in Terasology Contributions",
+          "short_description": "The journey of a contributor in open source projects is exciting, especially when the contributors can map their abilities with the workflow of the...",
+          "student_name": "Prathmesh Sahasrabhojane",
+          "code_url": "https://dev.to/theshubham99/gsoc-final-code-submission-3aad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5560977531076608/"
+        },
+        {
+          "title": "Genome Expansion",
+          "short_description": "This project is a gameplay specific project which aims to bring additional elements of fun for the player base by forming a working genome module...",
+          "student_name": "Vedant Shroff",
+          "code_url": "https://medium.com/@vedant.294/gsoc-2020-genome-expansion-wrapping-up-87ab8fd3047b?sk=282a1a392b6a0b38e3948b46716a5ac1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4718212236705792/"
+        },
+        {
+          "title": "Biome-specific Content Enhancements for Terasology",
+          "short_description": "Currently in Terasology, changing biomes only serve as a change in background of the game.This project aims to change this and give some of these...",
+          "student_name": "ktksan",
+          "code_url": "https://forum.terasology.org/threads/biome-specific-content-weekly-updates.2322/post-16881",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4895180290785280/"
+        },
+        {
+          "title": "Converting Destination: Sol systems to use ECS",
+          "short_description": "This project starts the transition of Destination: Sol systems from OOP design to Entity-Component-System architecture, using the new Gestalt...",
+          "student_name": "Isaac lichter",
+          "code_url": "http://destinationsol.org/2020/08/27/gsoc-wrap-up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4915727984754688/"
+        },
+        {
+          "title": "Terasology Game HUD,  Graphics improvement &  Gameplay Guide",
+          "short_description": "My vision is to make Terasology a more player-friendly game. I would like to guide the player through the basics of the game (by both modifying the...",
+          "student_name": "Stefania Mak",
+          "code_url": "https://gist.github.com/stefaniamak/44ae4cb491d0bec61e77ab7cb513c721",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5930004543700992/"
+        },
+        {
+          "title": "CODEUINO: Proposal Functionality in Donut",
+          "short_description": "This project revolves around developing a mechanism allowing individual developers to reach out to Open-source organizations and pledge a research...",
+          "student_name": "Asel Peiris",
+          "code_url": "https://docs.google.com/document/d/1zBGk21N2nD7kmrG8sMad-lbwR3HnfdZAbTIU-d9kc0E/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5954050756968448/"
+        },
+        {
+          "title": "CODEUINO: Development of Admin Management mechanism for DONUT",
+          "short_description": "This project is all about the development of Admin Management System for Donut platform which is an open-source Social Network Kit that aims to give...",
+          "student_name": "Rupesh Jha",
+          "code_url": "https://medium.com/codeuino/google-summer-of-code-2020-final-report-56ed6860a0f2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5189667038691328/"
+        },
+        {
+          "title": "Metal Renegades: Refining Gameplay",
+          "short_description": "The Metal Renegades module created last year is a great foundational implementation of the original game proposed on the forums. The focus was to...",
+          "student_name": "AndyTechGuy",
+          "code_url": "https://andytechguy.blogspot.com/2020/08/gsoc-2020-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5207344922755072/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4867306789797888/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Destination: Sol World-Gen Modularization",
+          "short_description": "This project will create a modular framework for world generation in Destination: Sol. This will allow more flexibility in the way the world can be...",
+          "student_name": "Isaiah Blanks",
+          "code_url": "https://destinationsol.org/2021/08/20/gsoc-project-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5478260250509312/"
+        },
+        {
+          "title": "Distinct Terrain Features for Metal Renegades",
+          "short_description": "Metal Renegades is meant to feel like an immersive Old West-style world. Right now, it\u2019s just a desert, with some mountains made out of sand. I...",
+          "student_name": "Lorxu",
+          "code_url": "https://forum.terasology.org/threads/metal-renegades-terrain-generation-improvements.2350/#post-17190",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6193515112955904/"
+        },
+        {
+          "title": "Quality Improvements for Light & Shadow",
+          "short_description": "Light & Shadow is an Alice in Wonderland themed gameplay mode which involves players working as two opposing teams to secure a flag from the enemy\u2019s...",
+          "student_name": "Alluri Harshit Varma",
+          "code_url": "https://forum.terasology.org/threads/light-and-shadow-quality-improvements-for-light-shadow.2349/post-17189",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6260439561797632/"
+        },
+        {
+          "title": "Migrate Web Presence to new Module Site",
+          "short_description": "The project mainly concentrates on automating the module site for collecting information about modules from all over Terasology organization and...",
+          "student_name": "Yash Patel",
+          "code_url": "https://forum.terasology.org/threads/migrate-web-presence-to-new-module-site.2353/post-17187",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6035505111629824/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/terasology",
+  "contact_email": "mailto:terasology@gmail.com",
+  "mailing_list": "https://forum.terasology.org/forum/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/Terasology/",
+  "blog_url": "https://terasology.org/"
+}

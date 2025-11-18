@@ -1,0 +1,90 @@
+{
+  "name": "Project Mesa",
+  "url": "https://mesa.readthedocs.io/latest/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/project-mesa/fh3o8surszufvjpv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "Agent Based Models",
+    "Generative Science"
+  ],
+  "technologies": [
+    "python",
+    "ui/ux",
+    "LLMs",
+    "Vector Operations"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/project-mesa/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Cacheable Mesa",
+          "short_description": "As ABMs are simulations and often have phase transitions (periods of rapid change to new stable states), being able to go back in time and replay key...",
+          "student_name": "Chan Dong Jun",
+          "code_url": "https://github.com/Chan-Dong-Jun/mesa-forked/tree/3.3.0a1-cache-continuous-space",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ahGeNX6M/"
+        },
+        {
+          "title": "mesa-frames: Vectorized Operations for Performance and Scalability",
+          "short_description": "mesa is renowned as the premier Python framework for agent-based modeling, combining powerful functionality with ease of use. However, the...",
+          "student_name": "Adam Amer",
+          "code_url": "https://github.com/adamamer20/mesa-frames",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kQGgzwon/"
+        },
+        {
+          "title": "Mesa RL",
+          "short_description": "Mesa offers a suite of multi-agent environments tailored to diverse objectives. These environments find natural applications in Multi-Agent...",
+          "student_name": "Harsh Mahesheka",
+          "code_url": "https://github.com/harshmahesheka/mesa_rl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/j5r6wYRM/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/project-mesa",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Mesa-Frames: Stats & Event-Driven Data Collection with Streamed Storage",
+          "short_description": "This project aims to significantly enhance Mesa-Frames by building efficient and scalable data collection tools for large-scale agent-based...",
+          "student_name": "Ben Geo Abraham",
+          "code_url": null,
+          "proposal_id": "jP5YuRsu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/k8Emw4vz"
+        },
+        {
+          "title": "Mesa-LLM",
+          "short_description": "As an agent-based modeling (ABM) framework, Mesa is easy to use and applicable for a wide range of simulations. But traditional ABM agents rely on...",
+          "student_name": "Colin Frisch",
+          "code_url": null,
+          "proposal_id": "AbSX07FN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vL10Nnvs"
+        },
+        {
+          "title": "Project MESA: Front-End Upgrade",
+          "short_description": "This proposal aims to enhance the visualization system of Mesa, an agent-based modeling (ABM) framework in python, to make it more modular,...",
+          "student_name": "Sahil Chhoker",
+          "code_url": null,
+          "proposal_id": "OVA4YH5y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xggC05EB"
+        },
+        {
+          "title": "Mesa_LLM",
+          "short_description": "This project will aim to create an LLM module within Mesa that enables the use of large language models as autonomous agents, via mesa.llm. This...",
+          "student_name": "Sanika Nair",
+          "code_url": null,
+          "proposal_id": "NkR2LwjM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/u2qoJn8P"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#GSoC:matrix.org",
+  "contact_email": "mailto:maintainers@projectmesa.dev",
+  "mailing_list": "https://github.com/projectmesa/mesa/discussions",
+  "ideas_url": "https://github.com/projectmesa/mesa/wiki/Google-Summer-of-Code-2025",
+  "guide_url": "https://github.com/projectmesa/mesa/blob/main/CONTRIBUTING.md",
+  "blog_url": "https://www.linkedin.com/company/projectmesa/"
+}

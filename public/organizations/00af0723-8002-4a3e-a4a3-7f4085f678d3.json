@@ -1,0 +1,542 @@
+{
+  "name": "DBpedia",
+  "url": "https://www.dbpedia.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/dbpedia/cgjegpmawtu5fr6w-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "big data",
+    "data science",
+    "natural language processing",
+    "semantic web",
+    "knowledge extraction",
+    "knowledge graph",
+    "data analytics",
+    "data extraction",
+    "linked data",
+    "ontologies",
+    "wikipedia",
+    "knowledge graphs",
+    "machine learning",
+    "largelanguagemodel"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "scala",
+    "rdf",
+    "nosql",
+    "graph",
+    "sparql",
+    "javascript",
+    "apache spark",
+    "skala"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6313893177589760/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "DBpedia Lookup Improvements",
+          "short_description": "DBpedia is one of the most extensive and most widely used knowledge base in over 125 languages. DBpedia Lookup is a tool that allows The DBpedia...",
+          "student_name": "Kunal Jha",
+          "code_url": "https://github.com/dbpedia/dbpedia-gsoc/wiki/Gsoc-2016:-DBpedia-Lookup-Improvement",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6452757254897664/"
+        },
+        {
+          "title": "Combining DBpedia and Topic Modelling",
+          "short_description": "DBpedia, a crowd- and open-sourced community project extracting the content from Wikipedia, stores this information in a huge RDF graph.\nDBpedia...",
+          "student_name": "wojtuch",
+          "code_url": "https://github.com/dbpedia/topicmodel-extractor/wiki/GSoC-2016-Progress-Log-Wojciech-Lukasiewicz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6754883239673856/"
+        },
+        {
+          "title": "The List Extractor",
+          "short_description": "The project focuses on the extraction of relevant but hidden data which lies inside lists in Wikipedia pages. The information is unstructured and...",
+          "student_name": "FedBai",
+          "code_url": "https://github.com/dbpedia/list-extractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5451876061413376/"
+        },
+        {
+          "title": "Automatic mappings extraction",
+          "short_description": "DBpedia currently maintains a mapping between Wikipedia info-box properties to the DBpedia\nontology, since several similar  templates exist to...",
+          "student_name": "Aditya Nambiar",
+          "code_url": "http://www.mail-archive.com/dbpedia-discussion@lists.sourceforge.net/msg07829.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5465189923160064/"
+        },
+        {
+          "title": "A Hybrid Classifier/Rule-based Event Extractor for DBpedia Proposal",
+          "short_description": "In modern times the amount of information published on the internet is growing to an immeasurable extent. Humans are no longer able to gather all the...",
+          "student_name": "Vincent Bohlen",
+          "code_url": "https://github.com/dbpedia/event-extractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5042255903588352/"
+        },
+        {
+          "title": "The Table Extractor",
+          "short_description": "Wikipedia is full of data hidden in tables. The aim of this project is to exploring the possibilities of take advantage of all the data represented...",
+          "student_name": "s.papalini",
+          "code_url": "https://github.com/dbpedia/table-extractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4881737138044928/"
+        },
+        {
+          "title": "Inferring infobox template class mappings from Wikipedia + Wikidata",
+          "short_description": "There are many infoboxes on wikipedia. Every infobox has some properties. Actually, every infobox follows a certain template. In my project, the goal...",
+          "student_name": "Peng_Xu",
+          "code_url": "https://github.com/dbpedia/mappings-autogeneration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4884906018603008/"
+        },
+        {
+          "title": "Integrating RML in the Dbpedia extraction framework",
+          "short_description": "This project is about integrating RML in the Dbpedia extraction framework. Dbpedia is derived from Wikipedia infoboxes using the extraction framework...",
+          "student_name": "wmaroy",
+          "code_url": "http://www.mail-archive.com/dbpedia-discussion@lists.sourceforge.net/msg07837.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5147656280080384/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5195579256733696/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "First Chatbot for DBpedia - Ram G Athreya",
+          "short_description": "The requirement of the project is to build a conversational Chatbot for DBpedia which would be deployed in at least two social networks.\nThere are...",
+          "student_name": "Ram G Athreya",
+          "code_url": "https://github.com/dbpedia/chatbot/wiki/GSoC-2017:-Chatbot-for-DBpedia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6469474609790976/"
+        },
+        {
+          "title": "The table extractor",
+          "short_description": "This is a proposal for the table extractor project. In this paper I explain how to improve the last year's project and to create a general way in...",
+          "student_name": "Luca Virgili",
+          "code_url": "https://github.com/dbpedia/table-extractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6608069714771968/"
+        },
+        {
+          "title": "Wikipedia List-Extractor",
+          "short_description": "Wikipedia, being the world\u2019s largest encyclopedia, has humongous amount of information present in form of text. While key facts and figures are...",
+          "student_name": "Krishh",
+          "code_url": "https://github.com/dbpedia/list-extractor/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6628605295591424/"
+        },
+        {
+          "title": "Knowledge Base Embeddings for DBpedia",
+          "short_description": "Knowledge base embeddings has been an active area of research. In recent years a lot of research work such as TransE, TransR, RESCAL, SSP, etc. has...",
+          "student_name": "Nausheen Fatma",
+          "code_url": "https://github.com/nausheenfatma/embeddings/tree/master/gsoc2017-nausheen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6665402964770816/"
+        },
+        {
+          "title": "Unsupervised Learning of DBpedia Taxonomy",
+          "short_description": "DBpedia tries to extract structured information from Wikipedia and make information available on the Web. In this way, the DBpedia project develops a...",
+          "student_name": "Shashank Motepalli",
+          "code_url": "https://github.com/dbpedia/DBTax/wiki/GSoC-2017:-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5492249290866688/"
+        },
+        {
+          "title": "DBpedia Mappings Front-End Administration",
+          "short_description": "Although the DBPedia Extraction Framework  was adapted to support RML mappings thanks to a project of last year GSoC, the user interface to create...",
+          "student_name": "Ismael Rodriguez",
+          "code_url": "http://blog.ismaelrh.com/GSOC-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4695651371712512/"
+        },
+        {
+          "title": "Knowledge Base Embeddings for DBpedia - Akshay Jagatap",
+          "short_description": "The project aims at defining embeddings to represent classes, instances and properties. Such a model tries to quantify semantic similarity as a...",
+          "student_name": "Akshay Jagatap",
+          "code_url": "https://github.com/akshayjagatap/embeddings/tree/master/gsoc2017-akshay",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6000474918486016/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6317537323122688/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Complex Embeddings for OOV Entities",
+          "short_description": "The aim of this project is to enhance the DBpedia Knowledge Base by enabling the model to learn from the corpus and generate embeddings for different...",
+          "student_name": "Bharat Suri",
+          "code_url": "https://github.com/tramplingWillow/embeddings/tree/master/gsoc2018-bharat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5263102048206848/"
+        },
+        {
+          "title": "Web application to detect incorrect mappings across DBpedias in different languages",
+          "short_description": "The DBpedia mappings for each language are not aligned, causing inconsistencies in the quality of the RDF generated. This is often a consequence of...",
+          "student_name": "V\u00edctor Fern\u00e1ndez",
+          "code_url": "https://github.com/vfrico/dbpedia-gsoc-18/blob/master/deliver-gsoc.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4657614738685952/"
+        },
+        {
+          "title": "A Neural QA Model for DBpedia",
+          "short_description": "Extending Neural SPARQL Machines (NSpM) to cover more DBpedia classes to enable high quality Question Answering",
+          "student_name": "Aman Mehta",
+          "code_url": "https://github.com/dbpedia/neural-qa/tree/gsoc-aman",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6300392283439104/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5142599592050688/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Transformer of Attention Mechanism  for Long-context QA",
+          "short_description": "In this GSoC project, I choose to employ the language model of transformer with attention mechanism to automatically discover query templates for the...",
+          "student_name": "Stuart Chan",
+          "code_url": "https://github.com/StuartCHAN/neural-qa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6371944121761792/"
+        },
+        {
+          "title": "Multilingual Neural RDF Verbalizer for DBpedia",
+          "short_description": "Natural Language Generation is the process of generating coherent natural language text from non-linguistic data. Though the community has been...",
+          "student_name": "Dwaraknath Gnaneshwar",
+          "code_url": "https://medium.com/@dwarakasharma/google-summer-of-code-2019-thats-a-wrap-740cd3465f03",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5655111261487104/"
+        },
+        {
+          "title": "Tool to generate RDF triples from DBpedia abstract",
+          "short_description": "The main aim of this project is to research and develop a tool in order to generate highly trustable RDF triples from DBpedia abstracts. In order to...",
+          "student_name": "Jayakrishna Sahit",
+          "code_url": "https://github.com/sahitpj/TE-webapp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5617871479111680/"
+        },
+        {
+          "title": "Predicate Detection using Word Embeddings for Question Answering over Linked Data",
+          "short_description": "Knowledge-based question-answering system (KBQA) has demonstrated an ability to generate answers of natural language from information stored in a...",
+          "student_name": "Yajing Bian",
+          "code_url": "https://github.com/dbpedia/predicate-finder/wiki/GSoC-2019:-Predicate-Finder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6095750293880832/"
+        },
+        {
+          "title": "Workflow for linking External datasets",
+          "short_description": "The requirement of the project is to create a workflow for entity linking between DBpedia and external data set. Entity linking is a process of...",
+          "student_name": "Jaydeep Chakraborty",
+          "code_url": "https://github.com/dbpedia/linking",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4837547543363584/"
+        },
+        {
+          "title": "A Neural QA Model for DBpedia - Anand Panchbhai",
+          "short_description": "With booming amount of information being continuously added to the internet, organising the facts and serving this information to the users becomes a...",
+          "student_name": "Anand",
+          "code_url": "https://panchbhai1969.github.io/A-Neural-QA-Model-for-DBpedia/FinalReport.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5996621777600512/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4792495004712960/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "A Neural QA model for DBpedia: Compositionality",
+          "short_description": "In order to make DBpedia and its humongous linked data available to a larger user base in their natural languages (only English for the moment), a...",
+          "student_name": "Zheyuan BAI",
+          "code_url": "https://baiblanc.github.io/2020/08/27/GSOC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6352718211317760/"
+        },
+        {
+          "title": "RDF-to-Text using Generative Adverserial Networks",
+          "short_description": "We envisage the usage of GANs for this problem statement will result in fluent and adequate verbalization of the input RDF triples from DBpedia,...",
+          "student_name": "Niloy Purkait",
+          "code_url": "https://github.com/dbpedia/RDF2text-GAN",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6414516516028416/"
+        },
+        {
+          "title": "DBpedia Neural Multilingual QA",
+          "short_description": "By using the existing NSpM framework, we can translate a question asked in English language to a SPARQL query. The goal of this project is to extend...",
+          "student_name": "Lahiru Hinguruduwa",
+          "code_url": "https://osharagsoc.blogspot.com/2020/08/dbpedia-neural-multilingual-qa-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4565967289450496/"
+        },
+        {
+          "title": "Dashboard for Language/National Knowledge Graphs",
+          "short_description": "DBpedia holds a huge amount of data, and hence it is important to know the statistics of it. It is basically a knowledge graph. Hence, a dashboard...",
+          "student_name": "karankharecha",
+          "code_url": "https://github.com/dbpedia/gsoc-2020-dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6568657154473984/"
+        },
+        {
+          "title": "Combine DBpedia/Databus with IPFS",
+          "short_description": "The project assumes implementaion of integration of Databus with IPFS. Databus (https://databus.dbpedia.org) is a service which allows people (or...",
+          "student_name": "Kirill Yankov",
+          "code_url": "https://github.com/manonthegithub/GSoC-2020/blob/master/dbpedia/Final_submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4847442266161152/"
+        },
+        {
+          "title": "A Multilingual Neural RDF Verbalizer",
+          "short_description": "This project aims to overcome two problems in Neural RDF Verbalizer. The first is related to the ability of the neural models to deal with unseen...",
+          "student_name": "Marco Sobrevilla",
+          "code_url": "https://medium.com/@msobrevillac/week-12-google-summer-of-code-2020-thats-all-folks-a1f70aa16589",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5140548685398016/"
+        },
+        {
+          "title": "Extending Extraction Framework with Citations, Commons and Lexeme Extractors",
+          "short_description": "DBpedia is a crowd-sourced community effort to extract structured content from the various Wikimedia projects which is publicly available for...",
+          "student_name": "Mykola Medynskyi",
+          "code_url": "https://github.com/dbpedia/extraction-framework/wiki/GSoC2020_Progress_Mykola_Medynskyi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5180706998714368/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4709350374899712/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Update DBpedia Sparql for newly updated wiki resources and specifically related to pandemic, healthcare, and heath AI fields",
+          "short_description": "IMPACT\nUser-friendly QA platform for a given DBpedia resource and specifically about pandemic in real-time.\nGOALS\nTo improve the DBpedia Sparql for...",
+          "student_name": "Guang Zhang",
+          "code_url": "https://github.com/dbpedia/healthcare-platform",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6471249038934016/"
+        },
+        {
+          "title": "Web app to generate RDF from DBpedia abstracts - Fernando Casab\u00e1n Blasco",
+          "short_description": "With the recent advances in the processing and analysis of texts in natural language, the conversion of texts into RDF triples is becoming a real...",
+          "student_name": "Fernando Casab\u00e1n Blasco",
+          "code_url": "https://github.com/Fcabla/DBpedia-abstracts-to-RDF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5441632769409024/"
+        },
+        {
+          "title": "Neural QA Model for DBPedia",
+          "short_description": "In order to make DBpedia and its humongous linked data available to a larger user base in their natural languages, a Neural QA model has been...",
+          "student_name": "Siddhant Jain",
+          "code_url": "https://imsiddhant07.github.io/Neural-QA-Model-for-DBpedia/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5453573181145088/"
+        },
+        {
+          "title": "DBpedia Live Neural Question Answering Chatbot - GSoC2021",
+          "short_description": "This project aims at building a chatbot that can query the DBpedia based on the (DBQNA) dataset, Using Natural language as well as Query language so...",
+          "student_name": "Ashutosh Kumar-1",
+          "code_url": "https://ashutoshk11220.medium.com/gsoc-21-complete-journey-with-dbpedia-4ef0b5b0602a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5079396536287232/"
+        },
+        {
+          "title": "Social Knowledge Graph: Employing SNA measures to Knowledge Graph",
+          "short_description": "When novice users use DBpedia for querying, the information they really want is always overwhelmed by numerous query results. In this project, we...",
+          "student_name": "Zhipeng Zhao",
+          "code_url": "https://github.com/dbpedia/social-knowledge-graph",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4661186208989184/"
+        },
+        {
+          "title": "DBpedia Spotlight Dashboard: an integrated statistical information tool from the Wikipedia dumps and the DBpedia Extraction Framework artifacts",
+          "short_description": "DBpedia Spotlight was released in 2011 by DBpedia. It is a tool that allows to annotate DBpedia resources in text, providing a solution for linking...",
+          "student_name": "Jos\u00e9 Manuel D\u00edaz Urraco",
+          "code_url": "https://github.com/dbpedia/DBpedia-Spotlight-Dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4664433976016896/"
+        },
+        {
+          "title": "Modular DBpedia Chatbot",
+          "short_description": "The project aims at extend the functionality of the current DBpedia chatbot by integrating the ecosystem of the Qanary framework including its...",
+          "student_name": "Jayesh Desai",
+          "code_url": "https://github.com/dbpedia/chatbot-ng",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6527017880649728/"
+        },
+        {
+          "title": "User Centric Knowledge Engineering and Data Visualization",
+          "short_description": "The ontologies dashboard was developed last year to show the statistics of the data in an interactive manner for helping community members to get a...",
+          "student_name": "Karan Kharecha",
+          "code_url": "https://github.com/dbpedia/gsoc-dbpedia-dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6104805415583744/"
+        },
+        {
+          "title": "Lifecycle Management of DBpedia Neural QA Models - Sahan Dilshan",
+          "short_description": "DBNQA is a large database that can be used to create question answering models. Using a question answering model like NSPM, we can create and...",
+          "student_name": "Sahan Dilshan",
+          "code_url": "https://sahangsoc2021.medium.com/lifecycle-management-of-dbpedia-neural-qa-models-c3bf203edcd5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5820952973148160/"
+        },
+        {
+          "title": "Towards a neural extraction framework",
+          "short_description": "In the large majority of cases in DBpedia, it is not clear what kind of relationship exists between the entities. Instead of extracting the triples \n...",
+          "student_name": "Ziwei XU",
+          "code_url": "https://github.com/dbpedia/neural-extraction-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5881032586297344/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/dbpedia/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Neural Extraction Framework",
+          "short_description": "The Dbpedia property dbo:wikiPageWikiLink helps us to see for the articles which have the outlink to the Berlin_Wall article in their whole Wikipedia...",
+          "student_name": "Ananya",
+          "code_url": "https://github.com/dbpedia/neural-extraction-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HIqpMFb3/"
+        },
+        {
+          "title": "Template Discovery for Neural Question Answering over DBpedia",
+          "short_description": "Nowadays, data is increasing at a rapid rate and is being structured efficiently by the Linked Data Cloud. The data is stored in a specific format...",
+          "student_name": "Saurav Yogen Joshi",
+          "code_url": "https://sauravjoshi23.github.io/GSoC-Neural-QA-Model-DBpedia/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/oDLorC8K/"
+        },
+        {
+          "title": "Enhancing DBpedia with image-based querying",
+          "short_description": "Currently, users can query DBpedia using text. Although text as an input is an efficient approach to query the graph, there are cases where we do not...",
+          "student_name": "Siddhant Bansal",
+          "code_url": "https://github.com/dbpedia/image-search-gsoc-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IvRmwXNu/"
+        },
+        {
+          "title": "DEVELOPING A NEW DBPEDIA ABSTRACT EXTRACTOR",
+          "short_description": "DBpedia provides monthly releases produced by the DBpedia Extraction Framework. They are composed of various data artifacts that mainly stem from the...",
+          "student_name": "Ringwald C\u00e9lian",
+          "code_url": "https://github.com/dbpedia/extraction-framework/wiki/GSoC2022_Progress_Celian_RINGWALD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GO4ibcPR/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/dbpedia",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Towards a Neural Extraction Framework",
+          "short_description": "The Dbpedia property dbo:wikiPageWikiLink helps us to see for the articles which have the outgoing link to the Berlin_Wall article in their Wikipedia...",
+          "student_name": "Aakash Thatte",
+          "code_url": "https://github.com/dbpedia/neural-extraction-framework/tree/main/GSoC23",
+          "proposal_id": "fZRmXACX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cKuagkf8"
+        },
+        {
+          "title": "Multilingual Neural Data-to-Text Generation",
+          "short_description": "This project focuses on the problem of multilingual data-to-text generation from RDF triples. In particular, the work will revolve around the...",
+          "student_name": "Aditya Hari",
+          "code_url": "https://github.com/aditya-hari/multilingual-rdf-to-text",
+          "proposal_id": "1uMrF2nW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7onLs2cK"
+        },
+        {
+          "title": "Knowledge Graph aware Recommendation System with DBpedia - Alvaro Lopes",
+          "short_description": "DBpedia proves to be a way of \u201dBringing Order to the Web\u201d with structured information as Open Knowledge Graph, contributing towards making quality...",
+          "student_name": "Alvaro Jose Lopes",
+          "code_url": "https://gist.github.com/AlvaroJoseLopes/69aecc214239c0fa4005e49e06260648",
+          "proposal_id": "J4vZaGbp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3NTZTLYb"
+        },
+        {
+          "title": "Question-Answering over DBpedia with Pretrained Auto-regressive Models",
+          "short_description": "This proposal aims to contribute to addressing the challenge of generating formal SPARQL queries from natural language questions, thereby...",
+          "student_name": "Mehrzad Shahinmoghadam",
+          "code_url": null,
+          "proposal_id": "2RNhfvum",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zXaUziXG"
+        },
+        {
+          "title": "DBpedia eXplainable Chatbot (DBpedia XChat)",
+          "short_description": "DBpedia unifies the amount of information on the web in Wikimedia projects and provides access in the form of an Open Knowledge Graph. Started in...",
+          "student_name": "Muskan Kothari",
+          "code_url": "https://colab.research.google.com/drive/1XGPZSr2I-NJa0vxVUkHUQoAsHy277mNq?usp=sharing",
+          "proposal_id": "LxxcShux",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iokIa3MQ"
+        },
+        {
+          "title": "DBpedia Search API enhancement (SANT\u00e9)",
+          "short_description": "This project aims to enhance the SANTE search API of DBpedia, a popular knowledge graph that provides structured data extracted from Wikipedia. The...",
+          "student_name": "Ronit Banerjee",
+          "code_url": "https://gist.github.com/ronitblenz/a7cde9b621e96a396cec2f74085843a2",
+          "proposal_id": "zCyhQrcr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XXtxuRIj"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/dbpedia/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Ontology Time Machine / Package Manager using DBpedia Archivo for DBpedia",
+          "short_description": "The project focuses on improving DBpedia Archivo, an ontology archive containing over 1800 versioned snapshots of ontologies. It addresses the...",
+          "student_name": "Jenifer Tabita Ciuciu-Kiss",
+          "code_url": "https://github.com/dbpedia/ontology-time-machine",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wrhv1DwE/"
+        },
+        {
+          "title": "Towards A Neural Extraction Framework",
+          "short_description": "This project aims to build an end-to-end Neural Extraction Framework. The focus of the project this year is to improve on the existing available...",
+          "student_name": "Abdulsobur",
+          "code_url": "https://github.com/dbpedia/neural-extraction-framework/tree/main/GSoC24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/J4tJODFV/"
+        },
+        {
+          "title": "Towards Amharic DBpedia",
+          "short_description": "DBpedia is a collaborative initiative focused on extracting structured information from Wikipedia and presenting it as Linked Open Data. While...",
+          "student_name": "Meti",
+          "code_url": "https://github.com/Meti-Adane/GSOC-24_DBpedia_Amharic_Chapter",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9AzsjcUM/"
+        },
+        {
+          "title": "DBpedia Hindi Chapter",
+          "short_description": "DBpedia, an ever-evolving repository of structured knowledge extracted from Wikipedia, has played a pivotal role in organizing information. Yet, its...",
+          "student_name": "Debarghya Datta",
+          "code_url": "https://github.com/dbpedia/neural-extraction-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QXInT5N0/"
+        },
+        {
+          "title": "Google Summer of Code 2024: Contributor Proposal - Bringing Together LLMs and RDF Knowledge Graphs",
+          "short_description": "This project seeks to improve the capabilities of Large Language Models in interfacing RDF Data and RDF Knowledge Graphs. This is to be achieved...",
+          "student_name": "Lucas Ferraz",
+          "code_url": "https://github.com/JLucasFFerraz/DBpedia_doc_onto_extraction",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9nqlTQ2d/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/dbpedia",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Enhancing DBpedia Hindi Chapter - End-to-End KG Construction and Public SPARQL Access",
+          "short_description": "DBpedia extracts structured information from Wikipedia into a multilingual knowledge graph (KG), but the Hindi DBpedia KG currently lacks extensive...",
+          "student_name": "advenk",
+          "code_url": null,
+          "proposal_id": "x9ZPB8Zi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Cu3hqVyp"
+        },
+        {
+          "title": "Towards Amharic DBpedia",
+          "short_description": "Amharic Wikipedia lacks structured knowledge representation, which limits its integration into global knowledge graphs like DBpedia. This gap hinders...",
+          "student_name": "Andargachew Asfaw",
+          "code_url": null,
+          "proposal_id": "9WZIqsmf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gRkaQuQv"
+        },
+        {
+          "title": "Neural Extraction Framework: Enhancing DBpedia with Implicit Relation Mining",
+          "short_description": "The Neural Extraction Framework enhances DBpedia by extracting and integrating implicit relationships from unstructured Wikipedia text\u2014connections...",
+          "student_name": "Gandharva Naveen",
+          "code_url": null,
+          "proposal_id": "3ARXZ4KR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uQUHx6jo"
+        },
+        {
+          "title": "Improving Geo-Coordinate Extraction and Precision in DBpedia's Extraction Framework",
+          "short_description": "Many DBpedia entries, especially for cities in the Southern Hemisphere like South Africa, incorrectly store geo-coordinates with positive latitude...",
+          "student_name": "haniya konain",
+          "code_url": null,
+          "proposal_id": "qY5imFwO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3IYoXoD6"
+        },
+        {
+          "title": "Automating Wikimedia Dumps on Databus",
+          "short_description": "Wikimedia publishes their data dumps at dumps.wikimedia.org. Currently, these dumps are listed in HTML format, requiring manual parsing to track new...",
+          "student_name": "tech0priyanshu",
+          "code_url": null,
+          "proposal_id": "Uu77LXTS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VZZkMNmE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://dbpedia.slack.com/",
+  "contact_email": "mailto:dbpedia@infai.org",
+  "mailing_list": "https://forum.dbpedia.org/",
+  "ideas_url": "https://forum.dbpedia.org/tag/gsoc2025-ideas",
+  "guide_url": "https://docs.google.com/document/d/e/2PACX-1vQA3I-8JnxH78UOyVhVy1cpDCxwWvqs8BCN9YsR8UqOBiA-OigrSFd9SvTd2AuWdko1TSPtjip6NM65/pub",
+  "twitter_url": "https://twitter.com/dbpedia",
+  "blog_url": "https://www.dbpedia.org/blog/"
+}

@@ -1,0 +1,193 @@
+{
+  "name": "Amahi",
+  "url": "https://www.amahi.org",
+  "image_url": "https://lh3.googleusercontent.com/UNZ8p6TVEVGoF1EhV0K6FnaGMBhcyQoyQep_9syeXSqWDXC4kcZT6IaWvMTJDbzXfQVs7Ykc5V8zsoGzqiXP81P2e86qbg",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "networking",
+    "webapps",
+    "storage",
+    "home servers",
+    "mobile streaming",
+    "web apps",
+    "media server",
+    "storage server",
+    "streaming",
+    "front-end",
+    "backups",
+    "operating systems",
+    "web servers",
+    "mobile-apps"
+  ],
+  "technologies": [
+    "android",
+    "ruby on rails",
+    "golang",
+    "restful api",
+    "streaming",
+    "javascript",
+    "swift",
+    "ios",
+    "containers"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6673844588773376/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Adding new functionalities to the Android app",
+          "short_description": "The android version of Amahi works well. For Summer of Code\u2019 17, I will mainly be focusing on adding the following functionalities to the app:\n...",
+          "student_name": "Kumar Shashwat",
+          "code_url": "https://drive.google.com/open?id=0B3goqm-HUlJvSTRNQ1J1QWw5clE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6336674220998656/"
+        },
+        {
+          "title": "Dockerize Amahi Apps",
+          "short_description": "Improve the app installation process using docker. Dockerize existing applications and add support for more applications. Improve plugins and overall...",
+          "student_name": "Vikas Yadav",
+          "code_url": "https://viky.co.in/2017/08/25/google-summer-of-code-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4977126348423168/"
+        },
+        {
+          "title": "Android App (Amahi Anywhere) Improvements",
+          "short_description": "The main goal of my project is to implement more advanced features and bring more functionality to the android app. It includes adding features like...",
+          "student_name": "Chirag Maheshwari",
+          "code_url": "https://drive.google.com/drive/folders/0BxF0CJgMqEzkVUpNakNXNUswTnc?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5989565433118720/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5083924199899136/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Backend Improvements and New Feature Additions",
+          "short_description": "Amahi is a personal/home networking, storage and app server with features allowing users to access their files and apps remotely using android and...",
+          "student_name": "Chirag Maheshwari",
+          "code_url": "https://gist.github.com/csoni111/a016a2d0eb6152eeac52b7694f46cd4c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6380140766429184/"
+        },
+        {
+          "title": "Android App Imrovements",
+          "short_description": "The Aim of the project is to add more functionality to the Android app.\nFollowing features can be implemented in the app:\n\nSharing of folders...",
+          "student_name": "arihant",
+          "code_url": "https://gist.github.com/ArihantJain456/373aa45647c777b60887a51de681a61f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6628335316631552/"
+        },
+        {
+          "title": "Amahi Express Install Disc",
+          "short_description": "I propose to build an Amahi Express Install Disc, powered by Fedora Server. In that, the user can install our Amahi Server without interacting with...",
+          "student_name": "Sanjit Chakrabarti",
+          "code_url": "https://gist.github.com/sanjitchak/3d0a3eae122aa8f1c8ef35612de89d87",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6132154052378624/"
+        },
+        {
+          "title": "Gsoc Proposal: Amahi 11",
+          "short_description": "In this project, my work will mainly focus on working as a full stack developer for Amahi. I will implement new API endpoints which can be consumed...",
+          "student_name": "Sukhbir Singh",
+          "code_url": "https://sukhbir-singh.github.io/blog/2018-08-05/gsoc-2018-final-submission-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5124827589378048/"
+        },
+        {
+          "title": "Amahi iOS App Improvements and new Features",
+          "short_description": "Amahi is a personal/home cloud-based server. Currently, you can stream, view and access the files in your Amahi server using your iOS & Android...",
+          "student_name": "Kanyinsola",
+          "code_url": "https://docs.google.com/document/d/1CZM2sgk-fUnQy6u48fJBf7NMWRcPoIjbmFMMShLcizE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6264280198414336/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6556685512998912/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Enhancement to Amahi iOS Project",
+          "short_description": "Amahi is basically a cloud-based server. The features that Amahi iOS currently includes are browsing files on Amahi servers (HDAs), storing them for...",
+          "student_name": "Abhishek Sansanwal",
+          "code_url": "https://drive.google.com/file/d/1JsBzASfeXD4BD-A08awsh7cGYMsx0kXs/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6424463250292736/"
+        },
+        {
+          "title": "Amahi-Anywhere Improvements",
+          "short_description": "Amahi-Anywhere file server is complete and working as of now, but there can be certain improvements that can be done to so as to improve both, the...",
+          "student_name": "Vishwas Mittal",
+          "code_url": "https://medium.com/@vishwasmittal/gsoc-2019-1ca4bdfd549b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5424074568761344/"
+        },
+        {
+          "title": "To integrate Network-wide Ad-blocking in Amahi HDA and to develop a centralized SSL Certificate Management Interface for Amahi",
+          "short_description": "This project aims at providing network-wide Ad-blocking in Amahi HDA and to develop a centralized SSL Certificate Management Interface for Amahi....",
+          "student_name": "Aditya Singh",
+          "code_url": "https://gist.github.com/advir29/97eef3d552997f7b2a58f49f5575e240",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6142023113900032/"
+        },
+        {
+          "title": "Android App Improvements",
+          "short_description": "Amahi is a personal/Home server media software with the support of mobile apps and other devices that allow us to stream and access all types of...",
+          "student_name": "Balaji Ramavathu",
+          "code_url": "https://gist.github.com/balaji-ramavathu/a19f186a90e96abbcd48e6ed42fbe2bf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6203072802455552/"
+        },
+        {
+          "title": "Amahi 12 Improvements",
+          "short_description": "In this project, my work will mainly focus on to develop new features for Amahi 12. Amahi is one of the best open-source media server software...",
+          "student_name": "Sukhbir Singh",
+          "code_url": "https://sukhbir-singh.github.io/blog/2019-08-24/gsoc-2019-final-submission-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4517788570353664/"
+        },
+        {
+          "title": "Improved Installation and Home Automation using Hass",
+          "short_description": "I propose to implement Home Assistant and many of its apps and features in Amahi App store and try to integrate well with Amahi.\nSo, users can...",
+          "student_name": "Sanjit Chakrabarti",
+          "code_url": "https://gist.github.com/sanjitchak/c8b8d4ae8924a038271d2932279e55f1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4805016974524416/"
+        },
+        {
+          "title": "New iOS App Features",
+          "short_description": "I would like to contribute to the mobile department of Amahi by adding new features to their iOS application and improving the user experience. I...",
+          "student_name": "Marton Zeisler",
+          "code_url": "http://martonz-gsoc-2019.webflow.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5856010235805696/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5480514170912768/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Android App Improvements",
+          "short_description": "Amahi is a great software for accessing content present in our home servers and provides support of mobile applications to increase usability. The...",
+          "student_name": "chiragjain",
+          "code_url": "https://gist.github.com/chirag-jn/57557f1bff0280fed3b1624bae9a5743",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4593499606876160/"
+        },
+        {
+          "title": "Android App Improvements",
+          "short_description": "Amahi android offers the ability to stream your HDA over your Android phone and Android TV, support for Chromecast and auto upload of images to HDA....",
+          "student_name": "Akash R",
+          "code_url": "https://gist.github.com/Akash-Ramjyothi/b6aa7ba184b520aa699200ba9a742d3e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6520069632294912/"
+        },
+        {
+          "title": "Feature addition and Improvements to Amahi iOS Project",
+          "short_description": "This proposal aims at implementing new features in the Amahi iOS project. Ease of use and efficient architecture is kept in mind while implementing...",
+          "student_name": "Shresth",
+          "code_url": "https://docs.google.com/document/d/19yEsFNCDMUHPYvjG-r_pU0uSxFZoVDZtmOMP6TGDmas/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4930758357024768/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.amahi.org/index.php/IRC_Rules_and_Tips#IRC_Channels",
+  "contact_email": "mailto:gsoc@amahi.org",
+  "mailing_list": "http://forums.amahi.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/amahi",
+  "blog_url": "https://blog.amahi.org"
+}

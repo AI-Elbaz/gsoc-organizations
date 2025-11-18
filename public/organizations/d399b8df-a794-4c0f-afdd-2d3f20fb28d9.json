@@ -1,0 +1,77 @@
+{
+  "name": "Qubes OS",
+  "url": "https://www.qubes-os.org",
+  "image_url": "https://lh3.googleusercontent.com/ZRq4RksbAl8OOSEKMSp08O2TkUhtGMvjVMwtnuQ6e99CHeqwTYAlNQOSvBeSEtokOjUcr40hEIdVsi0DXTLSHltofdZG2lkGEAu_-e9W2Zo",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "virtualization",
+    "security",
+    "privacy",
+    "operating system",
+    "operating systems"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "xen",
+    "shell",
+    "linux",
+    "ruby"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5074771758809088/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Qubes MIME Handlers",
+          "short_description": "Current State\nUsers are required to manually open untrusted files through a right-click dialog each time they want to access them in a Disposable...",
+          "student_name": "Andrew Morgan",
+          "code_url": "https://blog.amorgan.xyz/gsoc-weekly-progress-report-9---final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6673641785786368/"
+        },
+        {
+          "title": "Making Anti Evil Maid protection of Qubes OS resistant against shoulder surfing and video surveillance",
+          "short_description": "Observing the user during early boot should not be sufficient to defeat the protection offered by Anti Evil Maid (AEM). Using time based one-time...",
+          "student_name": "Patrik Hagara",
+          "code_url": "https://github.com/QubesOS/qubes-antievilmaid/pull/20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5258028081217536/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4924517870206976/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Template Manager and Package Handling Improvements",
+          "short_description": "Designing a better mechanism for handling template installation and creating a user-facing application to deal with such mechanism and other...",
+          "student_name": "William Huang",
+          "code_url": "https://blog.nerde.pw/2020/08/28/gsoc-qubes-template-manager.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6597432227397632/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5682513023860736/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Simplified external port forwarding and automatic NAT traversal",
+          "short_description": "Currently, Qubes OS lacks a centralized an easy way to forward ports to virtual machines. Although it is possible to forward ports by issuing...",
+          "student_name": "giulio",
+          "code_url": "https://git.lsd.cat/Qubes/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6191242169286656/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://www.qubes-os.org/mailing-lists/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/QubesOS",
+  "blog_url": "https://www.qubes-os.org/news/"
+}

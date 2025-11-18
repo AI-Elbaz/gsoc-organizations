@@ -1,0 +1,74 @@
+{
+  "name": "The Vega Project at the University of Washington",
+  "url": "http://vega.github.io/",
+  "image_url": "https://lh3.googleusercontent.com/i2lYWOG1iVw9H16hfCqxcgjdZ_mbaiJQgC8UW1lOz4cMr012o-iUbHO5ZCqfzzGdFJnHGUwOnJ9PoGIDJtpxbtnzWQiaIAQ",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "data visualization",
+    "data science",
+    "declarative language",
+    "visualization grammar",
+    "plotting tools",
+    "visualization",
+    "data-science"
+  ],
+  "technologies": [
+    "javascript",
+    "react",
+    "typescript",
+    "d3.js",
+    "d3",
+    "vega",
+    "vega-lite"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4645580374540288/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Vega-Share",
+          "short_description": "The project aims to create a platform for hosting and sharing Vega and Vega-Lite visualizations as well as integrating the share functionality with...",
+          "student_name": "Yash Dev Lamba",
+          "code_url": "https://gist.github.com/ydlamba/4fc38b608dadab7a886f9da157beb830",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5716279616864256/"
+        },
+        {
+          "title": "Improvement and Extension of Data Transforms in Vega-Lite",
+          "short_description": "Implementation of some of the useful transforms from Vega currently not present in Vega-Lite",
+          "student_name": "Souvik Sen",
+          "code_url": "https://gist.github.com/invokesus/b8990be8c78a0c0d93b1e757edd3e198",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6181132517244928/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5953843416793088/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improving Vega Editor",
+          "short_description": "The aim of the project is to improve the vega editor by adding support for settings panel , and improving upon features like uploading datasets and...",
+          "student_name": "Siddhant .",
+          "code_url": "https://medium.com/@sidhant.manchanda/gsoc-2019-work-product-vega-editor-9d7988483412?source=friends_link&sk=ef21e2837978d29e4389738bf2587e4c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5003491574022144/"
+        },
+        {
+          "title": "Service for publishing Vega and Vega-Lite visualizations",
+          "short_description": "The project aims to create a platform for hosting and sharing Vega and Vega-Lite visualizations. It will facilitate a user to save, fork and publish...",
+          "student_name": "Aman Sharma",
+          "code_url": "https://gist.github.com/algomaster99/6ee25328dd6aa5c86476b0fa5d4a85b9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4919870574034944/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://bit.ly/join-vega-slack",
+  "contact_email": "",
+  "mailing_list": "https://bit.ly/vega-discuss",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/vega_vis",
+  "blog_url": "http://medium.com/@uwdata"
+}

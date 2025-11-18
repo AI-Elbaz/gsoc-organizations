@@ -1,0 +1,96 @@
+{
+  "name": "sktime",
+  "url": "https://www.sktime.net/en/stable/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/sktime/x2i3dxljtj04sqw0-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "data science",
+    "ai",
+    "time series",
+    "toolbox frameworks",
+    "AI/ML"
+  ],
+  "technologies": [
+    "python",
+    "github",
+    "sphinx",
+    "scikit-learn"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/sktime/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Expanding sktime\u2019s Annotation Capabilities",
+          "short_description": "Real world time series data is not i.i.d, and in fact understanding how the generating distribution shifts over time is part of what makes working...",
+          "student_name": "Mirae P",
+          "code_url": "https://miraep8.github.io/2022-09-14-GSoC-2022-Project-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FeklkaRu/"
+        },
+        {
+          "title": "Deep Learning for Time Series",
+          "short_description": "The M-Competitions are a series of open competitions to evaluate forecasting methods for time-series data. The most recent competition in this...",
+          "student_name": "Shivansh Subramanian",
+          "code_url": "https://aurumnpegasus.github.io/posts/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4PrOakwo/"
+        },
+        {
+          "title": "Anomaly detection in high-dimensional data",
+          "short_description": "This project will focus on broadening the suite of anomaly detection techniques within sktime. Specifically, it will focus on the incorporation of...",
+          "student_name": "Katie Buchhorn",
+          "code_url": "https://katiebuc.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/diVUHhG6/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/sktime/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Sktime integration with deep learning backends - pytorch and huggingface",
+          "short_description": "Sktime provides a user-friendly interface for a range of forecasting algorithms and time-series functionalities. To enhance its capabilities further,...",
+          "student_name": "Armaghan",
+          "code_url": "https://github.com/geetu040/Google-Summer-of-Code-2024-Sktime",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/f5FggiB7/"
+        },
+        {
+          "title": "Adding Support for Categorical Features",
+          "short_description": "sktime in its current state does not support categorical variables in input data and this has been an often requested feature from its users. This...",
+          "student_name": "Abhay Lejith",
+          "code_url": "https://gist.github.com/Abhay-Lejith/018e7d7bd5c1d924ff9dcaa4f2e8af48",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/a3ltdqXK/"
+        },
+        {
+          "title": "Scaling backends, foundation models, PyTorch, darts and pytorch-forecasting with sktime.",
+          "short_description": "With Sktime\u2019s goal of unifying machine learning with time series, I intend to contribute to that mission with the project titled \u201cScaling backends,...",
+          "student_name": "fnhirwa",
+          "code_url": "https://fnhirwa.github.io/gsoc2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/A6iwFEvW/"
+        },
+        {
+          "title": "Scaling Backends : Polars, Hugging Face and Foundation Models",
+          "short_description": "The idea behind this project is to integrate data backends like Polars and deep learning foundation models from libraries like Hugging-Face and...",
+          "student_name": "Pranav Prajapati",
+          "code_url": "https://github.com/pranavvp16/GSOC-submission/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5KWcOo4J/"
+        },
+        {
+          "title": "Deep Learning Forecasters with Global Forecasting API",
+          "short_description": "This project enables global forecasting in sktime. 1. design and implement global forecasting API in sktime. 2. add pytorch-forecasting models with...",
+          "student_name": "XinyuWu",
+          "code_url": "https://github.com/XinyuWuu/GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eSwQPuN5/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/54ACzaFsn7",
+  "contact_email": "",
+  "mailing_list": "https://github.com/sktime/sktime/discussions",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://www.linkedin.com/company/scikit-time/"
+}

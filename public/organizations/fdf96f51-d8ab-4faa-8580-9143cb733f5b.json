@@ -1,0 +1,133 @@
+{
+  "name": "Wagtail",
+  "url": "https://wagtail.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/wagtail/so6hnqeqh2cp4jbx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "accessibility",
+    "cms"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "django"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/wagtail/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Toolkit for StreamField data migrations in Wagtail",
+          "short_description": "\u201cWagtail provides a field type for semi-freeform data, StreamField, which uses a JSON representation to store \"blocks\" of data.\u201d A major problem...",
+          "student_name": "Sandil Ranasinghe",
+          "code_url": "https://github.com/sandilsranasinghe/wagtail-streamfield-migration-toolkit/discussions/17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/It13tsFg/"
+        },
+        {
+          "title": "Editor's Guide- A standalone project",
+          "short_description": "Making Wagtail's Editor's Guide a standalone project. The existing guide is a little bit complicated and technical for people who do not have a...",
+          "student_name": "Hitansh Shah",
+          "code_url": "https://wagtail.org/gsoc-2022-editor-guide",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7nMw2hTq/"
+        },
+        {
+          "title": "Windows High Contrast Mode Support",
+          "short_description": "The project intends to make windows high contrast mode support the entire wagtail interface. I propose to add new properties to the existing code and...",
+          "student_name": "Anuja Raj Verma",
+          "code_url": "https://github.com/anujaraj/Gsoc-2022-Final-submission/blob/main/Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dtqU95hd/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/wagtail",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Greener coding: back-end development",
+          "short_description": "The project aims to integrate green coding practices into Wagtail\u2019s direction and make concrete improvements to reduce related carbon emissions also...",
+          "student_name": "AmanPandey",
+          "code_url": "https://gist.github.com/salty-ivy/fe8616a28bf7d4a577d84b646141e8a9",
+          "proposal_id": "DDV3SKOf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Zs8nVswq"
+        },
+        {
+          "title": "Greener coding: Wagtail\u2019s climate impact",
+          "short_description": "This project aims to contribute to reducing the environmental impact of web applications by making the Wagtail CMS more sustainable. Goals: Develop a...",
+          "student_name": "PaarthA",
+          "code_url": "https://github.com/wagtail/wagtail/pull/10781",
+          "proposal_id": "ieW25oCo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0yWqv0eP"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/wagtail/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "EcoWagtail: Embracing GOLD Principles for Sustainable Web Experiences",
+          "short_description": "The project focuses on creating 3-4 Low carbon footprint templates incorporating the sustainability factor, accessibility as well as SEO &...",
+          "student_name": "Nandini584",
+          "code_url": "https://docs.google.com/document/d/133a7An5phJroBSajeagTHJC1yHJT228fis8KuuSi52c/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kGc9KBEB/"
+        },
+        {
+          "title": "Alt text capabilities",
+          "short_description": "I propose to improve the accessibility of Wagtail websites by enabling editors to add alt text to images. Currently, there's no clear way to do this,...",
+          "student_name": "Chiemezuo",
+          "code_url": "https://dev.to/chiemezuo/google-summer-of-code-24-final-submission-1661",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eDTN51VV/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/wagtail",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Content Security Policy compatibility",
+          "short_description": "This proposal aims to improve Wagtail's Content Security Policy (CSP) compliance by organizing existing efforts, refactoring code, and...",
+          "student_name": "Chiemezuo",
+          "code_url": null,
+          "proposal_id": "IToD6EgQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BbmYrprl"
+        },
+        {
+          "title": "Enhancing the keyboard shortcut system within Wagtail",
+          "short_description": "This project proposes the implementation of new Wagtail-specific keyboard shortcuts to enhance accessibility, navigation speed, and overall user...",
+          "student_name": "Dhruvi",
+          "code_url": null,
+          "proposal_id": "fKG3pjCe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/W7M5PQD9"
+        },
+        {
+          "title": "Enhancing Image and Document Listing for Usage Count",
+          "short_description": "This project aims to enhance the Image and Document listings in Wagtail\u2019s admin interface by introducing features such as a Grid-to-List view toggle...",
+          "student_name": "Joel William",
+          "code_url": null,
+          "proposal_id": "bZdPLbT0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DTv1AKj4"
+        },
+        {
+          "title": "Grid Aware Websites",
+          "short_description": "This project focuses on making Wagtail.org more energy-efficient by adapting its content based on the environmental impact of the user's location....",
+          "student_name": "Rohit.Sharma",
+          "code_url": null,
+          "proposal_id": "jNElk3rC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XPkwvTxj"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/wagtail/wagtail/wiki/Slack",
+  "contact_email": "",
+  "mailing_list": "https://github.com/wagtail/gsoc/discussions",
+  "ideas_url": "https://github.com/wagtail/gsoc/blob/main/project-ideas.md",
+  "guide_url": "https://wagtail.org/gsoc/",
+  "twitter_url": "https://x.com/wagtailcms",
+  "blog_url": "https://wagtail.org/blog/"
+}

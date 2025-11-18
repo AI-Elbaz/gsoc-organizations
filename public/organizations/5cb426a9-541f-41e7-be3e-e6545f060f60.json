@@ -1,0 +1,51 @@
+{
+  "name": "Meshery",
+  "url": "https://meshery.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/meshery/4ywkbdszwd1sw2rq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "collaboration",
+    "devops",
+    "Platform Engineering",
+    "cloud native infrastructure",
+    "infrastructure as design"
+  ],
+  "technologies": [
+    "javascript",
+    "golang",
+    "kubernetes",
+    "visual design"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/meshery",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "kubectl (krew) Plugin for MeshSync Integration and k8s resource mapping in MeshSync",
+          "short_description": "This proposal describes: - the implementation of krew plugin for kubectl based on the meshsync binary. - add integration tests to meshsync; - add...",
+          "student_name": "Nikita B",
+          "code_url": null,
+          "proposal_id": "p7OHkVxP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/c1hQOJMd"
+        },
+        {
+          "title": "Expanding end-to-end test coverage in Meshery using Playwright",
+          "short_description": "Meshery integrates with a bunch of CNCF tools, and keeping those integrations stable needs proper automation. The goal of this project is to improve...",
+          "student_name": "Varad Gupta",
+          "code_url": null,
+          "proposal_id": "EUXs5fqo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PHXvPh03"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.meshery.io",
+  "contact_email": "mailto:https://meshery.io/subscribe",
+  "mailing_list": "http://discuss.meshery.io",
+  "ideas_url": "https://meshery.io/programs/gsoc/2025",
+  "guide_url": "https://docs.meshery.io/project/contributing",
+  "twitter_url": "https://x.com/mesheryio",
+  "blog_url": "https://meshery.io/blog"
+}

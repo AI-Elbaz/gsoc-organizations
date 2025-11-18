@@ -1,0 +1,183 @@
+{
+  "name": "WSO2",
+  "url": "http://wso2.com/",
+  "image_url": "https://lh3.googleusercontent.com/1E8AX1katjzwQ4Lu7AQVzd-V2E0y-RWFm4ZR7_eS7yct9wEagNcya2aGsZMH4TOaD0RF75iKM3uom-4enwPlyCMQ_tOXgg",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "security",
+    "cloud",
+    "micro services",
+    "data analysis",
+    "iot",
+    "api management"
+  ],
+  "technologies": [
+    "java",
+    "web services",
+    "middleware",
+    "soa",
+    "distributed computing"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5243158099132416/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Document Based NoSQL Support for  WSO2 Identity Server Database",
+          "short_description": "WSO2 Identity Server is the first Identity Server Bus in the industry which is capable of managing multiple user identities among applications, APIs,...",
+          "student_name": "Asantha Thilina",
+          "code_url": "https://asanthamax.github.io/mongodbuserstore/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6699632243507200/"
+        },
+        {
+          "title": "SAML Assertion Query/Request Profile support for WSO2 Identity Server",
+          "short_description": "Security Assertion Markup Language (SAML) is an XML based security token which is used to exchange authentication and authorization data between two...",
+          "student_name": "Gayan Liyanaarachchi",
+          "code_url": "http://velozit.blogspot.com/2016/08/gsoc-2016-saml-assertion-queryrequest.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4965600132595712/"
+        },
+        {
+          "title": "Web (Javascript / D3) based BPMN editor to support a subset of commonly used BPMN constructs",
+          "short_description": "Business Process Model and Notation (BPMN) is a standard way of representing business processes in graphical representation.The purpose of this...",
+          "student_name": "Heshan Jayasinghe",
+          "code_url": "https://gist.github.com/heshanjse/25e727ce17e8b76619f70fbb91b4226f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5551141345558528/"
+        },
+        {
+          "title": "PREDICTIVE ANALYTICS WITH ONLINE DATA FOR WSO2 MACHINE LEARNER",
+          "short_description": "Machine Learning algorithms for data analysis makes new areas such as Big Data analysis. Emerging data analysis with the streaming data is one of the...",
+          "student_name": "mahesh dananjaya",
+          "code_url": "https://dananjayamahesh.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5573732336664576/"
+        },
+        {
+          "title": "Integration Test Framework for WSO2 Dockerfiles",
+          "short_description": "WSO2 Dockerfiles project contains the Dockerfiles for all the WSO2 products and allows users to build and run Docker images of these products. The...",
+          "student_name": "Abhishek Tiwari",
+          "code_url": "https://github.com/abhishek0198/wso2dockerfiles-test-framework/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4811368393867264/"
+        },
+        {
+          "title": "Improve production system debugging capabilities of WSO2 ESB (ESB Flight Recorder)",
+          "short_description": "WSO2 Enterprise Service Bus is a lightweight, high performance, and comprehensive ESB. The WSO2 ESB effectively addresses integration standards and...",
+          "student_name": "Dinanjana",
+          "code_url": "http://dinanjanagunaratne.blogspot.com/2016/08/during-past-3-months-i-was-engaged-in.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6479129159401472/"
+        },
+        {
+          "title": "[ML]Visual(Deep) Neural Network Builder",
+          "short_description": "From Visual(Deep) Neural Network Builder, users can drag and drop layers and other computational units and they can create neural networks as they...",
+          "student_name": "Lakini Senanayaka",
+          "code_url": "https://lakini.github.io/carbon-ml/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6077824863567872/"
+        },
+        {
+          "title": "RESTful Fine Grained Authorization-as-a-Service (AZaaS)  for the WSO2 Identity Server",
+          "short_description": "The Identity Server currently supports SOAP as the service medium in between its PDP (Policy Decision point) and any PEP (Policy Enforcement Point)...",
+          "student_name": "Manujith",
+          "code_url": "http://manzzup.blogspot.com/2016/08/gsoc-2016-rest-implementation-for-wso2.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6112004750180352/"
+        },
+        {
+          "title": "Contact Development Team feature in DevStudio",
+          "short_description": "Currently Developer Studio users contact the development team via wso2 web support portal (Jira), so the\nusers have to put additional effort to send...",
+          "student_name": "Nathiesha",
+          "code_url": "http://nathiesha.blogspot.com/2016/08/contact-development-team-feature-in.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4942423683760128/"
+        },
+        {
+          "title": "HTTP Load Balancer On Top Of WSO2 Gateway",
+          "short_description": "HTTP Load balancer is a software application capable of distributing HTTP traffic to backend servers according to the specified scheduling policy....",
+          "student_name": "Venkat",
+          "code_url": "https://venkat2811.blogspot.in/2016/08/http-load-balancer-on-top-of-wso2.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5891422477615104/"
+        },
+        {
+          "title": "Ensemble Methods Support for WSO2 Machine Learner",
+          "short_description": "Ensemble methods combine predictions of base models in order to improve performance or generalizability over a single model. To this end, there are...",
+          "student_name": "Misgana",
+          "code_url": "https://docs.google.com/document/d/1bpTMiSciOqt7vfDgYglSBQucQReDs-btEa5xFjBZkDU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5221888615776256/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6070843662663680/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Native inbound and connector for IBM MQ 8.0",
+          "short_description": "Currently with WSO2 Enterprise Service Bus recommended way to connect to IBM MQ is using JMS transport. But this has limitations and sometimes gives...",
+          "student_name": "Hasitha Jayasundara",
+          "code_url": "https://gist.github.com/hasithajayasundara/c73bc15a522f2e0059aa1f6254c964c1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6370003167215616/"
+        },
+        {
+          "title": "Non-Occurrence of Events for Siddhi Patterns",
+          "short_description": "Siddhi provides an elegant solution to detect patterns among the events that happened. However, it cannot identify the absence of events using the...",
+          "student_name": "Gobinath Loganathan",
+          "code_url": "https://medium.com/@lgobinath/gsoc-siddhi-pattern-to-detect-absence-of-events-8b267bd173fe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5690015891849216/"
+        },
+        {
+          "title": "OAuth 2.0 Dynamic Client Registration Management Protocol support for WSO2 Identity Server",
+          "short_description": "OAuth 2.0 Dynamic Client Registration Management Protocol specification defines  a set of rules to manage the OAuth 2.0 Dynamic Client Registration...",
+          "student_name": "Abilashini Thiyagarajah",
+          "code_url": "https://medium.com/@abilashini/oauth-2-0-dcrm-protocol-support-for-wso2-identity-server-gsoc-2017-96b89fbfc74b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4557915662843904/"
+        },
+        {
+          "title": "SCIM 2.0 Compliance Test Suite",
+          "short_description": "The proposal is on implementing the SCIM 2.0 compliance test suite which can be run on both the cloud and on premise by eliminating the limitations...",
+          "student_name": "Vindula Jayawardana",
+          "code_url": "https://medium.com/@vindulajayawardana/scim-2-0-compliance-test-suite-737fd4ace3cc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4713460856258560/"
+        },
+        {
+          "title": "[IS] WS-Trust Implementation for IS 6.0.0 using Apache CXF Library",
+          "short_description": "WS-Trust is a WS-* specification that provides extensions to the WS-Security specification. WS-Security provides the basic framework for message...",
+          "student_name": "Isuranga Perera",
+          "code_url": "https://github.com/IsurangaPerera/identity-inbound-auth-sts",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6040323088187392/"
+        },
+        {
+          "title": "Eclipse plugin for Siddhi",
+          "short_description": "WSO2 Complex Event Processor(WSO2 CEP) is real-time  and it has a quick response time in identifying patterns in incoming stream of events/large data...",
+          "student_name": "Udeshika Sewwandi",
+          "code_url": "https://medium.com/@sewwandikaus.13/gsoc-2017-eclipse-plugin-for-siddhi-documentation-c4d82e8089cb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5862266360561664/"
+        },
+        {
+          "title": "Siddhi Extension Doc Auto Generation",
+          "short_description": "This project consists of two main parts of the automated generation of documentation for Siddhi Complex Event Processing Engine.\n\na maven plugin for...",
+          "student_name": "Nadun De Silva",
+          "code_url": "https://gist.github.com/nadundesilva/abeac5279468c8c5f37fbd0f8c2d2091",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5957128497922048/"
+        },
+        {
+          "title": "Python API for Siddhi CEP",
+          "short_description": "The scope of this project is to develop a Python API for Siddhi CEP Java Library. Additionally, the developed Python API would be able to directly...",
+          "student_name": "Madhawa Vidanapathirana",
+          "code_url": "https://gist.github.com/madhawav/195b7dc601d94c40958d88be1d56e705",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5985493804122112/"
+        },
+        {
+          "title": "Environment Support for API Manager",
+          "short_description": "Building capability in the user interfaces of WSO2 API Manager version 3.0.0 (SNAPSHOT version as of now) to switch between different environments...",
+          "student_name": "Ravindu Perera",
+          "code_url": "http://ravindublog.tk/gsoc-2017-environment-support-for-wso2-api-manager/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5145140502986752/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://freenode.net/",
+  "contact_email": "mailto:discuss-oss@wso2.org",
+  "mailing_list": "http://wso2.com/mail/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/wso2",
+  "blog_url": "http://wso2.com/blogs/thesource/"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jina AI",
+  "url": "https://jina.ai/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/jina-ai-sb/fzfhdw1ifhstruln-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "cloud native",
+    "neural search",
+    "generative AI",
+    "Python MLOps Framework",
+    "Mulitmodel Data"
+  ],
+  "technologies": [
+    "python",
+    "machine learning",
+    "microservices",
+    "data science",
+    "Multimodel AI"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/jina-ai-sb",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Jax Support in DocArray v2",
+          "short_description": "DocArray is a library for representing, sending, and storing multi-modal data, with a focus on applications in ML and Neural Search. It currently...",
+          "student_name": "aman0",
+          "code_url": "https://github.com/docarray/docarray/pull/1646",
+          "proposal_id": "nLA03g8j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/z0OWiySD"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.jina.ai",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/jinaAI_/",
+  "blog_url": "https://jina.ai/news/"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "OpenKeychain (OpenPGP for Android)",
+  "url": "https://www.openkeychain.org/",
+  "image_url": "https://lh3.googleusercontent.com/wAkJBRA8v5z62PnJCHuzhl_GvQFzVFtim5UBjCy7ga473SN5tE7ttGh6fp4DE-qSKe9JcZnmYvVYCvE7JXSFDM653L0k-OmQ",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "e-mail",
+    "encryption"
+  ],
+  "technologies": [
+    "android",
+    "openpgp"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5672889575538688/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Proposal for GSoC 2016 - Andrea Torlaschi",
+          "short_description": "I'm Andrea Torlaschi from Italy.\nI've a Bachelor's degree and now i'm studying for a master's degree in \"Computer Science and Multimedia\" at the...",
+          "student_name": "runnerway",
+          "code_url": "https://gist.github.com/runnerway/137397da447fb796764bac37b57d835b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4985441539325952/"
+        },
+        {
+          "title": "Move from Passwords to App Lock Mechanism",
+          "short_description": "Migration to an App Lock Mechanism consists of 4 main tasks,\n1) Moving to usage of a single master password for all keys\n2) Adding encryption of the...",
+          "student_name": "AlexFJW",
+          "code_url": "https://gist.github.com/AlexFJW/0ddf4a10e7030ac991f8fb93af3decff",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5910458309541888/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://kiwiirc.com/client/irc.freenode.net/openkeychain",
+  "contact_email": "",
+  "mailing_list": "https://lists.riseup.net/www/subscribe/openkeychain",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://openkeychain.org"
+}

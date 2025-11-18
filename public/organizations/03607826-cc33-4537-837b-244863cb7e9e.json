@@ -1,0 +1,72 @@
+{
+  "name": "Rspamd",
+  "url": "https://www.rspamd.com",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/rspamd/d2hi7vv5bavik21s-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "machine learning",
+    "email",
+    "spam filtering",
+    "high performance computing"
+  ],
+  "technologies": [
+    "c",
+    "lua",
+    "cmake",
+    "javascript",
+    "machine learning",
+    "c++",
+    "rust",
+    "clickhouse"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5230067307249664/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Corpus Testing and Automatic Symbol Score Generation",
+          "short_description": "This project will use Artificial neural networks to re-score the symbol weights automatically to reduce the false positives and false negatives in...",
+          "student_name": "Pragadeesh C",
+          "code_url": "https://gist.github.com/cpragadeesh/fad4da2ce46302c7018a61ad8c8823e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5704107411111936/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5729327995944960/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/rspamd",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Full Telegram Support for Spam Filtering",
+          "short_description": "The bot will support real-time spam reporting, rate limiting, and user reputation management. The implementation will leverage Rust for interfacing...",
+          "student_name": "Elizaveta Alpatskaia",
+          "code_url": null,
+          "proposal_id": "92H92c5M",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hJDJf3Ea"
+        },
+        {
+          "title": "Multi-Class Bayesian Classifier",
+          "short_description": "Rspamd's Bayesian classifier currently supports only binary classification (spam/ham), this project aims to extend its capabilities. The goal is to...",
+          "student_name": "Kevin Shah",
+          "code_url": null,
+          "proposal_id": "Okra0QTU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hqn47hW8"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://rspamd.com/support.html",
+  "contact_email": "mailto:vsevolod@rspamd.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/rspamd",
+  "ideas_url": "https://rspamd.com/gsoc2025_ideas.html",
+  "guide_url": "https://github.com/rspamd/rspamd/blob/master/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/rspamd",
+  "blog_url": "https://rspamd.com/blog/"
+}

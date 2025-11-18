@@ -1,0 +1,92 @@
+{
+  "name": "Center for Translational Data Science",
+  "url": "https://ctds.uchicago.edu",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/center-for-translational-data-science/bc61hj7tocvmpw6p-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "bioinformatics",
+    "data science",
+    "cloud",
+    "Data Meshes",
+    "machine learning",
+    "artificial intelligence",
+    "devops",
+    "MLOps"
+  ],
+  "technologies": [
+    "python",
+    "aws",
+    "golang",
+    "docker",
+    "postgres",
+    "gpu",
+    "LLMs"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/center-for-translational-data-science/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "GDC Documentation Site Refactor Project",
+          "short_description": "The Genomic Data Commons(GDC) is a free open source system that distributes harmonized cancer genomic data to researchers internationally. Currently,...",
+          "student_name": "Julius Omoleye",
+          "code_url": "https://github.com/AsyncDeveloper245/Docsite-Revamp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/y4Mk5bM9/"
+        },
+        {
+          "title": "Scalable Data Download Functionality into the Gen3 Python SDK & CLI",
+          "short_description": "This project tries to integrate data download client functionality into the Gen3 Python SDK & CLI, to provide a single tool for interacting with...",
+          "student_name": "Sanskriti Mathuria",
+          "code_url": "https://medium.com/@sanskritimathuria/gsoc-2022-center-for-translational-data-science-5e91a83071fb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ayNxpTwH/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/center-for-translational-data-science",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Towards a Data Commons Operations Center with Observability and  Monitoring",
+          "short_description": "This project develops an Operations Center dashboard for centralized deployment, monitoring, and management of multiple Gen3 data commons. It...",
+          "student_name": "Abhijith M S",
+          "code_url": null,
+          "proposal_id": "Bz1FDAF0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Rk388fWO"
+        },
+        {
+          "title": "Open-Source FHIR and Federated Learning for Privacy-Preserving AI in Gen3 Data Commons",
+          "short_description": "This project addresses a critical challenge in healthcare: enabling AI-driven breakthroughs while ensuring patient privacy. The goal is to develop an...",
+          "student_name": "Andriana",
+          "code_url": null,
+          "proposal_id": "lCNHCbZH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HUSWFNZp"
+        },
+        {
+          "title": "Improve Scalable Data Download Functionality Using Globus and an Open-Source Python SDK & CLI",
+          "short_description": "This project aims to enhance the data download capabilities of the Center for Translational Data Science's Python SDK & CLI by implementing robust,...",
+          "student_name": "Dhiren-Mhatre",
+          "code_url": null,
+          "proposal_id": "XAESjrBL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qN3DzmD8"
+        },
+        {
+          "title": "An Intelligent Orchestration and Observability System for ML Research Clusters",
+          "short_description": "This project addresses the critical challenge of GPU resource management in ML/AI research environments where researchers often face delays due to...",
+          "student_name": "Fei Xiang Peng",
+          "code_url": null,
+          "proposal_id": "f2Wq0VI3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4A2j5CbE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:ctds-jobs@lists.uchicago.edu",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/1kiEDB6tw2xD8Qj3uxpSELjazW35llHM1a9Nt_LQKwHw/edit?usp=sharing",
+  "guide_url": "",
+  "blog_url": "https://www.linkedin.com/company/center-for-translational-data-science"
+}

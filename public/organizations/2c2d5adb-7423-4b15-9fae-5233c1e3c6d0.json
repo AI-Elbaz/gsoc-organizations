@@ -1,0 +1,41 @@
+{
+  "name": "DatenLord",
+  "url": "https://datenlord.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/datenlord-6z/wcwd5qgl2ukkkgq4-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "cloud",
+    "open source",
+    "storage",
+    "Data Infrastructure"
+  ],
+  "technologies": [
+    "rust",
+    "kubernetes",
+    "Distributed key-value store",
+    "Fault tolerant",
+    "Metadata management"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/datenlord-6z/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve Transaction Validation",
+          "short_description": "In Xline project, it exists the concept of Transaction(hereinafter abbreviated as txn). To keep the atomicity of txn, it need to detect whether all...",
+          "student_name": "feathercyc",
+          "code_url": "https://gg2002.github.io/2024/08/24/gsoc-2024-completion-record/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sKgQboCs/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "tracy.zhu@datenlord.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://medium.com/@datenlord"
+}

@@ -1,0 +1,113 @@
+{
+  "name": "Polypheny",
+  "url": "https://polypheny.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/polypheny/059uxeqzitvoqcyx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "databases",
+    "big data",
+    "ui",
+    "polystore",
+    "nosql",
+    "database",
+    "cloud",
+    "data science",
+    "ai"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "sql",
+    "angular"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5697965007568896/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support for Contextual Query Language",
+          "short_description": "Polypheny currently provides a SQL and REST interface for querying data. However many queries in SQL are very complex. The code for the same would be...",
+          "student_name": "Vishal Dalwadi",
+          "code_url": "https://github.com/VishalDalwadi/Polypheny-DB/blob/feature-cql/cql-interface/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5659628129484800/"
+        },
+        {
+          "title": "Query the Blockchain",
+          "short_description": "This Project looks at creating a data source for querying the Ethereum Blockchain. It will use the JSON-RPC interface provided by Ethereum to access...",
+          "student_name": "Shubham_Arawkar",
+          "code_url": "https://github.com/polypheny/Polypheny-DB/pull/355",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5327238026756096/"
+        },
+        {
+          "title": "Quality Check and Assurance",
+          "short_description": "The Project aims at contributing to the stability of Polypheny by writing test suits\nfor the SQL, REST and User Interface as well as adding a testing...",
+          "student_name": "Harshit Sharma",
+          "code_url": "https://gist.github.com/S-Harshit/bdb0186984938c5438930bd4d145b7c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5556459122720768/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/polypheny/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Data Source Adapter for Excel Sheets",
+          "short_description": "This project will allow Polypheny to interact with Excel sheets by adding a data source adapter. The Excel adapter enables Polypheny to query the...",
+          "student_name": "Kelly Xie",
+          "code_url": "https://github.com/polypheny/Polypheny-DB/pull/418",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/axdeCi5w/"
+        },
+        {
+          "title": "Data Source Adapter for Google Sheets",
+          "short_description": "A data source adapter is a feature that allows the ability to map existing data into schemas/tables of Polypheny, offering users the benefit of using...",
+          "student_name": "AnhTran",
+          "code_url": "https://github.com/polypheny/Polypheny-DB/pull/417",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fmDSiX3x/"
+        },
+        {
+          "title": "Railroad Diagram Creation and Implementation for Language Syntax",
+          "short_description": "Currently the documentation for the Syntax of the various SQL\u2019s that Polypheny supports has text based format which proves rather hard to read. The...",
+          "student_name": "Jai",
+          "code_url": "https://github.com/polypheny/Website/pull/18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6fWp2zf6/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/polypheny/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Cypher Quality Assurance",
+          "short_description": "Testing is a crucial part of the software development process, as it helps to ensure the quality and functionality of the software. The integration...",
+          "student_name": "Alyaa Mamoon",
+          "code_url": "https://github.com/polypheny/Polypheny-DB/pull/513",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/cOEeaYk7/"
+        },
+        {
+          "title": "Driver for .NET GSoC 2024 Project Proposal for Polypheny",
+          "short_description": "The proposed project aims to enhance the accessibility and versatility of Polypheny, an adaptive database system, by developing a driver for .NET....",
+          "student_name": "Malik Akbar Hashemi Rafsanjani",
+          "code_url": "https://github.com/polypheny/Polypheny-DotNet-Driver/pull/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Z5ZX5ekd/"
+        },
+        {
+          "title": "Presentation Mode for Polypheny Notebooks",
+          "short_description": "Polypheny Notebooks serve as an interactive environment tailored for data analysis, visualization, and comprehension. The project is dedicated to...",
+          "student_name": "Eslam Ashraf",
+          "code_url": "https://github.com/polypheny/Polypheny-UI/pull/100",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4s8BS2zB/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.polypheny.org",
+  "contact_email": "mail@polypheny.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://x.com/polypheny"
+}

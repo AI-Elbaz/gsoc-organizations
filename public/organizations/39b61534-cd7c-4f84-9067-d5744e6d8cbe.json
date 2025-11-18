@@ -1,0 +1,65 @@
+{
+  "name": "API Dash",
+  "url": "https://apidash.dev",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/api-dash/wgtarubdkvdp5qih-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Development tools",
+  "topics": [
+    "testing",
+    "api",
+    "developer tools",
+    "automation",
+    "GenAI"
+  ],
+  "technologies": [
+    "flutter",
+    "api",
+    "ai",
+    "dart",
+    "ui/ux"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/api-dash/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Android/iOS support for API Dash",
+          "short_description": "Enhance the usability of API Dash by extending its compatibility to Android and iOS platforms, while introducing essential features such as...",
+          "student_name": "Ragul Raj M",
+          "code_url": "https://github.com/foss42/apidash/blob/main/doc/gsoc/2024/ragul_raj_m.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/exbL7COY/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/api-dash",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "AI-Based API Response to Dynamic UI and Tool Generator",
+          "short_description": "This project introduces an AI-powered agent that automates the transformation of API responses into structured UI schemas and functional UI...",
+          "student_name": "Manas Hejmadi",
+          "code_url": null,
+          "proposal_id": "pNJ1dRGp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hhUUM8wl"
+        },
+        {
+          "title": "DashBot and API Authentication",
+          "short_description": "I will be developing DashBot - the AI assistant for API Dash which supercharges developer productivity by helping developers automate tedious tasks,...",
+          "student_name": "Udhay Adithya J",
+          "code_url": null,
+          "proposal_id": "OYPJKcur",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1Yf6TmCm"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/bBeSdtJ6Ue",
+  "contact_email": "mailto:ankit@apidash.dev",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/foss42/apidash/discussions/565",
+  "guide_url": "https://github.com/foss42/apidash/discussions/564",
+  "twitter_url": "https://x.com/apidashdev",
+  "blog_url": "https://www.linkedin.com/company/apidash/"
+}

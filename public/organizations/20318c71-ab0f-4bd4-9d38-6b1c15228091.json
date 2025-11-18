@@ -1,0 +1,151 @@
+{
+  "name": "Metasploit",
+  "url": "https://metasploit.com",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/metasploit/ggisatrqgjavuwd7-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "exploitation",
+    "penetration testing",
+    "offensive security"
+  ],
+  "technologies": [
+    "c",
+    "ruby",
+    "asm",
+    "python",
+    "postgresql",
+    "assembly"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5632986779222016/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Add vulnerabilities to Metasploitable3, reduce Bugs, work on enhancements and customisation feature",
+          "short_description": "Not everyone could setup Metasploitable 3 with ease (as mentioned in Github issues: https://github.com/rapid7/metasploitable3/issues). This is...",
+          "student_name": "Badshah",
+          "code_url": "https://gist.github.com/Chan9390/cc011f85bae3909c9410f39845421eb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5563877265768448/"
+        },
+        {
+          "title": "Improving stager payloads especially on non-Windows platforms",
+          "short_description": "Hi, I\u2019m a computer science university student from Japan.  I\u2019m interested in binary exploitation and reverse engineering. I like software...",
+          "student_name": "tkmru",
+          "code_url": "https://github.com/rapid7/metasploit-framework/commits/master?author=tkmru",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4749387720818688/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5923381731917824/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Add meta-shell commands for reverse shell session",
+          "short_description": "Shell sessions typically expose a direct connection to a remote shell, but are lacking a number of nice features such as the ability to stop a remote...",
+          "student_name": "Yihang Wang",
+          "code_url": "https://gist.github.com/WangYihang/6a2a64edd57a9f45ee544c3ff91ac51e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6381812649558016/"
+        },
+        {
+          "title": "Post-exploitation interface module to make it easy for  anyone anywhere",
+          "short_description": "In many cases once you have exploited a device you don\u2019t know exactly what to do or how to go on. Maybe you have many payloads available and after...",
+          "student_name": "Albertor",
+          "code_url": "https://gist.github.com/AlbertoCoding/743f0edecb36ccc93eef541bcbdea652",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5613215165710336/"
+        },
+        {
+          "title": "Improving the Post-exploit / Meterpreter functionality",
+          "short_description": "Creation of a Meterpreter session Graphical User Interaction (UI) including visual listing of commands available and post modules that can be used...",
+          "student_name": "Rahul Dhawan",
+          "code_url": "https://gist.github.com/rahuldhawan291/23e0432a9d8725dcc5b33d9239ad979c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4836310879567872/"
+        },
+        {
+          "title": "Integration plugin for 3rd party frameworks.",
+          "short_description": "This project tries to provide user the ability to use the functionalities, provided by third party external frameworks such as Pupy or PowerShell...",
+          "student_name": "zed009",
+          "code_url": "https://docs.google.com/document/d/1sOx0hf3LBTbkxy9bPmmGGv2jGyUu7k5FzwIxM5CcbX0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6540011662999552/"
+        },
+        {
+          "title": "Improving post exploitation features on POSIX systems",
+          "short_description": "As an IT student, I would like to take part in the GSOC 2018 by working on the Metasploit Project, the following proposal details the complete summer...",
+          "student_name": "Eliott Teissonniere",
+          "code_url": "https://github.com/search?l=&q=org%3Arapid7+author%3ADeveloppSoft++updated%3A%3C2018-08-14+%5BGSOC%5D&type=Issues",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5769329844944896/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4999193090850816/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Advancing Metasploit modules: Implementing Conditionally Exposed Options and Session-Style Module Interaction",
+          "short_description": "With this project I want to conditionally show the options for a module (only the necessary) when you are configuring these options, so you don\u2019t...",
+          "student_name": "MarBel_tc",
+          "code_url": "https://gist.github.com/mariabelenTC/e5ad230316ece2eda7597d52a39cca13",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5725158997753856/"
+        },
+        {
+          "title": "Enhancing SQL Injection Support",
+          "short_description": "Injection attacks are still the most common type of vulnerabilities found in software, SQL injection is one of them, it exploits the lack of...",
+          "student_name": "Redouane NIBOUCHA",
+          "code_url": "https://red0xff.github.io/posts/google_summer_of_code_2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5280133511905280/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4728495023849472/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improving Post-Exploitation API",
+          "short_description": "With this project I want to add the following enhancements\nClosing Feature gaps between meterpreter, shell and powershell sessions\nMany Post APIs...",
+          "student_name": "Gaurav Purswani",
+          "code_url": "https://gist.github.com/pingport80/27eb47c5124a0f29538c1afa681638c1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5905360388358144/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/metasploit/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Implementing HTTP-Trace enabled Login Scanners",
+          "short_description": "This project aims to implement the HTTP-Trace option for login scanner modules. When enabled, the HTTP-Trace option lets the user see every web...",
+          "student_name": "Beleswar Prasad Padhi",
+          "code_url": "https://gist.github.com/3V3RYONE/7f078312ec460516d39b91e6cab2e362",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/I4PxrljP/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/metasploit",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "LDAP Capture Capabilities",
+          "short_description": "This project aims to deliver a module to add capture capabilities over the LDAP protocol. This module will allow the capture of LDAP traffic and...",
+          "student_name": "JustAnda7",
+          "code_url": "https://gist.github.com/JustAnda7/a0e06e73c8f1b53ad43228b3cce478c0",
+          "proposal_id": "KjRCmJRn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Vq4PLCzD"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://metasploit.com/slack",
+  "contact_email": "mailto:msfdev@metasploit.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/metasploit-hackers",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/metasploit",
+  "blog_url": "https://blog.rapid7.com/tag/metasploit/"
+}

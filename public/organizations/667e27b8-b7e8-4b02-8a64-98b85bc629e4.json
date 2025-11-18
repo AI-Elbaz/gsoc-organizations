@@ -1,0 +1,216 @@
+{
+  "name": "libvirt",
+  "url": "https://libvirt.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/libvirt/8xb4f5zwejage5pf-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "virtualization",
+    "cloud",
+    "library",
+    "virtual machine",
+    "container",
+    "libraries"
+  ],
+  "technologies": [
+    "c",
+    "xen",
+    "qemu",
+    "containers",
+    "kvm",
+    "hypervisor",
+    "lxc",
+    "python",
+    "virtualization"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5512427315658752/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Add libvirt support for LXC migration.",
+          "short_description": "Migration has become an important feature in the virtualization world. In severs, it is used for load balancing, updating and replacing hardware,...",
+          "student_name": "Katerina Koukiou",
+          "code_url": "http://wiki-libvirt.rhcloud.com/page/Google_Summer_of_Code_2016/lxc_migration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5273377220591616/"
+        },
+        {
+          "title": "Asynchronous lifecycle events for storage objects",
+          "short_description": "The purpose of the project is to implement asynchronous lifecycle events for libvirt\u2019s storage API.  Lifecycle events allow applications to get...",
+          "student_name": "gulic",
+          "code_url": "http://wiki-libvirt.rhcloud.com/page/Google_Summer_of_Code_2016/Asynchronous_lifecycle_events_for_storage_objects",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5359079803322368/"
+        },
+        {
+          "title": "Abstracting device address allocation",
+          "short_description": "Libvirt provides a common and stable layer to securely manage domains (instances of operating systems) on a node (single physical machine). When...",
+          "student_name": "Tomasz Flendrich",
+          "code_url": "http://wiki-libvirt.rhcloud.com/page/Google_Summer_of_Code_2016/Abstracting_device_address_allocation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4577232009822208/"
+        },
+        {
+          "title": "Making virsh more bash like",
+          "short_description": "If you have ever used virsh, you certainly reached the point where you struggle with its user friendliness. Virsh is missing a lot of bash...",
+          "student_name": "nishithshah2211",
+          "code_url": "http://wiki.libvirt.org/page/Google_Summer_of_Code_2016/Making_virsh_more_bash_like",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4855751780597760/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6082542885142528/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Ease creation of containers",
+          "short_description": "Creating containers for libvirt LXC driver is a pain since there is no simple way to setup the root file system. A new workflow around container...",
+          "student_name": "Radostin Stoyanov",
+          "code_url": "https://www.redhat.com/archives/virt-tools-list/2017-August/msg00248.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5915720986656768/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6037767851081728/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Automatic freeing of resources",
+          "short_description": "Writing cleanup code for every variable in large-scale open-source projects makes the code difficult to comprehend. The cleanup tasks like releasing...",
+          "student_name": "Sukrit Bhatnagar",
+          "code_url": "https://skrtbhtngr.github.io/2018/08/13/gsoc18-final-blog.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5323025029267456/"
+        },
+        {
+          "title": "Introduce Libiscsi pool",
+          "short_description": "Currently there is an iSCSI storage pool in libvirt. However, all the management communication is done by spawning iscsiadm binary. The aim of this...",
+          "student_name": "Clem",
+          "code_url": "https://docs.google.com/spreadsheets/d/1s2rhAwCvNu8DUJx1wIf4SC_FOZxYxLzAbMah2fn2hdo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5806571170824192/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4556574457069568/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Expand libvirt test driver API coverage",
+          "short_description": "The libvirt library provides a stable API for managing platform virtualization utilizing different hypervisors or virtual machine monitors. Each...",
+          "student_name": "Ilias Stamatis",
+          "code_url": "https://iliaswrites.wordpress.com/2019/08/13/final-gsoc-2019-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6355995113029632/"
+        },
+        {
+          "title": "Create Rust bindings for libguestfs",
+          "short_description": "Libguestfs provides a set of tools for communicating with virtual machine disk images. By using this, you can view or edit a file on almost any disk...",
+          "student_name": "Hiroyuki Katsura",
+          "code_url": "https://docs.google.com/document/d/1ytlVEuGMlHMlN06AkzNFLDD58zHzOGYrFX_f_fNVNLM/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5735547409006592/"
+        },
+        {
+          "title": "Cloud-init configuration for virt-install/virt-manager",
+          "short_description": "Cloud-init configuration through virt-install/virt-manager input arguments at VM initial setup. Cloud-init is a package that contains utilities for...",
+          "student_name": "Athina Plaskasoviti",
+          "code_url": "https://athinapl.home.blog/2019/08/25/gsoc-2019-cloud-init-configuration-for-virt-manager-virt-install/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6236550378029056/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5067783886340096/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Introducing Job control to the storage driver",
+          "short_description": "Currently, libvirt support job cancellation and progress reporting on domains. That is, if there's a long running job on a domain, e.g. migration,...",
+          "student_name": "Prathamesh Chavan",
+          "code_url": "https://drive.google.com/drive/folders/19KMJhUUp1WdXGl7slk9hLqXSwK8aG4di",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6612599065542656/"
+        },
+        {
+          "title": "Libvirt driver for Jailhouse",
+          "short_description": "Jailhouse is a lightweight static partitioning hypervisor based on Linux, which is more concerned with isolation than virtualization. It\u2019s able to...",
+          "student_name": "Prakhar",
+          "code_url": "https://docs.google.com/document/d/1nf_zQe-3CI6c0Rioj7h3Vzrg99l1wyhfJ__wIQQXv4c/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5436033845428224/"
+        },
+        {
+          "title": "Salt Virt advanced performance tuning support",
+          "short_description": "SaltStackis an open-source software that facilitates configuration management for IT infrastructures. Salt Virt is a component of SaltStack which...",
+          "student_name": "GUOQING LI",
+          "code_url": "https://gist.github.com/gqlo/10860ffea5b25272ac37d1a8f0b6b22f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6094282445815808/"
+        },
+        {
+          "title": "Take migration in Salt virt module to the next level",
+          "short_description": "Salt offers a nice wrapper around libvirt. However the migration functions are calling virsh and not exposing all options. This project is about...",
+          "student_name": "- Radostin Stoyanov",
+          "code_url": "https://www.redhat.com/archives/libvir-list/2020-August/msg01094.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4913175331340288/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4791907464511488/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Test driver API coverage",
+          "short_description": "Expand API coverage in the test driver\nThe test driver (as accessed via the test:/// URI scheme) is a fake virt driver designed to let applications...",
+          "student_name": "Luke Yue",
+          "code_url": "https://write.as/lukedyue/google-summer-of-code-2021-3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4735718219317248/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/libvirt/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "libvirt-CI: Support for container executions  in libvirt's lcitool using a container library binding",
+          "short_description": "Libvirt has a tool called lcitool which is used for managing the CI need for libvirt and related projects. Improvements will be made to the system...",
+          "student_name": "Abdulwasiu Apalowo",
+          "code_url": "https://bazzan.hashnode.dev/gsoc22-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VQiBk1ub/"
+        },
+        {
+          "title": "Extend reported statistics on given guests",
+          "short_description": "Since QEMU is gaining introspectable QMP statistics, it will now be possible to fetch more statistics using the QEMU api. This project aims to...",
+          "student_name": "natto1784",
+          "code_url": "https://weirdnatto.in/posts/gsoc-2022.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/d5LqzcfU/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/libvirt/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "QEMU command line generator XML fuzzing",
+          "short_description": "There are a huge number of potential variants of XML documents that can be fed into libvirt. Only a subset of these are valid for generating QEMU...",
+          "student_name": "Rayhan Faizel",
+          "code_url": "https://gitlab.com/Skryptonyte/libvirt-gsoc-finalreport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2xfyY1Q4/"
+        },
+        {
+          "title": "QEMU command line generator XML fuzzing",
+          "short_description": "This project is dedicated to the systematic execution of diverse fuzzing techniques employing an array of specialized fuzzers. Its principal goal is...",
+          "student_name": "Abhiram",
+          "code_url": "https://gitlab.com/-/snippets/3740079",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xUsYfZuv/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://libvirt.org/contact.html#irc",
+  "contact_email": "mailto:libvirt-users@redhat.com",
+  "mailing_list": "https://libvirt.org/contact.html#email",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/#libvirt",
+  "blog_url": "http://planet.virt-tools.org/"
+}

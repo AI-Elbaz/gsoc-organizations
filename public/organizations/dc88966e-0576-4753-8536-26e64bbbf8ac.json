@@ -1,0 +1,152 @@
+{
+  "name": "AsyncAPI",
+  "url": "https://www.asyncapi.com/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/asyncapi/gmnlfvngjaqxjxio.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "web",
+    "api",
+    "cloud",
+    "Architectures"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "go",
+    "typescript",
+    "RAML"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/asyncapi/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Script Stability Enhancement for AsyncAPI Website",
+          "short_description": "The AsyncAPI project, focused on enhancing event-driven architectures, requires stable and reliable website components, particularly the scripts used...",
+          "student_name": "Vishvamsinh Vaghela",
+          "code_url": "https://gist.github.com/vishvamsinh28/d4cdb7170d03c3de3a99c55e9ac737cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8UtMfDDl/"
+        },
+        {
+          "title": "Autofix for Spectral Linting Errors: VS Code Extension",
+          "short_description": "I propose to enhance the AsyncAPI Preview and Spectral VS Code extension by adding an autofix feature for common Spectral linting errors. This...",
+          "student_name": "Esther Xiao",
+          "code_url": "https://medium.com/@yiquxiao/building-an-autofix-feature-for-asyncapi-in-spectral-my-journey-through-google-summer-of-code-2024-95e01ea79992",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/p5XN9YUk/"
+        },
+        {
+          "title": "Elevating AsyncAPI: From Contributor to Maintainer A Pathway to Innovation and Community Growth",
+          "short_description": "My interest in AsyncAPI was sparked by my admiration for the technical ingenuity behind Netflix's ability to provide flawless video streaming...",
+          "student_name": "Yuan Yuan",
+          "code_url": "https://github.com/orgs/asyncapi/projects/50",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KtMVbc3b/"
+        },
+        {
+          "title": "AsyncAPI Generator Maintainership",
+          "short_description": "This is a project to take maintenership of the \"asyncapi/generator\" repository. The proposal invloves the working for Defining potential enhancements...",
+          "student_name": "Mintu Gogoi",
+          "code_url": "https://github.com/orgs/asyncapi/projects/50/views/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YKJePVfS/"
+        },
+        {
+          "title": "AsynAPI: Conference Website Maintainence",
+          "short_description": "The project lies under Postman and AsyncAPI, which is an open-source organisation that is developing an ecosystem around Event Driven Architecture of...",
+          "student_name": "Ashmit Jagtap",
+          "code_url": "https://docs.google.com/document/d/1SNQFVXVGIHGP_SOa7iAgSfRkMsugaEjvbRYE016M91k/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ss5N4XGF/"
+        },
+        {
+          "title": "AsyncAPI: Enhanced Preview Option with Markdown and MermaidJS Diagrams",
+          "short_description": "This project aims to improve how Asyncapi objects are visualized in AsyncAPI by introducing a new preview feature. By combining Markdown and...",
+          "student_name": "Nikhil Kalburgi",
+          "code_url": "https://gist.github.com/nikhilkalburgi/c20a2d01c162eb899519eee1696ed679",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/pinRCdss/"
+        },
+        {
+          "title": "AsyncAPI Website UI Kit Development",
+          "short_description": "AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architecture (EDA). It has a set of tools for...",
+          "student_name": "Ashmit JaiSarita Gupta",
+          "code_url": "https://engineeringwithashmit.hashnode.dev/wrapping-up-gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/S49Gon9W/"
+        },
+        {
+          "title": "Dynamic Open Graph Preview for AsyncAPI Studio",
+          "short_description": "To implement a custom-made preview system that dynamically generates previews when the links of an AsyncAPI Studio document are shared on social...",
+          "student_name": "Ankit Dash",
+          "code_url": "https://gist.github.com/helios2003/854724092a2bfd20e96982e8a152dbd5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AJcg3hZ5/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/asyncapi",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "AsyncAPI Generator Maintainership",
+          "short_description": "The is a project to take maintenership of the \"asyncapi/generator\" repository. The focus is on developing maintainer skills by handling issue...",
+          "student_name": "Adi Boghawala",
+          "code_url": null,
+          "proposal_id": "qt8BcFe0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MsWQPcNn"
+        },
+        {
+          "title": "Implement E2E UI tests for the website critical flows",
+          "short_description": "AsyncAPI currently lacks comprehensive end-to-end (E2E) testing, making it difficult to ensure that critical user flows remain functional across...",
+          "student_name": "Anushka Sharan",
+          "code_url": null,
+          "proposal_id": "JuoydM7y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZohGWe1F"
+        },
+        {
+          "title": "VS Code Extension Maintainership",
+          "short_description": "It focuses on maintaining and improving the AsyncAPI VS Code extension to ensure stability, better usability, and full support for the latest...",
+          "student_name": "Ruchi Pakhle",
+          "code_url": null,
+          "proposal_id": "zbidsT1N",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4l304KrX"
+        },
+        {
+          "title": "Add npm folder for the scripts and add integration tests for this folder",
+          "short_description": "The proposal involves a detailed explanation about how I will tackle the projects tasks. The major tasks are the scripts refactoring, integration and...",
+          "student_name": "Sagar Kori",
+          "code_url": null,
+          "proposal_id": "VAvk94yO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Z37G7QFl"
+        },
+        {
+          "title": "Redesign the AsyncAPI Website and Implement Dark Theme",
+          "short_description": "The website lacks visual consistency, accessibility features, and a dark mode\u2014critical elements for enhancing the experience of developers and...",
+          "student_name": "Shriya Chauhan",
+          "code_url": null,
+          "proposal_id": "DANyatjF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dVEjdU4X"
+        },
+        {
+          "title": "Extending AsyncAPI's Generator Java Templates with Quarkus",
+          "short_description": "AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architecture (EDA). It has a set of tools for...",
+          "student_name": "Shuaib Salad",
+          "code_url": null,
+          "proposal_id": "zHuBK2rI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qDs74iei"
+        },
+        {
+          "title": "AsyncAPI Conference Website UI Kit Development",
+          "short_description": "AsyncAPI Conference Website is an essential part of the AsyncAPI Community, it serves as the gateway for the Conference Speakers, Participant and the...",
+          "student_name": "Tenzin Delek",
+          "code_url": null,
+          "proposal_id": "760L3LOM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/juAST6cE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://asyncapi.com/slack-invite",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/asyncapi/community/blob/master/mentorship/summerofcode/2025/asyncapi-gsoc-ideas-page.md",
+  "guide_url": "https://github.com/asyncapi/community/blob/master/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/AsyncAPISpec"
+}

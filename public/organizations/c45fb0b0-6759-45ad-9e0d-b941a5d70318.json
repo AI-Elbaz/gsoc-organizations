@@ -1,0 +1,218 @@
+{
+  "name": "Jitsi",
+  "url": "https://jitsi.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/jitsi/p3456ygkk7vdq0or-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "real time",
+    "multimedia",
+    "web",
+    "networking",
+    "real time communications",
+    "video conferencing",
+    "WebRTC",
+    "video"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "xmpp",
+    "webrtc",
+    "sip",
+    "react",
+    "react native",
+    "kotlin"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5461033468559360/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integrate transcription into Jitsi Meet",
+          "short_description": "My Google Summer of Code project last year ended up with a functional back-end for transcriptions in libjitsi. This year I want to integrate it into...",
+          "student_name": "NikV",
+          "code_url": "https://nikvaessen.github.io/jekyll/update/2017/08/24/gsoc2017_work_product_submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5750609290461184/"
+        },
+        {
+          "title": "Face and Speech Recognition for Jitsi Meet",
+          "short_description": "Jitsi Meet is a WebRTC JavaScript application, which provides high quality scalable videoconferencing solution. It uses Jitsi Videobridge as the...",
+          "student_name": "Chunxu Tang",
+          "code_url": "https://joshuatang.github.io/gsoc/2017/08/24/GSoC-Summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6060456284258304/"
+        },
+        {
+          "title": "Implementing 'Micro Mode' for Jitsi-Meet-Electron",
+          "short_description": "Sometimes, users might want to use the desktop window while communicating with another person through Jitsi-meet. However, Jitsi-meet-electron does...",
+          "student_name": "HAN GYEOL OH",
+          "code_url": "https://han-gyeol.github.io/gsoc/2017/08/27/GSoC-2017-Warp-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4847379010289664/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6348667246084096/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Jitsi Electron App",
+          "short_description": "Jitsi Electron App\nThis project will involve the following things that are currently needed\n\nImproving Directory Structure\nWelcome Page\nMulti-Domain...",
+          "student_name": "Akshit Kr Nagpal",
+          "code_url": "https://akshitkrnagpal.github.io/jitsi-gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5698998010642432/"
+        },
+        {
+          "title": "Speech-to-Text with Translation",
+          "short_description": "Speech-to-Text with Translation\n\nExtension for encapsulating the json-messages in a separate container in a message stanza\nAbstract translation...",
+          "student_name": "pvgupta24",
+          "code_url": "https://pvgupta24.github.io/2018/08/12/gsoc18-overview/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5002587652751360/"
+        },
+        {
+          "title": "Decentralised client-side recording for Jitsi Meet",
+          "short_description": "Implement decentralised client-side recording mechanism in Jitsi Meet, where each device records and only records the audio of the participant on...",
+          "student_name": "Radium (Tianlei Zheng)",
+          "code_url": "https://github.com/jitsi/jitsi-meet/pull/3223",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4932481102905344/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/jitsi/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Create a React Native SDK for Jitsi Meet",
+          "short_description": "The proposed React Native SDK will expose React Native components with a similar functionality of the already known Jitsi Meet Native SDK classes....",
+          "student_name": "Filip Rejmus",
+          "code_url": "https://filiprejmus.github.io/2022/10/23/gsoc-jitsi.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jcU3VA0S/"
+        },
+        {
+          "title": "JVB Prometheus Stats",
+          "short_description": "The Jitsi Videobridge (JVB) currently supports operational stats via JSON format. The Prometheus text-based format has become a more standard way of...",
+          "student_name": "alexcsf",
+          "code_url": "https://alexcsf.github.io/gsoc2022/2022/08/29/a-summary-of-my-contributions.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CtgpJGaV/"
+        },
+        {
+          "title": "Music bot for Jitsi video conference",
+          "short_description": "People love to listen to music together, for which they would like to start a video conference where they can enjoy music together with their friends...",
+          "student_name": "HarshitJain",
+          "code_url": "https://gist.github.com/theoopsguy/c93e81e46254ed7919fc45cb7bf12dad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gOi77aJQ/"
+        },
+        {
+          "title": "Video background effects for Jitsi Meet mobile",
+          "short_description": "Currently Jitsi Meet supports virtual backgrounds on the web, but not on mobile, since the implementation needs to be done from scratch. This project...",
+          "student_name": "Shivaji Kumar",
+          "code_url": "https://docs.google.com/document/d/1TqM-Ez0uCER3iwrNenMXuy0782rlQjpqdNttjUlJjtA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zBqw3og4/"
+        },
+        {
+          "title": "Multiple Recording Storage Providers",
+          "short_description": "AS MENTIONED IN THE PROJECT FOR LOCAL DEPLOYMENT MANY PEOPLE SELF DEPLOY THE SOFTWARE AND THE GOAL OF THIS PROJECT IS TO MAKE IT EASY FOR THEM TO USE...",
+          "student_name": "agadmin",
+          "code_url": "https://github.com/ag-cdev/gsoc22-jitsi/tree/main/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/A32sJQw9/"
+        },
+        {
+          "title": "Vuejs SDK",
+          "short_description": "According to the state of JS ranking 2021, Vuejs has a 100% awareness rate which is coming from 99% from the previous year. This alone shows that...",
+          "student_name": "berry.sol",
+          "code_url": "https://gist.github.com/geekdanitek/12d01f99f25a0927fe14749db6cf5af2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FIsoXwPH/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/jitsi/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Jitsi Meet Speaker Queue Project",
+          "short_description": "The proposal aims to develop the Jitsi Meet Speaker Queue project as part of the Google Summer of Code program. This project focuses on enhancing...",
+          "student_name": "Mengyuan Liu",
+          "code_url": "https://liumengyuan1997.github.io/projects/GoogleSummerofCode2024@JitsiMeet/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LZtdiY1W/"
+        },
+        {
+          "title": "Jitsi - Log Analyser",
+          "short_description": "The Jitsi Meet Log Analyzer project aims to analyze log files created for different components of Jitsi Meet and develop tools that enable...",
+          "student_name": "Ilayda Nur Dastan",
+          "code_url": "https://gist.github.com/ilaydadastan/1ed05b8e39bcc5a80d33bf8e6ed90aed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Cv4hNcJq/"
+        },
+        {
+          "title": "Enhanced Chat Functionality for Jitsi Meet",
+          "short_description": "This project aims to improve the chat experience in Jitsi Meet by introducing additional features and user interface enhancements. The goal is to...",
+          "student_name": "Patrick He",
+          "code_url": "https://gist.github.com/he-patrick/95ac7a4534c24e7da07db575219d8d09",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zvmYzPzC/"
+        },
+        {
+          "title": "Prometheus Scraper & Grafana Dashboard",
+          "short_description": "Jitsi relies on multiple services across diverse containers, necessitating robust observability tools for effective monitoring. The Prometheus...",
+          "student_name": "Kushang",
+          "code_url": "https://gist.github.com/24kushang/3a218fc644ae28dc60c9a73655952366",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/n0aSZEY9/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/jitsi",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Advanced Audio Settings",
+          "short_description": "This project aims to provide in-meeting settings for advanced audio controls in Jitsi Meet such as Acoustic Echo Cancellation (AEC), Noise...",
+          "student_name": "Hugo Lavernhe",
+          "code_url": null,
+          "proposal_id": "dljIHkdU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UWepEOaO"
+        },
+        {
+          "title": "Audio Switchboard API",
+          "short_description": "This document proposes a detailed architecture on how to implement the Audio Switchboard API. This idea enables numerous features, including...",
+          "student_name": "Kota",
+          "code_url": null,
+          "proposal_id": "ZmMACkGK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aBy319rB"
+        },
+        {
+          "title": "Meeting stats with rtcstats",
+          "short_description": "With rtcstats, it is possible to gather a lot of information about meeting quality and logs. However, it is difficult for self-hosting users to...",
+          "student_name": "Kota Nakagawa",
+          "code_url": null,
+          "proposal_id": "l9smbjEK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4vpZjG1n"
+        },
+        {
+          "title": "lib-jitsi-meet goes TypeScript",
+          "short_description": "The lib-jitsi-meet library a core component of the Jitsi ecosystem, facilitates signaling and media negotiation in Jitsi Meet. While some parts of...",
+          "student_name": "naman9271",
+          "code_url": null,
+          "proposal_id": "bm779X6t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kUscsdYM"
+        },
+        {
+          "title": "Whiteboard Improvements",
+          "short_description": "Jitsi Meet\u2019s current whiteboard\u2014built on an outdated Excalidraw fork and Socket.IO v2.5\u2014only supports basic \u201csmart objects,\u201d lacks file/image upload,...",
+          "student_name": "Yash Gussian",
+          "code_url": null,
+          "proposal_id": "86at6zQP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yzlBjFkK"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://jitsi.org/Development/MailingLists",
+  "contact_email": "mailto:gsoc@jitsi.org",
+  "mailing_list": "https://community.jitsi.org/",
+  "ideas_url": "https://github.com/jitsi/gsoc-ideas/blob/master/2025/README.md",
+  "guide_url": "https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing",
+  "twitter_url": "https://x.com/jitsinews",
+  "blog_url": "https://jitsi.org/news/"
+}

@@ -1,0 +1,394 @@
+{
+  "name": "Google DeepMind",
+  "url": "https://github.com/google-deepmind",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/google-deepmind-sq/cmdhldmexaj4kpms-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Artificial Intelligence",
+  "topics": [
+    "python",
+    "Jax",
+    "AI,",
+    "Gemma"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "typescript",
+    "Jax",
+    "Gemma"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/google-deepmind-sq",
+      "num_projects": 45,
+      "projects": [
+        {
+          "title": "Evaluate Gemini on an Open-Source Benchmark",
+          "short_description": "This project will evaluate Google's Gemini (2.5 Pro, 2.0 Flash) and Gemma (3, CodeGemma) models by extending multiple open-source coding benchmarks...",
+          "student_name": "@anxkhn (Anas Khan)",
+          "code_url": null,
+          "proposal_id": "EpItK0lz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oZbPWaob"
+        },
+        {
+          "title": "Implementing Web Interface For Fine-Tuning Gemma Models Using Gradio",
+          "short_description": "This project is about building a user-friendly web interface using Gradio that makes fine-tuning Gemma models simple and accessible for everyone\u2014even...",
+          "student_name": "Adarsh J. Dubey",
+          "code_url": null,
+          "proposal_id": "t614wIoW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6ep1Zcf2"
+        },
+        {
+          "title": "Improving Gemini Documentation for Open Source Model Providers Promptfoo and Weights & Biases",
+          "short_description": "The project will close the documentation and evaluation gap for Google\u2019s Gemini models by contributing structured onboarding guides and benchmarking...",
+          "student_name": "Adel Muursepp",
+          "code_url": null,
+          "proposal_id": "hT7jYz4L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TwyQFyTr"
+        },
+        {
+          "title": "Evaluate Gemini on an Open-Source Benchmark",
+          "short_description": "This project aims to rigorously evaluate Google\u2019s Gemini multimodal model on real-world tasks. We plan to address the limitations of current...",
+          "student_name": "Amrit Rai",
+          "code_url": null,
+          "proposal_id": "843JCzXC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pPwjYAm4"
+        },
+        {
+          "title": "Enhance Gemini API Integrations in OSS Agents Tools",
+          "short_description": "This project will elevate Gemini API support across widely used open-source agent frameworks like LangChain, LlamaIndex, CrewAI, and...",
+          "student_name": "Andy L",
+          "code_url": null,
+          "proposal_id": "ZdHek9GA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/P4729El9"
+        },
+        {
+          "title": "Gemma Chat Gradio Demo",
+          "short_description": "A majority of the Gemma chat applications on Hugging Face Spaces do not allow the user to adjust generation settings or system prompts, giving the...",
+          "student_name": "AndyC",
+          "code_url": null,
+          "proposal_id": "ZXYgdwPK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xYQnvnz5"
+        },
+        {
+          "title": "Unified Gemini Example Cookbook: Migrating and Modernizing Open-Source Learning Resources",
+          "short_description": "This proposal aims to upgrade and expand existing open-source tutorials and examples to support the new unified Gemini SDKs for JavaScript/TypeScript...",
+          "student_name": "andycandy",
+          "code_url": null,
+          "proposal_id": "3TAT7VoP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5FqYnamd"
+        },
+        {
+          "title": "Develop a Gemini Workspace in Postman",
+          "short_description": "This project aims to create a Gemini Workspace in Postman for interacting with the Gemini API\u2019s and providing a central hub for exploration ,...",
+          "student_name": "Aniket.Saxena",
+          "code_url": null,
+          "proposal_id": "t9QTWJ3P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yrmj0F4J"
+        },
+        {
+          "title": "EchoGem \u2013 Teaching Gemini to Think in Batches by Prioritizing What Matters",
+          "short_description": "EchoGem introduces a novel batching engine designed to answer multiple questions about the same source parallelly to reduce response times heavily....",
+          "student_name": "Aryan Saboo",
+          "code_url": null,
+          "proposal_id": "UMmhqYe5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7pu5jVUL"
+        },
+        {
+          "title": "Gemma Model Fine-tuning UI",
+          "short_description": "Gemma is a lightweight, open-source large language model by Google DeepMind. This project aims to build an intuitive web interface for fine-tuning...",
+          "student_name": "Chen-Hao Wu",
+          "code_url": null,
+          "proposal_id": "TRjmr4Jr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vBF5rvcZ"
+        },
+        {
+          "title": "Creation of a Creative Thinking Benchmark",
+          "short_description": "The goal of this project is to develop a multi-modal and open-source benchmark with which to evaluate Gemini 2.0. Open-source benchmarks are an...",
+          "student_name": "Green Code",
+          "code_url": null,
+          "proposal_id": "KjDhpvqo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TSDUDJNY"
+        },
+        {
+          "title": "Modernizing Gemini SDK Learning Resources: Migration, Tutorials, and Library Updates",
+          "short_description": "This proposal modernizes Gemini SDK learning resources by migrating outdated examples to JavaScript / TypeScript, developing new tutorials, and...",
+          "student_name": "Guan-Ming (Wesley), Chiu",
+          "code_url": null,
+          "proposal_id": "lzjjEpbe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/q59WH6jl"
+        },
+        {
+          "title": "Develop a Gemini Workspace in Postman",
+          "short_description": "This project aims to develop a comprehensive Postman workspace for Google's Gemini API, providing a central hub for exploration, integration, and...",
+          "student_name": "Haibo Yang",
+          "code_url": null,
+          "proposal_id": "5KGw5oNI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lba2Eefe"
+        },
+        {
+          "title": "Comprehensive Benchmark Suite for Evaluating Gemma Models",
+          "short_description": "This project will develop a robust, extensible benchmarking suite designed for Google's Gemma models to address the lack of standardized evaluation...",
+          "student_name": "Hailey Cheng (Cheng Hei Lam)",
+          "code_url": null,
+          "proposal_id": "ZNrwKR4X",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VcLLevh3"
+        },
+        {
+          "title": "Enhancing Gemini Integrations in Open-Source Agent Frameworks",
+          "short_description": "Google DeepMind\u2019s Gemini is a powerful multimodal model that excels at language comprehension, visual processing, and tool interaction. However,...",
+          "student_name": "Indominus",
+          "code_url": null,
+          "proposal_id": "Eyx2CB9z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TB24Ncdi"
+        },
+        {
+          "title": "HALO: Hierarchical Abstraction for Longform Optimization",
+          "short_description": "HALO is an innovative open-source framework designed to optimize Gemini API usage for long-context video analysis. By leveraging hierarchical...",
+          "student_name": "Jeet Dekivadia",
+          "code_url": null,
+          "proposal_id": "pXqpYMT1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5ni7RZ48"
+        },
+        {
+          "title": "Web Interface for Accessible, Configurable Gemma Open Models Fine-Tuning Workflows",
+          "short_description": "Fine-tuning LLMs like Gemma requires deep technical understanding and complex configuration, hindering rapid prototyping and broader application....",
+          "student_name": "Jet Chiang",
+          "code_url": null,
+          "proposal_id": "3WtSL94T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/N2kjH8yi"
+        },
+        {
+          "title": "Gemini API Developer  Workspace in Postman",
+          "short_description": "This project proposes the creation of a comprehensive Postman Workspace tailored for Google\u2019s Gemini API suite. It will offer developers a robust,...",
+          "student_name": "Jevon Mao",
+          "code_url": null,
+          "proposal_id": "3YIezZWd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ntJk8lSk"
+        },
+        {
+          "title": "VS Code Extension to assist with coding powered by Gemini APIs",
+          "short_description": "A VS Code (or JetBrains) extension to provide AI-powered coding assistance using Google\u2019s Gemini API. This tool enhances the developer experience by...",
+          "student_name": "krishnaagrawal",
+          "code_url": null,
+          "proposal_id": "HftEyDW2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/f9mtEUFy"
+        },
+        {
+          "title": "Develop a Gemini Workspace in Postman",
+          "short_description": "The goal of this project is to create a developer-friendly Postman Workspace for interacting with the Gemini API. This workspace will serve as a...",
+          "student_name": "Lorenzo Drudi",
+          "code_url": null,
+          "proposal_id": "ZXZlfTXF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/naa1qGoe"
+        },
+        {
+          "title": "Gemma Garage:  Leveraging Gemma 3 to democratize LLM Fine-tuning",
+          "short_description": "This proposal aims to develop the Gemma LLM Garage, a full-stack interface to manage datasets and fine-tune Gemma models. Its main goal is to...",
+          "student_name": "Lucas Martins",
+          "code_url": null,
+          "proposal_id": "YiB6Pv05",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yT16LTpy"
+        },
+        {
+          "title": "Enhanced Benchmark for Evaluating Intuitive Physics Understanding in Gemma Multimodal Models",
+          "short_description": "This project aims to develop a more rigorous and focused evaluation testbed than that used by Garrido et al. (2025), with the specific goal of...",
+          "student_name": "lucas-maes",
+          "code_url": null,
+          "proposal_id": "XUlM1WdI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/g4DnP02P"
+        },
+        {
+          "title": "ATIA: A BENCHMARK FOR ADVERSARIAL TOOL INFILTRATION IN AGENTS",
+          "short_description": "As multimodal agents become increasingly integrated into real-world applications, ensuring their safe and reliable tool-use behavior is paramount. We...",
+          "student_name": "Matthew Nguyen",
+          "code_url": null,
+          "proposal_id": "BQXduE5D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DcszoT5l"
+        },
+        {
+          "title": "Xarray-JAX Integration Library",
+          "short_description": "This project aims to develop a Python library to support Xarray data (labeled multi-dimensional array library supported by Deepmind) with JAX...",
+          "student_name": "Mikhail Sinitcyn",
+          "code_url": null,
+          "proposal_id": "BRdCMO9L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PvgGDxQh"
+        },
+        {
+          "title": "Enhance Gemini API Integrations in OSS Agents Tools (DeepMind)",
+          "short_description": "This project aims to enhance Gemini API integrations in open-source software (OSS) agent tools, specifically LangChain and LlamaIndex, by addressing...",
+          "student_name": "msaadg",
+          "code_url": null,
+          "proposal_id": "5R8XjDfl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GZnZhIEh"
+        },
+        {
+          "title": "Streamline experiment execution and improve report UI for OSS-Fuzz-Gen",
+          "short_description": "OSS-Fuzz-Gen, a framework using LLMs for fuzz target generation and evaluation by Google, currently has a basic experiment report UI alongside a...",
+          "student_name": "Myan (My Anh) Vu",
+          "code_url": null,
+          "proposal_id": "9WayaXVa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/USNSh5o9"
+        },
+        {
+          "title": "Highly Cost-Efficient Fine-Tuning of Gemma 3 to Develop Test-Time Scaling for Visual/Spatial Tasks.",
+          "short_description": "Fine-tuning MLLMs to achieve test-time scaling and strong reasoning performance for visual/spatial tasks can be very expensive because of the...",
+          "student_name": "Nattaput Namchittai",
+          "code_url": null,
+          "proposal_id": "vJUEo6aY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1E6DMVwi"
+        },
+        {
+          "title": "SciResearchBench: A Multimodal Benchmark for Scientific Reasoning and Discovery",
+          "short_description": "Scientific discovery fundamentally relies on integrating and reasoning over multimodal information\u2014text, diagrams, plots, spectra, microscopy images,...",
+          "student_name": "Nawaf Alampara",
+          "code_url": null,
+          "proposal_id": "IWqpnuHm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xshu9ha6"
+        },
+        {
+          "title": "Batch Prediction with Long Context and Context Caching Code Sample",
+          "short_description": "The aim of this project is to develop a code sample in Python that demonstrates some of the key capabilities of Google's Gemini APIs in regards to...",
+          "student_name": "Phillip Daniel",
+          "code_url": null,
+          "proposal_id": "f0ToTu11",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QwrjzUxs"
+        },
+        {
+          "title": "Reproducibility as Accuracy (RaA) Benchmark",
+          "short_description": "Reproducibility as Accuracy (RaA) is a benchmark which aims to evaluate how effective multimodal AI systems are in preserving information fidelity...",
+          "student_name": "Pranav Agrawal",
+          "code_url": null,
+          "proposal_id": "KbwjZeaR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hoyVl52a"
+        },
+        {
+          "title": "Streamlining Gemini API Development: Building a Postman Workspace for Gemini API\u2019s",
+          "short_description": "When attempting to utilize Google's Gemini APIs, developers face a steep learning curve. The scattered documentation, complex parameter...",
+          "student_name": "Preston Tjandra",
+          "code_url": null,
+          "proposal_id": "X37aY71k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XG33BRy9"
+        },
+        {
+          "title": "Gemma Function-Calling Sandbox for Real-World Applications",
+          "short_description": "AI models with function-calling capabilities can be powerful tools for solving real-world problems, but experimenting with them isn\u2019t always...",
+          "student_name": "Rodrigo Sagastegui",
+          "code_url": null,
+          "proposal_id": "Jtmo9A1p",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/sfMAOShm"
+        },
+        {
+          "title": "GemmaEval: A Comprehensive Automated Benchmark Suite for Gemma",
+          "short_description": "GemmaEval is a comprehensive, automated benchmarking framework designed to evaluate, visualize, and compare Gemma language models against other open...",
+          "student_name": "Ryan Rong",
+          "code_url": null,
+          "proposal_id": "p5fWV2O8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RSjjE3tM"
+        },
+        {
+          "title": "Open-Source Multimodal Benchmarks and Adversarial Robustness Testing for Gemini 2.X models",
+          "short_description": "This project aims to advance the evaluation framework for Google\u2019s Gemini 2.0 and Gemma 3-27B multimodal models by integrating a diverse set of...",
+          "student_name": "Saravan_Kumar",
+          "code_url": null,
+          "proposal_id": "e3GYErmw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8r8SJScX"
+        },
+        {
+          "title": "Batch Prediction Framework: Long Context and Context Caching for Video Analysis",
+          "short_description": "This project develops an efficient framework for analyzing educational video content using the Gemini API. The approach combines optimized batch...",
+          "student_name": "Sean Brar",
+          "code_url": null,
+          "proposal_id": "CBsNfZJM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dv9GeGEi"
+        },
+        {
+          "title": "Improve Evals Documentation for the Gemini APIs",
+          "short_description": "Current manual evaluation methods for LLM-based AI applications are unsustainable and resource-intensive. While using LLMs as judges offers a...",
+          "student_name": "Siddharth Sahu",
+          "code_url": null,
+          "proposal_id": "VCA4Xq5z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IG6jL3Hj"
+        },
+        {
+          "title": "Creating New Agent Architectures for Concordia",
+          "short_description": "The goal of this project is to help strengthen the Concordia framework by developing and open-sourcing a collection of new language model agent...",
+          "student_name": "tesims",
+          "code_url": null,
+          "proposal_id": "WUOmrmBe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j5h3cWWt"
+        },
+        {
+          "title": "Enhance Gemini Support in Open-Source Extensions (Continue.dev/Aider-like)",
+          "short_description": "This project aims to enhance the integration of Google's Gemini AI into open-source IDE extensions, focusing on developing and improving user...",
+          "student_name": "Ton Hoang Nguyen (Bill)",
+          "code_url": null,
+          "proposal_id": "DnISSoZ9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XxTqA1r9"
+        },
+        {
+          "title": "Open-source Gemini Example Apps",
+          "short_description": "The Gemini Cookbook is a set of sample applications and tutorials illustrating different functionalities of the Gemini APIs. The intent of this...",
+          "student_name": "Triyan Mukherjee",
+          "code_url": null,
+          "proposal_id": "my7TbDYU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VhcMTva8"
+        },
+        {
+          "title": "Batch Prediction with Long Context and Context Caching",
+          "short_description": "This project aims to build a production-grade, open-source code sample that showcases batch question answering over long-context inputs using Google...",
+          "student_name": "vanshksingh",
+          "code_url": null,
+          "proposal_id": "JBSmoMLD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NxQQgsTG"
+        },
+        {
+          "title": "Exploring & Extending Function Calling in Gemma",
+          "short_description": "This project aims to: (a) investigate to explore technical possibilities, enhance specifications, and find applications for specific use cases and...",
+          "student_name": "Vedant Kulkarni",
+          "code_url": null,
+          "proposal_id": "f0qK5i6P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rexKK7eu"
+        },
+        {
+          "title": "Multimodal Intelligence: Supercharging Agents with Gemini",
+          "short_description": "This project addresses critical gaps in Gemini API integration across leading agent frameworks (LangChain, LlamaIndex, CrewAI, Composio), where...",
+          "student_name": "Wale",
+          "code_url": null,
+          "proposal_id": "d5pdfZ1E",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/C9emc20S"
+        },
+        {
+          "title": "Evaluate Gemini (Gemma) on an Open-Source Benchmark",
+          "short_description": "This project aims to design a robust, reproducible benchmark for evaluating the Gemini family of multimodal large language models (MLLMs), such as...",
+          "student_name": "Yang Ouyang",
+          "code_url": null,
+          "proposal_id": "Kb59ZEjE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2zNO3rjt"
+        },
+        {
+          "title": "Gemma Model Function Calling Exploration",
+          "short_description": "Enable and document best practices for function calling in Gemma models, similar to the structured tool-use capabilities . In essence, function...",
+          "student_name": "Yashdeep Prasad",
+          "code_url": null,
+          "proposal_id": "oRljnihn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pAzrvoRU"
+        },
+        {
+          "title": "Self-Contained OSS-Fuzz Module for Researchers",
+          "short_description": "This project aims to develop a standalone Python SDK that provides researchers with a streamlined and well-documented API for interacting with...",
+          "student_name": "Zewei Wang",
+          "code_url": null,
+          "proposal_id": "KY5A2UGu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/51tdKuLz"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:webpaige@google.com",
+  "mailing_list": "",
+  "ideas_url": "https://goo.gle/deepmind-gsoc-projects-2025",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/googleaidevs"
+}

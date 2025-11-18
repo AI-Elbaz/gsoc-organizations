@@ -1,0 +1,58 @@
+{
+  "name": "Sigmah",
+  "url": "http://www.sigmah.org",
+  "image_url": "https://lh3.googleusercontent.com/93j_B6_iRuj44vvNZhG5HeC8UY4b74xxz3SfQQF6r0dqq8S3yzv76u1BUM09yp2IzcGu_aWvbWrymJYkaKXTO6oGTDbYGQ",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "humanitarian",
+    "project-management",
+    "hfoss"
+  ],
+  "technologies": [
+    "java",
+    "gwt",
+    "postgresql"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5462098352013312/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Easier Project Model Management",
+          "short_description": "The main objective of this project is to enhance the flexibility and versatility of Sigmah software to meet new requirements and satisfy user...",
+          "student_name": "Nikita",
+          "code_url": "https://github.com/niksj/GsocWork/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6500037328633856/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5019976297611264/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Easier project model management",
+          "short_description": "Most appealing for me: Project idea#2: Easier project model management.\nI am already familiar with customer requirements related to the idea. The...",
+          "student_name": "ALIAKSEI KARPAU",
+          "code_url": "https://gist.github.com/Seal98/1c8c9285c56cce0583f6484987136cfd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5758848111476736/"
+        },
+        {
+          "title": "Full-text search of database text and files, enforcing ACLs and search contexts.",
+          "short_description": "Sigmah has a lot of database text content that can be indexed and searched by keywords, providing a useful capability to users to fetch the actual...",
+          "student_name": "Aditya Adhikary",
+          "code_url": "https://gist.github.com/indianauthority97/56c713f3e51741e206a865f1a996d4f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5763644784640000/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://wiki.sigmah.org/doku.php?id=contributorguide:projectcommunitycommunication#sigmah_irc_channelwhere_we_can_chat_live",
+  "contact_email": "mailto:contact@sigmah.org",
+  "mailing_list": "http://wiki.sigmah.org/doku.php?id=contributorguide:projectcommunitycommunication#sigmah-devthe_fundamental_developer_s_mailing_list",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/sigmah"
+}

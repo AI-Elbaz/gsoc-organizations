@@ -1,0 +1,60 @@
+{
+  "name": "City of Boston",
+  "url": "https://boston.gov/departments/innovation-and-technology",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/city-of-boston/yzgdh5rskmjwxham-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "computer vision",
+    "gis",
+    "civic tech",
+    "analytics"
+  ],
+  "technologies": [
+    "python",
+    "javascript"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/city-of-boston/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Expanded Translation for the City\u2019s 311 App with Machine Learning",
+          "short_description": "Historically, my city's 311 app has only been offered in English, but 37.4% of my fellow Bostonians don't speak English. All residents deserve access...",
+          "student_name": "Mira Yu",
+          "code_url": "https://docs.google.com/document/d/1MdZ9TWvG94GVhwuUbqLtupORQEDXItbPs5sKkEwCxWQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/99XOHXeT/"
+        },
+        {
+          "title": "Requesting City Services via AI-Driven Apps",
+          "short_description": "This proposal aims to revolutionize the City of Boston's 311 service request system by integrating AI-based image recognition. The current process,...",
+          "student_name": "Hengxu Li",
+          "code_url": "https://github.com/williamli-15/311-smart-categorization",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qDd28TM6/"
+        },
+        {
+          "title": "Requesting City Services via AI-Driven Apps",
+          "short_description": "Reimagine the Boston 311 app using AI to process images and text and automatically categorize and file submissions. We envision a future where all a...",
+          "student_name": "WZHANG",
+          "code_url": "https://github.com/OETBoston/ai-image-analysis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YuFVUFYb/"
+        },
+        {
+          "title": "Accessible and Automated City Service Requests: A Machine Learning Approach",
+          "short_description": "Using machine learning, this project will develop an image processing pipeline that takes a user submitted image from Boston\u2019s 311 app and helps the...",
+          "student_name": "Sonnet",
+          "code_url": "https://github.com/OETBoston/ai-for-design",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/E9bexEVr/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "opensource@boston.gov",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/CityofBoston"
+}

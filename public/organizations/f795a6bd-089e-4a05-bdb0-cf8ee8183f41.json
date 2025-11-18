@@ -1,0 +1,33 @@
+{
+  "name": "OpenSIPS",
+  "url": "http://www.opensips.org/",
+  "image_url": "https://lh3.googleusercontent.com/Ze5ErtJ4lVXqkhzHnV0Xmost83K2I8bszR0095A6EDv1zTpc_7VBm8oUj-d3H4W7uYyN0BQfPlfPdgZG7JX4KyQMRLQY_Ss",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "voip",
+    "telephony",
+    "real-time-communications",
+    "sip"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "mysql",
+    "scripting"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4660316541550592/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "http://www.opensips.org/About/Contact",
+  "contact_email": "mailto:team@opensips.org",
+  "mailing_list": "http://www.opensips.org/About/Contact",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/opensips",
+  "blog_url": "https://blog.opensips.org/"
+}

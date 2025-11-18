@@ -1,0 +1,167 @@
+{
+  "name": "aimacode",
+  "url": "https://github.com/aimacode",
+  "image_url": "https://lh3.googleusercontent.com/1czpR5YOvFFyaQmLr6y0uEN4jBKMaXZlKoWN64JsMjkaC5ySGpMoBiu3IO4xYrgNJLxEUO3aiFA_YStmVF5B9YDlSnK-Ol8",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "education",
+    "artificial intelligence",
+    "machine learning",
+    "open education"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "machine learning",
+    "artificial intelligence",
+    "jupyter",
+    "ai",
+    "python 3"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5549354102292480/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implementation of Module on Logic (Chapters 7 \u2013 9) for 4th Edition",
+          "short_description": "The project will mainly consist of providing implementation for algorithms in Java from the book Artificial Intelligence - A Modern Approach. Using...",
+          "student_name": "anurag_rai",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ctgEuHO-g7BeoI-DYjeGZiWE3n2o3aXfSOs0Nwv9v5k/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5695589685657600/"
+        },
+        {
+          "title": "Python Implementations & Visualization of Algorithms in AIMA 4th Edition.",
+          "short_description": "AIMA-Python\u2019s current repo has code for most of the algorithms in the third edition. The proposed project aims to update these implementations and...",
+          "student_name": "reachtarunhere",
+          "code_url": "https://gist.github.com/reachtarunhere/de76d24f8e8bdda4c0e4223a31dfa75c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5724681378201600/"
+        },
+        {
+          "title": "\u2018aima-python\u2019 code to accompany the book \u201cAI: A Modern Approach\u201d",
+          "short_description": "Develop the \"aima-python\" repository by implementing Python code to reflect pseudo-codes from the 4th edition of the book \"AI: A Modern Approach\"...",
+          "student_name": "SnShines",
+          "code_url": "https://docs.google.com/document/d/1U8Nq7ZH-UVxV4hNh51bSDIJe1G6H6LSaO6oZuG4xRb4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5450837216198656/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6119722806411264/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Javascript Visualizations for concepts in the book 'Artificial Intelligence: A Modern Approach'",
+          "short_description": "This project aims to design and implement Javascript visualizations for the following chapters in the aima-javascript repository:\n\nChapter 4, Beyond...",
+          "student_name": "Rishav Agarwal",
+          "code_url": "https://gist.github.com/Rishav159/9b33681a3029c7c930a7c60d4a2aee1e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6430712798380032/"
+        },
+        {
+          "title": "Implementation of Probability and Learning sections of AIMA4E branch",
+          "short_description": "Having a keen interest in the domain of Artificial Intelligence, I would like to propose to write and refactor sections of the code for the AIMA4E...",
+          "student_name": "ngrj93",
+          "code_url": "https://docs.google.com/spreadsheets/d/1TxxjrQ8F9wWvHf7-clnxdzMg9IXPZDKa4HBpXtkq1ek/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5123394546696192/"
+        },
+        {
+          "title": "Implementation and Visualization of algorithms",
+          "short_description": "AIMA-Python\u2019s current repo has code for most of the algorithms in the third edition. The proposed project aims to update these implementations and...",
+          "student_name": "Chipe1",
+          "code_url": "https://gist.github.com/Chipe1/54640f1164f62ad8f3ae8abbe690e82a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6055199244288000/"
+        },
+        {
+          "title": "Work on AIMA-Python",
+          "short_description": "The Python repository includes IPython/Jupyter Notebooks that help the reader understand how the algorithms work and how to use their...",
+          "student_name": "Antonis Maronikolakis",
+          "code_url": "https://gist.github.com/MrDupin/2db92e8b35d26990dff74fb9b1500aa0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6267057364533248/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5756292874371072/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Online Collaborative Platform for AIMA-Exercises",
+          "short_description": "This project aims to design and implement a new platform to host interactive exercises for the fourth edition of the book \u201cArtificial Intelligence: A...",
+          "student_name": "Nalin Chhibber",
+          "code_url": "https://nalinc.github.io/blog/gsoc-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5665683559940096/"
+        },
+        {
+          "title": "Knowledge, Reasoning and Learning",
+          "short_description": "Currently, aima-java is targeted towards the fourth edition of the book. As stated by the mentors, the project is focussed towards developing the...",
+          "student_name": "Samagra Sharma",
+          "code_url": "http://samagrasharma.co/2018/08/10/GSoC-Final-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5356711867056128/"
+        },
+        {
+          "title": "Chapter 5",
+          "short_description": "I want to improve and extend the work I have previously done on chapter 5.",
+          "student_name": "Michael Kawano",
+          "code_url": "https://github.com/aimacode/aima-javascript/wiki/Reflection-on-GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5381580197462016/"
+        },
+        {
+          "title": "Finish AIMA-Python algorithms and add explanatory notebooks",
+          "short_description": "The aim of this project is to finish incomplete implementations of the algorithms in aima-python, and refactor some of the existing ones that do not...",
+          "student_name": "Aman Deep Singh",
+          "code_url": "https://gist.github.com/ad71/7b3596e711b0e66d76cbae1738347b6f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6567364497768448/"
+        },
+        {
+          "title": "Finish aima-python algorithms",
+          "short_description": "Work on algorithms for computing: \nModel-Based-Reflex-Agent, Online-DFS-Agent, Hybrid-Wumpus-Agen, Graphplan, Partial-Order-Planner,...",
+          "student_name": "Maria Ioanna Spyrakou",
+          "code_url": "https://github.com/aimacode/aima-python/issues/947",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5762244625301504/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5844178540429312/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Python algorithm migration",
+          "short_description": "Currently AIMA is transferring from the 3rd to the 4th edition, thus some algorithms are removed, updated or added. To support the release of newest...",
+          "student_name": "Bruce Yang",
+          "code_url": "https://gist.github.com/bruceyoungsysu/4bf16b6f82daa8117a63f14618324fa4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6368141548978176/"
+        },
+        {
+          "title": "GSoC'19 Project Proposal for AIMA-java",
+          "short_description": "Currently, this project is targeted towards the fourth edition of the book. There are plenty of APIs which are yet to be implemented in the AIMA4e...",
+          "student_name": "suyash",
+          "code_url": "https://github.com/aimacode/aima-java/issues/472",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6160168897740800/"
+        },
+        {
+          "title": "Perception - Early Image Processing Operations",
+          "short_description": "An overview and web demonstrations of the steps involved in Canny edge detection.",
+          "student_name": "jasmaa",
+          "code_url": "https://github.com/aimacode/aima-javascript/wiki/Reflection-on-GSoC-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4616837277417472/"
+        },
+        {
+          "title": "Interactive Exercises Platform for AIMACode",
+          "short_description": "An attractive user Interface for Jekyll powered AIMA Exercises portal with added features of bookmarking questions and proposing questions. A new...",
+          "student_name": "Sachin Chopra",
+          "code_url": "https://gist.github.com/sachin10101998/8948e68c839836c3a8407a97516c1225",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5207711296258048/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://aima.cs.berkeley.edu/gsoc.html",
+  "contact_email": "mailto:peter.norvig+gsoc@gmail.com",
+  "mailing_list": "http://aima.cs.berkeley.edu/gsoc.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://aima.cs.berkeley.edu/code"
+}

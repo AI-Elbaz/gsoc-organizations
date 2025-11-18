@@ -1,0 +1,265 @@
+{
+  "name": "Department of Biomedical Informatics, Emory University",
+  "url": "https://med.emory.edu/departments/biomedical-informatics/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/department-of-biomedical-informatics-emory-university/l9jrm7pdhwnkxh3b-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "cloud",
+    "distributed systems",
+    "science and medicine",
+    "data integration",
+    "workflows",
+    "radiology",
+    "distributed system",
+    "data security",
+    "ML/AL"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "tensorflow",
+    "medical imaging",
+    "deeplearning",
+    "javascript",
+    "workflows",
+    "dicom",
+    "bash",
+    "Colab"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6515383720214528/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "CovCT: Development of an AI-based Android Application for distinguishing COVID-19 and Pneumonia using Computed Tomography Images and generate reports for analysis",
+          "short_description": "Development of an AI-based Android Application for distinguishing COVID-19 and Pneumonia using Computed Tomography Images.The project aims at...",
+          "student_name": "Aryan Verma",
+          "code_url": "https://github.com/monjoybme/CovCT_application",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6468381577838592/"
+        },
+        {
+          "title": "A Frontend For Loopsim Framework To Model Workflows With Closed Loops",
+          "short_description": "LoopSim framework aims to facilitate workflows with loops i.e workflows without specific start and end services. LoopSim requires an interface to...",
+          "student_name": "Shubham Awasthi",
+          "code_url": "https://github.com/NISYSLAB/DHGWorkflow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5691749820792832/"
+        },
+        {
+          "title": "A frontend for Niffler DICOM framework for machine learning pipelines and processing workflows",
+          "short_description": "This project aims to develop a potential frontend for Niffler. Niffler is currently a command-line tool where the user has to download it in their...",
+          "student_name": "Nishchal Singi",
+          "code_url": "https://github.com/Emory-HITI/Niffler/tree/dev/modules/frontend",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5467348785430528/"
+        },
+        {
+          "title": "Graphical User Interface for OpenAI Gym",
+          "short_description": "The project is aiming to develop a GUI for the simulations of reinforcement learning so that users, particularly, the researchers can be able to test...",
+          "student_name": "\u00d6zg\u00fcr Kara",
+          "code_url": "https://github.com/NISYSLAB/VisualRLComposer/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5508858906148864/"
+        },
+        {
+          "title": "Tensorflow GUI",
+          "short_description": "Tensorflow GUI will help everyone from beginners to professionals in their day to day work. People who are new to the field of deep learning can use...",
+          "student_name": "Viraj Patel",
+          "code_url": "https://github.com/monjoybme/Neural-Studio",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5871367701921792/"
+        },
+        {
+          "title": "A Testing Framework for Niffler DICOM frameworks for Continuous Integration",
+          "short_description": "This Project aims to develop unit and integration tests for the Niffler modules and implement automated testing using Continuous Integration. The...",
+          "student_name": "Chinmay Vibhute",
+          "code_url": "https://gist.github.com/chinvib66/3c0590b32da92158e2470b7541d4ae12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5955674151845888/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/department-of-biomedical-informatics-emory-university/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "A server environment for the concore framework",
+          "short_description": "This program incorporates server-based deployment workflow files to the server in a secure manner. It allows composing the workflows, aware of the...",
+          "student_name": "amit_62",
+          "code_url": "https://github.com/ControlCore-Project/concore/tree/dev/fri",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fKRyHw43/"
+        },
+        {
+          "title": "Better representations of scanner utilization from DICOM metadata",
+          "short_description": "Niffler enables computing scanner utilization using real-time DICOM metadata extraction. Niffler acquires images from the PACS in real-time...",
+          "student_name": "Nitesh Kumar Kushwaha",
+          "code_url": "https://github.com/Emory-HITI/Niffler/tree/dev/modules/suvpar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gnSbFf5t/"
+        },
+        {
+          "title": "MRIQC- Automated analysis of weekly MRI Quality Control Images for ACR Accreditation",
+          "short_description": "The aim of this project is to automatically detect the key features of MRI phantom images and use those features to determine the state of the...",
+          "student_name": "Praroop Chanda",
+          "code_url": "https://github.com/Emory-HITI/MRIQC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kXYuzMVs/"
+        },
+        {
+          "title": "Adopt DHGWorkflow for concore with a seamless integration",
+          "short_description": "Concore is a framework for closed-Loop peripheral neuromodulation control systems. The CONTROL-CORE protocol, known as concore, allows modular...",
+          "student_name": "Aviral Kumar Goel",
+          "code_url": "https://gist.github.com/Aviral09/217727240b71e55a31c910df2fa3ce29",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6p475fQ1/"
+        },
+        {
+          "title": "A Python based tool for viewing and basic analysis of files with NumPy format",
+          "short_description": "The project is an open-source Python package for loading, analysis, and visualization of electrophysiological data. The package will enable users to...",
+          "student_name": "Nada Ahmed Elmasry",
+          "code_url": "https://github.com/NISYSLAB/numpy-analyzer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Gxre8QcM/"
+        },
+        {
+          "title": "Interactive Multidimensional Visualizations for Eaglescope",
+          "short_description": "Eaglescaope is a framework for creating interactive visualizations and selection dashboards without coding. This project aims to expand upon the...",
+          "student_name": "Yahia Zakaria",
+          "code_url": "https://gist.github.com/yahia3200/b18be28c20daa346ac19956f34e4d825",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gdeHCIGo/"
+        },
+        {
+          "title": "Workflow module for Niffler framework",
+          "short_description": "Niffler provides various modules to handle different DICOM related tasks. Some of the modules are to be executed sequentially by the user to get the...",
+          "student_name": "Pavan_Bellam",
+          "code_url": "https://github.com/Emory-HITI/Niffler/tree/dev/modules/workflows/Nextflow_workflows",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/E7S50Qd9/"
+        },
+        {
+          "title": "Extending the Graphical User Interface for OpenAI Gym",
+          "short_description": "This proposal aims to extend VisualRLComposer, a GUI for OpenAI Gym. The project will be extended by adding: multi environment experimentation which...",
+          "student_name": "Mehul Sinha",
+          "code_url": "https://gist.github.com/mehulsinha73/620974c0cb82daa0857028c2b18228ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TiVdtMeB/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/department-of-biomedical-informatics-emory-university",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "A Methodology To Categorize Exam Series",
+          "short_description": "DICOM is the global standard for managing and exchanging medical images and data but lacks a consistent series-naming scheme. I will use machine...",
+          "student_name": "Himanshu Kumar1",
+          "code_url": "https://github.com/sharmalab/escMR",
+          "proposal_id": "YispPD6d",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oC59dZpT"
+        },
+        {
+          "title": "Develop a drag-and-drop GUI for deep learning experimentation",
+          "short_description": "The aim is to develop a desktop application (GUI) that allows users to run their Deep Learning experiments that is integrated with PyTorch library...",
+          "student_name": "Ioannis Valasakis",
+          "code_url": "https://github.com/wizofe/gsoc23-emory",
+          "proposal_id": "R5G2qqq2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AWlAnAvo"
+        },
+        {
+          "title": "Developing Contribute Action",
+          "short_description": "Concore is a lightweight framework for closed-loop peripheral neuromodulation control systems. Control-editor is a React-based frontend environment...",
+          "student_name": "Parteek Goyal",
+          "code_url": "https://github.com/parteekcoder/concore/wiki",
+          "proposal_id": "WGvKAGmZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vZSLKQsL"
+        },
+        {
+          "title": "An Integrated CONTROL-CORE experience",
+          "short_description": "At present, all the Concore methods such as build, debug, run etc. are executed from CLI by user and Concore-editor does not serve the functionality...",
+          "student_name": "Rahul Jagwani",
+          "code_url": "https://github.com/Rahuljagwani/concore-editor/wiki/GSoC-2023-Department-of-Biomedical-Informatics,-Emory-University:-An-Integrated-CONTROL%E2%80%90CORE-Experience",
+          "proposal_id": "Nwx0PnzK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cRrCc5M4"
+        },
+        {
+          "title": "A real-time computing support for concore.",
+          "short_description": "To achieve real-time execution in Concore, one approach is to optimize the existing codebase. However, implementing the system with straightforward...",
+          "student_name": "Shivang Vijay",
+          "code_url": "https://shivangvijay.github.io/GSoC/index.html",
+          "proposal_id": "XOrhQuuk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZrOpJIc7"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/department-of-biomedical-informatics-emory-university/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "A Framework for Unsupervised Deep Clustering",
+          "short_description": "Not only can clustering in itself be a useful task to solve, features learnt from deep clustering algorithms can also be used in downstream tasks...",
+          "student_name": "timisanjo",
+          "code_url": "https://drive.google.com/file/d/1I43CDyhHcYV3pA17fjwOc-gwuG9UfSXl/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HiwOQ34D/"
+        },
+        {
+          "title": "A GUI of Foundational Model Toolbox for Image Segmentation",
+          "short_description": "This proposal highlights some key points and expected results of the project. The project proposes developing an open-source Graphical User Interface...",
+          "student_name": "Sarper",
+          "code_url": "https://drive.google.com/drive/folders/18KPx7bOTWP2I6EzGHXeyJzl2j8gE7vwG?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/c5wxwLza/"
+        },
+        {
+          "title": "Development of an Open-Source EEG Foundation Model",
+          "short_description": "The project's core objective is to develop an open-source foundational model for EEG data analysis, using deep learning techniques and extensive...",
+          "student_name": "Shreyas S",
+          "code_url": "https://github.com/Zhreyu/EEG-Foundational-Model",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RcMyRlLr/"
+        },
+        {
+          "title": "Development of a Graphical User Interface for Time Series Toolbox Using Deep Learning",
+          "short_description": "Time series data has wide application across numerous sectors including healthcare, finance, and environmental studies, offering profound insights...",
+          "student_name": "Mete",
+          "code_url": "https://github.com/metesaka/NeuroweaverGUI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/C9kbqHtb/"
+        },
+        {
+          "title": "Python Expansion of the Open Source Electrophysiological Toolbox",
+          "short_description": "This project aims to enhance the Open Source Electrophysiological Toolbox (OSET) by expanding its Python capabilities. The goal is to create a...",
+          "student_name": "Muhammad Ubadah Tanveer",
+          "code_url": "https://docs.google.com/document/d/1cfVFNZGfsSP7vj3g7TFCL9i90seujQ9SBnbujxDh4-U/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5g7xbg4v/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/department-of-biomedical-informatics-emory-university",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Securing Linux Storage with ACLs: Open-Source Web Management Interface for Enhanced Data Protection",
+          "short_description": "Institutional departments, such as the Biomedical Informatics (BMI) Department of Emory University School of Medicine, manage vast amounts of data,...",
+          "student_name": "_Aditya_Patil_",
+          "code_url": null,
+          "proposal_id": "byNWkCyC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FFAXDtDw"
+        },
+        {
+          "title": "Adaptive Closed-Loop Neuromodulation: A Reinforcement Learning Framework Using Synthetic EEG Data",
+          "short_description": "This project aims to develop adaptive, personalized neuromodulation therapies for conditions like epilepsy by integrating synthetic EEG data from The...",
+          "student_name": "Amirhossein Afkhami Ardekani",
+          "code_url": null,
+          "proposal_id": "AaaS989y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JkPFPa6X"
+        },
+        {
+          "title": "Leveraging Diffusion Models to Enhance Segmentation Models for GI Tract Disorder Evaluation",
+          "short_description": "Acquiring neural fMRI and abdominal MRI data is inherently expensive and time-consuming, significantly limiting the volume of datasets available for...",
+          "student_name": "Miguel Aenlle",
+          "code_url": null,
+          "proposal_id": "GrZyZWMU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QB45Mcpx"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://bit.ly/emory-bmi",
+  "contact_email": "mailto:mzeydab@emory.edu",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/NISYSLAB/Emory-BMI-GSoC/?tab=readme-ov-file#list-of-ideas",
+  "guide_url": "https://github.com/NISYSLAB/Emory-BMI-GSoC/blob/main/CONTRIBUTOR-GUIDANCE.md",
+  "twitter_url": "https://twitter.com/emorybmi"
+}

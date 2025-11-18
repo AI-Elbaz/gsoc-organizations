@@ -1,0 +1,49 @@
+{
+  "name": "CVAT",
+  "url": "https://www.cvat.ai",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cvat/mqacwujl7ascwcsu.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "machine learning",
+    "computer vision",
+    "ai",
+    "deep learning",
+    "data"
+  ],
+  "technologies": [
+    "python",
+    "django",
+    "react",
+    "kubernetes",
+    "typescript"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/cvat/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Keyboard Shortcuts Customization",
+          "short_description": "Efficient data annotation is paramount in various fields. However, current annotation tools often lack flexibility in terms of input customization,...",
+          "student_name": "tahamukhtar20",
+          "code_url": "https://gist.github.com/tahamukhtar20/be12790f281330a6d391a6d7259cef42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/x1NWDDY0/"
+        },
+        {
+          "title": "Quality Control: Consensus",
+          "short_description": "Problems faced while developing labelled data: 1. Annotations made by a single person can include their biases into the data and eventually into the...",
+          "student_name": "Vidit Agarwal",
+          "code_url": "https://docs.google.com/document/d/1omVv4voY1gHswAVHmSnQPmPecjtDWJai3cTcDyNRB1c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/g3G1Wm2J/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "cvat-gsoc-2025@cvat.ai",
+  "mailing_list": "https://groups.google.com/g/cvat-gsoc-2025",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://www.cvat.ai/blog"
+}

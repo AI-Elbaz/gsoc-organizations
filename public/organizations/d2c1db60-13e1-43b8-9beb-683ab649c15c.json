@@ -1,0 +1,98 @@
+{
+  "name": "libcamera",
+  "url": "https://libcamera.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/libcamera/p4cgbqxrhkw3igiv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "camera",
+    "image processing",
+    "image prcessing"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "linux kernel",
+    "qt5",
+    "gstreamer",
+    "v4l2"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5084072715485184/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Multistream support in GStreamer element",
+          "short_description": "The GStreamer libcamera element allows libcamera to be used in GStreamer pipelines. libcamera supports simultaneous streaming, for example having...",
+          "student_name": "Vedant Paranjape",
+          "code_url": "https://github.com/VedantParanjape/gsoc2021/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5663092121272320/"
+        },
+        {
+          "title": "A Software ISP Implementation with OpenCL",
+          "short_description": "Camera imaging pipeline is typically embedded in a camera hardware making it difficult to customize the imaging algorithm for developers.The project...",
+          "student_name": "Siyuan Fan",
+          "code_url": "https://starkfan007.github.io/Gsoc-summit-work/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6288332924911616/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/libcamera/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improve GStreamer element to add support for properties.",
+          "short_description": "The GStreamer libcamera element lacks support for properties like colorimetry, framerate and other properties which affect how the camera or stream...",
+          "student_name": "Rishikesh Donadkar",
+          "code_url": "https://rishi27-dot.github.io/final_report/home/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WyqdLcia/"
+        },
+        {
+          "title": "A GPU-based Software ISP Implementation",
+          "short_description": "Most Image Signal Processors (ISPs) are currently implemented in hardware, making it difficult to customize the Imaging algorithms for developers....",
+          "student_name": "Kunal Agarwal",
+          "code_url": "https://kunala18.github.io/Gsoc_22_Final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gYJX2EEa/"
+        },
+        {
+          "title": "Adding controls support to libcamera test applications",
+          "short_description": "Currently libcamera's ability to set control over each frame and stream is not reflected by the test applications. We don't have any way to set the...",
+          "student_name": "DevUt",
+          "code_url": "https://gist.github.com/022f21b117a6617e4c2c07cbc7d2b3ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OfUnanaC/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/libcamera",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Integrating libcamera into OpenCV",
+          "short_description": "This project aims to move the current V4L2 implementation of accessing and controlling cameras in OpenCV to libcamera, this will allow for better...",
+          "student_name": "Advait Dhamorikar",
+          "code_url": "https://advait-0.github.io/GSoC23/Final-Report/",
+          "proposal_id": "1dur7zFn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lKttObKa"
+        },
+        {
+          "title": "Adding UVC hardware timestamp support",
+          "short_description": "Adding UVC hardware timestamp support to libcamera by replacing the timestamp sampled by the linux kernel when it completes a buffer. The goal would...",
+          "student_name": "Gabrielle George",
+          "code_url": "https://www.gsocuvctimestamps2023.com",
+          "proposal_id": "jhi8NNrb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/V95FyCND"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://webchat.oftc.net/?channels=libcamera",
+  "contact_email": "mailto:paul.elder@ideasonboard.com",
+  "mailing_list": "https://lists.libcamera.org/listinfo/libcamera-devel",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/libcamera",
+  "blog_url": "https://libcamera.org/blog/"
+}

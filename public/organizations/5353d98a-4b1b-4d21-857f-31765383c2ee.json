@@ -1,0 +1,137 @@
+{
+  "name": "Keploy",
+  "url": "https://keploy.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/keploy/txoec8qr8fyegtmv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "API Testing",
+    "No code platform",
+    "Dev Tool",
+    "Functional Testing",
+    "Mock and Stubs Generation",
+    "AI/ML",
+    "AI Testing Agent"
+  ],
+  "technologies": [
+    "java",
+    "golang",
+    "node.js",
+    "MERN",
+    "epbf",
+    "python",
+    "ai"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/keploy",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Keploy Typescript/Javascript SDK",
+          "short_description": "My goal is to enhance the Keploy Typescript SDK's versatility and accommodate a wider range of developers and use cases. I aim to make it more...",
+          "student_name": "Hermione Dadheech",
+          "code_url": "https://gist.github.com/Hermione2408/5ab360ca77c28ef6a38ad5a45316b755",
+          "proposal_id": "GODtc7bn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ESka3AAp"
+        },
+        {
+          "title": "Keploy CLI Refactoring",
+          "short_description": "This project aims to improve Keploy CLI workflow to make the user experience smooth. Since the UI has been deprecated, we need to make sure that the...",
+          "student_name": "Mahfooz Alam",
+          "code_url": "https://github.com/aerowisca/GSoC-2023-Report/blob/main/GSoC_2023_Report.md",
+          "proposal_id": "BlmlfoAf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/m3NRu5wa"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/keploy/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Cross Platform Extensions : Keploy IDE Integration",
+          "short_description": "The absence of a concrete platform to integrate Keploy to the developer environment, which is an extreme necessity for a testing tool meant to work...",
+          "student_name": "Akash_Singh04",
+          "code_url": "https://gist.github.com/Akash-Singh04/9aa25a2bef7121a78dc80dc4cc5f5d20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XKj0YXC7/"
+        },
+        {
+          "title": "Implementing a React UI Console for Test Generation demonstration",
+          "short_description": "Writing unit test cases can be challenging and sometimes not an efficient process. Keploy creates backend API tests with built-in-mocks or stubs by...",
+          "student_name": "Aditya-eddy",
+          "code_url": "https://github.com/Aditya-eddy/GSOC_REPORT/blob/master/Gsoc_2024_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/65M3jBMd/"
+        },
+        {
+          "title": "Multiple services using keploy (API chaining)",
+          "short_description": "-Integration of Contract Testing into Keploy, -Implement functionality within Keploy for recording tests and mocks for all related microservices...",
+          "student_name": "Ahmed Lotfy",
+          "code_url": "https://github.com/AhmedLotfy02/My-GSoC-Journey",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AaKiskqW/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/keploy",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "TestSuite Idempotency Checker",
+          "short_description": "Keploy currently needs an automated way to detect idempotency violations and handle noisy fields in test cases. This leads to inconsistencies in test...",
+          "student_name": "Ahmed Mamdouh",
+          "code_url": null,
+          "proposal_id": "E7zRuZHf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BzgWKdu5"
+        },
+        {
+          "title": "AI-Powered Open-Source Code Review Agent (Using any CI/CD workflow)",
+          "short_description": "The project aims to develop an intelligent code review agent that integrates with GitHub and other version control systems (VCS). This tool will...",
+          "student_name": "Gaurav ( euclid )",
+          "code_url": null,
+          "proposal_id": "ZNHpOyPt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lViOdKco"
+        },
+        {
+          "title": "API contract matching - Adding Features and Platform support",
+          "short_description": "The project tackles inefficiencies in API contract testing for microservices, focusing on schema management, validation, and consistency across...",
+          "student_name": "Harsh Vashishtha Sharma",
+          "code_url": null,
+          "proposal_id": "XkVHtju5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xqiYOsI7"
+        },
+        {
+          "title": "OSS Code Indexer for Efficient Retrieval",
+          "short_description": "Keploy - OSS Code Indexer for Efficient Retrieval. (Project-2) Problem solved - Current AI models struggle to generate high-quality Unit Tests for...",
+          "student_name": "Sparshh",
+          "code_url": null,
+          "proposal_id": "HsWu1rF1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/wIsioRXL"
+        },
+        {
+          "title": "Keploy Dashboard - Modular Metrics Visualization Platform",
+          "short_description": "Building upon a comprehensive Proof of Concept (POC) [https://poc-frontend-beta.vercel.app/] developed before the GSoC application, this proposal...",
+          "student_name": "Swapnendu Banerjee",
+          "code_url": null,
+          "proposal_id": "OGQdqSf9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4QMWwr8y"
+        },
+        {
+          "title": "Improve Keploy's Blogging Platform",
+          "short_description": "The Keploy Blog serves as a hub for tutorials, case studies, and community updates, helping developers understand and engage with Keploy more...",
+          "student_name": "Yaten Dhingra",
+          "code_url": null,
+          "proposal_id": "aL145jek",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XxAVrIBL"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/keploy/shared_invite/zt-2poflru6f-_VAuvQfCBT8fDWv1WwSbkw",
+  "contact_email": "mailto:hello@keploy.io",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/keploy/gsoc/tree/main/2025",
+  "guide_url": "https://github.com/keploy/keploy/blob/main/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/Keployio",
+  "blog_url": "https://keploy.io/blog"
+}

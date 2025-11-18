@@ -1,0 +1,200 @@
+{
+  "name": "Mixxx",
+  "url": "https://mixxx.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mixxx/ivlj1kl8jabpmfs9-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "music",
+    "real time",
+    "audio",
+    "dj",
+    "dsp",
+    "art",
+    "metadata",
+    "beatdetection",
+    "streaming",
+    "music information retrieval"
+  ],
+  "technologies": [
+    "opengl",
+    "c++",
+    "qt",
+    "c++11",
+    "audio",
+    "midi",
+    "hid",
+    "music",
+    "real-time",
+    "javascript",
+    "deep learning",
+    "pytorch",
+    "onnx"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5027086615969792/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Library Layout Redesign",
+          "short_description": "This proposal consist of the implementation of of a library layout redesign with tabs for special purpose. The Qt Treeview will be changed by a...",
+          "student_name": "jmigual",
+          "code_url": "https://github.com/mixxxdj/mixxx/pull/991",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6095341350813696/"
+        },
+        {
+          "title": "Key mapping GUI",
+          "short_description": "Key mapping GUI\nThe goal of this project is to make it as easy as possible for the users of Mixxx to customize the\nkeyboard mapping to their taste,...",
+          "student_name": "Tomasito665",
+          "code_url": "https://gsoc-mixxx-keymappinggui.blogspot.nl/2016/08/project-conclusion.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6306208273137664/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5298974017716224/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Crate Enhancements",
+          "short_description": "-Create hierarchical structured crates [https://bugs.launchpad.net/mixxx/+bug/671632]\n-Add search filters...",
+          "student_name": "gramanas",
+          "code_url": "https://mixxx.org/wiki/doku.php/crate_enhancements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6536228870553600/"
+        },
+        {
+          "title": "Multi-broadcasting for Mixxx",
+          "short_description": "Implement several features potentially useful for users willing to broadcast live with Mixxx :\n\nSaving server credentials and connection info in one...",
+          "student_name": "Palakis",
+          "code_url": "https://www.mixxx.org/wiki/doku.php/multi-broadcasting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5942841154994176/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5431834603159552/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Live metadata output",
+          "short_description": "In this project I will try to write a codebase to allow new scrobblers or listeners to be attached to Mixxx more easily. I will also write a proof of...",
+          "student_name": "davidhm",
+          "code_url": "https://mixxx.org/wiki/doku.php/live_metadata_output",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4893314088173568/"
+        },
+        {
+          "title": "Effects Customizations",
+          "short_description": "Refactor Mixxx's Effects and implement import/export effect chain presets.",
+          "student_name": "Kshitij Gupta",
+          "code_url": "https://www.mixxx.org/wiki/doku.php/effects_customization",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5815494703579136/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5847122345197568/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Measures, Downbeats, Bars and Phrases",
+          "short_description": "The project aims at improving the audio track analysis features to compute information such as downbeat, time signature, measures, and phrases....",
+          "student_name": "Harshit Maurya",
+          "code_url": "https://github.com/mixxxdj/mixxx/wiki/Measures-Downbeats-Bars-And-Phrases",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6461287703248896/"
+        },
+        {
+          "title": "Mixxx Macros",
+          "short_description": "There are moves through which a DJ expresses himself - and there are many other, sometimes tedious tasks that need to be done as groundwork. Instead...",
+          "student_name": "xerus",
+          "code_url": "https://github.com/mixxxdj/mixxx/pull/2989",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6055342359707648/"
+        },
+        {
+          "title": "Downbeats and phrase detection",
+          "short_description": "For a seamless blending of tracks it is required not only aligned beats and downbeats, but also that the phrases are matched. Currently, Mixxx can...",
+          "student_name": "Cristiano Lacerda",
+          "code_url": "https://github.com/mixxxdj/mixxx/pull/2930",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5931194618740736/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mixxx/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Track Suggestion Feature",
+          "short_description": "There is a big problem for every DJ. Which is very specific. After playing hours of music, it shows up. \u201cWhat to play next?\u201d. What if we had a track...",
+          "student_name": "Fatih Emre",
+          "code_url": "https://mixxx.org/news/2022-09-26-gsoc-final-blog-fatih-emre-yildiz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yjp04qzr/"
+        },
+        {
+          "title": "Pitch Shift effect and Group Delay handling",
+          "short_description": "The project implements the Pitch Shift effect for the Mixxx DJ Software Application. The Pitch Shift effect raises or lowers the original pitch of an...",
+          "student_name": "David Chocholat\u00fd",
+          "code_url": "https://mixxx.org/news/2022-09-08-gsoc-final-blog-david-chocholaty/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MOG4RCQG/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/mixxx/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Harmonic Mixing Enhancements",
+          "short_description": "This project makes selecting songs from the library a faster and enjoyable process, specially for Harmonic Mixing with these new features: 1) Color...",
+          "student_name": "Daniel Fernandes",
+          "code_url": "https://mixxx.org/news/2024-08-24-gsoc-project-report-daniel-fernandes/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7McCIBjs/"
+        },
+        {
+          "title": "Multi channel mixing support (STEMS)",
+          "short_description": "Lately various AI driven algorithms have been published that are able to extract single instrument recordings (STEM) from an audio track file. Native...",
+          "student_name": "Antoine C",
+          "code_url": "https://mixxx.org/news/2024-08-26-stem-mixing/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/0eihIIrY/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/mixxx",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Auto Completion for the Genre track metadata",
+          "short_description": "Mixxx currently allows assigning a single free-text genre to each track, which often leads to inconsistencies such as duplicate or fragmented...",
+          "student_name": "Antonio Giordano",
+          "code_url": null,
+          "proposal_id": "pqo6cM0f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/sHcUR4s0"
+        },
+        {
+          "title": "Resample options for Mixxx",
+          "short_description": "Mixxx uses a linear interpolation when scratching. This is blazing fast, but the sound can be improved by providing more accurate resampling...",
+          "student_name": "Armaan_Chowfin",
+          "code_url": null,
+          "proposal_id": "T4sKTktE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VUpg9Wv5"
+        },
+        {
+          "title": "Converting Demucs v4 (Hybrid Transformer) AI model to ONNX format",
+          "short_description": "Demucs v4 is a state-of-the-art open-source music source separation model developed by Antoine D\u00e9fossez. While it provides exceptional quality in...",
+          "student_name": "dhunstack",
+          "code_url": null,
+          "proposal_id": "4OjxIcl5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lRQpeA7K"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://mixxx.zulipchat.com/",
+  "contact_email": "mailto:daschuer@mixxx.org",
+  "mailing_list": "https://www.mixxx.org/contact",
+  "ideas_url": "https://github.com/mixxxdj/mixxx/wiki/GSOC-2025-Ideas",
+  "guide_url": "https://github.com/mixxxdj/mixxx/wiki/Gsocadvice",
+  "twitter_url": "https://twitter.com/mixxxdj",
+  "blog_url": "https://mixxx.org/news/"
+}

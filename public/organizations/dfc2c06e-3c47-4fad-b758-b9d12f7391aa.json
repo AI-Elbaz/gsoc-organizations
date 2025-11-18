@@ -1,0 +1,164 @@
+{
+  "name": "XMPP Standards Foundation",
+  "url": "https://xmpp.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/xmpp-standards-foundation/1qfi0ofcfmb8qin8-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "instant messaging",
+    "communications",
+    "social",
+    "chat",
+    "messaging",
+    "realtime communications",
+    "machine-to-machine",
+    "internet of things",
+    "xmpp",
+    "realtime communication",
+    "voip",
+    "WebRTC",
+    "Jingle",
+    "Real-Time Communication"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "c++",
+    "xmpp",
+    "erlang",
+    "lua",
+    "asynchronous i/o",
+    "python 3",
+    "vala",
+    "webrtc",
+    "go",
+    "swift",
+    "dart",
+    "Objective C",
+    "gtk"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6062681614188544/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Certificate management support for Spark",
+          "short_description": "The aim of the project is to provide to the Spark's users a tool for managing their Public Key Certificates. Currently the users can only decide if...",
+          "student_name": "Pawe\u0142 Alameyo \u015acibiorski",
+          "code_url": "https://alameyo.github.io/GSoC2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6661234564792320/"
+        },
+        {
+          "title": "OMEMO encrypted Jingle implementation",
+          "short_description": "This is my proposal to implement Jingle file transfer in Smack utilizing my OMEMO implementation I made earlier this year as part of my bachelors...",
+          "student_name": "vanitasvitae",
+          "code_url": "https://vanitasvitae.github.io/GSOC2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6702837899722752/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5008573141090304/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Poezio: Infinite scrolling using MAM and General Improvement",
+          "short_description": "This project intends to improve the overall functionality of Poezio by implementing \u201cInfinite scrolling using Message Archive Management (MAM)\u201d and...",
+          "student_name": "Madhur Garg",
+          "code_url": "https://gist.github.com/Madhur96/98cde10cd5f9d868b8dc22cb06b2e9c2#file-gsoc_19-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6478437231886336/"
+        },
+        {
+          "title": "Prosody Plugin Installer",
+          "short_description": "A tool to manage Prosody's community modules. It allows to install, remove, update and list plugins. A mercurial repository is developed in order to...",
+          "student_name": "Jo\u00e3o Duarte",
+          "code_url": "https://gsoc-prosody-2019.blogspot.com/2019/08/final-gsoc-report-prosody-plugin.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4544465266540544/"
+        },
+        {
+          "title": "Jingle File Transfer Support for Dino",
+          "short_description": "In addition to the already implemented file transfer via HTTP upload, add support for peer-to-peer file transfers via Jingle.",
+          "student_name": "hrxi",
+          "code_url": "https://hrxi.github.io/gsoc/blog/the-end",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6548707745464320/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5153224375402496/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Websocket support IgniteRealtime Smack",
+          "short_description": "XMPP RFCs and Specifications define connection establishment over TCP, BOSH and websockets. Smack currently establishes connection between Server and...",
+          "student_name": "Aditya Borikar",
+          "code_url": "https://adiaholic.github.io/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6299365221597184/"
+        },
+        {
+          "title": "In-Band Real Time Texting",
+          "short_description": "This project aims to implement Real-Time Texting in Dino so as to increase the interactiveness of traditional texting by previewing message to the...",
+          "student_name": "wolfie_anmol",
+          "code_url": "https://github.com/dino/dino/pull/895",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5173650568773632/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/xmpp-standards-foundation/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "More flexibility in dino file transfers",
+          "short_description": "Resource-wise, messenger applications tend to be on the lightweight side of the spectrum. This drastically changes when file transfers are added to...",
+          "student_name": "Patiga",
+          "code_url": "https://github.com/dino/dino/pull/1275",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/z9ixHTWZ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/xmpp-standards-foundation",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Windows Support for Dino",
+          "short_description": "This project aims to add Windows support to the previously Linux-only XMPP client Dino. Since Windows is installed on approximately 75% of all...",
+          "student_name": "hrxi",
+          "code_url": null,
+          "proposal_id": "yvdwSFWX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ygGSIiHc"
+        },
+        {
+          "title": "Implement group chats in Moxxy",
+          "short_description": "Group chats are an integral component of instant messaging clients used in everyday communication. However, Moxxy, currently lacks support for group...",
+          "student_name": "Ikjot Singh Dhody",
+          "code_url": "https://moxxy.org/posts/2023-08-20-Moxxy-MUC-GSoC-Final-Report.html",
+          "proposal_id": "tUhDHzKw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UK3oE0f9"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/xmpp-standards-foundation/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Modern Monal onboarding and Media gallery",
+          "short_description": "Currently, when new users open the app, a registration/signup page opens. Ideally there should be a onboarding process where users are introduced to...",
+          "student_name": "Vaidik_Dubey",
+          "code_url": "https://github.com/monal-im/Monal/pulls?q=is%3Apr+author%3Athevaidik+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vXwKSSjP/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://xmpp.org/chat#converse/room?jid=gsoc@muc.xmpp.org",
+  "contact_email": "xsfcommteam@protonmail.com",
+  "mailing_list": "https://mail.jabber.org/postorius/lists/gsoc.xmpp.org/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://fosstodon.org/@xmpp",
+  "blog_url": "https://xmpp.org/blog/"
+}

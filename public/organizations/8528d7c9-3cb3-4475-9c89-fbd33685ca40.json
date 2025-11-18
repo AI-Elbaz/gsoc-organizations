@@ -1,0 +1,73 @@
+{
+  "name": "Robolectric",
+  "url": "http://robolectric.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/robolectric/lazlu9me0dgu60vq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "testing",
+    "mobile"
+  ],
+  "technologies": [
+    "android",
+    "java",
+    "jvm",
+    "asm"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/robolectric/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Robolectric\u2019s code quality",
+          "short_description": "Robolectric uses error-prone to check the common code quality problems. Currently, there are many warnings/recommendations left to fix, this topic...",
+          "student_name": "Sagar Khurana",
+          "code_url": "https://hellosagar.hashnode.dev/google-summer-of-code-2022-robolectric",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Hnrqbam3/"
+        },
+        {
+          "title": "Switching to Conscrypt as the default security provider",
+          "short_description": "Switching to Conscrypt, simulating the security APIs becomes much more high-fidelity and it achieves the goal of Robolectric to make it similar to an...",
+          "student_name": "Umesh Singh",
+          "code_url": "http://robolectric.org/blog/2022/09/06/Umesh-GSoC-on-ConscryptMode/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EzEicWoN/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/robolectric/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Enhancing Robolectric for Comprehensive Dynamic Feature Module and AAB Testing Support",
+          "short_description": "With Google Play's adoption of the AAB format as the standard publishing format, optimizing app delivery has become more efficient, allowing apps to...",
+          "student_name": "shashankkumar7",
+          "code_url": "https://medium.com/@shashankkumar45556/gsoc-2024-work-summary-dynamic-feature-support-in-robolectric-104da06f9504",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Oqji84Q5/"
+        },
+        {
+          "title": "GSoC2024 - Replacing looseSignatures - Project proposal",
+          "short_description": "Robolectric is a unit testing framework for Android, which supports running Android tests in JVM instead of physical device or emulator. Robolectric...",
+          "student_name": "Wenyi Shi",
+          "code_url": "https://docs.google.com/spreadsheets/d/1oz-pS6hsPWBsa2nSwYXgRFMzZlAT4Frh-uK_-slhKys/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Mlprjv9j/"
+        },
+        {
+          "title": "Enhancing Robolectric for Improved Testing with Better Activity Contexts",
+          "short_description": "This project aims to address a critical gap in Robolectric's testing framework related to Activity context handling. Currently, Robolectric utilizes...",
+          "student_name": "DevashishBasu",
+          "code_url": "https://gist.github.com/Devashishbasu/791c3844b68e232121345a40eaec7033",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/j2fid0Nr/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/robolectric/robolectric/discussions",
+  "contact_email": "hoisie+gsoc@google.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/robolectric",
+  "blog_url": "http://robolectric.org/blog/"
+}

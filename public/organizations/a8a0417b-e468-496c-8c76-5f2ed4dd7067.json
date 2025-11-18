@@ -1,0 +1,164 @@
+{
+  "name": "Radare",
+  "url": "https://radare.org/",
+  "image_url": "https://lh3.googleusercontent.com/iBdoZlcklDmuxCFcARj3BSFRQFjmbw5pIU02q_Hc4-LX0EqzdaISuhcMBpOEag91gedcbsG9uAXx01JsxQcaovRm0GZ1iwU",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "reverse engineering",
+    "disassembly",
+    "decompilation",
+    "assembly",
+    "debugging",
+    "program analysis"
+  ],
+  "technologies": [
+    "c",
+    "rust",
+    "python",
+    "node.js",
+    "qt",
+    "cpp",
+    "go",
+    "c++"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6043148908232704/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Type Inference and C Output for radeco",
+          "short_description": "The aim of this project is to advance the current implementation of radeco to output decompiled code and implement a robust type inference system.",
+          "student_name": "sushant94",
+          "code_url": "https://github.com/radare/radeco-lib/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6224058836320256/"
+        },
+        {
+          "title": "Radare Web Interface",
+          "short_description": "This project concerns the enhancement of the material design UI. With this GSoC program, I would like to complete some functionalities to make...",
+          "student_name": "Gautier GC",
+          "code_url": "https://blog.gautiercolajanni.fr/gsoc/r2/2016/08/20/conclusion-gsoc-2016-radare-webui.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4810872459362304/"
+        },
+        {
+          "title": "Function argument detection",
+          "short_description": "Function is considered to be the basic code construction block. However, Radare2 is not good at detecting anything beyond basic functions. Things...",
+          "student_name": "oddcoder",
+          "code_url": "https://www.oddcoder.com/Gsoc-the-last-commit/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5803719782301696/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4795019735072768/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Proper Windows platform support",
+          "short_description": "The main goal of the task is to add more support on Windows platform.",
+          "student_name": "Antide Petit",
+          "code_url": "https://gist.github.com/xarkes/b617706fbf97ae4523ca924434790e77",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6390031941894144/"
+        },
+        {
+          "title": "Timeless Debugging Support",
+          "short_description": "Add support for timeless debugging in r2. This requires r2 to create tracing session and read, write memory at any moment in tracing sessions. Same...",
+          "student_name": "Ren Kimura",
+          "code_url": "https://rkx1209.github.io/2017/08/27/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6168904745353216/"
+        },
+        {
+          "title": "Remote debugging with gdbserver",
+          "short_description": "The current radare2 remote GDB debugging has a few issues. Having a GDBServer implementation inside radare2 that we understand well, will help...",
+          "student_name": "Srimanta Barua",
+          "code_url": "https://gist.github.com/SrimantaBarua/e216b557aa1ecbcc7c2963cd35827098",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4939755435327488/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5393348407853056/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "[Cutter] Implement Debugging and Emulation support",
+          "short_description": "The idea is to implement a debugging view in Cutter which allows to run/rerun the current binary with multiple r2 dbg/io plugins.",
+          "student_name": "mandlebro",
+          "code_url": "https://gist.github.com/fcasal/84bf2268dd1f0b225b2e9212d0854f52",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5400364169822208/"
+        },
+        {
+          "title": "Pseudo-C Backend for Radeco",
+          "short_description": "Radeco currently can parse Radare2\u2019s ESIL into a graph-based SSA representation. This project would complete the decompiler by generating a C-like...",
+          "student_name": "HMPerson1",
+          "code_url": "https://radare.today/posts/gsoc_2018_radeco_cfs/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5076653491355648/"
+        },
+        {
+          "title": "Type Inference",
+          "short_description": "Implement a basic type inference based on function arguments/return types and callgraph",
+          "student_name": "sivaramaaa",
+          "code_url": "http://radare.today/posts/type_inference/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6511408388767744/"
+        },
+        {
+          "title": "Radeco Pseudo C Code Generation",
+          "short_description": "Radare is a useful  framework for reverse engineering. It has debugger interface and disassembler and visualizer. To analyze programs more...",
+          "student_name": "Shohei Kuroiwa",
+          "code_url": "http://radare.today/posts/gsoc_2018_radeco_pseudo_c_code_generation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6067042348171264/"
+        },
+        {
+          "title": "Console Interface Improvements",
+          "short_description": "Radare2 has a very flexible console interface, including command line, different visual modes and Unix-like integration with other tools. But there...",
+          "student_name": "Luca Di Bartolomeo",
+          "code_url": "https://gist.github.com/cyanpencil/27db326bf6f9d2747297fa9b943eb65b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5842905319079936/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6102444192301056/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "SLEIGH Disassembler Backend",
+          "short_description": "The goal is to integrate SLEIGH as a disassembly backend into radare2. This will make it possible to directly support all architectures that are...",
+          "student_name": "Jiaxiang Zhou",
+          "code_url": "https://blog.fxti.xyz/2020/08/31/GSoC2020-SLEIGH-Plugin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6454287913189376/"
+        },
+        {
+          "title": "Type analysis improvements",
+          "short_description": "My goal is to improve analysis of object oriented code (C++, etc.), parsing of type information from PDB and DWARF debug formats (and integrating...",
+          "student_name": "Karel H\u00e1jek",
+          "code_url": "https://gist.github.com/HoundThe/c7632d6ce9697fe4b43726d2d48fda27",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5413153480900608/"
+        },
+        {
+          "title": "Improvements to  Decompiler Widget and r2ghidra-dec",
+          "short_description": "The current decompiler widget in Cutter provides only basic features and interaction, and it is far from being as advanced as the IDA\u2019s or Ghidra\u2019s...",
+          "student_name": "NIRMAL MANOJ C",
+          "code_url": "https://cutter.re/improving-decompiler-widget-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4522554431111168/"
+        },
+        {
+          "title": "Debugging and Reverse Debugging Improvements",
+          "short_description": "This project aims to improve radare2 debugger with program tracing and support remote debugging on more platforms. A program trace contains all...",
+          "student_name": "Zi Fan Tan",
+          "code_url": "https://abcsup.github.io/2020/08/31/google-summer-of-code-2020-with-radare/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5162980091625472/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://radare.org/r/me.html",
+  "contact_email": "mailto:gsoc@radare.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/radareorg",
+  "blog_url": "https://radare.today"
+}

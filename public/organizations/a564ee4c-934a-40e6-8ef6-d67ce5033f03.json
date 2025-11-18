@@ -1,0 +1,204 @@
+{
+  "name": "Postman",
+  "url": "https://postman.com",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/postman/iw5h0aed8pe5yind-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "api",
+    "developer tools",
+    "api management",
+    "programmer productivity",
+    "productivity",
+    "apis",
+    "programming languages and development tools",
+    "software development",
+    "testing",
+    "automation",
+    "documentation",
+    "data"
+  ],
+  "technologies": [
+    "javascript",
+    "node.js",
+    "graphql",
+    "openapi",
+    "rest api",
+    "api",
+    "AsyncAPI",
+    "JSON Schema"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5654790253576192/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Enhancements to Postman code generator",
+          "short_description": "Code generator has been one of the best features in postman. It helps developers to quickly get snippets for the request in multiple languages and...",
+          "student_name": "Somesh Koli",
+          "code_url": "https://gist.github.com/someshkoli/3a8cd7f820ed59da56cd1a566f22ab8f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5421899678482432/"
+        },
+        {
+          "title": "Add login feature to Newman",
+          "short_description": "This project bridges the gap between Postman and Newman by supporting access to Postman-Cloud resources from Newman. This is done by providing two...",
+          "student_name": "Narayan Pai",
+          "code_url": "https://gist.github.com/narayanpai1/35b8a21280e6867eca95f4007097f458",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5423180753141760/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5124239249637376/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "AsyncAPI Application simulation",
+          "short_description": "The scalable , extendable backend services stress tester.",
+          "student_name": "Nektarios Gkikakis Fifes",
+          "code_url": "https://github.com/asyncapi/simulator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6340019836420096/"
+        },
+        {
+          "title": "API Conversion API",
+          "short_description": "There is currently no open source API specification format and schema converter API that provides conversion between multiple formats. The proposed...",
+          "student_name": "Sarthak Saxena",
+          "code_url": "https://github.com/postmanlabs/api-spec-converter",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5105118860541952/"
+        },
+        {
+          "title": "AsyncAPI Applications Relations Finder",
+          "short_description": "AsyncAPI aims to set an industry standard for messaging APIs by providing a set of tools and\nfeatures to improve the current state of Event-Driven...",
+          "student_name": "Arjun Garg",
+          "code_url": "https://medium.com/@arjungarg07/work-product-google-summer-of-code-2021-with-postman-d82f3ef56dc8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5275823778562048/"
+        },
+        {
+          "title": "AsyncAPI Document Optimizer",
+          "short_description": "AsyncAPI offers many different ways to reuse certain parts of the document like messages or schemas definitions or references to external files, not...",
+          "student_name": "Khuda Dad Nomani",
+          "code_url": "https://gist.github.com/KhudaDad414/171fc4f6d56d7f1acc05e0c14d02b36d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5551738718781440/"
+        },
+        {
+          "title": "Newman Dashboard",
+          "short_description": "Newman Dashboard is a real-time WebUI dashboard which can let users control and view the currently executing as well as the previously executed...",
+          "student_name": "Manan Sharma-1",
+          "code_url": "https://gist.github.com/elit-altum/861429dd3786588ec9877e7ac19b7b63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4763661343653888/"
+        },
+        {
+          "title": "Newman Request",
+          "short_description": "Current version of Newman ships with a command - newman run - that allows users to effortlessly run and test postman collections from the...",
+          "student_name": "Raghav Bhatia",
+          "code_url": "https://raghavbhatia-71615.medium.com/gsoc-2021-newman-request-e69469be9f5a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6547007732187136/"
+        },
+        {
+          "title": "AsyncDiff",
+          "short_description": "AsyncDiff is a library which compares two AsyncAPI Documents and generates diff between the two.",
+          "student_name": "Aayush Sahu",
+          "code_url": "https://gist.github.com/aayushmau5/8e66cb303a9aa59698454864ae215fb5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5893807463202816/"
+        },
+        {
+          "title": "Chatbot for AsyncAPI Creators Project Proposal",
+          "short_description": "The project's aim is to develop a chatbot that can help people create spec documents without knowing the specification.To get started with, the bot...",
+          "student_name": "Wahab Oguntade",
+          "code_url": "https://github.com/asyncapi/chatbot/pull/14#issue-976395663",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5905431624417280/"
+        },
+        {
+          "title": "Contributing to Postman Public Workspace",
+          "short_description": "Build utilities for Postman entities",
+          "student_name": "Rishi Purwar",
+          "code_url": "https://medium.com/@thefierycoder/google-summer-of-code-2021-at-postman-8297ca3112ae",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6275956473331712/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/postman",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Automate listing of members of technical steering committee",
+          "short_description": "The goal of this GSOC program is to automate the processes around project governance. This project aims to automate maintaining the Maintainers.yaml...",
+          "student_name": "14Richa",
+          "code_url": "https://14richa.github.io/2023-08-25/reflection-gsoc",
+          "proposal_id": "pnNg9BQs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YOu23jKE"
+        },
+        {
+          "title": "AsyncAPI : Introduce UI Tests and Refactoring in Website",
+          "short_description": "This proposal is submitted for AsyncAPI 's Introduce UI Testing to Website . Current version of the website is based on NextJS and deployed on...",
+          "student_name": "Aadrika Bhargava",
+          "code_url": "https://reachaadrika.hashnode.dev/wrapping-things-up-gsoc23postmanasyncapi",
+          "proposal_id": "J18IQ9ru",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uq2r9PUC"
+        },
+        {
+          "title": "Bowtie and the World of JSON Schema",
+          "short_description": "The world of JSON Schema is immense. JSON Schema tooling exists in countless languages across a variety of uses (data validation of course a...",
+          "student_name": "Agnivesh Chaubey",
+          "code_url": "https://gist.github.com/AgniveshChaubey/3935e130d65ebe02cc60fd95c8273091",
+          "proposal_id": "KIojfQrS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/71wrRVC0"
+        },
+        {
+          "title": "Glee Authentication",
+          "short_description": "This project aims to enable many authentication frameworks and add support for an authentication layer to Glee. This will give developers the ability...",
+          "student_name": "Alexander Godwin",
+          "code_url": "https://medium.com/@alecgee73/my-gsoc-experience-asyncapi-glee-authentication-f8c6df483f17",
+          "proposal_id": "BewqFAlR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0yGBQQwG"
+        },
+        {
+          "title": "GitHub OpenAPI Search",
+          "short_description": "The goal of this project is to provide a robust yet easy way to search Github for Swagger and OpenAPI definitions. Understanding that there is a lot...",
+          "student_name": "Ishaan Shah",
+          "code_url": "https://github.com/postman-open-technologies/openapi-github-search",
+          "proposal_id": "lfTfmo7h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5z4bzIFy"
+        },
+        {
+          "title": "Schema.org OpenAPI Catalog",
+          "short_description": "This project is to create a catalog of the OpenAPI definitions for the various Schema.org types. Also, providing a robust set of starting OpenAPI...",
+          "student_name": "Pragya Bhardwaj",
+          "code_url": "https://github.com/postman-open-technologies/schema-org-openapi-catalog",
+          "proposal_id": "ILDKM4ut",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IpxtHfOS"
+        },
+        {
+          "title": "Open API Web Search",
+          "short_description": "This project addresses developing a solution for extracting Swagger and OpenAPI definitions from less-known sources on the open web and common crawl....",
+          "student_name": "priyanshu_sharma",
+          "code_url": "https://github.com/postman-open-technologies/openapi-web-search",
+          "proposal_id": "VCQsEwAQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eCay1Ozn"
+        },
+        {
+          "title": "Add \"Autofix\" feature for common linting errors (w/ spectral)",
+          "short_description": "My proposal aims to improve the user experience and developer experience for AsyncAPI-Preview extension. The main problem being solved is the...",
+          "student_name": "Savio Dias",
+          "code_url": "https://medium.com/@diassavio629/google-summer-of-code-final-evaluation-9e2658dc7f33",
+          "proposal_id": "9pnQ9K9w",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QFVcX71B"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/postman/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://community.postman.com/c/open-technology/gsoc/42",
+  "contact_email": "gsoc@postman.com",
+  "mailing_list": "https://community.postman.com/c/open-technology/gsoc/42",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/getpostman",
+  "blog_url": "https://blog.postman.com/"
+}

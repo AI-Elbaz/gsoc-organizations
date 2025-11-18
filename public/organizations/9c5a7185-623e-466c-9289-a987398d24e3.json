@@ -1,0 +1,199 @@
+{
+  "name": "MetaCall",
+  "url": "https://metacall.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/metacall/rezoq3uue7dpdzw5-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming languages",
+    "development tools",
+    "cross-platform",
+    "polyglot",
+    "foreign function interface",
+    "cloud",
+    "faas",
+    "languages",
+    "ffi"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c",
+    "c++",
+    "cmake",
+    "guix",
+    "rust",
+    "node.js",
+    "docker"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5272300328321024/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "WebAssembly loader",
+          "short_description": "WebAssembly is an emerging standard for a binary instruction format designed to be run on a virtual machine. It is designed to be portable, stable...",
+          "student_name": "Jeppe Blomgren",
+          "code_url": "https://medium.com/@metacall/google-summer-of-code-2021-implementing-a-webassembly-loader-for-metacall-f7a4bc60739f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6740009972924416/"
+        },
+        {
+          "title": "Java Loader using Java Native Interface",
+          "short_description": "Metacall acts as a middleware between two languages using which we can call function present in one language from another. Java is a high-level...",
+          "student_name": "ketangupta34",
+          "code_url": "https://medium.com/@metacall/google-summer-of-code-2021-implementing-a-java-loader-for-metacall-13223f966960",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5393816529403904/"
+        },
+        {
+          "title": "Development of Jupyter Kernel for MetaCall Core",
+          "short_description": "MetaCall Core is an open-source software that brings the polyglot programming experience to Developers. With MetaCall, developers can embed different...",
+          "student_name": "Harsh Bardhan Mishra",
+          "code_url": "https://medium.com/@metacall/google-summer-of-code-2021-development-of-jupyter-kernel-for-metacall-ddd552319ccf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5777069882998784/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/metacall/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Migrate existing CI/CD pipelines to GitHub and Improve Build/Test/Deployment workflows",
+          "short_description": "The CI/CD pipelines are currently hosted on GitLab, using their built-in GitLab CI. This project aims to migrate the existing pipelines completely to...",
+          "student_name": "Param Siddharth",
+          "code_url": "https://github.com/metacall/gsoc-2022/blob/main/submission/paramsiddharth.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vkIKSHzg/"
+        },
+        {
+          "title": "Packaging & Testing Metacall for MacOSX, Windows, NixOS users",
+          "short_description": "Tests for the Nix Metacall package will be written, the Nix package will have more precise dependencies , documentation and a CI/CD with Docker shall...",
+          "student_name": "Lahfa Samy",
+          "code_url": "https://github.com/metacall/gsoc-2022/blob/main/submission/akechishiro.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HlYxwIwX/"
+        },
+        {
+          "title": "MetaCall Cli Refactor",
+          "short_description": "The metacall library provides APIs for calling functions, methods, or procedures between multiple programming languages. The metacallcli's less than...",
+          "student_name": "rxbryan",
+          "code_url": "https://github.com/rxbryan/GSOC-2022/blob/master/GSOC_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bn3S8wst/"
+        },
+        {
+          "title": "Add Rust loader support for Metacall",
+          "short_description": "Add rust loader support for Metacall, allowing user to load rust scripts dynamically and embed rust code into other languages. This can be done by...",
+          "student_name": "Tricster",
+          "code_url": "https://github.com/metacall/gsoc-2022/blob/main/submission/tricster.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/F5dAfrP2/"
+        },
+        {
+          "title": "Deploy CLI (Metacall)",
+          "short_description": "This project will implement a CLI for deploying projects into MetaCall FaaS. This CLI should be able to be integrated with the MetaCall CLI. The...",
+          "student_name": "Raj Aryan",
+          "code_url": "https://github.com/metacall/gsoc-2022/blob/main/submission/creatoon.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YqPM14us/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/metacall",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improve CI/CD for MetaCall Core MacOS",
+          "short_description": "MetaCall Core has an intensive test case that is mainly focused on Linux (including Sanitizers in order to detect memory, address, undefined...",
+          "student_name": "Ahmed Ihab",
+          "code_url": "https://github.com/ahmedihabb2/gsoc-2023/blob/main/submissions/AhmedIhab.md",
+          "proposal_id": "1IDMMLsd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7Jjjexmo"
+        },
+        {
+          "title": "LambdaEase",
+          "short_description": "LambdaEase is an innovative tool designed to automate the process of writing and deploying functions in any programming language. This eliminates the...",
+          "student_name": "Durgesh Maurya",
+          "code_url": "https://github.com/metacall/gsoc-2023/blob/main/submissions/gpt-deploy.md",
+          "proposal_id": "jRpTvs3A",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/jFcgf9UX"
+        },
+        {
+          "title": "Improve CI/CD for MetaCall Core Windows",
+          "short_description": "The Windows CI/CD project aims to automate the build, testing, and deployment of software on the Windows operating system. The main challenge is to...",
+          "student_name": "pkspyder",
+          "code_url": "https://github.com/metacall/gsoc-2023/blob/main/submissions/windows-ci-pkspyder007.md",
+          "proposal_id": "bfrWnMea",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GOa6ri4N"
+        },
+        {
+          "title": "FaaS TypeScript Reimplementation",
+          "short_description": "This project offers a reimplementation of MetaCall FaaS but with a simpler and less performant implementation. The objective of this FaaS...",
+          "student_name": "Raj Aryan",
+          "code_url": "https://github.com/Creatoon/gsoc-2023/blob/main/submissions/creatoon.md",
+          "proposal_id": "AlPioZnb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8pfFYrnv"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/metacall/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "FaaS TypeScript Reimplementation Project Proposal",
+          "short_description": "This project aims reimplementation of Metacall Faas but in a simple way. Goals and Deliverables: 1. Completing the unfinished implementation of the...",
+          "student_name": "Himanshu Kumar Sharma",
+          "code_url": "https://github.com/metacall/faashttps://heemansu.hashnode.dev/gsoc-2024-with-metacall-faas-reimplementation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/h1Fd2LaC/"
+        },
+        {
+          "title": "MacOS Distributable For MetaCall",
+          "short_description": "MetaCall has multiple embedded runtimes and aims for cross-platform versatility. However, managing dependencies across different runtimes poses a...",
+          "student_name": "Prakhar Gurunani",
+          "code_url": "https://prakhargurunani.com/blog/bringing-metacall-to-macos-my-gsoc-2024-journey/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4voBf8uO/"
+        },
+        {
+          "title": "CLI / Deploy / FaaS Unification",
+          "short_description": "MetaCall offers binaries and a CLI that can be downloaded and installed easily through metacall/install. This provides a CLI for executing code and a...",
+          "student_name": "Aakriti Awasthi",
+          "code_url": "https://gist.github.com/aakritiawasthi/ea4de17a318857c9af3a38da75333c57",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/0Ih7NXN9/"
+        },
+        {
+          "title": "MetaCall examples' CI",
+          "short_description": "There is currently no method to test all of MetaCall's examples and deployable examples. The project aims to create a single repository for each...",
+          "student_name": "Mostafa Wael",
+          "code_url": "https://github.com/metacall/testing-center",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Ivmxad5S/"
+        },
+        {
+          "title": "BUILDER",
+          "short_description": "The objective of this project is to develop a command-line interface and library for MetaCall, enabling selective composition of Docker images for...",
+          "student_name": "Ashpect",
+          "code_url": "https://github.com/ashpect/builder/blob/Gsoc/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2hrok7vn/"
+        },
+        {
+          "title": "Connect Core CI with Distributables",
+          "short_description": "This project aims to develop a robust Continuous Integration (CI) system for MetaCall that automates builds and tests across platforms whenever there...",
+          "student_name": "Nitin Gouda",
+          "code_url": "https://gist.github.com/shaggyyy2002/cbeb7bd8b3306a074ac7e3d1b552de6c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lA34YfMH/"
+        },
+        {
+          "title": "MetaSSR: A Server-Side Rendering Framework Built on MetaCall and Rust",
+          "short_description": "MetaSSR is a Server-Side Rendering (SSR) framework built entirely from the ground up during the Google Summer of Code (GSoC) 2024 program. It is a...",
+          "student_name": "Mohamed Emad",
+          "code_url": "https://github.com/metacall/gsoc-2024/blob/main/submissions/MetaSSR.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yRWw2gPh/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#metacall:matrix.org",
+  "contact_email": "contact@metacall.io",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/metacallio",
+  "blog_url": "https://medium.com/@metacall"
+}

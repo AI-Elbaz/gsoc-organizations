@@ -1,0 +1,65 @@
+{
+  "name": "Audacity",
+  "url": "https://www.audacityteam.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/audacity/7opleanl35jab5va-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "audio",
+    "audio editor",
+    "audio analysis",
+    "audio processing",
+    "editing",
+    "compression",
+    "Sound",
+    "Effects"
+  ],
+  "technologies": [
+    "c++",
+    "qt",
+    "cmake",
+    "wxwidgets",
+    "VST"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5631107231383552/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Source Separation and Extensible MIR Tools for Audacity",
+          "short_description": "This project proposes the design and integration of a deep learning framework into Audacity, with the focus of developing an interface for end users...",
+          "student_name": "Hugo Flores Garcia",
+          "code_url": "https://www.audacityteam.org/gsoc-2021-work-product-source-separation-and-deep-learning-tools/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5097817919455232/"
+        },
+        {
+          "title": "Spectral Selection Tools",
+          "short_description": "New set of tools will be implemented, for users to effectively select the spectral data in the frequency domain, the data selected will then be used...",
+          "student_name": "Edward HUI",
+          "code_url": "https://www.audacityteam.org/gsoc-2021-with-audacity-work-product-spectral-editing-tool/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4714793742630912/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/audacity/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Creating Fundamental Ruler and Waveform Display Options",
+          "short_description": "The current display options in Audacity for Rulers and Waveforms lack many features one might expect from audio editing and recording software....",
+          "student_name": "Michael Papadopoulos",
+          "code_url": "https://www.audacityteam.org/gsoc-2022-work-product-creating-fundamental-ruler-and-waveform-display-options/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9zv4AuyT/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/D8KruQSfeu",
+  "contact_email": "mailto:gsoc@audacityteam.org",
+  "mailing_list": "https://www.audacityteam.org/contact/mailing-lists/",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://discord.gg/D8KruQSfeu"
+}

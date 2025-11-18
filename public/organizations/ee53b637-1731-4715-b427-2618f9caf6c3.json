@@ -1,0 +1,431 @@
+{
+  "name": "RTEMS Project",
+  "url": "https://www.rtems.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/rtems-project/mo975scxu6bi0bfj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "real time",
+    "posix",
+    "embedded systems",
+    "kernel",
+    "operating system",
+    "multicore",
+    "iot",
+    "iot cps",
+    "real-time",
+    "embedded",
+    "rtos"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "embedded systems",
+    "waf",
+    "posix",
+    "bsd unix",
+    "c++",
+    "assembly"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6376577017315328/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Low Level Peripherals & SD Card Support for Raspberry Pi",
+          "short_description": "The idea aims to complete the implementation for the SD Card file system support that was previously initiated. In addition to that, I also plan on...",
+          "student_name": "Mudit Jain",
+          "code_url": "https://docs.google.com/spreadsheets/d/1bLqkedKvIfBJenPWVuHlcNYUdOHpr-hxd2BH_hpTJAM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6397834018422784/"
+        },
+        {
+          "title": "Improvements in the RTEMS Trace Framework",
+          "short_description": "Current Tracing Framework under RTEMS instruments the target ELF files to trace event-data based on a user-configuration. A Capture Engine buffers...",
+          "student_name": "vivekk",
+          "code_url": "http://rtems-tracing-tweaks.blogspot.in/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6188170894901248/"
+        },
+        {
+          "title": "RTEMS Port to ARM Cortex-M4F core-based MCUs",
+          "short_description": "The objective of this project is to add processor support and a board support package (BSP) for the ARM Cortex-M4F  microcontrollers on RTEMS. In...",
+          "student_name": "Habeeb Olufowobi",
+          "code_url": "http://rtemstolaunchpad.blogspot.com/2016/08/port-rtems-to-ti-tm4c129e-final-report_21.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4569689778814976/"
+        },
+        {
+          "title": "Beaglebone Black BSP Improvement",
+          "short_description": "RTEMS is mainly designed for Real time applications, embedded systems that implements a single process, multi threaded environment. The project...",
+          "student_name": "Punit Vara",
+          "code_url": "https://learnsom2day.wordpress.com/2016/08/23/gsoc-2016-improvement-of-board-support-package-for-beagle-bone-black/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6072851828310016/"
+        },
+        {
+          "title": "Raspberry PI USB and Ethernet Support",
+          "short_description": "This project aims to improve the Raspberry PI BSP support on RTEMS. Project intends to add the following supports to the Raspberry PI BSP: USB device...",
+          "student_name": "deval",
+          "code_url": "https://github.com/deval-maker/rtems-libbsd/commits/RPi_USB_Ethernet?author=deval-maker",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5992398500921344/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6586933375401984/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "POSIX Compliance",
+          "short_description": "POSIX Compliance allows developers the maximum flexibility in creating application software that can be port on to the other execution environments....",
+          "student_name": "Aditya Upadhyay",
+          "code_url": "https://posix4rtemsandnewlib.wordpress.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5264092575039488/"
+        },
+        {
+          "title": "Beagleboard BSP projects",
+          "short_description": "This project aims to improve the Beaglebone Black  BSP support on RTEMS. Project intends to add the following supports to the Beaglebone Black BSP:...",
+          "student_name": "Sichen Zhao",
+          "code_url": "https://sichenzhao.blogspot.jp/2017/08/work-product-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5607590906036224/"
+        },
+        {
+          "title": "Utilizing full power of RISC-V architecture via usage of RTEMS on top of SiFive FE310 processors",
+          "short_description": "This project aims to provide the RTEMS community with a new capability of utilizing the power of SiFive FE310 processors. The main objective of this...",
+          "student_name": "Denis Obrezkov",
+          "code_url": "https://embeddedden.blogspot.com/2017/08/gsoc-2017-results-rtems-for-hifive1.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4780624749527040/"
+        },
+        {
+          "title": "Improve Coverage Analysis Tools",
+          "short_description": "This project will switch the RTEMS Source Builder from QEMU to Couverture-QEMU. It will integrate Couverture-QEMU and the scripts driving it into...",
+          "student_name": "C.P. O'Donnell",
+          "code_url": "https://cillianodonnell.github.io//rtems,/gsoc/2017/08/27/final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4925375616385024/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5646874153320448/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improve Coverage Analysis Toolset",
+          "short_description": "RTEMS-TOOLS uses a tool called covoar, integrated into the rtems-tools, which currently generates coverage reports in html and text. This project is...",
+          "student_name": "Vijay Kumar Banerjee",
+          "code_url": "https://thelunatic.github.io/rtems_gsoc18/blog/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6415962941161472/"
+        },
+        {
+          "title": "GSOC2018_Huang_RTEMS Release Notes Generator",
+          "short_description": "RTEMS Release Notes Generator",
+          "student_name": "Danxue Huang",
+          "code_url": "https://danxuehuang.blogspot.com/2018/08/summary-of-gsoc-2018.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5053438924685312/"
+        },
+        {
+          "title": "Porting SDIO driver and Benchmarking",
+          "short_description": "First part of this project is intended to add SDIO support to BeagleBone Black BSP,  specifically by importing the current SDIO stack from FreeBSD....",
+          "student_name": "Udit kumar Agarwal",
+          "code_url": "http://uditagarwal.in/index.php/2018/08/03/gsoc-2018-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4546005852749824/"
+        },
+        {
+          "title": "x86_64 port and BSP",
+          "short_description": "RTEMS is a real-time operating system, meant to be used in applications that need high-precision task scheduling, such as the NASA's recent Parker...",
+          "student_name": "Amaan Cheval",
+          "code_url": "https://blog.whatthedude.com/post/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4865669933826048/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4579649638629376/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Add Framebuffer driver for Beaglebone Black",
+          "short_description": "This Project aims to improve the Beaglebone Black (BBB) Board Support Package on RTEMS. The project intends to add HDMI Framebuffer support for the...",
+          "student_name": "Vijay Kumar Banerjee",
+          "code_url": "https://blog.thelunatic.dev/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5562703563718656/"
+        },
+        {
+          "title": "POSIX Compliance",
+          "short_description": "Portable Operating System Interface (POSIX), is a set of IEEE standards that defines an interface between programs and operating systems for...",
+          "student_name": "VARoDeK",
+          "code_url": "https://medium.com/my-gsoc-2019-journey/gsoc-2019-posix-compliance-74571990c32a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6230648287657984/"
+        },
+        {
+          "title": "Adding  PRU-ICSS drivers to RTEMS on Texas Instrument Sitara SoCs",
+          "short_description": "This Project intends to add the PRU support to RTEMS, using the Beaglebone Black (BBB). The BBB has an Texas Instruments AM3358 SoC with an ...",
+          "student_name": "NilsHoel",
+          "code_url": "https://nilshoel.home.blog/2019/08/25/gsoc-2019-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6493866834788352/"
+        },
+        {
+          "title": "Basic Support for Trace Compass",
+          "short_description": "The goal of this project is to enable the Trace Compass to analyze and display some basic information using Event Recording infrastructure. Trace...",
+          "student_name": "Ravindra Kumar Meena",
+          "code_url": "https://rmeena840.github.io/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6270870320840704/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4511020028002304/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "POSIX Compliance",
+          "short_description": "Portable Operating System Interface (POSIX) is a set of standards that are defined by the IEEE society. It defines various APIs along with...",
+          "student_name": "Eshan Dhawan",
+          "code_url": "https://medium.com/@eshandhawan51/google-summer-of-code-2020-posix-compliance-66fca3e18bd7?source=friends_link&sk=9cc3323c701de0138b9bb56c00ace173",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6571478377562112/"
+        },
+        {
+          "title": "Beagle BSP: Add a flattened device tree based initialization",
+          "short_description": "This project aims to improve the Beaglebone Board Support Package (BSP) in RTEMS by adding a Flattened Device Tree (FDT) based driver initialization....",
+          "student_name": "Niteesh Babu G. S.",
+          "code_url": "https://gs-niteesh.github.io/finalreport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6604577845018624/"
+        },
+        {
+          "title": "BSP Buildset for EPICS",
+          "short_description": "The development of the freely available, open-source, RTEMS, solved one of the biggest obstacles that beamline researchers used to face in buying...",
+          "student_name": "Mritunjay Sharma",
+          "code_url": "https://medium.com/@mritunjaysharma394/rtems-gsoc-2020-final-report-bsp-buildset-for-epics-46bffb4688c8?source=friends_link&sk=0dc5aec8c6c9791a355b0c8cbbc1f2d3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4672329637953536/"
+        },
+        {
+          "title": "Memory Protection",
+          "short_description": "Most modern processors have a memory management unit (MMU) or memory protection unit (MPU) hardware whose main functions are virtual address...",
+          "student_name": "UTKARSH RAI",
+          "code_url": "https://gsoc2020memoryprotection.blogspot.com/2020/08/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4747152900751360/"
+        },
+        {
+          "title": "Improve the SMP scheduler with the support of arbitrary processor affinity with task shifting",
+          "short_description": "The Real-Time Executive for Multiprocessor Systems (RTEMS) is an open-source real-time operating system (RTOS). In the current RTEMS version, a...",
+          "student_name": "Richi Dubey",
+          "code_url": "https://rtemswithrichi.wordpress.com/strong-apa-scheduler/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6529555772211200/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5979439984279552/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Adding New APIs from POSIX Standard 2021",
+          "short_description": "This project will enhance Portable Operating System Interface (POSIX) compliance in the RTEMS real-time operating system by adding newly proposed...",
+          "student_name": "Matthew Joyce",
+          "code_url": "https://mfjoyce2004.medium.com/gsoc-final-report-992a18ab5f34",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6739534573731840/"
+        },
+        {
+          "title": "Beagleboard BSP: Add USB OTG Support",
+          "short_description": "USB On-The-Go technology allows us to access different kinds of services through the USB interface. These services can be Ethernet, Serial, Mass...",
+          "student_name": "Husni Faiz",
+          "code_url": "https://drac98.github.io/2021/08/15/gsoc-2021-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5097967605776384/"
+        },
+        {
+          "title": "Code Formatting and Style Check for RTEMS SuperCore (score)",
+          "short_description": "The supercore, also known as score provides services for all APIs and for the core parts of RTEMS, there is no automatic checking of the coding...",
+          "student_name": "Meh Mbeh Ida Delphine",
+          "code_url": "https://idadelveloper.github.io/blog/2021/08/20/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5543999556812800/"
+        },
+        {
+          "title": "Improving the Raspberry Pi BSP",
+          "short_description": "RTEMS already supports the Raspberry Pi1 development board, and has a fair bit of support for the Raspberry Pi2. The Raspberry Pi Zero/ Zero W is a...",
+          "student_name": "pruhnuhv",
+          "code_url": "https://pruhnuhv.github.io/gsoc/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6087435158552576/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/rtems-project/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "STM32F4 BSP Project",
+          "short_description": "This project has three objectives: - To improve RTEMS BSP libraries by creating a new GPIO API and ADC API. Currently RTEMS has a GPIO API, but it...",
+          "student_name": "ddvn",
+          "code_url": "https://medium.com/@dtbpkmte/gsoc-2022-rtems-final-report-eb78a5934dfc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uYEXLgLF/"
+        },
+        {
+          "title": "RTEMS Release Notes Generator",
+          "short_description": "This project will revamp the RTEMS release notes generator by fixing existing issues and supporting the generation of reStructuredText as well as...",
+          "student_name": "Mahmoud Abumandour",
+          "code_url": "https://avx.hashnode.dev/gsoc-2022-final-submission-rtems-release-notes-generator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jklYiEaz/"
+        },
+        {
+          "title": "RTEMS port for Raspberry pi 4 AArch64",
+          "short_description": "The Raspberry Pi is a fully-fledged computer, capable of doing whatever you might do with a computer with the additional features of hooking it up...",
+          "student_name": "Mohd Noor Aman",
+          "code_url": "https://0xnoor.hashnode.dev/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lc8yCJFD/"
+        },
+        {
+          "title": "BeagleBoard BSP Projects: CAN Framework and DCAN Peripheral Support",
+          "short_description": "The goal of this project is to add CAN Framework and DCAN peripheral support for BeagleBone Black System on Chip in RTEMS. CAN protocol is a robust,...",
+          "student_name": "Prashanth S",
+          "code_url": "https://docs.google.com/document/d/1FyW2oTPhD-uR7PSJVhte5--VF7G8KNuEEGmaMjuuO4A/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MfWrb37K/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/rtems-project",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Ethernet and SMP support for Raspberry Pi 4B AArch64",
+          "short_description": "Last year, RTEMS started to support Raspberry Pi 4B AArch64. But as of now, it is just a bare BSP with only a console and clock driver and nothing...",
+          "student_name": "Mohd Noor Aman",
+          "code_url": "https://0xnoor.hashnode.dev/gsoc-2022-final-submission-rtems-smp-support-for-raspberry-pi-4b",
+          "proposal_id": "f3fQOOwh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dvaQPPpV"
+        },
+        {
+          "title": "Add Support for renode.io Simulator",
+          "short_description": "Renode.io is an open-source software simulator designed specifically for System on Chips (SoC) and Internet of Things (IoT) devices. It allows...",
+          "student_name": "Muhammad Sulthan Mazaya",
+          "code_url": "https://www.mazaya.id/blogs/gsoc-final-blog",
+          "proposal_id": "BFE3jMo0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bQeiZzHB"
+        },
+        {
+          "title": "Improve the Raspberry Pi 4 BSP",
+          "short_description": "The existing support for Raspberry Pi SBCs in RTEMS is operational, but it lacks essential functionalities such as graphics support, USB, SD card,...",
+          "student_name": "UtkarshVerma",
+          "code_url": "https://bitbanged.com/posts/gsoc/final-update/",
+          "proposal_id": "AeCj4CBg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cGuptOmZ"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/rtems-project/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Make Stack Checker Error Handler Configurable",
+          "short_description": "RTEMS real-time operating system utilizes a stack checker to detect stack overflows during execution. While this feature is essential for system...",
+          "student_name": "Mohamed H. Hassan",
+          "code_url": "https://github.com/Hamzyyy/GSoC2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/li0Ns91L/"
+        },
+        {
+          "title": "Adding SPI, Watchdog and SD card support to Raspberry Pi 4B BSP",
+          "short_description": "This project aims to improve the Raspberry Pi 4B (RPi4B) BSP support on RTEMS. Last year, RPi4B BSP support added GPIO, six UARTs, I2C, and IO...",
+          "student_name": "Ning Yang",
+          "code_url": "https://yangn0.github.io/2024/08/23/GSoC-2024-Final-Submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VimEvWPO/"
+        },
+        {
+          "title": "Posix Asynchronous I/O (AIO) Implementation",
+          "short_description": "RTEMS (Real-Time Executive for Multiprocessor Systems) is a real-time operating system (RTOS) designed for embedded systems. The goal of the project...",
+          "student_name": "Alessandro Nardin",
+          "code_url": "https://alessandronardin.github.io/gsoc/final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QfVlbDV6/"
+        },
+        {
+          "title": "Continue the Development of the x86_64 BSP",
+          "short_description": "This project seeks to advance the development of the x86_64 BSP by implementing ACPICA support, Symmetric Multiprocessing, Floating Point support and...",
+          "student_name": "Matheus Pecoraro",
+          "code_url": "https://mpeco.github.io/gsoc-24-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XP3ZBIi7/"
+        },
+        {
+          "title": "Add Python initializer to GDB in RTEMS",
+          "short_description": "This project aims to improve the debugging experience on RTEMS by enhancing GDB with support for pretty-printing C++ STL objects and kernel...",
+          "student_name": "Suraj Kumar (the.m3chanic)",
+          "code_url": "https://the-m3chanic.github.io/2024/08/25/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZtefS9GM/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/rtems-project",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "CodeQL Static Analyzer for RTEMS",
+          "short_description": "RTEMS currently depends on third-party platforms like GitLab CI for static analysis, which introduces external dependencies and limits local...",
+          "student_name": "Beeram Pranith Reddy",
+          "code_url": null,
+          "proposal_id": "mOjpIwa8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bet21LWO"
+        },
+        {
+          "title": "IMFS - Add configurable allocator and block size handling",
+          "short_description": "This project proposes enhancing RTEMS\u2019 In-Memory File System (IMFS) by introducing configurable memory allocators and improving bytes-per-block...",
+          "student_name": "bhavyaBeliever",
+          "code_url": null,
+          "proposal_id": "w01n3epF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/skvazCWj"
+        },
+        {
+          "title": "Implementing MicroPython Support and Packaging It For RTEMS",
+          "short_description": "This project aims to implement a MicroPython REPL, script running functionality and access to RTEMS (and perhaps LibBSD) APIs, and package it by...",
+          "student_name": "l1zard",
+          "code_url": null,
+          "proposal_id": "LuDAw0jM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7aHK0n8k"
+        },
+        {
+          "title": "New APIs Added to POSIX Standard (Issue8)",
+          "short_description": "POSIX Issue 8, released in 2024, introduces several additional APIs that improve standardization, portability, and functionality across compliant...",
+          "student_name": "mez3n",
+          "code_url": null,
+          "proposal_id": "lKIrZieX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/K9M7PnAk"
+        },
+        {
+          "title": "Provide SPARC greth Network Drivers for lwip",
+          "short_description": "This project aims to port GRETH Driver in RTEMS Legacy network Stack to lwIP Network Stack. I aim to study existing driver as well as lwIP network...",
+          "student_name": "Prithvi Tambewagh",
+          "code_url": null,
+          "proposal_id": "nSsPGZ1b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AWPU9uYM"
+        },
+        {
+          "title": "Port FatFS to RTEMS with Benchmarking",
+          "short_description": "The focus of this project is porting FatFS to RTEMS, offering a smaller, simpler alternative to the existing custom DOS FS file system. The project...",
+          "student_name": "Sepehr Ganji",
+          "code_url": null,
+          "proposal_id": "PKmyLlRH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/W6AhdEIS"
+        },
+        {
+          "title": "Adding I2C, PWM, DMA and Mailbox Support to the Raspberry Pi 4B BSP",
+          "short_description": "The project involves adding support for the I2C, PWM, DMA and Mailbox functionalities. The ARM based Raspberry Pi 3 BSP has support for I2C although...",
+          "student_name": "Shaunak Datar",
+          "code_url": null,
+          "proposal_id": "WpXPJG4Y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CUL4f3Nh"
+        },
+        {
+          "title": "Remove set_vector() across all Architectures and BSPs",
+          "short_description": "When an interrupt occurs(either hardware or software) in the OS, they are handled by Interrupt service routines(ISR) or in lay terms a method to...",
+          "student_name": "Sunil Hegde",
+          "code_url": null,
+          "proposal_id": "QY1z8Nkl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vuNHgfF2"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.rtems.org/discord",
+  "contact_email": "mailto:https://lists.rtems.org/mailman/listinfo/devel",
+  "mailing_list": "https://devel.rtems.org/wiki/RTEMSMailingLists",
+  "ideas_url": "https://projects.rtems.org/gsoc/",
+  "guide_url": "https://projects.rtems.org/gsoc/",
+  "twitter_url": "https://twitter.com/rtems_oar"
+}

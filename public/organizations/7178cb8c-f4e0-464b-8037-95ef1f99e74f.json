@@ -1,0 +1,103 @@
+{
+  "name": "Graphite",
+  "url": "https://graphite.rs",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/graphite-labs/p5x1ehnbihaxxqoq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "compilers",
+    "programming languages",
+    "graphics",
+    "computational geometry",
+    "fonts"
+  ],
+  "technologies": [
+    "machine learning",
+    "rust",
+    "vulkan",
+    "ai",
+    "webgpu"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/graphite/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Interactive Node Graph Auto-Layout",
+          "short_description": "This proposal aims to develop an automated node graph layout restructuring system for the Graphite node network. Nodes are organized within a...",
+          "student_name": "Adam Gerhant",
+          "code_url": "https://github.com/GraphiteEditor/Graphite/discussions/1769",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gvbBoCpT/"
+        },
+        {
+          "title": "Raw Camera File Decoding in Rust",
+          "short_description": "Professional-grade cameras capture photos in a raw format before being processed into actual pixel data by a photo editing application. The Rust...",
+          "student_name": "Elbert Ronnie",
+          "code_url": "https://github.com/GraphiteEditor/Graphite/discussions/1771",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2uiwOfz8/"
+        },
+        {
+          "title": "Rendering Performance Infrastructure Improvements",
+          "short_description": "This project aims to significantly enhance Graphite's rendering performance and capabilities by implementing GPU-accelerated graphics rendering using...",
+          "student_name": "Dennis Kobert",
+          "code_url": "https://github.com/GraphiteEditor/Graphite/discussions/1773",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/v5z2Psnc/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/graphite",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Marquee Selection Masking",
+          "short_description": "The goal of this project is to supplant the Mask node with a mask input to every graphical node, which takes in a general graphic input. This lays...",
+          "student_name": "epestr",
+          "code_url": null,
+          "proposal_id": "GTZkcXyL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1TCNjF3K"
+        },
+        {
+          "title": "GPU-accelerated raster ops for Graphite",
+          "short_description": "Graphite uses the vello renderer to accelerate the image composition on the GPU. However, vello is only well suited for composing vector elements and...",
+          "student_name": "Firestar99",
+          "code_url": null,
+          "proposal_id": "v49gloQ1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TfdLAuN4"
+        },
+        {
+          "title": "Advanced vector editing tool modes",
+          "short_description": "The goal of this project is to introduce new tooling modes and new tools to improve the vector editing experience in the Graphite editor. Addition of...",
+          "student_name": "hawkeye",
+          "code_url": null,
+          "proposal_id": "SKl7nKSc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nrCPLvfb"
+        },
+        {
+          "title": "Ergonomic API for Vector Mesh Topology",
+          "short_description": "The project aims to design and implement an ergonomic and efficient API for accessing, manipulating, and performing operations on vector data such...",
+          "student_name": "indierusty",
+          "code_url": null,
+          "proposal_id": "A1MZAIDc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yQFi5PLq"
+        },
+        {
+          "title": "Meticulous tool polishing and adding new gizmos",
+          "short_description": "Graphite currently offers only a limited set of shape tools with basic gizmo support, limiting the scope of creative and precise editing. This...",
+          "student_name": "PratyushGovind",
+          "code_url": null,
+          "proposal_id": "goo2ZkMD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uGQFb7Mk"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.graphite.rs",
+  "contact_email": "mailto:contact@graphite.rs",
+  "mailing_list": "",
+  "ideas_url": "https://graphite.rs/volunteer/guide/student-projects/",
+  "guide_url": "https://graphite.rs/volunteer/guide/student-projects/",
+  "twitter_url": "https://twitter.com/GraphiteEditor/",
+  "blog_url": "https://graphite.rs/blog/graphite-internships-announcing-participation-in-gsoc-2024/"
+}

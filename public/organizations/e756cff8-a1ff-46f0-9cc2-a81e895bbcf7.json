@@ -1,0 +1,77 @@
+{
+  "name": "Health Information Systems Programme",
+  "url": "https://www.dhis2.org/",
+  "image_url": "https://lh3.googleusercontent.com/oRe9kPz3kcPnjQlpTvT92A3v3oUoT5_Z_oN_4SYqOmIGPekKT168KZqu2XupxcLScPEiNBIiAmxL4ko-3tYFu6uWuV0A8k0Y",
+  "image_background_color": "#1d5288",
+  "category": "Web",
+  "topics": [
+    "gis",
+    "mobile",
+    "data processing",
+    "e-health",
+    "global health and development"
+  ],
+  "technologies": [
+    "javascript",
+    "android",
+    "java",
+    "gradle",
+    "reactjs"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5849050746191872/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Partial rendering of front-end, ReactJS based applications on JVM by using Nashorn engine",
+          "short_description": "Web Sites have evolved a lot from static mundane texts to interactive ajax based web sites and today\u2019s Single Page Applications which provides user...",
+          "student_name": "Dehan de Croos",
+          "code_url": "https://docs.google.com/document/d/1-1G1GEpA3I4ZXp7MI6yU2LhG_ion9MVBDav8Fbx9fec/edit#",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6454372431036416/"
+        },
+        {
+          "title": "Re-implement DHIS2 android data capture applications to use shared database",
+          "short_description": "Currently all DHIS2 android apps (data capture, event capture, tracker capture, dashboard) are using their own sandboxed databases. In most...",
+          "student_name": "Prempal Singh",
+          "code_url": "https://gist.github.com/prempalsingh/39df6113c409306d63f7a76e8d2e8001",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5026137965068288/"
+        },
+        {
+          "title": "DHIS - Tracker longitudinal Charting",
+          "short_description": "DHIS is one of the most popular open source health management information system/framework used by over 47 countries in the world including Sri...",
+          "student_name": "Chathura",
+          "code_url": "https://medium.com/@cwidanage/scoc-summary-356b757c545d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4562449269260288/"
+        },
+        {
+          "title": "User Profile App using ReactJs",
+          "short_description": "User Profile App using ReactJS\nAs a part of modernising the architecture of DHIS 2, we are in the process of rewriting server based system...",
+          "student_name": "adhbh",
+          "code_url": "https://medium.com/@adheeshbhatia/user-profile-app-for-dhis-2-686aef2104d8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5970603957813248/"
+        },
+        {
+          "title": "Re-implementing DHIS Dashboard App",
+          "short_description": "The various DHIS apps have different implementations. So, a general SDK had been developed which could be used for uniform development.\nThe aim is to...",
+          "student_name": "Laavanye Bahl",
+          "code_url": "http://laavanyebahl.com/blog/2016/08/21/gsoc-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5996152839208960/"
+        },
+        {
+          "title": "Web App for quick entry of test data in DHIS2 tracker",
+          "short_description": "The DHIS2 Tracker is a module for tracking entities across time and space through the context of a program, through several different stages within...",
+          "student_name": "Shivee",
+          "code_url": "https://lists.launchpad.net/dhis2-devs/msg46482.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6293400009572352/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://irc.freenode.net/#dhis",
+  "contact_email": "mailto:post@dhis2.org",
+  "mailing_list": "https://www.dhis2.org/contact",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/dhis_2"
+}

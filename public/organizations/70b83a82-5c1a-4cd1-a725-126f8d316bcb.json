@@ -1,0 +1,120 @@
+{
+  "name": "C2SI",
+  "url": "https://c2si.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/c2si/35pwh3uirrpdctn8.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "cloud",
+    "ai",
+    "mobile",
+    "software"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "go",
+    "node.js",
+    "tensorflow"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/c2si/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "WebiU \u2013 c2siorg website",
+          "short_description": "To address this, I propose creating a dynamic organization website that automatically fetches project information from GitHub repositories. Current...",
+          "student_name": "Arun Kumar Gilla",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/02-Arun-Kumar-Gilla-WebiU-c2siorg-website.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aqdFveGO/"
+        },
+        {
+          "title": "knowledge graph based retrieval and explanation APIs for code and text modalities in documentation.",
+          "short_description": "In this project, I will be building Knowledge Graph of codes and text modalities from documentation using noe4j, LLms, and langchain. The Knowledge...",
+          "student_name": "Debrup Paul",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/03-Debrup-Paul-knowledge-graph-based-retrieval-and-explanation-APIs-for-code-and-text-modalities-in-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jf5D7VwU/"
+        },
+        {
+          "title": "TensorMap",
+          "short_description": "This year's goal aims to enhance the TensorMap web application by addressing technical challenges and introducing functionalities to improve...",
+          "student_name": "Saatwik Vasishtha",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/10-Saatwik-Vasishtha-TensorMap.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rKXxuFox/"
+        },
+        {
+          "title": "WebFL - WebGPU for Federated Learning",
+          "short_description": "Federated Learning (FL) is a machine learning (ML) approach that allows models to be trained collaboratively and distributedly without sharing...",
+          "student_name": "emsdv",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/05-emsdv-WebFL-WebGPU-for-Federated-Learning.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/l7SskZNS/"
+        },
+        {
+          "title": "B0Bot - CyberSecurity News API",
+          "short_description": "As open-source Large Language Models (LLMs) continue to gain popularity, their usability in projects like ours is increasingly evident. In this...",
+          "student_name": "Hardik Jindal",
+          "code_url": "https://gist.github.com/hardik1408/26a31a236268b59ea56bd03bfc415b25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7kZ0ugFR/"
+        },
+        {
+          "title": "WebiU 2.0 :- c2siorg/SCoRe Lab website",
+          "short_description": "This proposal involves creating a visually appealing and intuitive website made specifically for C2SI. Essential features include displaying detailed...",
+          "student_name": "utkarsh_raj_13",
+          "code_url": "https://medium.com/@utkarshraj1306/google-summer-of-code24-with-c2siorg-abaa7a32564f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bPKMA3rT/"
+        },
+        {
+          "title": "DataLoom",
+          "short_description": "The Problem - Modern data analysis and manipulation tasks require robust and intuitive tools that can handle large volumes of data efficiently....",
+          "student_name": "Umang  Singh",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/12-Umang-Singh-DataLoom.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/W3beyj9s/"
+        },
+        {
+          "title": "CodeLabz - Deploy the first working version of the site.",
+          "short_description": "CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. Currently Codelabz...",
+          "student_name": "Mallepally Lokeshwar Reddy",
+          "code_url": "https://github.com/lokeshwar777/Codelabz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DqAwlznt/"
+        },
+        {
+          "title": "Bug Connector Proposal",
+          "short_description": "The proposal describes an initiative to create a public dataset using publically available Common Vulnerabilities and Exposures (CVE) information....",
+          "student_name": "Joy Zawadi",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/07-Joy-Zawadi-Bug-Connector-Proposal.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rmFUzLkp/"
+        },
+        {
+          "title": "SkamSheild: Spam, Scam Detector for Mobile Devices",
+          "short_description": "Users often encounter calls, SMS messages, and links across various mobile platforms, including browsers, social media, and messaging apps. However,...",
+          "student_name": "Don",
+          "code_url": "https://github.com/c2siorg/GSoC/blob/master/GSoC-2024/04-Don-SkamSheild-Spam-Scam-Detector-for-Mobile-Devices.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9gHu616G/"
+        },
+        {
+          "title": "RustCloud",
+          "short_description": "RustCloud is a rust library which hides the difference between different APIs provided by varied cloud providers (AWS, GCP, Azure etc.) and allows...",
+          "student_name": "Partik Singh",
+          "code_url": "https://github.com/c2siorg/RustCloud",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/i6WhP1wc/"
+        },
+        {
+          "title": "GDB UI",
+          "short_description": "The issue is to address the usability and accessibility limitations of GDB by developing a user interface (UI) utilizing React. This UI will leverage...",
+          "student_name": "Shubh Mehta197",
+          "code_url": "https://medium.com/@shubhmehta942/google-summer-of-code24-with-c2siorg-282bb8c6ac0a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WrwfJdvR/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/c2si-org/shared_invite/zt-2c4enytwh-ONEWumBjZC5hbUOAmBDP8A",
+  "contact_email": "gsoc@c2si.org",
+  "mailing_list": "https://groups.google.com/g/c2si-community",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/c2si_org",
+  "blog_url": "https://blog.c2si.org"
+}

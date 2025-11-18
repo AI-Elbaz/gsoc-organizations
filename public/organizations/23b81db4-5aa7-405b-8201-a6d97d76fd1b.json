@@ -1,0 +1,209 @@
+{
+  "name": "Casbin",
+  "url": "https://casbin.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/casbin/tiqlcyqhyub20y9z-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "security",
+    "web",
+    "cloud",
+    "front-end",
+    "authorization",
+    "IAM",
+    "Authentication"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "go",
+    "react",
+    "rust",
+    "java",
+    "node.js",
+    "golang",
+    "OIDC",
+    "OAuth"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6587176113930240/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Impelement the Async SQL Adapter and Actix-web middleware for Casbin-rs",
+          "short_description": "Implement a fully asynchronous adapter: sqlx-adapter using sqlx.\nActix actor and actix-web middleware using RBAC with domain",
+          "student_name": "Yi sheng Chai",
+          "code_url": "https://gist.github.com/hackerchai/c8b46dff920204fb58cad9067d202538",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5678619134787584/"
+        },
+        {
+          "title": "Casbin-CPP",
+          "short_description": "The main aim of the project is to implement casbin technology in C++. Hence, it boils down to porting the existing fully functional Golang...",
+          "student_name": "DIVY PATEL",
+          "code_url": "https://gist.github.com/divy9881/08159c37b1a8f896330cf7d33fa433d9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6508544255328256/"
+        },
+        {
+          "title": "Extend Casbin to the Frontend",
+          "short_description": "Casbin is an authorization library. Its support for diverse programming languages, different access control models and the powerful adapters gains it...",
+          "student_name": "Zihui Liu",
+          "code_url": "https://github.com/casbin/casbin.js/issues/12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5998983798849536/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6199282348064768/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "casbin enhancement",
+          "short_description": "Casbin is a powerful and efficient open-source access control library for Golang projects. It provides support for enforcing authorization based on...",
+          "student_name": "zhixiang Chen",
+          "code_url": "https://gist.github.com/closetool/5ab4ab9833b695b61c166026b84e2c9d#file-gsoc_final_submission_2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5652736418250752/"
+        },
+        {
+          "title": "Benchmarking, Python bindings and Migrating to CTest for Casbin-CPP",
+          "short_description": "Casbin is an authorization library that extends its features to implement Access Control Lists, Role-Based Access Control, and Attribute-Based Access...",
+          "student_name": "Yash Pandey",
+          "code_url": "https://gist.github.com/EmperorYP7/d48ef6840bbb0ccc63ea4a5a2d19f67d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5581884557361152/"
+        },
+        {
+          "title": "Lua-Casbin",
+          "short_description": "Nginx is the second most popular web server and the most popular among high-traffic websites. OpenResty is a high performance web platform extended...",
+          "student_name": "Rushikesh Tote",
+          "code_url": "https://gist.github.com/rushitote/4b749bee70c5aa27ac6eb4bdbb501c8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6194416384999424/"
+        },
+        {
+          "title": "Proposal for Casdoor and Casnode",
+          "short_description": "Casdoor\nCasdoor is a project established recently. For now, we need to add some features to it. Since Casoor is an authentication platform, I think...",
+          "student_name": "Boqian Xie",
+          "code_url": "https://kininaru.dev/gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4575242269229056/"
+        },
+        {
+          "title": "Casbin for .NET",
+          "short_description": "The goal of this project is to improve performance and provide more necessary features for Casbin.NET.",
+          "student_name": "Sagilio",
+          "code_url": "https://github.com/casbin/Casbin.NET/issues/101",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4598329094176768/"
+        },
+        {
+          "title": "Refactor Casbin.js and other optimizations on pycasbin and node-casbin",
+          "short_description": "In the last GSoC, kingiw created an initial version of casbin.js. This version has a CASL-like API. He also adds support to go-casbin and...",
+          "student_name": "Xinyu Zhou",
+          "code_url": "https://gist.github.com/Zxilly/fb5a0044777b1986b7577c659f5a6917",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4787500660293632/"
+        },
+        {
+          "title": "Casbin-Server, Rocket-Authz, JSON-Adapter",
+          "short_description": "Implement Casbin-Server in rust and make it compatible with yaml-adapter, diesel-adapter and sqlx adapter.\nMake JSON-Adapter for casbin-rs.\nMake...",
+          "student_name": "Samarpan Dutta",
+          "code_url": "https://gist.github.com/smrpn/ddd68d447cf8edeae0e631ce7758720e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5937802323165184/"
+        },
+        {
+          "title": "Casbin plugin for Kubernetes",
+          "short_description": "Casbin is an open-source Authorization Library which supports access control models like ACL, RBAC, ABAC for Golang, Python, C/C++ and for many other...",
+          "student_name": "Ashish  Malik",
+          "code_url": "https://ashishmalik.netlify.app/post/casbin/casbin2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5129868307595264/"
+        },
+        {
+          "title": "dart-casbin",
+          "short_description": "A dart version of casbin to support access models like ACL, RBAC, ABAC and others.",
+          "student_name": "Mohit Singh",
+          "code_url": "https://gist.github.com/MrUnfunny/386b2f5d1cac666f7e47b46db98c3dc6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5171373999128576/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/casbin/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Refine and optimize the Casbin-dashboard & Casdoor",
+          "short_description": "Casbin-dashboard is the official web UI (admin portal) for Casbin models and policies. Casdoor is a centralized authentication / Single-Sign-On (SSO)...",
+          "student_name": "Resulte",
+          "code_url": "https://github.com/casdoor/casdoor/pulls?q=is%3Apr+author%3AResulte+is%3Aclosed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DncVHk02/"
+        },
+        {
+          "title": "Casbin for .NET & Casdoor .NET SDK",
+          "short_description": "Casbin for .NET: a. Feature Request: subjectPriority b. Support \"in\" special grammar c. Validate and compile matcher when loading model d. Improve...",
+          "student_name": "sociometry",
+          "code_url": "https://gist.github.com/sociometry/5b0d86d68585c12b42b7b5ad42736064",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5aHLiSHA/"
+        },
+        {
+          "title": "An alternative tuple-storage engine for Casbin Mesh / Casbin \u2014 GSOC 2022 Proposal",
+          "short_description": "Currently, Casbin uses golang built-in map structure to maintain policies in the main memory and persist the policies via adapter abstraction. If...",
+          "student_name": "NoneBack",
+          "code_url": "https://gist.github.com/noneback/6436c55f22df6cf02c6ac5a14eb8fe3f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/aDqhj3nt/"
+        },
+        {
+          "title": "Enhancement of Casbin Core Engine",
+          "short_description": "Casbin Core Engine is the first implementation for Casbin DSL. Though stable now, it lacks some important features like the WatcherEx support. Also,...",
+          "student_name": "Jianning Wang",
+          "code_url": "https://gist.github.com/JalinWang/aa15b1c26411a70ebca2adc609447bf5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xOG14j14/"
+        },
+        {
+          "title": "Casbin For Node.js - Benchmarks, Feature Enhancement, multiple platform support, WatcherEx, Adapter",
+          "short_description": "Casbin is extended to multiple languages and frameworks including the Casbin for Node.js. To improve the user experience for the project one of the...",
+          "student_name": "Shivansh Yadav",
+          "code_url": "https://gist.github.com/Shivansh-yadav13/0a303de392b49f077c1e88e725a11449",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EVqUyzdC/"
+        },
+        {
+          "title": "Performance Optimize,New DB Adapters and Django Part Improve for Pycasbin",
+          "short_description": "1. Add etcd adapter and redis adapter to improve compatibility 2. Implement the pycasbin-on-cpp to improve performance and add RBAC API to benchmark...",
+          "student_name": "Zhendong Zhou",
+          "code_url": "https://github.com/Nekotoxin/nekotoxin.github.io/blob/gsoc_2022_summary/GSoC2022-summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1cdz6AiW/"
+        },
+        {
+          "title": "Casbin for Java & Casdoor",
+          "short_description": "The jCasbin needs to enhance the expressiveness of the grammar to meet the diverse needs of the user's policy development. For example, the special...",
+          "student_name": "Yixiang Zhao",
+          "code_url": "https://docs.google.com/document/d/11wcSsxuitPylEXTD9kbwXj2VADgvoy9pUYBv4FvMrbw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ev4TPeRU/"
+        },
+        {
+          "title": "Casbin for Rust",
+          "short_description": "With the efforts of Casbin Community, the Rust version of the Casbin is now ready for production. Casbin-RS can provide access control with blazing...",
+          "student_name": "Siddhesh Kanawade",
+          "code_url": "https://gist.github.com/SiddheshKanawade/b00617440bce177d2222eeab4e1d91fe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vDpvoKOO/"
+        },
+        {
+          "title": "Casbin for Cloud Native & Casdoor",
+          "short_description": "The proposal presented here roughly contains 3 parts. The first part includes refactor of the existing k8s-authz, as well as introducing more...",
+          "student_name": "Jiaming Tang",
+          "code_url": "https://github.com/casbin/k8s-gatekeeper/issues/2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zI13Fc3W/"
+        },
+        {
+          "title": "Encapsulation of casbin-cpp and other enhancements for pycasbin",
+          "short_description": "Compared to Casbin for Golang, PyCasbin has many shortcomings, especially the lack of RBAC interface and its bad performance compared to Go....",
+          "student_name": "cs1137195420",
+          "code_url": "https://github.com/casdoor/casdoor-cpp-sdk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/74xa0UGO/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/casbin/Lobby",
+  "contact_email": "admin@casbin.org",
+  "mailing_list": "casbin@googlegroups.com",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/CasbinNews",
+  "blog_url": "https://casbin.org/blog/"
+}

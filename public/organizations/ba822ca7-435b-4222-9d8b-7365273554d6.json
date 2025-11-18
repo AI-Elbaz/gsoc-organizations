@@ -1,0 +1,108 @@
+{
+  "name": "Unicode, Inc.",
+  "url": "https://home.unicode.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/unicode-inc/cev3zg8tjatag4mt.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "linguistics",
+    "languages",
+    "internationalization"
+  ],
+  "technologies": [
+    "java",
+    "c++",
+    "rust",
+    "unicode"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/unicode-inc/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implementing DurationFormat",
+          "short_description": "This proposal implements the DurationFormat API recently included in the ECMA-402 standard, an i18n aware way to format durations. This will be...",
+          "student_name": "Kartavya Vashishtha",
+          "code_url": "https://gist.github.com/kartva/ff139f31876a42a0934ef84755596b2e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lUbazPvK/"
+        },
+        {
+          "title": "Automating ICU4X\u2019s Web Demo from Foreign Function Interface Definitions",
+          "short_description": "ICU4X\u2019s WASM bindings provide a powerful tool for designers and developers to create hassle-free localization for software. To encourage greater...",
+          "student_name": "ambiguousname",
+          "code_url": "https://ambiguous.name/2024/08/23/google-summer-of-code.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Sv65K3Ng/"
+        },
+        {
+          "title": "Linux command line (sh/Perl/Python) interface to Google groups",
+          "short_description": "This project aims to develop a suite of command-line interface (CLI) modules tailored for Linux environments, enabling automation of common Google...",
+          "student_name": "Sanju Raj\u200e\ud83e\uddb8\ud83c\udffb\u200d\u2640\ufe0f",
+          "code_url": "https://github.com/rsnj5/unicode-gsoc-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AcXj93Cd/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/unicode-inc",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Add Support for Malayalam in Unicode Inflection",
+          "short_description": "This proposal aims to add support for Malayalam in the Unicode Inflection project, which is important for ensuring accurate automated text formatting...",
+          "student_name": "Deona Julary",
+          "code_url": null,
+          "proposal_id": "SzViZy3m",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XdytKT55"
+        },
+        {
+          "title": "Create distribution packages of Unicode Inflection",
+          "short_description": "The Unicode Inflection project currently provides its code in source form, which can be a challenge for users and developers who want a simple,...",
+          "student_name": "Hussain A.",
+          "code_url": null,
+          "proposal_id": "MtMoiGiu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7mF9y3DH"
+        },
+        {
+          "title": "Using AI for Unicode Spoof Detection",
+          "short_description": "Attackers can exploit homoglyphs, or visually similar characters, to perform social engineering attacks or evade spam and plagiarism detectors....",
+          "student_name": "Om Doiphode",
+          "code_url": null,
+          "proposal_id": "toGjPISX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mZOMNEgx"
+        },
+        {
+          "title": "Unicode Character Visualizer App and Multilingual Text Rendering Tester",
+          "short_description": "This proposal focuses on developing two essential tools using Flutter: the Unicode Character Visualizer App and the Multilingual Text Rendering...",
+          "student_name": "Popoola Precious",
+          "code_url": null,
+          "proposal_id": "2QKavPI2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/b1FwaPSP"
+        },
+        {
+          "title": "Leveraging LLMs to validate locale data",
+          "short_description": "The Unicode Consortium maintains extensive locale datasets critical for internationalization tasks such as date/time formatting, text segmentation,...",
+          "student_name": "Preet Sojitra",
+          "code_url": null,
+          "proposal_id": "K5qg6XZX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lE93K0ho"
+        },
+        {
+          "title": "Segmentation goes from sequential to functional",
+          "short_description": "With the emergence of Internet of Things devices, lightweight models have become increasingly vital. This project focuses on building computationally...",
+          "student_name": "Shenghong Liu",
+          "code_url": null,
+          "proposal_id": "ujiR74Sr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ze8ZmaKl"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://unicode-org.slack.com",
+  "contact_email": "mailto:GSOC@unicode.org",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/u/2/d/e/2PACX-1vQbj0-VFkRjYdnivuPPXuHM3IW4LuHxK6E0LVO3O8ZU_-k8CYH_eFMZ_IwFg_r-oBw3FCEOmHCb5jrn/pub",
+  "guide_url": "https://docs.google.com/document/d/e/2PACX-1vQwQhjcjYENWYTfA4_FEsyVPZzqhp-QAyeVfPcYR9x0RFqL4mhby1hWKatjiG6Itwkuz8Q4ZXSF_IZz/pub",
+  "twitter_url": "https://twitter.com/unicode"
+}

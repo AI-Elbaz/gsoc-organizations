@@ -1,0 +1,1296 @@
+{
+  "name": "KDE Community",
+  "url": "https://kde.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kde-community/1mbnnsqwd2ejcmy8-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "wiki",
+    "graphics",
+    "mobile",
+    "desktop applications",
+    "science",
+    "desktop",
+    "communication",
+    "desktop application",
+    "applications",
+    "desktop environment",
+    "privacy",
+    "deskstop",
+    "vr",
+    "art"
+  ],
+  "technologies": [
+    "c++",
+    "qt",
+    "cmake",
+    "php",
+    "qt5",
+    "c",
+    "qml",
+    "opencv",
+    "opengl",
+    "data structures"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5267579820048384/",
+      "num_projects": 32,
+      "projects": [
+        {
+          "title": "Add educational activities to GCompris (In Qt Quick)",
+          "short_description": "GCompris is a high quality educational software suite that aims to develop children\u2019s skills and knowledge while playing very entertaining...",
+          "student_name": "Stefan Toncu",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/StefanToncu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6351465819930624/"
+        },
+        {
+          "title": "Improve categorization and search on Inqlude web site",
+          "short_description": "Inqlude is an open, crowd sourced archive of Qt libraries which helps developers to find, install and use Qt libraries easily. A public version of...",
+          "student_name": "Nanduni",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/Nanduni",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6658291304235008/"
+        },
+        {
+          "title": "Neverland Theme Builder project",
+          "short_description": "KDE's Neverland is able to build full themes from a set of template files. The designer needs to only care about the css/js files and the correct...",
+          "student_name": "Minh",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/MinhChu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6689661745364992/"
+        },
+        {
+          "title": "1 Krita Canvas Decorations Compatible with Modern OpenGL",
+          "short_description": "I aim  to  seek  out  the reliance on legacy functionality in the engine that powers the\nQPainter  class  and  to  convert  this  functionality  to ...",
+          "student_name": "Nimmy",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/JulianThijssen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5655612398501888/"
+        },
+        {
+          "title": "Adding support for the FITS data format in LabPlot",
+          "short_description": "Currently LabPlot provides no support on the handling of FITS files. The aim of this project is to provide support for FITS files, and to enable...",
+          "student_name": "Fabian Kristof",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/fkristof",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5445058069266432/"
+        },
+        {
+          "title": "digiKam automatic Red Eyes detection and correction",
+          "short_description": "digiKam includes a basic tool to fix red eyes in Image Editor. there is no automatic mode (detection and correction), which makes the process of...",
+          "student_name": "OmarAmin",
+          "code_url": "https://docs.google.com/document/d/1x5JiEBMSZpuq-NuDbb6CvGeBDqpPR5zoPn4fhjgJI5I/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5480772601380864/"
+        },
+        {
+          "title": "KDE Edu, LabPlot- Project: theme manager for plots",
+          "short_description": "The main goal of this project is to develop a theme manager for LabPlot. In LabPlot, there already exists functionality to create and modify plots....",
+          "student_name": "kupy",
+          "code_url": "https://github.com/KDE/labplot/commits/thememanager?author=prakritibhrdwj",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6151543413800960/"
+        },
+        {
+          "title": "KStars Lite",
+          "short_description": "Could Lord Rosse (William Parsons) that built the biggest telescope of the 19th century even imagine that more than he could observe can be now held...",
+          "student_name": "polaris",
+          "code_url": "https://docs.google.com/document/d/1ccoSccTTasy6T5NDkLzXFjwcXh2tq8sslv2P0C-Co4w/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5053062041305088/"
+        },
+        {
+          "title": "KDevelop Integration with Arduino and embedded development",
+          "short_description": "Abstract\nThe actual Arduino IDE, was initially created with Java and is still a simple IDE that does not provides autocompletion, sentence errors,...",
+          "student_name": "PatrickElectric",
+          "code_url": "https://phabricator.kde.org/diffusion/KDEVEMBEDDED/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6213589316665344/"
+        },
+        {
+          "title": "Support for medium and low tile levels in the OSM Vector Map of Marble",
+          "short_description": "As of now Marble supports rendering of OpenStreetMap vector data for higher tile levels. In order to make the vector OSM theme complete and end -...",
+          "student_name": "Akshat Tandon",
+          "code_url": "https://github.com/KDE/marble/commits/master?author=akshat.tandon@research.iiit.ac.in",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6218562351923200/"
+        },
+        {
+          "title": "Minuet Mobile",
+          "short_description": "Minuet is an application that allows users to play their favorite MIDI files. It helps novices and experts with learning more about music education....",
+          "student_name": "Ayush Shah",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/AyushShah",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6230897497997312/"
+        },
+        {
+          "title": "DigiKam MySQL/MariaDB Database Support",
+          "short_description": "DigiKam is an advanced digital photo management  application which enables user to view, manage, edit, organize, tag and share photographs under...",
+          "student_name": "Swati",
+          "code_url": "https://docs.google.com/document/d/19vubnbTjCBetgaDVq7IoPCHcv-CSf4JaM67qsj0vG5M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4617358412873728/"
+        },
+        {
+          "title": "Plasma PublicTransport",
+          "short_description": "This project aims to port Plasma's PublicTransport applet to Plasma 5 and Qml",
+          "student_name": "rharish",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/harishnavnit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4684125155885056/"
+        },
+        {
+          "title": "Wiki-to-learn (W2L) Desktop Client",
+          "short_description": "A cross platform wiki-to-learn   browser . The browser will  also be available on Smartphones .  The main feature of the application is the offline...",
+          "student_name": "jayssj11",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/jgupta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4719336908390400/"
+        },
+        {
+          "title": "KStars on Windows",
+          "short_description": "KStars is a high quality planetarium program and at the same time a very powerful astronomy tool provided by the KDE Community. It is a free...",
+          "student_name": "Raphael Cojocaru",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/RaphaelCojocaru",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4769020016328704/"
+        },
+        {
+          "title": "A staging area to improve selecting files in Dolphin",
+          "short_description": "Selecting multiple files in any file manager for copying and pasting has never been a pleasant experience, especially if the files are in a...",
+          "student_name": "arnav dhamija",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/ArnavDhamija",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4788262543556608/"
+        },
+        {
+          "title": "KDE Now",
+          "short_description": "KDE Now is a Google Now substitute for the Plasma Desktop. Various useful information from one's Email is shown on a Plasmoid in the form of Cards.",
+          "student_name": "g33kyaditya",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/AdityaDevSharma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4790279299137536/"
+        },
+        {
+          "title": "KDevelop: LLDB Support",
+          "short_description": "Enabling kdevelop to use lldb as a debugging backend, which would be especially useful on Max OS X and Windows, where gdb support is rather scarce,...",
+          "student_name": "Aetf",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/PeifengYu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6014826014834688/"
+        },
+        {
+          "title": "Add softproofing and wide-gamut colour selector to Krita",
+          "short_description": "Most consumer screens can only show a limited amount of colour, this we generally refer to as the sRGB space. Wide gamut editing is about editing...",
+          "student_name": "Wolthera",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/WoltheravanHovelltotWesterflier",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6030544789831680/"
+        },
+        {
+          "title": "Fluent graphics across every tile level in Marble's OSM vector map",
+          "short_description": "Marble has a new type of map view, which renders the OSM data as vector graphics, but it currently supports only high zoom levels(13-17). This...",
+          "student_name": "koldav",
+          "code_url": "https://github.com/KDE/marble/commits/master?author=freedawson@gmail.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4895231388418048/"
+        },
+        {
+          "title": "Porting activities in Qt version of GCompris.",
+          "short_description": "GCompris is an educational suite, that aims to teach kids, in the easiest way. Here we are not trying to replace the teacher. We are here just to...",
+          "student_name": "Rajdeep Kaur",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/RajdeepKaur",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4899329324089344/"
+        },
+        {
+          "title": "LUKS & LVM support for Calamares & KDE Partition Manager",
+          "short_description": "Calamares  &amp; KDE partition Manager currently depends on KPMCore for doing its disk partitioning tasks. While KPMCore supports many file systems;...",
+          "student_name": "tctara",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/ChantaraTith",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4946951921467392/"
+        },
+        {
+          "title": "Devising the Plasma Mobile Emulator",
+          "short_description": "In KDE's annual world summit Akademy, KDE had bring to light about the project of Plasma Mobile stating it will be unique-both the dominant mobile...",
+          "student_name": "bdhruve",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/BhavishaDhruve",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4951924956725248/"
+        },
+        {
+          "title": "Kdenlive: Windows and OSX Port",
+          "short_description": "Kdenlive is an amazing video editing software. The features in kdenlive allow it to compete with many commercial solutions, but the userbase is...",
+          "student_name": "joejoshw",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/joshwambua",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4952476860022784/"
+        },
+        {
+          "title": "Extending animation features in Krita",
+          "short_description": "This project aims to bring Krita's animation features to more types of layers and masks, as well as provide means to generate certain types of...",
+          "student_name": "Jouni Pentik\u00e4inen",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/JouniPentikainen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5774868071055360/"
+        },
+        {
+          "title": "Ark project: Implement advanced editing of archives",
+          "short_description": "Ark is an archive manager. For now it has lack of adding content to certain folder, moving, deleting and copying functionality. I'd like to propose...",
+          "student_name": "mvlabat",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/Batyrenko_Vladyslav",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5775441717624832/"
+        },
+        {
+          "title": "Julia Backend for Cantor",
+          "short_description": "The goal of the project is to implement Julia support for Cantor worksheet application with folowing features: command execution, variable...",
+          "student_name": "IvanLakhtanov",
+          "code_url": "https://juliacantor.blogspot.ru/2016/08/cantor-gets-support-of-julia-language.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5829086664458240/"
+        },
+        {
+          "title": "Umbrello: New Breath",
+          "short_description": "The idea of this proposal is give a new breath to Umbrello. Updating the application to use Qt5 and KF5 libraries and implement a few features on the...",
+          "student_name": "Lays Rodrigues",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/LaysRodrigues",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5891680712523776/"
+        },
+        {
+          "title": "WikiToLearn Rating",
+          "short_description": "The pages of content on wiki-style platforms can be more or less reliable and of good quality. But it all depends on parameters like author's...",
+          "student_name": "Abhimanyu Singh Shekhawat",
+          "code_url": "https://community.kde.org/index.php?title=GSoC/2016/StatusReports/AbhimanyuSinghShekhawat&oldid=73635",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5934195385827328/"
+        },
+        {
+          "title": "Add educational activities to GCompris (In Qt Quick)",
+          "short_description": "GCompris is an educational software suite comprising of numerous activities for children aged 2 to 10. This project aims at creating two more...",
+          "student_name": "Pulkit_Gupta",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/PulkitGupta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5161731424780288/"
+        },
+        {
+          "title": "Use Phabricator API to enhance KDE Reports",
+          "short_description": "KDE Reports aims to provide insight about KDE projects from one place instead of having to go through different sources. The project goal is about...",
+          "student_name": "ali-mohamed",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/AliMohamed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5196547771858944/"
+        },
+        {
+          "title": "LabPlot: Adding histogram and bar chart.",
+          "short_description": "This project implement two new plot types - histogram for continuous (quantitative) data\nand bar chart/plot for categorical\u200b data and support for...",
+          "student_name": "AnuMittal",
+          "code_url": "https://community.kde.org/GSoC/2016/StatusReports/anumittal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5225565913088000/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5586250824155136/",
+      "num_projects": 24,
+      "projects": [
+        {
+          "title": "Rust support for KDevelop",
+          "short_description": "Rust is a rather new programming language, but it has already gained a lot of traction. It was voted \u201cmost loved\u201d language by developers for the...",
+          "student_name": "Emma",
+          "code_url": "https://cgit.kde.org/kdev-rust.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6681324676972544/"
+        },
+        {
+          "title": "Testing interface for Kopete and Improvement of protocol support",
+          "short_description": "Idea is to create auto tests for kopete and improve the current protocol support. Autotests will be run using make check. QtTest will be used for...",
+          "student_name": "Vijay Krishnavanshi",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/vijay",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6751693421150208/"
+        },
+        {
+          "title": "[digiKam]: Healing clone tool for dust spots removal",
+          "short_description": "Healing Clone Tool: \nA tool for image editor to be used for healing image stains with the use of another part of the image by coloring by the use of...",
+          "student_name": "Shaza Ismail Kaoud",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/shazaismailkaoud",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5686002110693376/"
+        },
+        {
+          "title": "[digikam] Project: Database export to remote network devices using DLNA/UPNP",
+          "short_description": "Brief Explanation: In the past, Kipi-plugins provided a way to export KIPI host data to DLNA/UPNP by a plugin using HUpnp library for Qt. Since...",
+          "student_name": "Ahmed Fathy",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/ahmedfathy",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5717675481235456/"
+        },
+        {
+          "title": "Marble Material Maps",
+          "short_description": "The goal for this project is redesigning the Marble Maps Android applications user interface to fit the Material Design guidelines.",
+          "student_name": "Bernkastel",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/JuditBartha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5401978741981184/"
+        },
+        {
+          "title": "Stabilize and ship Ruqola",
+          "short_description": "Ruqola is a Qt interface to Rocket Chat, with a library implementing DDP semantics, and a QML UI for both desktop and mobile phones. The application...",
+          "student_name": "Vasudha",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/Vasudha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5444246991536128/"
+        },
+        {
+          "title": "Telemetry for getting statistics for which features are used the most in Krita",
+          "short_description": "The creation of a telemetry system, which allows you to better understand what users of Krita are using. That is something similar to clickstream...",
+          "student_name": "Alexey Kapustin",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/AlexeyKapustin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5525578237083648/"
+        },
+        {
+          "title": "digiKam: Face Management Improvements",
+          "short_description": "Face recognition in digiKam is now implemented using Local Binary Patterns Histograms(LBPH) from OpenCV. However, since the performance is not as...",
+          "student_name": "Yingjie Liu",
+          "code_url": "https://yjwudi.github.io/2017/08/22/work_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5080492923682816/"
+        },
+        {
+          "title": "Go Language support in KDevelop",
+          "short_description": "Go language have some support from KDevelop side. This project aims on improving that support, implementing: building and project management,...",
+          "student_name": "Mikhail Ivchenko",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/MikhailIvchenko",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5303509503180800/"
+        },
+        {
+          "title": "Polkit Support in KIO",
+          "short_description": "KIO framework is used by KDE applications to provide file management abilities. This framework provides almost all file management functions that one...",
+          "student_name": "Chinmoy",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/chinmoyrp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5344318537596928/"
+        },
+        {
+          "title": "Progressive Web App for WikiToLearn",
+          "short_description": "This project will consist in designing and developing a progressive web app for WikiToLearn. New features such as offline browsing, mobile...",
+          "student_name": "Cristian Baldi",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/CristianBaldi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5384840748728320/"
+        },
+        {
+          "title": "Finishing started activities for GCompris in Qt-Quick",
+          "short_description": "GCompris is a high-quality educational suite which aims at making learning\neasier for children aged 2 to 10. GCompris currently has 137 activities on...",
+          "student_name": "Rudra Nil Basu",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/RudraNilBasu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5638243819192320/"
+        },
+        {
+          "title": "Migrating to Kirigami (Koko)",
+          "short_description": "Project: Migrating the 'Koko' image gallery application's UI components to Kirigami.\nBrief Explanation:\nThe current version of Koko uses the...",
+          "student_name": "Atul Sharma",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/atulsharma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6254907170488320/"
+        },
+        {
+          "title": "Marble Indoor Maps",
+          "short_description": "Marble Maps brings the highly detailed OpenStreetMap to your Android devices. It features a crisp, beautiful map with an intuitive user interface....",
+          "student_name": "Mohammed Nafees",
+          "code_url": "https://github.com/KDE/marble/commits/master/?author=mnafees&since=2017-05-30&until=2017-09-04",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4560444593274880/"
+        },
+        {
+          "title": "Database separation for Similarity",
+          "short_description": "DigiKam is an advanced digital photo management  application which enables user to view, manage, edit, organize, tag and share photographs under...",
+          "student_name": "Swati Lodha",
+          "code_url": "https://docs.google.com/document/d/1nlKsswoK0Sgj2doSChbgX0ofh_4j5NC2Ba54_96IOmk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4737667023503360/"
+        },
+        {
+          "title": "A Procedural Watercolor Brush Engine for Krita",
+          "short_description": "Watercolor is one of the most complex tools for imitation. The painting, painted with watercolors, depends to a large extent on the motion of the...",
+          "student_name": "Grigory Tantsevov",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/GrigoryTantsevov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4810122584915968/"
+        },
+        {
+          "title": "Adding support for plotting of real-time data in LabPlot",
+          "short_description": "Currently LabPlot supports only the import of static data into one of its data containers, the aim of this project is to add support for real-time...",
+          "student_name": "F\u00e1bi\u00e1n Krist\u00f3f",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/FabianKristof",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6498972445179904/"
+        },
+        {
+          "title": "Make High-DPI awesome",
+          "short_description": "As seen on Blog Posts on Planet KDE support for High-DPI monitors has come a long way since Plasma 5.0. And thanks to the work by many dedicated...",
+          "student_name": "Lukas Hetzenecker",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/LukasHetzenecker",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6527878648823808/"
+        },
+        {
+          "title": "Finishing started activities in GCompris (In Qt Quick)",
+          "short_description": "GCompris is an educational software suite comprising of numerous activities for children aged 2 to 10. My project would be to complete the already...",
+          "student_name": "Divyam Madaan",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/DivyamMadaan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6567073446625280/"
+        },
+        {
+          "title": "Improve stability, testing and bring modern C++ to KStars",
+          "short_description": "KStars has a mature codebase with well-written C++. Despite the best efforts of the developer community, the sources need a serious modernization...",
+          "student_name": "kecsap",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/CsabaKertesz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4839390639554560/"
+        },
+        {
+          "title": "Develop a showcase of Krita's new scripting support",
+          "short_description": "Krita is a professional free and open source painting program. The Krita's tools and features are focused on digital painting, concept art,...",
+          "student_name": "Eliakin Costa",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/EliakinCosta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4881297038114816/"
+        },
+        {
+          "title": "Integrate with share.krita.org",
+          "short_description": "The project aims at the integration of Krita with share.krita.org using the library LibAttica and giving support for the resource manager. A new GUI...",
+          "student_name": "Aniketh Girish",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/AnikethGirish",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5901122124382208/"
+        },
+        {
+          "title": "Chat Bridge",
+          "short_description": "Chat Bridge is intended to be a protocol-independent chat-bridge to allow messages forward to and from various chat systems.\nIt has to support...",
+          "student_name": "Davide Riva",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/DavideRiva",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5938131589136384/"
+        },
+        {
+          "title": "Multiple-Instrument View Framework",
+          "short_description": "Minuet is a free musical software. Its goal is helping users learn and exercise their skills in music education. The areas covered by Minuet are:...",
+          "student_name": "StefanT",
+          "code_url": "https://community.kde.org/GSoC/2017/StatusReports/StefanToncu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5986089730834432/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6517016676532224/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Port the package of all GTK+ piano activities to Qt",
+          "short_description": "Originally written in Gtk+, GCompris development team started to rewrite it from scratch in Qt Quick.\nMy aim is to port all the piano-based...",
+          "student_name": "Aman Kumar  Gupta",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/AmanKumarGupta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6439081139503104/"
+        },
+        {
+          "title": "Port keyboard input modules to Qt Quick and expand scope to cover input method configuration for System Settings",
+          "short_description": "Users of Plasma Desktop Environment expect to find all their necessary system configurations through the System Settings application. So it plays an...",
+          "student_name": "Gun Park",
+          "code_url": "https://phabricator.kde.org/D14796",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5644660902985728/"
+        },
+        {
+          "title": "One step closer to version 1.0",
+          "short_description": "GCompris is a high-quality educational suite, that aims to teach the kids who are aged 2-10 years. Recently its 0.9 version was released which has...",
+          "student_name": "Amit Sagtani",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/AmitSagtani",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5663461317017600/"
+        },
+        {
+          "title": "A Swatches Docker for Krita",
+          "short_description": "This project intends to create a swatches docker for Krita. It's similar to the palette docker that's already in Krita today, but it has the...",
+          "student_name": "Michael Zhou",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/MichaelZhou",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5681839146532864/"
+        },
+        {
+          "title": "Optimize multithreading in Krita's Tile Manager",
+          "short_description": "This project is about improving Krita overal perfomance by introducing lock-free hash table for storing tiles and improving locks described in...",
+          "student_name": "Andrey Kamakin",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/AndreyKamakin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5750159526854656/"
+        },
+        {
+          "title": "[digiKam] Project: Supporting Twitter and One Drive services in digikam export",
+          "short_description": "digiKam supports images export to many services.\nThis project aims to add Twitter and OneDrive to digiKam export services.",
+          "student_name": "Tarek Talaat",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/TarekTalaat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5121243036516352/"
+        },
+        {
+          "title": "Finish LVM support and implement RAID support in KDE Partition Manager and Calamares",
+          "short_description": "KDE Partition Manager is a utility program that helps the management of disk devices, partitions and file systems on your computer. It allows you to...",
+          "student_name": "Caio Jord\u00e3o Carvalho",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/CaioJord%C3%A3oCarvalho",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5295030432432128/"
+        },
+        {
+          "title": "Discover: fwupd integration",
+          "short_description": "Currently Discover does most of the general job required for a typical plasma user but it lacks firmware/kernel upgrade on devices.This project will...",
+          "student_name": "Abhijeet Sharma",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/AbhijeetSharma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5622974405148672/"
+        },
+        {
+          "title": "Optimize Krita Soft, Gaussian and Stamp brushes mask generation to use AVX with Vc Library",
+          "short_description": "Krita digital painting app relies on quick painting response to give a natural experience. A painted line is composed of thousands of images placed...",
+          "student_name": "Iv\u00e1n Yossi",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/ivanyossiIv%C3%A1n",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5634165009547264/"
+        },
+        {
+          "title": "Expand Peruse Creator\u2019s Abilities",
+          "short_description": "Peruse is a comic reader application from KDE. The capabilities of Peruse creator application is very limited now.The project aims to increase the...",
+          "student_name": "Mahesh S Nair",
+          "code_url": "https://github.com/mahesh6947/PeruseGSoCworks.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6245396569391104/"
+        },
+        {
+          "title": "Improve the desktop and the Android version of KStars",
+          "short_description": "Brief explanation: KStars has a mature codebase with well-written C++ for a desktop and a mobile client. The applicant would like to contribute...",
+          "student_name": "kecsap",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/kecsap",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6256557310345216/"
+        },
+        {
+          "title": "Verifying signatures of pdf files",
+          "short_description": "Okular should provide information about signatures if a pdf document has been signed. The poppler library used by Okular to render pdf files does...",
+          "student_name": "Chinmoy Ranjan Pradhan",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/chinmoyrp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6259018662150144/"
+        },
+        {
+          "title": "Implementing the FreeText annotation with FreeTextTypewriter behavior",
+          "short_description": "Okular is a KDE universal document viewer. It allows reviewing and annotating the PDF documents and supports various text and graphic annotations....",
+          "student_name": "Dileep Sankhla",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/DileepSankhla",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6055438755823616/"
+        },
+        {
+          "title": "digiKam : Web Services tools authentication with OAuth2",
+          "short_description": "digiKam is a desktop application for photos management. Providing a wide range of plugins for exporting photos to web services (e.g dropbox, flickr,...",
+          "student_name": "Thanh Trung Dinh",
+          "code_url": "https://drive.google.com/open?id=1_LBx6FGwFaVwZq5ZnpEM2hWnWSJAxeC3RgWhfb39TkM",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5786216448393216/"
+        },
+        {
+          "title": "WikiToLearn production-ready PWA",
+          "short_description": "Goals\n\nImprove documentation\nImprove tests, write more unit and feature tests\nOrganize assets and resources in a reusable manner\nProvide optimal...",
+          "student_name": "Demetrio Carrara",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/DemetrioCarrara",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5977543685439488/"
+        },
+        {
+          "title": "JavaScript/QML extension support in Falkon",
+          "short_description": "Falkon is a web browser, previously known as Qupzilla. Falkon supports extensions but in C++ & Python. The task for the project is to integrate...",
+          "student_name": "Anmol Gautam",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/AnmolGautam",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5996823525195776/"
+        },
+        {
+          "title": "Plotting of live MQTT data",
+          "short_description": "Currently LabPlot has some support for the plotting of live data, which can be read from file/named pipe, TCP socket, UDP socket, local socket and...",
+          "student_name": "Ferencz Kov\u00e1cs",
+          "code_url": "https://community.kde.org/GSoC/2018/StatusReports/FerenczKov%C3%A1cs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5180010537156608/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6750932035960832/",
+      "num_projects": 22,
+      "projects": [
+        {
+          "title": "Nextcloud Integration on Plasma Mobile",
+          "short_description": "Develop a system to implement a bidirectional data synchronizer and deliver fully integrated solution for Nextcloud in Plasma Mobile by syncing data...",
+          "student_name": "Rituka Patwal",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/ORePoala",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6343810290810880/"
+        },
+        {
+          "title": "Porting Magnetic Lasso to Krita",
+          "short_description": "The Magnetic Lasso was lost during the port from Qt3 to Qt4, this project tries to continue the working to port the tool to the current version of...",
+          "student_name": "hellozee",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/hellozee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6344030189780992/"
+        },
+        {
+          "title": "Port Authentication to Polkit-qt",
+          "short_description": "KDE Partition Manager runs all the authentication or authorization protocols over KAuth (KDE Authentication), which is a tier 2 library from KDE...",
+          "student_name": "SHUBHAM.",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/Shubham",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6347521142554624/"
+        },
+        {
+          "title": "KDE Connect for macOS port",
+          "short_description": "Port KDE Connect to macOS with enhanced features, including native notification, context menu \"Send-to\", etc. This would make KDE Connect the first...",
+          "student_name": "Inoki",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/WeixuanXiao",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6445354726195200/"
+        },
+        {
+          "title": "Ensuring consistency between the SDDM login manager and the Plasma desktop",
+          "short_description": "The Plasma desktop does not have a hard dependency on any login manager, but the SDDM (Simple Desktop Display Manager) login manager is the...",
+          "student_name": "Filip Fila",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/Filip_Fila",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6693082785906688/"
+        },
+        {
+          "title": "Implement the import/export of Jupyter notebooks in Cantor",
+          "short_description": "Add to Cantor, a KDE program with similar functionality as Jupyter, feature to import/export Jupyter notebooks. It gives Cantor access to result of...",
+          "student_name": "Nikita Sirgienko",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/NikitaSirgienko",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6701781235531776/"
+        },
+        {
+          "title": "Faces Management workflow improvements",
+          "short_description": "DigiKam has powerful tool to auto detect and recognize faces on images. This feature is important for the end users, as it can save a lot of time....",
+          "student_name": "Igor Antropov",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/IgorAntropov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5422807838621696/"
+        },
+        {
+          "title": "Better undo/redo for Krita",
+          "short_description": "Use snapshots (shallow copies of the document) instead of actions for the purposes of undo and redo in Krita. This simplifies the system and makes it...",
+          "student_name": "tusooa",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/tusooa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4965337701810176/"
+        },
+        {
+          "title": "Revamping the Titler Tool",
+          "short_description": "Revamping the Titler Tool\nWhat does the titler tool do?  : The titler tool is used to create clips containing text and images, which can be...",
+          "student_name": "Akhil K Gangadharan",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/AkhilKGangadharan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4967044749983744/"
+        },
+        {
+          "title": "Statistical analysis",
+          "short_description": "Currently, Labplot has a basic set of measures for statistical analysis (Regressions, Histogram Plots, Location Measures, Dispersion Measures and...",
+          "student_name": "DEVANSHU AGARWAL",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/DevanshuAgarwal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6189015961698304/"
+        },
+        {
+          "title": "Polishing KIOFuse",
+          "short_description": "KIOSlaves are a powerful feature within the KIO framework, allowing KIO-aware applications such as Dolphin to interact with services out of the local...",
+          "student_name": "Feverfew",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/Feverfew",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4621805883490304/"
+        },
+        {
+          "title": "An Improved Graph Theory IDE",
+          "short_description": "As a student, I use graphs in almost everything related to my master\u2019s research. Graph Theory is a great mathematical tool for programmers and...",
+          "student_name": "Caio Tonetti",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/CaioTonetti",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4668130863874048/"
+        },
+        {
+          "title": "Refactoring Khipu",
+          "short_description": "Khipu is a good mathematical software but it's still on their beta version with some bugs and some things missing. I'll refactor it to make clean...",
+          "student_name": "Karina Pereira Passos",
+          "code_url": "https://karinappassos.home.blog/2019/08/26/day-92-the-last-day/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4687206021595136/"
+        },
+        {
+          "title": "KDE Connect for Windows",
+          "short_description": "KDE Connect is an application to sync your connected devices.\nSome of the features of KDE Connect include:-\n- sync mobile and desktop device...",
+          "student_name": "Piyush Aggarwal",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/brute4s99",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4729984382402560/"
+        },
+        {
+          "title": "KDE ISO Image Writer",
+          "short_description": "KDE ISO Image Writer, which is part of the KDE neon project, is a tool to write ISO images into USB drives. It was forked from ROSA Image Writer and...",
+          "student_name": "Farid Boudedja",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/FaridBoudedja",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4803645403561984/"
+        },
+        {
+          "title": "Port Krita to Android",
+          "short_description": "Krita is only available for desktop OSes, my proposal is to add the support to mobile devices, android to be specific.\nThe proposal intends to build...",
+          "student_name": "sh_zam",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/sh_zam",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6549974475603968/"
+        },
+        {
+          "title": "[digiKam] Project: Zoomable and Resizable Brush for Healing Clone Tool",
+          "short_description": "Due to uncleanness of the camera, sometimes dusty spots appear in the captured image. Those dusty spots can be fixed by cloning similar regions from...",
+          "student_name": "Ahmed Fathy",
+          "code_url": "https://ahmedfathishabanblog.wordpress.com/2019/08/21/healing-clone-tool-project-digikam-gsoc-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4930226629378048/"
+        },
+        {
+          "title": "AI Face Recognition with OpenCV DNN module",
+          "short_description": "digiKam is KDE desktop application for photos management. In digiKam, tags on photos are strongly supported for the sake of providing users with a...",
+          "student_name": "Thanh Trung Dinh",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/ThanhTrungDinh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5798435662331904/"
+        },
+        {
+          "title": "Import of educational data sets available on the internet",
+          "short_description": "There are many internet pages providing data sets for educational and academic purposes concerning various fields of science, and not only...",
+          "student_name": "Ferencz Kov\u00e1cs",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/FerenczKov%C3%A1cs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5892717442236416/"
+        },
+        {
+          "title": "Improve JavaScript support on Okular",
+          "short_description": "JavaScript is being widely used in PDF for all sort of things. Right now, Okular still fails to interpret and execute most of these JavaScript...",
+          "student_name": "Jo\u00e3o Netto",
+          "code_url": "https://community.kde.org/index.php?title=GSoC/2019/StatusReports/Jo%C3%A3oNetto",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5958551187488768/"
+        },
+        {
+          "title": "kmarkdown-qtview with WYSIWYG markdown editor",
+          "short_description": "I want to make a new Markdown WYSIWYG editor with light-weight render written in C++ and QT for KDE. Support pagination, printing preview, better...",
+          "student_name": "SonGeon",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/SonGeon",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6286611979960320/"
+        },
+        {
+          "title": "One step closer to version 1.0",
+          "short_description": "When using Gcompris the difficulty in an activity can increase too much and target different ages in the same levels. The aim of this project is to...",
+          "student_name": "Akshay Kumar",
+          "code_url": "https://community.kde.org/GSoC/2019/StatusReports/AkshayKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5144090818117632/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4992468447133696/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Storyboard feature for Krita",
+          "short_description": "This project would implement a storyboard feature for Krita.  A storyboard is a graphic organizer that consists of illustrations and comments...",
+          "student_name": "Saurabh Kumar(confifu)",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/SaurabhKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6334013293199360/"
+        },
+        {
+          "title": "Towards the completion of multiple dataset task",
+          "short_description": "By the end of GSoC 2020 time period, I will make the difficulty range of some of the Activities wider by adding different difficulty level datasets....",
+          "student_name": "Shubham Mishra",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/ShubhamMishra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6473982317953024/"
+        },
+        {
+          "title": "Basic Subtitling Support in Kdenlive",
+          "short_description": "Videos in Kdenlive are edited by applying filters or effects, however, the application is largely limited in its ability to customize and edit...",
+          "student_name": "Sashmita Raghav",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/SashmitaRaghav",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6615488269910016/"
+        },
+        {
+          "title": "Integrated Documentation",
+          "short_description": "Cantor is an application that lets user use their favourite mathematical applications from within a nicely KDE-integrated worksheet interface. It...",
+          "student_name": "Shubham .",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/Shubham",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5688341061697536/"
+        },
+        {
+          "title": "Improvements to KDE Web Infrastructure",
+          "short_description": "KDE has a vast web infrastructure. Some KDE websites have not been upgraded in a long time and use dated technologies.\nThe first part of this project...",
+          "student_name": "Anuj Bansal",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/AnujBansal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5736600522194944/"
+        },
+        {
+          "title": "Integrating the MyPaint Brush Engine with Krita",
+          "short_description": "Artists love to work with MyPaint brushes and it would be nice to integrate the same in Krita. The goal of the project is to integrate the MyPaint...",
+          "student_name": "Ashwin Dhakaita",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/AshwinDhakaita",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5752078376370176/"
+        },
+        {
+          "title": "Provide bank data for financial applications as a SQLite DB and add support for data update",
+          "short_description": "The idea is to integrate the support for query and generation of SQLite databases into KtoBLZCheck to replace the text files used currently. This...",
+          "student_name": "Prasun Kumar",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/PrasunKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5386498779643904/"
+        },
+        {
+          "title": "Face Recognition Workflow Improvements",
+          "short_description": "DigiKam is a KDE Desktop Application for Photo Management. At the heart of DigiKam's commendable functionality is the FaceEngine. DigiKam can detect...",
+          "student_name": "Kartik Ramesh",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/KartikRamesh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5085579613569024/"
+        },
+        {
+          "title": "EteSync sync backend for Akonadi",
+          "short_description": "The Akonadi framework is responsible for providing KDE PIM applications with a centralized database to store, index and retrieve the user's personal...",
+          "student_name": "Shashwat Jolly",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/ShashwatJolly",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5580710657654784/"
+        },
+        {
+          "title": "Improve MMS support to the SMS client",
+          "short_description": "KDE Connect has recently launched an SMS Messaging app for the desktop which uses KDE Connect to synchronize all the existing conversations from the...",
+          "student_name": "Aniket Kumar",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/AniketKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6210677233942528/"
+        },
+        {
+          "title": "Extend the usability and feature set of Cantor",
+          "short_description": "Improve the usability and feature set of Cantor via adding common for another similar programs feature set and fixing a lot of minor problems.",
+          "student_name": "Nikita Sirgienko",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/NikitaSirgienko",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6223345508417536/"
+        },
+        {
+          "title": "Dynamic Fill Layers in Krita using SeExpr",
+          "short_description": "Layers are one of the core concepts of digital painting. They allow artists to control different parts of their artwork at once, for instance, color,...",
+          "student_name": "L. E. Segovia (amyspark)",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/LeonardoEmanuelSegovia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6233717216903168/"
+        },
+        {
+          "title": "Proposal for the DigiKam DNN based Faces Recognition Improvements project",
+          "short_description": "digiKam is a famous open source photo management software. With a huge effort, the developers of digiKam have implemented face detection and facial...",
+          "student_name": "Nghia Duong",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/NghiaDuong",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4826342333349888/"
+        },
+        {
+          "title": "Improve MAVLink integration of Kirogi",
+          "short_description": "Currently, Kirogi takes advantage of only some portion of MAVLink protocol, which is one of the most popular protocol between GCS and unmmaned...",
+          "student_name": "Kitae Kim",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/KitaeKim",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4832514738225152/"
+        },
+        {
+          "title": "marK - add support to text annotation",
+          "short_description": "this project has two main objectives, improve marK code base to support others types of annotation and add support to text annotation",
+          "student_name": "jean lima andrade",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/JeanLimaAndrade",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5884983723425792/"
+        },
+        {
+          "title": "SVG Mesh Gradients",
+          "short_description": "Mesh Gradients are important to produce real looking vector graphics. They are also very helpful and straightforward to use for an artist. They are...",
+          "student_name": "sh-zam",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/SharafZaman",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5976103434321920/"
+        },
+        {
+          "title": "Better Graph Layout for the Graph Theory IDE",
+          "short_description": "The main goal of this project is to improve the graph visualization capabilities of Rocs, a Graph Theory IDE for experimenting with graphs and graph...",
+          "student_name": "Dilson Guimar\u00e3es",
+          "code_url": "https://community.kde.org/index.php?title=GSoC/2020/StatusReports/DilsonGuimaraes",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6284398099431424/"
+        },
+        {
+          "title": "Qt Calendar Extension Update",
+          "short_description": "The initial target was to port Qt Labs Calendar to QuickControls2. Due to changes in the structure of the QuickControls2, calendar is now a...",
+          "student_name": "Agisilaos Kounelis",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/AgisilaosKounelis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5131678504189952/"
+        },
+        {
+          "title": "Adding multiple datasets to several activities",
+          "short_description": "GCompris offers many activities related to reading, maths, science and since its free software, everyone can adapt it to one\u2019s own needs, improve it...",
+          "student_name": "deepak2431",
+          "code_url": "https://community.kde.org/GSoC/2020/StatusReports/DeepakKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5164103494008832/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4834047200591872/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Adding new activities",
+          "short_description": "GCompris is a software suite comprising educational entertainment software for children aged 2 to 10. The goal of GCompris project in GSoC this year...",
+          "student_name": "Harsh Kumar",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/HarshKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6331159855759360/"
+        },
+        {
+          "title": "Integrating XFSTESTS with KDE KIO-FUSE",
+          "short_description": "While current testing suite of KIO-FUSE tests individual operations pretty aptly, it lacks the support to put KIO-FUSE through regression tests....",
+          "student_name": "Bhumit Attarde",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/BhumitAttarde",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6366779563048960/"
+        },
+        {
+          "title": "Reference Image Improvement",
+          "short_description": "This project aims to improve the Reference Image Tool in Krita to include some additional features that will be helpful for the users .With this...",
+          "student_name": "Sachin Jindal",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/Sachinjindal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6400421773443072/"
+        },
+        {
+          "title": "KMyMoney : Integration of the new functionalities from the Alkimia library",
+          "short_description": "KMyMoney is a cross-platform personal finance tracking app. It uses C++, Qt as its core and the UI is done using QtWidgets. KMyMoney 4.8 is equipped...",
+          "student_name": "Suraj Kumar Mahto",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/Suraj_Kumar_Mahto",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6457717576695808/"
+        },
+        {
+          "title": "Add gdb pretty printer support for Qt5",
+          "short_description": "Pretty printer to show variables and objects in human readable format",
+          "student_name": "Chukwuebuka Ezike",
+          "code_url": "https://community.kde.org/GSoc/2021/StatusReports/EzikeChukwuebuka",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5091756680413184/"
+        },
+        {
+          "title": "Plasma Mobile - Akonadi Calendar",
+          "short_description": "While KDE Plasma on the desktop has robust calendar, tasks and journal management capabilities thanks to KOrganizer, Plasma Mobile currently lacks...",
+          "student_name": "Claudio Cambra",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/ClauCambra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5123523701374976/"
+        },
+        {
+          "title": "Implementing an efficient algorithm for smarter boolean operations on vector shapes",
+          "short_description": "In Krita, performing boolean operations on vector shapes leads to a large number of unnecessary nodes. This happens because Qt lacks a proper...",
+          "student_name": "Tanmay Chavan",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/TanmayChavan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5579183928901632/"
+        },
+        {
+          "title": "Faces engine Improvements",
+          "short_description": "DigiKam is a famous open source photo management software. Face engine is a tool helping users recognize and label faces in photos. Following the...",
+          "student_name": "Nghia Duong",
+          "code_url": "https://invent.kde.org/graphics/digikam/-/tree/gsoc21-faces-engine",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6512493744095232/"
+        },
+        {
+          "title": "Alligator : Podcast Support",
+          "short_description": "This project aims to add podcast support to Alligator. Alligator is a RSS feed reader and that makes it an ideal software for adding podcast support...",
+          "student_name": "Swapnil Tripathi",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/Swapnil",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6560176739450880/"
+        },
+        {
+          "title": "Port digiKam to Qt6 on Linux",
+          "short_description": "digiKam 7.2 as of now, is fully compatible with Qt 5.15.2 on all major platforms. Qt6 has been released recently. Given that Qt5 and Qt6 are 8 years...",
+          "student_name": "Anjani Kumar",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/AnjaniKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6116725258452992/"
+        },
+        {
+          "title": "Collective Operations over multiple layers/groups in Krita",
+          "short_description": "Krita is an open source digital painting platform used by professionals. Artists usually work with multiple layers for a single element in their work...",
+          "student_name": "Santhosh Anguluri",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/SanthoshAnguluri",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5967948631506944/"
+        },
+        {
+          "title": "KStars DSO Overhaul",
+          "short_description": "Revision of the backend of deep sky object (DSO) catalogs and custom catalogs in regard to performance and support for (basic) cross-referencing....",
+          "student_name": "Valentin Boettcher",
+          "code_url": "https://invent.kde.org/education/kstars/-/wikis/GSOC-2021:-Work-Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5128799867371520/"
+        },
+        {
+          "title": "digiKam Image Quality Sorter algorithms improvement",
+          "short_description": "Image Quality sorter is a tool of digiKam. It helps users to label image bt accepted or pending or rejected. However, the current implementation does...",
+          "student_name": "Phuoc-Khanh LE",
+          "code_url": "https://community.kde.org/index.php?title=GSoC/2021/StatusReports/PhuocKhanhLE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5139632848633856/"
+        },
+        {
+          "title": "Okular: Improve Custom/Image Stamp Annotation Handling",
+          "short_description": "Okular doesn't fully support stamp annotation representation resulting in sometimes rendering the same stamp icon couple times on the screen, or not...",
+          "student_name": "Mahmoud Khalil",
+          "code_url": "https://ma-khalil.github.io/Adding-Custom-Stamps-Support-To-Okular/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5143288469782528/"
+        },
+        {
+          "title": "Adding new activities to GCompris",
+          "short_description": "During Google Summer of Code 2021, I would like to work on four new activities:\n1- Mouse control action activity: its goal is to provide audio-visual...",
+          "student_name": "Mariam Fahmy",
+          "code_url": "https://community.kde.org/GSoC/2021/StatusReports/MariamFahmy",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5199894997893120/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/kde-community/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "New plugin to process Optical Character Recognition (OCR)",
+          "short_description": "DigiKam is an advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a...",
+          "student_name": "TRAN Quoc Hung",
+          "code_url": "https://community.kde.org/GSoC/2022/StatusReports/QuocHungTran",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gxybLP1E/"
+        },
+        {
+          "title": "DigiKam Image Quality Sorter Algorithms Improvement",
+          "short_description": "The main idea of IQS in digiKam is to determine the quality of an image and convert it into a score. This score is based on four criteria which are...",
+          "student_name": "lephuock",
+          "code_url": "https://community.kde.org/GSoc/2022/StatusReports/PhuocKhanhLe#Work_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mVuZp7l7/"
+        },
+        {
+          "title": "Permission Management for Flatpak and Snap Application in Discover",
+          "short_description": "PROBLEM: Flatpaks and Snap applications run in isolation from rest of the system, therefore they do not have access to the system resources (such as...",
+          "student_name": "Suhaas Joshi",
+          "code_url": "https://community.kde.org/GSoC/2022/StatusReports/SuhaasJoshi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TPLloS04/"
+        },
+        {
+          "title": "Pixel-perfect ellipses in Krita",
+          "short_description": "Improve b\u00e9zier rasterisation in Krita. Optionally disable floating-point precision when making pixel arts. Make specialised algorithms for common...",
+          "student_name": "XuChe",
+          "code_url": "https://community.kde.org/GSoC/2022/StatusReports/XuChe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7tWkRGDw/"
+        },
+        {
+          "title": "Export an Image to SVG in Krita",
+          "short_description": "Krita as a drawing application is expected to be able to read and write to many different formats for interoperability with many different programs...",
+          "student_name": "Reinold Rojas",
+          "code_url": "https://invent.kde.org/graphics/krita/-/merge_requests/1487",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HjIfrSVH/"
+        },
+        {
+          "title": "Adding new activities to GCompris",
+          "short_description": "I wish to add value to GCompris by contributing to two activities in the Mathematics and English domain. The first activity is \"Using 10's complement...",
+          "student_name": "Samarth Raj",
+          "code_url": "https://community.kde.org/GSoC/2022/StatusReports/Samarthraj#Adding_new_activities_to_GCompris",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UDM3Yasl/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/kde-community",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "IMPROVING MAIL INTEGRATION IN KALENDAR",
+          "short_description": "The aim of this project is to improve Mail Integration in Kalendar by implementing the following goals: 1) Adding email composition 2) Implementing...",
+          "student_name": "Aakarsh MJ",
+          "code_url": "https://community.kde.org/GSoc/2023/StatusReports/AakarshMJ",
+          "proposal_id": "3YYAg6tC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5r2LyurQ"
+        },
+        {
+          "title": "Implement calendar availability",
+          "short_description": "This feature implements RFC 7953 in the Kalendar app. This adds the ability for a user to provide their availability in a shared calendar. When a...",
+          "student_name": "InfiniteVerma",
+          "code_url": "https://community.kde.org/GSoc/2023/StatusReports/AnantVerma",
+          "proposal_id": "ThDbHHkQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5NO7f2Yn"
+        },
+        {
+          "title": "MEASURING ENERGY CONSUMPTION USING REMOTE LAB",
+          "short_description": "Sustainability is a key goal for KDE over the next two years. As part of this goal, KDE aims to measure the energy consumption of its software and...",
+          "student_name": "Karanjot",
+          "code_url": "https://community.kde.org/GSoc/2023/StatusReports/KaranjotSingh",
+          "proposal_id": "eSWL41yK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IFkJPy65"
+        },
+        {
+          "title": "Adding moderation tool in Tokodon project under KDE",
+          "short_description": "This project aims to enhance the functionality of Tokodon by integrating moderation tools which will allow moderators and administrators of Mastodon...",
+          "student_name": "Rishi Kumar",
+          "code_url": "https://community.kde.org/GSoC/2023/StatusReports/RishiKumar",
+          "proposal_id": "1bFt4Ahc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/sGepI44u"
+        },
+        {
+          "title": "Okular - Improve Okular For Android",
+          "short_description": "Okular is a document viewer that is developed by the KDE Community. It has an Android version, but it has some issues. PDFs with unembedded fonts...",
+          "student_name": "Shivodit",
+          "code_url": "https://community.kde.org/GSoC/2023/StatusReports/ShivoditGill",
+          "proposal_id": "hL6YuRMQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/O0ndeDYr"
+        },
+        {
+          "title": "Improving the Bundle Creator",
+          "short_description": "The primary format to share resources in Krita is a Resource Bundle, which is a compressed file containing all the resources together. It also...",
+          "student_name": "Srirupa Datta",
+          "code_url": "https://community.kde.org/GSoc/2023/StatusReports/SrirupaDatta",
+          "proposal_id": "vA86Isx2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SB6pWpuy"
+        },
+        {
+          "title": "Add Automatic Tags Assignment Tools and Improve Face Recognition Engine for digiKam",
+          "short_description": "The goal of this project is to develop a deep learning model that can accurately recognize various categories of objects in digital photos, and...",
+          "student_name": "TRAN Quoc Hung",
+          "code_url": null,
+          "proposal_id": "2llMNbfw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RfX21ZZQ"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/kde-community/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Port Arianna to Foliate-js",
+          "short_description": "Arianna ebook reader uses the epub.js, which is no longer actively maintained. This creates a challenge as the epub.js may not be able to keep up...",
+          "student_name": "Ajay Chauhan 1",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/Ajay_Chauhan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SGyQ3aEZ/"
+        },
+        {
+          "title": "Improved subtitling support",
+          "short_description": "Kdenlive is a cross platform, open source, video editing software. Currently, Kdenlive saves its subtitles in the SRT format, which only allows very...",
+          "student_name": "seri037",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/ChengkunChen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/j0M7MPIg/"
+        },
+        {
+          "title": "Pixel Perfect feature proposal",
+          "short_description": "Currently Krita from KDE doesn\u2019t have a Pixel Perfect option, the name for an algorithm that visually smoothes out pixel art curves. The idea here is...",
+          "student_name": "Ken Lo",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/KenLo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Iz0XNh2q/"
+        },
+        {
+          "title": "Forms/Javascript support improvement for Okular",
+          "short_description": "Okular, the cross-platform universal document viewer developed by KDE supports PDFs with forms. These forms often use Javascript to make forms more...",
+          "student_name": "Pratham Gandhi",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/PrathamGandhi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ERNaxjrw/"
+        },
+        {
+          "title": "Update SSHD library in KDE Connect Android app",
+          "short_description": "The KDE Connect Android App utilizes Apache Mina SSHD for file system sharing over a local network. However, the current version (0.14.0) is...",
+          "student_name": "ShellWen Chen",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/ShellWen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ObHKto5o/"
+        },
+        {
+          "title": "Implementing a computerized opponent for the Mancala variant Bohnenspiel",
+          "short_description": "Bohnenspiel is a board game belonging to the Mancala family. This project aims to implement an efficient and capable opponent for it by creating an...",
+          "student_name": "Jo\u00e3o Gouveia",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/JoaoGouveia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AqJmcgb6/"
+        },
+        {
+          "title": "Python bindings for KDE Frameworks",
+          "short_description": "KDE Frameworks is a collection of C++ addon libraries to Qt that provide common functionality for desktop applications built with the Qt framework....",
+          "student_name": "Manuel Alcaraz",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/ManuelAlcaraz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hjH1SAwA/"
+        },
+        {
+          "title": "3D Visualization for Labplot",
+          "short_description": "LabPlot is renowned for its proficient 2D visualization capabilities, encompassing diverse plots like line, scatter, and variations. However, to...",
+          "student_name": "Kuntal",
+          "code_url": "https://gsoc-blog-zeta.vercel.app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jNXKbJXh/"
+        },
+        {
+          "title": "Improve Python Interoperability with LabPlot",
+          "short_description": "LabPlot is a data visualization and analysis application in KDE. This project aims to make LabPlot a more \"Python-friendly\" application by creating...",
+          "student_name": "Israel Galadima",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/IsraelGaladima",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ppM75CyZ/"
+        },
+        {
+          "title": "Integrating Snap ecosystem with KDE",
+          "short_description": "The current scneario of snaps in KDE and specifically in the discover is not that great. The permission manager for snaps is also very poor and...",
+          "student_name": "Soumyadeep Ghosh",
+          "code_url": "https://community.kde.org/GSoC/2024/StatusReports/soumyadghosh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/b6Z8XXHL/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kde-community",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Porting ISO Image Writer GUI to Kirigami",
+          "short_description": "The current KDE ISO Image Writer has an outdated interface and lacks features like direct ISO downloads and other nice-to-have features. This...",
+          "student_name": "@AkkiSingh",
+          "code_url": null,
+          "proposal_id": "kQTWeSyz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NsnXJcxf"
+        },
+        {
+          "title": "Improving Kdenlive timeline markers",
+          "short_description": "Kdenlive currently supports single-point timeline markers, which limits efficiency for workflows that require marking time ranges, such as highlight...",
+          "student_name": "Ajay Chauhan 1",
+          "code_url": null,
+          "proposal_id": "eoUDx07I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/sfesp3KZ"
+        },
+        {
+          "title": "Expanding the KDE Mentorship and Recruitment Website",
+          "short_description": "The KDE Mentorship website plays a crucial role in onboarding new contributors to the KDE community. However, the current site lacks a modern,...",
+          "student_name": "Anish Tak",
+          "code_url": null,
+          "proposal_id": "n0Cycyz4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rlwNxSAK"
+        },
+        {
+          "title": "Enhancing GCompris Server with GUI Sub-Programs for Dataset Creation",
+          "short_description": "This project aims to enhance the GCompris educational suite by introducing a set of intuitive, GUI-based tools tailored for teachers. These tools...",
+          "student_name": "Ashutosh Singh26",
+          "code_url": null,
+          "proposal_id": "dnCc3RsB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1uDvux79"
+        },
+        {
+          "title": "Expanding OSS-Fuzz Integration Across KDE Libraries",
+          "short_description": "Fuzzing is an automated testing technique that feeds random or unexpected inputs to programs to find bugs and security issues. OSS-Fuzz is a SaaS by...",
+          "student_name": "Azhar Momin",
+          "code_url": null,
+          "proposal_id": "twZU8mVI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HGa6a2Vn"
+        },
+        {
+          "title": "Developing Karton, the KDE Virtual Machine Manager",
+          "short_description": "The KDE Community will benefit greatly from a native Qt Quick/Kirigami virtual machine manager. Currently, KDE users must use GTK-based VMMs such as...",
+          "student_name": "Derek Lin",
+          "code_url": null,
+          "proposal_id": "YkCKwSKW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/phUCjPUf"
+        },
+        {
+          "title": "KDE Linux Website",
+          "short_description": "KDE Linux (called Project Banana) is new Linux OS by KDE community. But it don\u2019t have a website yet like other KDE apps. So, many users don\u2019t know...",
+          "student_name": "Desh Deepak Kant",
+          "code_url": null,
+          "proposal_id": "9OdAVcCm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zk0uzwI6"
+        },
+        {
+          "title": "Akonadi resources - Remove QtWidgets dependency",
+          "short_description": "The primary goal of this project is to refactor Akonadi\u2019s agents and resources by decoupling their configuration dialogs from their underlying logic....",
+          "student_name": "Pabarino",
+          "code_url": null,
+          "proposal_id": "xNCrlYeV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0Qcb864C"
+        },
+        {
+          "title": "Selection Action Bar",
+          "short_description": "KDE\u2019s Krita does not have a floating action bar for layers. When users select a layer in Krita, there is no UI to display common selection actions....",
+          "student_name": "rossrosales",
+          "code_url": null,
+          "proposal_id": "UmZMYqkq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ANWyc6fI"
+        },
+        {
+          "title": "Video Call Support in NeoChat",
+          "short_description": "My project is to implement two-person unencrypted video calls in NeoChat based on MatrixRTC, using the LiveKit Rust SDK. Features to be implemented:...",
+          "student_name": "sakshigupta1771",
+          "code_url": null,
+          "proposal_id": "Iv3Kofp6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hvvLIQi4"
+        },
+        {
+          "title": "Modernize Account Management with QML",
+          "short_description": "This project aims to modernize the account management system in Merkuro by porting resource configurations to QML, enhancing usability across...",
+          "student_name": "Shubham  Shinde",
+          "code_url": null,
+          "proposal_id": "2xTaw9Ia",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7gZfxxeY"
+        },
+        {
+          "title": "Integrate KTextEditor into Cantor",
+          "short_description": "Cantor is a core tool in the KDE ecosystem that focuses on scientific computing and interactive analysis. It supports mathematical modeling and data...",
+          "student_name": "SIMple-lives",
+          "code_url": null,
+          "proposal_id": "90vfESSr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SScmFOOS"
+        },
+        {
+          "title": "Mankala: Developing a Mobile App with Multiplayer Support",
+          "short_description": "This project aims to develop a mobile application for Mankala using Qt and QML, extending the capabilities of the existing MankalaEngine maintained...",
+          "student_name": "Srisharan V S",
+          "code_url": null,
+          "proposal_id": "Gbdqa8KQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TWsh0ytJ"
+        },
+        {
+          "title": "Improving Game Controller Support in KWin",
+          "short_description": "Currently KWin's handling of game controller input is fragmented. Applications directly manage controller input, leading to inconsistencies, the...",
+          "student_name": "Yelsin 'yorisoft' Sepulveda",
+          "code_url": null,
+          "proposal_id": "IY7EElUf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cBR33y2a"
+        },
+        {
+          "title": "Python virtual environments in Cantor",
+          "short_description": "Implement the Python virtual environment switching function based on Cantor, so that the virtual environment switching function can be implemented in...",
+          "student_name": "Zheng JiaHong",
+          "code_url": null,
+          "proposal_id": "smr9eeCg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/wDIDmwxD"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://userbase.kde.org/IRC_Channels",
+  "contact_email": "mailto:kde-community@kde.org",
+  "mailing_list": "https://mail.kde.org/mailman/listinfo/kde-devel",
+  "ideas_url": "https://community.kde.org/GSoC/2025/Ideas",
+  "guide_url": "https://community.kde.org/GSoC",
+  "twitter_url": "https://twitter.com/kdecommunity",
+  "blog_url": "https://planet.kde.org/"
+}

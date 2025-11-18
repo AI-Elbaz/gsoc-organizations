@@ -1,0 +1,425 @@
+{
+  "name": "The JPF team",
+  "url": "https://github.com/javapathfinder/jpf-core/wiki",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-jpf-team-hg/rvqtnz4hyojrfgvw.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "testing",
+    "verification",
+    "model checking",
+    "program analysis",
+    "environment generation",
+    "symbolic execution",
+    "test input generation",
+    "formal methods",
+    "concurrency",
+    "virtual machine",
+    "software model checking",
+    "verification of concurrent systems",
+    "jvm"
+  ],
+  "technologies": [
+    "android",
+    "java",
+    "distributed systems",
+    "jvm",
+    "bytecode",
+    "smt solvers"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4723150839349248/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Fingerprinting for Programs",
+          "short_description": "Fingerprinting for Programs is aimed at analyzing code blocks on a semantic level. This is done by symbolically executing the code block via SPF over...",
+          "student_name": "Blaine",
+          "code_url": "https://jpf.byu.edu/finger-printing/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6333797935087616/"
+        },
+        {
+          "title": "Verifying Safety of NextGen Models",
+          "short_description": "The goal of NASA\u2019s NextGen research is to accommodate the traffic increase coming over the 15 years. One requirement for NextGen is to provide a...",
+          "student_name": "Jianfeng.Chen",
+          "code_url": "https://github.com/ai-se/brahms",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6338391671046144/"
+        },
+        {
+          "title": "PSYCO for Reactive Systems",
+          "short_description": "My projekt goal is to extend PSYCO by a symbolic search algorithm to generate a termination criteria for the learning phase and to enable PSYCO to...",
+          "student_name": "mmuesly",
+          "code_url": "https://bitbucket.org/mmuesly/psyco_gsoc16/wiki/GSOC-2016%20Final%20Project%20Summary%20Malte%20Mues",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5522244805591040/"
+        },
+        {
+          "title": "Java PathFinder for Android Devices",
+          "short_description": "Java PathFinder (JPF) has potential to be used for verification of Android apps, as they are written in Java. There is already an ongoing project to...",
+          "student_name": "Octarine",
+          "code_url": "https://bitbucket.org/matsurago/jpf-mobile-devices/commits/all",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5532152087183360/"
+        },
+        {
+          "title": "Oracle-Based Program Repair",
+          "short_description": "The main idea of the project is to define program repairs, which make the program closest to its oracle.\nInitially, we have a program, which is...",
+          "student_name": "Gunel Jahangirova",
+          "code_url": "https://jpf.byu.edu/probabilistic-repair/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6263126664151040/"
+        },
+        {
+          "title": "Using JPF to efficiently compute workload in Multi-Agent Systems",
+          "short_description": "No one likes to arrive at the airport only to realize that their flight has been delayed. Departure Sensitive Arrival Spacing (DSAS) is a new concept...",
+          "student_name": "JaneOL",
+          "code_url": "https://drive.google.com/open?id=0BwrgAhm5slznTFlpNUhJRjRXZ1k",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4633597818437632/"
+        },
+        {
+          "title": "Visualization Support for JDart",
+          "short_description": "JDart is a tool for performing\u00a0concolic execution\u00a0on a Java program. The aim of concolic execution is to explore additional behavior in the program...",
+          "student_name": "Chao",
+          "code_url": "http://chaofz.me/jdart-viz/description/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4834860522799104/"
+        },
+        {
+          "title": "Improving JPF Inspector",
+          "short_description": "This project will bring the JPF Inspector debugging tool up to date with the most recent version of JPF and Java, and it will add additional...",
+          "student_name": "Soothsilver",
+          "code_url": "https://github.com/Soothsilver/gsoc-inspector/wiki/2016-Changelog",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5770847981666304/"
+        },
+        {
+          "title": "Extending SPF with handling of symbolic arrays, and implementing a replay module",
+          "short_description": "Symbolic Pathfinder (SPF) is an open-source symbolic execution tool, based on NASA Java Pathfinder (JPF) model checker, which is used in research and...",
+          "student_name": "afromherz",
+          "code_url": "https://github.com/R1kM/Pathfinder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5957049577897984/"
+        },
+        {
+          "title": "Cache layer for jpf-nhandler",
+          "short_description": "JPF is the most popular model checking tool for Java applications. It is extensible and there are lots of\nextensions for various purposes....",
+          "student_name": "Jayton",
+          "code_url": "https://bitbucket.org/nastaran/jpf-nhandler-gsoc2016/wiki/Home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5182993391943680/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4740037845450752/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Verification and Testing of Heap-based Programs with Symbolic PathFinder",
+          "short_description": "Symbolic Pathfinder (SPF) is an open-source symbolic execution tool, based on the NASA Java Pathfinder (JPF) model checker, which is used in research...",
+          "student_name": "Nicolas Jeannerod",
+          "code_url": "https://github.com/Niols/GSoC17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4984409404997632/"
+        },
+        {
+          "title": "jpf-nas",
+          "short_description": "Extending jpf-nas tool.",
+          "student_name": "Jayton",
+          "code_url": "https://bitbucket.org/jayton/jpf-nas-gsoc2017/wiki/Home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5012310720512000/"
+        },
+        {
+          "title": "Program Repair via Symbolic Execution-Derived Constraint Characterization",
+          "short_description": "The Symbolic Execution (SPF) extension for NASA\u2019s Java Pathfinder (JPF) has been used to generate quality test cases by symbolically executing code...",
+          "student_name": "Andrew Hill",
+          "code_url": "https://github.com/CanonicalSearchAndRepair/CanonizedSearch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5269591475355648/"
+        },
+        {
+          "title": "Increasing SPF Performance with Bounded Static Symbolic Execution",
+          "short_description": "Improving the performance of symbolic execution to make it scale to industrial-sized programs is an important current issue. Veritesting provides a...",
+          "student_name": "Vaibhav B Sharma",
+          "code_url": "https://gist.github.com/vaibhavbsharma/ec4442788fcbb33a4dd00792e1d12875",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4719452335636480/"
+        },
+        {
+          "title": "Java StarFinder: Symbolic Execution with Separation Logic for Testing and Verifying Heap-manipulating Programs.",
+          "short_description": "Symbolic PathFinder (SPF) has been very successful in testing and verifying Java bytecode programs with numeric inputs. However, its capability is...",
+          "student_name": "Pham Hong Long",
+          "code_url": "https://github.com/longph1989/jpf-star",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4789313736802304/"
+        },
+        {
+          "title": "Optimize GREEN\u2019s caching for satisfiability and model counting when using SPF",
+          "short_description": "Many symbolic program analysis techniques use satisfiability modulo theory (SMT) solvers to verify properties of programs. SMT solvers can provide...",
+          "student_name": "Jan Taljaard",
+          "code_url": "https://bitbucket.org/Developer_Jan/gsoc_2017/wiki/Home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6505791108415488/"
+        },
+        {
+          "title": "Visualization of Execution Traces",
+          "short_description": "Multithreaded programming is becoming a mainstream programming practice, while multithreaded programming is difficult and error prone....",
+          "student_name": "Qiyi Tang",
+          "code_url": "https://bitbucket.org/qiyitang71/jpf-visual/overview",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4886274234122240/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6274587650162688/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Support Java 9 for JPF-CORE",
+          "short_description": "JPF-CORE currently builds and runs on Java 8. The main objective of this project is to get it up and running with Java 9, leveraging its new features...",
+          "student_name": "Gayan Weerakutti",
+          "code_url": "https://github.com/javapathfinder/jpf-core/wiki/Support-Java-10-for-JPF-CORE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6413312073924608/"
+        },
+        {
+          "title": "Synthesis to repair heap-manipulating programs using Java StarFinder",
+          "short_description": "The state of art of program repair for heap manipulating program  has focus on specific properties of bugs, like null pointer dereference. We try to...",
+          "student_name": "Guolong Zheng",
+          "code_url": "https://github.com/guolong-zheng/starfix",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5708007778287616/"
+        },
+        {
+          "title": "Modernizing the Java PathFinder Build Workflow: Migrating from Ant to Gradle",
+          "short_description": "Developers often perform recurrent tasks during the development process such as testing, managing external libraries, generating API documentation,...",
+          "student_name": "Jeanderson Candido",
+          "code_url": "https://github.com/javapathfinder/jpf-core/wiki/Gradle-Support-on-JPF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4968904304623616/"
+        },
+        {
+          "title": "Extending Veritesting In SPF",
+          "short_description": "Veritesting, [1] is a promising technique that speeds up dynamic symbolic execution by multiple of factors [2]. In veritesting, expensive forking is...",
+          "student_name": "Soha Hussein",
+          "code_url": "https://github.com/sohah/VeritestingTransformations/issues/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6292514843656192/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4859784585543680/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Boosting data race detection by extinguishing state explosion",
+          "short_description": "[Nakade et al. 2018] proposed to model check Habanero programs using only one program run. This project aims to further reduce state space being...",
+          "student_name": "Egor Namakonov",
+          "code_url": "https://bitbucket.org/byu-vv/jpf-hj/pull-requests/1/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5119022520074240/"
+        },
+        {
+          "title": "Parallel implementation of Java Pathfinder Project",
+          "short_description": "One of the major challenges faced when applying model checking is the state space explosion, due to which it becomes impossible to detect errors in...",
+          "student_name": "Manish Thakur",
+          "code_url": "https://manish3499.github.io/parallelization-of-JPF/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5228194599272448/"
+        },
+        {
+          "title": "Dynamic Partial Order Reduction Engine connected with Symbolic Data Race Detection for Habanero Java",
+          "short_description": "A engine to simplify Dynamic Partial Order Reduction in JPF as well as a tool to efficiently prove or disprove data race freedom in structured...",
+          "student_name": "Kyle Storey",
+          "code_url": "https://bitbucket.org/byu-vv/dporengine/src/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5242752474808320/"
+        },
+        {
+          "title": "Checking Assertions with Symbolic Pathfinder",
+          "short_description": "Symbolic execution is a powerful analysis to systematically check assertions in programs. However, the already notorious scalability problem of...",
+          "student_name": "Junye Wen",
+          "code_url": "https://github.com/JunyeWen/jpf-symbc-symreplacer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5249874335891456/"
+        },
+        {
+          "title": "Support gradle for jpf-core and extensions.",
+          "short_description": "JPF is a model checking tool for java applications. JPF-core is the core structure of JPF. The build for jpf-core has been moved from ant (upto java...",
+          "student_name": "Yuvaraj Anbarasan",
+          "code_url": "https://yuvaraj-anbarasan.github.io/gsoc-19/gsoc-work-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4726399477219328/"
+        },
+        {
+          "title": "NFix",
+          "short_description": "Automated program repair has been gaining ground recently with substantial efforts devoted to the area. Not only has APR had great influence on...",
+          "student_name": "Hanliang Zhang",
+          "code_url": "https://github.com/KomaEc/NFix",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4946719622561792/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4643042893496320/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Extending Path Merging for SPF",
+          "short_description": "Path merging is a promising technique that speeds up dynamic symbolic execution by multiple factors. In Path merging expensive forking is minimized...",
+          "student_name": "Soha Hussein",
+          "code_url": "https://docs.google.com/spreadsheets/d/1rXXqsG1MEq9k-QhQ6BRNQjLp8va2yRaTezAIdZAwZuA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6640947628081152/"
+        },
+        {
+          "title": "Symbolic PathFinder for Neural Network Analysis",
+          "short_description": "Symbolic PathFinder (SPF) is a tool that uses Java PathFinder at the back-end and can extract path conditions for a program by executing the program...",
+          "student_name": "Usman",
+          "code_url": "https://github.com/muhammadusman93/jpf-symbc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5389292286771200/"
+        },
+        {
+          "title": "LyFix:  Regression Error Repair for Java Program",
+          "short_description": "Automated Program Repair (APR) has been showing a high capability recently of fixing software bugs automatically. Despite the recent advancements,...",
+          "student_name": "Quang-Cuong Bui",
+          "code_url": "https://github.com/bqcuong/lyfix",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4738531525656576/"
+        },
+        {
+          "title": "A Restructuring of the Path Constraint Interface",
+          "short_description": "SPF\u2019s constraint interface needs to be restructured. The current implementation doesn\u2019t allow for the easy addition of new solvers and could be...",
+          "student_name": "Carson Smith",
+          "code_url": "https://github.com/SymbolicPathFinder/jpf-symbc/pull/54",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6052538316488704/"
+        },
+        {
+          "title": "Support Java 11/12 for jpf-core",
+          "short_description": "JPF does not yet fully implement the features of Java 11 - support extends only to Java 8 - including features as simple as string concatenation....",
+          "student_name": "Amgad Rady",
+          "code_url": "https://amgad-rady.github.io/gsoc-2020/report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4860230799720448/"
+        },
+        {
+          "title": "Support Java 11 for jpf-core",
+          "short_description": "JPF is a model checking tool for Java applications. It is a Virtual Machine (VM) for Java bytecode which executes the system under test (SUT). The...",
+          "student_name": "Yuvaraj Anbarasan",
+          "code_url": "https://yuvaraj-anbarasan.github.io/gsoc-2020/gsoc_work_report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4899232022003712/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5712237452328960/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improved Integration of String Solvers in SPF",
+          "short_description": "To reason about string manipulating Java programs Symbolic Pathfinder (SPF) employs string constraint solvers. Currently, SPF integrates a limited...",
+          "student_name": "Marlin Roberts",
+          "code_url": "https://github.com/marlinroberts21/GSOC21-SPF-String-Solvers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6544381091250176/"
+        },
+        {
+          "title": "Using Lightweight Specifications with Fuzzing and Symbolic Execution to Reveal Security and Semantic Bugs",
+          "short_description": "Security and Semantic bugs exist in software systems, and discovering them is time-consuming, complicated, and challenging. \nSeveral static and...",
+          "student_name": "Amirfarhad Nilizadeh",
+          "code_url": "https://github.com/Amirfarhad-Nilizadeh/GSoC_Fuzzer_RAC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4871326879186944/"
+        },
+        {
+          "title": "Systematically explore bit-flip faults in user-specified variables in Java  programs",
+          "short_description": "Computer hardware is susceptible to errors. For example, radiation may induce error to the hardware and some bit might be flipped. It is important to...",
+          "student_name": "Pu (Luke) Yi",
+          "code_url": "https://y553546436.github.io/jpf-core/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6291440367304704/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-jpf-team/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Support More Java String Functions in SPF",
+          "short_description": "String solving is an important feature of symbolic execution for successful security and correctness analysis. In Java Symbolic Pathfinder (SPF), a...",
+          "student_name": "Qiuchen Yan",
+          "code_url": "https://github.com/yanxx297/jpf-symbc/blob/mjr/dev_init_igen/doc/Z3str3-string-support.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PNS1YxFc/"
+        },
+        {
+          "title": "Add Gradle support for SymbolicPathFinder",
+          "short_description": "Gradle is a build automation tool known for its flexibility to build software. A build automation tool is used to automate the creation of...",
+          "student_name": "Gaurang Pramod Kudale",
+          "code_url": "https://github.com/gaurangkudale/Google-Summer-of-Code-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/NQhh53gZ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-jpf-team",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Better Java 11 Support for Java Pathfinder",
+          "short_description": "Java Pathfinder (JPF) is a Java virtual machine that can run compiled Java programs as well as model checking it. It is also an extensible software...",
+          "student_name": "Daohan Qu",
+          "code_url": "https://docs.google.com/document/d/1sTP9xfc-XRT2GTLsQoJYBv7CMogTIDS7yEqozEebtbg/edit?usp=sharing",
+          "proposal_id": "UmpOtgPn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lwLp9Tuy"
+        },
+        {
+          "title": "Support Java 11 (bootstrap methods and other issues) for jpf-core",
+          "short_description": "jpf-core is essentially a JVM that currently fully supports only Java 8. The goal of this project is to make it up-to-date with new features of Java...",
+          "student_name": "varad_galgali",
+          "code_url": "https://docs.google.com/document/d/1a0o8zLBMU0FjgxyeMdRrS69dGGIMEF4otTsgYVyMyYM/edit?usp=sharing",
+          "proposal_id": "nHc9z8pN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NnfaIK1C"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-jpf-team-hg/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support for Java 17 for jpf-core",
+          "short_description": "This proposal aims to enhance Java Path Finder (JPF) to seamlessly support Java 17, ensuring compatibility with the latest Java version. The project...",
+          "student_name": "Rahul Kumar (Ekla)",
+          "code_url": "https://docs.google.com/document/d/1cWojYxAZlSMJSCEW8b_URKlrPPMZFki9s68lzO04ddE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eXcgkDiq/"
+        },
+        {
+          "title": "Support the generation of violation witness in graphML format in SPF",
+          "short_description": "Our final goal of this project is to obtain missing scores for Symbolic PathFinder(SPF) in SV-COMP. There are two main reasons why SPF is losing many...",
+          "student_name": "Kunha Kim",
+          "code_url": "https://github.com/kylekim72/GSoC-2024/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sq7d5cmt/"
+        },
+        {
+          "title": "Model-based Testing with Modbat for JPF",
+          "short_description": "Modbat is a model-based testing framework that utilizes finite state machines (FSMs) to generate tests systematically, exploring various execution...",
+          "student_name": "Harshvardhan Parmar",
+          "code_url": "https://docs.google.com/document/d/1xhWcA9e3jreugVDV_W0Is-9wKSLmg1DQD-GnGqX7h0E/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dAoR7FEI/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-jpf-team-hg",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support Java 11/17 for JPF extensions",
+          "short_description": "Java Path Finder (JPF), a specialized Java Virtual Machine for software verification, excels with Java 8 but faces challenges with modern features in...",
+          "student_name": "Mahmoud Khawaja",
+          "code_url": null,
+          "proposal_id": "bw96ogIq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3FSUKUlW"
+        },
+        {
+          "title": "Support portfolio of solvers in SPF",
+          "short_description": "Java PathFinder (JPF) is an extensible software analysis framework for java bytecode which can be used to check for concurrency defects like...",
+          "student_name": "Rehan Chalana",
+          "code_url": null,
+          "proposal_id": "zKPj1vc8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XWELkdRG"
+        },
+        {
+          "title": "Support Runtime Exception In SPF",
+          "short_description": "The project aims to support and extend SPF\u2019s symbolic execution capabilities which are being limited by certain factors, unhandled common Java...",
+          "student_name": "Saiff",
+          "code_url": null,
+          "proposal_id": "XL7amYVo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/wxOGtvXL"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/sX4YZUVHK7",
+  "contact_email": "mailto:jpf.gsoc@gmail.com",
+  "mailing_list": "https://groups.google.com/g/java-pathfinder",
+  "ideas_url": "https://github.com/javapathfinder/jpf-core/wiki/GSoC-2025-Project-Ideas",
+  "guide_url": "https://github.com/javapathfinder/jpf-core/wiki/JPF-Google-Summer-of-Code-2024",
+  "twitter_url": "https://twitter.com/Java_Pathfinder"
+}

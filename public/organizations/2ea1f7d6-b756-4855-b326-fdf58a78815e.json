@@ -1,0 +1,71 @@
+{
+  "name": "gRPC",
+  "url": "https://grpc.io",
+  "image_url": "https://lh3.googleusercontent.com/PodIa074YoVZQnSBOUczwt9ubSMoI6wuHOHILt4batJpSJzp1K9rq3y6xleifWLBgcI9SmtkBEZsA7_Ag6vckvQG672e2Q",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "cloud",
+    "micro services",
+    "full stack web and mobile",
+    "distributed systems",
+    "apis",
+    "middleware",
+    "communications",
+    "microservices",
+    "infrastructure",
+    "distributed networks"
+  ],
+  "technologies": [
+    "distributed systems",
+    "networking",
+    "micro-services",
+    "scalability",
+    "http/2",
+    "cloud",
+    "microservices",
+    "grpc"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5034912851689472/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "GRPC Python compatibility support",
+          "short_description": "Python is, originally, a specification for a programming language. This\nspecification has been implemented differently in different\nimplementations...",
+          "student_name": "Thunderboltsid",
+          "code_url": "https://github.com/grpc/grpc/commit/d13a780be0ced116172539aeb6e84ee2112d9857",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6052322958376960/"
+        },
+        {
+          "title": "OpenLambda: RPC-Aware Storage",
+          "short_description": "New serverless-computing platforms such as Google Cloud Functions, AWS\nLambda, and OpenLambda provide RPC handling to cloud customers.  The\nRPC...",
+          "student_name": "stephensturdevant",
+          "code_url": "https://github.com/open-lambda/load-balancer/commits/master?author=sturdevant",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6122691702554624/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4768790235578368/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Enable building of gRPC Python with Bazel",
+          "short_description": "gRPC Python currently has a constellation of scripts written to build the project, but it has a lot of limitations in terms of speed and...",
+          "student_name": "Naresh Ramesh",
+          "code_url": "https://github.com/grpc/grpc/blob/master/summerofcode/2018/naresh.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5400971639259136/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://grpc.io/community/",
+  "contact_email": "mailto:grpc-io@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/grpc-io",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/grpcio",
+  "blog_url": "http://grpc.io/blog"
+}

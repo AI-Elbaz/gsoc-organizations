@@ -1,0 +1,256 @@
+{
+  "name": "Systers, an Anita Borg Institute community",
+  "url": "http://systers.org",
+  "image_url": "https://lh3.googleusercontent.com/tFOFnRaUTNGblP4QyLG6X0IlRCU6PNrYL6VgZbGuLVX2MMJc0tSM-LHaGEGfhJ8_eQKoq7Zu4oOzBQWBW8brmLP9uji0fg",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "women in tech",
+    "systers",
+    "women in open source",
+    "web",
+    "games",
+    "mobile",
+    "peace corps"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "android",
+    "ruby on rails",
+    "ios",
+    "javascript",
+    "java"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5689792285114368/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Crowdsourcing for the Guyana Deaf Community - Google Glass Integration",
+          "short_description": "The Peace Corps have taken up the task of working with PCVs to educate the differently-abled students of Guyana who are unable to hear. The...",
+          "student_name": "divyaupadhyay",
+          "code_url": "http://systers-opensource.blogspot.in/2016/08/divya-upadhyay-gis-crowd-final-status.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6629263499329536/"
+        },
+        {
+          "title": "PCSA Web-App (FirstAide)",
+          "short_description": "PCSA (Peace Corps Safety App) is a web application developed to help the volunteers if they become victims of sexual harassment.It also ensures...",
+          "student_name": "Akanksha Bodhankar",
+          "code_url": "http://gsoc16experience.blogspot.in/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5675574601187328/"
+        },
+        {
+          "title": "Peace Corps Safety App - iOS",
+          "short_description": "Peace Corps Safety App (PCSA) helps the volunteers to get information about the Peace Corps\u2019 safety and security procedures in a button click. It...",
+          "student_name": "Chamika",
+          "code_url": "http://systers.org/systers-dev/doku.php/chamika",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5700176710729728/"
+        },
+        {
+          "title": "Testing Automation for Peace Corps Safety Web Application(PCSA Web)",
+          "short_description": "The project aims at creating a Java based testing framework for PCSA(Peace Corps Safety App) Web application project undertaken by Systers on the...",
+          "student_name": "Anjali",
+          "code_url": "https://drive.google.com/drive/folders/0B1qLSXsGqNTPdkJFYnUwcy1pb3c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5723533548191744/"
+        },
+        {
+          "title": "[Malaria - iOS] Malaria Prevention iOS App",
+          "short_description": "Malaria Prevention is a Swift application that will aid the Peace Corps volunteers in Africa defend against the Malaria disease. I am responsible...",
+          "student_name": "Teodor Ciuraru",
+          "code_url": "https://gist.github.com/teo029/ab3ab8de6443e83ced97731bd2499fd3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5509901874888704/"
+        },
+        {
+          "title": "[PCSA-Android] Collaborative Map of Risk Areas",
+          "short_description": "Aiming at the goal of PCSA, which is to help victims of sexual assault, I propose through this, add a feature to the application, which enables a...",
+          "student_name": "Izabela Cardoso",
+          "code_url": "https://gist.github.com/izacristina/3d2216473c02c2469d15c47e633ceca6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6136682290085888/"
+        },
+        {
+          "title": "Testing Automation",
+          "short_description": "Systers has a lot of social impact projects it undertakes.  It is important that these projects are tested before released to the public.  This...",
+          "student_name": "Daisy",
+          "code_url": "https://github.com/daisyab/pchub/commits/new",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4969441443971072/"
+        },
+        {
+          "title": "Migrating Volunteer Management System to Class based views and Search Engine Implementation",
+          "short_description": "Systers\u2019 Volunteer Management System  currently uses function based views. It repeats certain patterns again and again, and is mostly redundant....",
+          "student_name": "Amrutha S",
+          "code_url": "https://docs.google.com/document/d/1ryU5TJ-NKbSj2YWEaqH35AhlFcDnnY1siQF4JC7kgXE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5000811885101056/"
+        },
+        {
+          "title": "PowerUp Proposal",
+          "short_description": "The goal of this project is to create a female empowerment app which spreads awareness among  the preadolescent girls on sensitive issues like...",
+          "student_name": "Aanchal Somani",
+          "code_url": "https://docs.google.com/document/d/1tDD1Y6XT8k5LEmEOCDb9p8_i-Zt-vky7ZE_ju-InVis/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5082861866582016/"
+        },
+        {
+          "title": "[portal] Completion of Systers Portal Meetup App",
+          "short_description": "After Meetup Everywhere was discontinued, Systers needed a Meetup app within the Systers Portal. This project was started last year but several...",
+          "student_name": "payal97",
+          "code_url": "https://everybodyneedsablog.wordpress.com/2016/08/20/systers-portal-meetup-application/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5233399933435904/"
+        },
+        {
+          "title": "Automated Unit Testing",
+          "short_description": "I would like to work on Automated Unit Testing and build off the current base that was developed last year, partly by me.  The goal is to create a...",
+          "student_name": "maditparis",
+          "code_url": "https://docs.google.com/document/d/1QXlycV24xGfdp1PV735F09dDEDsXUK-ALtefQp7YFG4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6195637427109888/"
+        },
+        {
+          "title": "Malaria Prevention Application Proposal (Android)",
+          "short_description": "The aim behind Malaria-app-android is to help PeaceCorps volunteers sustain protective practices against malaria. Currently the application serves...",
+          "student_name": "yatna",
+          "code_url": "http://yatna1.blogspot.com/2016/08/i-worked-on-malaria-prevention.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6258539639078912/"
+        },
+        {
+          "title": "Automated Testing - VMS",
+          "short_description": "Systers has many projects wherein it is crucial to ensure that applications function as expected. Volunteer Management System is one such project,...",
+          "student_name": "smarshy",
+          "code_url": "https://github.com/smarshy/vms/wiki/GSOC-16--Work-:-AUT-VMS-%5Bvatsala%5D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4748188619636736/"
+        },
+        {
+          "title": "Photo Language Translator (PLT)",
+          "short_description": "Photo Language Translation project is helpful for the Peace Corps Volunteers who are working  in different countries and sites which are developing...",
+          "student_name": "Rupinderjit Kaur",
+          "code_url": "http://rupinderwadali.github.io/Final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4754493900062720/"
+        },
+        {
+          "title": "PowerUp (iOS)",
+          "short_description": "An educational mobile game app that will allow young girls to learn about reproductive health and self-esteem by navigating the life of their Avatar...",
+          "student_name": "sanya",
+          "code_url": "https://github.com/systers/powerup-iOS/commits/develop?author=sanyajain",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6490536055668736/"
+        },
+        {
+          "title": "Test Automation for Mobile App Control Center",
+          "short_description": "This project is about extending the automated test suite for the Mobile App Control Center(MACC) which is one of the many projects undertaken by...",
+          "student_name": "Thyr Nat",
+          "code_url": "https://docs.google.com/document/d/1fzjT84IN6R9FhJP5kwXof2rHXpBzGNJonSxStJDASJ8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6533553911234560/"
+        },
+        {
+          "title": "Mobile App Control Center",
+          "short_description": "A server-side support platform for Peace Corps' mobile projects",
+          "student_name": "Medha Chakravarthula",
+          "code_url": "http://systers.org/systers-dev/doku.php/medha_chakravarthula",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6095102040604672/"
+        },
+        {
+          "title": "PeaceCorps Safety App (Android)",
+          "short_description": "Sexual assault is a major concern in today's world. PCSA is a mobile application that aims to serve as a safety resource to the PeaceCorp Volunteers...",
+          "student_name": "Rohan Doddaiah",
+          "code_url": "https://github.com/systers/PCSA-Android/commits/develop?author=rohands",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5927586102247424/"
+        },
+        {
+          "title": "Systers Features for Mailman 3",
+          "short_description": "Currently,a customized version of Mailman2 is used by Systers. My main goal will be porting Systers customized features to Mailman 3.The features...",
+          "student_name": "Aditi Gupta",
+          "code_url": "https://github.com/systers/postorius/pull/4/commits",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5163212114755584/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5429781541683200/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "PowerUp UI/UX & Graphics Update",
+          "short_description": "A sleek, minimalist, and modern update for all the graphics in the game to bring it up to speed with other mobile games in the app store.",
+          "student_name": "Kim Huynh",
+          "code_url": "https://systers-opensource.blogspot.com/2017/08/kim-huynh-powerup-final-report-gsoc-2017.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6427479493312512/"
+        },
+        {
+          "title": "Systers Features for Mailman 3",
+          "short_description": "The project consists in porting Systers customized features to Mailman3. The main goal of the project has been to port :\n\nEssay Feature\nStats for...",
+          "student_name": "Aditi Gupta",
+          "code_url": "https://drive.google.com/drive/folders/0Bz3Qq-vklUUZNFAzZ0ZwTlh5MFk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6706691290693632/"
+        },
+        {
+          "title": "Hoppers App - iOS",
+          "short_description": "Proposal to develop the Hoppers iOS app, a companion to the Conference App. The Hoppers Apps will allow conference volunteers to view and manage...",
+          "student_name": "Connie Nguyen",
+          "code_url": "https://github.com/systers/volunteers-iOS/compare/development@%7B05-31-17%7D...development@%7B08-29-17%7D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5508656065937408/"
+        },
+        {
+          "title": "MACC: User Interface Brushup and Feature Enhancement",
+          "short_description": "Mobile Application Control Center (MACC), Peace Corps GSoC project, is a web application helpful for Peace Corps Volunteers to handle data for...",
+          "student_name": "Gunpreet Ahuja",
+          "code_url": "https://github.com/GunpreetAhuja/macc/wiki/Gunpreet-Ahuja---GSoC-2017-Contribution",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4989588598685696/"
+        },
+        {
+          "title": "Mobile Application Control Center (MACC)",
+          "short_description": "The purpose behind MACC is to provide a web application to manage content and provide APIs to manage data for the First-Aide Mobile App and the...",
+          "student_name": "Yatna Verma",
+          "code_url": "https://github.com/systers/macc/commits/develop?author=yatna",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5097417510748160/"
+        },
+        {
+          "title": "PowerUp-Android",
+          "short_description": "The PowerUp-Android is an Android application for empowering preadolescent girls between the ages of 12 to 14. The game is based on Social &amp;...",
+          "student_name": "Sachin Aggarwal",
+          "code_url": "https://github.com/systers/powerup-android/pulls?page=1&q=is%3Apr+created%3A%3E%3D2017-05-04++author%3Acodingblazer&utf8=%E2%9C%93",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6192013011582976/"
+        },
+        {
+          "title": "PC-Prep-Kit",
+          "short_description": "PC Prep Kit is a web application aimed at helping the peace corps volunteers with awareness about Malaria and its prevention techniques. The...",
+          "student_name": "Shreyans Shrimal",
+          "code_url": "http://systers-opensource.blogspot.in/2017/08/pc-prepkit-gsoc-2017-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6488604930998272/"
+        },
+        {
+          "title": "Hoppers-app Android",
+          "short_description": "Hopper App is a mobile application which helps manage the Hoppers at the Grace Hopper Celebration. Hoppers are volunteers. These volunteers work...",
+          "student_name": "Divya Pandilla",
+          "code_url": "https://github.com/systers/volunteers-android/commits/develop?author=pandilladivya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6532904297431040/"
+        },
+        {
+          "title": "Automated Testing - Photo Language Translation",
+          "short_description": "Working on the Photo Language Translation Project with Systers for the UN Peace Corps volunteers.\nYou may contact me either via Email :...",
+          "student_name": "Aditya T",
+          "code_url": "https://github.com/systers/language-translation/commits?author=adityathiru",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6550460513124352/"
+        },
+        {
+          "title": "PowerUp-iOS",
+          "short_description": "PowerUp is an educational mobile for adolescent girls. The game is based on Social &amp; Emotional Learning model to empower young girls to take...",
+          "student_name": "Yu Chao (casd82)",
+          "code_url": "https://gist.github.com/casd82/b1f7710319161823f4f16ce038c720e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5856735650643968/"
+        },
+        {
+          "title": "PC Prep Kit",
+          "short_description": "This project implements a web application that will spread awareness on Malaria by completing fun activities and games.",
+          "student_name": "S J Rajath Krishna",
+          "code_url": "http://systers-opensource.blogspot.in/2017/08/pc-prepkit-gsoc-2017-final-report-s-j.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5900744704131072/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://systers.io/slack-systers-opensource/",
+  "contact_email": "mailto:gsoc-admins@anitaborg.org",
+  "mailing_list": "http://systers.org/mailman/listinfo/systers-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/systers_org",
+  "blog_url": "http://systers-opensource.blogspot.com/"
+}

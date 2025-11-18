@@ -1,0 +1,339 @@
+{
+  "name": "Public Lab",
+  "url": "https://publiclab.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/public-lab/w93lsalkzbyb31pg-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "science",
+    "environment",
+    "community",
+    "hardware",
+    "pollution",
+    "collaboration",
+    "diversity",
+    "diy",
+    "documentation",
+    "forum"
+  ],
+  "technologies": [
+    "javascript",
+    "ruby on rails",
+    "webrtc",
+    "leaflet",
+    "ruby",
+    "node.js",
+    "raspberry pi"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5680316245082112/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Rich Profile tags and improving the performance of Publiclab.org",
+          "short_description": "Implementation of various tags in profile page which improves community interaction in PublicLab.org organization and also improving the response...",
+          "student_name": "Lalith Rallabhandi",
+          "code_url": "https://github.com/publiclab/plots2/commits/master?author=lalithr95",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6464147776602112/"
+        },
+        {
+          "title": "Browser-based Arduino sensor data transfer using WebRTC and headphone jack",
+          "short_description": "Many open data projects rely on volunteers spending time to gather data, e.g. from remotely placed sensor nodes that capture environmental...",
+          "student_name": "Richard Meister",
+          "code_url": "https://publiclab.org/notes/rmeister/08-23-2016/gsoc-2016-final-work-product-of-browser-based-arduino-sensor-data-transfer-using-the-headphone-jack",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6570406072811520/"
+        },
+        {
+          "title": "Advanced Searching and Sorting Tool for publiclab.org",
+          "short_description": "Develop a service(set of classes within the project) for searching and sorting to output advanced nested results by prioritising tags and power tags...",
+          "student_name": "Ujitha Perera",
+          "code_url": "https://publiclab.org/notes/Ujitha/08-22-2016/gsoc-2016-final-work-product-of-advanced-searching-and-sorting-tool-for-publiclab-org",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5360925297082368/"
+        },
+        {
+          "title": "Expanded Q & A System for Publiclab.org",
+          "short_description": "For a community driven website like Publiclab.org that deals with a large number of questions there should be a proper way so that Users can ask...",
+          "student_name": "ananyo",
+          "code_url": "https://publiclab.org/notes/ananyo2012/08-20-2016/gsoc-2016-final-work-product-of-expanded-q-a-system-for-publiclab-org",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6257590988177408/"
+        },
+        {
+          "title": "Internationalization of Publiclab.org",
+          "short_description": "Internationalization is the process of planning and implementing products and services so that they\ncan easily be adapted to specific local languages...",
+          "student_name": "jiteshjha",
+          "code_url": "https://publiclab.org/notes/jiteshxyz/08-22-2016/gsoc-2016-outcome-internationalization-of-publiclab-org",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6028296374452224/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6029803371102208/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Email Notification Overhaul",
+          "short_description": "I would love to work on email notification overhaul. The project was opened in 2014 and nobody has ever since taken up the issue. Some of the...",
+          "student_name": "Stella",
+          "code_url": "https://publiclab.org/notes/stella/08-24-2017/gsoc-2017-final-report?_=1503922959",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5746692280287232/"
+        },
+        {
+          "title": "Bot for Publiclab",
+          "short_description": "Bot for Publiclab\nBeing an active and welcoming open source community, Publiclab requires a chatbot for a variety of purposes, including the...",
+          "student_name": "Ujjwal Sharma",
+          "code_url": "https://publiclab.org/notes/ryzokuken/08-23-2017/getting-to-know-plotsbot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5622907296284672/"
+        },
+        {
+          "title": "Wiki Discussion",
+          "short_description": "Public lab wikis are used for collecting information, documentation and instructions on projects. And nature of wikis are that they can be edited by...",
+          "student_name": "Ashan Priyadarshana",
+          "code_url": "https://publiclab.org/notes/Ashan/08-23-2017/introducing-inline-commenting-for-wiki-pages",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5778981307547648/"
+        },
+        {
+          "title": "Map of Projects",
+          "short_description": "There can be a browseable map to display all of the projects of PublicLab nearby on a piece of map. There will be markers on the place of events,...",
+          "student_name": "Mridul Nagpal",
+          "code_url": "https://publiclab.org/notes/mridulnagpal/08-23-2017/gsoc-submission-for-map-of-projects?_=1503864746",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5807053213794304/"
+        },
+        {
+          "title": "Developing Image Sequencer as a library",
+          "short_description": "Introduction to Image Sequencer\nImage Sequencer is a non-destructive image processing library built with JavaScript which creates a new image at each...",
+          "student_name": "Chinmay Pandhare",
+          "code_url": "https://publiclab.org/notes/ccpandhare/08-23-2017/gsoc-2017-final-work-product-of-image-sequencer-project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5875287627661312/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4963682832351232/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects",
+          "short_description": "The project would provide a series of modular python programs that could be used to support different Public Lab imaging and spectrum measurement...",
+          "student_name": "Margaret Norton",
+          "code_url": "https://github.com/MargaretAN9/Peggy",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6444003440459776/"
+        },
+        {
+          "title": "Social Media Integration and Leaflet Environmental-Layers Library .",
+          "short_description": "People are increasingly engaging with Public Lab community and questions via Twitter . This project helps in : \n Generating more content to PublicLab...",
+          "student_name": "Sagarpreet Chadha",
+          "code_url": "https://gist.github.com/sagarpreet-chadha/209ad37ca653d5bf3137bb146f8eff45",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6744082470666240/"
+        },
+        {
+          "title": "Image Sequencer v2",
+          "short_description": "Image Sequencer is a sequential image processing library completely written in javascript which currently supports Node.js and the browser. It has...",
+          "student_name": "tech4gt",
+          "code_url": "https://gist.github.com/tech4GT/92cabeb44c3f8464c501651e2d4f381e#file-gsoc_2018-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5678125207781376/"
+        },
+        {
+          "title": "Email integration Project",
+          "short_description": "The current implementation of Email System in PLOTS2 doesn't implement Active Jobs i.e queue feature because it is currently using rails 4.1. And...",
+          "student_name": "Naman Gupta",
+          "code_url": "https://gist.github.com/namangupta01/491dc35f7ffaa794e86d38afac838869",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6139235983687680/"
+        },
+        {
+          "title": "OAuth & Upgrade to Bootstrap 4",
+          "short_description": "Authorising users through Google, Facebook, Github and Twitter through Omniauth gem and \nupgrading the current bootstrap version 3 to version 4.",
+          "student_name": "Sidharth Bansal",
+          "code_url": "https://publiclab.org/notes/bansal_sidharth2996/08-07-2018/gsoc-multi-party-auth-system",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5052605432594432/"
+        },
+        {
+          "title": "Draft Feature and Email Integration project",
+          "short_description": "Draft Feature: This feature would allow users to save their research note as a draft so that user can complete it anytime. It would also allow a user...",
+          "student_name": "Gaurav Sachdeva",
+          "code_url": "https://publiclab.org/notes/gauravano/08-12-2018/gsoc-2018-final-work-product-of-draft-feature-and-email-integration-project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5278899072139264/"
+        },
+        {
+          "title": "Email Notification Overhaul",
+          "short_description": "The aim of this proposal is to enhance user experience. The features which are integrated in this proposal are:-\n1) Reply to comments by email - A...",
+          "student_name": "Vidit Chitkara",
+          "code_url": "https://gist.github.com/ViditChitkara/5f3f905ba1f38f0bf4b0bbe5f9383485",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5375801587400704/"
+        },
+        {
+          "title": "Upgrade to Rails 5",
+          "short_description": "In this summer I want to work on upgrading the code of plots2 repository to rails 5.0 and rails 5.1. The project would have many challenges to...",
+          "student_name": "Sourav Sahoo",
+          "code_url": "https://publiclab.org/notes/souravirus/08-09-2018/gsoc-2018-rails-5-upgrade",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4830015329927168/"
+        },
+        {
+          "title": "Leaflet BLurred Location Part 2",
+          "short_description": "Improving currently existing leaflet blurred location library, also building a new library named leaflet blurred location display currently in...",
+          "student_name": "Mridul Nagpal",
+          "code_url": "https://publiclab.org/notes/mridulnagpal/08-10-2018/gsoc-submission-for-leaflet-blurred-location-part-2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4847942389202944/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5206886662537216/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Image Sequencer enhancement focusing Module Implementations, Particle analysis and code Maintainability.",
+          "short_description": "My proposal is based on enhancements that would incorporate real world use cases into the project and testing and maintainability that will bring...",
+          "student_name": "AASHNA MITTAL",
+          "code_url": "https://gist.github.com/aashna27/83626b50d765c178e7e1aa8d315fa8f3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6353129346433024/"
+        },
+        {
+          "title": "`matcher.js` library and `Leaflet.DistortableImage` overhaul",
+          "short_description": "This project is divided into two parts, namely, building a matcher.js library and revamping Public Lab's Leaflet.DistortableImage repository, a...",
+          "student_name": "Pranshu Srivastava",
+          "code_url": "https://publiclab.org/notes/rexagod/08-25-2019/google-summer-of-code-2019-public-lab-final-work-product-pranshu-srivastava",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6738465708834816/"
+        },
+        {
+          "title": "A small proposal for global environmental monitoring with Image Sequencer",
+          "short_description": "The project will increase Image Sequencer capability while simultaneously demonstrating the ability to process satellite images. The general approach...",
+          "student_name": "Margaret Norton",
+          "code_url": "https://publiclab.org/notes/author/MaggPi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5704282815332352/"
+        },
+        {
+          "title": "Mapknitter Rails Upgrade",
+          "short_description": "Increase test coverage. Improve CI integration and pipelining. Upgrade Rails framework version",
+          "student_name": "\u00c1lax Alves",
+          "code_url": "https://publiclab.org/notes/alaxallves/08-24-2019/google-summer-of-code-2019-report?_=1566674861",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5725286597918720/"
+        },
+        {
+          "title": "GSoC proposal Public Labs: Notification System and UX Improvements",
+          "short_description": "Notification System\nNotification system mainly consists of two parts, In-app Navbar Notifications and Web Push Notifications.\n-In-app Navbar...",
+          "student_name": "Gautami Gupta",
+          "code_url": "https://docs.google.com/document/d/198tHFU91wj4b6ekQOt6_tGoUGxwG9ErZtJpt8SbUz_o/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5400497496784896/"
+        },
+        {
+          "title": "Mapknitter Rails upgrade",
+          "short_description": "This project MapKnitter's Rails version from 3.2 to the latest stable version. Along with this, I will also be:\n\nIncreasing test coverage\nImproving...",
+          "student_name": "Kaustubh Nair",
+          "code_url": "https://publiclab.org/notes/kaustubh_nair/08-26-2019/gsoc19-mapknitter-rails-upgrade",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4973649604378624/"
+        },
+        {
+          "title": "Sensor Data Upload and Display Library",
+          "short_description": "A standalone HTML+JavaScript based library through which CSV data can be uploaded and charts can be plotted by selecting different columns from it....",
+          "student_name": "Isha Gupta",
+          "code_url": "https://gist.github.com/IshaGupta18/51677b7e6e3135bd26dce75be901906f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5071156233633792/"
+        },
+        {
+          "title": "Community Toolbox Overhaul",
+          "short_description": "Community-toolbox allows everybody to take a look at the activities going on in the PublicLab projects, helps in welcoming newcomers. It plays a...",
+          "student_name": "Rishabh Rawat",
+          "code_url": "https://publiclab.org/notes/icode365/08-25-2019/community-toolbox-work-product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5284218689552384/"
+        },
+        {
+          "title": "Image-Sequencer v3: Boosting the performance and adding demonstration based on colorimetry",
+          "short_description": "This project aims to boost the performance of Image Sequencer project by using WebAssembly for accelerating the performance of various parts of code...",
+          "student_name": "Divy Khare",
+          "code_url": "https://gist.github.com/Divy123/cb6d79a5c01ed5260bba3d526c376ce1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5298563343450112/"
+        },
+        {
+          "title": "Mapknitter synchronous editing",
+          "short_description": "Multi user synchronous image editing in realtime (publiclab/mapknitter)",
+          "student_name": "Vidit Chitkara",
+          "code_url": "https://gist.github.com/ViditChitkara/91c093b86ed07711d2db40b070eb1a0b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4522956070322176/"
+        },
+        {
+          "title": "Websocket Interaction for Real-time Interaction and Sensor data and Display Library",
+          "short_description": "Integration of ActionCable to implement web Sockets for Various Real-Time communication in the plots2 project such as for Notification, Comments etc....",
+          "student_name": "namangupta",
+          "code_url": "https://gist.github.com/namangupta01/2b99894a5bbfa12d599561651daaf8a1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6099549511221248/"
+        },
+        {
+          "title": "Mapknitter Image Management and Synchronous Editing",
+          "short_description": "MapKnitter is based around the upload of images, the positioning of those images on a map, and the compositing of those images into map export...",
+          "student_name": "Divya Baid",
+          "code_url": "https://publiclab.org/notes/divyabaid16/08-24-2019/gsoc-2019-mapknitter-image-management-divya-baid?_=1566650343",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5227229439590400/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6245542903939072/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Geographic Features Refinement",
+          "short_description": "Smoothen, expand and refine the various geographical features under the Public Lab's website. This includes standardizing adding new leaflet...",
+          "student_name": "Barun",
+          "code_url": "https://publiclab.org/notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5104731642396672/"
+        },
+        {
+          "title": "Translation System Refinement",
+          "short_description": "Setting up a workflow for importing new translations, recruiting new translators along with fixing HTML parsing and UI shortcomings by fixing CSS and...",
+          "student_name": "Ajit Mujumdar",
+          "code_url": "https://publiclab.org/notes/ajitmujumdar25999/08-21-2021/gsoc-2021-translation-system-refinement",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6222092382502912/"
+        },
+        {
+          "title": "GSoC Proposal 2021: Tag/Topic System Refinements",
+          "short_description": "This project aims at improving the Tag/Topic system at Publiclab.org by fixing some known bugs and implementing various features like Topic Tree,...",
+          "student_name": "Sushmita",
+          "code_url": "https://publiclab.org/notes/17sushmita/08-23-2021/gsoc-report-tag-topic-system-refinements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5767565355253760/"
+        },
+        {
+          "title": "spectral-workbench.js JS/Rails integration (Public Lab)",
+          "short_description": "This project focuses on the improvement of the live capture section implemented in the spectral workbench app at...",
+          "student_name": "Mohammad Warid",
+          "code_url": "https://medium.com/@waridrox/gsoc-2021-at-public-lab-final-report-7347b7edf466",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5141195142987776/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/public-lab/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Refine User Interfaces across PublicLab.org",
+          "short_description": "This project aims at improving User Interface/User Experience (UI/UX) related features across PublicLab.org. This includes better interlinked...",
+          "student_name": "Karishma Vanwari",
+          "code_url": "https://medium.com/@karishmagvanwari/gsoc22-report-refine-user-interfaces-across-publiclab-org-bd9cdf86561e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zwPg9Yuz/"
+        },
+        {
+          "title": "Infragram.org: full-screen UI and video upload",
+          "short_description": "Infragram enhances enviromental research capacity by providing a convenient and low cost method to monitor plant health. This project will deliver...",
+          "student_name": "Forcha",
+          "code_url": "https://gist.github.com/Forchapeatl/45b631c87af58de9cc55b0f05d660ec7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rP8hthBg/"
+        },
+        {
+          "title": "Legacy Code Deprecation",
+          "short_description": "The PublicLab code base has a lot of legacy code. One reason for this is converting it to a Ruby on Rails app from a Drupal site, and another reason...",
+          "student_name": "Anirudh Prabhakaran",
+          "code_url": "https://publiclab.org/notes/anirudhprabhakaran3/09-09-2022/my-experience-during-gsoc-22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/njZwvRi0/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/publiclab/publiclab",
+  "contact_email": "mailto:web@publiclab.org",
+  "mailing_list": "https://github.com/publiclab/plots2/issues",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/PublicLab",
+  "blog_url": "https://publiclab.org/blog"
+}

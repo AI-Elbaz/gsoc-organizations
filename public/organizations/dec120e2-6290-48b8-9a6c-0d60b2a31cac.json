@@ -1,0 +1,111 @@
+{
+  "name": "Wellcome Sanger Tree of Life",
+  "url": "https://www.sanger.ac.uk/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/wellcome-sanger-institute/gmcjtlourmhkhhed-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "genomics",
+    "bioinformatics",
+    "data analysis",
+    "genome assembly",
+    "machine learning",
+    "genome analysis"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "rust",
+    "nextflow",
+    "machine learning",
+    "natural language processing",
+    "Cloud Storage"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/wellcome-sanger-institute/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Conversion of the BlobToolKit pipeline to Nextflow",
+          "short_description": "The BlobToolKit, implemented with Snakemake, is a pipeline designed to obtain quality metrics for eukaryotic genome assemblies. BlobToolKit is also...",
+          "student_name": "Alexander Ramos",
+          "code_url": "https://gist.github.com/alxndrdiaz/2af96aa874e4bbfbabb720f20a2283bf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/v89lHomV/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/wellcome-sanger-institute/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integrating KinFin Proteome Cluster analyses into Genome Browsing environments",
+          "short_description": "The project aims to integrate KinFin, a tool for analysing protein family clusters, into genome browsing environments like Ensembl and GenomeHubs....",
+          "student_name": "Rohan R. Barsagade",
+          "code_url": "https://gist.github.com/rohan-b-84/179034a8e80cd96dcf395f442c9975b7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VLF6qP9v/"
+        },
+        {
+          "title": "Natural language search across the tree of life (GoaT NLP)",
+          "short_description": "The Tree of Life project at the Wellcome Sanger Institute contributes to the Earth BioGenome Project (EBP), aiming to sequence genomes of all Earth's...",
+          "student_name": "Deep Nayak",
+          "code_url": "https://gist.github.com/deepnayak/9be63451055a695864dbed1143e51f6e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zbdce11h/"
+        },
+        {
+          "title": "Pathogen focused multiple mapping Nextflow pipeline",
+          "short_description": "This proposal aims to address the dated codebase of the existing multiple_mappings_to_bam.py pipeline in pathogen genomics by developing a new...",
+          "student_name": "Patel Darshil",
+          "code_url": "https://github.com/sanger-pathogens/Multiple-mappings-to-bam",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6g03n2ZD/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/wellcome-sanger-institute",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Building a Machine Learning Taxon Classifier for Malaria Mosquitoes",
+          "short_description": "The Anopheles gambiae species complex includes several mosquito species that are morphologically indistinguishable yet differ significantly in how...",
+          "student_name": "Deepak Silaych",
+          "code_url": null,
+          "proposal_id": "rvsU639G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/txfR3muc"
+        },
+        {
+          "title": "Implementing a user interface to KinFin for interactive exploration of protein clustering data.",
+          "short_description": "KinFin is a powerful tool for protein clustering analysis, but its current command-line interface limits accessibility and ease of use. This project...",
+          "student_name": "Dinesh A",
+          "code_url": null,
+          "proposal_id": "x85dQA58",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CYffn7LQ"
+        },
+        {
+          "title": "Cloud-Native Tools for Detecting Novel Insecticide Resistance in Malaria Mosquitoes",
+          "short_description": "This project develops cloud-native tools to detect novel insecticide resistance in African malaria mosquitoes. Current PLINK-based methods are...",
+          "student_name": "MOHAMED LAAREJ",
+          "code_url": null,
+          "proposal_id": "n6lkXNoY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/a0co0wDJ"
+        },
+        {
+          "title": "Pipeline for Variant Composition Analyses",
+          "short_description": "While tools for variant calling are well-established, there remains a notable gap in the summarisation of downstream variant metrics. This project...",
+          "student_name": "Yunjia Zhang",
+          "code_url": null,
+          "proposal_id": "6wSNj29j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oZY7BSwX"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@sanger.ac.uk",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/1dRHwnHAXlwQbRDstnd0OZTDJYA9cTsl1jG_hOempqII/edit?usp=sharing",
+  "guide_url": "https://docs.google.com/document/d/1dRHwnHAXlwQbRDstnd0OZTDJYA9cTsl1jG_hOempqII/edit?usp=sharing",
+  "twitter_url": "https://twitter.com/sangertol",
+  "blog_url": "https://sangerinstitute.blog/"
+}

@@ -1,0 +1,278 @@
+{
+  "name": "Digital Impact Alliance (DIAL) at UN Foundation",
+  "url": "https://www.digitalimpactalliance.org/",
+  "image_url": "https://lh3.googleusercontent.com/Le5g8nd_b866W_Pry3h8biYJAOYEsQfFrHFNW4Dm05BL3WS9ebElcVrR2DZZqAoykslldW50EO00vlnI7liRUApgfTUEJxY_-QDmKJVc-hG3",
+  "image_background_color": "#FFFFFF",
+  "category": "Other",
+  "topics": [
+    "health",
+    "humanitarian",
+    "international",
+    "social good",
+    "charity",
+    "end user application",
+    "nonprofit",
+    "humanrights",
+    "global"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "java",
+    "php",
+    "c++",
+    "linux",
+    "many more"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6491299083452416/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Team management module for MapCampaigner",
+          "short_description": "MapCampaigner is a field data collection organizing application. Organizers can define an area, define the features to collect, and recruit...",
+          "student_name": "Surya Saini",
+          "code_url": "https://docs.google.com/document/d/124th7TWdvHZFsy6rwHn-e6R35nh9Clun4kFIyAKemTI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5073218591260672/"
+        },
+        {
+          "title": "Ankita Khurana Proposal - The Humanitarian OpenStreetMap Team (HOT)",
+          "short_description": "The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic...",
+          "student_name": "Ankita Khurana",
+          "code_url": "https://github.com/AnkitaKhurana/Google-Summer-Of-Code-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6237707168645120/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6180395375132672/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Ushahidi Platform USSD Integration",
+          "short_description": "The goal is to have users send real time reports via USSD (Unstructured Supplementary Services Data), this will be integrated with the Ushahidi...",
+          "student_name": "Timothy Olaleke",
+          "code_url": "https://docs.ushahidi.com/platform-api-ussd-service",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5724584840527872/"
+        },
+        {
+          "title": "Platform React JS Migration",
+          "short_description": "The goal of this project will be to move the existing functionality of the angular code over to react. The new components will be using web standards...",
+          "student_name": "Nidhi Kumari",
+          "code_url": "https://docs.google.com/document/d/1iYXjbz3gQ0Wq8jc5QYBCjw2ZhSVi6XSNPs52_otL1J0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5499605259649024/"
+        },
+        {
+          "title": "Tasking Manager: Teams, Organisations, Campaigns and Validation",
+          "short_description": "The current validation process in tasking manager has some flaws due to which some projects are not validated completely or precisely. \nProject...",
+          "student_name": "Uwais Zaki",
+          "code_url": "https://github.com/hotosm/tasking-manager/pull/1804",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4936655306227712/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6465676589400064/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Tor Project: OONI Explorer - Social Media Sharing",
+          "short_description": "OONI Explorer doesn't have a good social media sharing system in place. User's share their findings from the explore by taking screenshots. My...",
+          "student_name": "Krona Emmanuel",
+          "code_url": "https://gist.github.com/kronaemmanuel/ae1ebafa039a3361fb422462109ae035",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6356623209005056/"
+        },
+        {
+          "title": "Tasking Manager: Automatized support for Organised Editing Guidelines in Tasking Manager",
+          "short_description": "In the current Tasking Manager process of Organised Editing Guidelines, some necessary tasks are executed manually, such as adding a project to...",
+          "student_name": "Jo\u00e3o Vitor Ramos",
+          "code_url": "https://gist.github.com/joaovitor3/95260942b39606dd5e2e38a7a12cb06c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5647727280521216/"
+        },
+        {
+          "title": "Public Labs: Editor repair and fortification",
+          "short_description": "The main aim of the project is to improve users' experience in using Public Lab Editor. Currently, the editor has so many bugs present. These bugs...",
+          "student_name": "Nitin Bhasneria",
+          "code_url": "https://docs.google.com/document/d/1QV05fEY_xtAxy692CGCZFuqLfEMdLOp_JZFh6IWUXQs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5652397117931520/"
+        },
+        {
+          "title": "PublicLab: Mapknitter Export Module and Spectral Workbench upgrades",
+          "short_description": "For the Spectral Workbench project, Rails and DevOps improvements that will involve upgrading from Rails 3.2 to Rails 6.0, properly setting up...",
+          "student_name": "\u00c1lax de Carvalho Alves",
+          "code_url": "https://medium.com/gsoc-2020-mapknitter-export-module-and-spectral/what-i-did-d7bcf37c7e7b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5654618186448896/"
+        },
+        {
+          "title": "Rewrite ODK Collect Widgets using the new \u2018Widget Framework\u2019",
+          "short_description": "ODK Collect is an open-source Android Application available on Google Play Store. It helps the users to collect data through survey forms and to...",
+          "student_name": "Saumia Singhal",
+          "code_url": "https://forum.getodk.org/t/gsoc-2020-new-widget-framework-for-odk-collect/29544",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5675202723184640/"
+        },
+        {
+          "title": "Primero user customization package",
+          "short_description": "The goal of this project is to employ modern frontend technologies and use them in developing front end user customizable skins, that allow...",
+          "student_name": "Nidhi Kumari",
+          "code_url": "https://docs.google.com/document/d/16L0F89ugl1vRbQyR9S-FlePLTTBfh7kmdcP8jL3y1nY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5691867196293120/"
+        },
+        {
+          "title": "moja global: Interactive Visualization Tool for GCBM",
+          "short_description": "A tool for producing interactive visualizations from data generated by the Generic Carbon Budget Model (GCBM).\nFor the moja global sub-org, this...",
+          "student_name": "Abhineet",
+          "code_url": "https://gist.github.com/abhineet97/a06c10b195e8a7fe019bac59b51fb0f3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5487467823628288/"
+        },
+        {
+          "title": "PublicLab: Editor repair and fortification",
+          "short_description": "PublicLab.Editor is a general purpose, JavaScript modular library for rich text posting,\nwhich provides an author friendly minimal, mobile/desktop...",
+          "student_name": "Keshav",
+          "code_url": "https://publiclab.org/notes/keshavgarg234156/08-30-2020/gsoc-2020-report-publiclab-editor-repair-and-fortification?_=1598801396",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5530465580089344/"
+        },
+        {
+          "title": "moja.global: Develop a module for agricultural soils for FLINT",
+          "short_description": "FLINT is a modular tool that supports better land management and helps reduce greenhouse gas (GHG) emissions worldwide, and allows multiple models...",
+          "student_name": "Sulay Shah",
+          "code_url": "https://github.com/moja-global/GSoC.FLINT.Module.Agricultural_Soil_Model/wiki/GSoC'20-Project---Sulay-Shah",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5367749938774016/"
+        },
+        {
+          "title": "Spam Management Dashboard (Public Lab)",
+          "short_description": "This project focuses on the improvement of the Spam management dashboard https://publiclab.org/spam and makes the user interface much more refined so...",
+          "student_name": "Keshav Sethi",
+          "code_url": "https://publiclab.org/notes/keshav_sethi0004/08-29-2020/spam-management-dashboard-gsoc-2020-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5580971677581312/"
+        },
+        {
+          "title": "Tor Project: Snowflake Proxy on Android",
+          "short_description": "Implementing Snowflake proxy on the Android platform as a native application for volunteer users to contribute as a proxy and help circumvent...",
+          "student_name": "Hashik Donthineni",
+          "code_url": "https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake-mobile/-/wikis/GSoC-2020-Wrap-Up-Documentation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5632431559802880/"
+        },
+        {
+          "title": "Develop FLINT JSON User Interface",
+          "short_description": "The Full Lands Integration Tool(FLINT) is an open source modular C++ framework which combines data from different sources like satellite data or...",
+          "student_name": "Abhishek Garain",
+          "code_url": "https://github.com/moja-global/GSoC.FLINT.JSON_Interface/wiki/Google-Summer-of-Code'20-documentation-by-Abhishek-Garain",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5864431432499200/"
+        },
+        {
+          "title": "Tor Project: Cloudflare CAPTCHA Monitoring",
+          "short_description": "Cloudflare is arguably the most popular content-delivery-network available today, and Cloudflare fronts more than 11.5 million webpages. Since...",
+          "student_name": "Barkin Simsek",
+          "code_url": "https://gitlab.torproject.org/woswos/CAPTCHA-Monitor/-/wikis/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5953319706558464/"
+        },
+        {
+          "title": "Open Data Kit: Migrate the Database and Integrate ODK-X Push Notifications into ODK-X Tool Suite",
+          "short_description": "The ODK-X Push Notifications project consists of two applications currently code-named \"Skunkworks-Parrot\" and \"Skunkworks-Bat\" .\u201cParrot\u201d is the...",
+          "student_name": "Vyankatesh",
+          "code_url": "https://medium.com/@vyankateshs33/gsoc20-open-data-kit-11f1cd0d9bea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6319215889350656/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5400186335002624/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Measuring QUIC and TLS censorship with OONI Probe",
+          "short_description": "My goal for Google Summer of Code is to make OONI better at measuring TLS and QUIC blocking. OONI develops the open source software OONI Probe which...",
+          "student_name": "Kathrin Elmenhorst",
+          "code_url": "https://github.com/ooni/probe/issues/1751",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5663584499007488/"
+        },
+        {
+          "title": "ODK-X: Improving Services User-Interface",
+          "short_description": "This Project involves making the ODK-X Services Application meet the current UI/UX standards by redesigning the Basic Application Architecture and...",
+          "student_name": "Varun Tiwari",
+          "code_url": "https://github.com/odk-x/services/pull/213",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5725575037059072/"
+        },
+        {
+          "title": "Create common backend for PSLab Desktop and Android app",
+          "short_description": "The sigrok project is a signal analysis software suite which supports various measurement devices such as oscilloscopes, logic analyzers,...",
+          "student_name": "Kartikay Sharma",
+          "code_url": "https://gist.github.com/kartikaysharma01/5f90ef39f9d1514422713dc6500fd6d1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5484588448612352/"
+        },
+        {
+          "title": "DIAL ODK-X New Date Prompts For ODK-X Survey Proposal",
+          "short_description": "ODK-X Survey is a data collection Android application, similar to ODK Collect. Users can create forms using XLSX spreadsheets and are then rendered...",
+          "student_name": "Chukwuemeka Okechukwu",
+          "code_url": "https://medium.com/@chuks.egkedu/emeka-okechukwu-gsoc-2021-with-odk-x-sub-org-of-dial-c10d8386db36",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4998143975882752/"
+        },
+        {
+          "title": "Frontend reimplementation using react",
+          "short_description": "To revamp current eventyay site into new one from Emberjs to React with NEXT and setup frontend modelling ,similar UI-UX behaviour, write tests and...",
+          "student_name": "ranjit shah",
+          "code_url": "https://gist.github.com/ranjitkshah/40d01fe43dcfa11a95fabe45c2882cb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4546036491616256/"
+        },
+        {
+          "title": "OONI: Developing Unit, Integration and E2E tests for Probe Desktop apps",
+          "short_description": "The Probe Desktop is free and Open Source Software that aims to provide insights on and expose the Internet censorship and other forms of network...",
+          "student_name": "Shivam Pathak",
+          "code_url": "https://github.com/ooni/probe/issues/1752",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4667892699758592/"
+        },
+        {
+          "title": "Eventyay Open Event: Stabilise project, fix bugs and implement new features.",
+          "short_description": "This project aims to stabilise Eventyay Open Event Project. This includes fixing high priority issues, implementing required features and handling...",
+          "student_name": "Sachin Chauhan",
+          "code_url": "https://gist.github.com/sachinchauhan2889/bcbb2a2597b8ea313a9db4d1c558cc9e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6505833692659712/"
+        },
+        {
+          "title": "Reimplementing Open Event Frontend in React",
+          "short_description": "Currently the open event frontend is implemented in Ember.Js. The plan is to shift the UI to React page by page.",
+          "student_name": "Sundaram Dubey",
+          "code_url": "https://gist.github.com/maze-runnar/fe525c40dc14812c55962d29ef59a55f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6555504452567040/"
+        },
+        {
+          "title": "Alexa Top Sites Captcha and Tor Block Monitoring",
+          "short_description": "The project aims to monitor and track down in detail how the Alexa Top 500 websites behaves to different Tor clients, whether a particular website is...",
+          "student_name": "Apratim Ran Chak",
+          "code_url": "https://gitlab.torproject.org/woswos/CAPTCHA-Monitor/-/wikis/GSoC-2021/Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6298959949070336/"
+        },
+        {
+          "title": "OPEN DATA KIT: Improve the suitcase application",
+          "short_description": "ODK-X Suitcase is a cross-platform tool that allows the user to upload, download, and update data on an ODK-X \nCloud Endpoint from a personal...",
+          "student_name": "Subham Raj",
+          "code_url": "https://medium.com/@shubhamr837/gsoc-2021-with-odk-x-sub-org-of-dial-92100598c413",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6315145734651904/"
+        },
+        {
+          "title": "Eventyay Open Event : Refactor frontend in Ember to React, Improve features in Server",
+          "short_description": "To refactor frontend codebase written in Ember to React, including adding tests and setup code standards.\nAdd integration and unit tests in the...",
+          "student_name": "Meghal Bisht",
+          "code_url": "https://gist.github.com/MeghalBisht/f6181a1408bd92c44ea6dcbd14753535",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5178373822742528/"
+        },
+        {
+          "title": "Circuitpython busio compatibility layer for pslab-python",
+          "short_description": "The PSLab project has many instruments and supports some external sensors, but there are many sensors which are supported by pslab board yet to be...",
+          "student_name": "srnaveen2k",
+          "code_url": "https://gist.github.com/nkpro2000sr/8c8ce26a9b803a47e5bdf2a3b1626a61",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5183248476405760/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://hub.osc.dial.community/gsoc",
+  "contact_email": "mailto:gsoc-admins@dial.community",
+  "mailing_list": "https://hub.osc.dial.community/gsoc",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/DIAL_Community",
+  "blog_url": "https://digitalimpactalliance.org/what-we-are-learning/blog/"
+}

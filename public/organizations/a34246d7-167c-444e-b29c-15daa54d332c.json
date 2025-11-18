@@ -1,0 +1,45 @@
+{
+  "name": "Project PANOPTES",
+  "url": "https://projectpanoptes.org",
+  "image_url": "https://lh3.googleusercontent.com/YxgGJuUQMFtGopt--uoqDIeEK0EyNbNw_nIFql5oy90oF1a7MnS8d07_3KHazE_JiKj2KRPuqD5exiMzAIZ3EDuj75NhMQ",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "image processing",
+    "astronomy",
+    "exoplanet"
+  ],
+  "technologies": [
+    "python 3",
+    "arduino",
+    "cloud"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5716618817044480/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Observatory Dependency Decoupling",
+          "short_description": "PANOPTES Observatory Control System (POCS) use different hardware components and scheduler which are closely connected to main Observatory class....",
+          "student_name": "Demezhan Marikov",
+          "code_url": "https://gist.github.com/ImmortalRabbit/3b03f9f66cafe149244355e14a5e51ff",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6657530858569728/"
+        },
+        {
+          "title": "Design and Development of Demos and Tools",
+          "short_description": "As part of the project, I intend to build simulations and demos along with introductory animations about exoplanets, their descriptions and the...",
+          "student_name": "Naga Sai Abhinay",
+          "code_url": "https://gist.github.com/Abhinay1997/e5bdf2067a0b93681f92d60805d47590",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6276888710873088/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@projectpanoptes.org",
+  "mailing_list": "https://forum.projectpanoptes.org/c/GSoC-2019",
+  "ideas_url": "",
+  "guide_url": ""
+}

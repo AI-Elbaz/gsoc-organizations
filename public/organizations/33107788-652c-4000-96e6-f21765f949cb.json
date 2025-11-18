@@ -1,0 +1,182 @@
+{
+  "name": "Joplin",
+  "url": "https://github.com/laurent22/joplin",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/joplin/0b4z6iftngd1afrp-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "cross-platform",
+    "encryption",
+    "notes",
+    "synchronisation",
+    "sharing",
+    "database",
+    "search",
+    "note-taking",
+    "office",
+    "security",
+    "AI/ML"
+  ],
+  "technologies": [
+    "react",
+    "node.js",
+    "react native",
+    "electron",
+    "terminal-kit",
+    "javascript",
+    "typescript",
+    "React-Native"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6331892753760256/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Custom Keyboard Shortcuts",
+          "short_description": "Joplin desktop application supports keyboard shortcuts to a certain degree. However, it doesn\u2019t allow users to configure keyboard shortcuts according...",
+          "student_name": "Anjula Karunarathne",
+          "code_url": "https://gist.github.com/anjulalk/1ce1d16828f0727f385e2f6c4979cd7f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4772398752071680/"
+        },
+        {
+          "title": "Make Joplin\u2019s Search Better",
+          "short_description": "Searching is an essential feature for any note-taking system. Users expect to be able to search not only the text but also on the type of note, the...",
+          "student_name": "Naveen M V",
+          "code_url": "https://gist.github.com/naviji/6e4b276eac4aa4ceedfb0d33df5c6a16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5864969712697344/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6548330145906688/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Real-Time Collaboration on a Note",
+          "short_description": "This project aims to provide a web app that will enable a Joplin user to collaborate on a note in real-time. Joplin is a free, open-source...",
+          "student_name": "Akash Konda",
+          "code_url": "https://gist.github.com/Aksh-Konda/46883bd5faa79fd4a9ae43a4d54eb9d4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5454535018938368/"
+        },
+        {
+          "title": "Template Plugin",
+          "short_description": "Joplin had a templates feature in the main desktop application that enabled users to create templates and reuse them to create new notes and to-dos....",
+          "student_name": "Nishant Mittal",
+          "code_url": "https://www.nishantwrp.com/posts/google-summer-of-code-2021-with-joplin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6254699774214144/"
+        },
+        {
+          "title": "Improving Conflict Resolution Process",
+          "short_description": "A plugin will be created that includes a diff editor in order to make solving conflicts easier.",
+          "student_name": "Ahmed Alwasifey",
+          "code_url": "https://gist.github.com/Ahmad45123/96471c91a33998ce586b0557d35b0a73",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6505917075423232/"
+        },
+        {
+          "title": "Kanban Board Plugin for Joplin",
+          "short_description": "I propose creating a plugin for Joplin, which allows notes in a notebook to be organized in a kanban board. The board itself is a special type of...",
+          "student_name": "mablin",
+          "code_url": "https://gist.github.com/mablin7/f59f900b4f494c4a6dcca9a2be651781",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4917801914990592/"
+        },
+        {
+          "title": "BibTeX Plugin Project",
+          "short_description": "Problem: Many users use Joplin for research purposes, so it is natural for them to do citations all the time. Accordingly, adding a feature that...",
+          "student_name": "Abdallah Ahmed",
+          "code_url": "https://gist.github.com/xUser5000/9b07f56864c8f5d498fd4d85b50f5aa1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6325794904735744/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/joplin/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improve plugin search and discoverability",
+          "short_description": "Plugin plays an important role in the Joplin community. As there are more and more plugins it would be good to improve how they are discovered and to...",
+          "student_name": "Retr0ve",
+          "code_url": "https://gist.github.com/Retr0ve/78500d7a81e61293d6294ee2b871e454",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/j9T9n6fG/"
+        },
+        {
+          "title": "Implement default plugins on desktop application",
+          "short_description": "Joplin has a lot of useful plugins to use built by the community. Some plugins provide a very core functionality that I think they can be a part of...",
+          "student_name": "Mayank Bondre",
+          "code_url": "https://gist.github.com/mak2002/d9d537e9a61390427ca37976895ce215",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qaOfomSk/"
+        },
+        {
+          "title": "Mobile \u2014 Easier Editing",
+          "short_description": "The current editor in the Joplin mobile app lacks features. The beta editor is buggy and often frustrating. Users with styluses and touchscreens are...",
+          "student_name": "Henry H",
+          "code_url": "https://personalizedrefrigerator.github.io/personalSite/2022/09/05/gsoc-final-reflection/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RCS4HdVg/"
+        },
+        {
+          "title": "Tablet Layout Project",
+          "short_description": "The current Joplin mobile app is designed for mobile phones. On wider screens like tablet devices, a layout that takes advantage of the extra screen...",
+          "student_name": "Tolu-Mals",
+          "code_url": "https://gist.github.com/Tolu-Mals/7627c724b7baf994b461c8ff6356fb6f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZnkMCnGI/"
+        },
+        {
+          "title": "Email Plugin",
+          "short_description": "Most Joplin users are researchers or workers in different fields. It's usually the university or company dealing with them via email, whether it's...",
+          "student_name": "Bishoy Magdy Adeeb",
+          "code_url": "https://gist.github.com/bishoy-magdy/c6fb86eebf9adf8eba94f7b7e3071e43",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Uj0slvvh/"
+        },
+        {
+          "title": "Improve PDF previewer of Joplin",
+          "short_description": "The Joplin desktop app currently uses native built-in PDF renderer of electron to display PDF attachments, this has multiple limitations like lack of...",
+          "student_name": "Asrient",
+          "code_url": "https://gist.github.com/asrient/2fc74ef5279251fafe6568fd9c8b9b8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UQxeeaS4/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/joplin/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Native Encryption",
+          "short_description": "Joplin currently uses sjcl library for end-to-end encryption on all platforms. In the past, this has caused performance issues. Ideally, we would use...",
+          "student_name": "wh201906",
+          "code_url": "https://gist.github.com/wh201906/970888202915a0c66e36dad746592f93",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/F5rtYZQU/"
+        },
+        {
+          "title": "Seamless Updates for Joplin Desktop Application",
+          "short_description": "To improve user experience and remove the need for manual downloads and installations, this proposal aims to automate the Joplin desktop...",
+          "student_name": "AliceHincu",
+          "code_url": "https://gist.github.com/AliceHincu/059f8d551f64a7c2f3042c22050f46e3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/J14LoC6o/"
+        },
+        {
+          "title": "Standalone Sync API - main project",
+          "short_description": "Being cross-platform and able to sync notes are crucial features of a note-taking app which Joplin implemented very well. Currently, Joplin is on...",
+          "student_name": "Benjiman",
+          "code_url": "https://gist.github.com/khuongduy354/2c5bf78deb8c4ab1b64f0ecab65b58ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BPFMLEQn/"
+        },
+        {
+          "title": "Summarize your notes with Joplin AI!",
+          "short_description": "As the number of notes grows, it would be helpful to have a summary of notes to help users synthesize main ideas and arguments to identify salient...",
+          "student_name": "Ton Hoang Nguyen (Bill)",
+          "code_url": "https://gist.github.com/HahaBill/564ac86ef926fc25ce9ac91192f3fc02",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Ble8LKDb/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/VSj7AFHvpq",
+  "contact_email": "mailto:support@joplinapp.org",
+  "mailing_list": "https://discourse.joplinapp.org/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/joplinapp",
+  "blog_url": "https://www.patreon.com/joplin/posts"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "OpenHMD",
+  "url": "http://openhmd.net",
+  "image_url": "https://lh3.googleusercontent.com/UgdTxILUY9QohgqoAY9CKmPSBtFjmdtBM-9WIFY1vgeZ40lOFoN_XQhSlpG6IdgjKlHXpht3Jkp_uyvxrsZQKKGZ8w5BWn9E",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "virtual reality",
+    "computer vision",
+    "reverse engineering",
+    "drivers",
+    "xr"
+  ],
+  "technologies": [
+    "opengl",
+    "opencv",
+    "vulkan",
+    "c99",
+    "libusb"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6405402461208576/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "http://www.openhmd.net/index.php/contact/",
+  "contact_email": "mailto:thorworks@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/openhmd",
+  "blog_url": "http://www.openhmd.net/index.php/blog/"
+}

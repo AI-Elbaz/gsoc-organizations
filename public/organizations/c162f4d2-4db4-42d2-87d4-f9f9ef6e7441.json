@@ -1,0 +1,472 @@
+{
+  "name": "PostgreSQL",
+  "url": "https://postgresql.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/postgresql/hj9srl9x0o6iendy-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "database",
+    "rdbms",
+    "big data",
+    "sql",
+    "data",
+    "data management",
+    "web",
+    "relational database",
+    "postgresql",
+    "ui",
+    "Benchmark"
+  ],
+  "technologies": [
+    "c",
+    "postgresql",
+    "perl",
+    "sql",
+    "rdbms",
+    "ordbms",
+    "postgres",
+    "python",
+    "julia",
+    "javascript",
+    "go"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5443503559540736/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Foreign Keys for Array Elements",
+          "short_description": "My proposal is to target the performance issue regarding the foreign keys for the array index. Any UPDATE or DELETE statement on a Primary Key table...",
+          "student_name": "Mark Rofail",
+          "code_url": "https://www.postgresql.org/message-id/CAJvoCuuEgQ%2Bpjv02rjvQN4o9s4_H3HJMdZdQwss2b0c0-xagEw%40mail.gmail.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6341409154007040/"
+        },
+        {
+          "title": "Eliminate O(N^2) scaling from rw-conflict tracking in serializable transactions",
+          "short_description": "To provide strict serializable isolation among transactions, PostgreSQL needs to track read-write conflicts (rw-conflicts for short in the following...",
+          "student_name": "Mengxing Liu",
+          "code_url": "http://liumx10.github.io/2017/08/20/Speedup-RW-conflict-tracking-in-PostgreSQL/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6731854698774528/"
+        },
+        {
+          "title": "Add errors handling and parallel execution to COPY",
+          "short_description": "Using PostgreSQL (PG) on the daily basis for years I found that there are some use-cases when you need to load (e.g. for a further analytics) a bunch...",
+          "student_name": "Alexey Kondratov",
+          "code_url": "https://gist.github.com/ololobus/249432b663e29d111f36b12458e3f30a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6196688620355584/"
+        },
+        {
+          "title": "Explicitly support predicate locks in index AMs besides  btree",
+          "short_description": "Currently, only B+-trees support page level predicate locking.For other indexes, it acquires relation level lock which can lead to unnecessary...",
+          "student_name": "Shubham Barai",
+          "code_url": "https://sites.google.com/view/shubham-gsoc-2017/home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4737486098006016/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5341499428438016/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "\"Develop Performance Farm Database and Website\" proposal for Google Summer of Code 2018",
+          "short_description": "I plan to implement the PerfFarm project using a separate front-end and back-end development approach and use PostgreSQL as a database for storing...",
+          "student_name": "Hongyuan Ma",
+          "code_url": "https://github.com/PGPerfFarm/pgperffarm/issues/22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5674757215223808/"
+        },
+        {
+          "title": "implement pg_thrift plugin for postgreSQL",
+          "short_description": "One of advantages of document-oriented databases like MongoDB or Couchbase over RDBMSs is an ability to change the data scheme easily, fast and...",
+          "student_name": "Yan Cui",
+          "code_url": "https://github.com/charles-cui/pg_thrift",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5494965656354816/"
+        },
+        {
+          "title": "Sorting Algorithms Benchmark and Implementation",
+          "short_description": "Implement the project idea sorting algorithms benchmark and implementation (2018)\nCandidate sorting algorithms:\n\nIntrosort\nTimsort\nDual-pivot...",
+          "student_name": "Kefan Yang",
+          "code_url": "https://gist.github.com/Strider-Alex/253ff5b3bff8c48a6c98bdcd97ff4cbb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6519182145355776/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5190353336926208/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Develop Performance Farm Database and Website",
+          "short_description": "The Performance Farm is an useful way to test Postgres' functionalities while changes are being made, to analyze its efficacy on different operating...",
+          "student_name": "Ilaria Battiston",
+          "code_url": "https://github.com/PGPerfFarm/pgperffarm/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5455812498030592/"
+        },
+        {
+          "title": "de-TOAST'ing using an iterator",
+          "short_description": "This project would aim to provide the ability to de-TOAST a fully TOAST'd and compressed field using an iterator, and then update the appropriate...",
+          "student_name": "Binguo Bao",
+          "code_url": "https://gist.github.com/djydewang/965f6c692d06a4a5b857709c5ca43af5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6211020287115264/"
+        },
+        {
+          "title": "pgAdmin 4 Query Tool Automatic Mode Detection and Enhancements",
+          "short_description": "pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source...",
+          "student_name": "Yosry Ahmed",
+          "code_url": "https://gist.github.com/yosrym93/4058413fa7ad708d95fd713c47fbb9aa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4883641988022272/"
+        },
+        {
+          "title": "ARTful Buffer Manager",
+          "short_description": "The main goal of this project is to implement and evaluate an adaptive radix tree as an alternative to the current underlying data structure of...",
+          "student_name": "mvpant",
+          "code_url": "https://github.com/mvpant/artbufmgr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6268535133700096/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6566134096068608/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Develop Performance Farm Database and Website",
+          "short_description": "PostgreSQL is a famous database management system, widely used by DBAs and with an open source license. There is a large community dedicated to...",
+          "student_name": "Ilaria Battiston",
+          "code_url": "https://github.com/PGPerfFarm/pgperffarm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5719399513718784/"
+        },
+        {
+          "title": "WAL-G performance improvements",
+          "short_description": "The goal of the project is to make two enhancements of archival and restoration tool WAL-G.\nThe first one is to improve the performance of the backup...",
+          "student_name": "Daniil Zakhlystov",
+          "code_url": "https://usernamedt.me/google-summer-of-code-2020-at-postgresql/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5476125284761600/"
+        },
+        {
+          "title": "Improving PL/Java build system",
+          "short_description": "PL/Java is an open source extension PostgreSQL that allows stored procedures, triggers and functions to be written in Java. PL/Java \u2018s build system...",
+          "student_name": "mrrobot",
+          "code_url": "https://www.postgresql.org/message-id/CAASLQ4OKtpbTcxDJTg6vABVuhPhGAwYbgrsNbsYQADPkkPiwJw%40mail.gmail.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5844112143548416/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6316019928268800/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Add monitoring of pg_stat_statements to pg_systat",
+          "short_description": "Pg_systat is 'systat' for PostgreSQL. It allows users to monitor various PostgreSQL statistics tables from a terminal window. This project aims to...",
+          "student_name": "Jianhui Lu",
+          "code_url": "https://gitlab.com/trafalgar_lu/pg_systat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6453137933598720/"
+        },
+        {
+          "title": "Improve pgeu-system for Conference Management",
+          "short_description": "Pg-eu system is an infrastructure developed and maintained by Postgres for managing non-profit organizations along with an extensive conference...",
+          "student_name": "Saurav Shrivastav",
+          "code_url": "https://blog.saurav-shrivastav.tech/work-product-submission-for-gsoc21-project-improve-pgeu-system-for-conference-management",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6142133882322944/"
+        },
+        {
+          "title": "WAL-G optimization backup storage by remote-copy APIs",
+          "short_description": "WAL-G supports two backup types: delta(incremental) and full. Delta backup has higher performance on pushing phase, but it is slower on fetch and...",
+          "student_name": "Alexander Slesarev",
+          "code_url": "https://medium.com/@alexander.g.slesarev/gsoc-2021-fast-and-efficient-wal-g-backups-using-the-remote-copy-apis-892f95a2c144",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4999680265551872/"
+        },
+        {
+          "title": "pgagroal: Metrics and monitoring",
+          "short_description": "Project \"Metrics and monitoring\" aims to collect more effective metrics which can characterize the current status of pgagroal's pool, connections,...",
+          "student_name": "Junduo Dong",
+          "code_url": "https://github.com/agroal/pgagroal/issues/170",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5068516478156800/"
+        },
+        {
+          "title": "Develop Performance Farm Benchmarks and Website",
+          "short_description": "PostgreSQL is a big and active open-source DBMS. This means that the code changes frequently and there are a lot of branches and commits. When big...",
+          "student_name": "YoungHwan Joo",
+          "code_url": "https://github.com/PGPerfFarm/pgperffarm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5285139025756160/"
+        },
+        {
+          "title": "Create procedural language extension for the Julia programming language",
+          "short_description": "Postgresql allows developers more freedom to extend the provided capabilities in an application-specific manner compared to other popular open-source...",
+          "student_name": "Konstantina Skovola",
+          "code_url": "https://docs.google.com/spreadsheets/d/1Bu_a9UXkzhbUPe8Q9jsJ7bltK-BwEOSTM7MiNjhYg5k/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4577467800485888/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/postgresql/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Improve pgarchives",
+          "short_description": "pgarchives is the official archive of Postgres mailing lists. Users can access the interface from the website and browse it, searching according to...",
+          "student_name": "Sahil Harpal",
+          "code_url": "https://github.com/SahilHarpal/GSoC2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xP4nTRiX/"
+        },
+        {
+          "title": "Pgexporter: Custom file",
+          "short_description": "Pgexporter is a Prometheus exporter for PostgreSQL. In this project, we add the option to have a custom query file to specify the queries run against...",
+          "student_name": "Donglin Xie",
+          "code_url": "https://github.com/pgexporter/pgexporter/discussions/36",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yQk3Qapd/"
+        },
+        {
+          "title": "Develop Performance Farm Benchmarks and Website",
+          "short_description": "The PostgreSQL Performance Farm (short for Pgperffarm) is a project to measure and visualize the benchmark performance of each version of PostgreSQL...",
+          "student_name": "Yedil Serzhan",
+          "code_url": "https://yedilserzhan.github.io/blog/2022/09/10/Pgperffarm_GSoC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/N955hgeq/"
+        },
+        {
+          "title": "Improve PostgreSQL Regression Test Coverage",
+          "short_description": "# proposal summary PostgreSQL is a very actively developed project and there are so many existing codes and so many new ones are added. I think there...",
+          "student_name": "DongWook Lee",
+          "code_url": "https://dongwooklee96.github.io/post/2022/09/03/gsoc-2022-final-report-postgresql.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2ngxdv2Q/"
+        },
+        {
+          "title": "New and improved website for pgjdbc (JDBC)",
+          "short_description": "This project would aim to update the pgjdbc website. Currently, it is based on a very old PostgreSQL template and uses Jekyll to build it & also this...",
+          "student_name": "Utkarsh Shukla",
+          "code_url": "https://gist.github.com/utkar-sh-ukla/20b6304471956d6ea11ec9ad7de6d7e3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tnfFXf7R/"
+        },
+        {
+          "title": "pgmoneta: Storage API",
+          "short_description": "pgmoneta is a backup / restore solution for PostgreSQL, it supports doing backups, listing all backups for a server, restoring a backup from a...",
+          "student_name": "Mariam Fahmy",
+          "code_url": "https://github.com/pgmoneta/pgmoneta/discussions/54#discussioncomment-4184344",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EpwXhnaa/"
+        },
+        {
+          "title": "pgmoneta: On-disk encryption",
+          "short_description": "This project aims to add support for on-disk encryption of backups. These are some tasks that need to be completed: Create an internal API for...",
+          "student_name": "Jichen",
+          "code_url": "https://solokyo.github.io/2022/09/10/GSoC-2022-Final-Submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/myw7nyZl/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/postgresql",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "pg_adviser / index_adviser: Recommend Potentially Useful Indexes",
+          "short_description": "The Index Adviser (pg_adviser) is an extension for PostgreSQL that suggests potentially useful indexes for given queries. This project aims to...",
+          "student_name": "Ahmed Ibrahim",
+          "code_url": "https://gist.github.com/ahmedibrahim404/9f16d7b627ada377c6209368734c8dfb",
+          "proposal_id": "qpvhktph",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Uuis4lHV"
+        },
+        {
+          "title": "PGweb Testing Harness for the official PostgreSQL Website",
+          "short_description": "As part of the Google Summer of Code 2023 , we developed an automated testing harness suite for the official PostgreSQL website. The suite addresses...",
+          "student_name": "Akshat Jaimini",
+          "code_url": "https://destrex271.hashnode.dev/pgweb-testing-harness-suite-documentation",
+          "proposal_id": "DqNJcR6a",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WQ90dY05"
+        },
+        {
+          "title": "Develop Performance Farm Benchmarks and Website (2023)",
+          "short_description": "The Performance Farm project aims to emphasize Postgresql performance as it evolves by conducting benchmarks and posting the results on a webpage....",
+          "student_name": "Anil rundla",
+          "code_url": "https://lord2anil.github.io/gsoc23-report/",
+          "proposal_id": "xG6aYlSA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/W2YKA7jL"
+        },
+        {
+          "title": "pgmoneta: Native Backup",
+          "short_description": "Pgmoneta is a backup/restore solution for PostgreSQL. It can be used to backup one or multiple databases. Currently pgmoneta achieves that by calling...",
+          "student_name": "Haoran Zhang",
+          "code_url": null,
+          "proposal_id": "AVGuWdrW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PzRME3N9"
+        },
+        {
+          "title": "Postgres Extension Tutorial / Quick Start",
+          "short_description": "This project aims to create a comprehensive and easy-to-follow tutorial on how to write a Postgres extension, addressing the current lack of clear...",
+          "student_name": "Ishaan Adarsh",
+          "code_url": "https://gist.github.com/IshaanAdarsh/ae96669cb30806a23899cbf124f28554",
+          "proposal_id": "cP20oiAH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vxDUiu3f"
+        },
+        {
+          "title": "pgagroal: simple vault implemention",
+          "short_description": "pgagroal is a high-performance protocol-native connection pool for PostgreSQL. It also manages authentication for users who try to access the...",
+          "student_name": "Jichen",
+          "code_url": null,
+          "proposal_id": "gmpNblwq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Vvee3Yjk"
+        },
+        {
+          "title": "Rewriting the pg_chameleon SQL library",
+          "short_description": "The pg_chameleon library translates DDL from MySQL dialect to PostgreSQL dialect. In doing this, there is an intermediate tokenization step. This...",
+          "student_name": "Kaustubh M",
+          "code_url": "https://kaustubh.page/posts/google-summer-of-code-2023-at-postgres/",
+          "proposal_id": "v7BqBzYD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/VnzdAl4z"
+        },
+        {
+          "title": "pg_statviz: Time Series Analysis & Visualization of Statistics",
+          "short_description": "pg_statviz is a PostgreSQL extension with a command line utility pair. The extension can snapshot cumulative and dynamic statistics of various...",
+          "student_name": "Rajiv Harlalka",
+          "code_url": "https://github.com/rajivharlalka/gsoc23-postgres/blob/main/Final_Report.md",
+          "proposal_id": "tBgxIMGz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4sndCuo0"
+        },
+        {
+          "title": "Improving PostgreSQL Version Support for pgexporter",
+          "short_description": "Pgexporter provides Prometheus metrics for PostgreSQL servers which include some core metrics, as well as custom metrics provided by users. The...",
+          "student_name": "resyfer",
+          "code_url": "https://github.com/pgexporter/pgexporter/discussions/63#discussioncomment-6771673",
+          "proposal_id": "q5s1xbDh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Djrl5w5B"
+        },
+        {
+          "title": "GUI representation of monitoring System Activity with the system_stats Extension in pgAdmin 4",
+          "short_description": "This project involves design and developing dashboard in pgAdmin 4 which shows the system level statistics for monitoring Postgres activity with the...",
+          "student_name": "Sahil Harpal",
+          "code_url": "https://github.com/Sahil1479/GSoC-23",
+          "proposal_id": "KnKOuEVd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/FHOwG5SU"
+        },
+        {
+          "title": "pgagroal: Query Cache",
+          "short_description": "This project involves adding a query caching feature to pgagroal, a high-performance connection pool for PostgreSQL. The goal is to enhance...",
+          "student_name": "Sudeep Reddy",
+          "code_url": null,
+          "proposal_id": "eC99Y8PB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5S8jEX0h"
+        },
+        {
+          "title": "Monitoring for pgmoneta",
+          "short_description": "In this project, we will expand metrics to help users observe the running status of pgmoneta and each server at any time. Additionally, a large...",
+          "student_name": "Zhengshun Lin",
+          "code_url": "https://github.com/pgmoneta/pgmoneta/issues/133",
+          "proposal_id": "PXDdltlh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eSPk3WGm"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/postgresql/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "PostgreSQL (Pgmoneta) - WAL infrastructure",
+          "short_description": "In this project, we want to implement an infrastructure in Pgmoneta that can read and parse the WAL files into WAL records. When our infrastructure...",
+          "student_name": "Shahryar",
+          "code_url": "https://github.com/sh-soltanpour/gsoc24/blob/main/final.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BjMVxNbX/"
+        },
+        {
+          "title": "pgmoneta: Extended functionality",
+          "short_description": "The project aims to provide a new code base, pgmoneta_ext, to enable pgmoneta to access files on the PostgreSQL server side, including the ability to...",
+          "student_name": "Chao",
+          "code_url": "https://docs.google.com/document/d/1dkr_cc_ZFdhvavlFSt14SONtY51EYNuW164i5egSm8w/edit?usp=drive_link",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KKQMY5Sc/"
+        },
+        {
+          "title": "PostgreSQL JDBC Struct/Array Support",
+          "short_description": "Currently, the composite types defined in PostgreSQL (https://www.postgresql.org/docs/current/rowtypes.html#ROWTYPES) are not exposed through the...",
+          "student_name": "Arjan Marku",
+          "code_url": "https://gist.github.com/binoverfl0w/ea27c79ee30b3e63591e80f2c9e75d37",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yD8y4X40/"
+        },
+        {
+          "title": "pgagroal: Replace the I/O Layer",
+          "short_description": "The project consists of replacing the I/O Layer of pgagroal, today highly dependent on the libev library, for a pgagroal's own implementation. The so...",
+          "student_name": "decarv",
+          "code_url": "https://github.com/agroal/pgagroal/discussions/442",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Nh9pN95L/"
+        },
+        {
+          "title": "RPC Sinks for PgWatch3",
+          "short_description": "This project aims to provide support for remote sinks in pgwatch3. Currently pgwatch3 allows users to write measurements to \u2018sinks\u2019. However there...",
+          "student_name": "Akshat Jaimini",
+          "code_url": "https://github.com/destrex271/pgwatch3_rpc_server/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fA8SxpN7/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/postgresql",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Enhancements to pgwatch v3 RPC integration",
+          "short_description": "The existing pgwatch3_rpc_server project creates specialized RPC endpoints that allow pgwatch3 clients to export monitoring data in various formats...",
+          "student_name": "ahmad gouda",
+          "code_url": null,
+          "proposal_id": "Hm55zdED",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4Be9mT3p"
+        },
+        {
+          "title": "pgmoneta: Incremental backup for PostgreSQL 13-16",
+          "short_description": "Implement functionality in pgmoneta and pgmoneta_ext such that an incremental backup can be taken from PostgreSQL 13 to 16. This work can build upon...",
+          "student_name": "Ashutosh Sh",
+          "code_url": null,
+          "proposal_id": "vLJchPf7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HAmOi5Y7"
+        },
+        {
+          "title": "Extension Support for pgexporter",
+          "short_description": "PostgreSQL extensions can offer detailed views of query performance, storage usage, and system health but this would need frequent manual setup to be...",
+          "student_name": "Bassam Adnan",
+          "code_url": null,
+          "proposal_id": "1PuULTUZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AWQtfg8b"
+        },
+        {
+          "title": "Upgrade pgwatch Grafana dashboards to v11",
+          "short_description": "This project focuses on upgrading the existing pgwatch dashboards to be fully compatible with Grafana version 11. With Grafana v11 removing support...",
+          "student_name": "Gaurav Patidar",
+          "code_url": null,
+          "proposal_id": "xhFxMCUc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UhsBaCiE"
+        },
+        {
+          "title": "ABI Compliance Checker",
+          "short_description": "PostgreSQL introduced Server API and ABI Stability Guidance to help extension authors understand compatibility expectations. The policy ensures ABI...",
+          "student_name": "Mankirat Singh",
+          "code_url": null,
+          "proposal_id": "P1p7eg3T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jFquLTUi"
+        },
+        {
+          "title": "pgmoneta: WAL Filtering",
+          "short_description": "pgmoneta is an open-source tool designed for PostgreSQL backup and recovery, with a strong focus on managing Write-Ahead Logging (WAL) files critical...",
+          "student_name": "Mohab Yasser",
+          "code_url": null,
+          "proposal_id": "sB9EtrG7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ttqxjXNx"
+        },
+        {
+          "title": "Enhancing Pgagroal Security: Hot Reloading, Vault Improvements, and Certificate Monitoring",
+          "short_description": "This project enhances Pgagroal's security by implementing hot reloading for TLS certificates and configuration files, refining the vault system for...",
+          "student_name": "Tejas Tyagi",
+          "code_url": null,
+          "proposal_id": "RtmleXQX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2SLjM1PK"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://pgtreats.info/slack-invite",
+  "contact_email": "mailto:pgsql-hackers@lists.postgresql.org",
+  "mailing_list": "pgsql-hackers@lists.postgresql.org",
+  "ideas_url": "https://wiki.postgresql.org/wiki/GSoC_2025",
+  "guide_url": "https://wiki.postgresql.org/wiki/GSoC",
+  "twitter_url": "https://twitter.com/postgresql",
+  "blog_url": "https://planet.postgresql.org/"
+}

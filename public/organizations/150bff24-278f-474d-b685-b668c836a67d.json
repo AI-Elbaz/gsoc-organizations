@@ -1,0 +1,127 @@
+{
+  "name": "Hydra Ecosystem",
+  "url": "https://www.hydraecosystem.org/",
+  "image_url": "https://lh3.googleusercontent.com/MqXE4XsYgTwqizedqCRdtcKRH87GYtNAPkfbw0Q5ATFYDB9S3szHr4A4QmSxZHp7KfPm6AKx6hCRsXsBUU6yGqpuhK6l3_lVTWGKcTczBXLS",
+  "image_background_color": "#fdd20b",
+  "category": "Web",
+  "topics": [
+    "database",
+    "apis",
+    "semantic web",
+    "functional-programming",
+    "knowledge graph",
+    "web",
+    "api",
+    "hydra",
+    "docker",
+    "web development",
+    "http",
+    "rest apis",
+    "web services",
+    "linked data",
+    "knowledge graphs"
+  ],
+  "technologies": [
+    "python",
+    "flask",
+    "rdf",
+    "hydra",
+    "json/json-ld",
+    "javascript",
+    "redis",
+    "sql",
+    "rest",
+    "apis",
+    "postgresql",
+    "docker"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5331740188999680/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Open Api To Hydra Parser",
+          "short_description": "A parser for converting Open Api specification to HYDRA Api Documentation to increase users and ease of migration between platforms .",
+          "student_name": "Vaibhav Chellani",
+          "code_url": "https://medium.com/openapi-hydra-parser-gsoc2018/gsoc-2018-summarised-c4c137423ec1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5729564890234880/"
+        },
+        {
+          "title": "Redis as a Graph Database",
+          "short_description": "Redis is an in-memory remote database that offers high performance, replication, and a unique data model to produce a platform for solving...",
+          "student_name": "Sandeep Chauhan",
+          "code_url": "https://medium.com/@sandeepsajan0/gsoc-2018-summary-a94550ee0969",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5498988631425024/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5054921525690368/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve hydrus",
+          "short_description": "hydrus(Hydra universal server) is a python based tool to create hypermedia-driven REST-APIs. It uses Hydra(W3C draft) standard for creation and...",
+          "student_name": "Vishal Desai",
+          "code_url": "https://medium.com/@vddesai1998/hydraecosystem-gsoc-2019-summary-204ceb678f65",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6483379011190784/"
+        },
+        {
+          "title": "Smart Agents and Hydra APIs  - Dynamic Demo",
+          "short_description": "Our Unstructured Web Data\nIn the current web, we have a lot of websites, data, and services, but all of it usually only in a human-readable way. The...",
+          "student_name": "Gustavo Morais",
+          "code_url": "https://guttz.github.io/gsoc19/2019/07/24/hydra-ecosystem-gsoc19.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6525859375087616/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4811360279461888/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "General Improvements in hydrus",
+          "short_description": "hydrus is a set of Python-based tools which makes it easy and efficient to make powerful REST-APIs serve data. \nAt the moment, hydrus provides mainly...",
+          "student_name": "Samesh Lakhotia",
+          "code_url": "https://www.sameshlakhotia.tech/GSoC-2020-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5739739941961728/"
+        },
+        {
+          "title": "General Improvements in Agent",
+          "short_description": "This project involves bringing the agent to as per the latest of the Hydra spec. The Agent can then be used as a package to make smart client that...",
+          "student_name": "Priyanshu Nayan",
+          "code_url": "https://medium.com/@impns/google-summer-of-code-2020-report-20f23790be0c?source=friends_link&sk=d4a6a6d021c0f3921423951301b1ab80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6039036147269632/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5753537857847296/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "General Improvements in hydrus",
+          "short_description": "hydrus is a set of Python based tools for easier and efficient creation of Hypermedia driven REST-APIs. hydrus utilises the power of Linked Data to...",
+          "student_name": "Hasan Faraz Khan",
+          "code_url": "https://github.com/farazkhanfk7/google-summer-of-code-2021-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5614110066081792/"
+        },
+        {
+          "title": "Banking Service with Open Risk and Hydra Ecosystem",
+          "short_description": "The idea behind the project is to create a hydra-powered REST API that aims to serve the loan portfolio data to various consumers for regulating,...",
+          "student_name": "Purvansh Singh",
+          "code_url": "https://github.com/Purvanshsingh/Google-Summer-of-Code-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6125469409214464/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/hydraecosystem/shared_invite/zt-ly4j3hg3-gVhJxgc6ykpGrel_N4Xvvg",
+  "contact_email": "mailto:mentors@hydraecosystem.org",
+  "mailing_list": "http://hydraecosystem@googlegroups.com",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/HydraEcosystem",
+  "blog_url": "https://medium.com/w3c-hydra-development-community"
+}

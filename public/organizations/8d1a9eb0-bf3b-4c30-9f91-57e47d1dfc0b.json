@@ -1,0 +1,132 @@
+{
+  "name": "Shogun",
+  "url": "https://www.shogun.ml/",
+  "image_url": "https://lh3.googleusercontent.com/cCl4GfzsLBvpTPnFeYL8lxv3DraX0vbkCIhaN8Se_xEjTcWXqMdLTM_DJvJBeThODx3Gms3sjsiFlAFtznT5dKYPw7djIvE",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "software engineering",
+    "bioinformatics",
+    "statistics",
+    "fast algorithms",
+    "data science",
+    "scientific computing",
+    "user experience"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "cmake",
+    "swig",
+    "c",
+    "machine learning",
+    "c++11",
+    "c++17",
+    "data science",
+    "matlab"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5799699692912640/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Fundamental ML: The usual suspects",
+          "short_description": "This project aims to improve Shogun\u2019s implementation of the fundamental algorithms which are necessary and form the base of any machine learning...",
+          "student_name": "Saurabh7",
+          "code_url": "https://gist.github.com/Saurabh7/b492519a6044a840145824011229a64b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6668976109125632/"
+        },
+        {
+          "title": "New Parameter Framework and Plugin Based Architecture for Shogun",
+          "short_description": "Shogun is an amazing machine learning toolbox with good set of algorithms available. Since the project is old, the code base is huge and it's old. A...",
+          "student_name": "Sanuj Sharma",
+          "code_url": "https://gist.github.com/sanuj/62f576cdaa80ecaa781f78b4b9298de4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6685641655975936/"
+        },
+        {
+          "title": "The Shogun Detox \u2013 GSoC 2016 Proposal",
+          "short_description": "As a powerful machine learning toolkit, Shogun was achieved by the efforts of many developers. However, this also implicates the trouble with Shogun:...",
+          "student_name": "OXPHOS",
+          "code_url": "https://github.com/OXPHOS/shogun/wiki/GSoC-2016-Final-Report-:-The-Shogun-Detox",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6048302868987904/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4704476053110784/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Data Project - Patient Monitoring and Decision Support using Health Data",
+          "short_description": "For GSoC2017, I intend to use the Shogun library on health data and show the usefulness of machine learning in applications that could save people's...",
+          "student_name": "Olivier Nguyen",
+          "code_url": "https://gist.github.com/olinguyen/510f29a2dfeeca1aa30ac9bc2b474580",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5414039815454720/"
+        },
+        {
+          "title": "The Shogun Detox2",
+          "short_description": "Every line of code in SHOGUN has a long history and have gone through many brains and hands. This made SHOGUN what it is today: a powerful toolbox...",
+          "student_name": "weijie Lin",
+          "code_url": "https://gist.github.com/MikeLing/fe0aeb41b04f0d16a6db7739eb5c781c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5488325569806336/"
+        },
+        {
+          "title": "Fundamental Machine Learning Algorithms",
+          "short_description": "Shogun implements dozens of machine learning and related algorithms, however many of them are not properly benchmarked and the library suffer from a...",
+          "student_name": "Michele Mazzoni",
+          "code_url": "https://gist.github.com/micmn/e47c3d8528643ddba27928bea3ca5db0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5614168380014592/"
+        },
+        {
+          "title": "Shogun Detox II: Codebase improvements and finalization of the new Tags and Serialization frameworks.",
+          "short_description": "The Shogun Toolbox is a well-established machine learning project that provides efficient algorithms implementations that can be used in a wide range...",
+          "student_name": "Giovanni De Toni",
+          "code_url": "https://gist.github.com/geektoni/6fa8ab3beb2c8593df1ddb64a89771c0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4708113621975040/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5700571963588608/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Detox++",
+          "short_description": "The aim of the project is to dive into the internals of Shogun, refactor and clean old code, and apply modern C++ principles. This includes:\n...",
+          "student_name": "Ahmed Essam",
+          "code_url": "https://medium.com/@theartful.ae/gsoc-19-with-shogun-project-review-c3cebddd1c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5524227451518976/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4722091934351360/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improving the user experience",
+          "short_description": "Refactor the base class Machine API, Add Composite and so on.",
+          "student_name": "Yuhui Liu",
+          "code_url": "https://liuyuhui.github.io/2020/08/25/GSoC-Final-Report-Improving-the-user-experience/#more",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4783011716923392/"
+        },
+        {
+          "title": "Web Tool for Disease Estimation",
+          "short_description": "This project aims at showcasing Shogun\u2019s capabilities as well as making a web tool and an API that everyone can use so as to be able to successfully...",
+          "student_name": "Tej Sukhatme",
+          "code_url": "https://medium.com/@tejsukhatme/gsoc-2020-with-shogun-final-report-2600d45b5742",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4807215602466816/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://webchat.freenode.net/?channels=shogun&uio=d4",
+  "contact_email": "mailto:fernando.iglesiasg@gmail.com",
+  "mailing_list": "http://shogun.ml",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ShogunML",
+  "blog_url": "http://shogun.ml/page/planet/shogun"
+}

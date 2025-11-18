@@ -1,0 +1,959 @@
+{
+  "name": "National Resource for Network Biology (NRNB)",
+  "url": "https://nrnb.org/gsoc.html",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/national-resource-for-network-biology-nrnb/5uobjboaxnzrxyoj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web",
+    "bioinformatics",
+    "biology",
+    "systems biology",
+    "dataviz",
+    "database",
+    "graphics",
+    "ui/ux",
+    "network biology",
+    "data visualization",
+    "web applications",
+    "network analysis",
+    "data modeling",
+    "web application",
+    "data science",
+    "scientific computing",
+    "machine learning"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "c++",
+    "php",
+    "c",
+    "html",
+    "web",
+    "r",
+    "rest",
+    "xml",
+    "json",
+    "css"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6599328919453696/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Principal Coordinate Analysis and t-Distributed Stochastic Neighbor Embedding in clusterMaker2",
+          "short_description": "Implement two algorithms which have the ability to do dimensional reduction in cluster Network. Principal Coordinate Analysis and t-Distributed...",
+          "student_name": "Supun Arunoda",
+          "code_url": "https://supunarunoda.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6408186768654336/"
+        },
+        {
+          "title": "Enhance vignettes and plugin use for R package RCy3 for network manipulation using Cytoscape",
+          "short_description": "Many scientists use networks to visualize complex relationships among species, people, cities, genes, proteins or other subjects. Cytoscape is...",
+          "student_name": "jooolia",
+          "code_url": "https://github.com/jooolia/gsoc_Rcy3_vignettes/blob/master/blog_post_drafts/final_work_submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6574250336976896/"
+        },
+        {
+          "title": "Visualizing genomic alterations in TCGA cancer pathways in cBioPortal",
+          "short_description": "The main goal of this project is to provide a new network view which is capable of visualizing curated TCGA pathways that are more attractive and...",
+          "student_name": "Istemi Bahceci",
+          "code_url": "https://docs.google.com/document/d/1WlhdTuwfT8mUiEiklrkjNwFQwgDy9xJgbmGDFTbUQOg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6606672508223488/"
+        },
+        {
+          "title": "Improving Web Based SBGN Editor SBGNViz.js",
+          "short_description": "SBGNViz.js is an open source web application based on Cytoscape.js to visualize the pathway models represented by SBGN Process Description Notation ....",
+          "student_name": "Metin Can Siper",
+          "code_url": "https://docs.google.com/document/d/1BLOgtJ7nppEJuQ5PAxrdRXnXDWXqLeL_IMTcl5L0BHA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5746664899870720/"
+        },
+        {
+          "title": "Java support for Deviser, a code generation system for SBML libraries",
+          "short_description": "Since SBML Level 3 is being developed as a modular format with optional SBML Level 3 packages are available to extend the focus of the core SBML...",
+          "student_name": "Hovakim Grabski",
+          "code_url": "http://hgrabski.blogspot.am/2016/08/the-end.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5499817291677696/"
+        },
+        {
+          "title": "Import graphs in multiple formats and Cytoscape files into GraphSpace",
+          "short_description": "GraphSpace is a tool for storing, sharing, and visualising graphs in order to help\ncollaborative research. Users can upload graphs and share it with...",
+          "student_name": "MridulS",
+          "code_url": "https://gist.github.com/MridulS/8b062bc067c323fb3ca18d85c648c690",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5313526843310080/"
+        },
+        {
+          "title": "GSoC: JSBML Validation System",
+          "short_description": "The JSBML library is a powerful Java library that gives the use a easy possibility to read, write and manipulate SBML files with Java. Because there...",
+          "student_name": "Roman Schulte",
+          "code_url": "https://github.com/sbmlteam/jsbml/commits?author=anfark",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5619423540936704/"
+        },
+        {
+          "title": "SBGN-ML and SBML to Escher Converter",
+          "short_description": "Escher is quickly growing in popularity. As Escher currently uses JSON as its data and layout\nrepresentation format, and most of the community...",
+          "student_name": "Devesh Khandelwal",
+          "code_url": "https://github.com/SBRG/EscherConverter/commits/master?author=devkhan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6218743277420544/"
+        },
+        {
+          "title": "Interconvertible Layout program for CellDesigner",
+          "short_description": "CellDesigner is a modeling/simulating software capable of visualizing, modeling, and simulating gene\u00adregulatory and biochemical networks. The key...",
+          "student_name": "Kaito",
+          "code_url": "https://docs.google.com/document/d/13cFXIG7pEFwkkVOzOlAC1unbrkXU4XA7SCbtzkDsfhA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4703966562615296/"
+        },
+        {
+          "title": "Interconversion between the systems biology modeling formats SBML and BioPAX",
+          "short_description": "In the systems biology field, there exists many different standards, with each standard serving for a different purpose. BioPax is a standard used...",
+          "student_name": "tramy",
+          "code_url": "http://www.async.ece.utah.edu/~tramyn/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6492203308285952/"
+        },
+        {
+          "title": "Multithread Centiscape (#55)",
+          "short_description": "CentiScaPe is a Cytoscape application used to calculate a number of different node centralities in a network. All of the centrality calculating...",
+          "student_name": "ibestvina",
+          "code_url": "https://github.com/ibestvina/multithread-centiscape/commits/master?author=ibestvina",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6523918420541440/"
+        },
+        {
+          "title": "Cytoscape command line scripting enhancements",
+          "short_description": "Cytoscape is a general purpose, open source software platform for complex network data integration, analysis and visualization.  Cytoscape\u2019s core...",
+          "student_name": "Ashish Tiwari",
+          "code_url": "https://github.com/ashishtiwarigsoc/command-dialog/commits/develop",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4870044894887936/"
+        },
+        {
+          "title": "The Online Resource for Interface Based Interaction Networks (TOR-IBIN) Web Interface",
+          "short_description": "TOR-IBIN will be an online resource for gathering and storing published interface-based protein-protein interactions (PPI). TOR-IBIN aims to make...",
+          "student_name": "MilesGSOC",
+          "code_url": "https://drive.google.com/open?id=1hrBy2_eCS7JGOI7vj2w_2dD9zYrFnpCgnH13bxsKuEM",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5870068437090304/"
+        },
+        {
+          "title": "Tutorials for Cytoscape.js",
+          "short_description": "Tutorials serve as an invaluable way to familiarize oneself with new software. Cytoscape.js currently provides demos but lacks tutorials to tie...",
+          "student_name": "joseph.stahl",
+          "code_url": "https://github.com/cytoscape/cytoscape.js-tutorials/commits?author=josephst",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5906695918190592/"
+        },
+        {
+          "title": "Extending Cytoscape.js: Addition of Clustering Algorithms",
+          "short_description": "Cytoscape.js is a graph theory and networks library focused on providing built-in, rich and performant graph models for analysis and data...",
+          "student_name": "Zhaoyuan Zoe Xi",
+          "code_url": "https://gist.github.com/zoexi/ec20705f6669882039b1ef8b05aaa4c1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5141143767482368/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6499778154201088/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Interconversion of the SBML and SBGN Modelling Languages using Semantics of Logic",
+          "short_description": "Systems biology researchers study the network of molecular interactions within a biological system and publish the deduced models in a diagram...",
+          "student_name": "Haoran Yu",
+          "code_url": "https://github.com/NRNB-GSoC2017-SBML2SBGNML-Converters/SBML2SBGNML/tree/GSoC_2017_final_submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6428665978028032/"
+        },
+        {
+          "title": "Cytoscape.js Extension for Querying Large Networks",
+          "short_description": "Traversal-based graph algorithms are good at extracting \u201csubgraphs of interest\u201d when applied to large networks. However, applying known algorithms...",
+          "student_name": "Hasan Balc\u0131",
+          "code_url": "https://docs.google.com/document/d/1Le_tQxiBct3Z6wIvD7azYkh5XjpCOvYEaEb-rV1ifSI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5725721968246784/"
+        },
+        {
+          "title": "Extending the IBW Biocompilation Interface with SBOL and SBML Import/Export Capabilities",
+          "short_description": "The Infobiotics Workbench (IBW) is a synthetic biology design tool with three major functionalities: stochastic simulations, which mimic the...",
+          "student_name": "bodun",
+          "code_url": "https://github.com/BoyDun/IBW_SBML_SBOL_Export",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4988269775290368/"
+        },
+        {
+          "title": "PiType: A Protein Interaction Prediction Cytoscape App",
+          "short_description": "PiType is an already existing protein-protein interaction classifying tool created by my mentor.  It currently exists as both a web app and a...",
+          "student_name": "MWrana",
+          "code_url": "https://github.com/fgoebels/PiType2.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5058485242822656/"
+        },
+        {
+          "title": "Improvements in Tool for Curating Biological Maps in SBGN",
+          "short_description": "SBGNViz is a Cytoscape.js based library for viewing biological maps in Systems Biology Graphical Notation (SBGN) notation. ChiSE is a library based...",
+          "student_name": "Ilkin Safarli",
+          "code_url": "https://docs.google.com/document/d/15o8IdyfAtjLDhsBFRGPCoykA-vDae2FxckyFachZaak/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5082708053065728/"
+        },
+        {
+          "title": "OpenGL-accelerated Renderer for Cytoscape 3",
+          "short_description": "Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways. It integrates these networks...",
+          "student_name": "MENGHE ZHANG",
+          "code_url": "https://github.com/ZhangMenghe/PokeMeow-Renderer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5315142019448832/"
+        },
+        {
+          "title": "WikiPathways Pathway Presenter",
+          "short_description": "WikiPathways is an open and collaborative platform for sharing biological pathway information. It features an interactive diagram that aids the user...",
+          "student_name": "jcbwndsr",
+          "code_url": "http://jcbwndsr.com/gsoc-final-overview/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5336316745089024/"
+        },
+        {
+          "title": "Implement Network Quantity Information measure in CentiScaPe #64",
+          "short_description": "CentiScaPe is a Cytoscape application used to calculate a number of different node centralities of an optionally weighted network, both directed and...",
+          "student_name": "Ivan Bestvina",
+          "code_url": "https://github.com/ibestvina/centiscape-net-quantity-information.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5576937992880128/"
+        },
+        {
+          "title": "libGPML library to read and write GPML files",
+          "short_description": "libGPML\nCurrently it is required to include the whole PathVisio core module which is much bigger and already contains PathVisio specific...",
+          "student_name": "Saurabh\tKumar",
+          "code_url": "https://github.com/PathVisio/libGPML/blob/master/gsoc2017.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4563894257319936/"
+        },
+        {
+          "title": "Develop a web service which provides simulation / steady state analysis / parameter estimation with SBML models",
+          "short_description": "In systems biology, it is very important to formalize the model for biological phenomenon and analyze based on this model basically constructed by...",
+          "student_name": "Takahiro Yamada",
+          "code_url": "https://docs.google.com/document/d/1w79CfEBhsOZvShZw-yDWfA2o2ZOUkmkUO9mk0midilQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4634484729184256/"
+        },
+        {
+          "title": "Notification system for GraphSpace",
+          "short_description": "GraphSpace is an user-friendly web-based platform that collaborating research groups can utilize for storage, interaction, and network sharing. A...",
+          "student_name": "Melvin Mathew",
+          "code_url": "https://gist.github.com/melvin15may/2ae50b6904844a8fa390030321394a3f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4654282246717440/"
+        },
+        {
+          "title": "Developing a web interface for DoMo-Pred",
+          "short_description": "Description:\nThe aim of this project is is to develop a web interface for DoMo-Pred which can help to simplify the analysis of protein-protein...",
+          "student_name": "Long Zhang",
+          "code_url": "https://gist.github.com/ankanch/2fd83be30010470a15a08a603ad3a19a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4664231135805440/"
+        },
+        {
+          "title": "Developing a Cluster Computing Framework for Dynamical Modeling",
+          "short_description": "Integrating the existing Tellurium project with Apache Spark and by which the computations or simulations can be run in parallel. Developing an API...",
+          "student_name": "Shaik Asifullah",
+          "code_url": "https://medium.com/@s.asifullah7/a-never-ending-journey-58b33da05409",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4700839692206080/"
+        },
+        {
+          "title": "Implement GeneMANIA in Julia for High-performance Computing",
+          "short_description": "The aim of the project is to Implement GeneMANIA in Julia to optimize netDx for high-performance computing.\nThe current Java-based implementation of...",
+          "student_name": "Guodong Xu",
+          "code_url": "http://memoiry.github.io/ModMashup.jl/dev/GSoC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6478670940078080/"
+        },
+        {
+          "title": "Roadmap to create a WebApp for the Enrichment Map Using Cytoscape and RESTful services",
+          "short_description": "The Projects goal is to use opencpu and cytoscape.js in order to remove the difficulty for Biologists to tackle with the hassles    of using R code...",
+          "student_name": "Bhavesh Narra",
+          "code_url": "https://github.com/bhaveshsunny/enrichmentmap",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6503415320412160/"
+        },
+        {
+          "title": "Implementation of a Python Library for GraphSpace RESTful APIs",
+          "short_description": "In this project, we would be aiming to implement a python library for the GraphSpace RESTful APIs. Implementing such a library will be boon for the...",
+          "student_name": "Sandeep Mahapatra",
+          "code_url": "https://summerofcode17.wordpress.com/2017/08/25/my-journey-with-graphspace-through-gsoc-2017-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6114016405487616/"
+        },
+        {
+          "title": "Develop a Synthetic Biology Publication Workflow that Leverages the Synthetic Biology Open Language",
+          "short_description": "A large goal of both the SBOL and synthetic biology communities is to develop a useful and comprehensive workflow from experiment to publication....",
+          "student_name": "Zach Zundel",
+          "code_url": "https://medium.com/sbol-workflows/latest",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5878091972870144/"
+        },
+        {
+          "title": "Adding support for PSIMI-TAB format to the Disease Variant Impact (DV-IMPACT) Database",
+          "short_description": "The goal of the project would be to add support for PSIMI-TAB format to the admin tools of the DV-IMPACT database and allow the upload and download...",
+          "student_name": "Raghav Jajodia",
+          "code_url": "http://jajodiaraghav.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6329480956084224/"
+        },
+        {
+          "title": "cyTRON: a Cytoscape app for the visualization of evolutionary trajectories in cancer progression",
+          "short_description": "TRONCO is an R package that implements state-of-the-art algorithms for the inference of cancer progressions with the ultimate goal of understanding...",
+          "student_name": "Edoardo Galimberti",
+          "code_url": "https://github.com/BIMIB-DISCo/cyTRON/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5141157457690624/"
+        },
+        {
+          "title": "Cytoscape app for GraphSpace (CyGraphSpace)",
+          "short_description": "The overall goal of the project is to create a Cytoscape app (CyGraphSpace) for syncing networks from Cytoscape to GraphSpace and vice-versa....",
+          "student_name": "Rishabh Sethi",
+          "code_url": "https://rishabhsethi.com/blog/2017/08/26/google-summer-of-code-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5197057262354432/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5428149655437312/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Develop cyTRON/JS: a backend and a cytoscape.js visualizer for cancer progression models",
+          "short_description": "This project aims at developing a tool which should provide an interactive visualization of the cancer progression models produced by the R library...",
+          "student_name": "Lucrezia Patruno",
+          "code_url": "https://github.com/BIMIB-DISCo/cyTRON-js",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6343925602189312/"
+        },
+        {
+          "title": "Implement SBML Array Support in libRoadRunner",
+          "short_description": "LibRoadrunner is a high-performance SBML based simulator for Systems and Synthetic Biology that uses LLVM to generate very efficient runtime code....",
+          "student_name": "Vineeth Chelur",
+          "code_url": "https://gist.github.com/crvineeth97/cd5a2843dacd6012cd376e8d639d0a45",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6459980316147712/"
+        },
+        {
+          "title": "Integrating CAD and CAM tools for automating a synthetic biology workflow",
+          "short_description": "Integrated Build Software Optimisation Tools (BOOST) with SBOLDesigner.  SBOLDesigner is a CAD tool for creating and manipulating the sequences of...",
+          "student_name": "Prem Prakash Singh",
+          "code_url": "https://medium.com/integration-of-sboldesigner-with-boost/integration-of-cad-and-cam-tools-for-automating-synthetic-biology-workflow-2fc5808aed4b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5694143623856128/"
+        },
+        {
+          "title": "Improvements for Newt, a Cytoscape.js based SBGN editor",
+          "short_description": "Newt is a free, web-based, open source viewer and editor for pathways in Systems Biological Graphical Notation (SBGN). It is written with a series of...",
+          "student_name": "Ahmet \u00c7and\u0131ro\u011flu",
+          "code_url": "https://docs.google.com/document/d/1b0ifeWThTduHsaTv0E6HlqS5u2Ay-mb1GXe-p9ILf8s/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5731568492478464/"
+        },
+        {
+          "title": "PathwayMapper Improvements and Integration into cBioPortal",
+          "short_description": "While the network visualization module in cBioPortal is a powerful exploration tool, most biologists are more comfortable with the kind of...",
+          "student_name": "Kaan Sancak",
+          "code_url": "https://docs.google.com/document/d/1JX_TQpZujgXMBA5T4xvceIm_qu-iVNQ4hzJTZHUqQIk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5354693567971328/"
+        },
+        {
+          "title": "App Store for Cytoscape Apps",
+          "short_description": "The project is \u201cAppstore for the CytoScape Apps\u201d with Alex Pico, Barry Demchak and Scooter Morris as its mentor. The goals for the summer will be to...",
+          "student_name": "Sarthak Srivastava",
+          "code_url": "https://github.com/cytoscape/appstore/tree/wip",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6227480448860160/"
+        },
+        {
+          "title": "Simulating systems biology models in Java",
+          "short_description": "Computational models of biological systems play an important role in advancing science as they give insights about the biology without the need for...",
+          "student_name": "Shalin",
+          "code_url": "https://github.com/shalinshah1993/SBSCL/wiki/SBSCL-wiki-page-for-GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4757798072090624/"
+        },
+        {
+          "title": "GraphSpace: Git for graphs",
+          "short_description": "GraphSpace is a web-based platform where collaborating research groups can use a user-friendly interface to create, interact and share networks....",
+          "student_name": "Daniyal",
+          "code_url": "https://gist.github.com/jahandaniyal/b7a98094b0f3988de25e7ba89f716fca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4912008201764864/"
+        },
+        {
+          "title": "Upgrading Ontology Tagging at WikiPathways",
+          "short_description": "Ontologies are an integral part of our scientific progress. The ability to share common definitions is crucial to answering questions, thus, an...",
+          "student_name": "Dara Akdag",
+          "code_url": "https://github.com/wikipathways/wikipathways.org/wiki/GSoC-2018-Dara-Akdag",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5897030362726400/"
+        },
+        {
+          "title": "Rendering Complex Genetic Design with DNAplotlib for a Beautiful Visualization of Genetic Circuit",
+          "short_description": "Visualizing genetic circuits is essential in the field of synthetic biology. These genetic designs often involve complex representation of modular...",
+          "student_name": "Sunwoo Kang",
+          "code_url": "https://github.com/SynBioDex/dnaplotlib/tree/30bc94559a87cf296091e32a1dce8867a4563676",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5933636436099072/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6637709450280960/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Implement a machine-readable graph legend interface",
+          "short_description": "The overall goal of this project is to implement a machine-readable graph legend interface and extend the API to add, modify and remove legend data...",
+          "student_name": "Ayush Ranjan Lohani",
+          "code_url": "https://gist.github.com/lohani2280/6012afba6301db1634dab7e3b8af2fcd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6475050448846848/"
+        },
+        {
+          "title": "Integrating RRPlugins with libRoadRunner and devloping Differential Evolution optimizer plugin",
+          "short_description": "LibRoadrunner is a high performance SBML based simulator that uses LLVM to generate very efficient runtime code. This enables LibRoadrunner to...",
+          "student_name": "Debashish Roy",
+          "code_url": "https://gist.github.com/debashish05/82564fc7aee5130fbca9997c55681e14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5654736391372800/"
+        },
+        {
+          "title": "Extending ModelPolisher to a universal model annotation tool",
+          "short_description": "ModelPolisher is a model annotation tool for the BiGG Models Knowledgebase. Annotations enhance the reusability and interoperability of biological...",
+          "student_name": "Kaustubh Trivedi",
+          "code_url": "https://kt-gsoc19.blogspot.com/2019/08/final-report-gsoc-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5516960685621248/"
+        },
+        {
+          "title": "CiSE layout as a Cytoscape.js extension and an automated layout web service for popular Cytoscape.js layout extensions",
+          "short_description": "Automated layout web service with an integrated converter, to change the format of the data, would be of great use for people who want to quickly and...",
+          "student_name": "Perman Atayev",
+          "code_url": "https://docs.google.com/document/d/1NLE2xN0osMkIo87wyt4w8yuOcVRCIdEV4Ibo_R7vTVI/edit#heading=h.khe6rjdq3912",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5027226301497344/"
+        },
+        {
+          "title": "New Build System for InSilico",
+          "short_description": "InSilico is an extensible editor which can be used for manipulating and analyzing many different file types, SBML files in particular. The current...",
+          "student_name": "Nikhil Ghodke",
+          "code_url": "https://github.com/niikhilghodke/Insilico-BuildSystem",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5319454819352576/"
+        },
+        {
+          "title": "Simulator for Systems Biology",
+          "short_description": "Develop a simulator which will support all the features of SBML core specification\n\nImplement a code so that the simulator can pass testcases which...",
+          "student_name": "Robin Simonot",
+          "code_url": "https://drive.google.com/open?id=1_qns7B5vYtSE0yDXloT9gmndGg8w71-5mksQioLdKwc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5637831081328640/"
+        },
+        {
+          "title": "Web Interface for NLP Extracted Interaction Network",
+          "short_description": "An application for users to access biological data extracted from biomedical literature.\nProject Mentor Augustin Luna\nObjectives\n\nEasy search...",
+          "student_name": "Rohit R. Chattopadhyay",
+          "code_url": "https://cannin.github.io/ihop-reach/reports/2019-08-26-gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6489266790596608/"
+        },
+        {
+          "title": "Validation of spatial systems biology models in Java",
+          "short_description": "The spatial extension for SBML provides support for describing processes that involve a spatial component. This project seeks to implement validation...",
+          "student_name": "Bhavye Jain",
+          "code_url": "https://gsoc19-spatial.blogspot.com/2019/08/project-report-gsoc-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6066046165843968/"
+        },
+        {
+          "title": "App Store for Cytoscape Apps",
+          "short_description": "I am interested in the project \u201cAppstore for the Cytoscape App\u201d with Alex Pico, Barry Demchak and Scooter Morris as its mentor. \nMy goals for the...",
+          "student_name": "Sarthak Srivastava",
+          "code_url": "https://github.com/cytoscape/appstore/tree/gsoc2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6071654369722368/"
+        },
+        {
+          "title": "BridgeDb Major Release",
+          "short_description": "BridgeDb is a platform used for identifier mapping in WikiPathways and PathVisio with support for various languages like as a Cytoscape plugin, as an...",
+          "student_name": "Manas Awasthi",
+          "code_url": "https://gist.github.com/The-Marvex/c2933be2f7cc3de026e5a1442a171263",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5773388839124992/"
+        },
+        {
+          "title": "GraphSpace: Diffs for graphs",
+          "short_description": "The goal of this project \u2018Diff for Graphs\u2019 is to implement a graph comparison functionality which will allow users to compare two or more graphs that...",
+          "student_name": "Daniyal Jahan",
+          "code_url": "https://gist.github.com/jahandaniyal/c335447a8e12889775ecf42f5562385b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5925734734888960/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4549302816342016/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Generating detailed SBOL representation of genetic logic circuits along with improved designing capability, and Java-Python conversion.",
+          "short_description": "GeneTech allow users to develop genetic logic circuits only by specifying a Boolean function. The tool first performs Boolean optimisation, followed...",
+          "student_name": "Mudasir Shaikh",
+          "code_url": "https://ms03831.github.io/GSoC-20/final-report-gsoc20-genetech/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5704655729852416/"
+        },
+        {
+          "title": "Implementation of SBML-JSON converter and SBML-JSON scheme",
+          "short_description": "The Systems Biology Markup Language (SBML) is the main language for representation and exchange of computational models in biology. JSON is the main...",
+          "student_name": "Hemant",
+          "code_url": "https://gist.github.com/Hemant27031999/c2aef36620a7f264993621b393764688",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5395464691646464/"
+        },
+        {
+          "title": "LACE-View : A Visualizer for Longitudinal Clonal Trees",
+          "short_description": "LACEview is a visualization tool for LACE (Longitudnal Analysis of Cancer Evolution) developed by a team at BIMIB. The tool is for R visualization...",
+          "student_name": "Bhavesh Narra",
+          "code_url": "https://gist.github.com/bhaveshnarra/e0eb66217553ab54dbb9309ab5180faf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5081852991242240/"
+        },
+        {
+          "title": "Enhance Web Interface for Natural-Language Processing Extracted Interaction Network",
+          "short_description": "Goal: The goal is to expand on the web interface and the data generation pipeline developed in 2019.\nOverview: Continuing to the already done work,...",
+          "student_name": "Priti Shaw",
+          "code_url": "https://gist.github.com/PritiShaw/186d762fdab1b0b2144a0207f7d6459d#file-readme-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5102810552598528/"
+        },
+        {
+          "title": "Developing a tool for implementing clustering algorithms to Cytoscape app ClusterMaker2",
+          "short_description": "In this project, I will develop a tool in Cytoscape app ClusterMaker2 that helps implementing new clustering algorithms in the app from inside...",
+          "student_name": "Maija Utriainen",
+          "code_url": "https://github.com/RBVI/clusterMaker2/pull/12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4644394969333760/"
+        },
+        {
+          "title": "Adding Bio-Statistical Machine Learning Models and Graphical visualization to ABioTrans V2",
+          "short_description": "ABioTrans is a bio-statistical/informatics tool, developed in R for gene expression analysis. The tool allows the user to directly read RNA-Seq data...",
+          "student_name": "Rahul Agrawal",
+          "code_url": "https://medium.com/@rahulagrawal799110/google-summer-of-code-2020-work-report-ea044673cd4a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6492152210653184/"
+        },
+        {
+          "title": "Development of a system that generates spatial SBML models using deep learning",
+          "short_description": "This project aims at creating and implementing a system that automatically generates various spatial SBML models by comprehensively segmenting...",
+          "student_name": "Medha Bhattacharya",
+          "code_url": "https://docs.google.com/document/d/1SbEAJ45XClPG57L4TEGGds2H71Pwnhr3um2B09u1rG0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4913136240427008/"
+        },
+        {
+          "title": "Simulation of systems biology models in Java: support for new features",
+          "short_description": "Systems biology studies the mechanisms underlying complex biological processes as integrated systems of many interacting components. Modeling...",
+          "student_name": "Hemil Panchiwala",
+          "code_url": "https://gist.github.com/hemilpanchiwala/b52d7b285028566c35eb085d8a405aa2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5760152914886656/"
+        },
+        {
+          "title": "Redevelop Model Bricks code base architecture",
+          "short_description": "Model Bricks project is an effort focused on describing recurring patterns in biological networks. These patterns are described as small VCell models...",
+          "student_name": "Saksham Raghuvanshi",
+          "code_url": "https://github.com/sraghuvanshi/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5843081586278400/"
+        },
+        {
+          "title": "Implement a comment/discussion system in GraphSpace",
+          "short_description": "The aim of this project is to implement a real-time comment/discussion and reaction system that will allow users to comment on graphs and discuss...",
+          "student_name": "Yash Agarwal_",
+          "code_url": "https://gist.github.com/yash170106065/df1d27b512a320012a9a72cbe09fb073",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5934603145052160/"
+        },
+        {
+          "title": "Enhancing PathwayMapper in cBioPortal and PathwayMapper editor",
+          "short_description": "Pathways are created by selecting certain genes and studies then displayed in the PathwayMapper tab in the cBioPortal. However, not every page in...",
+          "student_name": "Merve K\u0131l\u0131\u00e7arslan",
+          "code_url": "https://docs.google.com/document/d/1AaGF7OFiccEPykvE5y-3TdjbSD7NhHsjWx2kpGGvhrk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5975532908314624/"
+        },
+        {
+          "title": "Improving compmodelmatch.org",
+          "short_description": "This project intends to make several improvements to compmodelmatch platform which will improve its performance and also add features such as ORCID...",
+          "student_name": "Sahil Jha",
+          "code_url": "https://github.com/sjha2048/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6297916743876608/"
+        },
+        {
+          "title": "Integration of sequence visualization into SynBioHub",
+          "short_description": "As a design repository for Synthetic Biology, SynBioHub facilitates the sharing and searching for information, combining data from a variety of...",
+          "student_name": "Linhao Meng",
+          "code_url": "https://medium.com/@alice.menglh/gsoc-2020-integration-of-sequence-visualization-into-synbiohub-bca7c0ae195",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5157652016922624/"
+        },
+        {
+          "title": "Integrating RRPlugins with libRoadRunner",
+          "short_description": "LibRoadrunner is a high-performance SBML based simulator that uses LLVM to generate very efficient runtime code. This enables LibRoadrunner to...",
+          "student_name": "Debashish Roy",
+          "code_url": "https://gist.github.com/debashish05/e1ec288a81d77e0fe61cbf336d147109",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5173465314754560/"
+        },
+        {
+          "title": "Spreadsheet Plug-in for SynBioHub",
+          "short_description": "Synthetic Biology is a discipline that connects many disciplines and heterogeneous researchers. To be useful as a tool, a platform such as SynBioHub...",
+          "student_name": "Isabel Marleen",
+          "code_url": "https://medium.com/@IsaMarleen/final-post-64c66302ae0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5194650308050944/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4898028657311744/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Enhancing ABioTrans Plus  using Gene Expression Omnibus database and adding analysis report",
+          "short_description": "This project aims to add new features to ABioTrans Plus(GeneCloudOmics) that includes the direct import of gene expression data from Gene Expression...",
+          "student_name": "Javed Ali",
+          "code_url": "https://danijak.github.io/GSoc-21_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6350036069253120/"
+        },
+        {
+          "title": "Simple Enrichment Tool for Analysis",
+          "short_description": "Cytoscape is a highly popular open source bioinformatics software platform for visualizing, analyzing, and publishing graphs or networks representing...",
+          "student_name": "Indraneel Ghosh",
+          "code_url": "https://github.com/cytoscape/enrichment-table-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5668940155453440/"
+        },
+        {
+          "title": "Develop a Cytoscape App for the Casual Path Algorithm",
+          "short_description": "The project is marked as Issue #169 in GitHub. The main goal of this project is to visualize the network which is generated from the Casual Path...",
+          "student_name": "Pritam Saha",
+          "code_url": "https://github.com/cannin/causalpath_cytoscape_app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5421107825344512/"
+        },
+        {
+          "title": "Enhancing the admin panel of openPIP",
+          "short_description": "This project aims to add improvements in the admin panel of openPIP that is used to upload data and files, post announcements and change global...",
+          "student_name": "Aniket Ranjan",
+          "code_url": "https://aniket328.github.io/GSoC21_Aniket_Ranjan_NRNB_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5490035943538688/"
+        },
+        {
+          "title": "Local DB support for SBGN maps in Newt",
+          "short_description": "Newt is a web-based tool to analyze biological maps in standard formats such as PD and AF languages of SBGN, SBML, and SIF.\nThis project aims to...",
+          "student_name": "Pankaj Yadav",
+          "code_url": "https://docs.google.com/document/d/1wavf0MmCaPGopJhRyEr8HJdszmea7_0RY1kYQrVE540/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5513122768486400/"
+        },
+        {
+          "title": "Develop GUI for ImageJ groovy script calling VCell API",
+          "short_description": "We have to create a service for VCell users that allows Fiji/ImageJ scripting to directly access the VCell client. We have to expand this service...",
+          "student_name": "NIKITA MAHOVIYA",
+          "code_url": "https://github.com/nikitamahoviya/GSoC-21-Project_Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5255777991786496/"
+        },
+        {
+          "title": "Expand ModelBricks.org and VCell API",
+          "short_description": "ModelBricks is a tool for bioinformatics researchers that allows users to browse, view, and download detailed models of biological processes. I...",
+          "student_name": "Noah Liguori-Bills",
+          "code_url": "https://github.com/noahlb123/vcell#readme",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4682812174630912/"
+        },
+        {
+          "title": "SBML Simulator in Rust",
+          "short_description": "Over the last few years, the programming language Rust has seen a surge in popularity. This has primarily been the case due to its more robust memory...",
+          "student_name": "Pranav Ballaney",
+          "code_url": "https://docs.google.com/document/d/1f2xqqWRrk_Dzi5WFWem20CN49SxDtxttoQcZzBCzHck/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4702026784571392/"
+        },
+        {
+          "title": "Adding Multi-omics data support to ABioTrans Plus",
+          "short_description": "ABioTrans Plus is a web server for transcriptome data analysis and visualization. It supports the analysis of microarray and RNASeq data and performs...",
+          "student_name": "Mohamed Soudy-1",
+          "code_url": "https://medium.com/@mohmedsoudy77/google-summer-of-code-2021-work-report-43e9d73b03bb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4792324613210112/"
+        },
+        {
+          "title": "PD to AF conversion facility in Newt",
+          "short_description": "Newt supports the Process Description (PD) and the Activity Flow (AF) graphs of SBGN. However,  there is no conversion between these two graphs in...",
+          "student_name": "Can Alpay",
+          "code_url": "https://gist.github.com/acanalpay/7331af0109078602729da24a1f41b584",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4818667191140352/"
+        },
+        {
+          "title": "SBML4Humans - Interactive SBML Report for Humans",
+          "short_description": "Systems Biology Markup Language (SBML) is a standard format for the representation and exchange of biological models between computers. The...",
+          "student_name": "Sankha Das",
+          "code_url": "https://sbml4humans-gsoc-2021.blogspot.com/2021/08/gsoc-2021-sbml4humans-interactive-sbml.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4821475160227840/"
+        },
+        {
+          "title": "Implementing multiple clustering algorithms and dimensionality reduction techniques on clusterMaker2",
+          "short_description": "Implementing following dimensionality reduction techniques and clustering algorithms to clusterMaker2: UMAP, t-SNE, PCA, PCoA, Louvain, Walktrap,...",
+          "student_name": "Maija Utriainen",
+          "code_url": "https://github.com/RBVI/clusterMaker2/pull/26",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6069235133972480/"
+        },
+        {
+          "title": "TumorComparer, updated version",
+          "short_description": "TumorComparer, updated version\nThe TumorComparer is a computational method for the comparison of different cancer types with cancer cell lines by...",
+          "student_name": "Siras Hakobyan",
+          "code_url": "https://sanderlab.github.io/tumorcomparer/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5809458332041216/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/national-resource-for-network-biology-nrnb/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "SBML-MINERVA support in Newt",
+          "short_description": "Currently, the Newt editor supports Systems Biological Graphical Notation (SBGN) and Simple Interactive Format (SIF) formats while also allowing...",
+          "student_name": "Selbi Ereshova",
+          "code_url": "https://docs.google.com/document/d/17Yp1YPOVLc3PJYNRKO9FeCiH_bzyK8rVv08jGs3ilyQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7cXTK3p5/"
+        },
+        {
+          "title": "Create a Pipeline from data extraction to execution of GNN based Drug Response Prediction",
+          "short_description": "The use of machine learning models in medicine is expanding, but there are still undergoing due to the interpretability. One useful example which has...",
+          "student_name": "Yoshitaka Inoue",
+          "code_url": "https://github.com/cannin/graph_neural_network_drug_response/blob/main/docs/_reports/GSoC_final_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ylOolPrk/"
+        },
+        {
+          "title": "High-throughput simulation for computational cell biology with Cloud-COPASI",
+          "short_description": "Customized SSH Authentication Free Implementation of the Cloud-COPASI for UConn users: The project proposal aims to create a customized version of...",
+          "student_name": "Fizza Rubab",
+          "code_url": "https://medium.com/@fizza.rubab/google-summer-of-code-2022-cloud-copasi-nrnb-6308ef05edb2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/edb5T3iZ/"
+        },
+        {
+          "title": "Updates to the Enrichment Table App",
+          "short_description": "This proposal aims to implement new features to the Enrichment Table App. The major changes were adding Ring Charts, prediction of gene id column and...",
+          "student_name": "Akash Mondal",
+          "code_url": "https://gist.github.com/AkMo3/260b155ffc095ed52e1beccaa318cbe0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8f4qeUPF/"
+        },
+        {
+          "title": "Adding visualization of protein-complex interaction to OpenPIP",
+          "short_description": "OpenPIP (Open Source Protein Interaction Platform) is an open-source software package for hosting protein-protein interaction (PPI) data based on the...",
+          "student_name": "Aniket Ranjan",
+          "code_url": "https://github.com/BaderLab/openPIP/pull/80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fjUDLOrk/"
+        },
+        {
+          "title": "Conversion between GenBank and SBOL3",
+          "short_description": "The SBOL-Utilities repository is a python library that provides many useful methods and utilities on top of the main PySBOL3 implementation of SBOL3....",
+          "student_name": "Mohit Makwana",
+          "code_url": "https://github.com/SynBioDex/SBOL-utilities/pull/186",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IvKQhkk9/"
+        },
+        {
+          "title": "NetBoxR Updates",
+          "short_description": "netboxr is an R package for the automated discovery of biological process modules by network analysis. The project involves updating netboxr...",
+          "student_name": "Sara J",
+          "code_url": "https://sajo25.github.io/netboxr/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nZRMy1Oa/"
+        },
+        {
+          "title": "Create Jupyter Notebooks showcasing COMBINE Standards",
+          "short_description": "The Computational Modeling in Biology Network (COMBINE) is an initiative to coordinate the development of various community standards and formats in...",
+          "student_name": "Aditya Singhal",
+          "code_url": "https://github.com/combine-org/combine-notebooks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pimyoHRY/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/national-resource-for-network-biology-nrnb",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Automate Cytoscape.js release process using GitHub Actions",
+          "short_description": "Cytoscape.js is an open-source JavaScript-based graph theory library that can be used for graph analysis and visualisation. It contains many useful...",
+          "student_name": "Akash Mondal",
+          "code_url": "https://gist.github.com/AkMo3/7288756239c2aad897c23162daa8195d",
+          "proposal_id": "1K2XemMm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/b74gpyOU"
+        },
+        {
+          "title": "Development of a Cytoscape App for microbe-microbe association networks",
+          "short_description": "Microbial associations play a fundamental part in deciphering underlying mechanisms of microbial communities. A series of algorithms have been...",
+          "student_name": "Ermis Delopoulos",
+          "code_url": "https://ermismd.github.io/MGG/",
+          "proposal_id": "OpSoVjNa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7IKSInMx"
+        },
+        {
+          "title": "Generate Example Dataset for PyTorch Geometric Based on Pathway Commons and Prototype",
+          "short_description": "The main goal of this project is to create a PyTorch Geometric(PyG) dataset by integrating the cBioPortal and Pathway Commons datasets and provide a...",
+          "student_name": "Favour James",
+          "code_url": "https://github.com/cannin/gsoc_2023_pytorch_pathway_commons/blob/main/docs/_reports/Final%20Report%20of%20GSoC%202023.pdf",
+          "proposal_id": "i2DFEZ1D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NBZn0Zm3"
+        },
+        {
+          "title": "Supporting Pathway Commons and ssGSEA in clusterProfiler",
+          "short_description": "clusterProfiler is an efficient package that provides a universal interface for gene functional annotation from a variety of resources and is...",
+          "student_name": "JIGYASA GUPTA",
+          "code_url": "https://gist.github.com/Jigyasa-G/543d3a96463308479bb86aa866323391",
+          "proposal_id": "S5gKxube",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GYJ9YvJD"
+        },
+        {
+          "title": "Develop new features for Cytoscape App-cyPlot",
+          "short_description": "This project involves updating cyPlot(a Cytoscape app written in JAVA) which provides the ability to plot data through GUI or CyCommands/REST. CyPlot...",
+          "student_name": "Kartik Kumar Pawar",
+          "code_url": "https://github.com/RBVI/CyPlot/tree/Develop-Kartik",
+          "proposal_id": "EFJM8XN9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8MUpOz28"
+        },
+        {
+          "title": "Setting up the CI/CD Pipeline using Github Actions on GraphSpace",
+          "short_description": "Currently the Graphspace code repository has a lot of mismatched dependency issues & consist no automating techniques in their repository to release...",
+          "student_name": "Mahesh Kasbe",
+          "code_url": "https://gist.github.com/maheshkasabe/0218efdc41da263331a99588573adec7",
+          "proposal_id": "j4mbNmdl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tSIGvxsf"
+        },
+        {
+          "title": "Convert CellBox Tensorflow code to Pytorch",
+          "short_description": "CellBox is a model for predicting cell states under drug perturbations, whose code base was originally written in Tensorflow 1. Since Tensorflow 1...",
+          "student_name": "Phuc Nguyen",
+          "code_url": "https://mustardburger.github.io/projects/gsoc/",
+          "proposal_id": "ZkmgOuj8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HKW6ydaI"
+        },
+        {
+          "title": "Implement a R Shiny module for Network Analysis in CellMinerCDB",
+          "short_description": "CellMinerCDB provides a web-based resource for integrating multiple forms of pharmacological and genomic analyses, and unifying the richest cancer...",
+          "student_name": "Siddharth Chaudhary",
+          "code_url": "https://github.com/sidd-2203/cellminercdb/tree/GSoC-Staging",
+          "proposal_id": "dJq0fx4S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9bSOdy71"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/national-resource-for-network-biology-nrnb/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "GPML support in Newt",
+          "short_description": "The goal of this project is to add new functionalities to Newt to be able to create biological maps in GPML format from scratch or edit existing...",
+          "student_name": "Aditya Saini",
+          "code_url": "https://gist.github.com/SainiAditya1/90e96e09bad684fdc5734a186c233165",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/g2B7bPLO/"
+        },
+        {
+          "title": "Machine Learning Support for Constructing Newt SBGN Maps",
+          "short_description": "In this proposal, I explain the machine learning support I aim to implement to generate SBGN maps. I am planning to make an API connection to a...",
+          "student_name": "Umut Utku ER\u015eAH\u0130NCE",
+          "code_url": "https://umut-er.github.io/posts/my-contributions-to-the-newt-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gk4SrGuW/"
+        },
+        {
+          "title": "Integration of complexity score functions into the iGEM DNA kit distribution workflow",
+          "short_description": "The goal is developing an updated workflow that uses the existing iGEM distribution structure to integrate a synthesizability assessment of genetic...",
+          "student_name": "Johan Guillen",
+          "code_url": "https://jguillen15.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/E1zR3jcF/"
+        },
+        {
+          "title": "ASCETIC Vision",
+          "short_description": "This project aims to enhance the accessibility and usability of the ASCETIC framework, which interprets tumor evolutionary signatures crucial for...",
+          "student_name": "Nada Mohamed",
+          "code_url": "https://drive.google.com/file/d/1osF48I1BQfKO7Bw2rn9qq8-LByAiw3_1/view?usp=drive_link",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uRwvXHO6/"
+        },
+        {
+          "title": "Integration of GRN inference algorithms using single cell multi-omics data to BEELINE",
+          "short_description": "BEELINE is a bench marking tool that evaluates different methods and models that infer Gene Regulatory Networks (GRN) from Single cell gene...",
+          "student_name": "BB Vishnu Madhav",
+          "code_url": "https://gist.github.com/code-bele/59a3df1a6bb39cc697a4e3fe3a8d9169",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vlvwQRJY/"
+        },
+        {
+          "title": "COBRAxy: COBRA and MaREA4Galaxy",
+          "short_description": "MaREA4Galaxy is a user-friendly tool designed to facilitate the characterization and graphical comparison of sample groups exhibiting distinct...",
+          "student_name": "Luca Milazzo",
+          "code_url": "https://toolshed.g2.bx.psu.edu/repos/bimib/marea_2/file/default/marea_2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LSrCKfq7/"
+        },
+        {
+          "title": "Implement AWS DevOps Pipeline for Image Deployment for Graphspace",
+          "short_description": "Project mainly focuses on automating image deployment to an EC2 instance via an AWS DevOps pipeline. Key tasks involve setting up an AWS account with...",
+          "student_name": "Deep Poharkar",
+          "code_url": "https://gist.github.com/deep-poharkar/67d22ed4c32dd7713097b4ec283e707e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/977EsxSv/"
+        },
+        {
+          "title": "Large Language Model-based creation of knowledge graph from a publication",
+          "short_description": "This project proposes the development of a Python web application that utilizes Large Language Models (LLMs) for extracting, transforming, and...",
+          "student_name": "Favour James",
+          "code_url": "https://github.com/ndexbio/gsoc_llm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/biCyAipp/"
+        },
+        {
+          "title": "Using Foundation Model: scGPT for Gene Regulatory Network Inference",
+          "short_description": "The project aims to develop a robust pipeline for assessing the performance of foundation models, specifically focusing on scGPT, in generating...",
+          "student_name": "Faizal Rahman",
+          "code_url": "https://faizaljnu.github.io/GSoC24-FinalReport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TZ3sbM7P/"
+        },
+        {
+          "title": "Cytoscape layout plugin to support Cytoscape.js layouts",
+          "short_description": "Cytoscape Desktop Application serves as a powerful tool for network analysis and visualization. However, its layout options are limited compared to...",
+          "student_name": "Tushar Choudhary",
+          "code_url": "https://github.com/tushar-c23/CytoJSLayout/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/42jYK8ra/"
+        },
+        {
+          "title": "Improvement Of openPIP (Data upload & Visualization)",
+          "short_description": "OpenPIP platform is typically necessary alongside a research paper detailing experimental data, alongside depositing the data into a standard...",
+          "student_name": "Mohamed Soudy",
+          "code_url": "https://medium.com/@mohmedsoudy77/google-summer-of-code-2024-openpip-work-report-b30d02d6f786",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CtEpYa1C/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/national-resource-for-network-biology-nrnb",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "SBOL2 SBOL3 Convertor Utility",
+          "short_description": "The Synthetic Biology Open Language (SBOL) serves as a vital community standard for representing biological designs, with version 3.1 offering mature...",
+          "student_name": "__Harsh_Sharma__",
+          "code_url": null,
+          "proposal_id": "RFrpAGaq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1PJYrp9q"
+        },
+        {
+          "title": "Developing a highly efficient numerical ODE solver in Systems Biology Simulation Core Library",
+          "short_description": "The field of computational biology depends significantly on mathematical modeling to simulate complex biological simulations, often involving...",
+          "student_name": "Ayush Baranwal",
+          "code_url": null,
+          "proposal_id": "ROGM9hw7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gtQryewh"
+        },
+        {
+          "title": "SeqTrainer - creating datasets from SynBioHub to aid researchers in creating machine learning models",
+          "short_description": "In the realm of synthetic biology, there is a significant source of data in the form of models, genetic sequences, regulatory networks, and...",
+          "student_name": "cywong",
+          "code_url": null,
+          "proposal_id": "jwNfsQPH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Z3Hk9SnE"
+        },
+        {
+          "title": "CySBML Reloaded: Smarter, Simpler, Automated",
+          "short_description": "CySBML Reloaded: Smarter, Simpler, Automated focuses on upgrading CySBML \u2014 a Cytoscape app for visualizing computational models encoded in SBML. The...",
+          "student_name": "Hikmet Emre Kaya",
+          "code_url": null,
+          "proposal_id": "5yLIsVdr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YaV539XE"
+        },
+        {
+          "title": "Enhancing SBOannotator with LLM Integration & Dynamic Term Retrieval",
+          "short_description": "This proposal aims to transform SBOannotator from a static, hard-coded tool into a dynamic, intelligent system for annotating SBML models with...",
+          "student_name": "Jiahui Hu",
+          "code_url": null,
+          "proposal_id": "ygDDJOYD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UvnOXGwN"
+        },
+        {
+          "title": "Project #263: Chatbot to query VCell modeling resources",
+          "short_description": "This project aims to build an intelligent chatbot and web interface that allows researchers to query and explore models from the VCell BioModel...",
+          "student_name": "Kacem Mathlouthi",
+          "code_url": null,
+          "proposal_id": "b0qQgPOZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vFE5LPKW"
+        },
+        {
+          "title": "Enhancing the Systems Biology Simulation Core Library (SBSCL) with a Solver-Agnostic Framework...",
+          "short_description": "This project addresses the current incompatibility of the Systems Biology Simulation Core Library (SBSCL) with modern computing architectures,...",
+          "student_name": "Michael-Gaas",
+          "code_url": null,
+          "proposal_id": "OzdzflQ8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Yibmo4UH"
+        },
+        {
+          "title": "LLM-Powered Interactive Chat Interface for CellMinerCDB with GraphRAG Integration",
+          "short_description": "This project will develop an intelligent chat interface for CellMinerCDB, a cancer genomics database, using GraphRAG (Graph Retrieval-Augmented...",
+          "student_name": "Milit S Patel",
+          "code_url": null,
+          "proposal_id": "FmdcdWuP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/G0jh7cDV"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/nrnb/GoogleSummerOfCode/issues",
+  "contact_email": "mailto:kristina.hanspers@gladstone.ucsf.edu",
+  "mailing_list": "https://groups.google.com/g/cytoscape-helpdesk",
+  "ideas_url": "https://github.com/nrnb/GoogleSummerOfCode/issues",
+  "guide_url": "https://docs.google.com/document/d/1Zi6L38CHEeq2aL6xzv0Ozhd_Y6D71W3yCBGHplmxr6k/edit?usp=sharing",
+  "twitter_url": "https://twitter.com/cytoscape",
+  "blog_url": "https://nrnb.org/testimonials.html#profile-tab"
+}

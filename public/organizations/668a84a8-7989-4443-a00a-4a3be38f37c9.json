@@ -1,0 +1,76 @@
+{
+  "name": "Electron",
+  "url": "https://electronjs.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/electron/vchyhnp6rhabucgj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "desktop",
+    "framework",
+    "javascript"
+  ],
+  "technologies": [
+    "javascript",
+    "node.js",
+    "c++",
+    "typescript",
+    "Chromium"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/electron/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Enable Context Isolation in Electron Fiddle",
+          "short_description": "This project aims to get rid of the Node environment from the renderer process for Electron fiddle to enforce a stronger security model. Basically,...",
+          "student_name": "aryanshridhar",
+          "code_url": "https://gist.github.com/aryanshridhar/a6cf5f664b511c038aca5d2a393001c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kXWmZ2wy/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/electron/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "API History in Electron Documentation",
+          "short_description": "The Electron documentation currently doesn't feature API history for its functions, classes, etc. I aim to implement the missing API history in a...",
+          "student_name": "Piotr P\u0142aczek",
+          "code_url": "https://github.com/piotrpdev/gsoc/blob/main/2024-electron-product.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wenKR2i3/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/electron",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Electron - Restore Electron Devtron Extension",
+          "short_description": "Currently, the Devtron Extension is not in a functional state, primarily because, over the past 10 years, significant changes have occurred. Newer...",
+          "student_name": "Hitarth",
+          "code_url": null,
+          "proposal_id": "pJ4dmdTU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ppdEAKGU"
+        },
+        {
+          "title": "Save/Restore Window State API",
+          "short_description": "Currently, Electron does not have any built-in mechanism for saving and restoring the state of BrowserWindows, but this is a very common need for...",
+          "student_name": "Nilay Arya",
+          "code_url": null,
+          "proposal_id": "Qf8t7l06",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7k1LLfEg"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/electronjs",
+  "contact_email": "mailto:summer-of-code@electronjs.org",
+  "mailing_list": "",
+  "ideas_url": "https://electronhq.notion.site/Electron-Google-Summer-of-Code-2025-Ideas-List-1851459d1bd1811894dad8b48a68596d",
+  "guide_url": "https://electronhq.notion.site/Electron-Google-Summer-of-Code-2025-Contributor-Guidance-1851459d1bd181ac8004ecb9e031b368",
+  "twitter_url": "https://twitter.com/electronjs",
+  "blog_url": "https://electronjs.org/blog"
+}

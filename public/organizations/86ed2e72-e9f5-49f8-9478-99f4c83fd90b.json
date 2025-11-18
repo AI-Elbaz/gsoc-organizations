@@ -1,0 +1,61 @@
+{
+  "name": "AnitaB.org Open Source",
+  "url": "http://anitab.org",
+  "image_url": "https://lh3.googleusercontent.com/j4RwTOlO5-LhK8npgy0HElPub3IjLrPADeBNhWVxbcXlQGGKYcLPyhwq0hUU_JRtqHVVgXBMruM7TxO0zEmN3KpOGR_yJuI",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "web",
+    "mobile programming",
+    "mobile",
+    "web programming"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "ios"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5270382996619264/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Mentorship iOS",
+          "short_description": "An all-new native iOS app for the Mentorship system that will be developed using SwiftUI.\nThe proposed app would be feature complete and on-par with...",
+          "student_name": "Yugantar Jain",
+          "code_url": "https://github.com/anitab-org/mentorship-ios/wiki/GSoC20-Final-Report,-Yugantar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5456203011850240/"
+        },
+        {
+          "title": "Open Source Programs",
+          "short_description": "Open Source Programs is a project which aims towards simplifying the management work of the mentors and organizations. The goal is to make reviewing...",
+          "student_name": "Bismita Guha",
+          "code_url": "https://gist.github.com/bismitaguha/822970b9dc5a417cf4c41a30fcca86c1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6198003322322944/"
+        },
+        {
+          "title": "BridgeInTech",
+          "short_description": "BridgeInTech is an application that is aimed to bring closer the tech skills gap that exist in the IT industry. The idea comes from the existing...",
+          "student_name": "Maya Treacy",
+          "code_url": "https://gist.github.com/mtreacy002/0e6968595f4b0aa6df8538c6c1155642",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4686682311360512/"
+        },
+        {
+          "title": "Enhancing Systers Portal",
+          "short_description": "Enhance the Systers portal and add the following features to it.\n\nAdd MapViews and Search by Location for Communities.\nImplement Third Party...",
+          "student_name": "Ritwick Raj",
+          "code_url": "https://gist.github.com/ritwickraj78/564c184f7c84ddca4d97ad80d229ec77",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6006558040784896/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://anitab-org.zulipchat.com/",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/anitab_org"
+}

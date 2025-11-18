@@ -1,0 +1,72 @@
+{
+  "name": "KubeVirt",
+  "url": "https://kubevirt.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kubevirt/pqdi8ojm0atxoo1s-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "virtualization",
+    "containers",
+    "kubernetes"
+  ],
+  "technologies": [
+    "golang",
+    "grpc"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/kubevirt",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Kubevirt Seccomp Profile Generation",
+          "short_description": "Seccomp is a security facility from the Linux Kernel that prevents processes from executing unauthorised syscalls. By limiting the number of...",
+          "student_name": "Nithish Karthik",
+          "code_url": "https://github.com/kubevirt/k8s-seccomp-generator",
+          "proposal_id": "WnsYCd2K",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ckQPXYW5"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/kubevirt/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Persistent Device Claims for KubeVirt",
+          "short_description": "Dynamic Resource Allocation (DRA) is a new feature introduced in Kubernetes version 1.26 and above, providing an Alpha API that allows users to...",
+          "student_name": "Sibasish Behera",
+          "code_url": "https://github.com/TheRealSibasishBehera/GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kBnyWE4u/"
+        },
+        {
+          "title": "KubevirtCI rewrite",
+          "short_description": "porting the KubeVirtCI bash code into the existing gocli. by dividing the bash code across methods in a kubevirt provider base type and optional Exec...",
+          "student_name": "Ammar Yasser Adel",
+          "code_url": "https://github.com/aerosouund/gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RQs5OJUI/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kubevirt",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Adding Emulated BMC Support to KubeVirt (KubeVirtBMC)",
+          "short_description": "This project introduces Kubernetes-native emulated BMC support to KubeVirt using IPMI/Redfish, enabling out-of-band VM control and provisioning...",
+          "student_name": "Salauat",
+          "code_url": null,
+          "proposal_id": "7LR6pMIH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kRRf6VYE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://kubernetes.slack.com/archives/C0163DT0R8X",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/kubevirt-dev",
+  "ideas_url": "https://github.com/kubevirt/community/wiki/Google-Summer-of-Code-2025",
+  "guide_url": "https://github.com/kubevirt/community/wiki/Google-Summer-of-Code-2025#how-and-where-to-find-help",
+  "twitter_url": "https://twitter.com/kubevirt"
+}

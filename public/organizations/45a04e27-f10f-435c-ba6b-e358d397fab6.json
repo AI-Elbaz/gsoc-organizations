@@ -1,0 +1,41 @@
+{
+  "name": "The Postgres Operator",
+  "url": "https://github.com/zalando-incubator/postgres-operator",
+  "image_url": "https://lh3.googleusercontent.com/CDCWRn_sSTfImUye81t4X_YbRsxATMEc51Qh-qQQvXacneOo1yS2rebLOHxilMHmOsTy_BSVTebPjc7tBniCuPqe_JVu4Q",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "databases",
+    "cloud",
+    "cloud databases",
+    "cloud native",
+    "database services"
+  ],
+  "technologies": [
+    "postgresql",
+    "golang",
+    "kubernetes",
+    "operator",
+    "patroni"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6187982082539520/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Kubectl Plugin For Postgres Custom Resource Definitions",
+          "short_description": "The Postgres Operator is a project to create an open-sourced managed Postgres service for Kubernetes. The Postgres operator manages Postgres clusters...",
+          "student_name": "Vineeth Pothulapati",
+          "code_url": "https://gist.github.com/VineethReddy02/159283bd368a710379eaf0f6bd60a40a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6091237608652800/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://postgresteam.slack.com/messages/CFYAXFT7D/",
+  "contact_email": "mailto:team-acid@zalando.de",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

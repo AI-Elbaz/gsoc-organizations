@@ -1,0 +1,189 @@
+{
+  "name": "Computational Biology @ University of Nebraska-Lincoln",
+  "url": "http://helikarlab.org",
+  "image_url": "https://lh3.googleusercontent.com/chbiX_Gn0VnYNrSHA74K65Mi6iNK00U_cMZE-zqcDED8vHhotLL1ciDcLUGYYrLGCrBb8RspJTMBrXcErjBeN0qBi2SHOTc",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "computational biology",
+    "real time",
+    "networks",
+    "image analysis",
+    "systems biology",
+    "bioinformatics",
+    "network biology",
+    "biological networks",
+    "network simulation",
+    "omics data",
+    "web application",
+    "data science"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "react",
+    "webgl",
+    "java",
+    "flask",
+    "reactjs",
+    "postgresql"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5954364552249344/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Idea 1: Javascript/WebGL Component For Interactive Visualization Of Large-Scale Network Graphs.",
+          "short_description": "This project will center around the development of additional optimization techniques to enable interactive visualization of very large networks, as...",
+          "student_name": "Znbiz",
+          "code_url": "https://znbiz.github.io/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5025643506958336/"
+        },
+        {
+          "title": "Interactive Platform for Statistical Computing",
+          "short_description": "The goal of this project is to develop a web-based platform that enables anyone to perform various statistical computations in an easy-to-use,...",
+          "student_name": "shubhamkmr",
+          "code_url": "https://github.com/HelikarLab/StatisticalPlatform/wiki/Interactive-Platform-for-Statistical-Computing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5035968876773376/"
+        },
+        {
+          "title": "Boolean-based Representations of Biological Systems",
+          "short_description": "The goal of this project is to develop a model that can visualize biological networks as logic gate circuits, and vice-versa. In recent years,...",
+          "student_name": "joshim5",
+          "code_url": "https://github.com/joshim5/ccBooleanAnalysis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5311138573058048/"
+        },
+        {
+          "title": "Mobile Based Blood Analysis",
+          "short_description": "The aim of this project is to use the camera and processing power of modern day cell phones to develop an intuitive and user-friendly application for...",
+          "student_name": "Abdul Fatir",
+          "code_url": "http://abdulfatir.github.io/GSoC16/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4835738575175680/"
+        },
+        {
+          "title": "Idea 1 - Ales Saska",
+          "short_description": "Javascript/WebGL component for interactive visualization of large-scale network graphs",
+          "student_name": "ales.saska",
+          "code_url": "http://blog.alessaska.cz/post/my_contribution_to_google_summer_of_code_2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5836327174012928/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6732113738989568/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Project Proposal-Javascript/WebGL Library For Interactive Visualization Of Large-Scale Network Graphs.",
+          "short_description": "A brief description on the plan of action and my understanding of the visualization project.",
+          "student_name": "Venkata",
+          "code_url": "https://vchilkuri.gitbooks.io/gsoc-documentation/content/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6465860126375936/"
+        },
+        {
+          "title": "Network Visualization Layouts",
+          "short_description": "This proposal is focused in network visualization layouts. I intend to implement canonical algorithms for ccNetViz and to develop variations. Most...",
+          "student_name": "Renato Fabbri",
+          "code_url": "https://github.com/ttm/ccNetViz/wiki/GSoC-2017-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6640515642556416/"
+        },
+        {
+          "title": "Mobile-Based Blood-Sample Image Analysis(iOS)",
+          "short_description": "The aim of this project is to use the camera and processing power of modern day cell phones to develop an intuitive and user-friendly application for...",
+          "student_name": "Abdul Fatir Ansari",
+          "code_url": "http://abdulfatir.github.io/GSoC17/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4503987785039872/"
+        },
+        {
+          "title": "CancerDiscover: a GUI for cancer prediction and biometric identification using microarray data",
+          "short_description": "Problem\nAs of today, CancerDiscover has a not-so-easy build and workflow for users to conduct microarray experiments. Moreover, the current setup...",
+          "student_name": "Achilles Rasquinha",
+          "code_url": "https://github.com/achillesrasquinha/candis/wiki/Google-Summer-of-Code#google-summer-of-code-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4745536745766912/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6010802972655616/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Javascript/WebGL Library For Interactive Visualization Of Large-Scale Network Graphs: Expanded Features.",
+          "short_description": "In this project I will add some new options to the CCNetViz JavaScript library (e.g. adding hide/show for nodes/edges, adding the context menu on...",
+          "student_name": "Ana Jeli\u010di\u0107",
+          "code_url": "https://github.com/Anadroid/ccNetViz/tree/master/GSoC2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6636438779068416/"
+        },
+        {
+          "title": "ccNetViz",
+          "short_description": "ccNetViz is a high-performance graph data visualization library that runs on WebGL (an in-browser library to run 3D graphics on GPU parallel...",
+          "student_name": "Gaurav Grover",
+          "code_url": "https://ggrover.me/GSoC18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5656313283477504/"
+        },
+        {
+          "title": "Interactive Web Platform for R based Data Analysis",
+          "short_description": "The goal of this project is to develop the final version of cross-platform web-based application that enables anyone to perform various statistical...",
+          "student_name": "Tejasav Khattar",
+          "code_url": "https://github.com/HelikarLab/StatisticalPlatform/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5712275499384832/"
+        },
+        {
+          "title": "Candis: A Software Tool for Cancer Prediction And Biomarker Identification Using High-throughput Data",
+          "short_description": "Candis (portmanteau of Cancer and Discover) is an Open Source data mining suite (released under the GNU General Public License v3) for DNA...",
+          "student_name": "Rupav Jain",
+          "code_url": "https://github.com/HelikarLab/candis/wiki/Google-Summer-of-Code-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4888383801262080/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6093511005306880/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "ccNetViz Project : Advanced Custom Label And Text Formatting",
+          "short_description": "The Purpose of this project is to add advanced label formatting features to the ccNetviz library for graph Visualizations without affecting the...",
+          "student_name": "Himanshu Jotwani",
+          "code_url": "https://medium.com/@hjhimanshu01/gsoc-2019-final-report-4301ce8a568c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6341913710428160/"
+        },
+        {
+          "title": "Advanced Node, Edge, Arrow Plugin Library",
+          "short_description": "Advanced Node, Edge, Arrow Plugin Library\nThis plugin draws the desired types of nodes and arrows on a non-visible canvas. These dynamically drawn...",
+          "student_name": "Caner Akda\u015f",
+          "code_url": "http://canerakdas.github.io/gsoc2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6396864058884096/"
+        },
+        {
+          "title": "Edge Animations for Large-Scale Network Graphs",
+          "short_description": "With ccNetViz, this large graph render library using WebGL, I'll add edge animations on it. Including color animations, speed control and other fancy...",
+          "student_name": "Xiaodong Zhao",
+          "code_url": "https://brickmaker.github.io/2019/08/20/Google-Summer-of-Code-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4756504865931264/"
+        },
+        {
+          "title": "Web Pipeline for Flux Balance Analysis",
+          "short_description": "The project is based upon Flux Balance Analysis, which is a model used for simulating metabolism. It is used in genome-scale reconstructions of...",
+          "student_name": "Aman Dave",
+          "code_url": "https://github.com/HelikarLab/cobra-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6542461436952576/"
+        },
+        {
+          "title": "Web Pipeline For Kinetic (ODE-Based) Models",
+          "short_description": "Ordinary differential equations are widely used for modelling biological networks and processes of kinetics. The idea of the project is to create a ...",
+          "student_name": "Mohamed Shadab",
+          "code_url": "https://github.com/HelikarLab/ode-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4861160250146816/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:helikarlab@gmail.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/helikarlab-gsoc",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/biocollective"
+}

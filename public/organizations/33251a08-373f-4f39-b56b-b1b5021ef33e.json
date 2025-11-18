@@ -1,0 +1,42 @@
+{
+  "name": "Cadasta",
+  "url": "http://cadasta.org/",
+  "image_url": "https://lh3.googleusercontent.com/YGfrXJkJlSLrcsPG3bgmjIiRXthOVmkiGr5r4X2P6ehPEX3zKktgYwuScAcAtZJzjBOURAIEL3xSoVho00Oc7jmWDRbYaGE",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "geospatial",
+    "mapping",
+    "land rights",
+    "geo"
+  ],
+  "technologies": [
+    "python",
+    "django",
+    "javasc",
+    "javascript"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6571413242642432/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Additional Login Options",
+          "short_description": "Additional Login Options focuses on providing more than one ways to login to a user account on Cadasta platform.\nThe main goals of this Project are...",
+          "student_name": "Parthvi Vala",
+          "code_url": "http://parthvi.me/2017/08/24/gsoc-2017-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4580135676149760/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/Cadasta/cadasta",
+  "contact_email": "mailto:info@cadasta.org",
+  "mailing_list": "https://groups.google.com/a/cadasta.org/forum/#!forum/outreachy",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/CadastaOrg",
+  "blog_url": "http://cadasta.org/blog-page/"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "LAPPIS",
+  "url": "https://www.lappis.rocks",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/lappis/o9wx8njgmzlcug4n-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "web development",
+    "devops",
+    "innovation",
+    "Social participation",
+    "mentoring"
+  ],
+  "technologies": [
+    "python",
+    "machine learning",
+    "ruby on rails",
+    "jupyter hub"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/lappis/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "The collective power of multiple communities: Integrating the Empurrando Juntas API with Decidim",
+          "short_description": "This project aims to integrate two civic participation platforms, Empurrando Juntas (EJ) and Decidim. EJ collects user opinions on specific topics,...",
+          "student_name": "Yan S. Guimar\u00e3es",
+          "code_url": "https://medium.com/@ylsg0303/final-submission-of-gsoc-2024-integrating-the-empurrando-juntas-api-with-decidim-at-lappis-e6396540979c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bPNLtjOq/"
+        },
+        {
+          "title": "Alian\u00e7a Democr\u00e1tica entre plataformas utilizando t\u00e9cnicas de Machine Learning em prol da sociedade",
+          "short_description": "Empurrando Juntos (EJ) e Decidim s\u00e3o duas plataformas digitais distintas, mas que compartilham princ\u00edpios e objetivos correlatos no que tange uma...",
+          "student_name": "Suzane Duarte",
+          "code_url": "https://medium.com/@ssuzane1/google-summer-of-code-final-project-submission-2e66415b3c80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aBQDj9lH/"
+        },
+        {
+          "title": "The collective power of multiple communities: Integrating the Empurrando Juntas tool with Decidim",
+          "short_description": "Empurrando Juntas (EJ) is a robust tool for social participation, aimed at collecting opinions and fostering collaboration within communities. By...",
+          "student_name": "Negrah S",
+          "code_url": "https://drive.google.com/file/d/1pI6ukJXOHm8CqcgW0WC71hvoaNvPencH/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZGO8G32S/"
+        },
+        {
+          "title": "Empowering Participatory Democracy: Integrating EJ with Decidim",
+          "short_description": "This project proposes integrating \"Empurrando Juntas\" (EJ) with Decidim to streamline community decision-making by using AI to group similar...",
+          "student_name": "Samantha Adorno",
+          "code_url": "https://gist.github.com/sadorno1/cd8cb1118ff4d423a8b14f5b1d802df3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zRVwuGWD/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://t.me/gsoclappis",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://www.linkedin.com/company/lappis-rocks/"
+}

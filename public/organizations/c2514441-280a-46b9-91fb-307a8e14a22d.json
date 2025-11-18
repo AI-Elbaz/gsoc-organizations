@@ -1,0 +1,81 @@
+{
+  "name": "ownCloud",
+  "url": "http://owncloud.org",
+  "image_url": "https://lh3.googleusercontent.com/DfB90GrSxjjUVgE4ye84i6KbkUQVUkzoIJtpZfqCkHbRuIbf9h4Twj6DKYU4ul4zJHk01UKjz7NGXRfJ9NcIDcH1uMhxCqE",
+  "image_background_color": "#1d2d44",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "web",
+    "cloud",
+    "synchronized",
+    "data sharing",
+    "sync",
+    "file share"
+  ],
+  "technologies": [
+    "javascript",
+    "html",
+    "sql",
+    "php",
+    "css",
+    "android",
+    "qt",
+    "ios"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5750943224168448/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "ownCloud App for metadata extraction from Images and Introducing Photo Calendar in Gallery",
+          "short_description": "Project Idea: Create an ownCloud app which provides CRUD access to the metadata stored in images.\nImages can contain extra information embedded in...",
+          "student_name": "imjalpreet",
+          "code_url": "https://github.com/interfasys/mediametadata",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5700479237488640/"
+        },
+        {
+          "title": "ownCloud Demo Improvements",
+          "short_description": "Improve ownCloud Community services for performance, security and monitoring for development purposes. This includes a move to a Kubernetes based...",
+          "student_name": "Michael Grosser (stp)",
+          "code_url": "https://s.stp-ip.net/GSoC16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5532391397392384/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5721528872206336/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Security App",
+          "short_description": "ownCloud Security app. It hardens ownCloud security with several new features including brute force protection, 404 detection and strong password...",
+          "student_name": "Semih Serhat Karakaya",
+          "code_url": "https://gist.github.com/karakayasemi/99dce25f33afcf15ddc2622272d5066b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6178886249349120/"
+        },
+        {
+          "title": "Dropbox API v2 Integration",
+          "short_description": "This project aims to integrate the Version 2 of the Dropbox API in OwnCloud which currently uses the v1 of the Dropbox API which has been deprecated...",
+          "student_name": "hemant-mann",
+          "code_url": "https://github.com/owncloud/files_external_dropbox/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4844054437167104/"
+        },
+        {
+          "title": "ownCloud as a backend for web apps",
+          "short_description": "The aim of this project is to make support for cross-origin API access in ownCloud using OAuth2 verification AND \u200bwrite a JavaScript API Client...",
+          "student_name": "Noveen Sachdeva",
+          "code_url": "https://gist.github.com/noveens/381b12c830d1b77b99877943f90ebb1b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5166409181036544/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://webchat.freenode.net/?channels=owncloud",
+  "contact_email": "mailto:ownclouders@owncloud.com",
+  "mailing_list": "https://mailman.owncloud.org/mailman/listinfo/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ownclouders",
+  "blog_url": "https://owncloud.org/news"
+}

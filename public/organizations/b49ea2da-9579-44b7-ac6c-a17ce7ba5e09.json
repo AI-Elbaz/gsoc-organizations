@@ -1,0 +1,43 @@
+{
+  "name": "K-9 Mail",
+  "url": "https://github.com/k9mail/k-9",
+  "image_url": "https://lh3.googleusercontent.com/krjdwXw2oDdYr4CiiHmacAQfX7YwdVbKxXofGWXcb5BljoNWIV0Z2OJz3HvKkPMktuU3EY3dWbhQ7ulqQiDGPyVj_WjJQ-HH",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "email",
+    "communication"
+  ],
+  "technologies": [
+    "android",
+    "java"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6184001823834112/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve IMAP-related features",
+          "short_description": "The aim of this project is to enhance some portions of the application that implement the Internet Message Access Protocol (IMAP). Specifically :...",
+          "student_name": "Harikrishnan Rajan",
+          "code_url": "https://gist.github.com/rhari991/b8d650168b82ca720d0d6d0a6a2a904b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6603273041608704/"
+        },
+        {
+          "title": "Daquexian's proposal about improving account setup",
+          "short_description": "My proposal about improving account setup, including my thought and progress on it :)",
+          "student_name": "daquexian",
+          "code_url": "http://daquexian.me/blog/2017/08/29/K9Mail_GSoC_summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4763165975904256/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://riot.im/app/#/room/#freenode_#k-9",
+  "contact_email": "mailto:k9mail.project@gmail.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/k-9-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://k9mail.github.io/"
+}

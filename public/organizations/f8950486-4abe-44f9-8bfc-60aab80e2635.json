@@ -1,0 +1,140 @@
+{
+  "name": "webpack",
+  "url": "https://webpack.js.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/webpack/bb5phgrkm0y4op3e-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "compilers",
+    "tooling",
+    "parser",
+    "toolchains",
+    "web performance",
+    "programming languages and development tools",
+    "web development",
+    "javascript",
+    "webassembly",
+    "Node.js",
+    "webpack"
+  ],
+  "technologies": [
+    "javascript",
+    "node.js",
+    "web development",
+    "html5/css3",
+    "webassembly",
+    "webasssembly",
+    "webpack",
+    "typescript"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4872598588489728/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Deep Scope Analysis",
+          "short_description": "I want to contribute to Webpack project by implementing one of the proposed ideas, namely \u201cDeep Scope Analysis\u201d. The program will traverse the ASTs...",
+          "student_name": "Vincent Chan",
+          "code_url": "https://medium.com/@okcdz/better-tree-shaking-with-deep-scope-analysis-a0b788c0ce77",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5363095866179584/"
+        },
+        {
+          "title": "webpack-cli: Infrastructure and Automation Work - Dhruvdutt",
+          "short_description": "webpack-cli: Infrastructure and Automation Work\nThis document majorly proposes most crucial things on the CLI roadmap like AST refactoring, static...",
+          "student_name": "Dhruvdutt Jadhav",
+          "code_url": "https://medium.com/@dhruvdutt/its-a-wrap-google-of-code-545c20d5388d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5998434809020416/"
+        },
+        {
+          "title": "Webpack dependencies with WebAssembly",
+          "short_description": "The performance issue, or bundle time speed-up, is a common challenge for modern JavaScript/web bundler. As one of the most powerful module bundlers...",
+          "student_name": "Jevan Chan",
+          "code_url": "https://gist.github.com/jevancc/0c578d88cf3da7deab9ab9c82c05f605",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5155044764680192/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5974651593818112/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Output Reporter",
+          "short_description": "At the moment it\u2019s difficult to customise webpack\u2019s output and it requires a deep knowledge of the internal workings of webpack and webpack-cli. \nThe...",
+          "student_name": "Devid Farinelli",
+          "code_url": "https://medium.com/webpack/summer-2019-with-webpack-5cd3ddbc9a05",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4597762119696384/"
+        },
+        {
+          "title": "Dev Server Refactor",
+          "short_description": "The Webpack Dev Server is designed to make development of Webpack projects efficient, customizable, and possible on older browsers. During this...",
+          "student_name": "Kirill Nagaitsev",
+          "code_url": "https://medium.com/webpack/gsoc-2019-dev-server-refactor-websockets-ws-and-cli-c9a4c727ce21",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4895317185527808/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5144337383424000/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "CLI: Tooling",
+          "short_description": "My contributions majorly include the most crucial things for the CLI ( webpack-cli ) like -\nallowing multiple types of same arguments e.g   --stats...",
+          "student_name": "Nitin Kumar",
+          "code_url": "https://github.com/webpack/webpack-cli/projects/6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6305702076743680/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/webpack/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Refactor tests on webpack-dev-server",
+          "short_description": "webpack-dev-server is a development tool in the webpack group projects. It eases the development of javascript projects by providing an instant...",
+          "student_name": "Mahdi Khashan",
+          "code_url": "https://github.com/webpack/webpack-dev-server/pull/5080/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vvPVCqzQ/"
+        },
+        {
+          "title": "Native css support",
+          "short_description": "Native CSS Support is capable of replacing mini-css-extract-plugin, style-loader and css-loader, with better support for Hot Module Replacement...",
+          "student_name": "zhaochenliu",
+          "code_url": "https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Afaga295",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/26o3C4CV/"
+        },
+        {
+          "title": "Webpack-cli: create-webpack-app package development",
+          "short_description": "This proposal outlines the development of create-webpack-app, a webpack cli tool designed to streamline project setup for web development. Leveraging...",
+          "student_name": "Uzair Khan",
+          "code_url": "https://github.com/orgs/webpack/projects/5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/A71RRLYm/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/webpack",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Enhancing Webpack with ESM Module Output",
+          "short_description": "This project aims to modernize Webpack by implementing comprehensive support for ECMAScript Modules (ESM) output. Webpack currently lacks robust ESM...",
+          "student_name": "Ryuya",
+          "code_url": null,
+          "proposal_id": "jvB8mII1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HJMdVfAT"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://twitter.com/evenstensberg",
+  "contact_email": "mailto:evenstensberg@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/1JOtAdpoqHGieg_nJpjkWDv1BoErPQ9L1GnZmX55E-W0/edit?usp=sharing",
+  "guide_url": "https://webpack.js.org/contribute/",
+  "twitter_url": "https://twitter.com/webpack?lang=en",
+  "blog_url": "https://medium.com/webpack"
+}

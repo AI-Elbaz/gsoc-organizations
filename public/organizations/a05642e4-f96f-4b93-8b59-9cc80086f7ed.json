@@ -1,0 +1,220 @@
+{
+  "name": "CiviCRM",
+  "url": "https://civicrm.org",
+  "image_url": "https://lh3.googleusercontent.com/eHaSpnLTGYKc5cdRm7xyCei3-mdlOXkiwlJlX8Z-qgnlT0ii6CmKs6KoP7HlLNAXRT9xJvC4gVPmWtVvokPZlh4E0InYVW1dojWfoC9YHRuA1A",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "crm",
+    "civic technology",
+    "fundraising",
+    "events management",
+    "membership management",
+    "civil society",
+    "contacts&calendar sync",
+    "nonprofits",
+    "nonprofit"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "php",
+    "angularjs",
+    "d3js",
+    "d3.js",
+    "angular"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4866334043144192/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "CiviREBUX: Report Building Extension for CiviCRM",
+          "short_description": "CiviREBUX is an native CiviCRM extension for drafting custom Contribution and Membership reports via a drag-n-drop interface. CiviREBUX combines...",
+          "student_name": "Pranay Yadav",
+          "code_url": "https://civicrm.org/blog/ypranay/introducing-civirebux-native-report-building-extension-for-civicrm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6595368154300416/"
+        },
+        {
+          "title": "Work to improve and expand CiviMobile",
+          "short_description": "The current release is more than three years old, so the extension has languished somewhat. There are several issues in the outstanding...",
+          "student_name": "ahillier",
+          "code_url": "https://github.com/AdamHillier/com.webaccessglobal.module.civimobile/wiki/GSOC-Project:-final-wrap-up",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5743754254221312/"
+        },
+        {
+          "title": "Synchronization Framework",
+          "short_description": "CiviCRM already has integration with many email marketing services like MailChimp, Constant Contact, Google Apps. However all of them have different...",
+          "student_name": "AdityaK",
+          "code_url": "https://adikare.github.io/org.civicrm.genericsync/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4975806048632832/"
+        },
+        {
+          "title": "Cividroid 2.0",
+          "short_description": "My perception for the next evolution of Cividroid revolves around the concept of \u2018Dashlets\u2019. During my frequent visit to the CiviCRM Dashboard on the...",
+          "student_name": "Mouna A",
+          "code_url": "https://github.com/MounaAnnavarapu/Cividroid-2.0-Dashlets",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5352655605989376/"
+        },
+        {
+          "title": "Responsive Email Layout",
+          "short_description": "Majority of people use emails to communicate over the internet and with more more mobile devices coming in different sizes, there is a basic need to...",
+          "student_name": "Anjali Ujjainia",
+          "code_url": "https://wiki.civicrm.org/confluence/display/CRM/Responsive+Email+Layout",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4623169906278400/"
+        },
+        {
+          "title": "Social Media Integration with CiviCRM",
+          "short_description": "The sheer number of social media users has been increasing exponentially along with social media websites. Day by day, Social Media is integrating...",
+          "student_name": "rajbdilip",
+          "code_url": "https://github.com/siddharthg/org.civicrm.civisocial",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5781292268388352/"
+        },
+        {
+          "title": "Integrating CiviCRM with Zapier",
+          "short_description": "This project was written in aim of participation in the Gsoc 2016, This proposal explains how to integrate CiviCRM with Zapier an integration...",
+          "student_name": "merci mukwe",
+          "code_url": "https://wiki.civicrm.org/confluence/display/CRMDOC/Example+2%3A+Integrating+CiviCRM+and+Zapier%3A+User+Story+1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5942583859609600/"
+        },
+        {
+          "title": "Import from Google Sheets",
+          "short_description": "Import from Google Sheets\nI'm Saurabh Batra, a sophomore student at IIT Guwahati, India. I've been actively contributing to Civi since October 2015...",
+          "student_name": "Saurabh",
+          "code_url": "https://github.com/saurabhbatra96/com.saurabhbatra96.civiimport#comsaurabhbatra96civiimport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5158058154000384/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4828166816268288/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Open Supporter Data Integration for CiviCRM",
+          "short_description": "The Open Supporter Data Interface is a set of API standards which aims to define a common interface for interoperability between progressive and...",
+          "student_name": "Andy Gu",
+          "code_url": "https://github.com/4ndygu/civicrm_osdi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4670134031482880/"
+        },
+        {
+          "title": "Machine Learning for Fraud Detection",
+          "short_description": "Detailed version: https://lab.civicrm.org/community-team/gsoc2018/issues/2\nSynopsis\nThe project aims to build a new open-source fraud detection...",
+          "student_name": "Saurabh Batra",
+          "code_url": "https://github.com/saurabhbatra96/wmf-fraud-pipeline",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4872534902177792/"
+        },
+        {
+          "title": "Virtual Machine Templates (Appliances/Boxes) - Making CiviCRM Cloud Native and Docker Friendly",
+          "short_description": "As with many open-source web applications, installing CiviCRM can be difficult \u2013 it requires installing/configuring a series of related services...",
+          "student_name": "tiotsop",
+          "code_url": "https://gist.github.com/tiotsop01/11c506e9bc60648e2f3eaae71916d00b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5756033834156032/"
+        },
+        {
+          "title": "CiviCRM Extensions for Political Campaigns",
+          "short_description": "CiviCRM is a great CRM for the needs of many non-profits, such as the NLG. A friend of mine suggested that CiviCRM has many features that campaign...",
+          "student_name": "Alexander Sludds",
+          "code_url": "https://docs.google.com/document/d/1agofzGauL8n6HqtgBoNtdksfiv_8Eu6ATVfqA0A_zVo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5766862319124480/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4799145083142144/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Static Code Analysis Integration and PHPUnit code coverage report Improvements for CiviCRM",
+          "short_description": "This project aims at integrating Vimeo\u2019s Psalm into the CiviCRM Jenkins toolchain for static analysis purposes. This project will also work on...",
+          "student_name": "Ndubuisi Onyemenam",
+          "code_url": "https://gist.github.com/prondubuisi/5f2ac383046a403b10fe773547e76951",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6004390752681984/"
+        },
+        {
+          "title": "Data Processor Enhancement",
+          "short_description": "The Data processor Extension (created by Jaap) provides a user interface to create custom search screens and custom APIs. It saves time by removing...",
+          "student_name": "Sarvesh Mehta",
+          "code_url": "https://civicrm.org/blog/sarvesh21/gsoc-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5200595407863808/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4923749205278720/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Probots and GitLab to GitHub Integration",
+          "short_description": "The Project is based on automating the workflow on CiviCRM-core using GitHub probots and node-gitlab. It also deals in integrating GitHub codebase...",
+          "student_name": "Kartik Kathuria",
+          "code_url": "https://civicrm.org/blog/kartik1000/probots-and-gitlab-github-integration-final-phase-completion",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5501949916479488/"
+        },
+        {
+          "title": "Linking CiviCRM with LibreOffice / Collabora Office",
+          "short_description": "The project aim is to develop an extension to integrate CiviCRM with LibreOffice/Collabora Office",
+          "student_name": "Asha Sulaiman",
+          "code_url": "https://medium.com/@ash15.sulaiman/gsoc-2020-with-civicrm-integrating-civicrm-with-libreoffice-63f1ac674864",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5292093519429632/"
+        },
+        {
+          "title": "Outlook 365 plugin to integrate CiviCRM in the outlook addressbook",
+          "short_description": "The aim of this project is to deliver a plugin for outlook 365 so that users of\noutlook 365 can send e-mails to contacts in civicrm.",
+          "student_name": "Sarvesh Mehta",
+          "code_url": "https://civicrm.org/blog/sarvesh21/gsoc-project-outlook365-extension-0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6234630803423232/"
+        },
+        {
+          "title": "Enhancing Transactional Email Templates And Giving A Solid Foundation To The Extension.",
+          "short_description": "This project aims to revolutionize the way we engage and interact with other members through email templates. This project will work on giving the...",
+          "student_name": "Pratik Devlekar",
+          "code_url": "https://gist.github.com/PratikDevlekar/ab63f74e85dcf635fe6f3d51e35df0a4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5787229596680192/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5667013157978112/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Activity Cull",
+          "short_description": "This project is to build a dashboard that will deliver features to enable an admin handle activities. It will offer  filterable Pivot Table of...",
+          "student_name": "Jenniline Ebai",
+          "code_url": "https://lab.civicrm.org/jenniline/activity-cull-GSOC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6688419362635776/"
+        },
+        {
+          "title": "Integrate Spoke Peer-to-Peer Texting",
+          "short_description": "The project aim is to create an Extension that will synchronize CiviCRM with an instance of the open source peer-to-peer texting platform/project,...",
+          "student_name": "Asha Sulaiman",
+          "code_url": "https://civicrm.org/blog/asha/gsoc-2021-integrate-spoke-peer-peer-texting-civicrm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5452848975839232/"
+        },
+        {
+          "title": "Integrate MJML / GrapeJS Newsletters",
+          "short_description": "The idea behind the project is to develop an extension for CiviCRM implementing MJML / GrapeJS for making & sending responsive email newsletters...",
+          "student_name": "Utpalendu Barman",
+          "code_url": "https://lab.civicrm.org/extensions/grapesjsmjml",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4695053066305536/"
+        },
+        {
+          "title": "Multi currency memberships",
+          "short_description": "New extension which allows user to pay membership fees through their local currency.",
+          "student_name": "Nkoa Christophe",
+          "code_url": "https://github.com/Christophenkoa/Gsoc-2021-CiviCRM/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4715979757584384/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.civicrm.org",
+  "contact_email": "mailto:info@civicrm.org",
+  "mailing_list": "https://lists.civicrm.org/lists/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/civicrm",
+  "blog_url": "https://civicrm.org/blog"
+}

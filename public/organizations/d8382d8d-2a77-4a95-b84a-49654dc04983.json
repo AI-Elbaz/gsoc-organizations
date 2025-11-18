@@ -1,0 +1,40 @@
+{
+  "name": "Streetmix",
+  "url": "https://streetmix.net/",
+  "image_url": "https://lh3.googleusercontent.com/_L-vs1v1urB7RbiMOJTVBWxkuZWZRnwd6wUXupSaLqoWYh-0xHo2sGvLXmmQZhgzU5kWhDS7ktZvBzz42j9rDPGdpaQRbg",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "civic tech",
+    "smart cities"
+  ],
+  "technologies": [
+    "postgresql",
+    "javascript",
+    "mongodb",
+    "react",
+    "redux"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5918428024012800/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Porting MongoDB to PostgreSQL and Authenticating Users via Email, Facebook and Google.",
+          "short_description": "Porting the database from Mongodb to Postgres to ensure data integrity.  Authenticating users via Facebook, Google and Email using passwordless...",
+          "student_name": "Oluwaseun",
+          "code_url": "https://gist.github.com/flickz/2c479190bfb656d10c9d4b8a037d7503",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6040053176336384/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://streetmix-slack.herokuapp.com/",
+  "contact_email": "mailto:hello@streetmix.net",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/streetmix/"
+}

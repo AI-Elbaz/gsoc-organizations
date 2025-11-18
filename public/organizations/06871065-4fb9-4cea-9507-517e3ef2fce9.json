@@ -1,0 +1,76 @@
+{
+  "name": "Prometheus-Operator",
+  "url": "https://prometheus-operator.dev/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/prometheus-operator/dpytdkpyfejrot7o-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "monitoring",
+    "cloud",
+    "observability",
+    "Kubernetes Operator"
+  ],
+  "technologies": [
+    "prometheus",
+    "go",
+    "kubernetes",
+    "kubernetes operators"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/prometheus-operator/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Extending The ScrapeConfig CRD Surface",
+          "short_description": "This proposal aims to enhance the ScrapeConfig CRD to achieve stability and usability. Currently in alpha, the CRD lacks the originally intended 1:1...",
+          "student_name": "M Viswanath Sai",
+          "code_url": "https://docs.google.com/document/d/1-zSPnbbT6ktLTpoUi0SekO9VvAnTba8vtUI9vV3UVaU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PHIMDCiF/"
+        },
+        {
+          "title": "DaemonSet deployment for Prometheus Agent",
+          "short_description": "This project is about designing and implementing the deployment of Prometheus Agent as DaemonSet. Currently, Prometheus Agent can only be deployed as...",
+          "student_name": "Ha Anh Vu",
+          "code_url": "https://docs.google.com/document/d/1dzF-W2ZQ4AiOG6x93aOahJvpxAEc_mZm430rNcFI8AU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RD3xNW8g/"
+        },
+        {
+          "title": "Prometheus Operator - Website/Documentation Revamp",
+          "short_description": "The Prometheus Operator plays a pivotal role in deploying, configuring, and managing Prometheus instances within Kubernetes clusters. Despite its...",
+          "student_name": "S Ashwin",
+          "code_url": "https://docs.google.com/document/d/1u6o88TZg4pejyFLkhXuwd2C88QjqkDSYimaxc6-BCsc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NIVc2xLU/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/prometheus-operator",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Completing the DaemonSet deployment model for  Prometheus Operator",
+          "short_description": "The project aims to bring the Prometheus Agent's DaemonSet mode in Prometheus Operator to full production readiness. This involves addressing missing...",
+          "student_name": "Dhruv puri",
+          "code_url": null,
+          "proposal_id": "yQrYSijm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hZAZORpk"
+        },
+        {
+          "title": "Status for configuration objects",
+          "short_description": "The project aims to implement status subresource in Service Monitor, Pod Monitor, Probes, AlertmanagerConfig, PrometheusRule and ScrapeConfig Custom...",
+          "student_name": "Yash Kumar Patel",
+          "code_url": null,
+          "proposal_id": "dLqLzYBN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aUhE7h7S"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://kubernetes.slack.com/archives/CFFDS2Z7F",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/prometheus-operator/community/blob/main/mentoring/gsoc/2025/project_ideas.md",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/PromOperator"
+}

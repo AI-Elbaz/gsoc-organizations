@@ -1,0 +1,108 @@
+{
+  "name": "Biomedical Informatics, Emory University",
+  "url": "https://github.com/sharmalab/Emory-BMI-GSoC-2019",
+  "image_url": "https://lh3.googleusercontent.com/L9dxdQ7Eo52IlZ3VEBEuT-_BSXZsymBaqOYXd1Xwl7bDpAlarV-zq26DQRusc5_x7U-IIwcRg7BRPIOEQJS7gdiZ4s2kmPc",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web platform and services",
+    "cloud",
+    "precision medicine",
+    "big data visualization",
+    "data fusion",
+    "distributed systems",
+    "science and medicine",
+    "data integration"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "deep learning",
+    "medical imaging",
+    "hadoop",
+    "tensorflow"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6000473039437824/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "De-Mystifying Medical Imaging DICOM Data",
+          "short_description": "A lot of Medical Imaging data used and shared today is formatted using the DICOM standard. It can be collected and rendered into a Descriptive Data...",
+          "student_name": "Peter Vu",
+          "code_url": "https://github.com/vupeter/posdaJS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6745323447779328/"
+        },
+        {
+          "title": "Multi-resolution Analysis of Pathology Data with Convolutional Neural Networks (CNNs)",
+          "short_description": "The ultimate goal of this project is exploring high and low-resolution images techniques for performing high-level inferences over complete tissue...",
+          "student_name": "Nelson",
+          "code_url": "https://github.com/cooperlab/RegionProposal/commits/master?author=ennauata",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5733351038124032/"
+        },
+        {
+          "title": "Information Visualizations using Datascope",
+          "short_description": "DataScope is an interactive dashboard system for doing exploratory analysis on large biomedical datasets. Currently the dashboard is splitted into...",
+          "student_name": "Stefan Florea",
+          "code_url": "https://bitbucket.org/srflorea/interactive-data-exporation/commits/branch/stefan-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5402338713927680/"
+        },
+        {
+          "title": "Near Duplicate Detection in Medical Image Archives Proposal",
+          "short_description": "I plan to complete the project with method of classification and indexing technology on Spark as well as Hazelcast if necessary. Hope for more...",
+          "student_name": "Irene",
+          "code_url": "https://bitbucket.org/BMI/medicurator/commits/all",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4775297916338176/"
+        },
+        {
+          "title": "Building Survival Models from Genomic Data with Google TensorFlow",
+          "short_description": "Large-scale cancer genomic research, such as TCGA project generated huge amount of high-dimensional data, yet most features are under-explored for...",
+          "student_name": "coco90417",
+          "code_url": "https://github.com/cooperlab/SurvivalNetTF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5796901790154752/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4661625682919424/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Graphical User Interface for Tensorflow",
+          "short_description": "The idea of this project is to make a software in which a user can make deep learning\nmodels in an easy way using a graphical user interface with...",
+          "student_name": "Vikas Gola",
+          "code_url": "https://github.com/vikasgola/tensorflow-gui/blob/GSoC-2019/gsoc_2019.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6465243092353024/"
+        },
+        {
+          "title": "Machine Learning Model Support for Digital Pathology",
+          "short_description": "The following modules are to be integrated with caMicroscope:\n\nCreating a workflow to allow model developers to allow their model to be run on a...",
+          "student_name": "Insiyah Hajoori",
+          "code_url": "https://insiyaa.github.io/articles/2019-08/GSOC-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5399959468244992/"
+        },
+        {
+          "title": "Deep Learning based Visual Recommendations",
+          "short_description": "We come up with models that give the effective and efficient visualizations as recommendations to the given input. Current visualization tools...",
+          "student_name": "Vinay Pandramish",
+          "code_url": "https://pvinay737.github.io/2019/08/13/title.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6521501140910080/"
+        },
+        {
+          "title": "Security Enhancements to Bindaas Data Integration Middleware",
+          "short_description": "Bindaas acts as a unified interface to various data sources like Apache Drill, MySQL and MongoDB. The aim of this project is to add new modules that...",
+          "student_name": "Tushar Aggarwal",
+          "code_url": "https://gist.github.com/tushar-97/c61cb48ae63f781275f95809768618ab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6560768063963136/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/sharmalab/Emory-BMI-GSoC-2019#communicating-with-the-mentors",
+  "contact_email": "mailto:pradeeban.kathiravelu@emory.edu",
+  "mailing_list": "https://gsoc2019-bmi.slack.com",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/emorybmi"
+}

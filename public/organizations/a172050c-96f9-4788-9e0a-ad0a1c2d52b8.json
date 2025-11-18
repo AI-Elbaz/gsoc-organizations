@@ -1,0 +1,650 @@
+{
+  "name": "The FreeBSD Project",
+  "url": "https://www.freebsd.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-freebsd-project/4jmspor6mcto9wti-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "virtualization",
+    "security",
+    "cloud",
+    "kernel",
+    "embeddded",
+    "embedded",
+    "embedded systems",
+    "operating systems",
+    "operating system",
+    "Embedded System"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "llvm",
+    "shell script",
+    "make",
+    "clang",
+    "shell",
+    "assembly",
+    "c/c+",
+    "POSIX shell"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5673385510043648/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "TCP/IP Regression Test Suite",
+          "short_description": "Regression testing is one of the most critical elements of the test artifacts and proves to be one of the most preventive measures for testing a...",
+          "student_name": "Shivansh Rai",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/TCP-IP-RegressionTestSuite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6631273544024064/"
+        },
+        {
+          "title": "Support bhyve as a Vagrant VM backend",
+          "short_description": "Vagrant is a tool to create and manage virutal environment, which can be used to for creating and configure lightweight, reproducible, and portable...",
+          "student_name": "jesa",
+          "code_url": "https://github.com/jesa7955/vagrant-bhyve/commits/master?author=jesa7955",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6640955742486528/"
+        },
+        {
+          "title": "Adding SCSI passthrough to CTL",
+          "short_description": "The purpose of this project is to export physical SCSI devices with all their features over iSCSI through CTL as an actual SCSI target.",
+          "student_name": "Suraj Ponugoti",
+          "code_url": "https://github.com/suraj5/freebsd/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5648334039547904/"
+        },
+        {
+          "title": "Ethernet Ring Protection Switching",
+          "short_description": "Ethernet Ring Protection Switching (ERPS) provide sub-50ms protection and recovery switching for Ethernet traffic in a ring topology and at the same...",
+          "student_name": "Yuanxun",
+          "code_url": "https://docs.google.com/document/d/1aeZ1v5jMDn6Ez3-fpegwhAqogZrubFIXkI119mcHd1o/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5447855972024320/"
+        },
+        {
+          "title": "libnv improvements",
+          "short_description": "The libnv library allows to easily manage name value pairs as well as send and receive them over sockets. You are able to add bools, strings,...",
+          "student_name": "Dashhh",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/libnvImprovements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5098158929477632/"
+        },
+        {
+          "title": "Grant-Table User-Space Device",
+          "short_description": "A grant-table user-space device will allow user-space applications to map and share grants (Xen way to share memory) among Xen domains.",
+          "student_name": "ghost_rider",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/GrantTableUserSpace",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6242443443830784/"
+        },
+        {
+          "title": "Non-BSM to BSM Conversion Tools",
+          "short_description": "Let's imagine a FreeBSD server which collects audit records from machines that are not necessarily using BSM as the format of their audit records....",
+          "student_name": "0mp",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/NonBSMtoBSMConversionTools",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4694123034443776/"
+        },
+        {
+          "title": "High-performance P4 software switch using netmap",
+          "short_description": "High-performance P4 software switch using netmap\nSoftware switches are a key component of any cloud infrastructure,\nand even proposal focused on...",
+          "student_name": "yuri",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/HighPerformanceP4SoftwareSwitch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4750576889888768/"
+        },
+        {
+          "title": "HD Audio device model in userspace for bhyve",
+          "short_description": "The bhyve hypervisor does not have any sound card emulation at the moment. This project is proposed by Peter Grehan and aims to implement the High...",
+          "student_name": "Alex Teaca",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/HDAudioEmulationForBhyve",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6558894755151872/"
+        },
+        {
+          "title": "Improving libvirt support for bhyve",
+          "short_description": "The primary aim of this project would be to improve libvirt support for bhyve. Missing API functions in the libvirt bhyve driver shall be implemented...",
+          "student_name": "Fabian Freyer",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/ImprovingLibvirtSupportForBhyve",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5784838569197568/"
+        },
+        {
+          "title": "High-performance TCP/IP networking for bhyve VMs using netmap passthrough",
+          "short_description": "Modern cloud computing technologies require powerful virtualization tools. The bhyve hypervisor is currently missing an high performance Virtual...",
+          "student_name": "vmaffione",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2016/PtnetDriverAndDeviceModel#preview",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5927286796713984/"
+        },
+        {
+          "title": "Add SCSI passthrough to CTL",
+          "short_description": "CTL is the FreeBSD SCSI target layer. There are various SCSI commands, but it's usually used for block-level access. This projects focuses on making...",
+          "student_name": "bhimanshu",
+          "code_url": "https://github.com/bhimanshu1997/freebsd/commits/master?author=bhimanshu1997",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6277627815919616/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5058101916991488/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "NVMe controller emulator for bhyve",
+          "short_description": "This project is implementation of disk controller emulator for bhyve. I'l implement is NVMe controller. NVMe is defined by Non-Volatile Memory Host...",
+          "student_name": "Shunsuke Mie",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2017/NVMeControllerEmulatorForBhyve",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6187999633080320/"
+        },
+        {
+          "title": "A better Mergesort for FreeBSD",
+          "short_description": "The FreeBSD implementation of mergesort is fundamentally flawed in that\nit cannot sort data smaller than half of the size of a pointer. I aim to...",
+          "student_name": "Miles Fertel",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2017/Mergesort",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6055951132000256/"
+        },
+        {
+          "title": "A New ZFS Boot Environment Management Library & Tool For FreeBSD",
+          "short_description": "The purpose of this project is to build a convenient framework for managing ZFS\nboot environments in FreeBSD. Currently, boot environments are...",
+          "student_name": "Kyle Kneitinger",
+          "code_url": "https://wiki.freebsd.org/NewZfsBootEnvMgmtLibAndTool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6117727257231360/"
+        },
+        {
+          "title": "Add support for usbdump file-format to wireshark",
+          "short_description": "The usbdump program is an useful tool for capturing USB traffics, but its output is not very convenient for further researching. Wireshark has a...",
+          "student_name": "Jie Weng",
+          "code_url": "https://github.com/jerrywossion/wireshark/blob/usbdump_dissector/README.GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5910538034872320/"
+        },
+        {
+          "title": "Smoke testing of all base utilities",
+          "short_description": "Smoke testing is a set of light tests which are done for checking basic functionalities of a software to ascertain if the crucial functions work...",
+          "student_name": "Shivansh Rai",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2017/SmokeTestingOfBaseUtilities",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6309642233708544/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4807073560788992/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Import the Xen grant-table bus_dma(9) handlers from OpenBSD",
+          "short_description": "Xen uses the grant table interface to grant foreign domains access to page frames and to do ownership transfer. Each domain maintains its own grant...",
+          "student_name": "Pratyush Yadav",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2018Projects/ImportXenbus_dmaFromOpenBSD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6591711056756736/"
+        },
+        {
+          "title": "eBPF Implementation for FreeBSD",
+          "short_description": "This project proposes eBPF implementation for FreeBSD. It will have very basic functionality such as maps, interpreter, JIT compiler for x86-64 and...",
+          "student_name": "Yutaro Hayakawa",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2018Projects/eBPF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6624189331013632/"
+        },
+        {
+          "title": "Convert all PCI drivers attachments to be table driven and mark with PNP_INFO",
+          "short_description": "This project is being undertaken under the mentorship of FreeBSD organization. The goal of the project is to convert all the PCI drivers attachments...",
+          "student_name": "Lakhan Kamireddy",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2018Projects/ConvertPCIdriverAttachmentsToTables",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5006254145536000/"
+        },
+        {
+          "title": "Extensions to the netmap framework",
+          "short_description": "The project has 3 major goals:\n\nExtend VALE switches to support the IEEE 802.1Q standard\nExtend netmap to support buffer offsets\nWrite a testing...",
+          "student_name": "Stefano Duo",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2018Projects/ExtensionsToNetmap",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5292986162216960/"
+        },
+        {
+          "title": "Implementation of a user space interface for GPIO interrupts",
+          "short_description": "FreeBSD already has support for interrupts implemented in the GPIO controller drivers of several SoCs, but there are no interfaces to take advantage...",
+          "student_name": "Christian Kr\u00e4mer",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2018Projects/UserSpaceGPIOinterrupts",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5321044915126272/"
+        },
+        {
+          "title": "Oblivious Sandboxing with Capsicum",
+          "short_description": "Security is of paramount importance. Capsicum sticks to it principles, but is finite, this project aims on making it more widely applicable....",
+          "student_name": "Shubh Gupta",
+          "code_url": "https://github.com/ShubhGupta2125/capsh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5544577024917504/"
+        },
+        {
+          "title": "Porting Microsoft's CoreCLR, CoreFX, and PowerShell to FreeBSD",
+          "short_description": "PowerShell is a widely used administration tool in Windows Server workloads. This project aims at porting it to FreeBSD in order to make it easier...",
+          "student_name": "Mateus de Morais",
+          "code_url": "https://reviews.freebsd.org/D16707",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6522550137913344/"
+        },
+        {
+          "title": "Regression Test Suite for Audit Framework",
+          "short_description": "FreeBSD has an audit subsystem which is responsible for monitoring a variety of security-relevant system events, such as user-logins, configuration...",
+          "student_name": "Aniket Pandey",
+          "code_url": "https://github.com/aniketp/AuditTestSuite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5826052001628160/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6504969929228288/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "MAC policy on IP addresses for FreeBSD Jail",
+          "short_description": "With the introduction of VNET(9) in FreeBSD, Jails are free to set their IP addresses.\nHowever, this privilege may need to be limited by the host as...",
+          "student_name": "Shivank Garg",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2019Projects/MACPolicyIPAddressJail",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6380763652554752/"
+        },
+        {
+          "title": "Kernel sanitizers",
+          "short_description": "FreeBSD includes support for the kernel coverage sanitizer and undefined behaviour sanitizer, however support for the other sanitizers is missing....",
+          "student_name": "Costin Caraba\u0219",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2019Projects/KernelSanitizers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6418960189227008/"
+        },
+        {
+          "title": "Separation of Ports Build Process from Local Installation",
+          "short_description": "This project aims to provide the capability of the FreeBSD ports infrastructure to safely and cleanly build ports and all their dependencies without...",
+          "student_name": "Theron Tarigo",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2019Projects/PortsSeparatedBuild",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5311008413843456/"
+        },
+        {
+          "title": "Dual-stack ping command",
+          "short_description": "Ping has been one of the basic most used utilities for network diagnostic. Because of this the major aspect concerning it is ensuring its long term...",
+          "student_name": "J\u00e1n Su\u010dan",
+          "code_url": "https://github.com/jansucan/google-summer-of-code-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6516511731089408/"
+        },
+        {
+          "title": "Virtual memory compression",
+          "short_description": "Virtual memory compression is a memory management technique implemented by multiple operating systems ranging from Windows to Darwin. Depending on...",
+          "student_name": "Paavo-Einari Kaipila",
+          "code_url": "https://github.com/pavetheway91/freebsd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4941090614935552/"
+        },
+        {
+          "title": "Firewall Test Suite",
+          "short_description": "A framework is to be built, which would be able to run a given test on all the firewalls (pf, ipfw, ipf) since there are a lot of commonalities in...",
+          "student_name": "Ahsan Barkati",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2019Projects/FirewallTestSuite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5965689809010688/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5650233226166272/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "NetFPGA SUME FreeBSD device driver",
+          "short_description": "NetFPGA is an open-source project aimed to foster networking hardware prototyping. Their latest and de-facto standard development board is NetFPGA...",
+          "student_name": "denisSal",
+          "code_url": "https://github.com/denisSal/freebsd-sume",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5685815620927488/"
+        },
+        {
+          "title": "Add audit(4) support to NFS",
+          "short_description": "Security event auditing permits the selective and fine-grained configurable logging of security-relevant system events for the purpose of post-mortem...",
+          "student_name": "Shivank Garg",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2020Projects/AddAuditSupportToNFS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5686263773921280/"
+        },
+        {
+          "title": "eBPF XDP Hooks",
+          "short_description": "The eBPF eXpress Data Path (XDP) allows eBPF programs to be run to filter received packets as early as possible, avoiding unnecessary processing...",
+          "student_name": "Ankur Kothiwal",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2020Projects/eBPFXDPHooks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5083542154903552/"
+        },
+        {
+          "title": "Network Configuration Libraries",
+          "short_description": "FreeBSD has high quality tools for the management of the network, which includes tools to configure and manage interfaces, the firewalls and more....",
+          "student_name": "Ahsan Barkati",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2020Projects/NetworkConfigurationLibraries",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5335348705492992/"
+        },
+        {
+          "title": "Kernel Dump Regression Testing",
+          "short_description": "Testing is an integral and important part of any software development cycle, open or closed. Given a fully automated test system, we can run a broad...",
+          "student_name": "Ritika Gupta",
+          "code_url": "https://github.com/ritika98/test_suite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6529169661362176/"
+        },
+        {
+          "title": "Capsicumization of the base system",
+          "short_description": "A sandbox is a protection framework in computer security for separating running programs, typically in an attempt to prevent system failures or...",
+          "student_name": "Shubh Gupta",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2020Projects/CapsicumizationOfTheBaseSystem",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4842955266850816/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5255426173566976/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Input method in FreeBSD virtual terminal",
+          "short_description": "Currently, the FreeBSD virtual terminal driver vt(4) does not support inputting CJK characters directly in the virtual terminal, so our project idea...",
+          "student_name": "Fan Chung",
+          "code_url": "https://gsoc.staque.xyz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5702198469591040/"
+        },
+        {
+          "title": "Netlink proposal",
+          "short_description": "Netlink proposal - motivation, work done",
+          "student_name": "Sean Ng",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2021Projects/NetlinkProposal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5471594998136832/"
+        },
+        {
+          "title": "XFS FUSE FreeBSD Port",
+          "short_description": "In this project I aim to port a read-only implementation of the XFS filesystem to FreeBSD. The implementation should be done in userland through the...",
+          "student_name": "Khaled Emara",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2021Projects/XFSFUSEImplementation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4846660848451584/"
+        },
+        {
+          "title": "Syzkaller improvements",
+          "short_description": "Project's goal is to enhance syzkaller support for FreeBSD. The project involves adding syscalls and ioctl calls to improve coverage, testing...",
+          "student_name": "Simran Kathpalia",
+          "code_url": "https://gist.github.com/simran-kathpalia/3491aef1cf4a9a0401da8eafda3e702a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4855908315693056/"
+        },
+        {
+          "title": "Sound mixer improvements",
+          "short_description": "FreeBSD's default mixer utilities are not the best; mixer(8) is very basic  and outdated, end users have to tweak sysctl(8) values to do simple...",
+          "student_name": "Christos Margiolis",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2021Projects/SoundMixerImprovements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5768860254339072/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-freebsd-project/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Add sta, hostap and adhoc mode to wtap wlan simulator",
+          "short_description": "Wtap is a dummy wifi driver, which can be used to test wireless protocol stack and userland applications. Wtap introduces the following things: - A...",
+          "student_name": "EN-WEI WU",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2022Projects/AddStaHostapAndAdhocModeToWtapWlanSimulator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dco9wAqD/"
+        },
+        {
+          "title": "FreeBSD Bootloader quality of life improvements",
+          "short_description": "The FreeBSD bootloader prompt currently doesn't support editing keys, history, or any kind of command/file/directory completion (and any attempt to...",
+          "student_name": "connorbailey",
+          "code_url": "https://github.com/CloakerSmoker/freebsd-src/tree/loader-prompt-editing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CgbwfHhw/"
+        },
+        {
+          "title": "Rewrite PJDFSTest suite",
+          "short_description": "This project aims to rewrite the PJDFSTest suite. Today, the tests are written in a mix of shell script and C. This approach has provided some...",
+          "student_name": "Sayafdine Said",
+          "code_url": "https://musikid.github.io/blog/rewrite-pjdfstest",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6XPYWLzJ/"
+        },
+        {
+          "title": "Engineer a Feature Complete Port of Intel\u2019s igt-gpu-tools for FreeBSD",
+          "short_description": "Intel\u2019s igt-gpu-tools serves as a generic testing suite for drm drivers on Linux. The igt-gpu-tools suite is seperated into tests and tools where...",
+          "student_name": "Jake Freeland",
+          "code_url": "https://cdaemon.com/posts/gx9tI1NQ",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/G5Jor1se/"
+        },
+        {
+          "title": "Linuxulator on powerpc64",
+          "short_description": "This project aims to implement the functionalities to run Linux binaries on FreeBSD on powerpc64 architecture. This has already been achieved for...",
+          "student_name": "Koichi",
+          "code_url": "https://gist.github.com/Koichi98/1b8b34320e763c3f8c7d957d559da79a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ve2i6Vc5/"
+        },
+        {
+          "title": "Instruction-Level Dynamic Tracing",
+          "short_description": "The objective of this project is to implement a new DTrace provider for dynamically tracing all instructions in a given function. FBT (Function...",
+          "student_name": "christos",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2022Projects/InstructionLevelDynamicTracing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IwOJHkgq/"
+        },
+        {
+          "title": "bhyve debug server enhancements",
+          "short_description": "Bhyve is a modern type 2 hypervisor originally written for FreeBSD. The goal of this project is to enhance the functionality of its debugging server....",
+          "student_name": "Bojan Novkovi\u0107",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2022Projects/BhyveDebugServerEnhancements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XpcMpdul/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-freebsd-project",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "LLDB kernel module improvement",
+          "short_description": "Problem statement: LLDB doesn't support module information in kernel space now. So in my proposal, I want to implement full kernel module support for...",
+          "student_name": "AoK_Blast",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2023Projects/LLDBKernelModuleImprovement",
+          "proposal_id": "MACrAk2S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Q8nngj1k"
+        },
+        {
+          "title": "Calling the BATMAN: Free Networks on FreeBSD",
+          "short_description": "BATMAN (Better Approach to Mobile Ad-hoc Networking), as developed and used by the Freifunk project, is a routing protocol for (primarily wireless)...",
+          "student_name": "Aymeric Wibo",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2023Projects/CallingTheBatmanFreeNetworksOnFreeBSD",
+          "proposal_id": "cxFV62yy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9YX3dONN"
+        },
+        {
+          "title": "Physical memory anti-fragmentation mechanisms",
+          "short_description": "The use of superpages in modern hardware and operating system yielded important performance benefits. Unfortunately, allocating superpages can often...",
+          "student_name": "Bojan Novkovi\u0107",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2023Projects/PhysicalMemoryAntiFragmentationMechanisms",
+          "proposal_id": "uEm7a4Ej",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DcDs0ZSS"
+        },
+        {
+          "title": "Port SquashFuse to the FreeBSD kernel",
+          "short_description": "SquashFS is a read-only filesystem targeted for small embedded environments, where memory and disk space is constrained. Squash-Fuse is a...",
+          "student_name": "Mashijams",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2023Projects/PortSquashFuseToTheFreeBSDKernel",
+          "proposal_id": "w83gjSH1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8OUr49Dx"
+        },
+        {
+          "title": "CI Test Harness for bootloader",
+          "short_description": "FreeBSD supports multiple architectures, file systems, and disk-partitioning schemes. Currently, there is a script named full-test.sh located in...",
+          "student_name": "smk",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2023Projects/CITestHarnessForBootloader",
+          "proposal_id": "ks5qwRoq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aa1ptICD"
+        },
+        {
+          "title": "Integrate mfsBSD into the release building tools",
+          "short_description": "This project integrates mfsBSD into the FreeBSD release tool set, creating an additional target of mfsBSD images (.img for disc and .iso for optical...",
+          "student_name": "Soobin Rho",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2023Projects/IntegrateMfsBSDIntoTheReleaseBuildingTools",
+          "proposal_id": "HJs8Vfqw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Pw6wO1Ng"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-freebsd-project/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Refactor syscall creation script",
+          "short_description": "The current FreeBSD system call creation script was implemented to streamline the introduction of system calls into the FreeBSD kernel. It\u2019s a...",
+          "student_name": "agge3",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/RefactorSyscallCreationScript",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XGd9F1Fq/"
+        },
+        {
+          "title": "Improving FreeBSD user emulation for various architectures.",
+          "short_description": "The proposal is to improve QEMU's emulation capabilities on FreeBSD to support and fix issues related to architectures such as ARM, RISC-V, and...",
+          "student_name": "Ajeet",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/ImprovingFreeBSDUserEmulationForVariousArchitectures",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/M4rOQedM/"
+        },
+        {
+          "title": "Improving Repair Ability of the FreeBSD Installer",
+          "short_description": "The current FreeBSD installer lacks the environment for users to conveniently repair their system or install packages inside the installer. This...",
+          "student_name": "Chun Cheng Yeh",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/ImprovingRepairAbilityOfTheFreeBSDInstaller",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Vk7ZYK6y/"
+        },
+        {
+          "title": "Speeding up the FreeBSD Boot Process",
+          "short_description": "There is always room for improvement, especially the speed at which FreeBSD boots. The aim of this project is to identify any ineffiencies in the...",
+          "student_name": "Isaac Cilia Attard",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/SpeedingUpTheFreeBSDBootProcess",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hkBUTYUy/"
+        },
+        {
+          "title": "Zero-cost conditional execution mechanism",
+          "short_description": "It is common for kernel subsystems to conditionally include functionality, based on compile time and runtime configurations which are relatively...",
+          "student_name": "MarkoVlaic",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/ZeroCostConditionalExecutionMechanism",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WsnmKM6t/"
+        },
+        {
+          "title": "UFS4fuse: support FreeBSD's UFS2 with fusefs",
+          "short_description": "FreeBSD's UFS is arguably the longest standing UNIX file system still under active development. It is well documented and has many interesting...",
+          "student_name": "Benjamin St\u00fcrz",
+          "code_url": "https://github.com/realchonk/fuse-ufs/tree/0.3.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mCAcivuH/"
+        },
+        {
+          "title": "IPv6 support and cleanup of address family dependency in userland utilities",
+          "short_description": "FreeBSD boasts a plethora of userspace command tools utilizing IPv4 network programming APIs and exhibiting address family dependency. With the...",
+          "student_name": "Yan-Hao Wang",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/IPv6SupportAndCleanupOfAddressFamilyDependencyInUserlandUtilities#preview",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NEYEC0Wt/"
+        },
+        {
+          "title": "Port amd64 SIMD libc optimizations to riscv64",
+          "short_description": "The goal of the project is to port the SIMD optimized routines written for amd64 to riscv64. This will be accomplished using SWAR techniques. Because...",
+          "student_name": "Strahinja",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/PortAmd64SIMDLibcOptimizationsToRiscv64",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yLEu2LCV/"
+        },
+        {
+          "title": "Porting amd64 libc SIMD enhancements to arm64 (aarch64)",
+          "short_description": "This Google Summer of Code (GSOC) project aims to improve the performance of the libc string manipulation function of the FreeBSD operating system on...",
+          "student_name": "getz",
+          "code_url": "https://wiki.freebsd.org/SummerOfCode2024Projects/PortingAmd64LibcSIMDEnhancementsToArm64",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TKRS35FA/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-freebsd-project",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "VMM Accelerator support for QEMU",
+          "short_description": "This project aims to add VMM acceleration support to QEMU on FreeBSD, bridging the gap between QEMU\u2019s userspace emulation and FreeBSD\u2019s kernel-based...",
+          "student_name": "Abhinav Chavali",
+          "code_url": null,
+          "proposal_id": "2O2bpZmi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lRkVElCJ"
+        },
+        {
+          "title": "Testing & CI Integration for Rust FreeBSD Device Drivers",
+          "short_description": "This project addresses the lack of structured testing and CI support for Rust kernel modules in FreeBSD. The previous work of many students has...",
+          "student_name": "Acesp25",
+          "code_url": null,
+          "proposal_id": "gAK6urTr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FnDSAZEj"
+        },
+        {
+          "title": "Full Disk Administration Tool for FreeBSD",
+          "short_description": "FreeBSD currently lacks a tool to manage partitions and manipulate file systems like GParted does in Linux. The proposed project aims to use sade, a...",
+          "student_name": "Braulio Rivas",
+          "code_url": null,
+          "proposal_id": "17bP4joe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AQdl28ee"
+        },
+        {
+          "title": "Adding QCOW2 compressed image support to mkimg(1)",
+          "short_description": "mkimg(1), a FreeBSD tool used for creating disk images in various formats, currently lacks support for creating compressed QCOW2 images. In this...",
+          "student_name": "Christos Komis",
+          "code_url": null,
+          "proposal_id": "phu8BfcG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HENL3VNt"
+        },
+        {
+          "title": "Sockstat UI Improvements",
+          "short_description": "Problem Statement: Sockstat is a useful FreeBSD utility for displaying active sockets, but its current output format is rigid and lacks flexibility....",
+          "student_name": "Damin Rido J V",
+          "code_url": null,
+          "proposal_id": "wePcTBjE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GuMgVDOs"
+        },
+        {
+          "title": "ACPI Initialization in Loader With Lua Bindings",
+          "short_description": "Intel\u2122\u2019s Advanced Configuration and Power Interface (ACPI) is an industry standard specification that revolutionized power management by putting it...",
+          "student_name": "kpowkitty",
+          "code_url": null,
+          "proposal_id": "SRQZkCjT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vcXeKCzJ"
+        },
+        {
+          "title": "Speed up the FreeBSD boot process",
+          "short_description": "This proposal aims to accelerate FreeBSD\u2019s boot process by using the TSLOG framework to identify and target specific delays. Initial profiling...",
+          "student_name": "Lahiru Gunathilake",
+          "code_url": null,
+          "proposal_id": "O9hDr9Lu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/x8yTB4un"
+        },
+        {
+          "title": "WiFi Management UI",
+          "short_description": "This project aims to build a CLI and TUI utility for easy WiFi and network management on the FreeBSD operating system. The base features for...",
+          "student_name": "Muhammad Saheed",
+          "code_url": null,
+          "proposal_id": "tj5Fn8zg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0MvQZDLg"
+        },
+        {
+          "title": "Implement Journaling for FreeBSD's ext3/4",
+          "short_description": "This project aims to implement Linux-compatible journaling within FreeBSD's ext2fs filesystem driver to address its current lack of journaling...",
+          "student_name": "Pau Sum",
+          "code_url": null,
+          "proposal_id": "C8vIvH1U",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kIeG9hSh"
+        },
+        {
+          "title": "FreeBSD Power Profiling Tool",
+          "short_description": "FreeBSD currently lacks granular power profiling tools, offering only whole-system statistics via ACPI. This makes identifying power-hungry processes...",
+          "student_name": "Sai Kasyap Jannabhatla",
+          "code_url": null,
+          "proposal_id": "d54mNutX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CuSjdaYl"
+        },
+        {
+          "title": "mac_do(4) and mdo(1) improvements",
+          "short_description": "The FreeBSD mac_do(4) and mdo(1) utilities enable controlled transitions of user and group credentials without relying on inherently risky setuid...",
+          "student_name": "thesynthax",
+          "code_url": null,
+          "proposal_id": "sI7FNtEM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gZAnOBRn"
+        },
+        {
+          "title": "Port FreeBSD to QEMU microvm",
+          "short_description": "QEMU microvm is a lightweight virtual machine environment designed to run operating systems quickly with few hardware dependencies. This project aims...",
+          "student_name": "WGeckle80",
+          "code_url": null,
+          "proposal_id": "qpKwAYYx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rd4vVntG"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.freebsd.org/SummerOfCode/IRC",
+  "contact_email": "mailto:soc-admins@FreeBSD.org",
+  "mailing_list": "https://lists.freebsd.org/mailman/listinfo/freebsd-hackers",
+  "ideas_url": "https://wiki.freebsd.org/SummerOfCodeIdeas",
+  "guide_url": "https://www.freebsd.org/projects/summerofcode/",
+  "twitter_url": "https://twitter.com/freebsdfndation",
+  "blog_url": "https://planet.FreeBSD.org/"
+}

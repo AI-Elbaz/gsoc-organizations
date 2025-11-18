@@ -1,0 +1,287 @@
+{
+  "name": "Fedora Project",
+  "url": "https://getfedora.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/fedora-project/shb5orpvxtdcerqq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "metrics",
+    "web development",
+    "realtime messaging",
+    "contributor activity",
+    "community architecture",
+    "community",
+    "linux distribution",
+    "upstream",
+    "desktop",
+    "server",
+    "linux",
+    "containers",
+    "mobile",
+    "distribution",
+    "platform",
+    "ai",
+    "operating system",
+    "LLM",
+    "NetworkManager"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript",
+    "html5",
+    "flask",
+    "linux",
+    "git",
+    "ansible",
+    "postgres",
+    "golang",
+    "rest",
+    "angular",
+    "html",
+    "css",
+    "python 3",
+    "web development",
+    "linux distribution",
+    "bash",
+    "rpm",
+    "security",
+    "Container"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5911585470021632/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Cockpit Project's support for systemd timers",
+          "short_description": "A major component of the Fedora Server is the Cockpit Project, a web-based management console for servers. Systemd provides timer support for system...",
+          "student_name": "Harish Anand",
+          "code_url": "https://medium.com/@harishanand95/gsoc-2016-final-submission-1fb33bbfeb50",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6610383359967232/"
+        },
+        {
+          "title": "OSTree: Drop privileges for HTTP fetches",
+          "short_description": "OSTree currently runs as root while doing all operations, including doing fetches from external repositories over HTTP. But libsoup is not exactly a...",
+          "student_name": "Allan E. Gardner",
+          "code_url": "https://github.com/Mathnerd314/ostree/commits/libsoup-2?author=Mathnerd314",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6747409996578816/"
+        },
+        {
+          "title": "Fedora CommOps - Statistics Automation and Improvements",
+          "short_description": "This project aims at automating the process of statistics gathering and visualization across the entire Fedora Contributor base.",
+          "student_name": "Sachin S Kamath",
+          "code_url": "https://sachinwrites.xyz/2016/08/15/gsoc-final-week/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5233084924428288/"
+        },
+        {
+          "title": "Make pagure adaptable for pkgs.fedoraproject.org",
+          "short_description": "pkgs.fedoraproject.org is a place which hosts about 17k git repos for rpms. Presently, it uses cgit. But, we do have Pagure for hosting git repos....",
+          "student_name": "vivekanand",
+          "code_url": "https://gist.github.com/vivekanand1101/4dbc1f6e55373081c038915dc412e2f0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5642400273793024/"
+        },
+        {
+          "title": "Pagure",
+          "short_description": "I am trying to propose features and improvement in Pagure, which is a code review management system.",
+          "student_name": "Farhaan Bukhsh",
+          "code_url": "https://farhaanbukhsh.wordpress.com/category/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4824862644240384/"
+        },
+        {
+          "title": "Ansible and the Community (or automation improving innovation)",
+          "short_description": "The What\nThe Community Blog is becoming an important part of the Fedora Project. This site is a shared responsibility between CommOps and the...",
+          "student_name": "Justin W. Flory (jflory7)",
+          "code_url": "https://blog.justinwflory.com/2016/08/gsoc-2016-thats-wrap/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4844704050970624/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5870752142196736/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Continuous monitoring system for source code weaknesses",
+          "short_description": "Developing software is a creative activity, and being carried out by humans is subject\nto defects. There are types of defects that can occur in a...",
+          "student_name": "David Silva",
+          "code_url": "http://davidcarlos.me/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5729359134457856/"
+        },
+        {
+          "title": "Patternfly Frontend Pattern Development",
+          "short_description": "The goal of this project is to provide web components to users based on Patternfly patterns.",
+          "student_name": "Sahil Budhwar",
+          "code_url": "https://gist.github.com/sahil143/37b5aadcbb367c392e026e2ca987ebfb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5019142000214016/"
+        },
+        {
+          "title": "Persistent storage for the Fedora Media Writer",
+          "short_description": "Allow any user to keep the changes he does when he's booted into the live system across reboots.",
+          "student_name": "squimrel",
+          "code_url": "https://github.com/MartinBriza/MediaWriter/tree/gsoc2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5019593777086464/"
+        },
+        {
+          "title": "GSOC: Migrate Plinth to Fedora Server",
+          "short_description": "Plinth is a web interface to administer the functions of the FreedomBox which is a Debian based project, and the main goal of this idea is to make it...",
+          "student_name": "Mandy Wang",
+          "code_url": "https://mandywangblog.wordpress.com/2017/08/29/gsoc2017-fedora-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4549753614368768/"
+        },
+        {
+          "title": "Developing administrative tools for 389 Directory Server",
+          "short_description": "The 389 Directory Server is an enterprise class LDAP server, used in businesses globally to authenticate and identify people. A python administration...",
+          "student_name": "Ilias Stamatis",
+          "code_url": "https://iliaswrites.wordpress.com/2017/08/23/final-gsoc-2017-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6108517505171456/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5363354906394624/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improve Fedora Android App - UI/UX Research and Design",
+          "short_description": "Revamp the interface design according to the community standards and craft a better user experience for the Fedora Community application.",
+          "student_name": "Abhishek Sharma",
+          "code_url": "https://communityblog.fedoraproject.org/final-gsoc-report-fedora-app-abhishek-sharma/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5013336076845056/"
+        },
+        {
+          "title": "Complete support for OpenShift and Kubernetes as a backend in conu",
+          "short_description": "Complete support for OpenShift and Kubernetes as a backend in conu",
+          "student_name": "Radoslav Pito\u0148\u00e1k",
+          "code_url": "https://gist.github.com/rpitonak/3c6d068587db56fba0f36eaa33a0d946",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5118889193111552/"
+        },
+        {
+          "title": "Fedora IoT: Atomic Host Upgrade Daemon",
+          "short_description": "Fedora IoT effort is the latest of Fedora\u2019s objectives. Its goal is to \u201ccreate a Fedora Edition for Internet of Things, which will make Fedora the...",
+          "student_name": "Christian Glombek",
+          "code_url": "https://medium.com/@c.glombek/fedora-iot-gsoc-2018-final-report-c7a048dc8e80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4521532860661760/"
+        },
+        {
+          "title": "Improve Fedora Android App - Backend",
+          "short_description": "Fedora has an android app which lets a user browse Fedora Magazine, Fedora Ask, Fedocal etc within it. This app is build using the Ionic Framework,...",
+          "student_name": "Amitosh Swain Mahapatra",
+          "code_url": "https://communityblog.fedoraproject.org/gsoc-project-report-improve-fedora-app-backend-amitosh/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4833700277649408/"
+        },
+        {
+          "title": "Fedora Happiness Packets",
+          "short_description": "Happiness Packets encourages and makes it easier for people to send positive feedback to their peers (anonymously if they like). This project extends...",
+          "student_name": "Anna Philips",
+          "code_url": "https://github.com/Algogator/gsoc-2018/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4867441540726784/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6739854375780352/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "SECCOMP profile generation tool for Podman",
+          "short_description": "Most containers currently have a hard-coded default seccomp profile, that is pretty loose and meant to support a wide range of use-cases. The idea of...",
+          "student_name": "Divyansh Kamboj",
+          "code_url": "https://github.com/containers/libpod/pull/3576",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5713938757451776/"
+        },
+        {
+          "title": "Fedora Gooey Karma",
+          "short_description": "This is a GUI client for the fedora QA team for rating updates.",
+          "student_name": "iamzub.in",
+          "code_url": "https://pagure.io/fork/imzubin/fedora-qa/fedora-gooey-karma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5536599557799936/"
+        },
+        {
+          "title": "Release-bot",
+          "short_description": "Release-bot helps upstream maintainers deliver their software to users, via automated releases at GitHub and PyPI. However, release-bot can be...",
+          "student_name": "Marek Marusin",
+          "code_url": "https://gist.github.com/marusinm/deeb1525a6b0e9f55fbaf0708ead48c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6130997261762560/"
+        },
+        {
+          "title": "CentOS CI User Frontend",
+          "short_description": "This project involves building a webapp to replace the current user onboarding flow for centos.ci.org",
+          "student_name": "Shaily",
+          "code_url": "https://gist.github.com/shailysangwan/45be317b9dc18c14397393f4f0a8bd63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6039512663195648/"
+        },
+        {
+          "title": "Change Management Tool",
+          "short_description": "A tool for the Managers and the contributors to proposal/edit/approve changes as per fedoras change process.",
+          "student_name": "P23",
+          "code_url": "https://www.pagure.io/fedora-change-wrangler/pull-request/55",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5930916881367040/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6477554824773632/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improve Network Linux System Role",
+          "short_description": "Linux System Roles is a project related to Ansible, a tool for automating configuration management, application deployment and software provisioning....",
+          "student_name": "Elvira Garc\u00eda Ruiz",
+          "code_url": "https://www.elviragruiz.net/2020/08/27/summer-contributions.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5685900949848064/"
+        },
+        {
+          "title": "Packit with Gitlab",
+          "short_description": "Packit (https://packit.dev/) project has native support exclusively for GitHub now. There were numerous requests from the community to add support...",
+          "student_name": "Shreyas Papinwar",
+          "code_url": "https://medium.com/@spapinwar/gsoc-gitlab-support-in-packit-service-fedora-54df1024b176?source=friends_link&sk=9d0c762fed57ba8870bd917aecfe40bc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5734966790455296/"
+        },
+        {
+          "title": "Dashboard for Packit",
+          "short_description": "Packit-as-a-Service is a GitHub App that helps developers continuously ensure that their project\nworks in Fedora. Packit Service validates pull...",
+          "student_name": "Anchit",
+          "code_url": "https://gist.github.com/IceWreck/878bc52d13b13ebf49f7adf1e7fefe89",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5109625826836480/"
+        },
+        {
+          "title": "Implementing varlink support to nmstate",
+          "short_description": "Nmstate is a python library with command line tool that manages host networking settings in a declarative manner. This project aims to bring varlink...",
+          "student_name": "Arunagrinadan Sudharshan",
+          "code_url": "https://sudhanaruna.github.io/fedora/gsoc/nmstate/summer-coding/2020/08/25/GSoC-2020-Work-Product-Submisson.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6499043116580864/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/fedora-project",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Create a service to get a new project to Fedora more easily",
+          "short_description": "Build a service to simplify the process of onboarding new packages to Fedora with a pull-request based workflow that integrates seamlessly with...",
+          "student_name": "Mayank_Singh",
+          "code_url": null,
+          "proposal_id": "fZIYqSN4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/L1vTOizh"
+        },
+        {
+          "title": "\"ExplainMyLogs: An AI-Powered Natural Language Log Analyzer for DevOps and Infrastructure Debugging\"",
+          "short_description": "Understanding the structure of large codebases is a key challenge for developers, especially in open source projects with complex service...",
+          "student_name": "Tanvi Ruhika",
+          "code_url": null,
+          "proposal_id": "Mo8sBtMQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hiavWdHr"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://web.libera.chat/?channels=fedora-summer-coding",
+  "contact_email": "mailto:summer-coding@lists.fedoraproject.org",
+  "mailing_list": "https://discussion.fedoraproject.org/tag/mentored-projects",
+  "ideas_url": "https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/ideas/",
+  "guide_url": "https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2025/application/#_google_summer_of_code_application_and_supplemental_material_requirements",
+  "twitter_url": "https://twitter.com/fedora",
+  "blog_url": "https://communityblog.fedoraproject.org/"
+}

@@ -1,0 +1,193 @@
+{
+  "name": "TEAMMATES @ National University of Singapore",
+  "url": "https://github.com/teammates/teammates",
+  "image_url": "https://lh3.googleusercontent.com/265HE7VM0Yah8cmmoSVdkm9wRTOJem65VxSrT_0SXfgcgtHYdkeHt0qji7xc-_9N4xYYB1TAwBC-hjKFqt3UJ7m4N7llGA",
+  "image_background_color": "#000000",
+  "category": "Web",
+  "topics": [
+    "education",
+    "web development",
+    "cloud",
+    "learning management",
+    "software as a service",
+    "webapps",
+    "peer feedback",
+    "saas",
+    "web applications",
+    "teaching"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "html",
+    "css",
+    "google app engine",
+    "java ee"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5837196636454912/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "AutoComplete ComboBox for Panel's Filter, Interactive Tutorial and GUI Filter Expression Generator",
+          "short_description": "In this proposal, 3 features will be proposed. All proposed feature are based on the needs for user to key in the panel filter faster and easier.\nThe...",
+          "student_name": "YL",
+          "code_url": "https://github.com/HubTurbo/addressbook/pulls?utf8=%E2%9C%93&q=%20is%3Apr%20author%3Ayl-coder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6359480765775872/"
+        },
+        {
+          "title": "Email Customizer and Rich-text support",
+          "short_description": "Proposal is based on two project ideas:\n\nNotification engine for sending custom emails choosing re-usable templates with variables support\nRich-text...",
+          "student_name": "Serhii Beliablia",
+          "code_url": "https://github.com/TEAMMATES/teammates/pulls?page=1&q=is%3Aclosed+author%3Abelyabl9+is%3Apr+label%3As.MergeApproved",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6428000794968064/"
+        },
+        {
+          "title": "Report + And Question +",
+          "short_description": "I am willing to devote extra time if required to complete this project. I am much familiar with the TeamMates working flow . And I am always willing...",
+          "student_name": "Tarun kumar yadav",
+          "code_url": "https://github.com/TEAMMATES/teammates/commits/master?author=tarun14110",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4607451131281408/"
+        },
+        {
+          "title": "Usability Hero: Rethinking the UI/UX",
+          "short_description": "TEAMMATES has many features and customization that can be better delivered to the users by:\n\nHiding advanced options behind commonly used defaults...",
+          "student_name": "YongJie",
+          "code_url": "https://github.com/TEAMMATES/teammates/commits/master?author=YongJieYongJie",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4828703955615744/"
+        },
+        {
+          "title": "Project Proposal - Reports+ in TEAMMATES -GSoC 2016",
+          "short_description": "In this proposal, I discuss my approach on improving the existing reporting platform with more data formats to download, with more visualizations and...",
+          "student_name": "rclakmal",
+          "code_url": "https://github.com/TEAMMATES/teammates/commits/master?author=rclakmal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6544904167620608/"
+        },
+        {
+          "title": "HubTurbo -- Usability Hero",
+          "short_description": "Why me?\n\nI already have multiple contributions to HubTurbo.\nI have experience building software alone and with others.\nManaged to maintain high...",
+          "student_name": "Yijin",
+          "code_url": "https://github.com/HubTurbo/addressbook/pulls?q=is%3Apr+author%3AYijinL",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5937087375212544/"
+        },
+        {
+          "title": "Sessions + (Customisable Feedback Paths)",
+          "short_description": "This proposal outlines the steps that I plan to take in order to enhance the customization of the Sessions feature. It explores a possible approach...",
+          "student_name": "Josephine",
+          "code_url": "https://drive.google.com/open?id=1FdiyiDfSav8ZuXODaDhiycjGcf4_r0_huyZYYTNQlp4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6312019766542336/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5786366906466304/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "addressbook-level5",
+          "short_description": "Adding new features to addressbook so that it can be more useful for CS2103T students morphing it for their own project.",
+          "student_name": "Wang Leng Tan",
+          "code_url": "https://gist.github.com/yamgent/66b2fc950624a42f44de4c4c8febbc0e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6358234956824576/"
+        },
+        {
+          "title": "Keeping PowerPointLabs Well-maintained and Updated",
+          "short_description": "PowerPointLabs is used by people around the world, and is being developed and maintained by students\nof National University of Singapore. These...",
+          "student_name": "Ong Heng Le",
+          "code_url": "https://github.com/PowerPointLabs/PowerPointLabs/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ainitialshl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6467332226416640/"
+        },
+        {
+          "title": "Performance Hero",
+          "short_description": "Improve the performance and scalability of TEAMMATES.\n\nMigrate Storage component to Objectify API\nRewrite entire Storage layer to use Objectify...",
+          "student_name": "John Yong",
+          "code_url": "https://github.com/TEAMMATES/teammates/pulls?q=is%3Amerged+author%3Awhipermr5+created%3A%3E%3D2017-05-01",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6719712557793280/"
+        },
+        {
+          "title": "Usability Hero+ Project",
+          "short_description": "My project involves fixing UI issues across the entire TEAMMATES platform, including overhauling the instructor help page, allowing respondents to...",
+          "student_name": "Hirday Gupta",
+          "code_url": "https://docs.google.com/document/d/10XdyCFbZdFVgbVp57zFCiidqaY8i7pQ4GNPpekLHu1s/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5117863836778496/"
+        },
+        {
+          "title": "Reports enhancement",
+          "short_description": "As part of this project, I want to add support for more variety of formats both for downloading data and for importing data into Teammates. Also, I...",
+          "student_name": "Taras Sakharchuk",
+          "code_url": "https://github.com/TEAMMATES/teammates/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3ALimeTheCoder%20is%3Aclosed%20review%3Aapproved%20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4681153306951680/"
+        },
+        {
+          "title": "Student Data UI upgrade",
+          "short_description": "The project aims to provide a hassle-free solution to the process of enrolling the student in a course by the instructor and provide end-users with a...",
+          "student_name": "Amar Prakash Pandey",
+          "code_url": "https://docs.google.com/document/d/1wUg9DApb9mRLFJRm8jbuRQwFidoAOmNMoaF7TbOPnGk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4943619295281152/"
+        },
+        {
+          "title": "Comments+",
+          "short_description": "This project enhances current comments feature being used in the application, by implementing features :-1) Allowing student to submit their...",
+          "student_name": "Mayank Harsani",
+          "code_url": "https://docs.google.com/document/d/1hgjNYJkb3Y4Lt0Zkr8b7o_mNLd9tewsi4Rbq5hMUYKQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5890064596860928/"
+        },
+        {
+          "title": "Questions+",
+          "short_description": "Improving the existing question types by implementing the most demanded improvements is the sole focus of the project. The project does not focus on...",
+          "student_name": "Vamsi Sangam",
+          "code_url": "https://gist.github.com/VamsiSangam/01a368256e8fb98c0a588a039e5527cc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5920919641915392/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6265117784145920/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Usability Hero",
+          "short_description": "The aim of the project is to improve the usability aspect of TEAMMATES. In particular, tweak the UIs to prevent regular users being overwhelmed with...",
+          "student_name": "Mudit Gupta",
+          "code_url": "https://github.com/TEAMMATES/gsoc-2018/blob/master/Mudit_Gupta/progress.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6419035990261760/"
+        },
+        {
+          "title": "Comments for Responses",
+          "short_description": "The project enhances the current implementation of the comment feature.\nFeatures to consider:\n\nAbility for respondents to add comments for their own...",
+          "student_name": "Nidhi Gupta",
+          "code_url": "https://github.com/TEAMMATES/gsoc-2018/blob/master/Nidhi_Gupta/progress.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4991899291090944/"
+        },
+        {
+          "title": "Questions+",
+          "short_description": "My project concentrates on adding more features to existing question types. \nThese features are:\n\nAdd weight feature for MCQ questions\nAdd weight...",
+          "student_name": "Sukanta Roy",
+          "code_url": "https://github.com/TEAMMATES/gsoc-2018/blob/master/Sukanta_Roy/progress.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5092346496548864/"
+        },
+        {
+          "title": "Coverage Boost - Java & JavaScript",
+          "short_description": "This project aims to improve the testing and coverage of TEAMMATES\nOverview of Project:\n\nReduce Technical Debt (Upgrade to Selenium 3.x)\nExplore new...",
+          "student_name": "Shradheya Thakre",
+          "code_url": "https://github.com/TEAMMATES/gsoc-2018/blob/master/Shradheya_Thakre/progress.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4947811049144320/"
+        },
+        {
+          "title": "Coverage Boost (Java) & Recycle Bin",
+          "short_description": "This is a TEAMMATES project proposal designing solutions for increasing the coverage of Java code and implementing Recycle Bin feature. The detailed...",
+          "student_name": "Sun Shengran",
+          "code_url": "https://github.com/TEAMMATES/gsoc-2018/blob/master/Sun_Shengran/progress.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5128177126998016/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/teammates/teammates#contacting-us",
+  "contact_email": "mailto:teammates@comp.nus.edu.sg",
+  "mailing_list": "https://github.com/TEAMMATES/teammates#contacting-us",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://teammatesonline.blogspot.sg/"
+}

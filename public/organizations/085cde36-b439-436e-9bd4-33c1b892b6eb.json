@@ -1,0 +1,42 @@
+{
+  "name": "Flashrom",
+  "url": "https://www.flashrom.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/flashrom/lbs8lwrrtukrpznk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "hardware",
+    "drivers",
+    "firmware",
+    "flash chips",
+    "low level programming"
+  ],
+  "technologies": [
+    "c",
+    "x86",
+    "bios",
+    "rom",
+    "spi"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/flashrom/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "GSoC Project Proposal for Flashrom",
+          "short_description": "The write operation in flash can only change bits in a specific way and the erase operation changes all the bits of a block to 1s. So to modify any...",
+          "student_name": "Aarya",
+          "code_url": "https://blogs.coreboot.org/blog/2022/09/08/gsoc-optimize-erase-function-selection-wrap-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/upN80V5b/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.flashrom.org/Contact",
+  "contact_email": "flashrom@flashrom.org",
+  "mailing_list": "https://www.flashrom.org/Contact",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/flashrom_org"
+}

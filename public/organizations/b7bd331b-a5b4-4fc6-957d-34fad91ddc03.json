@@ -1,0 +1,270 @@
+{
+  "name": "Gentoo Foundation",
+  "url": "https://www.gentoo.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gentoo-foundation/lmavef6x2gwpske4-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "virtualization",
+    "operating systems",
+    "security",
+    "linux",
+    "embeddded",
+    "embedded",
+    "operating system",
+    "package management",
+    "embedded systems",
+    "init systems",
+    "application security",
+    "init",
+    "automation",
+    "package"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "perl",
+    "shell script",
+    "sql",
+    "shell",
+    "linux",
+    "bash",
+    "linux kernel"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6575198987878400/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Gentoo Keys Improvements and the new MetaManifest system",
+          "short_description": "Gentoo-GPG is a python-based project that allows the user/developer to encrypt and sign their data and communications and ensuring integrity of...",
+          "student_name": "aeroniero",
+          "code_url": "https://blogs.gentoo.org/gsoc2016-gentoo-gpg/2016/08/17/gentoo-gpg-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5407654004391936/"
+        },
+        {
+          "title": "Continuous stabilization of Gentoo Packages",
+          "short_description": "Gentoo is an operating system with extreme focus on configurability and performance. To provide fully customizable experience, without interfering...",
+          "student_name": "Pallav Agarwal",
+          "code_url": "http://orca.varstack.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5432994848309248/"
+        },
+        {
+          "title": "libebuild",
+          "short_description": "The purpose of this project is to provide a shared and well-tested implementation of parsing package atoms and related support for pkgcore -...",
+          "student_name": "den4ix",
+          "code_url": "https://blogs.gentoo.org/gsoc2016-libebuild/2016/08/20/final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6172897454325760/"
+        },
+        {
+          "title": "Bring Native Clang Support to Gentoo",
+          "short_description": "Clang is a C/C++/Obj-C compiler spawned from the LLVM project, famous for its modular design, rich diagnostic messages, non-intrusive license, etc....",
+          "student_name": "zlei",
+          "code_url": "https://blogs.gentoo.org/gsoc2016-native-clang/2016/08/17/gsoc-2016-code-submission-status/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4881556212547584/"
+        },
+        {
+          "title": "kernelconfig",
+          "short_description": "Automated creation of kernel configuration files from curated sources, detected hardware, installed packages and user input.",
+          "student_name": "erdmanae",
+          "code_url": "https://github.com/dywisor/kernelconfig/commits/master?author=dywisor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4931016787492864/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6287928489672704/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "A utility to manage packages in overlays",
+          "short_description": "A utility is proposed to semi-automatically import ebuilds with deps from various sources (with subsequent management and updates) atomically to a...",
+          "student_name": "Mykyta Holubakha",
+          "code_url": "https://github.com/Hummer12007/pomu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5494929350459392/"
+        },
+        {
+          "title": "Gentoo Stateless Environment",
+          "short_description": "A stateless system based on Gentoo, which aims on making the maintenance of multiple machines easier, improve stability and usability on environments...",
+          "student_name": "Christo Kotsi",
+          "code_url": "https://github.com/ulfox/GSE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5364183029776384/"
+        },
+        {
+          "title": "kernel live patch - automatically check and live patching the Kernel",
+          "short_description": "I propose an utility to semi-automatically check the kernel for known security vulnerabilities and live patch the kernel if there is a security risk...",
+          "student_name": "Alice Ferrazzi",
+          "code_url": "https://wiki.gentoo.org/wiki/Elivepatch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5844756315766784/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5172443744305152/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Portage powered Android",
+          "short_description": "Current Android system upgrade procedures usually fall into the following two categories, with inconvenience respectively:\n\ncomplete upgrades, which...",
+          "student_name": "Pengcheng Xu",
+          "code_url": "https://jsteward.moe/gsoc-2018-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5384358705758208/"
+        },
+        {
+          "title": "Full rust support",
+          "short_description": "The project aims at making Rust a first class citizen in Gentoo.",
+          "student_name": "gibix",
+          "code_url": "https://gibix.github.io/category/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4581421884637184/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4508206280212480/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "A new framework in support of multiple MPI implementations",
+          "short_description": "There are numerous MPI implementations in the Gentoo portage tree and far more in general, but most of them can't be installed together as is. The...",
+          "student_name": "Jian Cao",
+          "code_url": "https://github.com/swordencao/gentoo-mpi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4809791166218240/"
+        },
+        {
+          "title": "BLAS and LAPACK runtime switching",
+          "short_description": "Abstract Classical numerical linear algebra libraries, BLAS and LAPACK play important roles in the scientific computing field. Various demands on...",
+          "student_name": "Mo Zhou",
+          "code_url": "https://wiki.gentoo.org/wiki/Blas-lapack-switch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6513450073718784/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4837823317803008/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Big Data Infrastructure by Gentoo",
+          "short_description": "The big data infrastructures depend heavily on the Java virtual machine ecosystem.\nAlthough Java software packaging is quite simple and...",
+          "student_name": "Zongyu Zhang",
+          "code_url": "https://blog.kyouka.moe/post/big-data-infra/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5562637166837760/"
+        },
+        {
+          "title": "Portage Powered Android",
+          "short_description": "The current state of upgrading Android requires flashing block-level upgrade packages for even the most meager of system upgrades. As technology has...",
+          "student_name": "Gunwant Jain",
+          "code_url": "https://wantguns.gitlab.io/blog/gsoc2020/final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5635053368901632/"
+        },
+        {
+          "title": "FUSE-powered sandbox",
+          "short_description": "The sandbox currently used in the Portage package system hooks up writes to the file system by using LD_PRELOAD, but this method has a drawback. This...",
+          "student_name": "Kaoru Esashika",
+          "code_url": "https://github.com/pluser/fusebox",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5953155826712576/"
+        },
+        {
+          "title": "Porting Relibc to Gentoo",
+          "short_description": "Relibc is a libc implementation for both that supports both linux kernel and redox kernel. Unlike most of the currently available libc...",
+          "student_name": "oddcoder",
+          "code_url": "https://oddcoder.com/GSOC-End/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6313550424834048/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4842426950221824/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Catalyst Crosscompiling and Revamp",
+          "short_description": "Allow cross-compiling Gentoo stages and boot media for other architectures in a robust manner, with increased security and reliability. This will be...",
+          "student_name": "Mark Joseph Kuebel",
+          "code_url": "https://github.com/pandather/catalyst-containerized",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5675291506114560/"
+        },
+        {
+          "title": "Expanded and Enhanced Big Data Infrastructure on Gentoo",
+          "short_description": "This project strives to support distribution of libraries for large-scale data processing and computation on Gentoo Linux. In particular, it will...",
+          "student_name": "Leo Liao",
+          "code_url": "https://leo3418.github.io/2021/08/22/gsoc-final-work-products.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5162433018068992/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gentoo-foundation/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Refining ROCm Packages in Gentoo",
+          "short_description": "ROCm open software platform, mostly serves as the famous \u201cCUDA toolkit\u201d for AMD GPUs, brings an open source solution for HPC/Hyperscale-class GPU...",
+          "student_name": "littlewu2508",
+          "code_url": "https://blogs.gentoo.org/gsoc/2022/09/12/refining-rocm-packages-in-gentoo-project-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1FBgf6GY/"
+        },
+        {
+          "title": "Gentoo musl support expansion",
+          "short_description": "This project is about porting the KDE Plasma desktop to run with the musl libc implementation. Many libraries and applications use \"glibc-isms\" and...",
+          "student_name": "Catcream",
+          "code_url": "https://blogs.gentoo.org/gsoc/about-me-cc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VHLSsFnI/"
+        },
+        {
+          "title": "RISC-V support for Gentoo Prefix",
+          "short_description": "RISC-V is an emerging open standard instruction set architecture that can be used to build hardware without paying royalties. Gentoo Prefix develops...",
+          "student_name": "Atharva Amritkar",
+          "code_url": "https://github.com/wiredhikari/prefix_on_riscv/blob/main/docs/final_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/G31xdfg1/"
+        },
+        {
+          "title": "Musl support expansion to support GNOME desktop",
+          "short_description": "The goal of this project is to get a full GNOME desktop installed and work with musl, which Gentoo provides as the drop-in alternative for Glibc, the...",
+          "student_name": "listout",
+          "code_url": "https://blogs.gentoo.org/gsoc/listouts-gsoc-2022-final-work-products/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3beG7bmh/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gentoo-foundation",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Bootstapping Gentoo with The LLVM C Library",
+          "short_description": "The goal of this project is to get a Gentoo Linux system running with LLVM libc in fullbuild mode as the system libc. The biggest hurdle here will be...",
+          "student_name": "Catcream",
+          "code_url": "https://blogs.gentoo.org/gsoc/about-me-cc/",
+          "proposal_id": "Ly2LS8rx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ho8CVwCn"
+        },
+        {
+          "title": "Automated Gentoo System Updater",
+          "short_description": "The project is about creating a tool that automatically updates Gentoo Linux. It will handle errors and send upgrade reports containing news and...",
+          "student_name": "LabBrat",
+          "code_url": "https://blogs.gentoo.org/gsoc/2023/08/27/final-report-automated-gentoo-system-updater/",
+          "proposal_id": "7qNTFKjw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GeVkDHOA"
+        },
+        {
+          "title": "Modern C porting of Gentoo packages",
+          "short_description": "Back in 1999, a new revision of the C standard removed several backward compatibility features. However, GCC still accepts these obsolete constructs...",
+          "student_name": "listout",
+          "code_url": "https://blogs.gentoo.org/gsoc/listouts-gsoc-2023-final-work-products/",
+          "proposal_id": "EpyoUo7b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/fqBdIIWX"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://web.libera.chat/?channels=#gentoo-soc",
+  "contact_email": "mailto:gentoo-soc@lists.gentoo.org",
+  "mailing_list": "gentoo-soc@lists.gentoo.org ",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/gentoo",
+  "blog_url": "http://planet.gentoo.org/"
+}

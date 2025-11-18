@@ -1,0 +1,42 @@
+{
+  "name": "Frescobaldi",
+  "url": "http://frescobaldi.org",
+  "image_url": "https://lh3.googleusercontent.com/IRUCAU_NRRzhF33TmMt5o1k7eDlbSlcyfF59CwLJABUgeFMCXGAbRmVtozRAHmQu4xtz9T2H8Y0J2m1dJZlSpj7gHlWfU_sp",
+  "image_background_color": "#FFB",
+  "category": "End user applications",
+  "topics": [
+    "music engraving"
+  ],
+  "technologies": [
+    "python",
+    "pyqt"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4597892144693248/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Frescobaldi Export to MusicXML",
+          "short_description": "Frescobaldi is an awesome software to write and manipulate music sheets using Lilypond notation. However, it fails in (properly) providing a really...",
+          "student_name": "Felippe Roza",
+          "code_url": "https://github.com/wbsoft/frescobaldi/wiki/GSoC-2017:-MusicXML-Export",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6407706269188096/"
+        },
+        {
+          "title": "Proposal for Add Support for Version Control (Git)",
+          "short_description": "Inside this proposal, I introduce my project goals of GSoC 2017 and bring out a tentative timeline to achieve them.  To make sure I can finish it in...",
+          "student_name": "Xin Wen",
+          "code_url": "https://github.com/wbsoft/frescobaldi/wiki/GSoC-2017:-Git-Support-(final-report)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6285598469914624/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@frescobaldi.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/frescobaldi",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://lilypondblog.org/?s=frescobaldi"
+}

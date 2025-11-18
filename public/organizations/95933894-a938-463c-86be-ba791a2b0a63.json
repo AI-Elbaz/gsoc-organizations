@@ -1,0 +1,63 @@
+{
+  "name": "Forschungszentrum J\u00fclich",
+  "url": "https://fz-juelich.de/en",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/forschungszentrum-julich/lpw2snlqeq5bopxq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "neuroscience",
+    "data analytics",
+    "astrophysics",
+    "data-intensive science",
+    "earth-system monitoring"
+  ],
+  "technologies": [
+    "python",
+    "mpi",
+    "high performance computing",
+    "pytorch",
+    "gpu"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/forschungszentrum-julich/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Python array API standard compatibility",
+          "short_description": "Heat is a Python library for high-performance data analytics. It gives users access to multi-node processing and GPU support by seamlessly replacing...",
+          "student_name": "Neo Sun Han",
+          "code_url": "https://gist.github.com/neosunhan/2e679b370c5323b9993e4113447aaecd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2nuoxhoE/"
+        },
+        {
+          "title": "RFI Mitigation",
+          "short_description": "This project explores the use of image analysis in a two-dimensional spectrum to detect RFI (Radio Frequency Interference) in large amounts of...",
+          "student_name": "Pratham Shah",
+          "code_url": "https://gist.github.com/shahpratham/73478f6f26873fe2f10c4446e3ab89d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lPOgRLTX/"
+        },
+        {
+          "title": "Interactive benchmarking analysis via Ginko Performance Explorer",
+          "short_description": "HeAT, an array-based numerical programming framework for large-scale parallel processing with an easy-to-use NumPy-like API. HeAT utilizes PyTorch as...",
+          "student_name": "Tewodros Mesfin",
+          "code_url": "https://gist.github.com/tewodros18/d8fba548d96d9595675e6fc35f6a8999",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Q4Fi1QO2/"
+        },
+        {
+          "title": "Memory-Distributed Singular value decomposition.",
+          "short_description": "The major goal of the project is to develop a distributed SVD algorithm that is both efficient and numerically stable in Heat. This will be a major...",
+          "student_name": "V. Sai Suraj",
+          "code_url": "https://medium.com/@manosaisuraj12/gsoc22-work-product-submission-86deaf5058ba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Jyluo9Me/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://mattermost.hzdr.de/signup_user_complete/?id=3sixwk9okpbzpjyfrhen5jpqfo",
+  "contact_email": "b.hagemeier@fz-juelich.de",
+  "mailing_list": "https://github.com/helmholtz-analytics/heat/discussions/919",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://github.com/helmholtz-analytics/heat/blob/main/README.md"
+}

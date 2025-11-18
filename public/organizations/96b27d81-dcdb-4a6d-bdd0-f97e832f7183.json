@@ -1,0 +1,111 @@
+{
+  "name": "OpenMined",
+  "url": "https://www.openmined.org/",
+  "image_url": "https://lh3.googleusercontent.com/_Bu5iadg0zeGl4k9_uMq0GXWovTyDcQIX8v0cyiXuYpRCxPkjneUSJSngzzQChyInMexi2Urv3a1kIP1pGyvfkGf-uK-6J56-AEzRkETR4Mx",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "privacy",
+    "artificial intelligence",
+    "encrypted computation",
+    "federated learning",
+    "structured transparency",
+    "differential privacy"
+  ],
+  "technologies": [
+    "deep learning",
+    "federated learning",
+    "homomorphic encryption",
+    "secure multi-party computation",
+    "differential privacy",
+    "python",
+    "javascript",
+    "rust",
+    "pytorch",
+    "hyperledger aries"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5934410743939072/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Performing a security audit on privacy-preserving, distributed learning methodologies running on PyGrid with respect to GDPR requirement.",
+          "short_description": "In order to bridge the gap between industry and  new technology, this project will supply governance models which are relevant to Privacy-Preserving...",
+          "student_name": "Afzaal Hussain",
+          "code_url": "https://docs.google.com/document/d/1CSkR1_8zPhfDv04CdoM_JHySjWTudZrj7mpnJUafPiw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6701336747311104/"
+        },
+        {
+          "title": "Wrap Open-License Zero-Knowledge Proof Library",
+          "short_description": "Zero-knowledge proofs have an important role to play in the future of verified machine learning prediction. However, no deep learning framework has...",
+          "student_name": "ArchitG",
+          "code_url": "https://gargarchit.github.io/blogs/Blogs/GSoC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5514052765220864/"
+        },
+        {
+          "title": "Implement Auto-Scaling of PyGrid servers on Google Cloud",
+          "short_description": "The audience of PySyft largely consists of people who would like to train their model on private data that reside on other devices/locations.\nRight...",
+          "student_name": "Anshuman Singh.",
+          "code_url": "https://gist.github.com/rimijoker/115d2dbb8e9788df851c8073b38c216b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4616538818084864/"
+        },
+        {
+          "title": "Implement Fan-Vercauteren Homomorphic Encryption Scheme in PySyft",
+          "short_description": "FV (Fan-Vercauteren) Homomorphic Encryption scheme is one of the leading approaches in homomorphic encryption. Homomorphic encryption is a form of...",
+          "student_name": "Ravikant Singh",
+          "code_url": "https://gist.github.com/IamRavikantSingh/4ca4605c1443c5d497a8eab0e326c865",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6077002718642176/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5769029704220672/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implement FALCON: Honest-Majority Maliciously Secure Framework for Private Deep Learning in SyMPC",
+          "short_description": "FALCON is the current state-of-the-art Multiparty Computation (MPC) Framework for Private-Deep Learning(PDL).MPC allows mutually distrusting parties...",
+          "student_name": "Rasswanth S",
+          "code_url": "https://gist.github.com/rasswanth-s/8ad17165611009da32960153cfb97423",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6692283189035008/"
+        },
+        {
+          "title": "Integrating scikit-learn into Syft",
+          "short_description": "Openmined's Syft library provides an infrastructure for computing on data you do not own and cannot see. It allows data scientists to work with data...",
+          "student_name": "Param Mirani",
+          "code_url": "https://gist.github.com/Param-29/7fb8fed73d0a9d9f16963baf7f2c3229",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6749856554549248/"
+        },
+        {
+          "title": "Integrating NumPy into PySyft",
+          "short_description": "A project to integrate NumPy, the leading package for scientific computations, into PySyft, a library for answering questions with data you cannot...",
+          "student_name": "Aditi Verma",
+          "code_url": "https://gist.github.com/stoic-signs/27590fd3538a37842f2ac4483f4ee9bd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5647180206964736/"
+        },
+        {
+          "title": "Integrating Pandas into Syft",
+          "short_description": "The Syft ecosystem allows one to write software that can compute over information you do not own on machines you do not have (total) control over....",
+          "student_name": "arpitvaghela",
+          "code_url": "https://gist.github.com/arpitvaghela/90374b4913885f1269324c6ec33cd041",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5422186466115584/"
+        },
+        {
+          "title": "High Performance Data Channel for Duet",
+          "short_description": "This project aims at firstly, investigating the performance of the current implementations against its alternatives at various levels of data...",
+          "student_name": "vsquareg",
+          "code_url": "https://gist.github.com/vsquareg/e05b40b4dcb7c95778a6351f3158b267#file-gsoc-2021-final-evaluation-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6310959919923200/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.openmined.org/",
+  "contact_email": "mailto:contact@openmined.org",
+  "mailing_list": "https://www.openmined.org/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/openminedorg?lang=en",
+  "blog_url": "https://blog.openmined.org/"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Copyleft Games",
+  "url": "https://www.copyleftgames.org/",
+  "image_url": "https://lh3.googleusercontent.com/uFYWvVcwmuONpfYFZKxGmQzJiernnb7qI1Eynt9CuNDiB0NJu4-lSUgN3JcKHc9B7_vpgJ2Wwa0CLUTe_ZAtty5I6pCGBURc",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "developer tools",
+    "education",
+    "web",
+    "graphics",
+    "networking"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "opengl",
+    "javascript",
+    "xmpp"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5222096653254656/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Integrated Development Environment for PySoy",
+          "short_description": "I would like to work on developing an Integrated Development Environment (IDE) for PySoy. The aim of the IDE is to provide all the features of a text...",
+          "student_name": "icodemachine",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ILOKveltziHY5NRH98Cec_y8K8E-TAGruz9cvqR4aGI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4665476944756736/"
+        },
+        {
+          "title": "Vox.GL Bootstrap",
+          "short_description": "Currently Vox.GL offers the potential to bring a new generation of children into programming, building on the dynamic nature offered by voxel systems...",
+          "student_name": "modwizcode",
+          "code_url": "https://docs.google.com/document/d/1go_XqbNDlfU4K4CzzUkEoK8yfOQfa1tILhVPtOls7S8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5137226757308416/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6180004551458816/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Shadow Rendering",
+          "short_description": "PySoy is a game creation engine where the aim is to give a remarkeable easy-to-use library to the developers compared to other game engines in the...",
+          "student_name": "Abdeselam El-Haman",
+          "code_url": "http://abdulito.me/blog/2017/08/29/gsocfinal/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5660792934367232/"
+        },
+        {
+          "title": "A 3-D sidescroller game with physics based gameplay to show off the rendering and physics engine of PySoy",
+          "short_description": "I propose developing a 3-D sidescroller with physics based gameplay to show off the rendering and physics engine of PySoy. The player has a crystal...",
+          "student_name": "Alexander Baselice",
+          "code_url": "https://bitbucket.org/alexbase/sidescroller/src",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5352771033235456/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gsoc.copyleftgames.org/",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

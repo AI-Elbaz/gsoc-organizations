@@ -1,0 +1,1077 @@
+{
+  "name": "Zulip",
+  "url": "https://zulip.com/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/zulip/sx5ruvwv6nyugbk7-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "full stack web and mobile",
+    "group chat",
+    "high quality codebase",
+    "web development",
+    "mobile applications",
+    "cross-platform",
+    "enterprise",
+    "visual design",
+    "team chat",
+    "mobile",
+    "great developer tooling",
+    "chat",
+    "bots",
+    "teaching quality codebase",
+    "integrations"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "django",
+    "android",
+    "ios",
+    "react native",
+    "electron",
+    "typescript",
+    "css",
+    "flutter"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6118671613165568/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Overhauling Zulip website\u2019s UX to handle large teams",
+          "short_description": "To improve existing features and add new features, to create a more robust and agile version of web version of Zulip which can handle large teams. A...",
+          "student_name": "Kartik Maji",
+          "code_url": "https://docs.google.com/spreadsheets/d/1424l1dmlXpKeb5KHjcnfGU4UI_lC_3BV_N9aPE49viQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4655392361545728/"
+        },
+        {
+          "title": "Zulip Android Application Rebuild",
+          "short_description": "The current android version of Zulip is little bit outdated and has some performance issues as well as it is using the old libraries. I will...",
+          "student_name": "kunall17",
+          "code_url": "http://kunall17.github.io/gsoc/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5843869405020160/"
+        },
+        {
+          "title": "Add Python 3 support and type hints",
+          "short_description": "In this project I will add Python 3 support to Zulip, without breaking Python 2 compatibility. I will also add type annotation (see PEP 483 and PEP...",
+          "student_name": "eklavya",
+          "code_url": "https://paper.dropbox.com/doc/Adding-Python-3-compatibility-and-mypy-annotations-to-Zulip-FehitXSQq761g39O31eE3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6309614853292032/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4533090483437568/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Zulip Mobile Enhancement",
+          "short_description": "The current react native project runs great for iOS but a little buggy for Android. I intend to make it more robust, easy to use by implementing a...",
+          "student_name": "kunall17",
+          "code_url": "http://kunall17.com/gsoc/gsoc17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6358558421549056/"
+        },
+        {
+          "title": "Improvements to Development and Testing Infrastructure",
+          "short_description": "Having a great development environment is one of the many things that ensure ease of developing software. It increases productivity and interest in...",
+          "student_name": "Aditya Bansal",
+          "code_url": "https://paper.dropbox.com/doc/Improvements-to-Development-and-Testing-Infrastructure-of-Zulip-nxep2tE7zWXNQGIXYMkYv",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6414525335076864/"
+        },
+        {
+          "title": "Enhance UX for zulip mobile app",
+          "short_description": "Work extensively on UX issues and high priority tasks.",
+          "student_name": "Saumya Bhatnagar",
+          "code_url": "https://sam1301.github.io/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4698653151199232/"
+        },
+        {
+          "title": "Improve, enhance current  React Native app",
+          "short_description": "Zulip is a powerful open source group chat application. It is easy to get started, I used it to contact mentors, discuss in the community etc. I have...",
+          "student_name": "Vishwesh Jainkuniya",
+          "code_url": "https://vishwesh3.github.io/gsoc-work-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4718856408924160/"
+        },
+        {
+          "title": "Zulip Electron",
+          "short_description": "For Zulip Desktop:\n\nQuicker Response to Customer Issues\nMulti-Server Login\nCentralized Preference Panel\nAdjustments on Different OS Versions\nTesting",
+          "student_name": "Zhongyi Tong",
+          "code_url": "https://gist.github.com/geeeeeeeeek/7aee91a648c26b4dd10094322c7f6265",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4773685692989440/"
+        },
+        {
+          "title": "Automation of building bots to Zulip",
+          "short_description": "To enhance Zulip to easily integrate bots to the main codebase. To build a model whereby a bot could easily progress from being an initial quick...",
+          "student_name": "Abhijeet Kaur",
+          "code_url": "https://abhijeetkaur.github.io/blogs/gsoc-2017-with-zulip/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6568216981667840/"
+        },
+        {
+          "title": "Illustration & Web Design Project",
+          "short_description": "I am interested in improving the general look of the site and its UI by working on Zulip's HTML/CSS/JavaScript, designing emojis for the chat, and...",
+          "student_name": "vaida",
+          "code_url": "https://gist.github.com/vaidap/83ff59865f199e75ccd1b06607d07bd5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6030802085216256/"
+        },
+        {
+          "title": "Build a Slack meta-integration",
+          "short_description": "My proposal describes my approach of how we could implement a Zulip incoming webhook API that allows Slack to post into Zulip with the additional...",
+          "student_name": "Eeshan Garg",
+          "code_url": "https://paper.dropbox.com/doc/Links-to-GSoC-work-product-OhaMdW6b35gBdnmbePoXA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5830753380204544/"
+        },
+        {
+          "title": "Building support for Outgoing Webhooks and Slash commands",
+          "short_description": "Through this project, I wish to improve the chat-ops capabilities of Zulip by adding support for slash commands and outgoing webhooks. Outgoing...",
+          "student_name": "Vaibhav Singhal",
+          "code_url": "https://docs.google.com/document/d/1CiWkT5-Btx9tcz4zBx0_O5goos2DEy6JK49h6Vhi_FQ/edit#heading=h.hlvkr1x49tyn",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5835567770107904/"
+        },
+        {
+          "title": "Improve the on-boarding/new user experience in Zulip",
+          "short_description": "My project would be to improve the on-boarding/new user experience in Zulip",
+          "student_name": "Vishnu Ks",
+          "code_url": "http://vishnuks.com/blog/event/gsoc/2017/08/27/google-summer-of-code-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6292309087879168/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4721112676040704/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Google Summer of Code Proposal to improve Zulip Mobile",
+          "short_description": "Very often even if an application has a robust backend, the user interface is often the factor that decides whether  it will be taken up or not by...",
+          "student_name": "Aswin G",
+          "code_url": "https://medium.com/@agzuniverse/gsoc-work-product-submission-683c65ef3c82",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6587682310324224/"
+        },
+        {
+          "title": "Add different level of user authentications in streams",
+          "short_description": "Add different level of user authentications in streams, improve stream creation flow in UI and add new option to make creation of incoming webhook...",
+          "student_name": "Yashashvi Dave",
+          "code_url": "https://gist.github.com/YJDave/df46f970f27b3e051ec64efc31e5b6fb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5640238160412672/"
+        },
+        {
+          "title": "Improve settings subsystem and add new features.",
+          "short_description": "Brief of this project is:\n\nAdd feature of guest user\nAdd backend pieces of guest user\nChange fronted pieces for guest user\n\n\nImprove settings...",
+          "student_name": "Shubham Dhama",
+          "code_url": "https://gist.github.com/shubhamdhama/5057e5e008e7172f93b72efbcfa34bef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4648063872270336/"
+        },
+        {
+          "title": "API docs + multiple keys per user",
+          "short_description": "My proposal is focused on making certain improvements in Zulip that are considered prioritary, with the goal of providing high-value contributions in...",
+          "student_name": "Yago Gonz\u00e1lez",
+          "code_url": "https://paper.dropbox.com/doc/Zulip-GSoC-18-Progress-Log--AKHprLQSudfxichvRAUFP75YAQ-fToU3JiPwOyrPHJuhAHWr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6559773478617088/"
+        },
+        {
+          "title": "Zulip Terminal",
+          "short_description": "Make a terminal interface for zulip using its API.",
+          "student_name": "Aman Agrawal",
+          "code_url": "https://github.com/zulip/zulip-terminal/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4867850569252864/"
+        },
+        {
+          "title": "Widgets and Slash commands Architecture, IRC mirrors, Improving import-export Infrastructure.",
+          "short_description": "The Slash Commands act as easy-to-use shortcuts for specific actions, whereas widgets are interactive messages which enables Zulip users to interact...",
+          "student_name": "Rhea Parekh",
+          "code_url": "https://gist.github.com/rheaparekh/6ffd73cf2a2dcd816a6a5058c18edc06",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5856086036840448/"
+        },
+        {
+          "title": "Automating setup and configuration for integrations",
+          "short_description": "The primary goal of this project is to automate setup and configuration for integrations and webhooks on Zulip\u2019s end.",
+          "student_name": "Eeshan Garg",
+          "code_url": "https://paper.dropbox.com/doc/Eeshan-Garg-GSoC-Work-Product-2018--AKEY36tLDsiMwcc3qGKs5HFVAQ-osHpL9uT7u18vNktWBZZX",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5937788260188160/"
+        },
+        {
+          "title": "Public Stream Archives",
+          "short_description": "Public access to communications is an important aspect to some communities. These communities may or may not be open source communities but still...",
+          "student_name": "Aditya Bansal",
+          "code_url": "https://paper.dropbox.com/doc/Google-Summer-Of-Code-2018-Project-Report--AKF4_YfQ~m9X6FwbfHbM~AshAQ-F7kUfwRW4hiS8TSiLpEZC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5990870633414656/"
+        },
+        {
+          "title": "Improvements related to the search area.",
+          "short_description": "This project will focus on high priority issues in the area of search. The project aims at maintaining a consistent user experience in terms of...",
+          "student_name": "Shubham Padia",
+          "code_url": "https://gist.github.com/shubham-padia/3b1309194354a63aa96072f7764a5181",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6000967765983232/"
+        },
+        {
+          "title": "Zulip Electron",
+          "short_description": "In this project, I will focus on the desktop(electron) project of Zulip. The major aim would be to fix up most of the high priority issues, polishing...",
+          "student_name": "Abhigyan Khaund",
+          "code_url": "https://gist.github.com/abhigyank/decf6160ab574631375a9b00e6f4b6a8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6274262172172288/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4652389204754432/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Notification Panel, LDAP Integration Fixes & other UI changes.",
+          "short_description": "Adding a completely new Notification Panel for the Web app. Additional work on miscellaneous features, UI changes and relevant test suites.\nMajor bug...",
+          "student_name": "Vinit Singh",
+          "code_url": "https://gist.github.com/vinitS101/b6bbecdf6d4bf1e8e14f2e5ff0a3980d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6413600405585920/"
+        },
+        {
+          "title": "Improving the Aesthetics and Functionality of Zulip\u2019s Terminal Client.",
+          "short_description": "Zulip-terminal (ZT) is a light and fast terminal client for Zulip. It targets a niche audience of programmers who primarily use a terminal based...",
+          "student_name": "Sumanth V Rao",
+          "code_url": "https://gist.github.com/sumanthvrao/696c0ea86e7c1abf58394db626803008",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6423498090610688/"
+        },
+        {
+          "title": "Visual design on logged out pages & refactor CSS",
+          "short_description": "The project aims at making the logged out pages more attractive by improving the visual design, adding illustrations and making a consistent design...",
+          "student_name": "Alexandra Ciobica",
+          "code_url": "https://gist.github.com/alexandraciobica/9e32216993417fd8cd583bc4b0350dbf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6689371934162944/"
+        },
+        {
+          "title": "Enhance and refactor stream settings system",
+          "short_description": "The project is focused enhancing current \"stream settings\" features. Project also includes stream settings code refactorization and improving user...",
+          "student_name": "Yashashvi Dave",
+          "code_url": "https://gist.github.com/YJDave/4e59f250cf7027dd80eca10a272e07c3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6691078982336512/"
+        },
+        {
+          "title": "Improvements to Zulip\u2019s Desktop app",
+          "short_description": "My main objective of the proposed project would be to improve Zulip\u2019s electron-based client application by adding a test suite, bug fixing and adding...",
+          "student_name": "Vipul Sharma-1",
+          "code_url": "https://gist.github.com/vsvipul/a22818db200c98910f2b1bc1cdf5179f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5480081814716416/"
+        },
+        {
+          "title": "Mateusz Mandera - various backend work",
+          "short_description": "Proposal for commited work over the summer, built on my already acquired experience and knowledge of the Zulip codebase - continuing my work on...",
+          "student_name": "Mateusz Mandera",
+          "code_url": "https://gist.github.com/mateuszmandera/e5c7b285ada7a5a2254e4e899d1fc0fd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5067898098286592/"
+        },
+        {
+          "title": "Refactor & cleanup CSS and internals of UI components",
+          "short_description": "Motivation for proposing the idea:\n\nPresently the Zulip CSS code does not take complete advantage of the SCSS\npreprocessor. SCSS provides a lot of...",
+          "student_name": "Vaibhav .",
+          "code_url": "https://gist.github.com/vrongmeal/f5cd3bbfa75f1abd5bfb870e3190f029",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5076004127637504/"
+        },
+        {
+          "title": "Polishing Zulip (Electron)",
+          "short_description": "With its innovative threading model and robust web app, Zulip has received a lot of praise from\nremote teams that use it. While the desktop app is...",
+          "student_name": "Kanishk Kakar",
+          "code_url": "https://kanishk98.github.io/2019/08/21/gsoc-with-zulip/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5383912614789120/"
+        },
+        {
+          "title": "Improve the developer-friendliness of the frontend toolchain",
+          "short_description": "Fix quality-of-life issues in the frontend\nMigrate the frontend to TypeScript\nStart the process of rebuilding the Zulip web UI in React",
+          "student_name": "Thomas Ip",
+          "code_url": "https://gist.github.com/tommyip/2799ada1c8c3c2951d9b1d25ca6c44ab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6240026164199424/"
+        },
+        {
+          "title": "Improvements to the overall user experience and structure of the Web App (and other minor issues)",
+          "short_description": "This project will focus on solving several of the high priority issues related to the general user experience of Zulip. This would involve improving...",
+          "student_name": "Yash Rathore",
+          "code_url": "https://gist.github.com/YashRE42/5ec42c7390e30fee3e0a029804e9c7b9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4539487684657152/"
+        },
+        {
+          "title": "Hone Zulip's Development Productivity Tooling",
+          "short_description": "The project consists of multiple pieces that incrementally add to the strength of the development and testing infrastructure.\n\nAddress High priority...",
+          "student_name": "Wyatt Hoodes",
+          "code_url": "https://whoodes.github.io/project-gsoc-zulip/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4645463100227584/"
+        },
+        {
+          "title": "Advancement/Improvement of Settings Subsystem. (Zulip-Server)",
+          "short_description": "Primarily, my main focus of summers would be whole settings subsystem. I will work on making it more robust and improving the quality of the code.",
+          "student_name": "PRAGATI AGRAWAL",
+          "code_url": "https://gist.github.com/pragatiagrawal31/6e72eb8e37b3c18c5b5e0c9d1d5a0f67",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4685569773273088/"
+        },
+        {
+          "title": "Work Across Zulip Message Rendering Pipeline",
+          "short_description": "My primary targets for the summer are as follows:\n\nSolve issues across Zulip's message rendering pipeline.\nAssist in converting the Zulip webapp...",
+          "student_name": "Rohitt Vashishtha",
+          "code_url": "https://gist.github.com/aero31aero/3b6b469688b56741d060737eb455e12e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4909509099651072/"
+        },
+        {
+          "title": "Refining UX and gaining parity with the webapp.",
+          "short_description": "Aims to improve the experience of using the application on both platforms by solving high priority issues related to how  new/old messages are...",
+          "student_name": "Isham Mahajan",
+          "code_url": "https://ishammahajan.github.io/misc/gsoc-evaluations/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4939882571497472/"
+        },
+        {
+          "title": "Improve Zulip's Webhooks/Integrations Backend and OpenAPI Systems",
+          "short_description": "The first part of this project involves improving certain parts of Zulip's webhooks/integrations system.\n1.Make it much easier to quickly and...",
+          "student_name": "Hemanth V. Alluri",
+          "code_url": "https://gist.github.com/Hypro999/720c8ee92e7d53d662306e84af09a784",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5833914105462784/"
+        },
+        {
+          "title": "Revamped Zulip Terminal",
+          "short_description": "Zulip Terminal is now being actively developed. Also, the user base for it has been steadily growing; but most of them only use it as a temporary...",
+          "student_name": "Aman Agrawal",
+          "code_url": "https://gist.github.com/amanagr/4fc8cd0070479c661b569806a2dba01b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6269990724960256/"
+        },
+        {
+          "title": "Improving Message View and Search",
+          "short_description": "Project involves working on improvements in Zulip which are priority and on project roadmap.\nZulip is a team chat software so experience around...",
+          "student_name": "Mohit-thedeveloperr",
+          "code_url": "https://gist.github.com/thedeveloperr/4c2630545b4c052deb45a7d86077e75c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5211893721989120/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5924162381545472/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "Building an efficient Test Suite and Improving the Zulip Desktop App (Electron)",
+          "short_description": "My primary objective of this project would be building an efficient electron test suite (e2e and karma unit tests), Revamping the UI including some...",
+          "student_name": "MANAV MEHTA",
+          "code_url": "https://gist.github.com/manavmehta/4acf7bf3720f6e87bf24ec5295c1cb84",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6369347787816960/"
+        },
+        {
+          "title": "Work on Authentication and other backend issues",
+          "short_description": "Project mainly involves working on authentication issues and other backend issues along with replacing CasperJS tests with Puppeteer. It also...",
+          "student_name": "Dinesh Chidipothu",
+          "code_url": "https://gist.github.com/chdinesh1089/39d38cf17601cedd3d5467023411b09a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6691547275329536/"
+        },
+        {
+          "title": "Improving Settings and Administration UI",
+          "short_description": "Improving Existing Settings and Administration UI by fixing this issues\n\nAdd generic support for configuring organization default settings values for...",
+          "student_name": "Jagan Sivam",
+          "code_url": "https://gist.github.com/Jagansivam28/a11836e0ba24971f25903fe51d755693",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5673875611844608/"
+        },
+        {
+          "title": "Upgrading Installer and Tooling",
+          "short_description": "This project will focus on solving several high priority issues related to the Installer and Tooling of Zulip.\nIt mainly aims to add strength in the...",
+          "student_name": "Arpit Sharma",
+          "code_url": "https://gist.github.com/arpit551/d875fc6b6f6bb3ef56645abc160d8b95",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5742785509982208/"
+        },
+        {
+          "title": "UI Improvement, CSS Refactoring and Documentation Improvement",
+          "short_description": "The idea behind this project is to improve the current CSS code quality by refactoring it and utilizing more SCSS rules, improve UI of commonly used...",
+          "student_name": "Siddharth Varshney",
+          "code_url": "https://gist.github.com/SiddharthVarshney/9c572e9aab9a9175331953657b56d333",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5422023662108672/"
+        },
+        {
+          "title": "Enhancing user experience of Zulip web-app",
+          "short_description": "Main focus of my project would be to enhance the overall user experience of Zulip by adding some new features and also updating existing features...",
+          "student_name": "Sahil Batra",
+          "code_url": "https://gist.github.com/sahil839/754c7a92add0b5bd5bf25d42306bdee3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5049319855489024/"
+        },
+        {
+          "title": "Bringing Zulip Terminal\u2019s Experience Closer to the Web App",
+          "short_description": "Zulip Terminal (zulip-term) is a TUI based Zulip\u2019s client. It targets a niche group of users who like to work primarily from their terminal. For the...",
+          "student_name": "Preet Mishra",
+          "code_url": "https://gist.github.com/preetmishra/8bca59e92d4a3890bb07638e62ee0b55",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4790628438769664/"
+        },
+        {
+          "title": "Documenting and Enhancing Zulip's REST API",
+          "short_description": "The Project aims at enhancing Zulip\u2019s REST API and filling the gap in its Documentation which is an important resource for any organization...",
+          "student_name": "Kartik Srivastava",
+          "code_url": "https://gist.github.com/akashaviator/ac5c003498b16084dd2d2f21badf896a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6489227874795520/"
+        },
+        {
+          "title": "Zulip\u2019s Onboarding UX Overhaul",
+          "short_description": "The project mainly focuses on the overhaul of the on-boarding user experience. It\u2019ll include working on the backend to implement new features to ease...",
+          "student_name": "Tejas Tank",
+          "code_url": "https://gist.github.com/majordwarf/6ffdb3a0ef89c14aac2294a6c2f7cd7b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6558226557960192/"
+        },
+        {
+          "title": "Code refactors, Test cleanup, Search filter enhancement and Keyboard support",
+          "short_description": "Work have been focused upon:\n\nRefactor of code related to tests\nCleaning up logging output and verifying it without printing in test output making CI...",
+          "student_name": "Mohit Gupta-1",
+          "code_url": "https://gist.github.com/thedeveloperr/0e75649034e103efe7549d96ca09f9e3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4849633001472000/"
+        },
+        {
+          "title": "Widgets, Miscellaneous Features & Bug fixes",
+          "short_description": "Work on adding new widgets, miscellaneous features, and bug fixes.",
+          "student_name": "Vinit Singh",
+          "code_url": "https://gist.github.com/vinitS101/4ae30f0425f3bcb579eed547293609af",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5770294876176384/"
+        },
+        {
+          "title": "Enhance the server-side mobile, mobile web and markdown areas",
+          "short_description": "This is a full-stack project that aims to fix high priority bugs, extend features, and improve the overall experience in the following domains:\n\nPush...",
+          "student_name": "Hashir Sarwar",
+          "code_url": "https://hashirsarwar.github.io/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5844236127174656/"
+        },
+        {
+          "title": "Authentication, Admin/Org Settings and User Settings",
+          "short_description": "Work on backend and frontend of the areas Authentication, Settings(admin/org) and Settings(user), focusing on solving high priority and enhancement...",
+          "student_name": "Clara Moraes Dantas",
+          "code_url": "https://docs.google.com/document/d/1Jr0eDyhLQ5oA0ShC0DEMjy2n7s4DFIr8PtS-jbDpqyc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5938967033151488/"
+        },
+        {
+          "title": "User-centric work towards making Zulip greater for open source communities.",
+          "short_description": "This proposal consists of  bundles of projects aimed primarily at open source communities using Zulip along with various user centric features.\nThey...",
+          "student_name": "Ryan Rehman",
+          "code_url": "https://gist.github.com/ryanreh99/270a7a15e7980d2409562c5a7a085349",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6288879998468096/"
+        },
+        {
+          "title": "Improving Zulip's terminal client",
+          "short_description": "To make Zulip's terminal application as robust as it's web counterpart I will be working on the following enhancements:\n\nImprove typeaheads (...",
+          "student_name": "Kaustubh Nair",
+          "code_url": "https://gist.github.com/kaustubh-nair/5c2aa05d1e89ad8171d7fa35ff723a42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6307196188491776/"
+        },
+        {
+          "title": "Work on achieving a seamless mobile experience",
+          "short_description": "This project involved improving the mobile app. Primarily, the work was on developing high-priority features for the app. Apart from this, the...",
+          "student_name": "agrawal-d",
+          "code_url": "https://gist.github.com/agrawal-d/cf01504a3e763e872a7b3e93499494dc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5136309821112320/"
+        },
+        {
+          "title": "TypeScript, Puppeteer and Zulip Features",
+          "short_description": "Proposal proposes TypeScript migration for type-checking. Switch from Casper to Puppeteer. Lastly, high priority zulip features like Report Spam,...",
+          "student_name": "Priyank",
+          "code_url": "https://gist.github.com/priyank-p/65526e59c45d4d2b968dede4238db9b8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5180652539871232/"
+        },
+        {
+          "title": "Improve openapi and zulip-python-api",
+          "short_description": "Add and improve zulip-python-api bots and contribute to openapi documentation.",
+          "student_name": "Aditya Verma-1",
+          "code_url": "https://www.dropbox.com/scl/fi/akk7cwazhfdl7tz8zwc7n/GSoC-20-with-Zulip.paper?dl=0&rlkey=5hys0paowmqyalxumzikh63ue",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5189128422948864/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5441147069005824/",
+      "num_projects": 18,
+      "projects": [
+        {
+          "title": "Enhancing the Zulip Terminal Experience",
+          "short_description": "Zulip Terminal is Zulip\u2019s official terminal client, that provides a text-based user interface (TUI). The goal of this project is to improve the...",
+          "student_name": "Hari Prashant Bhimaraju",
+          "code_url": "https://gist.github.com/prah23/354d1de5093bdbfca48ecfd3e668fa3f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6357547698618368/"
+        },
+        {
+          "title": "Build GitHub workflow-optimizing action, using GitHub APIs; Add Rocket.Chat import tool",
+          "short_description": "My first project aims at building a GitHub Action, for optimizing various GitHub related workflows, which will not only help the maintainers in...",
+          "student_name": "Priyansh Garg",
+          "code_url": "https://gist.github.com/garg3133/2244d5bb61c9c7b05754d1b54a5b3cf4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6684082217418752/"
+        },
+        {
+          "title": "Improving the compose box and the user interface of Zulip web",
+          "short_description": "The main focus will be on frontend-related issues particularly, compose features, message area, user interface. Besides that, I\u2019ll work on fixing the...",
+          "student_name": "Priyam Seth",
+          "code_url": "https://gist.github.com/Signior-X/db8370e9b943ea3b26e16405e0d60015",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5651476281556992/"
+        },
+        {
+          "title": "Working on the various high-priority issues to improve Zulip.",
+          "short_description": "The project focuses on the various high-priority issues to improve Zulip as a project.\nIt includes:\n\nWorking on new frontend/backend features or...",
+          "student_name": "Riken Shah",
+          "code_url": "https://gist.github.com/Riken-Shah/a8253e95265a22fadb55cbe62be32deb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5460978610733056/"
+        },
+        {
+          "title": "Improving Zulip Bots and Integrations.",
+          "short_description": "Zulip provides powerful utility for bots and integrations, but parts of the system (like embedded bots) are still work in progress. To encourage more...",
+          "student_name": "Zixuan Li",
+          "code_url": "https://docs.google.com/document/d/1VSvoNNWaUb0o1JedGUjhxYvjaEvZlSC3evoUGNyPlkA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5090105164824576/"
+        },
+        {
+          "title": "Work on Message view projects and other issues in the surrounding areas.",
+          "short_description": "The project primarily focuses on working in the Message view area. They are adding configurability for stream typing indicators, adding read receipts...",
+          "student_name": "Dinesh Chidipothu",
+          "code_url": "https://gist.github.com/chdinesh1089/4ef61a95af291e4f225dedfd03a5e987",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5100063147163648/"
+        },
+        {
+          "title": "Work on enhancing Zulip's mobile experience.",
+          "short_description": "This project's primary aim is to tackle high priority issues and features for the mobile app, Allowing users to be more in control of the zulip...",
+          "student_name": "Akash Dhiman",
+          "code_url": "https://gist.github.com/AkashDhiman/ea9db37e940f13e42ca91d69c410c598",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5106608308224000/"
+        },
+        {
+          "title": "TypeScript Migration",
+          "short_description": "I will complete remaining work on TypeScript migration from last summer.",
+          "student_name": "Priyank Patel",
+          "code_url": "https://gist.github.com/priyank-p/e297d61f4b2886684a8f967b3cef7a01",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5540923823357952/"
+        },
+        {
+          "title": "Improving Zulip\u2019s terminal interface.",
+          "short_description": "Zulip-terminal is the official terminal client for Zulip which has been actively developing for the past few years and has already reached a certain...",
+          "student_name": "Zeeshan Equbal",
+          "code_url": "https://gist.github.com/zee-bit/1a8d7bf303610e2e80abb8605b973cc7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5563167727419392/"
+        },
+        {
+          "title": "Work on making Zulip better for large, high traffic organizations.",
+          "short_description": "This project aims at making Zulip better by working on features which users in large, high-traffic organizations will find valuable. This mainly...",
+          "student_name": "Abhijeet Bodas",
+          "code_url": "https://gist.github.com/abhijeetbodas2001/bf3af6b8061c792559b97145246ed2e4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6249128463433728/"
+        },
+        {
+          "title": "Enhance Recent topic view with Multiselect Dropdown List Widget And Implement Reusable Widgets",
+          "short_description": "This project aims to revamp the Recent topic view with the addition of Multiselect Dropdown List Widget within Zulip frontend and to enhance it by...",
+          "student_name": "Aryan Shridhar",
+          "code_url": "https://gist.github.com/aryanshridhar/1faf7a4f3b1be307ca9940fd30298ac4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4697430532030464/"
+        },
+        {
+          "title": "Proposal for Zulip - GSoC 2021",
+          "short_description": "The proposal for GSoC - Zulip aims to improve the overall experience of the Zulip web app by means of implementing full stack features such as send...",
+          "student_name": "Gaurav Pandey (ligmitz)",
+          "code_url": "https://gist.github.com/ligmitz/4f6b1b8af454ad1c24e446e86f2a9053",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4862695840415744/"
+        },
+        {
+          "title": "Improve tooling, integrations, and testing infrastructure of Zulip",
+          "short_description": "This project will span multiple high-priority areas of Zulip, some of which include:\n\nZulip has support for older versions of RHEL-based GNU/Linux...",
+          "student_name": "Ganesh Pawar",
+          "code_url": "https://gist.github.com/ganpa3/3a9202aff4f08a9aab418c48f9505898",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4889899022417920/"
+        },
+        {
+          "title": "Improve stream management, message viewing and left sidebar",
+          "short_description": "This project aims at improving the workflow for managing streams by improving their editing UI, adding more permission sets, refactor existing...",
+          "student_name": "Purushottam Tiwari",
+          "code_url": "https://gist.github.com/m-e-l-u-h-a-n/c77c0d69d53fd617f8f5375dbae1eaca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5767957774336000/"
+        },
+        {
+          "title": "Improve User Experience in Zulip Terminal",
+          "short_description": "ZT (zulip-term) is a TUI-based Zulip client that allows users to chat with each other right from their terminal window, with minimum possible tools....",
+          "student_name": "Sarthak Garg-1",
+          "code_url": "https://gist.github.com/Ezio-Sarthak/5c48f50e0694db25cea97f82ec640c3c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5827926691414016/"
+        },
+        {
+          "title": "Improving the UX of Zulip Terminal",
+          "short_description": "ZT is Zulip's own Terminal client, which is a one of a kind, user-first and user-friendly TUI based chat application powered by Python module urwid....",
+          "student_name": "Sai Rohitth Chiluka",
+          "code_url": "https://docs.google.com/document/d/10cxmzOV5kY-87-iZUdbaT7mAKaDw_ON6lb8bi_2nBbc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6291875333406720/"
+        },
+        {
+          "title": "Enhancing Zulip API Documentation Framework",
+          "short_description": "The primary aim of this project is to make enhancements to Zulip\u2019s REST API Documentation framework, which allows writing API Documentation based on...",
+          "student_name": "Suyash Vardhan Mathur",
+          "code_url": "https://gist.github.com/MSurfer20/29ac27e864b2259f803fa67637140b0b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6303245051363328/"
+        },
+        {
+          "title": "Refactor frontend-markdown processor using an extensible CommonMark parser",
+          "short_description": "Markdown provides a great ability to format messages and write structured documents using plain text format.\nZulip uses two different markdown...",
+          "student_name": "Akshat",
+          "code_url": "https://gist.github.com/akshatdalton/289c9aa915af6d66740d994f35087806",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5134474559356928/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/zulip/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Improve Zulip's Native Integrations",
+          "short_description": "Zulip has a vast library of native integrations, functioning through webhooks. Since this integrations subsystem relies heavily on third-party...",
+          "student_name": "Hari Prashant Bhimaraju",
+          "code_url": "https://gist.github.com/prah23/2c8a5ae1d30be6895b8ddb6f9fd2a744",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/y2the6HJ/"
+        },
+        {
+          "title": "Work on features around the UserTopic model and documenting Zulip\u2019s REST API",
+          "short_description": "The Project aims at doing work on planned features around the UserTopic model. The other area I am planning to work on is API documentation. Zulip...",
+          "student_name": "Kartik Srivastava",
+          "code_url": "https://gist.github.com/akashaviator/237392e45ca8aa2ce3ec52630800c592",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LO9TKtL3/"
+        },
+        {
+          "title": "Improve user-group and stream management settings",
+          "short_description": "As Zulip plans to refine the settings system using the User Groups based permission model, there is a requirement to update the settings interface...",
+          "student_name": "Purushottam Tiwari",
+          "code_url": "https://gist.github.com/m-e-l-u-h-a-n/35aa88094ad36166db1a2c14ecef2563",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/x6XLEFcp/"
+        },
+        {
+          "title": "Improvements in Zulip terminal",
+          "short_description": "Zulip Terminal (zulip-term) is a TUI based Zulip\u2019s client, powered by Python module urwid. As mentioned in the proposal, I will be doing the...",
+          "student_name": "Mounil Kamlesh Shah",
+          "code_url": "https://gist.github.com/mounilKshah/a8bb0a2d60a17878dabe1139e65a4922",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3S78A23M/"
+        },
+        {
+          "title": "Improve shared components and remove Bootstrap as a dependency.",
+          "short_description": "Zulip's frontend makes heavy use of Bootstrap 2. In this project, my goal will be to remove it. I will also work on improving the shared components...",
+          "student_name": "Ganesh Pawar",
+          "code_url": "https://gist.github.com/ganpa3/3914da5ebabd4080332984155b983eaa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VxX8WjYU/"
+        },
+        {
+          "title": "Implementing cluster of high priority features to improve Zulip web app and server.",
+          "short_description": "This project will focus on implementing a number of high priority features for Zulip web app. This includes addition of new features, improving user...",
+          "student_name": "Shlok Patel",
+          "code_url": "https://gist.github.com/madrix01/19dcd0eeb54adca666721a658e23b908",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DkjW0pD4/"
+        },
+        {
+          "title": "Google Summer of Code at Zulip",
+          "short_description": "In my proposed project i plan to tackle some issues in the left sidebar. Specifically, i want to add the possibility to filter the recent topics by...",
+          "student_name": "Julia Bichler",
+          "code_url": "https://gist.github.com/juliaBichler01/75c7e2a0bfc117ad19755cb4dd74733d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uaPLfT32/"
+        },
+        {
+          "title": "Codebase Enhancement with Better Type Checking",
+          "short_description": "Notably, the project will focus on integrating django-stubs along with working on other general typing enhancement projects and porting JavaScript to...",
+          "student_name": "Zixuan James Li",
+          "code_url": "https://docs.google.com/document/d/15-WRQwhmON_Q3Qr50o6b1lgldQF5rtXgnWn1cw8RIJQ/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8WVcr5Cn/"
+        },
+        {
+          "title": "Cluster of Priority features  (Focused around the Compose Box and the Typeahead System)",
+          "short_description": "For my GSoC project I wish to move onto implementing bigger full stack features, while continuing to investigate and fix bugs in the areas I\u2019m...",
+          "student_name": "Nehal Sharma",
+          "code_url": "https://minified-musings.hashnode.dev/ze-zulip-zummer-my-google-summer-of-code-2022-final-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Or7nILcp/"
+        },
+        {
+          "title": "Working on Previous Year Work & Improving Zulip as a Product",
+          "short_description": "The main focus of this project will be to work on various full-stack and frontend related features or issues like restoring drafts, adding a drafts...",
+          "student_name": "Riken Shah",
+          "code_url": "https://gist.github.com/Riken-Shah/e94721c8b60e69a91deabd01b7a1f941",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/geZ0HDq3/"
+        },
+        {
+          "title": "Working on Cluster of Priority Features.",
+          "short_description": "The main target of this project proposal would be to work on a Cluster of priority features, I will be working on improving existing features or...",
+          "student_name": "Yogesh Sirsat",
+          "code_url": "https://gist.github.com/yogesh-sirsat/a6be4c404e5fa1a0b629cef1aef0f320",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BzchcsAz/"
+        },
+        {
+          "title": "Enhancing user experience of Zulip Terminal",
+          "short_description": "Zulip Terminal has TUI which caters to users who use Zulip through their terminal. But, there are many functionalities in Zulip Web App that are not...",
+          "student_name": "Shivam Deotarse",
+          "code_url": "https://gist.github.com/srdeotarse/f612d9a86fd3277d3012130a6e5e76be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pJKKfF2C/"
+        },
+        {
+          "title": "Improve Zulip\u2019s Native Integrations and Backend",
+          "short_description": "Zulip has over 120 native integrations, where many of these integrations still have bugs to be fixed and further improvements to be made. There are...",
+          "student_name": "Christopher Chong",
+          "code_url": "https://gist.github.com/yuroitaki/e31335ed1a83eccecbe7f3f1da101291",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vZsith38/"
+        },
+        {
+          "title": "Enhance core Zulip Web Application",
+          "short_description": "The Primarily aim of this project would be to improve the overall UI/UX experience of Zulip users. Since last 2 months, I\u2019m consistently...",
+          "student_name": "Jai soni",
+          "code_url": "https://gist.github.com/jai2201/9532297793a71fe96c3af31d6be0e3ff",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dymLIi7V/"
+        },
+        {
+          "title": "Enhance the UI/UX of the core Zulip Web Application",
+          "short_description": "My primary focus for GSOC \u201822 at Zulip would be to enhance the UI/UX of the core Zulip Web Application. The web application UI is on its way to...",
+          "student_name": "Sayam Samal",
+          "code_url": "https://github.com/sayamsamal/gsoc22-work-product/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DSc1Ylnf/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/zulip",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Refactor frontend-markdown processor using an extensible CommonMark parser",
+          "short_description": "Markdown provides a great ability to format messages and write structured documents using plain text format. Zulip uses two different markdown...",
+          "student_name": "Akshat Akshat",
+          "code_url": "https://gist.github.com/akshatdalton/d2e3a0b37a5ce32fb128de69cee38f38",
+          "proposal_id": "msYP2PY8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bQeFtzEc"
+        },
+        {
+          "title": "Add chunk file upload support and enhance Import/Export exprience",
+          "short_description": "The primary goal of this project is to improve the performance of Zulip, with a focus on the \"upload\" and \"import/export\" areas. Specifically, I will...",
+          "student_name": "Brijmohan Siyag",
+          "code_url": "https://gist.github.com/brijsiyag/1a0a0205e3bb1ee8a70d1e605d7042bd",
+          "proposal_id": "C6SRqulG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CxaFGt6R"
+        },
+        {
+          "title": "Improve the UI and Visual design of Zulip",
+          "short_description": "This GSoC project aims to significantly enhance the user experience of Zulip, an open-source team chat app, by implementing several features that...",
+          "student_name": "Hardik_Dharmani",
+          "code_url": "https://gist.github.com/Ddharmani3/c7c859a4366aec5777f64a81629f609a",
+          "proposal_id": "IwJO4g3U",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lZawZlZv"
+        },
+        {
+          "title": "Improving Zulip's Permissions with User Groups",
+          "short_description": "My goal during the GSoC period would be to- \u2794 Develop a framework and discuss a strategy for migrating existing realm and stream settings to user...",
+          "student_name": "Hemant Umre",
+          "code_url": "https://gist.github.com/HemantUmre12/32d5cec77ee681011c824fe37d678d64",
+          "proposal_id": "v9pOaKYF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xTVOMePO"
+        },
+        {
+          "title": "GSoC with Zulip: Cluster of priority features.",
+          "short_description": "There are dozens of issues and features to be implemented in the issue trackers. As well as a bunch of pull requests that have quality work done...",
+          "student_name": "Joseph Ho",
+          "code_url": null,
+          "proposal_id": "epdoqOc9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HsZfLFjN"
+        },
+        {
+          "title": "Migrating Zulip's JavaScript Codebase to TypeScript",
+          "short_description": "This project focuses on migrating JavaScript codebase to Typescript. Zulip is in the process of porting the main web app JavaScript codebase to...",
+          "student_name": "Junyao Chen",
+          "code_url": "https://gist.github.com/jychen630/9373449c252b5c66790afa6c073c301b",
+          "proposal_id": "07TlS6dQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/LoUPFYyl"
+        },
+        {
+          "title": "Migrate JavaScript Codebase to TypeScript",
+          "short_description": "Zulip has a huge codebase for it's web app but it's currently written in JavaScript, this project is aimed at migrating at least ~80% of the zulip's...",
+          "student_name": "Lalit Kumar Singh",
+          "code_url": "https://gist.github.com/Lalit3716/e60e6697631a4b61cb0a40157dc4e516",
+          "proposal_id": "lBqAR8RM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zt6rs2YE"
+        },
+        {
+          "title": "Cluster of Priority Features (Focused around User Profile, Compose Box, and Stream Settings)",
+          "short_description": "For my GSoC project, I wish to implement bigger full-stack features while continuing to investigate and fix bugs in the areas I'm familiar with....",
+          "student_name": "Palash Baderia",
+          "code_url": "https://gist.github.com/palashb01/15925bb27d5359f7c6042b4b9c9899c0",
+          "proposal_id": "JcDOtYTR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pL70pbK6"
+        },
+        {
+          "title": "Cluster of priority features (Focused around topics and notifications (messages) areas)",
+          "short_description": "This project aims to implement high-priority features in the 'Zulip server and web application' project, focused around topics and notifications...",
+          "student_name": "Prakhar Pratyush",
+          "code_url": "https://gist.github.com/prakhar1144/b53cd64e4babdff4de5c1acbeee1831e",
+          "proposal_id": "tM0lpWBf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ijktWPlO"
+        },
+        {
+          "title": "TypeScript Migration and UI/Integrations Improvements",
+          "short_description": "The Zulip messaging app currently relies heavily on JavaScript, which lacks certain types and safeguards for developers. To improve the experience...",
+          "student_name": "Satyam Bansal",
+          "code_url": "https://gist.github.com/sbansal1999/3fbd057945f8c1ec47de513e8fcf570a",
+          "proposal_id": "XCAeWoHi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/omRubSOY"
+        },
+        {
+          "title": "Improving and adding features of Zulip Terminal",
+          "short_description": "Zulip Terminal is a TUI which caters to users who use Zulip through their terminal. But, many functionalities in Zulip Web App are not currently...",
+          "student_name": "SUBHASISH BEHERA",
+          "code_url": "https://gist.github.com/Subhasish-Behera/d4401b4b140df5c0d9aea53ed1b98680",
+          "proposal_id": "aRyrSyYg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lsL9rlTY"
+        },
+        {
+          "title": "Migration to user groups for permissions.",
+          "short_description": "The main target of this project would be to work on migration to user groups for permissions which aims to replace every setting in Zulip that...",
+          "student_name": "Ujjawal Modi",
+          "code_url": "https://gist.github.com/Ujjawal3/e46d360636384d1a277e3b2789ea1e2a",
+          "proposal_id": "xcUBByGT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0kG78NA6"
+        },
+        {
+          "title": "Improving Zulip Terminal",
+          "short_description": "The main goal of this project is to improve the user experience of Zulip Terminal by porting features from Zulip web which are not already...",
+          "student_name": "Vishwesh Pillai",
+          "code_url": "https://gist.github.com/theViz343/dcfe54ffaafdcb0f637200b77958df41",
+          "proposal_id": "5YEPFL8D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/f5jvspBT"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/zulip/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Complete some unfinished projects",
+          "short_description": "For GSoC with Zulip, I aim to address completion candidate PRs, enhancing features and user experience. With a background in web development, I'll...",
+          "student_name": "Sanchit_Sharma",
+          "code_url": "https://gist.github.com/sanchi-t/8bb78ed56eb7540dd825e4ffd7a3620c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/O2pKX8TU/"
+        },
+        {
+          "title": "Migrate Zulip's JavaScript codebase to TypeScript",
+          "short_description": "The project is aimed at migrating Zulip's existing JavaScript codebase to TypeScript. This includes creating precise types, refactoring inefficient...",
+          "student_name": "Varun_Singh_",
+          "code_url": "https://gist.github.com/LaPulgaaa/7fa6a398e049177223434b1820ea6250",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bFuEUZDD/"
+        },
+        {
+          "title": "Cluster of priority features on Settings/Groups UI",
+          "short_description": "There are a ton of issues/feature requests open in the repository which must be implemented. Some of them even have pull requests with work already...",
+          "student_name": "Adnan Husain",
+          "code_url": "https://gist.github.com/adnan-td/f727cbe9e4d9b8746b81d5bf635b8518",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1IDoG5Rp/"
+        },
+        {
+          "title": "Improving the Zulip Terminal Client",
+          "short_description": "Zulip Terminal is a TUI-based Zulip client, this project aims to enhance the user experience of Zulip Terminal by integrating more features from the...",
+          "student_name": "Sashank Ravipati",
+          "code_url": "https://gist.github.com/rsashank/8f169bd8a552d6a3aad1f6b7b9bd77a9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kmuIaina/"
+        },
+        {
+          "title": "Migrating Zulip\u2019s backend endpoints to @typed_endpoint",
+          "short_description": "Moving towards enforcing stricter types for the django backend endpoints by using @typed_endpoint decorator instead of the current...",
+          "student_name": "Kenneth Rodrigues",
+          "code_url": "https://gist.github.com/kennethnrk/512668afacf154bca8165fae3f068618",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lKu2OOgZ/"
+        },
+        {
+          "title": "Future Zulip client using Flutter",
+          "short_description": "This project aims to implement a handful of issues in the zulip-flutter repository to make it ready for the launch milestone. This will be a large...",
+          "student_name": "Sayed Mahmood Sayedi",
+          "code_url": "https://gist.github.com/sm-sayedi/7baf3caf98d787f84af7be679571425b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GEkUlurL/"
+        },
+        {
+          "title": "Improve the framework and UI in Zulip\u2019s overlays for managing streams and groups.",
+          "short_description": "This proposal aims to make Zulip's stream and group management features easier to use. The project will focus on simplifying the way users manage...",
+          "student_name": "Sujal_shah",
+          "code_url": "https://gist.github.com/sujalshah-bit/406d0a8326ea3df57354c005a5215acd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/G4Abou5w/"
+        },
+        {
+          "title": "Cluster of priority features focused on settings and API documentation",
+          "short_description": "This project proposal aims to implement a cluster of priority features in zulip/zulip related to the settings system and write API documentation for...",
+          "student_name": "Kunal Sharma",
+          "code_url": "https://gist.github.com/Vector73/a87e9fff6a7077bc1122b967c053e037",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/StR4j6MT/"
+        },
+        {
+          "title": "Cluster of Priority Features",
+          "short_description": "This project proposal aims towards implementing a cluster of diverse high priority features in the 'Zulip server and web application' project. The...",
+          "student_name": "Rohan Gudimetla",
+          "code_url": "https://gist.github.com/roanster007/cb16aa1e44a2e377755167c95f79615a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WQ3Wm0mo/"
+        },
+        {
+          "title": "Cluster of priority features",
+          "short_description": "This project will focus on implementing a number of high priority features for Zulip web app focused around left sidebar and stream settings. This...",
+          "student_name": "Pratik Chanda",
+          "code_url": "https://gist.github.com/pratik-pc/1644c0554a29900f84d55bb9129e3c47",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/slsivlOA/"
+        },
+        {
+          "title": "Migrating Zulip's JavaScript codebase to TypeScript",
+          "short_description": "The project aims to transition Zulip's existing codebase from JavaScript to TypeScript. Currently, approximately 50% of the Zulip codebase is written...",
+          "student_name": "Afeefuddin",
+          "code_url": "https://gist.github.com/afeefuddin/bcaad3f9aaee55d0be5685dcfb815917",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TG3vRhSz/"
+        },
+        {
+          "title": "Zulip Flutter: Implementing cluster of new features preparing for launch",
+          "short_description": "This project will include implementing cluster of new features, fixing existing performance or functional bugs and adding new testing infrastructure...",
+          "student_name": "Rajesh Malviya",
+          "code_url": "https://gist.github.com/rajveermalviya/5f6eb8a6916656bee419741663601958",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vzXauDJb/"
+        },
+        {
+          "title": "Cluster of priority features.",
+          "short_description": "This project aims at general improvement of the Zulip web app by addressing and resolving many high priority issues related to compose box, modals...",
+          "student_name": "Kislay U. Verma",
+          "code_url": "https://kuv2707.hashnode.dev/the-gsoc-experience-feat-zulip",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7JQI47sK/"
+        },
+        {
+          "title": "Next Zulip mobile app with Flutter",
+          "short_description": "My project aims to contribute to the launch of Zulip's new mobile app by addressing issues identified during the beta phase to ensure a high-quality...",
+          "student_name": "Khader Khudair",
+          "code_url": "https://gist.github.com/Khader-1/5fee93c08d18db35eeef425b13a25b77",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Dq5Q1vry/"
+        },
+        {
+          "title": "Proposal to work on cluster of priority features around settings, streams and messages",
+          "short_description": "The zulip/zulip repository currently tracks thousands of open issues, out of which many are labeled \u201chigh priority\u201d; these issues are usually new...",
+          "student_name": "Tanmay Kumar",
+          "code_url": "https://gist.github.com/tnmkr/22d4b536c36a0abc9b5f664a0ac86441",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PTD6lcBq/"
+        },
+        {
+          "title": "Third-party Integration Improvements",
+          "short_description": "My proposal aims to improve existing integrations of third-party services. Currently, some services only provide object ID in their webhook payload,...",
+          "student_name": "Pieter Cardillo Kwok",
+          "code_url": "https://gist.github.com/PieterCK/bf6bb3b01cd2a0a340639efd11e8fe8e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WC23S6gE/"
+        },
+        {
+          "title": "Enhancing Zulip Terminal",
+          "short_description": "The main goal of this project is to improve the user experience of Zulip Terminal, a TUI that caters to Zulip's terminal users. My areas of focus are...",
+          "student_name": "Niloth",
+          "code_url": "https://gist.github.com/Niloth-p/db22a98962b204f6e4f67f4c5d98c7cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sl1BKbzv/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/zulip",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Improve Zulip Integration Library & Feature Around Config Views, Admin Resets, and Watched Phrases",
+          "short_description": "For my project with Zulip, I propose to elevate the platform by finalizing and expanding incomplete features, enhancing webhook integrations, and...",
+          "student_name": "Aditya Kumar Kasaudhan",
+          "code_url": null,
+          "proposal_id": "DpGQ03VV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5UBGdwnl"
+        },
+        {
+          "title": "Cluster of priority features focused around message feed and editing",
+          "short_description": "For my GSoC project, I wish to implement larger full-stack features while continuing to investigate and fix bugs in the areas I'm familiar with....",
+          "student_name": "Aman (whilstsomebody)",
+          "code_url": null,
+          "proposal_id": "zqKP3Xjm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TMaH7Aaf"
+        },
+        {
+          "title": "Features around Zulip\u2019s search, message actions, API, integrations and overall UX.",
+          "short_description": "The project involves implementing a cluster of priority and user requested features: 1. Adding search operators for date and supporting new...",
+          "student_name": "Apoorva Pendse",
+          "code_url": null,
+          "proposal_id": "UUSlM2tg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Q1ro054m"
+        },
+        {
+          "title": "Cluster of priority features and completing some unfinished projects",
+          "short_description": "My main objective is to implement on a cluster of priority features and complete some unfinished projects. I feel that these issues would greatly...",
+          "student_name": "Kislay U. Verma",
+          "code_url": null,
+          "proposal_id": "otn3qE5U",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fL3BMJHf"
+        },
+        {
+          "title": "Cluster of priority features focused on search filters and setting areas",
+          "short_description": "This project aims to implement a set of high-priority features in Zulip, focusing on improvements to the search filter and settings areas. On the...",
+          "student_name": "Kumar Aniket",
+          "code_url": null,
+          "proposal_id": "5TYV04CI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AtsZHFbc"
+        },
+        {
+          "title": "Cluster of priority features focused on channel settings",
+          "short_description": "This project proposal focuses on implementing a set of high-priority features in the zulip/zulip repository, specifically around enhancing...",
+          "student_name": "Kunal Sharma",
+          "code_url": null,
+          "proposal_id": "16OMPOLh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ArbRx2eI"
+        },
+        {
+          "title": "Cluster of priority features around settings panel, search filters and UI redesign",
+          "short_description": "This project focuses on improving the overall user experience and feature completeness in Zulip\u2019s settings panel, search filters, and UI components....",
+          "student_name": "Maneesh Shukla",
+          "code_url": null,
+          "proposal_id": "jI6XLVS1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jmG4TO0R"
+        },
+        {
+          "title": "Migrate Zulip\u2019s Direct Message Recipient Data Structures to a New Model",
+          "short_description": "In Zulip, each message has a sender (linked to UserProfile) and a recipient (referencing the Recipient model). The Recipient model supports three...",
+          "student_name": "Mohammad Reza Kianifar",
+          "code_url": null,
+          "proposal_id": "WWCij2Xr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZAHeChuF"
+        },
+        {
+          "title": "Improve Zulip's mirroring and data import tools",
+          "short_description": "This proposal aims to improve existing data import tools, such as better conversion of Slack to Zulip features when importing Slack's data export, as...",
+          "student_name": "Pieter Cardillo Kwok",
+          "code_url": null,
+          "proposal_id": "JZdkHtxO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1tTNDNSa"
+        },
+        {
+          "title": "Improve messages and permissions.",
+          "short_description": "This project will focus on improving Zulip web app and shipping new features. Deliverables focuses on zulip message system and permission settings...",
+          "student_name": "Pratik Chanda",
+          "code_url": null,
+          "proposal_id": "1XakXOuD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1ooHmJMl"
+        },
+        {
+          "title": "\u202dMigrate Direct Message Recipient data structure,\u202c \u202dand add related settings\u202c",
+          "short_description": "\u202dThis project aims towards migrating Zulip\u2019s 1:1 DMs to use\u202c\u202d DirectMessageGroup\u202c \u202d(with group size of 2), and work on settings enabled by the...",
+          "student_name": "Rohan Gudimetla",
+          "code_url": null,
+          "proposal_id": "mUdKqGwA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qz3jax54"
+        },
+        {
+          "title": "Cluster of priority features (focused on message editing and settings areas)",
+          "short_description": "This project aims to implement high-priority features in the Zulip server and web application, focusing on message editing and settings. In message...",
+          "student_name": "Saubhagya Patel",
+          "code_url": null,
+          "proposal_id": "qT48iutw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/emVI3dqt"
+        },
+        {
+          "title": "Future Zulip client using Flutter",
+          "short_description": "This project aims to implement a handful of issues in the zulip-flutter repository to make it ready for the launch milestone. This will be a large...",
+          "student_name": "Sayed Mahmood Sayedi",
+          "code_url": null,
+          "proposal_id": "7067yHGY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XJbZhv87"
+        },
+        {
+          "title": "Improving the framework for Zulip\u2019s library of native integrations.",
+          "short_description": "My proposal aims to improve the framework for Zulip's library of native integrations. I plan to implement new integration features, fix broken...",
+          "student_name": "Varun Kolanu",
+          "code_url": null,
+          "proposal_id": "PuAQ4E8z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Kmz7FjeW"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.zulip.org/",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/zulip-devel",
+  "ideas_url": "https://zulip.readthedocs.io/en/latest/outreach/gsoc.html",
+  "guide_url": "https://zulip.readthedocs.io/en/latest/outreach/apply.html",
+  "twitter_url": "https://twitter.com/zulip",
+  "blog_url": "https://blog.zulip.com/"
+}

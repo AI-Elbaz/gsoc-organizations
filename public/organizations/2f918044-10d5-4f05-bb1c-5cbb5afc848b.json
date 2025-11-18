@@ -1,0 +1,194 @@
+{
+  "name": "Purr Data",
+  "url": "https://www.purrdata.net/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/purr-data/vb8l0binls5gjdqp-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "audio",
+    "real-time",
+    "video",
+    "dsp",
+    "data vizualisation",
+    "data visualization",
+    "digital signal processing",
+    "real-time system",
+    "music",
+    "visual programming",
+    "2d/3d graphics",
+    "web development",
+    "graphics / video / audio / virtual reality",
+    "web",
+    "graphics",
+    "realtime"
+  ],
+  "technologies": [
+    "javascript",
+    "c",
+    "c++",
+    "node.js",
+    "html5/css3",
+    "html5",
+    "opengl",
+    "svg",
+    "html",
+    "css",
+    "Emscripten"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5216814447460352/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Change to Double precision floating point",
+          "short_description": "Successfully compiling purr-data\u2019s core on both the single precision and double precision and changing the more popular external libraries run in...",
+          "student_name": "Pranay Gupta",
+          "code_url": "https://drive.google.com/drive/folders/1GsGbKu0lMN2QTZxU8NnHiBzgTaqPsX6V?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6297259842994176/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4920428332580864/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "ASCII art to Purr Data diagram conversion",
+          "short_description": "The goal is to work on a GUI interface where the user can either type or paste in ASCII art for a Purr Data diagram and have it converted to a...",
+          "student_name": "Aayush Surana",
+          "code_url": "https://git.purrdata.net/aayushsurana98/purr-data/commits/ascii-art-to-purr-data-diagram",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6126421980741632/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5158498192588800/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Injecting Purr Data Directly into the Web",
+          "short_description": "This project aims to make Purr Data run in a web browser by adding a WebAssembly target and HTML5 GUI framework.\nPurr Data a.k.a. Pd-l2ork 2 is an...",
+          "student_name": "cuinjune",
+          "code_url": "https://github.com/cuinjune/purr-data",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6619608217288704/"
+        },
+        {
+          "title": "Improving Purr Data encapsulation techniques",
+          "short_description": "Currently, Purr Data has two basic techniques of encapsulating parts of the program, mechanism that provides a way to organize and modularize the...",
+          "student_name": "Guillem Bartrina",
+          "code_url": "https://drive.google.com/file/d/1NTW6qQhq8HToafbm4GDbk9tGxF_vicYl/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6230646113959936/"
+        },
+        {
+          "title": "Inject Purr Data Directly into the Web",
+          "short_description": "Produce an WebApp frontend for PurrData so users can use it as a WebApp to visualize, edit and share pd files.",
+          "student_name": "Hugo Neves de Carvalho",
+          "code_url": "https://gist.github.com/hugonxc/75e0bb838b1953cfa52fa87045bf5b98#file-gsoc2020_hugocarvalho_purrdata-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4882628517298176/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5146061710032896/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving workflow with autocomplete feature",
+          "short_description": "This project aims at improving Purr Data's documentation browser and leveraging it to an autocomplete feature for objects and messages:\n\nObject - the...",
+          "student_name": "Gabriela Bittencourt",
+          "code_url": "https://git.purrdata.net/gabrielabittencourt/google-summer-of-code-2021-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6237149128556544/"
+        },
+        {
+          "title": "General Midi Mad Dash",
+          "short_description": "A variety of polyphonic synths seems missing in Pd vanilla and is a daunting task to\nimplementing on the go. This project aims to build a General...",
+          "student_name": "Ishan Kumar Kaler",
+          "code_url": "https://git.purrdata.net/ishankaler/google-summer-of-code-2021-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4878426426572800/"
+        },
+        {
+          "title": "Web App UI Cleanup",
+          "short_description": "This project aims to improve the overall usability of the Purr Data Web Application to make it more intuitive to use, improve its stability by fixing...",
+          "student_name": "Prakhar Agarwal",
+          "code_url": "https://github.com/Prakhar-Agarwal-byte/purr-data",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5169147863891968/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/purr-data/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Data Over Audio Library",
+          "short_description": "Since Purr Data is concerned mainly with analyzing and sythesizing sound, machines running Purr Data typically have a mic and speakers connected to a...",
+          "student_name": "Ishan Kumar Kaler",
+          "code_url": "https://git.purrdata.net/ishankaler/google-summer-of-code-2022-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/U4qbFQj7/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/purr-data",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Vintage Platform Audio Emulation Library",
+          "short_description": "My Google Summer of Code 2023 project is a performance-oriented vintage platform audio emulation library coded entirely in the graphical programming...",
+          "student_name": "brittneyjuliet",
+          "code_url": "https://gitlab.com/brittneyjuliet/purr-data-vintage-platform-audio-emulation",
+          "proposal_id": "K9mtfLw7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iZh8H4uD"
+        },
+        {
+          "title": "Autosave Feature",
+          "short_description": "When working on a project in Purr Data, saving regularly is important to avoid losing any changes or progress. The auto-save feature provides an...",
+          "student_name": "Prakhar Agarwal",
+          "code_url": "https://git.purrdata.net/jwilkes/purr-data/-/merge_requests/863",
+          "proposal_id": "PeCVVsAW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MwL50AWF"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/purr-data/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Build Some Demo Games for new Users",
+          "short_description": "Project Title: Developing Musical Games with Purr Data Project Description: This project aims to create a collection of 6 to 8 musical games using...",
+          "student_name": "sushi_sudan",
+          "code_url": "https://github.com/Sushant-Sudan-12/Pd-Patches-for-Demo-Games",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Awg4DNqV/"
+        },
+        {
+          "title": "Demo Game for the Next Release of Pd-L2Ork",
+          "short_description": "I aim to create two interactive demos to ship with the next release of Pd-L2Ork that showcase unique features of Pure Data! The first demo is a fun...",
+          "student_name": "Nathan Paek",
+          "code_url": "https://github.com/nathanjpaek/purr_data_gsoc_game",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/J5UycPjU/"
+        },
+        {
+          "title": "Generating Pd patches using an LLM",
+          "short_description": "Purr-Data (Pd), a visual programming language for multimedia applications, offers a powerful and intuitive environment for sound and music creation....",
+          "student_name": "Amrut Kotrannavar",
+          "code_url": "https://anxiousant.github.io/PatchGen-Docs/#/report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Xg5Z3WJi/"
+        },
+        {
+          "title": "Incrementally improve autocomplete feature",
+          "short_description": "The proposal seeks to enhance the existing autocomplete functionality within Purr Data. Our approach involves gathering user feedback on their...",
+          "student_name": "ayushanand308",
+          "code_url": "https://ayushanand308.github.io/gsoc24Report.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/D53MhEYZ/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/MyhXnbnbZU",
+  "contact_email": "mailto:jon.w.wilkes@gmail.com",
+  "mailing_list": "https://disis.music.vt.edu/listinfo/l2ork-dev",
+  "ideas_url": "",
+  "guide_url": ""
+}

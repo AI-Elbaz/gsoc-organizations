@@ -1,0 +1,1609 @@
+{
+  "name": "R project for statistical computing",
+  "url": "https://www.r-project.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/r-project-for-statistical-computing/7regeqcjh95nenso-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "machine learning",
+    "data science",
+    "graphics",
+    "statistics",
+    "data visualization"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "r",
+    "fortran",
+    "javascript",
+    "r-project"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6032418200879104/",
+      "num_projects": 22,
+      "projects": [
+        {
+          "title": "Animint",
+          "short_description": "Animint package in R allows animated data visualization using ggplot syntax. It is a useful tool for obtaining an intuitive understanding of patterns...",
+          "student_name": "Faizan Khan",
+          "code_url": "https://github.com/faizan-khan-iit/gsoc_animint/blob/gsoc_2016/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6598607364947968/"
+        },
+        {
+          "title": "Discovr: Streamlining statistical data analysis",
+          "short_description": "The discovr package will enable a fast and efficient way to test the most common statistical analysis methods. It will therefore allow users to...",
+          "student_name": "RobinKo",
+          "code_url": "https://github.com/Kohze/Discovr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6648144712433664/"
+        },
+        {
+          "title": "postCP Package Improvement",
+          "short_description": "Improving the postCP package, writing vignettes and tests, building a user friendly interface and ensuring that postCP passes the checks so that...",
+          "student_name": "Malith Jayaweera",
+          "code_url": "http://malithjayaweera.blogspot.com/2016/08/postcp-change-point-detection-with-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6689634364948480/"
+        },
+        {
+          "title": "plot.xts for Performance and Risk",
+          "short_description": "xts::plot.xts is a strong engine for statistical and financial charting. But quantmod, PerformanceAnalytics, PortfolioAnalytics, quantstrat and...",
+          "student_name": "Eric Hung",
+          "code_url": "https://gist.github.com/naturalsmen/039fad3e19fa9585643a7aacd952c666",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5727217287954432/"
+        },
+        {
+          "title": "Rperform: performance analysis for R package code",
+          "short_description": "Rperform is a tool to help package developers analyze the performance of their R package code. It returns quantitative metrics, relating to memory...",
+          "student_name": "akashtndn",
+          "code_url": "https://techandmortals.wordpress.com/2016/08/23/gsoc-2016-report-rperform-performance-analysis-of-r-package-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5010990420721664/"
+        },
+        {
+          "title": "Integration of Text Mining and Topic Modeling Tools",
+          "short_description": "The goal of this project is to create a user friendly API for an integrated workflow to perform typical text mining, natural language processing, and...",
+          "student_name": "JanIdziak",
+          "code_url": "http://flowr.io/final-evaluation-approaching/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5321912766955520/"
+        },
+        {
+          "title": "Improving markovchain R package",
+          "short_description": "This project aims to extend markovchain R package functions and capabilities in order to provide statisticians a wider range of tools to perform...",
+          "student_name": "cryptomanic",
+          "code_url": "https://github.com/spedygiorgio/markovchain/commits?author=cryptomanic",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6215670362537984/"
+        },
+        {
+          "title": "GAS package",
+          "short_description": "The GAS package for R aims to create an integrated computational environment to deal with Generalised Autoregressive Score (GAS) models. GAS models...",
+          "student_name": "Leopoldo Catania",
+          "code_url": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2825380",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4537082387103744/"
+        },
+        {
+          "title": "RE2 regular expressions in R",
+          "short_description": "R provides two types of regular expressions in base package, extended regular expressions (the default) with TRE and Perl-like regular expressions...",
+          "student_name": "Qin Wenfeng",
+          "code_url": "http://blog.qinwenfeng.com/post/re2r-intro/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4657237855305728/"
+        },
+        {
+          "title": "NicheToolbox: from getting biodiversity data to evaluating species distribution models in a friendly GUI environment.",
+          "short_description": "NicheToolBox project will be an R package with a friendly Graphical User Interface (GUI) developed using shiny framework that aims to facilitate the...",
+          "student_name": "luismurao",
+          "code_url": "https://luismurao.github.io/GSoC/gsoc_final_eval.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4687966467260416/"
+        },
+        {
+          "title": "Visualization of powerful boundary detection tools",
+          "short_description": "This project will add significant functionality to the BayesBD package and increase its efficiency by optimizing code in C++.",
+          "student_name": "nasyrin",
+          "code_url": "https://github.com/nasyring/GSOC-BayesBD/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4738371129704448/"
+        },
+        {
+          "title": "Managing and visualizing movement data with PostGIS and R",
+          "short_description": "The project develops the integration of R and PostGIS for managing movement trajectories. The focus is on streamlining the workflow for biologists to...",
+          "student_name": "Bal\u00e1zs Dukai",
+          "code_url": "https://github.com/mablab/rpostgisLT/wiki/GSoC-2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4744662988357632/"
+        },
+        {
+          "title": "Implementation of hyperspectral unmixing algorithms for unimixR package",
+          "short_description": "Hyperspectral data is often used to determine what materials are present in a scene. Materials of interest could include roadways, vegetation, and...",
+          "student_name": "ABelov",
+          "code_url": "https://github.com/AaBelov/UnmixR/commits/VCALopezBugfix?author=AaBelov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4760780926877696/"
+        },
+        {
+          "title": "A generic computational framework for biconvex minimization toolbox in R",
+          "short_description": "Estimations of a large family of statistical models can be casted as optimizing biconvex functions over given (bi)convex sets. Our goal in this...",
+          "student_name": "xingguo",
+          "code_url": "https://github.com/mlcoding/matfact",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6528238620770304/"
+        },
+        {
+          "title": "Visualization of model hyperparameter optimization curves",
+          "short_description": "The goal of this project is to provide users of the mlr package with a way to visualize what happens during the tuning process that identifies the...",
+          "student_name": "MasonGallo",
+          "code_url": "https://github.com/mlr-org/mlr/commits?author=MasonGallo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4858706986532864/"
+        },
+        {
+          "title": "Standard Error of Risk and Performance Measures for Non-Normal and Serially Correlated Asset Returns",
+          "short_description": "This project is focused on implementing methods to accurately compute the accurate standard errors of risk and performance measures in...",
+          "student_name": "Xin Chen",
+          "code_url": "https://github.com/chenx26/EstimatorStandardError/commits/master?author=chenx26",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5770545454907392/"
+        },
+        {
+          "title": "ggduo: pairs plots for multiple regression, cca, time series",
+          "short_description": "The function ggpairs and ggscatmat in GGally provide generalized pairs plots for a data frame in R. All pairs of variables are displayed, with plot...",
+          "student_name": "schloerke",
+          "code_url": "https://github.com/schloerke/gsoc-ggduo-final/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5880393806905344/"
+        },
+        {
+          "title": "Markov Switching GARCH models (MSGARCH)",
+          "short_description": "The goal of this project is to implement a package that will give the fi\fnancial community tools to estimate, simulate, and test several MSGARCH...",
+          "student_name": "Kbluteau",
+          "code_url": "https://github.com/keblu/MSGARCH/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5960760429641728/"
+        },
+        {
+          "title": "Regularized interval regression",
+          "short_description": "R package for regression with general interval censored output data. This will be the first R package with support for (1) four types of censoring,...",
+          "student_name": "kcm",
+          "code_url": "https://github.com/anujkhare/iregnet",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6304592157474816/"
+        },
+        {
+          "title": "Major Improvements to the factorAnalytics package",
+          "short_description": "This is a proposal to add and improve the functionality, usability, and graphics to each of the three main factor model types (fundamental, time...",
+          "student_name": "Acharya",
+          "code_url": "https://github.com/AvinashAcharya/factorAnalytics",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5197211075870720/"
+        },
+        {
+          "title": "Implementation of Recurrent Models and Examples in R for MXNet",
+          "short_description": "I aim to implement some important deep learning models in R for the MXNet package. The main component of the proposed work is the implementation of...",
+          "student_name": "Yuqi Li",
+          "code_url": "http://dmlc.ml/rstats/2016/08/19/recurrent-models-and-examples-with-mxnet-r.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5199297624670208/"
+        },
+        {
+          "title": "Mosaicplots in the ggplot2 framework: ggmosaic",
+          "short_description": "The package productplots already provides a fully functional base for creating mosaic plots based on the ggplot2 framework. I will make use of this...",
+          "student_name": "haleyj",
+          "code_url": "https://github.com/haleyjeppson/ggmosaic/commits/master?author=haleyjeppson",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5203008476413952/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5555424770129920/",
+      "num_projects": 33,
+      "projects": [
+        {
+          "title": "Interactive trajectory tool for rpostgisLT",
+          "short_description": "The goal of the project is to build an interactive trajectory analysis extension for the R package rpostgisLT, that was developed during the GSoC...",
+          "student_name": "Bal\u00e1zs Dukai",
+          "code_url": "https://github.com/mablab/rpostgisLT/wiki/GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6593752038637568/"
+        },
+        {
+          "title": "metawRite:Meta analysis update package, LSR (Living systematic review)",
+          "short_description": "Living systematic reviews have been proposed as a new approach to deal with the main problem of  traditional systematic reviews. Systematic reviews...",
+          "student_name": "Natalia da Silva",
+          "code_url": "https://github.com/natydasilva/metawRite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6675178310336512/"
+        },
+        {
+          "title": "Markovchain package",
+          "short_description": "This project aims to extend the current functionality and capabilities of the R package \u2018markovchain\u2019 in order to provide statisticians a more...",
+          "student_name": "Vandit Jain",
+          "code_url": "https://gist.github.com/vandit15/88fc76dea9b8c1723c5ee39893875760",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6750949586501632/"
+        },
+        {
+          "title": "Graphical Models for Mixed Multi Modal Data",
+          "short_description": "In this project, we propose a new package to make graphical models for mixed multi-modal data readily available to a wide audience. The proposed...",
+          "student_name": "Xia Zhang",
+          "code_url": "https://xia-zhang.github.io/MixedGraphs/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5695514792165376/"
+        },
+        {
+          "title": "Noninvasive source code formatting",
+          "short_description": "A coherent coding style greatly simplifies collaborative work. \nThis is easiest enforced by an automatic code formatter, but existing solutions to...",
+          "student_name": "Lorenz Walthert",
+          "code_url": "https://lorenzwalthert.github.io/gsoc2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5410482240356352/"
+        },
+        {
+          "title": "Operator Based Machine Learning Pipeline Construction",
+          "short_description": "The package mlr is a comprehensive machine learning toolkit for R, providing a standardized interface to over sixty machine learning R packages, in...",
+          "student_name": "mb706",
+          "code_url": "https://github.com/mlr-org/mlrCPO/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5417148298035200/"
+        },
+        {
+          "title": "Native R API for Tensorflow",
+          "short_description": "R does not have a high-level modeling language for designing neural networks. Tensorflow, an open source python library, is a great tool for this...",
+          "student_name": "Wazeer Zulfikar",
+          "code_url": "https://github.com/wazeerzulfikar/rtensorflow/tree/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5498707176849408/"
+        },
+        {
+          "title": "NIMBLE Ecology Package",
+          "short_description": "The goal of this project is to build a new R package providing high-level user interfaces to many kinds of ecological models and implementing the...",
+          "student_name": "Coin Lewis-Beck",
+          "code_url": "https://github.com/clewisbe/nimbleEco",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6156020111900672/"
+        },
+        {
+          "title": "Constrained Hierarchical Agglomerative Clustering",
+          "short_description": "Constrained HAC is useful in various application fields like ecology and bioinformatics.This project aims to build an efficient constrained HAC...",
+          "student_name": "Shubham-Chaturvedi",
+          "code_url": "https://gist.github.com/rewee/4e08e076515056235b64af944061f49a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6177118333435904/"
+        },
+        {
+          "title": "Animated Interactive Plots (animint)",
+          "short_description": "animint package in R allows animated data visualization which is a useful tool for obtaining an intuitive understanding of patterns in multivariate...",
+          "student_name": "Faizan Khan",
+          "code_url": "https://faizan-khan-iit.github.io/gsoc17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5059957342863360/"
+        },
+        {
+          "title": "Control Systems Toolbox",
+          "short_description": "This project proposes to develop a control-systems package for R. For many years, R has been used extensively for several data-related tasks. With...",
+          "student_name": "BEN UBAH",
+          "code_url": "https://github.com/benubah/control",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5098416224862208/"
+        },
+        {
+          "title": "Parser and Crawler for Biodiversity checklists",
+          "short_description": "Compiling taxonomic checklists from varied sources of data is a common task that biodiversity informaticians encounter. Data for checklists usually...",
+          "student_name": "Qingyue Xu",
+          "code_url": "https://github.com/qingyuexu/bioparser",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5265884381708288/"
+        },
+        {
+          "title": "Biodiversity Data Cleaning",
+          "short_description": "Data cleaning is a process used to determine inaccurate, incomplete, or unreasonable data and then improving the quality through correction of...",
+          "student_name": "Ashwin Agrawal",
+          "code_url": "https://github.com/AshwinAgrawal16/BiodiversitydatacleaningGSoC17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5296425625714688/"
+        },
+        {
+          "title": "Integrating biodiversity data curation functionality",
+          "short_description": "The importance of data in the biodiversity research has been repeatedly stressed in the recent times and various organizations have come together and...",
+          "student_name": "Thiloshon Nagarajah",
+          "code_url": "https://github.com/thiloshon/Biodiversity",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5343574702948352/"
+        },
+        {
+          "title": "Sentometrics: An integrated framework for text based multivariate time series modeling and forecasting",
+          "short_description": "This project leads to the creation of the Sentometrics package that is designed to do time series analysis based on textual sentiment. Time series...",
+          "student_name": "Samuel Borms",
+          "code_url": "https://drive.google.com/open?id=0B4zbdJSExeXBT09xNVI4bnpJMVU",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5539503057928192/"
+        },
+        {
+          "title": "Distributional Assessments with Q-Q Plots",
+          "short_description": "Quantile-quantile plots (Q-Q plots) are a powerful way of visually diagnosing distributional assumptions of random variables. Q-Q plots have been...",
+          "student_name": "Alexandre Almeida",
+          "code_url": "https://github.com/aloy/qqplotr/wiki/GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5601770956914688/"
+        },
+        {
+          "title": "Risk and Performance Measure Standard Errors for Serially Correlated Returns",
+          "short_description": "This project is focused on developing a Risk/Performance Standard Errors (RPSE) package that implements a new methodology based on statistical...",
+          "student_name": "Xin Chen",
+          "code_url": "https://github.com/chenx26/glmnetRcpp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5619269727420416/"
+        },
+        {
+          "title": "Advancing_factorAnalytics",
+          "short_description": "The project plan represents a very significant step forward for the factorAnalytics package by adding advanced methods to the fundamental factor...",
+          "student_name": "Chindhanai Uthaisaad",
+          "code_url": "https://github.com/chindhanai/factorAnalyticsAddons",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5629063058161664/"
+        },
+        {
+          "title": "Interactive Genome Browser in R",
+          "short_description": "The project intends to provide an interactive and user-friendly way to visualizing track-based genomic data by wrapping the flexible TnT javascript...",
+          "student_name": "Jialin Ma",
+          "code_url": "https://github.com/Marlin-Na/TnT",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6249294453538816/"
+        },
+        {
+          "title": "Active Set Based Second-order Algorithm for Sparse Learning",
+          "short_description": "For sparse learning problems, such as sparse generalized linear models and sparse undirected graphical model estimation, the current R packages still...",
+          "student_name": "Jason Ge",
+          "code_url": "https://github.com/sparseML/ActiveSparseML",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4518280094023680/"
+        },
+        {
+          "title": "Speed optimizations for iregnet",
+          "short_description": "The iregnet package is the first R package to support four types of censoring and elastic net (L1 + L2) regularization. Though it is already useful...",
+          "student_name": "Rover Van",
+          "code_url": "http://rovervan.com/post/gsoc/gsoc-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4534893027524608/"
+        },
+        {
+          "title": "Efficient SMC Algorithms in Rcpp",
+          "short_description": "Sequential Monte Carlo (SMC) methods are powerful alternatives to standard Markov chain Monte Carlo (MCMC) for sampling from the posterior of complex...",
+          "student_name": "Leah South",
+          "code_url": "https://github.com/LeahPrice/rcppsmc/wiki/RcppSMC-GSoC-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4630470948028416/"
+        },
+        {
+          "title": "Integrated Oversampling for Time Series Classification",
+          "short_description": "A significant number of learning problems involve the accurate classification of rare events or outliers from time series data. For example, the...",
+          "student_name": "lwei",
+          "code_url": "https://github.com/lweicdsor/OSTSC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4637744877797376/"
+        },
+        {
+          "title": "Bayesian Hierarchical Hidden Markov Models applied to financial time series.",
+          "short_description": "The goal of this project is to replicate research in Hierarchical Hidden Markov Models (HHMM) applied to financial data. This model is a...",
+          "student_name": "Luis Antonio Damiano",
+          "code_url": "https://github.com/luisdamiano/gsoc17-hhmm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4669385096560640/"
+        },
+        {
+          "title": "bigPint: Big multivariate data plotted interactively",
+          "short_description": "Parallel coordinate plots, scatterplot matrices, and replicate line plots are useful visual tools to understand the relationship between variables in...",
+          "student_name": "Lindsay Rutter",
+          "code_url": "https://gist.github.com/lrutter/e033b524971d3950bb02d8a128905423",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6520497076436992/"
+        },
+        {
+          "title": "Sparse matrix automatic conversion in RcppArmadillo",
+          "short_description": "This project is aimed to complete the integration between R Matrix package and Armadillo Package. During this project, I am going to do such things:\n...",
+          "student_name": "Binxiang Ni",
+          "code_url": "https://binxiangni.github.io/blog/2017-08-20-gsoc-2017-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4871573232156672/"
+        },
+        {
+          "title": "FireData: Connecting R to Firebase",
+          "short_description": "R is one of the strongest players in data science. The aim is to connect its strength in data analysis with the actual data. By making it easier to...",
+          "student_name": "Robin Kohze",
+          "code_url": "https://github.com/Kohze/fireData",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4892259539484672/"
+        },
+        {
+          "title": "Portfolio Construction and Risk Management with Unequal Returns Histories",
+          "short_description": "The goal of this project is to implement the three methods in an \u201cUnequal Histories\u201d package that: (1) facilitates use of the methods in portfolio...",
+          "student_name": "Pushpak Sarkar",
+          "code_url": "https://github.com/spushpak/UnequalReturnHist",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4915959705894912/"
+        },
+        {
+          "title": "A stochastic variational inference framework for probabilistic modeling toolbox in R",
+          "short_description": "Stochastic variational inference is a powerful tool for analyzing probabilistic models, especially for large scale problem. In this project, our goal...",
+          "student_name": "Zhehui Chen",
+          "code_url": "https://github.com/mathczh/SVI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5802103666638848/"
+        },
+        {
+          "title": "Tidy data structures and visual methods to support exploration of big temporal-context data",
+          "short_description": "This new package aims to fit into the tidyverse and grammar of graphics suite to support and facilitate temporal-context data analysis and...",
+          "student_name": "Earo Wang",
+          "code_url": "https://github.com/earowang/sugrrants#google-summer-of-code-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5915213643644928/"
+        },
+        {
+          "title": "Estimating the Empirical Cluster Tree",
+          "short_description": "The aim of this project is to provide a standalone, scalable, and extensible R package that unifies existing methodologies for estimating the...",
+          "student_name": "Matthew Piekenbrock",
+          "code_url": "https://github.com/peekxc/clustertree",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5919718795902976/"
+        },
+        {
+          "title": "Improved functionality for higher order comoment estimation in PerformanceAnalytics",
+          "short_description": "In this project I aim to improve estimation of the higher order comoment matrices currently implemented in the R packages PerformanceAnalytics and...",
+          "student_name": "cdries",
+          "code_url": "https://cdries.github.io/GSoC2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5992312870010880/"
+        },
+        {
+          "title": "Markov Switching GARCH models (MSGARCH) in R",
+          "short_description": "Modeling the volatility of financial markets is central in risk management. A seminal contribution in this field was the development of the GARCH...",
+          "student_name": "Leopoldo Catania",
+          "code_url": "https://drive.google.com/drive/folders/0Bzb_udhCb_sNeGRJMDZGZVlOaGM?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5210774314156032/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6343413561556992/",
+      "num_projects": 24,
+      "projects": [
+        {
+          "title": "rTrawl",
+          "short_description": "Trawl processes are continuous-time processes exhibiting autocorrelation. They are determined by a L\u00e9vy seed and trawl function, which can be viewed...",
+          "student_name": "Dries Cornilly",
+          "code_url": "https://cdries.github.io/GSoC2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5734309889572864/"
+        },
+        {
+          "title": "Full Bayesian Inference for Hidden Markov Models",
+          "short_description": "We create an R Package to run full Bayesian inference on Hidden Markov Models (HMM) using the probabilistic programming language Stan. By providing...",
+          "student_name": "Luis Damiano",
+          "code_url": "https://luisdamiano.github.io/BayesHMM/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5740238420836352/"
+        },
+        {
+          "title": "Firedata - Implementing Web Functionalities for Shiny and OpenCPU",
+          "short_description": "This project aims to integrate Firedata into a wide array of statistical web applications. We thereby not only add additional authorization functions...",
+          "student_name": "Paul",
+          "code_url": "http://www.paulspen.de/fireData/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5750197846016000/"
+        },
+        {
+          "title": "bdclean: User friendly biodiversity data cleaning pipeline",
+          "short_description": "Until recently, biodiversity data was scattered in different formats in natural history collections, survey reports, and in literature. In the last...",
+          "student_name": "Thiloshon Nagarajah",
+          "code_url": "https://github.com/thiloshon/bdclean",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5436681406644224/"
+        },
+        {
+          "title": "Efficient R tools for geometrical statistics",
+          "short_description": "Volume computation of convex polytopes and sampling algorithms are very useful in many scientific fields and applications. The VolEsti is a C++...",
+          "student_name": "Apostolos Chalkis",
+          "code_url": "https://tolischal.github.io/FinalEvaluationGSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5477184021987328/"
+        },
+        {
+          "title": "Animint2 Designer Manual",
+          "short_description": "Animint2 is a re-write of Animint which is an R package for making interactive animated data visualization on the web using ggplot syntax and two new...",
+          "student_name": "vivekktiwari",
+          "code_url": "https://vivekktiwari.github.io/gsoc18/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5534085896208384/"
+        },
+        {
+          "title": "Max Margin Interval Trees",
+          "short_description": "There are few R packages available for interval regression, a machine learning problem which is important in genomics and medicine. Like usual...",
+          "student_name": "Parismita Das",
+          "code_url": "https://aldro61.github.io/mmit/tutorials/R/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5255912742715392/"
+        },
+        {
+          "title": "R Interface to Ideogram.js Library",
+          "short_description": "This project aims to provide an R interface to Ideogram.js, integrate it with bioconductor infrastructures and possibly provide an interactive...",
+          "student_name": "Tim Yu",
+          "code_url": "https://github.com/Tim-Yu/ideogRam",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6253207772725248/"
+        },
+        {
+          "title": "Extending 'rvw' and reintegrating vowpal wabbit",
+          "short_description": "Vowpal Wabbit is an online machine learning system that is known for its speed and scalability and is widely used in research and industry. The goal...",
+          "student_name": "Ivan Pavlov",
+          "code_url": "https://github.com/ivan-pavlov/rvwgsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4551004657811456/"
+        },
+        {
+          "title": "Bayesian analysis of individualized treatment response curves on EHR time series",
+          "short_description": "With the fast adoption of Electronic Health Records (EHR) in modern healthcare systems, various machine learning methods are developed to conduct...",
+          "student_name": "Yanbo Xu",
+          "code_url": "https://github.com/yanboxu/BayesianITR",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4595745197916160/"
+        },
+        {
+          "title": "Fast Symbolic Computation in R with  SymEngine",
+          "short_description": "A computer algebra system(CAS) is a useful tool for researchers and scientists. Some tools exists for algebra compution are either few-featured or...",
+          "student_name": "Xin Chen",
+          "code_url": "https://gist.github.com/irexyc/bb5b15adbc36b001b92870fae9af59f2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4629783350607872/"
+        },
+        {
+          "title": "A Shiny User Interface to RobStatTM",
+          "short_description": "Project Summary\nThe goal of this project is to develop a point-and-click graphical user interface (GUI) for the RobStatTM package. Both the UI and...",
+          "student_name": "Gregory Brownson",
+          "code_url": "https://github.com/GregoryBrownson/RobStatTM-GUI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4730186129997824/"
+        },
+        {
+          "title": "Automatic Differentiation in R through Julia",
+          "short_description": "Automatic differentiation (AD) is a set of techniques to calculate derivatives automatically.\nIt generally outperforms non-AD methods like symbolic...",
+          "student_name": "Changcheng Li",
+          "code_url": "https://github.com/Non-Contradiction/autodiffr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6018917306728448/"
+        },
+        {
+          "title": "Darwinazing biodiversity data in R",
+          "short_description": "Darwin Core (DwC) is a standard maintained by the Darwin Core maintenance group. It includes a glossary of terms (in other contexts these might be...",
+          "student_name": "Povilas Gibas",
+          "code_url": "https://github.com/bd-R/bdDwC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6037908108607488/"
+        },
+        {
+          "title": "Firedata - Enabling easy cloud stats through Firestore",
+          "short_description": "This project will integrate with Google Cloud Firestore and also update the current Firedata package with the newest Firebase APIs and features.",
+          "student_name": "Jiasheng Zhu",
+          "code_url": "https://19hourz.github.io/fireData/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6088046147534848/"
+        },
+        {
+          "title": "changepoint.online",
+          "short_description": "There are many R packages available for offline changepoint detection but, to the knowledge of myself and the mentors, only one for online change...",
+          "student_name": "Andrew Connell",
+          "code_url": "https://github.com/rkillick/changepoint.online",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4854573080510464/"
+        },
+        {
+          "title": "Biodiversity Data Utilities",
+          "short_description": "The aim of the project is to improve the current functionality of existing data management and cleaning packages for Biodiversity in R and integrate...",
+          "student_name": "Ashwin Agrawal",
+          "code_url": "https://github.com/bd-R/bdtools",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5758578199625728/"
+        },
+        {
+          "title": "Diagnostic statistics and visualization for quantile regression",
+          "short_description": "This project aims to extend diagnostic statistics in the R package quokar.  Currently in this package we have several methods such as absolute...",
+          "student_name": "Wenjing Wang",
+          "code_url": "https://wenjingwang.github.io/quokar/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5862382593114112/"
+        },
+        {
+          "title": "Fast Sparse Linear Models for Big Data with SAGA",
+          "short_description": "There are many alternatives for L1-regularized generalized linear models in R, but none that utilizes the efficient SAGA algorithm despite its...",
+          "student_name": "Johan Larsson",
+          "code_url": "https://github.com/jolars/sgdnet/wiki/GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6276491595743232/"
+        },
+        {
+          "title": "GEE and QIF for clustered data regression",
+          "short_description": "This project aims at developing a new R package for clustered data regression. Details include:\n\nRewrite basic GEE method based on Rcpp and...",
+          "student_name": "Yuze Zhou",
+          "code_url": "https://github.com/zhouyuze/geeq",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6318983787577344/"
+        },
+        {
+          "title": "rOceans: an R Package for integrating spatial trends in biodiversity, human stressors, and conservation efforts",
+          "short_description": "rOceans will be an R package that serves as a platform for integrating multiple spatial datasets on marine biodiversity, human-driven stressors, and...",
+          "student_name": "Ignasi Montero Serra",
+          "code_url": "https://github.com/monteroserra/rOceans",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5152897750794240/"
+        },
+        {
+          "title": "A Major Update for HUGE and SAM",
+          "short_description": "With the recent progress in the theoretical field of sparse learning problems, current R packages are lagging behind the cutting edge research. We...",
+          "student_name": "Haoming Jiang",
+          "code_url": "https://gist.github.com/HMJiangGatech/2dae8641c8c663efa8cf03b3aa4072f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5155206429933568/"
+        },
+        {
+          "title": "Species range maps in R",
+          "short_description": "The species range maps project is motivated by the importance of information about species distribution for processes of conservation planning and...",
+          "student_name": "Marlon E. Cobos",
+          "code_url": "https://github.com/marlonecobos/rangemap",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5162453918810112/"
+        },
+        {
+          "title": "Performance Analytics Standard Errors",
+          "short_description": "The current finance industry practice in reporting risk and performance measure estimates of assets\nand portfolios does not typically include...",
+          "student_name": "Anthony_AC",
+          "code_url": "https://github.com/AnthonyChristidis/GSOC-2018---Performance-Analytics-Standard-Errors-",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5206379891523584/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5218980686462976/",
+      "num_projects": 30,
+      "projects": [
+        {
+          "title": "IREGNET on CRAN",
+          "short_description": "Iregnet is the first R package to support general interval output data (no censoring as well as left, right and interval censored data) and elastic...",
+          "student_name": "Aditya Samantaray",
+          "code_url": "https://theadityasam.github.io/GSOC2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6426603217747968/"
+        },
+        {
+          "title": "Neural Network Package Validation 2",
+          "short_description": "The purpose of this project is to verify the convergence of the training algorithms provided in 69 Neural Network R packages available on CRAN to...",
+          "student_name": "Salsabila Mahdi",
+          "code_url": "https://gist.github.com/ApaBila/7b8c7134cee1281473ffb6dd08c0d2f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6434601185050624/"
+        },
+        {
+          "title": "gravitas: Exploring probability distributions for bivariate temporal granularities",
+          "short_description": "gravitas aims to provide methods to operate on time in an automated way, to deconstruct it in many different ways. Deconstructions of time that...",
+          "student_name": "Sayani Gupta",
+          "code_url": "https://gist.github.com/Sayani07/a10221f38a61fcadcc089bd8f82e0d46",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5752843108089856/"
+        },
+        {
+          "title": "Tree-regularized convolutional Neural Network (tCNN) for microbiome-based prediction",
+          "short_description": "One important characteristic for microbiome data is the number of microbiome is far larger than small sample size (n>>p), resulting in a...",
+          "student_name": "Ye",
+          "code_url": "https://github.com/alfredyewang/tCNN",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5466230813622272/"
+        },
+        {
+          "title": "Implementing biodiversity data checks for the bdchecks package",
+          "short_description": "Background\nbdchecks is an infrastructure for performing, filtering and managing various biodiversity data checks using R. Data checks are a key to...",
+          "student_name": "Povilas Gibas",
+          "code_url": "https://github.com/bd-R/bdchecks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5531630951727104/"
+        },
+        {
+          "title": "sentometrics",
+          "short_description": "The transformation of textual data into time series variables, and their subsequent use in an econometric analysis is an important and emerging...",
+          "student_name": "Andres Algaba",
+          "code_url": "https://drive.google.com/open?id=1aVWoscC84IqohvOQ6_crkQiAhctwuvv5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5536338722422784/"
+        },
+        {
+          "title": "A New Package for Empirical Asset Pricing Research, or EAPR",
+          "short_description": "A major effort in empirical asset pricing research is the initial stage of gathering the data, cleaning and filtering it, and then formatting it in a...",
+          "student_name": "Gregory S Brownson",
+          "code_url": "https://gist.github.com/GregoryBrownson/54574f2c4c14d9942a6176a1374f4333",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4973388769001472/"
+        },
+        {
+          "title": "Sampling Methods for Convex Optimization",
+          "short_description": "Extend VolEsti (a c++ library with an R interface) by implementing randomized algorithms for convex optimization. First, there is a need to implement...",
+          "student_name": "Panagiotis Repouskos",
+          "code_url": "https://panagiotisrep.github.io/gsoc2019/gsoc2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5081309804756992/"
+        },
+        {
+          "title": "Add Support for Extra Optimization Solvers to PortfolioAnalytics",
+          "short_description": "PortfolioAnalytics is a popular R package designed to provide optimized solution and visualizations for portfolio allocating problems with complex...",
+          "student_name": "Shawn Feng",
+          "code_url": "https://github.com/Shawnfeng92/GSoC/tree/master/Final%20Evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5246812678520832/"
+        },
+        {
+          "title": "Project Proposal Translator from ggplot2 to Vega Lite",
+          "short_description": "Project Abstract\nAbout me\nMentors Information\nCoding Plan and Methods\nCommitments\nTimeline",
+          "student_name": "wenyu yang",
+          "code_url": "https://github.com/vegawidget/ggvega/tree/master/src-ext/TypeScript",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5356751291940864/"
+        },
+        {
+          "title": "Exploring Election and Census Highly Informative Data Nationally for Indonesia ( Eechidna R package)",
+          "short_description": "In Indonesia, elections are highly anticipated, because it provides an opportunity for all people to\ninfluence the direction of their country. The...",
+          "student_name": "Fahrozi Fahrozi",
+          "code_url": "https://github.com/FahroziFahrozi/GSoC-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5363366883753984/"
+        },
+        {
+          "title": "Optimal partitioning algorithm for changepoint detection",
+          "short_description": "There are several applications where we need to work with ordered data (e.g. Time-series). This includes\nfinancial data, climate data, radio signals,...",
+          "student_name": "Anuraag Srivastava",
+          "code_url": "https://github.com/as4378/opart",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5372741119639552/"
+        },
+        {
+          "title": "MoMA - Modern Multivariate Analysis in R",
+          "short_description": "Multivariate Analysis techniques are indispensable in the era of Big Data. However, a unified and user-friendly framework has been lacking to date....",
+          "student_name": "Luofeng Liao",
+          "code_url": "https://github.com/DataSlingers/MoMA/wiki/GSoC-2019---Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6183768115642368/"
+        },
+        {
+          "title": "Data-Driven Exploration of the R Community",
+          "short_description": "This project proposes to build an infrastructure that helps the R community explore R user groups,  R-Ladies groups and past R-GSoC projects using a...",
+          "student_name": "Ben Ubah",
+          "code_url": "https://github.com/benubah/r-community-explorer/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4504023854481408/"
+        },
+        {
+          "title": "State-of-the-art geometric random walks in R",
+          "short_description": "Sampling algorithms and volume computation of convex polytopes are very useful in many scientific fields and applications. The package volesti is a...",
+          "student_name": "Apostolos Chalkis",
+          "code_url": "https://tolischal.github.io/FinalEvalGSOC19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4593910741991424/"
+        },
+        {
+          "title": "cpVis: Interactive visualization for change point exploration and labeling",
+          "short_description": "A changepoint is typically defined as a point in time where the distribution of a data-stream changes in a distinct manner, for example, typically...",
+          "student_name": "Oliver Ford",
+          "code_url": "https://github.com/OllieFord/ChangepointVis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4605877863055360/"
+        },
+        {
+          "title": "Second Order Structure in the Changepoint Package",
+          "short_description": "Detecting changes in statistical properties of a time series is important in a large number of fields. A large amount of research has taken place...",
+          "student_name": "AndrewC1998",
+          "code_url": "https://github.com/AndrewC1998/GSoC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4647488932282368/"
+        },
+        {
+          "title": "sgdnet: efficient regularized GLMs for big data",
+          "short_description": "There is not yet any way in R to fully leverage the power of stochastic gradient algorithms for fitting generalized linear models (GLM). The...",
+          "student_name": "Qincheng Lu",
+          "code_url": "https://wzzlcss.github.io/gsoc2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4654960430546944/"
+        },
+        {
+          "title": "PRIMAL: An R Package for Linear Programming-based Sparse Learning Methods in High Dimensions",
+          "short_description": "Linear Programming (LP) based sparse learning methods, such as the Dantzig selector (for linear regression), sparse quantile regression, sparse...",
+          "student_name": "Yujia Xie",
+          "code_url": "https://github.com/ShenQianli/primal.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4715409545101312/"
+        },
+        {
+          "title": "Parallel Coordinate Plots in ggplot2",
+          "short_description": "We plan to create a package for parallel coordinate plots using ggplot2 based on the existing methods. We want it to make use of larger flexibility...",
+          "student_name": "Yawei Ge",
+          "code_url": "https://github.com/yaweige/ggpcp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4823273404104704/"
+        },
+        {
+          "title": "Adding plotting engine into PerformanceAnalytics package",
+          "short_description": "Adding plotting engine into PerformanceAnalytics package.",
+          "student_name": "Ziheng Zhou",
+          "code_url": "https://github.com/zenithzhou/PerformanceAnalytics/tree/chartingengine",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4936102194970624/"
+        },
+        {
+          "title": "Neural Network Package Validation 1",
+          "short_description": "The purpose of this project is to verify the convergence of the training algorithms provided in 69 Neural Network R packages available on CRAN to...",
+          "student_name": "Akshaj Verma",
+          "code_url": "https://akshajverma.com/NNbenchmarkWeb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5785579348819968/"
+        },
+        {
+          "title": "Grinnellian ecological niches and ellipsoids in R",
+          "short_description": "Distributional ecology is a growing field of science dedicated to characterize species distributions based on their ecological niches. Based on early...",
+          "student_name": "Marlon E. Cobos",
+          "code_url": "https://github.com/marlonecobos/ellipsenm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5790103425777664/"
+        },
+        {
+          "title": "Enhancing Visualizations for Biodiversity Data",
+          "short_description": "We plan to incorporate into bdvis two state-of-the-art elements: interactive plotting and dashboards. We plan to develop and test an interface that...",
+          "student_name": "Rahul Chauhan",
+          "code_url": "https://github.com/bd-R/dashboard.demo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5794953584705536/"
+        },
+        {
+          "title": "Improving the R package highfrequency",
+          "short_description": "The R package highfrequency is the go-to package for intraday financial analysis in R. In the project, I will enhance its functionalities, rework...",
+          "student_name": "Onno Kleen",
+          "code_url": "https://github.com/onnokleen/highfrequency/blob/master/GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5860548137189376/"
+        },
+        {
+          "title": "An R package for two new skew-t distributions",
+          "short_description": "We will develop an R package for two families of skew-t distributions that have different tail behavior for left and right tails, namely the family...",
+          "student_name": "Daniel Xia",
+          "code_url": "https://github.com/dan9401/skewtDist",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5955075401318400/"
+        },
+        {
+          "title": "Add subsampling to aster models",
+          "short_description": "We add support for sampling arrows to aster models using the theory of curved exponential families.",
+          "student_name": "Shannon Sequeira",
+          "code_url": "https://github.com/cjgeyer/aster/commit/58b08cd119487da39c10770d29408b71c676168a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6297056082132992/"
+        },
+        {
+          "title": "R Code Optimizer",
+          "short_description": "R is slow compared to other popular languages. \u201cThe R interpreter is not fast and execution of large amounts of R code can be unacceptably slow\u201d....",
+          "student_name": "Juan Cruz Rodriguez",
+          "code_url": "https://jcrodriguez1989.github.io/rco/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6300906386096128/"
+        },
+        {
+          "title": "xgboost loss functions",
+          "short_description": "The project requires implementing 2 new objective loss functions - one for survival loss and another is for binomial loss. Survival loss includes...",
+          "student_name": "Avinash Barnwal-1",
+          "code_url": "https://docs.google.com/document/d/1JpgOs703X47XPiGdoRwj1mVzVyYfykFO79_OeTZd8LM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5147541639790592/"
+        },
+        {
+          "title": "Financial Transactions Analytics in blotter",
+          "short_description": "The Transaction Cost Analysis (TCA) of an investment program is a critical framework to pursue its best execution, as costs minimization is a...",
+          "student_name": "Vito Lestingi",
+          "code_url": "https://gist.github.com/vi-to/dc7fbe85f238853d624feb181658131c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5216013803585536/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4761521042751488/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Enhancing bdchecks: a biodiversity data quality checks system in R",
+          "short_description": "bdchecks has the potential to centralize the effort to develop a sustainable infrastructure for biodiversity data quality checks in R. This will...",
+          "student_name": "Martynas Jo\u010dys",
+          "code_url": "https://github.com/bd-R/bdchecks/commits/dev?author=Martis6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6665394145722368/"
+        },
+        {
+          "title": "Expanding the highfrequency package",
+          "short_description": "The highfrequency package is the go-to package for the analysis of intraday price data. The package was created as a merger of the packages RTAQ and...",
+          "student_name": "Emil Sj\u00f8rup",
+          "code_url": "https://github.com/emilsjoerup/highfrequency/blob/Final_Evaluation_Archive/GSoC2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5660395554996224/"
+        },
+        {
+          "title": "rco: The R Code Optimizer R Project for Statistical Computing-GSoC 2020",
+          "short_description": "This project aims to further bolster the rco (The R Code Optimizer) package and make it a one stop solution for rendering efficient R code. By...",
+          "student_name": "Rahul Saxena",
+          "code_url": "https://rpubs.com/hinduBale/gsoc2020_final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5390205873291264/"
+        },
+        {
+          "title": "rtracklayer improvements",
+          "short_description": "rtracklayer is an Extensible framework for interacting with multiple genome browsers.\nThe project adds the following new features for rtracklayer.\n...",
+          "student_name": "Sanchit Saini",
+          "code_url": "https://gist.github.com/sanchit-saini/a32d7e3029d8f675420b5f2220426905",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5405905220272128/"
+        },
+        {
+          "title": "Better solvers for SLOPE package",
+          "short_description": "SLOPE package offers implementations that solve the Sorted L-One Penalized Estimation (SLOPE) model for various objective functions. However when...",
+          "student_name": "Akarsh Goyal",
+          "code_url": "https://straw-boy.github.io/solvers/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5476086193848320/"
+        },
+        {
+          "title": "gRPC",
+          "short_description": "Implement Authentication, Security and Streaming in gRPC for R Package",
+          "student_name": "Shehab Hosny",
+          "code_url": "https://gist.github.com/Shehab7osny/68f08397d8894582560077b174a0dce9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5478677938176000/"
+        },
+        {
+          "title": "QBLD - Quantile Regression for Binary Longitudinal Data",
+          "short_description": "This project follows Rahman and Vossmeyer (2019) as its motivating literature, and contributes to the three literatures by extending the various...",
+          "student_name": "Ayush",
+          "code_url": "https://github.com/ayushmclaren/qbld",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4998658535194624/"
+        },
+        {
+          "title": "rsqliteadmin : sqlite admin tool in R shiny",
+          "short_description": "R currently supports working on SQLite databases through the RSQLite package. SQLite is a RDBMS which is light and highly efficient for small scale...",
+          "student_name": "Divyansh Chawla",
+          "code_url": "https://github.com/rsqliteadmin/rsqliteadmin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5285074871779328/"
+        },
+        {
+          "title": "Fortification of the hyperSpec R Package",
+          "short_description": "The hyperSpec (http://hyperspec.r-forge.r-project.org/) package allows R users a suite of utilities for\nmanipulating spectroscopic data. These...",
+          "student_name": "Erick Oduniyi",
+          "code_url": "https://eoduniyi.github.io/hyperSpec.gsoc2020/blog/weekly_reports.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5363327967952896/"
+        },
+        {
+          "title": "mAED: Multi-Stage Adaptive Enrichment Design in R",
+          "short_description": "The average cost of trials in the United States is up to $19.6 million for a Phase 2 trial and $52.9 million for a Phase 3 trial. Optimizing the...",
+          "student_name": "Chen Liang",
+          "code_url": "https://github.com/cliang1453/maed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5566549848489984/"
+        },
+        {
+          "title": "MiniZinc Interface for R",
+          "short_description": "MiniZinc is a free and open-source constraint modeling language. Constraint satisfaction and discrete optimization problems can be formulated in a...",
+          "student_name": "Akshit Achara",
+          "code_url": "https://github.com/acharaakshit/RMiniZinc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6235019934171136/"
+        },
+        {
+          "title": "The bdverse's development and QA frameworks",
+          "short_description": "The project idea is to develop a robust QA framework for bdverse. This shall consists of developing git strategies, developing bdtests...",
+          "student_name": "Sunny Dhoke",
+          "code_url": "https://gist.github.com/sunn-e/6009ecee4cc36710aa585458ac3700b2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4560624887005184/"
+        },
+        {
+          "title": "Biological Survey Planning Considering Hutchinson\u2019s Duality",
+          "short_description": "One of the challenges in biodiversity conservation is to complete an inventory of existing species in the world. Although various developed countries...",
+          "student_name": "Claudia Nu\u00f1ez Penichet",
+          "code_url": "https://github.com/claununez/biosurvey",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4708895513116672/"
+        },
+        {
+          "title": "Constrained changepoint GUI",
+          "short_description": "A Shiny web application for the gfpop R package. [...]\nDetecting sudden changes in data is important to a variety of fields. For example,...",
+          "student_name": "Julian Stanley",
+          "code_url": "https://julianstanley.github.io/gfpopgui/articles/gsoc2020report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4836139791286272/"
+        },
+        {
+          "title": "Animated interactive ggplots",
+          "short_description": "The goal of this GSOC project is to implement new features for animint2 in order to make it possible to do more kinds of interactive data...",
+          "student_name": "lazycipher",
+          "code_url": "https://lazycipher.js.org/gsoc-commits.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6051184160276480/"
+        },
+        {
+          "title": "Asymptotic complexity testing framework/package",
+          "short_description": "R package developers currently use ad-hoc tests of asymptotic computational complexity via empirical timings of functions and visual diagnostic...",
+          "student_name": "Anirban Chetia",
+          "code_url": "https://anirban166.github.io//GSoC-2020-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5767451238727680/"
+        },
+        {
+          "title": "A package for robust-GARCH model",
+          "short_description": "In the R-language, many packages exist for the estimation and forecasting of GARCH processes, including fGarch and rugarch. However, none, to our...",
+          "student_name": "Echo Liu",
+          "code_url": "https://github.com/EchoRLiu/RobustGARCH/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5815940211539968/"
+        },
+        {
+          "title": "Modeling Expected Returns with R",
+          "short_description": "The main goal of the project is to reproduce selected key findings from the empirical asset pricing literature and related investment practices....",
+          "student_name": "Vito Lestingi",
+          "code_url": "https://gist.github.com/vi-to/c923a3c1af3b5c51b857cb568f94d51d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5912208816472064/"
+        },
+        {
+          "title": "bddashboard: Interactive Biodiversity Data Dashboard",
+          "short_description": "The bdverse is a family of R packages that allow users to conveniently employ R, for biodiversity data exploration, quality assessment (QA), data...",
+          "student_name": "Rahul Chauhan",
+          "code_url": "https://github.com/rahulchauhan049/dashboard.experiment",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5174728035139584/"
+        },
+        {
+          "title": "Validation of Neural Network Packages",
+          "short_description": "The purpose of this GSoC project is to validate neural network packages that perform regression. It is a follow-up of a GSoC 2019 project in which we...",
+          "student_name": "Salsabila Mahdi",
+          "code_url": "https://gist.github.com/ApaBila/1b34637799814e91f9676fed712bb06d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5227012450418688/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6564346347388928/",
+      "num_projects": 21,
+      "projects": [
+        {
+          "title": "Add Robust Betas to Performance Analytics",
+          "short_description": "Robust statistics are useful in finance since all classical estimates are vulnerable to extreme distortion by outliers.  Because financial data has...",
+          "student_name": "DhairyaJain",
+          "code_url": "https://jaindhairya2001.medium.com/end-of-a-beautiful-summer-gsoc-the-r-project-adf2f5a1cf57",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6575055143698432/"
+        },
+        {
+          "title": "Efficient and Scalable LP-based Multi-Stage Decision Making in R",
+          "short_description": "Multi-stage decision-making problems widely appear and pose unique challenges in various real-world applications, e.g., robot control, game play, and...",
+          "student_name": "Minshuo Chen",
+          "code_url": "https://github.com/cliang1453/maed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6599272484569088/"
+        },
+        {
+          "title": "GSoC 2021 Proposal Productionizing bddashboard",
+          "short_description": "This proposal details how I will be dealing with the project named Productionizing bddashboard . The main aim of my project is to create a testing...",
+          "student_name": "Rahul Saxena",
+          "code_url": "http://rpubs.com/saxenism/gsoc2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6752724015644672/"
+        },
+        {
+          "title": "Critical efficiency improvements of mcmcse",
+          "short_description": "The package mcmcse is the leading package for estimating Monte Carlo standard errors for Markov chain Monte Carlo and reliable calculation of...",
+          "student_name": "Kushagra Gupta 99",
+          "code_url": "https://gist.github.com/kushagragpt99/92cafb195d3e06e04cba5b9a026c48a3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5669292174999552/"
+        },
+        {
+          "title": "Automated (AutoML) tool to clean univariate time series at microscales.",
+          "short_description": "The goal of this coding project is to develop a new R package, named 'cleanTS'. The expected tasks for this project are as follows:\n\nto understand...",
+          "student_name": "Mayur Shende",
+          "code_url": "https://mayur1009.github.io/cleanTS/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5676749848838144/"
+        },
+        {
+          "title": "bugRzilla: Helping submitting issues to R",
+          "short_description": "The idea of this project is to make enhancements for making it easier to review issues and submit new high-quality issues and adding functions to run...",
+          "student_name": "Piyush_Kumar",
+          "code_url": "https://gist.github.com/kpiyush04/18dac612f8641a959297b74d04a77ac4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5732676933255168/"
+        },
+        {
+          "title": "Binary Segmentation Package",
+          "short_description": "When dealing with time series, sometimes the trend in a signal seems to suddenly change at certain points. In many disciplines it is important to...",
+          "student_name": "Diego E. Jim\u00e9nez Urgell",
+          "code_url": "https://github.com/diego-urgell/BinSeg",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5736752488120320/"
+        },
+        {
+          "title": "Factor analysis based on higher-order moments",
+          "short_description": "The \"hofa\" package for factor selection and estimation based on higher order moments. The aim of my GSOC project is to turn this package into a go-to...",
+          "student_name": "Guanglin Huang",
+          "code_url": "https://github.com/GuanglinHuang/hofa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6144834510782464/"
+        },
+        {
+          "title": "Evolving bdchecks: a biodiversity data quality checks framework",
+          "short_description": "bdchecks may centralize available data checks, facilitate further development of novel data checks, improve user experience, and engage domain...",
+          "student_name": "Martynas Jo\u010dys",
+          "code_url": "https://github.com/bd-R/bdchecks/commits/dev?author=Martis6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5045136320364544/"
+        },
+        {
+          "title": "RcppSMC - support for modern Monte Carlo methods",
+          "short_description": "Sequential Monte Carlo (SMC) methods are a general class of Monte Carlo\nprocedures for sampling from sequences of probability distributions. Basic...",
+          "student_name": "Ilya Zarubin",
+          "code_url": "https://ilyazar.github.io/gsoc2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5121024567279616/"
+        },
+        {
+          "title": "re2r back on CRAN",
+          "short_description": "re2r is a great R package that was rejected from CRAN , the goal of this project is to solve all the warnings that led to it being rejected and...",
+          "student_name": "Mark Nawar",
+          "code_url": "https://markoder.hashnode.dev/google-summer-of-code2021-r-project-for-statistical-computing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4718094525661184/"
+        },
+        {
+          "title": "R Community Explorer - Exploration of the R community on Twitter",
+          "short_description": "Expanding on ideas developed during previous iterations of R Community Explorer (https://github.com/benubah/r-community-explorer), which was...",
+          "student_name": "Jo\u00e3o Vitor F. Cavalcante",
+          "code_url": "https://gist.github.com/jvfe/542099400542a1e324d7cc568d530c05",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4783867285733376/"
+        },
+        {
+          "title": "Refactoring of hyperSpec R Package",
+          "short_description": "The hyperSpec package allows R users to analyze spectroscopic data. Operations include importing spectroscopic data, plotting, pre-processing, and...",
+          "student_name": "Sang Truong",
+          "code_url": "https://github.com/sangttruong/sangttruong.github.io/blob/master/_pages/GSOC_2021.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6035012834557952/"
+        },
+        {
+          "title": "Fairness extension for mlr3",
+          "short_description": "The prior goal of this project is to implement a new fairness package that is well integrated into the mlr3 ecosystem. This new package could be used...",
+          "student_name": "Siyi Wei",
+          "code_url": "https://github.com/mlr-org/mlr3fairness",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5803829609627648/"
+        },
+        {
+          "title": "matrixStats: Consistent Support for Names Attributes",
+          "short_description": "The goal of this project is to make matrixStats functions handle names in the same manner as the base R functions. The methods of handling names...",
+          "student_name": "Angelina Panagopoulou",
+          "code_url": "https://www.jottr.org/2021/08/23/matrixstats-gsoc-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5913400567136256/"
+        },
+        {
+          "title": "gghexbin: An R package to enable the creation of high quality hexagonally binned graphs that can exploit all of ggplot2\u2019s functionality",
+          "short_description": "Hexagonal binning allows large datasets to be visualized and prevents overplotting of data, where points overlap and turn into a solid mass and...",
+          "student_name": "Ajay-1",
+          "code_url": "https://github.com/dugar3/gghexbin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5918224520052736/"
+        },
+        {
+          "title": "Interactive Graphics for ChemoSpec",
+          "short_description": "ChemoSpec is an R package for analyzing spectral data that arises from chemical and physical processes. ChemoSpec uses base graphics with one...",
+          "student_name": "Tejasvi Gupta",
+          "code_url": "https://tejasvigupta.github.io/Interactive-graphics-for-ChemoSpec-GSOC2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5961002763419648/"
+        },
+        {
+          "title": "Machine Learning for Macro Diffusion Indexes",
+          "short_description": "The Project Machine Learning for Macro Diffusion Indexes aims on creating series of potentially useful\ndiffusion indexes and the data that may be...",
+          "student_name": "Rishi R",
+          "code_url": "https://github.com/Rishi0812/GSoC_2021_Report_ML-for-Macro-Diffusion-Indexes/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5968664179769344/"
+        },
+        {
+          "title": "Improvements to the directlabels package",
+          "short_description": "directlabels is an R package for adding intuitive text labels to plots, typically in order to replace confusing legends in lattice and ggplot2. This...",
+          "student_name": "Anirban Chetia",
+          "code_url": "https://anirban166.github.io/GSoC-2021-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6265212444868608/"
+        },
+        {
+          "title": "Improvements to nls()",
+          "short_description": "This project aims at providing documentation and possible patches to incorporate improvements in nls(), including better diagnostics to assist users...",
+          "student_name": "Arkajyoti Bhattacharjee",
+          "code_url": "https://arkab-ds.github.io/GSOC21-improveNLS/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6324769313521664/"
+        },
+        {
+          "title": "R Conference Events Explorer",
+          "short_description": "The idea behind this project is to add new features and functionality that complement  the R Calendar of R Community Explorer. This project presently...",
+          "student_name": "Meet Bhatnagar",
+          "code_url": "https://gist.github.com/MeetDarkPow/8e5d21211183236777d7d4989f3cad9a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5182411092000768/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/r-project-for-statistical-computing/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Rperform : A performance testing R package",
+          "short_description": "Testing performance is important for many R packages. Rperform is an R package which makes it easy to run performance tests on R packages which use...",
+          "student_name": "daniel_agyapong",
+          "code_url": "https://engineerdanny.github.io/GSOC22-RPerform-Blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qIs6T4Gt/"
+        },
+        {
+          "title": "R-only tripack",
+          "short_description": "The R tripack package is an implementation of the FORTRAN 77 TRIPACK package, which performs Constrained Delaunay Triangulations on a set of points....",
+          "student_name": "ZeroDawn0D",
+          "code_url": "https://zerodawn0d.github.io/tRiad/articles/GSoC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h1cavSzn/"
+        },
+        {
+          "title": "Improving Animated Interactive GGPLOT",
+          "short_description": "Add new selection features, improve the speed of the existing compiler and render, and fix bugs for animint2 package. New Features:...",
+          "student_name": "Yufan Fei",
+          "code_url": "https://github.com/Faye-yufan/gsoc22-animint/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/f6AzMPDE/"
+        },
+        {
+          "title": "Converting past R Journal articles to HTML",
+          "short_description": "R Journal team has been developing a new website, which would act as a central repository for all articles in HTML format. Since these past articles...",
+          "student_name": "Abhishek Ulayil",
+          "code_url": "https://rpubs.com/Abhi_1U/gsoc-22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8jppNXtC/"
+        },
+        {
+          "title": "Expected Returns: Analysis and Replication using FactorAnalytics and PerformanceAnalytics in R",
+          "short_description": "We will be using references from expected returns to estimate factors driving returns on stocks & commodities. Different variables will be used and...",
+          "student_name": "bryan506",
+          "code_url": "https://github.com/JustinMShea/ExpectedReturns/tree/bryangsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3BzJPzTk/"
+        },
+        {
+          "title": "US Census 2020",
+          "short_description": "US Census 2020 suite of packages provides easy access to the spatial and demographic data from the US Census bureau at different geographic levels...",
+          "student_name": "Shreshtha Modi",
+          "code_url": "https://github.com/shreshtha48/USCensus2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PGnGqfhW/"
+        },
+        {
+          "title": "GSoC 2022 Proposal: Robust Portfolio Optimization",
+          "short_description": "In this project we will implement two types of Robust Portfolio Optimization in the R PortfolioAnalytics package. The first type is robust towards...",
+          "student_name": "Yifu Kang",
+          "code_url": "https://medium.com/@lukekang98/gsoc-2022-robust-portfolio-optimization-9d5e53724a8e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7CgFLxQI/"
+        },
+        {
+          "title": "VedicDateTime (Part A)",
+          "short_description": "vedicdatetime() package for R will add the functionality to use the Vedic calendar system instead of the Gregorian calendars system, especially for...",
+          "student_name": "Saradindu Sengupta",
+          "code_url": "https://saradindusengupta.ml/GSoC-2022-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ACvHVFM6/"
+        },
+        {
+          "title": "RcppDeepState: GitHub Action and library improvements",
+          "short_description": "Fuzzing is a useful technique for finding and avoiding programming problems by sending programs invalid sets of non-deterministic inputs. The...",
+          "student_name": "Fabrizio Sandri",
+          "code_url": "https://fabriziosandri.github.io/gsoc-2022-blog/summary/2022/09/08/gsoc-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/t87xbcg2/"
+        },
+        {
+          "title": "RSQLiteAdmin Visualisation Tools",
+          "short_description": "RSQLiteAdmin is a GUI tool written in R Shiny to explore, manage and update SQLite Databases. It can be used to create/delete databases,...",
+          "student_name": "imAnushka",
+          "code_url": "https://github.com/rsqliteadmin/rsqliteadmin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kmq4Tz50/"
+        },
+        {
+          "title": "imputeTestbenchG: Imputation Testbench for Genomics data",
+          "short_description": "Data Cleaning is one of the important and time-consuming steps in the Data Science and Data Analytics field. There are numerous methods, models, and...",
+          "student_name": "Mayur Shende",
+          "code_url": "https://github.com/Mayur1009/imputeTestbenchG",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0WjqfO7k/"
+        },
+        {
+          "title": "Addition of Conic Solver to PortfolioAnalytics Package with Application to EQS",
+          "short_description": "This project is to add CVXR solvers into R package PortfolioAnalytics. CVXR provides an object-oriented modeling language for convex optimization,...",
+          "student_name": "Xinran Zhao",
+          "code_url": "https://medium.com/@zhaoxinran1228/cvxr-for-portfolioanalytics-gsoc-2022-d9b4081ab693",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2nSruNqh/"
+        },
+        {
+          "title": "VedicDateTime (Part B)",
+          "short_description": "This project aims to introduce a new calendar system in R and data science community. It aims to contribute to an R package, named 'VedicDateTime',...",
+          "student_name": "Prajwal Kailasnath Patil",
+          "code_url": "https://gist.github.com/prajwalkpatil/865d54b9453a6902f55800e43280da7c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5Jq5F1gC/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/r-project-for-statistical-computing",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Converting past R Journal articles to HTML using texor",
+          "short_description": "During GSoC 22, I worked on the texor package which converts the Legacy(LaTeX) Rjournal articles to modern(Rmarkdown) format. This year the focus...",
+          "student_name": "Abhishek Ulayil",
+          "code_url": "https://rpubs.com/Abhi_1U/gsoc-23",
+          "proposal_id": "DKmNiY37",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4ygPTJA9"
+        },
+        {
+          "title": "animint2 Documentation and Bug Fix Project",
+          "short_description": "The animint2 Documentation and Bug Fix Project will make the animint2 reference documentation more accessible, fix errors in the documentation, and...",
+          "student_name": "ampurr",
+          "code_url": "https://gsoc.ampurr.com",
+          "proposal_id": "z4tEN72D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6dubWFIS"
+        },
+        {
+          "title": "Pola-rs in R",
+          "short_description": "In short, this proposal aims to export more pola-rs bindings to R beyond existing ones offered in r-polars, and make such bindings as efficient as...",
+          "student_name": "Arthur Pan",
+          "code_url": "https://sicheng-pan.github.io/GSoC-2023/",
+          "proposal_id": "JmTvqbt1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/s83q0fVU"
+        },
+        {
+          "title": "Containerized Development Environments for R",
+          "short_description": "R-Development Container Environment which can be set up in one click on Github codespace and with minimum configuration on the Local system. One can...",
+          "student_name": "Atharva Shirdhankar",
+          "code_url": "https://startrooper08.github.io/GSoC_Learnings/",
+          "proposal_id": "GFLW4WRt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zH3uWpjc"
+        },
+        {
+          "title": "Interactive graphics with \u2018You Draw It\u2019",
+          "short_description": "I plan to create an R package that extends and adds additional functionality to the \"You Draw It\" tool. To achieve my goal I will use an iterative...",
+          "student_name": "Dillon Murphy",
+          "code_url": "https://gist.github.com/DillonMurphy04/5518dfdafe74561352fa53ad90594410",
+          "proposal_id": "AW24Qgc0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/x23wiE1I"
+        },
+        {
+          "title": "Updates in CleanTS Package",
+          "short_description": "The proposed project, to modify the CleanTS package to handle multivariate time series data, will fill this gap and provide a new package for...",
+          "student_name": "Pranay Agrawal",
+          "code_url": "https://github.com/pranayx/Final-_code",
+          "proposal_id": "ylT35b8x",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HVYpx0Wa"
+        },
+        {
+          "title": "Track R Translation Status",
+          "short_description": "This R project aims to create a dashboard that provides an overview of the current status of language translations in the R community. This tool can...",
+          "student_name": "Shrish Shete",
+          "code_url": "https://gist.github.com/shrish-shete20/d96c878b38d330f5995c2583b225a4a5",
+          "proposal_id": "VH5zSmkh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rhj23wU8"
+        },
+        {
+          "title": "SimTools: Output Analysis for Monte Carlo",
+          "short_description": "I propose completing the R package \"SimTools\" before it's ready for CRAN submissions. To equip the user with almost all types of output analysis of...",
+          "student_name": "Siddharth_Pathak",
+          "code_url": "https://github.com/dvats/SimTools/tree/Siddharth-Pathak",
+          "proposal_id": "DGlCqYw1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pFv8IPY0"
+        },
+        {
+          "title": "Enhance Selection, Viz & Automation",
+          "short_description": "My objective is to enhance the Animint2 package through the introduction of new features, refining data visualization functions, reworking the code...",
+          "student_name": "Yufan Fei",
+          "code_url": "https://faye-yufan.github.io/gsoc22-animint/2023-11-04-gsoc23-summary/",
+          "proposal_id": "C3BgP4Nq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gSnkWAl3"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/r-project-for-statistical-computing/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "ExpectedReturns-Factor-Creation-and-Feature-Engineering",
+          "short_description": "The \"Market Rewards Toolkit\" project seeks to develop a comprehensive toolkit for harvesting market rewards from diverse investments, extending...",
+          "student_name": "Corties Draper",
+          "code_url": "https://github.com/JustinMShea/AQRdata",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/r9HGIHtg/"
+        },
+        {
+          "title": "Enhancing the R Dev Container",
+          "short_description": "Enhancing R Dev Env Container is the continuation of R Dev Env project. The last year Project consist tech stack like Linux, Bash, Docker, Github...",
+          "student_name": "Atharva Shirdhankar",
+          "code_url": "https://startrooper08.github.io/gsoc24-weekly-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/S6Lc8Nvw/"
+        },
+        {
+          "title": "Enhancing and Improving data.table",
+          "short_description": "Enhancing data.table via better documentation, consistency, bug fixes, code refactoring, and new features. This project aims to improve the user...",
+          "student_name": "Joshua Wu",
+          "code_url": "https://github.com/joshhwuu/gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/s5FCaXdw/"
+        },
+        {
+          "title": "Audiobooks for Quarto",
+          "short_description": "The Audiobooks for Quarto will generate an audio versions for Quarto books, which gives better accessibility for vision-impaired individuals or...",
+          "student_name": "Quinn Nguyen",
+          "code_url": "https://github.com/qngyn/quarto.audiobook",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mPM7E0EO/"
+        },
+        {
+          "title": "Periodic Time Changepoint Detection: Computational Speedups & Packaging",
+          "short_description": "This project aims to implement a faster algorithm for detecting periodic time changepoints than current implementations. The end goal is an R package...",
+          "student_name": "mosswg",
+          "code_url": "https://github.com/mosswg/GSOC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kQhW2YOz/"
+        },
+        {
+          "title": "imputeTestbench for multivariate time series",
+          "short_description": "The goal of this project is to modify the imputeTestbench package to work with multivariate time series data from multiple domains, and to improve...",
+          "student_name": "Pranay Agrawal",
+          "code_url": "https://github.com/pranayx/imputeTestBench",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mp3hcQZd/"
+        },
+        {
+          "title": "RetirementAnalytics_SimoneMugnai",
+          "short_description": "Proposal for a New Package for Retirement Planning in R: The development should also focus on specific tax integration. It is a quantitative task in...",
+          "student_name": "Simone Mugnai",
+          "code_url": "https://gist.github.com/SimoneMugnai/1873d5725bde006047a2ccbca61a6836",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/g6XLK2O0/"
+        },
+        {
+          "title": "Expected Returns: Factor Creation and Feature Engineering",
+          "short_description": "Guided by theories of expected returns by Ilmanen (2011), we will test models to understand how various factors drive returns on stocks and...",
+          "student_name": "Ziyu He",
+          "code_url": "https://github.com/JustinMShea/ExpectedReturns/blob/master/sandbox/final_report_harry.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6T65nrnD/"
+        },
+        {
+          "title": "Develop new features to improve renders, testing and documentation in animint2",
+          "short_description": "Develop new features to improve renders, testing and documentation in animint2. New Features: \u2022Enable testing animint renderer using chromote \u2022Add...",
+          "student_name": "Siddhesh Deodhar",
+          "code_url": "https://siddhesh195.github.io/gsoc2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/pPrhjTNR/"
+        },
+        {
+          "title": "Interactive graphics for the tourr package using Python",
+          "short_description": "The tourr R package enables users to explore shapes of high-dimensional data to gain further insight into their data of interest. This is achieved by...",
+          "student_name": "mmedl",
+          "code_url": "https://rpubs.com/mmedl94/GSoC_pytourr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JqC6myYx/"
+        },
+        {
+          "title": "AI Scholar: A Novel AI RAG-aware Model for Academic Paper Analysis",
+          "short_description": "Researchers have tremendous difficulty keeping up with the exponential growth of scientific literature--where groundbreaking findings and complex...",
+          "student_name": "Christopher Mejo",
+          "code_url": "https://github.com/cmejo/GSoC_2024_AI_Scholar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Brw2afFD/"
+        },
+        {
+          "title": "Enhancing Data.Table:Addressing Critical Issues, Enhancing Functionality, and Ensuring Quality",
+          "short_description": "In this project, the primary goal is to resolve key issues within the \"data.table\" package, focusing on bug fixes, feature requests, and...",
+          "student_name": "Nitish Jha",
+          "code_url": "https://nj221102.github.io/Nitish-gSoc-24/2024-08-24-gsoc'24-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Yy7ajjAG/"
+        },
+        {
+          "title": "Updates in VedicDateTime R Package",
+          "short_description": "The VedicDateTime R package is a helpful tool for working with dates and times in the Vedic calendar system. However, the current version of the...",
+          "student_name": "Peeyush Kulgude",
+          "code_url": "https://github.com/PeeyushKulgude/VedicDateTime",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/g1zv1Yt8/"
+        },
+        {
+          "title": "Converting Sweave to Rmarkdown using texor package",
+          "short_description": "This project aims to expand the texor package by incorporating features to convert Sweave (.Rnw) files into R Markdown effectively, while preserving...",
+          "student_name": "phinney",
+          "code_url": "https://github.com/fzyxh/GSoC-2024-Weekly-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hBLJrIOd/"
+        },
+        {
+          "title": "arctosr: An interface to the Arctos Database for R",
+          "short_description": "This project will create an R package that will act as an interface to the Arctos Museum Database's API. This will allow users to create R scripts to...",
+          "student_name": "Harlan Williams",
+          "code_url": "https://github.com/hrhwilliams/ArctosR",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AjT0aUpE/"
+        },
+        {
+          "title": "Glyph Map Visualization",
+          "short_description": "Currently Glyph maps are implemented in the cubble package. The goal of this project is to develop ggplot2 extensions to expand support for more...",
+          "student_name": "Nathan Yang",
+          "code_url": "https://rpubs.com/Knice/gsoc24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TZ5ns98t/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/r-project-for-statistical-computing",
+      "num_projects": 24,
+      "projects": [
+        {
+          "title": "Torchvision in R",
+          "short_description": "This project focuses on extending the R interface of the torchvision library by implementing support for core computer vision datasets and model...",
+          "student_name": "Akanksha Koshti",
+          "code_url": null,
+          "proposal_id": "Nq8MqJUE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GVZWEuNf"
+        },
+        {
+          "title": "DBmaps: An R Tool for Streamlining Database Joins",
+          "short_description": "The DBmaps package aims to simplify the analysis of data in relational databases using R. It addresses the problem of complex data manipulation,...",
+          "student_name": "Akshat Maurya",
+          "code_url": null,
+          "proposal_id": "50BnuSs0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ahkUTc1i"
+        },
+        {
+          "title": "Expected Returns: Factor Formation",
+          "short_description": "Financial factor investing relies on rigorous quantitative research to explain asset returns and generate alpha. While many academic models and...",
+          "student_name": "Al Pakrosnis",
+          "code_url": null,
+          "proposal_id": "uYJIvgV4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AcSDZYbO"
+        },
+        {
+          "title": "Modern time series estimation",
+          "short_description": "This project will implement the recent techniques from Gallagher et al. (2024) and Gallagher et al. (2025) for improved time series simulation...",
+          "student_name": "Andrea Storey",
+          "code_url": null,
+          "proposal_id": "ApwcXc2h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hjbxobxb"
+        },
+        {
+          "title": "grepreaper R Package Development",
+          "short_description": "The grepreaper package addresses the critical need for efficient pattern matching and selective data loading in R, particularly for large datasets....",
+          "student_name": "Atharv Raskar",
+          "code_url": null,
+          "proposal_id": "mazM4FI5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/g0vwQ3rj"
+        },
+        {
+          "title": "Re\ufb01ning the R Dev Container for Debugging and Local Use",
+          "short_description": "This project aims to refine the R Dev Container by addressing three critical areas: debugging capabilities, cross-platform compatibility, and IDE...",
+          "student_name": "Avinab Neogy",
+          "code_url": null,
+          "proposal_id": "1tiVgNEc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FwYT45aq"
+        },
+        {
+          "title": "Enhancing Animint2 with New Features and Gallery Updates.",
+          "short_description": "This project aims to improve Animint2 by, enhancing grid layouts for ggplot2 to simplify plot arrangement, porting the Animint gallery from NAU...",
+          "student_name": "Biplab Sutradhar",
+          "code_url": null,
+          "proposal_id": "VejXMQiW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/O5OXfDuO"
+        },
+        {
+          "title": "AI Scholar: A Modern AI RAG-aware Model Utilizing GraphRAG for Thoughtful Academic Paper Analysis",
+          "short_description": "Researchers have tremendous difficulty keeping up with the exponential growth of scientific literature, hindering their ability to stay on top of the...",
+          "student_name": "Christopher Mejo",
+          "code_url": null,
+          "proposal_id": "Vt09iHmW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VTupUmtG"
+        },
+        {
+          "title": "CI Optimization for R Package Performance Testing",
+          "short_description": "This project addresses the inefficiencies in the continuous integration (CI) workflow for the R package ecosystem\u2014specifically, for the widely-used...",
+          "student_name": "criticic",
+          "code_url": null,
+          "proposal_id": "9p2l61SH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uNtqObW9"
+        },
+        {
+          "title": "Extending Torchvision Support in R for Computer Vision Tasks",
+          "short_description": "The torch ecosystem is rapidly growing in R, but it still lacks support for several key computer vision capabilities available in Python's...",
+          "student_name": "Derrick Richard",
+          "code_url": null,
+          "proposal_id": "Hi6MONRe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/u3JnFx2t"
+        },
+        {
+          "title": "Interactive diagnostics for NLDR visualizations",
+          "short_description": "This project aims to improve the interpretation of non-linear dimension reduction (NLDR) methods like t-SNE and UMAP by linking them with linear...",
+          "student_name": "Divendra Yadav",
+          "code_url": null,
+          "proposal_id": "j6Qojn53",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8VfHze7F"
+        },
+        {
+          "title": "pandemonium: GUI for cluster analysis with interactive visualization",
+          "short_description": "The pandemonium package is a specialized cluster analysis tool designed for physics applications. It employs hierarchical clustering and provides an...",
+          "student_name": "GabrielMccoy",
+          "code_url": null,
+          "proposal_id": "1pk553lA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AzH5lZMH"
+        },
+        {
+          "title": "Structured Covariance Matrices for lme4",
+          "short_description": "This project extends the lme4 R package to support structured random effects covariance matrices such as AR(1), compound symmetry, and diagonal...",
+          "student_name": "Greg  Forkutza",
+          "code_url": null,
+          "proposal_id": "yttqt8w5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/P8WpRHkl"
+        },
+        {
+          "title": "ChatR: A Local, Inclusive, and Accurate R Expert Chatbot for the R Ecosystem",
+          "short_description": "Problem: While Large Language Models (LLMs) like ChatGPT can generate R code, they often lack precision when answering questions about third-party R...",
+          "student_name": "Hanxia Li",
+          "code_url": null,
+          "proposal_id": "2slDi0mv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3M6xt7fm"
+        },
+        {
+          "title": "Ecotourism Data Package",
+          "short_description": "This project proposes the development of an R data package designed to support teaching and exploration of data visualization through the lens of...",
+          "student_name": "Javad Vahdat Atashgah",
+          "code_url": null,
+          "proposal_id": "ULHTPxfl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/65ApzLCv"
+        },
+        {
+          "title": "Enhancing the Jaya R Package for Efficient Optimization",
+          "short_description": "The Jaya R package implements the Jaya optimization algorithm, a gradient-free, population-based method for solving both single-objective and...",
+          "student_name": "Kartik Kasrewar",
+          "code_url": null,
+          "proposal_id": "szf0PQUZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/q2pQmhyA"
+        },
+        {
+          "title": "Efficient Implementations of Change-Point Detection Algorithms Using Modern C++",
+          "short_description": "This project aims to develop efficient, user-friendly statistical software in R for offline change-point detection, based on the widely used Python...",
+          "student_name": "Minh Long Nguyen",
+          "code_url": null,
+          "proposal_id": "27QoRb0S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/O5AWBzpG"
+        },
+        {
+          "title": "Enhancing data.table: Enhancing Functionality, and Ensuring  Quality",
+          "short_description": "This project aims to improve the user experience for data.table by closing some of the hundreds of outstanding issues. The focus will be on resolving...",
+          "student_name": "Mukul Kumar Yadav",
+          "code_url": null,
+          "proposal_id": "R1YlfwNN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cJEEbCzI"
+        },
+        {
+          "title": "Updates in VedicDateTime R Package",
+          "short_description": "The VedicDateTime R package is a specialized toolkit designed to handle date-time computations in the context of the Vedic calendar system. Initially...",
+          "student_name": "Peeyush Kulgude",
+          "code_url": null,
+          "proposal_id": "j6gAaSen",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5mc4pOWE"
+        },
+        {
+          "title": "Reimplementing the Core Samplers of the dirichletprocess R Package in C++",
+          "short_description": "This project aims to address performance limitations of the dirichletprocess R package by reimplementing its computationally intensive core sampling...",
+          "student_name": "priyanshuTiwari",
+          "code_url": null,
+          "proposal_id": "6QXh7fkP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ckk9j4pw"
+        },
+        {
+          "title": "imputeTestbench for multivariate time series",
+          "short_description": "The imputeTestbench package offers an automated framework to benchmark various imputation techniques on univariate time series. It has been widely...",
+          "student_name": "Seema_Kumari",
+          "code_url": null,
+          "proposal_id": "xvEPsi48",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mU6fBoTV"
+        },
+        {
+          "title": "Advancing Animint2 - Testing, Rendering and Gallery port",
+          "short_description": "This project will enhance Animint2 by implementing advanced plot layouts via HTML tables, porting and refining the visualization gallery, fixing...",
+          "student_name": "Suhaani Agarwal",
+          "code_url": null,
+          "proposal_id": "oozHry7K",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nSDQwvny"
+        },
+        {
+          "title": "Enhancing the spinebil Package for Projection Pursuit Diagnostics",
+          "short_description": "The spinebil package provides diagnostic tools to evaluate projection pursuit (PP) index functions, which are used to discover informative...",
+          "student_name": "Tina.rj",
+          "code_url": null,
+          "proposal_id": "6HYahUWq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yNHVdH9D"
+        },
+        {
+          "title": "data.table",
+          "short_description": "This project focuses on strengthening the data.table package by improving its documentation, enhancing consistency, fixing bugs, refactoring code,...",
+          "student_name": "Vinit Thakur",
+          "code_url": null,
+          "proposal_id": "5IhhYWN5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hlOK6uzk"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/rstats-gsoc/shared_invite/enQtOTU1ODg1MzY2Nzc0LTU1ZDc0NjA3MGIyZWQ4MGViMmQzOWUxYjY3ZDc0MDJlYTg0YmRiY2NmYjUzYTA0YjExMzMzNjYxMWRhMDgxNjI",
+  "contact_email": "mailto:gsoc-r@googlegroups.com",
+  "mailing_list": "gsoc-r@googlegroups.com",
+  "ideas_url": "https://github.com/rstats-gsoc/gsoc2025/wiki/table-of-proposed-coding-projects",
+  "guide_url": "https://github.com/rstats-gsoc/gsoc2022/wiki",
+  "twitter_url": "https://twitter.com/_R_Foundation",
+  "blog_url": "https://rweekly.org/"
+}

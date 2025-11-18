@@ -1,0 +1,104 @@
+{
+  "name": "Nmap Security Scanner",
+  "url": "https://nmap.org/",
+  "image_url": "https://lh3.googleusercontent.com/lQ6DoH3aMVO2MR3rpw0gAQNFybSqZ1VkFXb1rBy0GAtKT0Xm-PM-Vdq3hY29BlgkIVphh_YeZP-oBL4g45yhpzPDupN7Qg",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "networking",
+    "linux",
+    "ipv6",
+    "network mapping"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "c++",
+    "lua"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5391414598828032/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Mac OS X platform developer",
+          "short_description": "My goal is to adapt the Nmap and Zenmap OS X versions to the latest requirements, with the purpose of increasing the portability and efficiency of...",
+          "student_name": "Vincent Dumont",
+          "code_url": "https://github.com/nmap/nmap/commits/master?author=W0naN0w",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5489373004955648/"
+        },
+        {
+          "title": "Feature Creeper/Bug Wrangler",
+          "short_description": "During the summer I would like to work on a number of issues relating to the project's usability, performance and capabilities. I intend to improve...",
+          "student_name": "Tudor Coman",
+          "code_url": "http://seclists.org/nmap-dev/2016/q3/225",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5068868057825280/"
+        },
+        {
+          "title": "Feature creeping and Bug wrangling",
+          "short_description": "Nmap is one of the topmost security auditing tool with a big community support. To rig it with some new features and make enhancements in it I want...",
+          "student_name": "tremblerz",
+          "code_url": "https://github.com/nmap/nmap/commits/master?author=tremblerz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5796034877849600/"
+        },
+        {
+          "title": "IPv6 OS detection",
+          "short_description": "Refine IPv6 OS detection using different classification approaches. Experiment with the set of probes that may be important and select the best set...",
+          "student_name": "Prabhjyot Singh Sodhi",
+          "code_url": "https://github.com/psdh/GSoC2016NmapSub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5170401084702720/"
+        },
+        {
+          "title": "NSE Performance Improvement and SSH Support Implementation",
+          "short_description": "I am going to work on improvement of NSE brute-force performance and add\nadditional support of such protocols like ssh and rdp. Currently there are...",
+          "student_name": "Sergey",
+          "code_url": "https://gist.github.com/sergeykhegay/6848746f2a2b365beca260a39e6cebe9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5212491764203520/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5603880054292480/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Nmap Feature Creeping, Optimizing and developing NSE scripts (Vulnerability and Exploitation specialist)",
+          "short_description": "I will be working in several areas like adding new features, optimizing existing scripts and developing new scripts for Nmap.\nIn nutshell during this...",
+          "student_name": "Rewanth Cool",
+          "code_url": "https://medium.com/@rewanthcool/gsoc-2017-with-nmap-security-scanner-80d9bd54a97a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6429409410023424/"
+        },
+        {
+          "title": "Nmap SSH Support & Ncrack Module Development",
+          "short_description": "This proposal describes the plan to merge the SSH support branch to the nmap project. Also, Ncrack modules will be developed for the MsSQL, MongoDB,...",
+          "student_name": "Evangelos Deirmentzoglou",
+          "code_url": "https://gist.github.com/edeirme/0f59b190580eb8d2724c7478c0a3d874",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5021291094474752/"
+        },
+        {
+          "title": "NMAP Scripting Engine",
+          "short_description": "Nmap has become my fascination ever since I started actively using it. It is undoubtedly one of the best security tools. My project Idea is...",
+          "student_name": "Vinamra Bhatia",
+          "code_url": "https://docs.google.com/document/d/1ShbRCvbYjqUweKJHKC6pRcgmkQJcLTJaZfxtfQpRYkQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4675630515879936/"
+        },
+        {
+          "title": "Nmap Scripting Engine\u2014Script Developer (Vulnerability and exploitation specialist)",
+          "short_description": "Development of vuln, exploit, auth and malware scripts\nI will seek to research on the newest vulnerabilities that have been made public and either a)...",
+          "student_name": "Wong Wai Tuck",
+          "code_url": "https://gist.github.com/wongwaituck/9dc2ba2cf0e265df88fb2f39feedba87",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6490082936619008/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://webchat.freenode.net/?channels=nmap",
+  "contact_email": "mailto:fyodor@nmap.org",
+  "mailing_list": "http://seclists.org/nmap-dev/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/nmap",
+  "blog_url": "http://insecure.org/"
+}

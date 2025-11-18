@@ -1,0 +1,78 @@
+{
+  "name": "GENIVI Alliance",
+  "url": "https://www.genivi.org",
+  "image_url": "https://lh3.googleusercontent.com/ZIkVBgPt74PhZquMA2JwS3soJhYecxQCw9vd2pb1rbM2CTCITvcRvswGS9mb0atbWMAE4id3lijxh8H5mfUf4OMMHE_-Fio",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "embedded systems",
+    "embedded",
+    "automotive",
+    "cars",
+    "automobile",
+    "diagnostics",
+    "functional safety",
+    "middleware",
+    "graphics",
+    "communication",
+    "bigdata"
+  ],
+  "technologies": [
+    "c",
+    "linux",
+    "c++",
+    "qt",
+    "yocto",
+    "java",
+    "embedded",
+    "automotive",
+    "some/ip"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4914104280023040/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5111873431142400/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Extension to Voice Command of IVI System",
+          "short_description": "Intelligent, Self-Learning System for Smart Vehicles\nIntended to build up a self-learning system for smart vehicles. There would be vehicles learning...",
+          "student_name": "Chandeepa Dissanayake",
+          "code_url": "https://at.projects.genivi.org/wiki/display/PROJ/Summary+of+the+Work+in+Google+Summer+of+Code+2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5313181232660480/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5661409025720320/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Enable 3rd party content in embedded navigation systems by extending RAMSES ecosystem with a Blender exporter",
+          "short_description": "RAMSES is a 3D graphics framework concerned with the efficient distribution of graphics among multiple screens for automotive purposes. While the...",
+          "student_name": "dwlsalmeida",
+          "code_url": "https://gist.github.com/dwlsalmeida/3ad2b0ae7c9f23b4ded9b08016a993b4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5349373074997248/"
+        },
+        {
+          "title": "Voice Commands for IVI - Research Project Continuation",
+          "short_description": "As the student who took the initiative together with the mentors Jeremiah Foster and Gunnar Andersson during GSoC 2018 for Voice Command on IVI...",
+          "student_name": "Chandeepa Dissanayake",
+          "code_url": "https://at.projects.genivi.org/wiki/display/PROJ/Summary+of+the+Work+Done+in+Google+Summer+of+Code+2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5640122849034240/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://at.projects.genivi.org/wiki/pages/viewpage.action?pageId=11567210#GENIVIDevelopmentPlatform(GDP)-HowdoIcontributetotheGENIVIDevelopmentPlatform?",
+  "contact_email": "mailto:gandersson@genivi.org",
+  "mailing_list": "https://lists.genivi.org/mailman/listinfo/genivi-projects_lists.genivi.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/GENIVIAlliance",
+  "blog_url": "https://at.projects.genivi.org/wiki/pages/viewrecentblogposts.action?key=WIK4"
+}

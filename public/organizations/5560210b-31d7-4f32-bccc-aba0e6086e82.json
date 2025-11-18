@@ -1,0 +1,138 @@
+{
+  "name": "omegaUp",
+  "url": "https://omegaup.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/omegaup/uvgilx7vyspavjox-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "cs education",
+    "web community",
+    "web",
+    "cloud",
+    "edtech",
+    "UX/UI"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "php",
+    "typescript",
+    "vue.js"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6067192269373440/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Plagiarism detector and Ghost mode",
+          "short_description": "Plagiarism detector\nIn the real contest there are probabilities that users cheat others code or help each other. In order to prevent this risk, it is...",
+          "student_name": "Vincent Fango",
+          "code_url": "https://docs.google.com/document/d/1mFB2sCC9C4qK24zsz3txLOfXMu-_geForOLZQEpu4Zc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6288353825652736/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/omegaup/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Code Reviews and Teaching Assistantship",
+          "short_description": "Creation of a functionality so that teachers can perform reviews on code implementations in the deliveries of their students with the purpose of...",
+          "student_name": "Jocelyn Alexia Aguilera Martinez",
+          "code_url": "https://docs.google.com/spreadsheets/d/1m3kEawu0EkwFyNlpa8bnIJLgTX-zHq1l6xFsxEABhwY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3tTjOXK4/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/omegaup",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Optimize omegaUp.com for Mobile and Accounts for Children",
+          "short_description": "omegaUp does not have a user-friendly interface for users who access the platform from their mobile devices, making it difficult for many students to...",
+          "student_name": "Ingrid Margarita",
+          "code_url": "https://drive.google.com/drive/folders/1IX11Ob922nXam5M8YUjj4P6YVcYLDDlr?usp=drive_link",
+          "proposal_id": "ilPIOdak",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aGgLLKX6"
+        },
+        {
+          "title": "Modernizing OmegaUp: A Proposal for Revamped UI/UX and Web Design",
+          "short_description": "In my proposal, I'm suggesting we give the oemgaUp website a fresh new look and feel. The goal of this redesign is to make the website more modern,...",
+          "student_name": "Jose Galo",
+          "code_url": "https://drive.google.com/file/d/1w2le3yZK8qeBRpamxlkA0GQ7CN3Rd4xg/view?usp=sharing",
+          "proposal_id": "KMNmCQ3Z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UHfWRUyl"
+        },
+        {
+          "title": "Cypress Migration",
+          "short_description": "This project aims to migrate all the end-to-end tests from selenium to Cypress and increase end-to-end test coverage by covering more CUJs....",
+          "student_name": "ShivamJha",
+          "code_url": "https://medium.com/@sssvjha/google-summer-of-code-2023-5767487e505d",
+          "proposal_id": "0MFZ3pfh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TuVv99jM"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/omegaup/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Migrate Problem Creator to Vue.js + Typescript",
+          "short_description": "OmegaUp is a free educational platform that helps coders improve their programming skills, used by thousands of students and teachers in Latin...",
+          "student_name": "Aritra Majumder",
+          "code_url": "https://aritra8438.github.io/gsoc24-final-blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tEAcN96u/"
+        },
+        {
+          "title": "Migrate our Online IDE to Vue.js + Typescript",
+          "short_description": "We have an online IDE that we currently embed into our problem pages. However, the IDE is currently embedded but not fully integrated, the reason...",
+          "student_name": "Ahmed Hani",
+          "code_url": "https://github.com/omegaup/omegaup/issues/7621",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SnzexPjU/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/omegaup",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Public Courses on github",
+          "short_description": "The proposal outlines a project to migrate the management of omegaUp's public courses to GitHub, enabling open-source contributions and improving...",
+          "student_name": "Anas Iqbal",
+          "code_url": null,
+          "proposal_id": "4Ru4BNCe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ASaOFqQw"
+        },
+        {
+          "title": "AI Teaching Assistant",
+          "short_description": "The aim is to create an \u201cAI Teaching Assistant\u201d bot that answers the relevant queries and helps teachers and students with code reviews and answer...",
+          "student_name": "Nandini Jaiswal",
+          "code_url": null,
+          "proposal_id": "XFCBpJ8L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oFJP5nqY"
+        },
+        {
+          "title": "Generate Problem Editorials Using AI",
+          "short_description": "This project aims to increase editorial coverage to 70-80% by automating creation with AI. Admins can generate editorials in bulk from the problem...",
+          "student_name": "Samman Sarkar",
+          "code_url": null,
+          "proposal_id": "bC8m7GGS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nK1Amv48"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/gMEMX7Mrwe",
+  "contact_email": "mailto:googlesummerofcode@omegaup.com",
+  "mailing_list": "https://github.com/omegaup/omegaup/wiki/Google-Summer-of-Code-2018-Ideas-List#our-mailing-list-and-slack-channel",
+  "ideas_url": "https://github.com/omegaup/omegaup/wiki/Google-Summer-of-Code-2025",
+  "guide_url": "https://github.com/omegaup/omegaup/wiki/Google-Summer-of-Code-2025",
+  "twitter_url": "https://twitter.com/omegaUp",
+  "blog_url": "https://blog.omegaup.com/"
+}

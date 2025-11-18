@@ -1,0 +1,71 @@
+{
+  "name": "phpBB Forum Software",
+  "url": "https://www.phpbb.com",
+  "image_url": "https://lh3.googleusercontent.com/k4w18k0JwvBptU87DKyZi9-fKls1mRa9_EFg1xkh3z35KuRK7uRbxNvZ_vKppBLFxzydT2n546WaKt2PTiT6YZy8UEAVlNg",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "collaboration",
+    "community",
+    "social",
+    "communication",
+    "forum"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "php",
+    "css",
+    "symfony",
+    "html5/css3"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5715998162288640/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Advertisement management extension",
+          "short_description": "The ability to easily handle advertisements in phpBB is often requested. Latest pool for next official extension results in Advertisement Management...",
+          "student_name": "Jakub Senko",
+          "code_url": "https://blog.phpbb.com/2017/08/24/google-summer-of-code-2017-advertisement-management/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5441173539782656/"
+        },
+        {
+          "title": "Implementation of storage service",
+          "short_description": "My goal is to split the filesystem service into one additional storage service to allow developers to create extensions which change the storage...",
+          "student_name": "rubencm",
+          "code_url": "https://gist.github.com/rubencm/1ebb24781a643523a506fc31b7bc8abd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4922106072530944/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5208530327961600/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve storage service",
+          "short_description": "Improvements and new features for the storage system, and update of the flysystem storage extension.",
+          "student_name": "rubencm",
+          "code_url": "https://gist.github.com/rubencm/d318b0a4b0b09aafdbc3e4bbd5c230a2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6662466079555584/"
+        },
+        {
+          "title": "User Mentions",
+          "short_description": "This project is intended to add the ability to mention board users in forum posts with \u201c@\u201d so that they receive notifications and their names are...",
+          "student_name": "Igor Lavrov (LavIgor)",
+          "code_url": "https://github.com/phpbb/phpbb/pull/5225",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6052955258093568/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.phpbb.com/support/irc",
+  "contact_email": "mailto:operations@phpbb.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/phpbb",
+  "blog_url": "https://blog.phpbb.com"
+}

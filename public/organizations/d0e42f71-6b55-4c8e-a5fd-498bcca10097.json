@@ -1,0 +1,45 @@
+{
+  "name": "Stemformatics",
+  "url": "https://www.stemformatics.org",
+  "image_url": "https://lh3.googleusercontent.com/cvukkaOTKrjuwRlehZT0bMdNEUJQhTTZVt1BAWpyt7_d1n-gl-c7dIm-r668edGFQF2P_oTD3nr7Is1kWRG5i-FuNYW774He",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "bioinformatics",
+    "cloud",
+    "web applications"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6199903000723456/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Ontology Integration",
+          "short_description": "Stemformatics is an online portal which enables stem cell biologists to visualize and analyze datasets quickly and easily. The primary goal of the...",
+          "student_name": "Glenn Fernandes",
+          "code_url": "https://medium.com/@glennf2802/google-summer-of-code-2018-stemformatics-811d1340e8e5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6664953201164288/"
+        },
+        {
+          "title": "Integrating ISCANDAR",
+          "short_description": "Stemformatics is a web project for stem cell scientists and have a standalone tool ISCANDAR. it designed for bioinformaticians to create an...",
+          "student_name": "Dmitry Volynkin",
+          "code_url": "https://docs.google.com/document/d/1HlJmWGvyxxjzb9QOoae4FVKMUwjNOBiwnuozg9vR524/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4692962789294080/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/stemformatics/Lobby",
+  "contact_email": "mailto:info@stemformatics.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/Stemformatics/"
+}

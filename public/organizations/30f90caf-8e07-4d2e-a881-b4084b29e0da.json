@@ -1,0 +1,110 @@
+{
+  "name": "The P4 Language Consortium",
+  "url": "https://p4.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-p4-language-consortium/tru8mncy4zqlbxhe.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "networking",
+    "programming language",
+    "compiler",
+    "AI/ML Networking",
+    "networking security"
+  ],
+  "technologies": [
+    "llvm",
+    "c++",
+    "mlir",
+    "ebpf",
+    "Z3"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-p4-language-consortium/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "P4 Compiler Documentation",
+          "short_description": "The project aims to centralize the P4 compiler (p4c) documentation by developing a new, well-structured documentation website using Doxygen for...",
+          "student_name": "Adarsh Rawat",
+          "code_url": "https://github.com/AdarshRawat1/gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/u2HpJKI2/"
+        },
+        {
+          "title": "P4-Enabled Container Migration in Kubernetes",
+          "short_description": "Kubernetes has recently moved its forensic container checkpointing feature into beta. This feature allows checkpointing containers within Kubernetes...",
+          "student_name": "Stanislav Kosorin",
+          "code_url": "https://github.com/p4lang/gsoc/blob/main/2024/projects/container_migration/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sYbpOJhD/"
+        },
+        {
+          "title": "P4 Formatter",
+          "short_description": "P4 (Programming Protocol-independent Packet Processors) is a domain-specific language for network devices. It allows programmers to specify how data...",
+          "student_name": "Nitish Kumar.",
+          "code_url": "https://github.com/p4lang/gsoc/blob/main/2024/projects/formatter/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TbPyjqVw/"
+        },
+        {
+          "title": "BMv2 PNA Support",
+          "short_description": "Programming Protocol-independent Packet Processors (P4) is a domain-specific language for network devices, specifying how data plane devices...",
+          "student_name": "Rupesh  Chiluka",
+          "code_url": "https://github.com/p4lang/gsoc/tree/main/2024/projects/bmv2_pna",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/oEpUp1dW/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-p4-language-consortium",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Accelerating OVS with Gigaflow: A Smart Cache for SmartNICs",
+          "short_description": "Gigaflow is an innovative solution to accelerate network processing in large-scale data centers by leveraging flow locality and pipeline-aware...",
+          "student_name": "Advay Singh",
+          "code_url": null,
+          "proposal_id": "dratGYEI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YD415t5R"
+        },
+        {
+          "title": "SpliDT: Scaling Stateful Decision Tree Algorithms in P4",
+          "short_description": "Contemporary developments of Machine Learning Applications in real-time Networks to classify traffic for better security and performance are examples...",
+          "student_name": "Sankalp Jha",
+          "code_url": null,
+          "proposal_id": "kjMg63jO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Qvq4a3yR"
+        },
+        {
+          "title": "P4Sim Control Plane Enhancement",
+          "short_description": "This project aims to extend the existing P4sim module integrated within the ns-3 network simulator by implementing control plane functionalities. The...",
+          "student_name": "Vineet Goel",
+          "code_url": null,
+          "proposal_id": "crqICQWK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4Kwb6VGX"
+        },
+        {
+          "title": "P4MLIR: MLIR-based high-level IR for P4 compilers",
+          "short_description": "P4C, being a reference compiler for the P4 language, struggles with some fundamental shortcomings of its internal code representation (IR). These...",
+          "student_name": "Xiaomin Liu",
+          "code_url": null,
+          "proposal_id": "Vb2UNlVC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/c7FcHjXq"
+        },
+        {
+          "title": "BMv2 With All Possible Output Packets",
+          "short_description": "P4 empowers developers to program the data plane of network devices\u2014switches, routers, and NICs\u2014at a level of detail previously only accessible to...",
+          "student_name": "Xiyu Hao",
+          "code_url": null,
+          "proposal_id": "g3zrKPnd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dsjZn7sx"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://p4lang.zulipchat.com/",
+  "contact_email": "",
+  "mailing_list": "https://p4.org/join/",
+  "ideas_url": "https://github.com/p4lang/gsoc/blob/main/2025/ideas_list.md",
+  "guide_url": "https://github.com/p4lang/gsoc/blob/main/2025/contributor_guidance.md",
+  "twitter_url": "https://x.com/p4lang/",
+  "blog_url": "https://p4.org/blog/"
+}

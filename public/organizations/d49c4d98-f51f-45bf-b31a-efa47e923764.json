@@ -1,0 +1,836 @@
+{
+  "name": "The Honeynet Project",
+  "url": "https://honeynet.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-honeynet-project/pvycoc21p2ketj7b-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "sandbox",
+    "web development",
+    "honeypot",
+    "honeynet",
+    "research",
+    "honeypots",
+    "deception",
+    "malware",
+    "networking",
+    "honeynets",
+    "fuzzing",
+    "network analysis",
+    "hypervisor introspection",
+    "malware analysis",
+    "Threat Intelligence"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "machine learning",
+    "html",
+    "javascript",
+    "honeypots",
+    "golang",
+    "network stack",
+    "c",
+    "c++",
+    "python 3",
+    "linux",
+    "go",
+    "data analysis",
+    "networking",
+    "honeypot",
+    "django",
+    "docker"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5961791221792768/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Foundations for DRAKVUF on ARM",
+          "short_description": "Dynamic malware analysis techniques assist to fully understand the cause, intention, and extent of damage caused by malicious applications....",
+          "student_name": "Sergej Proskurin",
+          "code_url": "http://arm-altp2m.blogspot.de/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6408159388237824/"
+        },
+        {
+          "title": "Improving mitmproxy",
+          "short_description": "Improve mitmproxy by adding features like SQLite based flow storage, TCPflows etc. and Port pathod &amp; mitmproxy to Python 3.",
+          "student_name": "dufferZafar",
+          "code_url": "https://github.com/mitmproxy/mitmproxy/commits/master/?author=dufferzafar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6751990310764544/"
+        },
+        {
+          "title": "Rumal Dennis Parchkov",
+          "short_description": "Rumal's aim is to present visually the result from Thug, a tool for studying exploit kits. The currently available version requires some tweaks to...",
+          "student_name": "garou6666",
+          "code_url": "http://dennisparchkov.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5745943345364992/"
+        },
+        {
+          "title": "Context based fuzzy clustering of malware",
+          "short_description": "CuckooML will deliver a mechanism to find similarities between malware through analysing reports about them. Additionally, the software will be able...",
+          "student_name": "Kacper",
+          "code_url": "https://honeynet.github.io/cuckooml/2016/08/21/gsoc16-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5387812597661696/"
+        },
+        {
+          "title": "Integrate DroidBOT into Cuckoo Sandbox",
+          "short_description": "Cuckcoo Sandbox is an extensible automated malware analysis tool written in Python. Although Cuckcoo Sandbox begins supporting Android OS since v2.0,...",
+          "student_name": "Tin Duong",
+          "code_url": "https://blog.tinduong.pw/automated-android-malware-analysis-with-cuckoo-sandbox-gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5413166058045440/"
+        },
+        {
+          "title": "Centralized Service Configuration for Holmes",
+          "short_description": "Holmes Processing (http://holmesprocessing.github.io) is a system used for automated malware analysis of huge volumes of malware samples, which...",
+          "student_name": "Ma-Shell",
+          "code_url": "http://holmesmashell.blogspot.de/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5106365001367552/"
+        },
+        {
+          "title": "Improving the coverage of DroidBot",
+          "short_description": "DroidBot is an Android application exerciser like Monkey. It is better than Monkey in malware detection because it is aware of the static information...",
+          "student_name": "lynnlyc",
+          "code_url": "http://honeynet.github.io/droidbot/2016/08/20/GSoC_2016.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6205350227214336/"
+        },
+        {
+          "title": "YAPDNS",
+          "short_description": "Collect Passive DNS data from various sources; display, correlate and analyze them.",
+          "student_name": "system64",
+          "code_url": "https://yapdns.github.io/2016/08/17/introducing-yapdns/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4816683952766976/"
+        },
+        {
+          "title": "Web Interface and Generic API Development for Holmes Processing",
+          "short_description": "The Holmes Project is a modern, modular, and scalable environment for collaborative malware analysis\nand storage. Despite the relatively young age of...",
+          "student_name": "cvp",
+          "code_url": "https://gist.github.com/cynexit/046b781454b8a9bd49b79eac4d6b1f02",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6008008022687744/"
+        },
+        {
+          "title": "[MITMProxy] Clemens Brunner",
+          "short_description": "MITMproxy is a console tool that allows interactive examination and modification of HTTP traffic. The aim of this project is to improve the...",
+          "student_name": "Clemens Brunner",
+          "code_url": "https://github.com/mitmproxy/mitmproxy/commits/master?author=cle1000",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6267043674324992/"
+        },
+        {
+          "title": "Vulnerability emulation for SNARE and TANNER",
+          "short_description": "SNARE is a web application honeypot sensor attracting all sort of maliciousness from the Internet. The web page is generated by cloning a real web...",
+          "student_name": "afeena",
+          "code_url": "https://github.com/mushorg/tanner/wiki/Google-Summer-of-Code-2016-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6327465274245120/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5512685819002880/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Android Sandbox Detection and Countermeasure Proposal",
+          "short_description": "Many Android apps are using sandbox-detection techniques, and here is an example. To make things worse, there are malware using the sandbox-detection...",
+          "student_name": "Ziyue Yang",
+          "code_url": "https://yzygitzh.github.io/gsoc/2017/08/23/gsoc-2017-results.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5442317074825216/"
+        },
+        {
+          "title": "Conpot improvements",
+          "short_description": "Conpot is a honeypot that handles a number of protocols (including IPMI, SNMP, BACnet, modbus and s7comm), which are usually used in industrial...",
+          "student_name": "Yuru Shao",
+          "code_url": "https://github.com/mushorg/conpot/commits/master?author=windflyer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6182219680841728/"
+        },
+        {
+          "title": "Automated Malware Relationships Detection Tool",
+          "short_description": "The increase in volume and diversity of malware attacks has created a difficult situation for security analysts. \nNow more than ever, automatic...",
+          "student_name": "Donika Mirdita",
+          "code_url": "https://www.holmesprocessing.com/gsoc/#portfolioModal6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5236777925214208/"
+        },
+        {
+          "title": "Protocol and adversary identification in Go",
+          "short_description": "When a client is connecting to a honeypot server, it is usually not legitimate traffic. However, as malware is always trying to be stealthy, the...",
+          "student_name": "Nikolaos Filippakis",
+          "code_url": "https://github.com/mushorg/go-dpi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5378892487458816/"
+        },
+        {
+          "title": "Glutton Enhancement",
+          "short_description": "Author of glutton have proposed some new functionalities to be added in Glutton, like:\n\nSpawn Containers\nSupport of YARA\n\nI will make code for those...",
+          "student_name": "M Bilal Arif",
+          "code_url": "https://gist.github.com/furusiyya/38e8ca7963fd94ffc253e8b22e3338f2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4518801798332416/"
+        },
+        {
+          "title": "Proposal to the Honeynet Project.",
+          "short_description": "Hello! Eventually it happened! I am happy to present you my final version of proposal. \nI have worked on it for last 2 weeks. I did all I could to...",
+          "student_name": "kajoj",
+          "code_url": "https://honeynet.org/node/1360",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4604799257411584/"
+        },
+        {
+          "title": "Mitmweb Improve",
+          "short_description": "Mitmweb is now shipped with our releases, supporting most of the fundamental features. However, some important features have not been brought to...",
+          "student_name": "Matthew Shao",
+          "code_url": "http://honeynet.org/node/1359",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4789821079814144/"
+        },
+        {
+          "title": "SNARE/TANNER",
+          "short_description": "SNARE is a web application honeypot sensor attracting all sort of maliciousness from the Internet. The web page is generated by cloning a real web...",
+          "student_name": "Ravinder Nehra",
+          "code_url": "https://github.com/mushorg/tanner/wiki/GSoC-2017-Work-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6115488505528320/"
+        },
+        {
+          "title": "Holmes Framework to Automate Advanced Analytics",
+          "short_description": "In this project I will design and develop a semi-generic interface that enables Holmes Processing to manage the execution of advanced statistical and...",
+          "student_name": "Christian von Pentz",
+          "code_url": "https://www.holmesprocessing.com/gsoc/#portfolioModal4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5859375579136000/"
+        },
+        {
+          "title": "Building  examples services for Holmes processing",
+          "short_description": "Holmes processing is a platform for large scale malware analysis. To allow for scaling and performance gains, this has required multiple techniques...",
+          "student_name": "Manohar Reddy",
+          "code_url": "https://www.holmesprocessing.com/gsoc/#portfolioModal5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5867879077511168/"
+        },
+        {
+          "title": "Long term analysis",
+          "short_description": "Integrating the existing Longcuckoo into the latest version of Cuckoo Sandbox so that Cuckoo Sandbox long term analysis will be available to all...",
+          "student_name": "Ricardo van Zutphen",
+          "code_url": "https://gist.github.com/RicoVZ/a93639a94339a6a1e04dc223ca7c6eb9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6271040409829376/"
+        },
+        {
+          "title": "Mitmproxy Core",
+          "short_description": "Project type\n Improve existing tool\nProject goal\nSpend the summer working on mitmproxy's core and its addons!\nImproving mitmproxy. Adding various...",
+          "student_name": "Ujjwal Verma",
+          "code_url": "https://github.com/mitmproxy/mitmproxy/commits?author=ujjwal96",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5195898158055424/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5912217769738240/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Honeypot Detection Tool",
+          "short_description": "The goal of this project is to create a tool that can scan a system for features which would let an attacker know prematurely it is a honeypot. This...",
+          "student_name": "Vlad Florea",
+          "code_url": "https://github.com/vladalexgit/checkpot/blob/master/GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6339855986458624/"
+        },
+        {
+          "title": "SNARE/TANNER",
+          "short_description": "SNARE is a web application honeypot sensor attracting all sort of maliciousness from the Internet. The web page is generated by cloning a real web...",
+          "student_name": "Viswak Hanumanth G K",
+          "code_url": "https://github.com/mushorg/tanner/wiki/GSoC-2018-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6345594196983808/"
+        },
+        {
+          "title": "Google Protocol Buffers Serialization",
+          "short_description": "The basic idea behind the project is to shift mitmproxy serialization process to a new, clean standard format. Using Google Protocol Buffers will...",
+          "student_name": "Pietro Tirenna",
+          "code_url": "http://pietrotirenna.me/gsoc/2018/08/10/summer_of_code.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6659985803051008/"
+        },
+        {
+          "title": "Semi-automated DroidBot: Semi-automated Android UI testing",
+          "short_description": "The solution will consist of an Android app, that will read the input provided by the user, and generate an interaction model, which can be read by...",
+          "student_name": "Anant Joshi",
+          "code_url": "https://anant-joshi.github.io/google-summer-of-code-2018-work-product.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5700423470022656/"
+        },
+        {
+          "title": "Implementing Yara rules in Honeytrap",
+          "short_description": "Yara is a pattern-matching DSL developed to describe malware families; in this project, it is used to describe malicious actors interacting with a...",
+          "student_name": "CapacitorSet",
+          "code_url": "https://capacitorset.github.io/gsoc18/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5737442330017792/"
+        },
+        {
+          "title": "LibVMI extensions: Bareflank hypervisor support",
+          "short_description": "Hypervisor (Virtual Machine Monitor) is a software that runs one or more virtual machines. Other than virtualization in cloud, they are also used in...",
+          "student_name": "Boddu Manohar Reddy",
+          "code_url": "https://github.com/boddumanohar/gsoc2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5421432192368640/"
+        },
+        {
+          "title": "Droidbot with AI",
+          "short_description": "The major task to be tackled in this project is to increase the code coverage using AI. Currently droidbot performs black box testing using the GUI...",
+          "student_name": "Saumo Pal",
+          "code_url": "https://saumopal97.github.io/GSoC-2018-Work-Product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5504741471682560/"
+        },
+        {
+          "title": "DRAKVUF - Stealthiness Improvement",
+          "short_description": "DRAKVUF (https://drakvuf.com) is an agent-less and virtualization based black-box binary analysis system. It allows users to analyze any binaries and...",
+          "student_name": "Stewart Sentanoe",
+          "code_url": "https://ssentanoe.blogspot.com/2018/06/humble-experience-of-gsoc-2018.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5050265212289024/"
+        },
+        {
+          "title": "Port LibVMI to Xen MiniOS",
+          "short_description": "In this project, the core functionalities of the LibVMI will be ported to Xen MiniOS. After ported, Xen MiniOS will have the basic capabilities of...",
+          "student_name": "Lele Ma",
+          "code_url": "https://tinyvmi.github.io/quick-start-windows/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5616388878106624/"
+        },
+        {
+          "title": "#9 - DRAKVUF: Support for Dynamic Malware Analysis on ARM",
+          "short_description": "The relevance of ARM processors is rising. Especially since ARM recently started targeting the servers and desktop market, thus going beyond the...",
+          "student_name": "Ulrich Fourier",
+          "code_url": "https://arm-drakvuf.blogspot.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6224083532382208/"
+        },
+        {
+          "title": "Thug: Python 3 Port and PyV8 Replacement",
+          "short_description": "Thug is a Python low-interaction honeyclient aimed at mimicking the behavior of a web browser in order to detect and emulate malicious contents.\nThis...",
+          "student_name": "Arushit Mudgal",
+          "code_url": "https://docs.google.com/document/d/1M-RMq_sJzuB-dcYLCjLZ1y-6A7yAmW6tquz7InceWlw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4584194957115392/"
+        },
+        {
+          "title": "Automated Malware Relationship Mining",
+          "short_description": "Since last year, Holmes-Processing has acquired a large dataset of labeled malware samples, which can be used for deep learning based malware...",
+          "student_name": "ctsung",
+          "code_url": "https://www.holmesprocessing.com/gsoc/#portfolioModal8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4826665792307200/"
+        },
+        {
+          "title": "DRAKVUF : Process Injector Enhancement",
+          "short_description": "DRAKVUF allows to inject a binary directly into a running virtual machine. The current implementation uses either CreateProcessA() or ShellExecuteA()...",
+          "student_name": "Mathieu Dolmen",
+          "code_url": "https://mdolmen.github.io/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6496586389520384/"
+        },
+        {
+          "title": "#15 - CONPOT: Protocols Wave #2",
+          "short_description": "Conpot is an ICS/SCADA honeypot that supports a number of industrial protocols and environments. For Conpot to emulate industrial devices better,...",
+          "student_name": "Abhinav Saxena",
+          "code_url": "https://github.com/mushorg/conpot/wiki/GSoC-2018---Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6545536467337216/"
+        },
+        {
+          "title": "Trusted Execution Environment Based Dynamic Analysis on ARM",
+          "short_description": "The purpose of this project is to constructure a monitor (like eBPF in the latest version linux kernel) in the \u201csecure world\u201d which can collect...",
+          "student_name": "Harikrishnan R",
+          "code_url": "https://bitbucket.org/i11ustris/tee-monitor-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6284668475277312/"
+        },
+        {
+          "title": "Mitmproxy improvements",
+          "short_description": "There is one big and very interesting task.\nI need to Implement DSL for commands.\nCurrent implementation of Mitmproxy commands fulfills its duties,...",
+          "student_name": "Roman Samoilenko",
+          "code_url": "https://gist.github.com/kajojify/3c48bba38943f185538224bd15276e89",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6300688971726848/"
+        },
+        {
+          "title": "New exploiters in Infection Monkey",
+          "short_description": "New non-destructive vulnerabilites Oracle WebLogic vulnerability (CVE-2017-10271) and Struts RCE vulnerability (S2-045) will be added to Infection...",
+          "student_name": "Vakaris",
+          "code_url": "https://gist.github.com/VakarisZ/eccbb84be80b3a13abe7cd0a425bfb17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5218025695346688/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6462296409243648/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Implementing behavioral analysis for Android",
+          "short_description": "Being an open-source operating system, Android is more vulnerable to attacks. This project is about adding support for automated malware analysis of...",
+          "student_name": "muhzi",
+          "code_url": "https://gist.github.com/muhzii/a65334123880d808f33dc01a24c0e5fa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5491925589688320/"
+        },
+        {
+          "title": "Operating-system fuzzing with a hypervisor",
+          "short_description": "This project deals with extending DRAKVUF for fuzzing the operating system using hypervisor and libinjector in DRAKVUF. libinjector will be used to...",
+          "student_name": "Ajinkya Rajput",
+          "code_url": "https://the-elves.github.io/Ajinkya-GSoC19-Submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5502832524918784/"
+        },
+        {
+          "title": "SSH Proxy for Cowrie",
+          "short_description": "This project\u2019s objective is to add an SSH proxy for the Cowrie (https://www.cowrie.org/) honeypot. Currently, Cowrie emulates an SSH server using...",
+          "student_name": "Guilherme Borges",
+          "code_url": "https://gist.github.com/sgtpepperpt/862e1f5428889b5686d0c51b625f5a91",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6175515755413504/"
+        },
+        {
+          "title": "Injecting function-calls to Linux through a hypervisor",
+          "short_description": "This project is of type Improving an existing tool that includes cleaning up the existing codebase and adding the process injection support for Linux.",
+          "student_name": "Ayush Dosaj",
+          "code_url": "https://dos98.github.io/gsoc19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5121264878878720/"
+        },
+        {
+          "title": "Adding (Updating) macOS support to Cuckoo SandBox",
+          "short_description": "Cuckoo Sandbox is a malware analysis platform which performs basic static file analysis to in-depth dynamic analysis of binaries. Even though macOS...",
+          "student_name": "zed009",
+          "code_url": "https://docs.google.com/document/d/1oRGrN9ygJv0Xr_DBHoj98Lp_PDmVH5VJqL9cS3JWYAE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5575881328689152/"
+        },
+        {
+          "title": "Operating System Fuzzing With a Hypervisor: OSFuzz",
+          "short_description": "Fuzzing has been a very useful technique to find bugs and vulnerabilities. Fuzzing operating systems however has been problematic when the operating...",
+          "student_name": "Vinamra Bhatia",
+          "code_url": "https://vinamrabhatia.github.io/drakvuf/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5627549516824576/"
+        },
+        {
+          "title": "Heralding: RDP and VNC implementation",
+          "short_description": "Heralding is essentially a credentials Honeypot. It can log credentials(username & password) for many protocols, but some protocols do not transmit...",
+          "student_name": "realsdx",
+          "code_url": "https://gist.github.com/realsdx/bcca4fb8cebd5760f76d252aaff8812c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6206638430617600/"
+        },
+        {
+          "title": "Adding Privilege escalation functionality to the monkey",
+          "short_description": "New non-destructive privilege escalation exploits likerunc container escape (CVE-2019-5736) and Dirty sock  (CVE-2019-7304) and Dirty cow  ...",
+          "student_name": "Dhayalan Balakrishnan",
+          "code_url": "https://gist.github.com/Dhayalanb/27c1586ebe971f5658bd331f85b53d58",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6062555213070336/"
+        },
+        {
+          "title": "SNARE/TANNER: Improvements",
+          "short_description": "The aim is of the project is to improve SNARE/TANNER over the summer. The major goals of the project are - Implement new emulators to support...",
+          "student_name": "Rajat Gupta.",
+          "code_url": "https://github.com/mushorg/tanner/wiki/GSoC-2019-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5159726462009344/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5961706703945728/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Improve cloning & serving functionality for Snare",
+          "short_description": "In this project, my focus will be on improving the snare's ability to clone and serve the pages. Also, I will add support for serving pages with TLS....",
+          "student_name": "mzfr",
+          "code_url": "https://github.com/mushorg/tanner/wiki/GSoC-2020-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5368758249455616/"
+        },
+        {
+          "title": "libmicrovmi \u2013 full bindings to Xen and KVM",
+          "short_description": "Today the VMI ecosystem is made of a multitude of applications, targeting one hypervisor or emulator, with their own semantic library, which makes...",
+          "student_name": "Arnab Dutta",
+          "code_url": "https://medium.com/@cs17b006/gsoc-with-libmicrovmi-4fcecb7fba5d?source=friends_link&sk=14c1654f9b141e8375767db795fc0da0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5385055670632448/"
+        },
+        {
+          "title": "Svmidbg: developing a Stealthy Hypervisor based VM Introspection Debugger",
+          "short_description": "Svmidbg will be a debugger using virtual machine introspection (VMI) that tries to be stealthy by leveraging hypervisor technologies to create...",
+          "student_name": "Christopher Pelloux",
+          "code_url": "https://gist.github.com/chp-io/9ced9595517939c38c3b0deb2b28231d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5570091585896448/"
+        },
+        {
+          "title": "Improving the usability of mitmproxy with new features",
+          "short_description": "I propose three independent projects that improve the usability of mitmproxy for new and existing users.\nThe first project aims to improve the...",
+          "student_name": "Martin Plattner",
+          "code_url": "https://mplattner.at/gsoc-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6201665520140288/"
+        },
+        {
+          "title": "HosTaGe: a mobile honeypot",
+          "short_description": "Adding new features including New Protocols Simulation and Systems Simulation. Also support for hpfeeds integration and use on Unrooted devices....",
+          "student_name": "Irini Lygerou",
+          "code_url": "https://gist.github.com/irinil/fc48872704ec7414c4035e9f7297e9d9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4661329689837568/"
+        },
+        {
+          "title": "Analytical malware classification",
+          "short_description": "The Cuckoo sandbox is currently undergoing a complete redesign and the goal of the project is to build a proof of concept module that uses an...",
+          "student_name": "Armin Huremagic",
+          "code_url": "https://agiix.github.io/GSoC2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4771103517442048/"
+        },
+        {
+          "title": "New Web Interface for IntelOwl & Adding New Analyzers",
+          "short_description": "Intel Owl is an Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single...",
+          "student_name": "Eshaan Bansal",
+          "code_url": "https://www.honeynet.org/2020/08/26/gsoc-2020-work-product%e2%80%8a-%e2%80%8aintel-owl/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4833392018849792/"
+        },
+        {
+          "title": "Expanding Clang-Tidy to include AUTOSAR compliance",
+          "short_description": "Clang-tidy is one of the best linters for C++. It currently provides static analysis for several groups of checks, including Google and Android...",
+          "student_name": "Yannan",
+          "code_url": "https://docs.google.com/document/d/1r6H5eYOji3mytkdpNJFPuc4PdmE2ZbrFeNAhEqkQIpU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6056658263867392/"
+        },
+        {
+          "title": "Tenjint Orchestration framework",
+          "short_description": "Tenjint is a framework for VM Introspection developed in Python. The project aims at providing  user with a Web API for the submission of samples to...",
+          "student_name": "Aman Ahuja",
+          "code_url": "https://github.com/amanjiofficial/tenjint-flask",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5769709183565824/"
+        },
+        {
+          "title": "Enhance detection capabilities: Improve the MITRE ATT&CK coverage in Monkey by adding post-breach actions",
+          "short_description": "As of now, Monkey covers 24 attack techniques from the MITRE ATT&CK matrix. This project aims at increasing the number of techniques by adding 11 new...",
+          "student_name": "Shreya Malviya",
+          "code_url": "https://gist.github.com/shreyamalviya/96ea77ba892e5a7432bcda11926d9329",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5905911186456576/"
+        },
+        {
+          "title": "LibVMI as a Unikraft Application",
+          "short_description": "Virtual Machine Introspection applications often execute on the same privilege level as the hypervisor, which can have disastrous security...",
+          "student_name": "felix b",
+          "code_url": "https://github.com/FelixBer/unikraft",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6305166011138048/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5942967122001920/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "PcapMonkey Improvements",
+          "short_description": "PcapMonkey provides an easy way to analyze .pcap using Suricata, Zeek, and Elastic SIEM.\nThe goal of this proposal is to improve and enhance...",
+          "student_name": "Hariom Chaturvedi",
+          "code_url": "https://gist.github.com/hariomch/95d3d7fcfa86b0b1da0b714cf81d8902",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6683198662115328/"
+        },
+        {
+          "title": "IntelOwl Connectors Manager and Integrations",
+          "short_description": "IntelOwl is an Open Source Intelligence (OSINT) solution designed with the intent to help the community to get threat intelligence data about an...",
+          "student_name": "Shubham Pandey (sp35)",
+          "code_url": "https://www.honeynet.org/2021/08/20/gsoc-2021-project-summary-intelowl-connectors-manager-and-integrations/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6736707847716864/"
+        },
+        {
+          "title": "RIoTPot - Honeypot for IOT/OT devices",
+          "short_description": "A honeypot for IOT/OT protocols with a dynamic response system that records the attack data. A tool which can help securing IOT/OT infrastructure and...",
+          "student_name": "Abhimanyu Rawat",
+          "code_url": "https://gist.github.com/ABresting/86ac8837d3fd26f0b02c6efc7189f2f5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5739751147044864/"
+        },
+        {
+          "title": "Extending DRAKVUF by an I/O-emulation module in order to camouflage its sandbox nature",
+          "short_description": "To be a reliable black-box malware analysis system DRAKVUF has to mitigate the observer effect, which can be accomplished by defeating...",
+          "student_name": "Jan Gruber",
+          "code_url": "https://cert.pl/en/posts/2021/08/hid-simulation-for-drakvuf/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5750586108018688/"
+        },
+        {
+          "title": "IntelOwl Improvements",
+          "short_description": "This project proposes a new, more robust way of verifying Analyzers\u2019 configurations via strict rules through database models/serializers and a new...",
+          "student_name": "Sarthak Khattar",
+          "code_url": "https://www.honeynet.org/2021/08/20/gsoc-2021-project-summary-intelowl-improvements/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5116212224196608/"
+        },
+        {
+          "title": "New Rule Generation Technique & Make Quark Everywhere Among Security Open Source Projects",
+          "short_description": "Quark-Engine is a rule-based android malware detection tool, However, as a contributor of both Quark and its side projects (quark-rule-generate,...",
+          "student_name": "Yu-Shiang Dang",
+          "code_url": "https://quark-engine.github.io/2021/08/17/GSoC-2021-YuShiangDang/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4718499024338944/"
+        },
+        {
+          "title": "Cloning and compatibility improvements for Snare",
+          "short_description": "I plan to work heavily on improving the cloning capabilities of Snare, modify and upgrade aiohttp to be compatible with Tanner (v3.7.4) and add...",
+          "student_name": "krishna11",
+          "code_url": "https://github.com/mushorg/tanner/wiki/GSoC-2021-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4768867716431872/"
+        },
+        {
+          "title": "Replacing the core library of Quark-Engine",
+          "short_description": "In this proposal, I mainly focus on two dimensions provided by Quark-Engine, including resilience and performance. According to the mentor, there are...",
+          "student_name": "Sheng-Feng",
+          "code_url": "https://quark-engine.github.io/2021/08/17/GSoC-2021-ShengFengLu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6051427562029056/"
+        },
+        {
+          "title": "Make mitmweb\u2019s UI rich and easy to use",
+          "short_description": "Mitmproxy provides a lot of features for debugging, testing, and penetration testing.\nMitmproxy is already a really awesome tool at this moment, but...",
+          "student_name": "Toshiaki Tanaka",
+          "code_url": "https://gist.github.com/gorogoroumaru/32aec49d469d10be870953526e14d6ab#file-gsoc2021report-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6119409076142080/"
+        },
+        {
+          "title": "Implementing Linux support in Drakvuf-Sandbox",
+          "short_description": "Drakvuf-sandbox is a malware analysis tool that is used to analyze the behavior of the malware in a contained environment. It uses the Drakvuf engine...",
+          "student_name": "Manorit Chawdhry",
+          "code_url": "https://www.cert.pl/en/posts/2021/08/gsoc-linux-injector/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4918761135538176/"
+        },
+        {
+          "title": "A Stitch In Time (saves nine)",
+          "short_description": "This proposal tackles several smaller/simpler challenges of the HosTaGe application. It focusses on addressing Logging, API Key Maintenance and...",
+          "student_name": "Filip Adamik",
+          "code_url": "https://gist.github.com/zafodB/4ccc069531a120ceb26761c90a2b8bd2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4923980057673728/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-honeynet-project/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Bridge Qiling with other static analysis software",
+          "short_description": "My entire project aims to bridge Qiling with other static analysis software, thus providing users with high-level concepts like stack frame, CFG and...",
+          "student_name": "Jing Liu",
+          "code_url": "https://jing6.netlify.app/project/qiling-gsoc22/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4xWSBRwy/"
+        },
+        {
+          "title": "RIoTPot: A Shapeshifting honeypot",
+          "short_description": "# Advance Device Profiles --- To enhance RIoTPot with pre-set and custom device profiles. The profiles will be displayed using an interface that...",
+          "student_name": "ryaben",
+          "code_url": "https://ricyaben.github.io/blog/projects/gsoc_2022_riotpot/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Fy1BiON5/"
+        },
+        {
+          "title": "IntelOwl v4 improvements",
+          "short_description": "Improve existing functionalities and add new ones to IntelOwl for release of v4. - Allow plugin secrets to be stored and managed from GUI #978 -...",
+          "student_name": "Aditya Pratap Singh",
+          "code_url": "https://www.honeynet.org/2022/09/26/gsoc-2022-project-summary-intelowl-v4-improvements/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1gHChanW/"
+        },
+        {
+          "title": "QUIC Support in mitmproxy",
+          "short_description": "mitmproxy is a superb tool for security and privacy forensics. It currently supports HTTP/1 and HTTP/2, but lacks support for QUIC and HTTP/3. This...",
+          "student_name": "Manuel Meitinger",
+          "code_url": "https://gist.github.com/meitinger/d072dbf870120b0e30c738259f79263b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IulAHttJ/"
+        },
+        {
+          "title": "Creating Playbooks for IntelOwl",
+          "short_description": "I propose working on a new component for IntelOwl this summer - Playbooks which would help people share and run automatically, the exact...",
+          "student_name": "Aditya Narayan Sinha",
+          "code_url": "https://www.honeynet.org/2022/10/06/gsoc-2022-project-summary-creating-playbooks-for-intelowl/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DRo78WpM/"
+        },
+        {
+          "title": "Intelowl Go Client",
+          "short_description": "I propose making a robust Go client library for OSINT Threat Intelligence Platform IntelOwl that easily communicates with their API. The Intelowl Go...",
+          "student_name": "Hussain Khan",
+          "code_url": "https://www.honeynet.org/2022/09/06/gsoc-2022-project-summary-intelowl-go-client-go-intelowl/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QQ8d1Psl/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-honeynet-project",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Frontend Improvements for BuffaLogs, Intelowl.",
+          "short_description": "I propose to improvising frontend for BuffaLogs, implementing graphs, maps for better data visualisations plus authentications using JWT. I would...",
+          "student_name": "Abheek Tripathy",
+          "code_url": "https://abheektripathy.substack.com/p/frontend-improvements-for-buffalogs",
+          "proposal_id": "uDu6gNiF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TO4HPglC"
+        },
+        {
+          "title": "Honeyscanner: a vulnerability analysis tool for honeypots",
+          "short_description": "A honeypot is a security resource that mimics a vulnerable system and is used to lure and trap cyber-attackers. Over the last decade, many...",
+          "student_name": "Aristofanis Chionis",
+          "code_url": "https://gist.github.com/aristofanischionis/a9d18cb0c8b801bbaf50b51a72fe9405",
+          "proposal_id": "zvcqdP66",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6oyTxlUo"
+        },
+        {
+          "title": "Riotpot: improving the IoT/OT honeypot",
+          "short_description": "I plan to enhance the RIoTPot by adding new emulated protocols (HTTPS, SFTP, SNMP). I also plan to increase RIoTPot's ability to evade being detected...",
+          "student_name": "Elisa Tsai",
+          "code_url": "https://docs.google.com/document/d/1nVafocmiVmYq0ZqdqdOt21mzWKK_QBU_YvVEl1PBgRo/edit?usp=sharing",
+          "proposal_id": "DLgB6tPb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vvOSjyxu"
+        },
+        {
+          "title": "mitmproxy - transparent mode on Linux and OSx in Rust",
+          "short_description": "The problem to solve is the implementation of a truly transparent mode on mitmproxy both in OSx and Linux (Issue #1261 unsolved since 2016). I plan...",
+          "student_name": "Emanuele Micheletti",
+          "code_url": "https://www-test.mitmproxy.org/posts/proxy-macos-applications/",
+          "proposal_id": "baEVphVF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yI8cXbyg"
+        },
+        {
+          "title": "Ochi usability improvements",
+          "short_description": "Ochi project is used for presenting events in real-time which are generated by Glutton. The existing tool has limited functionality and will benefit...",
+          "student_name": "Kumiszhan",
+          "code_url": "https://www.honeynet.org/2023/08/24/gsoc-2023-project-summary-ochi/",
+          "proposal_id": "1PfC9NGo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/S6tyIv0A"
+        },
+        {
+          "title": "Import / Export of HAR files addition to mitmproxy",
+          "short_description": "My proposal aims to add HAR file support to mitmproxy. This will include the new feature in mitmproxy that allows users to import HAR files into the...",
+          "student_name": "Nathaniel Good",
+          "code_url": "https://www-test.mitmproxy.org/posts/har-support/",
+          "proposal_id": "qUoChtWB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XbEO9Djo"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-honeynet-project/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "New Analyzers for IntelOwl",
+          "short_description": "With this, we're diving deep into data! The vibrant security-analysts user base of intel owl has an active fleet of in demand analyzers (around 50...",
+          "student_name": "NilayGupta",
+          "code_url": "https://intelowlproject.github.io/blogs/gsoc24_new_analyzers_for_intelowl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iG6PlGNy/"
+        },
+        {
+          "title": "Extending The Artemis Scanner",
+          "short_description": "The proposal aims to enhance Artemis' vulnerability detection capabilities while optimizing performance and providing a modern, accessible user...",
+          "student_name": "Kshitij Kapoor",
+          "code_url": "https://github.com/kshitijk4poor/GSoC-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TNXm31W5/"
+        },
+        {
+          "title": "Improving the Functionality of Honeyscanner: A Honeypot Vulnerability Analyzer.",
+          "short_description": "My proposal aims to do several objectives in enhancing the Honeyscanner tool's effectiveness with network security assessments on honeypots. Firstly,...",
+          "student_name": "SeanB.",
+          "code_url": "https://gist.github.com/Swangeon/e794184f55b775528441e33aa1a2a065",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/It5bikEI/"
+        },
+        {
+          "title": "ML-based web attack classification project for TANNER",
+          "short_description": "The rise of sophisticated web attacks poses significant challenges to current detection mechanisms, often relying on traditional regex-based...",
+          "student_name": "Hinna Zeejah",
+          "code_url": "https://github.com/hinnazeejah/tanner/tree/main/ml_dataset",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IvW8jOTc/"
+        },
+        {
+          "title": "Proposal for New Documentation Site for IntelOwl and friends",
+          "short_description": "This project aims to enhance the documentation infrastructure of IntelOwl by migrating from ReadTheDocs to Mkdocs and leveraging GitHub Pages for...",
+          "student_name": "Aryan Bhokare",
+          "code_url": "https://intelowlproject.github.io/blogs/gsoc24_New_documentation_site_summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SJz1fWIY/"
+        },
+        {
+          "title": "Improving the functionality of Honeyscanner: a honeypot vulnerability analyzer",
+          "short_description": "I want to improve a Honeyscanner, which is a honeypot vulnerability analyzer. It automatically attacks a given honeypot, to determine if the honeypot...",
+          "student_name": "Dar",
+          "code_url": "https://github.com/ZupaPomidorowa/detect_honeypot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MDGyxS7a/"
+        },
+        {
+          "title": "Extending the DRAKVUF Sandbox analytic pipeline",
+          "short_description": "This project aims at enhancing the current DRAKVUF Sandbox by: - extracting common TTPs and displaying them in accordance with the MITTRE ATT&CK...",
+          "student_name": "Yacine Elhamer",
+          "code_url": "https://docs.google.com/document/d/1rgvBw-4XSRNrkHtKrA4Hce-6cfu3c6e7-Y_8XmU6Ri8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fCnBGuEC/"
+        },
+        {
+          "title": "Improve features for DNS and HTTP3 in mitmproxy",
+          "short_description": "The projects' main focus is to debug and fix/improve various missing bits in DNS/HTTP3. Features implemented include adding support for DNS-over-TCP...",
+          "student_name": "Gaurav J.",
+          "code_url": "https://gist.github.com/errorxyz/af6f26549e9122f3ff3b93fd9d257df1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/r8Xg7A3k/"
+        },
+        {
+          "title": "Improve the onboarding experience on mitmweb",
+          "short_description": "I propose enhancing the visibility and user-friendliness of switching proxy modes and improving the local mode experience in `mitmweb`. To begin...",
+          "student_name": "Matteo Luppi",
+          "code_url": "https://gist.github.com/lups2000/84f8bffcec8aafca3d26d863726dc2c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Bkygb1pY/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-honeynet-project",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Extending the Artemis scanner",
+          "short_description": "This project aims to enhance Artemis, a modular vulnerability scanner, by automating technology-specific scans, expanding vulnerability detection,...",
+          "student_name": "Abhinav Karn",
+          "code_url": null,
+          "proposal_id": "7mM0JDpr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6OpdvwMk"
+        },
+        {
+          "title": "IntelOwl Improvements: Analyzers and Integrations",
+          "short_description": "This project aims to add more analyzers to Intelowl further enhancing it's capabilities and refactoring the old ones which are not working as per...",
+          "student_name": "akshitmaheshwary",
+          "code_url": null,
+          "proposal_id": "IpntmJTn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8p6BwDeL"
+        },
+        {
+          "title": "#7 Improving the DICOMHawk medical honeypot",
+          "short_description": "DICOMHawk is a honeypot system designed to emulate a vulnerable DICOM (Digital Imaging and Communications in Medicine) server, primarily to detect,...",
+          "student_name": "Anshikaa Sharma",
+          "code_url": null,
+          "proposal_id": "dxHmzL5H",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/i3Yo26LE"
+        },
+        {
+          "title": "Improving the SweetCam IP camera honeypot",
+          "short_description": "Problem: IP cameras are frequent targets for cyberattacks due to their widespread use and often weak security. Current honeypots like SweetCam lack...",
+          "student_name": "c1nk",
+          "code_url": null,
+          "proposal_id": "kagv8KnQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Z0fvicFa"
+        },
+        {
+          "title": "Alerting Module Enhancement: Standardization, Customization, and Improvements",
+          "short_description": "This project aims to enhance BuffaLogs alerting system by integrating new alerters, standardizing configurations, and introducing advanced features...",
+          "student_name": "kunalsz",
+          "code_url": null,
+          "proposal_id": "5FoBCtDw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JVMdDf9a"
+        },
+        {
+          "title": "Glutton : Refactoring protocol parsers originally written in Go into Spicy",
+          "short_description": "The proposed project aims to develop Spicy-based protocol parsers for HTTP and DNS. Although Go is an efficient language used for system programming...",
+          "student_name": "Namay Rohatgi",
+          "code_url": null,
+          "proposal_id": "q1whP1ri",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lSllhsuW"
+        },
+        {
+          "title": "BuffaLogs: Developing BuffaCLI for Command-Line Management and BuffaWatch for Real-Time Log Tracking",
+          "short_description": "BuffaLogs is a tool designed to detect anomalous login activities. However, it currently lacks real-time analysis of login data and only offers a web...",
+          "student_name": "Onunwa Goodness",
+          "code_url": null,
+          "proposal_id": "oiijKpa7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pKbVs9U0"
+        },
+        {
+          "title": "IntelOwl improvements: refactor analyzer tests",
+          "short_description": "This project aims to improve the testing framework for IntelOwl analyzers by transitioning from the existing monkeypatch-based approach to a more...",
+          "student_name": "Pranjal Gupta",
+          "code_url": null,
+          "proposal_id": "AclwIIgM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/H09maFA9"
+        },
+        {
+          "title": "Implementing Protocol Parsers for Glutton Using Spicy",
+          "short_description": "This project addresses the challenge of enhancing Glutton's protocol parsing capabilities by implementing HTTP and DNS parsers using Spicy, a...",
+          "student_name": "Suyash Handa",
+          "code_url": null,
+          "proposal_id": "9YLOuuhX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/u2N2grii"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/68B8Ru5fSU",
+  "contact_email": "mailto:project@honeynet.org",
+  "mailing_list": "https://public.honeynet.org/mailman/listinfo/gsoc",
+  "ideas_url": "https://www.honeynet.org/gsoc/gsoc-2025/google-summer-of-code-2025-project-ideas/",
+  "guide_url": "https://www.honeynet.org/gsoc/",
+  "twitter_url": "https://twitter.com/ProjectHoneynet",
+  "blog_url": "https://www.honeynet.org/blog/"
+}

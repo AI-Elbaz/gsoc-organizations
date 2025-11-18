@@ -1,0 +1,50 @@
+{
+  "name": "Xen Project",
+  "url": "http://xenproject.org/",
+  "image_url": "https://lh3.googleusercontent.com/8-1iv11qUH3NQh51RUUucz5KaFc-xnirXU3Bsd_oQfGzen68L0H4YvyGdbDuwZqLRhiBRKjAJ_XTkzdJiMMvJTKKb94AmQ",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "virtualization",
+    "security",
+    "cloud computing",
+    "unikernels",
+    "embedded/automotive"
+  ],
+  "technologies": [
+    "linux",
+    "qemu",
+    "free/netbsd",
+    "asm/c/c++",
+    "ocaml"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5748328394391552/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Fuzzing the Xen Hypercall Interface",
+          "short_description": "Fuzzing is a recent trend for systematic testing of interfaces by trying more or less random inputs and iterating over them. A subset of fuzzers uses...",
+          "student_name": "Felix Schmoll",
+          "code_url": "https://lists.xen.org/archives/html/xen-devel/2017-08/msg01960.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6343132106981376/"
+        },
+        {
+          "title": "Xen: share memory areas among VMs from the config file",
+          "short_description": "Virtual machines use grant table hypercalls to setup a share page for inter-VMs communications. These hypercalls are used by all PV protocols today....",
+          "student_name": "Zhongze Liu",
+          "code_url": "https://docs.google.com/spreadsheets/d/1mktb0e2NQ4Xh-cL8tx4ENRcL6j-lVXOCP7lbQYE9BaU/edit#gid=0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5356246735519744/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://xenproject.org/help/irc.html",
+  "contact_email": "mailto:community.manager@xenproject.org",
+  "mailing_list": "https://xenproject.org/help/mailing-list.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/xen_org",
+  "blog_url": "http://blog.xenproject.org/"
+}

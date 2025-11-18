@@ -1,0 +1,787 @@
+{
+  "name": "OpenMRS",
+  "url": "https://openmrs.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openmrs/evthgp3dhsqx5kyx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "health",
+    "medical records",
+    "clinics",
+    "ehealth",
+    "hospitals",
+    "clinical",
+    "developing world",
+    "open source",
+    "developing countries",
+    "science and medicine",
+    "medical record",
+    "open source medical records",
+    "electronic medical records",
+    "platform",
+    "Electronic Medical Record System",
+    "frontend",
+    "QA automation"
+  ],
+  "technologies": [
+    "java",
+    "html5",
+    "groovy",
+    "xml",
+    "hibernate",
+    "mysql",
+    "javascript",
+    "html",
+    "css",
+    "spring",
+    "rest",
+    "android",
+    "fhir",
+    "Cypress",
+    "reactjs"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5007071531499520/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Upgrade Data Collection support for Human Genetics Care",
+          "short_description": "The Human Genetics Clinic of the faculty of Medicine, University of Colombo plays a valuable role in caring for patients.\nCurrently, contributors...",
+          "student_name": "Akshika Wijesundara",
+          "code_url": "https://github.com/surangak/HguSriLanka",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6429668584456192/"
+        },
+        {
+          "title": "FHIR Swagger Document generator and enhancements",
+          "short_description": "FHIR standard rapidly gets popular among community. Swagger is one of most popular API documentation language. Objective of project is to integrate...",
+          "student_name": "Rasanjana",
+          "code_url": "https://rasanjanacreations.wordpress.com/2016/08/20/completion-last-update-of-gsoc-openmrs/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5528550086017024/"
+        },
+        {
+          "title": "DHISReport DHIS2 WebAPI",
+          "short_description": "Automating the process of creating report definition XML by importing it from the DHIS2 implementation.",
+          "student_name": "Pralay Ramteke",
+          "code_url": "https://github.com/openmrs/openmrs-module-dhisreport/commits/master?author=puevigreven",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6130525722902528/"
+        },
+        {
+          "title": "Radiology Reporting Enhancement",
+          "short_description": "The OpenMRS radiology module adds features of a Radiology information System to OpenMRS. Currently the OpenMRS radiology reporting module has a poor...",
+          "student_name": "ivange94",
+          "code_url": "https://ivange94blog.wordpress.com/2016/08/20/gsoc-2016-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5562394428309504/"
+        },
+        {
+          "title": "Cohort Module Enhancements",
+          "short_description": "The cohort module is quintessential for providing an integrated, user-friendly and customizable monitoring tool for Households (generalized as...",
+          "student_name": "bholagabbar",
+          "code_url": "https://github.com/OpenSRP/openmrs-module-cohort/commits/master?author=bholagabbar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5628983332831232/"
+        },
+        {
+          "title": "Overhaul the User Management dashboard for ID Dashboard",
+          "short_description": "ID Dashboard is the glue that holds the community together. Currently we have to straddle two systems if users have issues registering, Atlassian...",
+          "student_name": "Dmytro Trifonov",
+          "code_url": "http://dmytro-trifonov.blogspot.com/2016/08/gsoc-2016-results.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4521878471311360/"
+        },
+        {
+          "title": "Atlas 3.0",
+          "short_description": "Rewrite the OpenMRS Atlas server backend as a Node.js app presenting a simple RESTful API and Authenticate it against the OpenMRS ID.",
+          "student_name": "Shekhar Reddy",
+          "code_url": "https://shekharreddykmit.wordpress.com/2016/08/23/gsoc-2016-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4542047637733376/"
+        },
+        {
+          "title": "OWA App Store",
+          "short_description": "As OpenMRS has chosen Bintray as its distribution platform,there is a need to develop a website where one can download OWA's and OMOD's using the...",
+          "student_name": "Vishnu Rao",
+          "code_url": "https://reevolter.wordpress.com/2016/08/23/summary-of-the-work-done-for-openmrs-app-store-project-gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4774335306792960/"
+        },
+        {
+          "title": "OpenMRS Android Client",
+          "short_description": "This proposal aims to completely overhaul the design of the OpenMRS Android client and add powerful offline form syncing capabilities and...",
+          "student_name": "AvijitGhosh82",
+          "code_url": "https://github.com/openmrs/openmrs-contrib-android-client/blob/master/GSoC_2016.md\r\n",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5829866469457920/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6111850936664064/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "FHIR Module Enhancements  Project Proposal",
+          "short_description": "FHIR is a well known standard which rapidly gets popular among community. The purpose of this project is to expand the capabilities and functions of...",
+          "student_name": "Kwateng Ofori",
+          "code_url": "https://talk.openmrs.org/t/gsoc-2017-fhir-module-enhancements-final-presentation/13080",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6477411709353984/"
+        },
+        {
+          "title": "OpenMRS Data Integrity Module Improvement",
+          "short_description": "The objective of this proposal is to present a way to improve the OpenMRS Data Integrity Module. \nIt is not always possible to check the validity of...",
+          "student_name": "Shivang Nagaria",
+          "code_url": "https://medium.com/@shivtej/gsoc17-data-integrity-module-78a0ca58dcf1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5580448994426880/"
+        },
+        {
+          "title": "Generic Tagging Mechanism",
+          "short_description": "Creating a generic mechanism that allows users to annotate domain objects with text labels/tags. It has several uses such as, for grouping data and...",
+          "student_name": "jtatia",
+          "code_url": "https://jtatia.wordpress.com/2017/08/26/final-report-gsoc-2017-generic-tagging-mechanism/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5589961675898880/"
+        },
+        {
+          "title": "FHIR OAuth Smart Apps Integration and OAuth Module Enhancements",
+          "short_description": "This is a draft proposal.",
+          "student_name": "Sanatt Abrol",
+          "code_url": "https://mavrk.github.io/GSOC-2017-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6229265678860288/"
+        },
+        {
+          "title": "OpenMRS Android Client Feature Parity and Improvements",
+          "short_description": "The project features new attributes designed towards usefulness and perfection. Implementing the Provider Module can improve doctor and patient...",
+          "student_name": "Hao Xu",
+          "code_url": "https://medium.com/@hao555sky/google-summer-of-code-2017-with-openmrs-79abeb6fb504",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4669708561285120/"
+        },
+        {
+          "title": "More Metadata Management in AdminUI",
+          "short_description": "The goal of this project is to ensure that one can comfortably run the reference application without requiring the legacyUI module for metadata...",
+          "student_name": "Suthagar Kailayapathy",
+          "code_url": "https://medium.com/@suthagar23/more-metadata-management-in-adminui-gsoc-2017-project-d9c42a68fea3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4710352373678080/"
+        },
+        {
+          "title": "OpenMRS Android Client",
+          "short_description": "During GSoC 2016, the Android app was improved with features including Forms and Patient Registration. For GSoC 2017, I will focus on bringing...",
+          "student_name": "DefCon",
+          "code_url": "https://talk.openmrs.org/t/gsoc-2017-android-client-final-presentation/13064?u=defcon",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4773888495976448/"
+        },
+        {
+          "title": "Improved REST API Documentation",
+          "short_description": "Improve and optimize OpenMRS REST API Specification\n\nImprove Swagger Specification\nCreate API Overview Docs\nOptimize/Cache Swagger Spec Creation...",
+          "student_name": "Gayan Weerakutti",
+          "code_url": "https://www.linuxdeveloper.space/gsoc-2017-work-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4787965653942272/"
+        },
+        {
+          "title": "Patient Matching 2.0",
+          "short_description": "Patient Matching Module is an application where it tries to identify records that belong to the same patient among different number of data sources.",
+          "student_name": "Lahiru Jayathilake",
+          "code_url": "http://www.lahirujayathilake.com/2017/08/gsoc-2017-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6510740655570944/"
+        },
+        {
+          "title": "DHISReport Reporting Enhancements",
+          "short_description": "OpenMRS-DHIS2 integration is a really helpful integration in the community. The present DHISReport module being used to automate the process of...",
+          "student_name": "Choxmi Sathsara",
+          "code_url": "https://choxmi-gsoc.blogspot.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5765199025930240/"
+        },
+        {
+          "title": "Operation Theater Module Workflow Enhancements",
+          "short_description": "This proposal considers performing modifications to the existing Operation Theater module to migrate it to the latest OpenMRS platform. The other...",
+          "student_name": "Chanuka Wijayakoon",
+          "code_url": "http://blog.chanukawijayakoon.me/2017/08/gsoc-2017-operation-theater-module-workflow-enhancements-fp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5973432193777664/"
+        },
+        {
+          "title": "Anonymous Patient Registration Project",
+          "short_description": "Hospitals often encounter with patients delivered while in unconscious. These patient are registered and treated as unknown patients and later...",
+          "student_name": "Nipun Thathsara",
+          "code_url": "https://gist.github.com/nipunthathsara/95b7c7c18a4cac31c0cd3d8c564af543",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6008500333314048/"
+        },
+        {
+          "title": "Built-In Reports for Reference Application",
+          "short_description": "Create new reports which are out of the box for currently available reports. This would be shipped with the reference application of OpenMRS as a...",
+          "student_name": "M. A. Jude Niroshan",
+          "code_url": "https://medium.com/@jude.niroshan11/google-summer-of-code-with-openmrs-76ecb476f9d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6268985536413696/"
+        },
+        {
+          "title": "Add Ons Enhancements",
+          "short_description": "This project aims at making certain changes to the existing OpenMRS Add Ons infrastructure thereby making it fit as a complete replacement for the...",
+          "student_name": "Reuben Varghese",
+          "code_url": "https://medium.com/@reubenvarghese1/gsoc-2017-add-on-index-enhancements-gist-of-work-done-33caea6c5dd9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6317855821791232/"
+        },
+        {
+          "title": "OpenMRS OWA Generator Improvement",
+          "short_description": "OWA generator is a tool that uses Yeoman to scaffold an OpenMRS webapp. Scaffolding here represents almost the same meaning as it does in case of...",
+          "student_name": "Ankitkumar94",
+          "code_url": "http://techvenomgsoc.blogspot.in/2017/08/week-12-gsoc-final-evaluations.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5141664800702464/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4753034282270720/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Bahmni - Notification on Patient Events",
+          "short_description": "The aim of this project is to provide a way for healthcare providers to subscribe/unsubscribe to notifications of specific events for patients in...",
+          "student_name": "Isuranga Perera",
+          "code_url": "https://medium.com/@isurangamperera/bahmni-notification-on-patient-events-979ee8192c7d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6418849159184384/"
+        },
+        {
+          "title": "OAuth Module Enhancements and SMART Apps Support",
+          "short_description": "Enhance the OAuth2 module by migrating to annotation-based configuration, integrating the EHR launch flow for SMART applications, add support for...",
+          "student_name": "Prabodh Kotasthane",
+          "code_url": "https://pkatgithub.github.io/GSoC-2018-Final-Evaluations/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6157606162792448/"
+        },
+        {
+          "title": "Patient Clinical Summary Enhancement",
+          "short_description": "The Patient Clinical Summary generates a summary that is being displayed on the patient dashboard which is helpful for the providers to make clinical...",
+          "student_name": "Dileka Madushan",
+          "code_url": "https://medium.com/@dilekamadushan/gsoc-2018-patient-clinical-summary-enhancement-eb1cdd6a2b35",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6240189928177664/"
+        },
+        {
+          "title": "RESET PASSWORD VIA EMAIL PROJECT",
+          "short_description": "Generally password reset is a very important part of every system that has to deal with users logging in or have accounts on the system. Individual...",
+          "student_name": "Harisu Fanyui",
+          "code_url": "http://fanyui.blogspot.com/2018/08/reset-password-via-email-project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4568243717013504/"
+        },
+        {
+          "title": "Merge Patient data from Multiple Installations Skip to end of metadata",
+          "short_description": "This project is all about adding a new feature of merging Patient and related meta data from different OpenMRS instances to one master database. ...",
+          "student_name": "Samuel Male",
+          "code_url": "http://malesamuel34.blogspot.com/2018/08/merge-patient-data-project-gsoc-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4689660966076416/"
+        },
+        {
+          "title": "Improved Built-In Reports module",
+          "short_description": "The concept of the Built In Reports for OpenMRS Reference applications was initiated during the Google Summer of Code 2017.  Now the time to extend...",
+          "student_name": "Jeyasumangala R",
+          "code_url": "https://medium.com/@R.Sumangala/improved-built-in-reports-module-gsoc-2018-with-openmrs-796d80cba0e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4729999298920448/"
+        },
+        {
+          "title": "FHIR Swagger Codegen Integration and Strategic Improvements",
+          "short_description": "FHIR is becoming a popular standard for health data interchange between healthcare systems. The purpose of this project is to enhance the...",
+          "student_name": "Eunice Amoh",
+          "code_url": "https://medium.com/@amoh.eunice/gsoc-2018-final-progress-update-7613dd357e05",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6065385363210240/"
+        },
+        {
+          "title": "Enhancements of Attachments module",
+          "short_description": "OpenMRS is an open source software platform which provides facilities to design of a customized medical system with no programming knowledge. So it...",
+          "student_name": "Ridmal Liyanagamge",
+          "code_url": "https://medium.com/@ridmalmadushanka/google-summer-of-code-with-openmrs-final-report-fabfd0b569dd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4838021685837824/"
+        },
+        {
+          "title": "Location Based Access Control",
+          "short_description": "OpenMRS already has the privilege based access control implementations. Like that one, we need to implement a Location based Access control system...",
+          "student_name": "Suthagar Kailayapathy",
+          "code_url": "https://medium.com/@suthagar23/location-based-access-control-gsoc-2018-with-openmrs-336b61b9db68",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4927055351250944/"
+        },
+        {
+          "title": "GSoC'18 Proposal - OpenMRS Android Client",
+          "short_description": "Mobile technologies have invaded the world within a short period of time and now almost everything we need is in a matter of few touches away.As...",
+          "student_name": "Chathuranga Muthukuda",
+          "code_url": "http://easyprogramminglk.blogspot.com/2018/08/final-report-of-openmrs-android-client.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6278148580704256/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6088660628275200/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "OpenMRS Atlas 3.1 Project",
+          "short_description": "Move the OpenMRS Atlas code to use LDAP, get the OpenMRS module running again, and support upload/download of marker images!",
+          "student_name": "Sai Sandeep",
+          "code_url": "https://medium.com/@Cracin/openmrs-atlas-gsoc-2019-204a4c643a49",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6617825496530944/"
+        },
+        {
+          "title": "Patient Flags Module OWA",
+          "short_description": "This project proposes a simple yet effective open web app (OWA) to the pre-existing Patient Flags Module using ReactJS. The project focuses on...",
+          "student_name": "Rishav Rakshit",
+          "code_url": "https://medium.com/@rishavrakshit/gsoc-2019-with-openmrs-patient-flags-module-owa-a0d52ec28fa5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6689445233819648/"
+        },
+        {
+          "title": "Location based Access Control - Phase 2",
+          "short_description": "OpenMRS needs location based restrictions like privilege level access restrictions. So the Location based access control(LBAC) should provide a...",
+          "student_name": "TAWRUN VANKINEENI",
+          "code_url": "https://medium.com/@vankineenitawrun/location-based-access-control-gsoc-2019-with-openmrs-b27dc9300f66",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5449438766563328/"
+        },
+        {
+          "title": "Attachments Module Enhancements",
+          "short_description": "Create new UI for Attachments Module Enhancements using React and testing it using Jest framework.",
+          "student_name": "Andrei Stanila",
+          "code_url": "https://github.com/Andu033/openmrs-react-components/tree/GSOC-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5600929796063232/"
+        },
+        {
+          "title": "Further Improvements to Addons",
+          "short_description": "The OpenMRS platform can be extended via two kinds of add-ons: (1) Modules, and (2) Open Web Apps.\nOriginally we built an \"OpenMRS Module Repository\"...",
+          "student_name": "ReubenVarghese",
+          "code_url": "https://talk.openmrs.org/t/gsoc-2019-further-improvements-to-addons-final-evaluation/24486",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6244384398376960/"
+        },
+        {
+          "title": "Nigeria TeleMedicine App",
+          "short_description": "OpenMRS has come a long way in improving healthcare facilities worldwide through Open Source Software. Earlier these software were only web based but...",
+          "student_name": "Rohan Sharma",
+          "code_url": "https://medium.com/@rohansharma_49961/gsoc-2019-nigeria-telemedicine-app-final-evaluation-5a2029981a2c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4572136599977984/"
+        },
+        {
+          "title": "Patient Search Criteria",
+          "short_description": "Once a patient is created, the system allows retrieving them through either their patient id or name. coreapps has a client side approach to...",
+          "student_name": "Rushikesh Chaudhari",
+          "code_url": "https://medium.com/@rushichaudhari26/patient-search-criteria-module-gsoc-2019-with-openmrs-8125044667ac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4659679441977344/"
+        },
+        {
+          "title": "Boostrap as a foundation for Reference Application UI Project",
+          "short_description": "Build an inventory of the features present in the legacy UI that need to be moved to OWAs\nReplace existing JSP UI with OWA based on React Components...",
+          "student_name": "Ayeshmantha Perera",
+          "code_url": "https://medium.com/@ayeshmanthaperera/gsoc19-openmrs-4bdd63cef9e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4712874088333312/"
+        },
+        {
+          "title": "OpenMRS Android Client Project 2.7+",
+          "short_description": "This project aims to improve the performance of the Android Client and add a visual appeal to it. It will aim to bring Analytics to the app that will...",
+          "student_name": "Deepak Prasad",
+          "code_url": "https://medium.com/@deepak140596/work-done-during-gsoc-19-at-openmrs-894fa7b1c83d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5781080236359680/"
+        },
+        {
+          "title": "Condition List Project",
+          "short_description": "Condition list is a list of diagnoses, symptoms, or findings that are being tracked over time (i.e. across encounters)",
+          "student_name": "Darjilla Haripriya Reddy",
+          "code_url": "https://medium.com/@haripriya.reddy999/project-condition-list-704ca8a59b50",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5791144552693760/"
+        },
+        {
+          "title": "User Interface for Password Reset Project",
+          "short_description": "As part of GSOC 2018, a Password Reset project was initiated which was meant to revolutionize the way password resets were handled in OpenMRS. It was...",
+          "student_name": "Ryan Tendonge",
+          "code_url": "https://tenas97blog.wordpress.com/2019/08/23/gsoc-2019-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5855884289245184/"
+        },
+        {
+          "title": "Automation of create-openmrs-owa with React Components",
+          "short_description": "This Project Aims to improve the openmrs-reacts-component repository.\n\nAdd a bunch of components\nCreate a open web app out it of so that people can...",
+          "student_name": "Mithilesh Kohale",
+          "code_url": "https://github.com/beingtmk/create-openmrs-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5210450612977664/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6119294959616000/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improved OpenMRS DHIS2 Integration",
+          "short_description": "DHIS is a world-known open-source software platform for reporting, analysis, and dissemination of data for all health programs. OpenMRS DHIS2...",
+          "student_name": "Jayasanka Weerasinghe",
+          "code_url": "https://medium.com/@jayasanka_sack/improved-openmrs-dhis2-integration-6261db6e9c98",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5670047822905344/"
+        },
+        {
+          "title": "Switching from XML Mappings to Annotations  on OpenMRS domain Objects",
+          "short_description": "The goal of this project is to switch from XML Mappings to Annotations on OpenMRS domain Objects. The proposal presents a way to make it happen in...",
+          "student_name": "Alin Mihaila",
+          "code_url": "https://medium.com/@mihaila.alin99/gsoc-2020-switching-from-xml-mappings-to-annotations-on-openmrs-domain-objects-acbc126a51b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4978560806158336/"
+        },
+        {
+          "title": "OpenMRS should support PostgreSQL",
+          "short_description": "PostgreSQL is an object-relational database management system (ORDBMS), unlike MySQL which is a Relational Database Management System(RDBMS). It is...",
+          "student_name": "Aman Mishra",
+          "code_url": "https://medium.com/@mishraaman2210/gsoc-2020-final-evaluation-c96db968587",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5084777327099904/"
+        },
+        {
+          "title": "Add Support for FHIR Narratives",
+          "short_description": "FHIR (or Fast Healthcare Interoperability Resources) is a standard for exchanging electronic health records. It describes elements (called resources)...",
+          "student_name": "Shivansh Rakesh",
+          "code_url": "https://medium.com/@shivanshrakesh/gsoc20-with-openmrs-add-support-for-fhir-narratives-9bbc0bd35153",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5324470996172800/"
+        },
+        {
+          "title": "Improve FHIR Search",
+          "short_description": "Improve FHIR Search\nFHIR has a detailed API for searching any kind of medical information. But the API as implemented by the FHIR module provides a...",
+          "student_name": "VarunGupta",
+          "code_url": "https://medium.com/@varung_31/improve-fhir-search-gsoc-2020-with-openmrs-396443872d9e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6071243234607104/"
+        },
+        {
+          "title": "Upgrade Platform Core Libraries Project",
+          "short_description": "To be able to take advantage of all the latest functionality from the latest published versions of these libraries . It is necessary to update our...",
+          "student_name": "Pahonsi Bebeto Achile",
+          "code_url": "https://medium.com/@pahonsibebeto/gsoc-2020-final-evaluations-d4fbd98e7345",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4933232493068288/"
+        },
+        {
+          "title": "Expose System Metrics For Monitoring",
+          "short_description": "This project will create a new module which can collect the necessary real-time data for the metrics in OpenMRS deployed servers. And which will...",
+          "student_name": "Ayeshmantha Perera",
+          "code_url": "https://medium.com/@ayeshmanthaperera/gsoc-2020-openmrs-1290c0d8a8ff",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5933872094642176/"
+        },
+        {
+          "title": "Advancement of OAuth2 Module and Improvements in SMART OWA to OpenMRS",
+          "short_description": "Run existing SMART Apps with OpenMRS using FHIR\nRequirements to enable SMART on FHIR\n\nStructured Clinical Data through FHIR\nAuthorization by OAuth2...",
+          "student_name": "Siddharth Vaish",
+          "code_url": "https://medium.com/@sidvaish97/smart-on-fhir-gsoc-2020-with-openmrs-e4f73413c487?source=friends_link&sk=f78f9bed0237a7bf974f6d9321c9b797",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5936093163159552/"
+        },
+        {
+          "title": "Open MRS Android Client",
+          "short_description": "OpenMRS is based on the principle that information should be stored in a way that makes it easy to summarize and analyze. OpenMRS is a client-server...",
+          "student_name": "Rishabh Agarwal",
+          "code_url": "https://medium.com/@rishabh.agarwal997/openmrs-android-client-e237f7cd8207",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5957119678873600/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5663972321132544/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "OpenMRS Android Client 3.0.x",
+          "short_description": "This Project Proposal is aimed at making the Android client more extendable and easily customizable so that it gets to production and helps solve...",
+          "student_name": "Saurabh",
+          "code_url": "https://github.com/LuGO0/GSOC/blob/main/ProjectReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6419439251095552/"
+        },
+        {
+          "title": "Export and Import Feature for the OMRS Reporting Module",
+          "short_description": "DHIS mappings are created in openMRS instances to keep information about how period indicator reports are mapped with DHIS data elements. Previously...",
+          "student_name": "Heshan Andrews",
+          "code_url": "https://andrewsgravewalker.medium.com/export-and-import-feature-for-openmrs-reporting-module-week-10-5c0ca1c12cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5741323776163840/"
+        },
+        {
+          "title": "E2E Automated Tests for the OpenMRS 3.0 RefApp",
+          "short_description": "The goal of this project is to set up tests using Cypress and our new Cucumber test engine framework. The tests will automatically run against the...",
+          "student_name": "Jayasanka Weerasinghe",
+          "code_url": "https://jayasanka.medium.com/e2e-automated-tests-for-the-openmrs-3-0-refapp-8113760e0ca8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4974303015075840/"
+        },
+        {
+          "title": "Modernizing Administrative functions for OpenMRS: Clinical Data Management",
+          "short_description": "Clinical Data Management is a child project under Modernizing Administrative functions for OpenMRS. The project focuses on porting administrative...",
+          "student_name": "Vineet Sharma",
+          "code_url": "https://vasharma05.medium.com/gsoc-2021-an-astonishing-journey-with-openmrs-vineet-sharma-8de22405dad3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6186835365068800/"
+        },
+        {
+          "title": "OpenMRS GSOC-21 Proposal",
+          "short_description": "The aim of the project is to implement improve/fix security issues in various OpenMRS Modules. This proposal presents my timeline of the...",
+          "student_name": "Parth Kanakiya",
+          "code_url": "https://pkanaki.medium.com/improving-openmrs-security-final-presentation-71604511bcbf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4609148251013120/"
+        },
+        {
+          "title": "The REST of Administration",
+          "short_description": "In order to meet the goal of migrating administration functions to the new micro frontend framework, I had to make sure all the administration...",
+          "student_name": "Bart\u0142omiej Rasztabiga",
+          "code_url": "https://rasztabiga.me/blog/gsoc-2021-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6109064345419776/"
+        },
+        {
+          "title": "SMART-on-FHIR",
+          "short_description": "SMART-on-FHIR has been built into the major EHR products and has been used by many healthcare institutions. SMART-on-FHIR enables us to use the...",
+          "student_name": "Ankit kumar",
+          "code_url": "https://ankitanand2909.medium.com/gsoc21-openmrs-smart-on-fhir-final-evaluation-241407a6b6ee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6125580172394496/"
+        },
+        {
+          "title": "Support for Extended Operations in FHIR",
+          "short_description": "Add support for extended operations in FHIR , namely the $lastn and $lastn-encounters on the Observation resource, and both the type level and...",
+          "student_name": "Medhavi Srivastava",
+          "code_url": "https://medhavi-srivastava13.medium.com/gsoc-21-openmrs-final-presentation-676c4c88f526",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4860517620908032/"
+        },
+        {
+          "title": "Improving Functionalities of DHIS Connector Module",
+          "short_description": "DHIS Connector module is a module that is used to send aggregated data from OpenMRS to DHIS2 Instance. The module provides several user interfaces...",
+          "student_name": "Piumal Rathnayake",
+          "code_url": "https://piumal1999.medium.com/improving-functionalities-of-dhis-connector-module-4492fb674d94",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5838702495924224/"
+        },
+        {
+          "title": "Tackle Security Issues of OpenMRS",
+          "short_description": "Patch Security Vulnerabilities Identified by NCSU",
+          "student_name": "kfb19",
+          "code_url": "https://katebelson.medium.com/gsoc-openmrs-2021-security-issues-project-final-evaluation-4899e109a764",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5953411375169536/"
+        },
+        {
+          "title": "Patch Security Vulnerabilities Identified by NCSU",
+          "short_description": "OpenMRS began collaborating with researchers from North Carolina State University (NCSU) to better secure the OpenMRS Reference Application. NCSU...",
+          "student_name": "Nsereko Joshua",
+          "code_url": "https://jnsereko.medium.com/gsoc-2021-with-openmr-final-evaluation-af9659703a40",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5129932329451520/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/openmrs/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Rebuild OpenMRS Cohort Builder",
+          "short_description": "The Cohort Builder is a tool in OpenMRS 1.0 in the Reporting Compatibility module (included with most OpenMRS installations) that lets the user...",
+          "student_name": "Anjula Samarasinghe",
+          "code_url": "https://anjulashanaka.medium.com/gsoc-2022-rebuild-openmrs-cohort-builder-final-evaluation-64b093b68a61",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8EksU68Y/"
+        },
+        {
+          "title": "OCL Subscription Module for OpenMRS3",
+          "short_description": "One of OpenMRS\u2019 strengths is its concept-based data model that allows each implementation to be configured in a suitable way for its own clinical...",
+          "student_name": "Piumal Rathnayake",
+          "code_url": "https://piumal1999.medium.com/ocl-subscription-module-for-openmrs-3-751464bebf8d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/J3T0UbLK/"
+        },
+        {
+          "title": "Improving 3.x E2E Tests.",
+          "short_description": "The project is to Improve 3.x automated E2E tests. It enhances the key aspect of the chosen project which is automated software testing. The project...",
+          "student_name": "Pasindu Rupasinghe",
+          "code_url": "https://pasindusri.medium.com/improving-e2e-automated-tests-for-the-openmrs-3-0-refapp-de43f46407c1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/I30Pt2vc/"
+        },
+        {
+          "title": "Next Generation Form Builder UI for the OpenMRS Community",
+          "short_description": "Ampath form builder provides an interactive interface that allows OpenMRS to build schemas effortlessly. Users can create schemas using their...",
+          "student_name": "Kumuditha Karunarathna",
+          "code_url": "https://dev3.openmrs.org/openmrs/spa/form-builder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LfnKy1Oa/"
+        },
+        {
+          "title": "OpenMRS Android Client Project 3.0.x",
+          "short_description": "The project aims to make the client app more scalable by refactoring it to a less boilerplate codebase, migrating it to better architecture, and...",
+          "student_name": "Amr Abdelhady",
+          "code_url": "https://github.com/amrsalah3/GSoC22-OpenMRS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BoaDmn9n/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openmrs",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "O3: Enhancing Component Test Coverage and Quality for OpenMRS3",
+          "short_description": "This project mainly aims to improve the overall code quality of O3 by enhancing the component test coverage. It also expects a well written...",
+          "student_name": "Ayush_Mishra",
+          "code_url": "https://medium.com/@ayushmishra2854/gsoc-2023-enhancing-component-test-coverage-and-quality-for-openmrs3-final-evaluation-ebf647cb32d4",
+          "proposal_id": "pgRc95DJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/M5jrIP4T"
+        },
+        {
+          "title": "Add a Print this component to O3",
+          "short_description": "While the Open Medical Record System (OpenMRS)'s major objective is to store and retrieve electronic medical records in the developing world, in some...",
+          "student_name": "Deb",
+          "code_url": "https://medium.com/@kalungi2k6/the-print-feature-google-summer-of-code-2023-project-final-report-a604c26db327",
+          "proposal_id": "pLtv7est",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/y9jgifwW"
+        },
+        {
+          "title": "Responsiveness & Tablet-based Needs for OpenMRS 3",
+          "short_description": "In today's digital era, where users access applications on a variety of devices with varying screen sizes, ensuring a consistent and user-friendly...",
+          "student_name": "Jessie Ssebuliba",
+          "code_url": "https://jexsie.medium.com/responsiveness-tablet-based-needs-for-openmrs-3-o3-8218409e4725",
+          "proposal_id": "x824jOjp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/fUbHuou9"
+        },
+        {
+          "title": "03: Migrate vanilla React forms to RHF",
+          "short_description": "Openmrs had a requirement to improve the performance and maintainability of the existing vanilla React Forms in our application. The current forms...",
+          "student_name": "Lumu Christopher",
+          "code_url": "https://medium.com/@topherlumu_55016/migrating-vanilla-react-forms-to-react-hookform-gsoc23-c7c67303944e",
+          "proposal_id": "SIqqx4ID",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wlrUpqJ3"
+        },
+        {
+          "title": "FHIR: Add support for FHIR PATCH operations",
+          "short_description": "OpenMRS is using the FHIR API more and more in place of the REST API. However, the FHIR API is, by default, quite verbose. Supporting PATCH...",
+          "student_name": "mherman22",
+          "code_url": "https://github.com/mherman22/GSOC-FinalReport#add-support-for-fhir-patch-operations",
+          "proposal_id": "WJeJg4B7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uo8ely8C"
+        },
+        {
+          "title": "Extending E2E Automated Tests for the OpenMRS 3.0 RefApp",
+          "short_description": "At present, there are already a few E2E tests running for the openmrs-esm-patient-management repository and more coverage is expected. The goal of...",
+          "student_name": "Randila Premarathne",
+          "code_url": "https://medium.com/@randilamenukapremarathne/gsoc-2023-extending-e2e-automated-tests-for-the-openmrs-3-0-refapp-7f283d733db2",
+          "proposal_id": "IGG2sJ0d",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/V8hfX6Nt"
+        },
+        {
+          "title": "OpenMRS Android SDK",
+          "short_description": "The Project aims to add more functionalities to the existing OpenMRS SDK and thus helping the developers making the android client customizable and...",
+          "student_name": "Shubham Sharma INDIA",
+          "code_url": "https://gist.github.com/shubhamsgit/fa5e778aa06f77440373fe15208f6ee5",
+          "proposal_id": "IV20r0AB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cCzpODuq"
+        },
+        {
+          "title": "Draw On Body Diagram",
+          "short_description": "OpenMRS is a medical record system that has previously allowed the uploading and visualisation of patient conditions through diagrams. This feature...",
+          "student_name": "Thembo Jonathan",
+          "code_url": "https://medium.com/@jonathanthembo123/gsoc-2023-project-o3-draw-on-body-diagram-app-final-evaluation-81655820d0bc",
+          "proposal_id": "llrSrMTZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kLIvQ2VW"
+        },
+        {
+          "title": "Improving the OpenMRS Developer Experience: Updating the SDK",
+          "short_description": "This project aims to improve the OpenMRS SDK to better support the evolving needs of OpenMRS development. The project objectives include spinning off...",
+          "student_name": "wikumC",
+          "code_url": "https://wikumchamith.github.io/blog/GSOC-2023-Updating-the-SDK/",
+          "proposal_id": "YYxzBArv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lq8Hfmzo"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/openmrs/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Validation Rule builder for the form builder",
+          "short_description": "This GSoC proposal aims to build a UI-based validation rule builder for the form builder. This user-friendly interface will eliminate the need for...",
+          "student_name": "Senthil Athiban",
+          "code_url": "https://www.youtube.com/watch?v=qk3_jLCDFJU",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IDitiz93/"
+        },
+        {
+          "title": "Validating and re-working (updating) the OpenMRS PatientFlags module",
+          "short_description": "The objective of this project proposal is to enhance the performance of the existing patient flag module, update its code base to align with current...",
+          "student_name": "ManojLL",
+          "code_url": "https://manojlakshan421.medium.com/gsoc-2024-validating-and-updating-openmrs-patient-flag-module-18a275e2d104",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/VLRhWtbM/"
+        },
+        {
+          "title": "O3: User Onboarding",
+          "short_description": "This proposal provides an overview of the GSoC project O3 User Onboarding aims to address this challenge by integrating user onboarding mechanisms...",
+          "student_name": "Vijay KV",
+          "code_url": "https://medium.com/@vijaykv2228/gsoc-2024-user-onboardings-for-openmrs-3a394106c12e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2ntgox2n/"
+        },
+        {
+          "title": "Integrating CFL\u2019s Messages Module into O3",
+          "short_description": "The goals of the project is to : \u25cfDevelop an O3 UI, aimed at system administrators, to facilitate configuration of Message Services - create new...",
+          "student_name": "Lumu Christopher",
+          "code_url": "https://medium.com/@topherlumu_55016/integrating-connectforlifes-messages-module-into-o3-gsoc-24-591d02233975",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Y0lWo93C/"
+        },
+        {
+          "title": "Integrating CFL\u2019s SMS Module into O3",
+          "short_description": "In today's interconnected world, effective communication plays a pivotal role in healthcare delivery. OpenMRS, being a leading open-source electronic...",
+          "student_name": "Jessie Ssebuliba",
+          "code_url": "https://jexsie.medium.com/gsoc-2024-internship-summary-4fcf7991d876",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aRv2q488/"
+        },
+        {
+          "title": "Building an Offline-Capable Android Application for LMICs Integrated with Enhanced OpenMRS 3.0",
+          "short_description": "The aim is to develop an Android application optimized for LMIC healthcare settings, utilizing Google's Open Health Stack for offline functionality....",
+          "student_name": "parthfloyd",
+          "code_url": "https://medium.com/@panchalparth_91743/gsoc-2024-building-an-offline-capable-android-application-for-lmics-integrated-with-enhanced-567685cfd30e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rha0f6MJ/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openmrs",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Interactive Translation Builder for the Form Builder",
+          "short_description": "This project introduces an interactive Translation Builder for OpenMRS Form Builder to streamline and simplify the process of localizing forms. The...",
+          "student_name": "Bharath Kumar Shetty",
+          "code_url": null,
+          "proposal_id": "8CTWupDf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eDSv1Ozm"
+        },
+        {
+          "title": "Enhancing Performance Testing Infrastructure for OpenMRS",
+          "short_description": "The current OpenMRS performance testing project provides a foundational skeleton with some initial scenarios already implemented. This proposal aims...",
+          "student_name": "Ganesh Devisetti",
+          "code_url": null,
+          "proposal_id": "noUmBV51",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BQKar0kG"
+        },
+        {
+          "title": "Improved Implementer Tools",
+          "short_description": "This proposal focuses on improving the Implementer Tools in OpenMRS 3 by addressing current limitations and adding key features. The project aims to...",
+          "student_name": "Harsh Thakkar",
+          "code_url": null,
+          "proposal_id": "igzPXV3X",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/e0aIyyEE"
+        },
+        {
+          "title": "Immunization & Vaccination Schedule app for O3",
+          "short_description": "This project enhances the openmrs-esm-immunizations-app in OpenMRS 3\u2019s patient-chart to improve vaccination management for clinicians. Motivated by...",
+          "student_name": "M Praneeth",
+          "code_url": null,
+          "proposal_id": "zrWn9O9G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4iLzkJe0"
+        },
+        {
+          "title": "Enhancing OpenAPI Documentation Generation",
+          "short_description": "This project implements a custom Maven plugin that performs build-time analysis of the OpenMRS REST module. This plugin will read new, specifically...",
+          "student_name": "Marvin Sukumar",
+          "code_url": null,
+          "proposal_id": "wCPP7K09",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/F5dYGN8b"
+        },
+        {
+          "title": "GSoC 2025 Proposal: Replacing OpenMRS Standalone with a Modern, User-Friendly Alternative",
+          "short_description": "The OpenMRS Standalone version is outdated, no longer builds successfully with the latest releases, and has been deprecated. However, many...",
+          "student_name": "Mutagubya Jonathan",
+          "code_url": null,
+          "proposal_id": "7vJST3Vn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6nL3MZY9"
+        },
+        {
+          "title": "Improved Audit Logging",
+          "short_description": "OpenMRS currently utilizes Hibernate Envers to track database changes, offering robust audit capabilities. However, the system lacks a user-friendly...",
+          "student_name": "Njidda Salifu",
+          "code_url": null,
+          "proposal_id": "UaZKp8hJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/diQMBDSZ"
+        },
+        {
+          "title": "Fix the Fast Data Entry feature",
+          "short_description": "The Fast Data Entry feature (FDE) is broken and unusable in the OpenMRS community\u2019s main product (the O3 RefApp). No community organization or...",
+          "student_name": "Twiine",
+          "code_url": null,
+          "proposal_id": "YrDw0RUM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZT80j9qv"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.openmrs.org/",
+  "contact_email": "mailto:community@openmrs.org",
+  "mailing_list": "https://talk.openmrs.org/",
+  "ideas_url": "https://openmrs.atlassian.net/wiki/spaces/RES/pages/322404353/Summer+of+Code+2025",
+  "guide_url": "https://wiki.openmrs.org/display/RES/GSoC+-+Proposal+Guidelines",
+  "twitter_url": "https://twitter.com/openmrs",
+  "blog_url": "https://blog.openmrs.org/"
+}

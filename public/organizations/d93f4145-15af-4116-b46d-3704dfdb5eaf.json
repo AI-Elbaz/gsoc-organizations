@@ -1,0 +1,56 @@
+{
+  "name": "RADAR-base",
+  "url": "https://radar-base.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/radar-base/8glcheumuwndks2c-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "web",
+    "mhealth",
+    "remote patient monitoring",
+    "micro-services",
+    "devices"
+  ],
+  "technologies": [
+    "java",
+    "kotlin",
+    "docker",
+    "angular",
+    "kafka"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/radar-base/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Enhancing the RADAR-Feature Pipeline",
+          "short_description": "During my GSoC project I will work on the following: 1. Expansion of the RADAR-Feature Pipeline to make it more flexible, support a larger variety of...",
+          "student_name": "pushkar.patel",
+          "code_url": "https://thepushkarp.github.io/RADAR-Base-GSoC-2022-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BBvIfWgK/"
+        },
+        {
+          "title": "Apple HealthKit integration to aRMT App",
+          "short_description": "The RADAR-base Active Mobile app is is an active remote monitoring app for collecting Patient Reported Outcomes (PRO) We need to collect data from...",
+          "student_name": "Kai You",
+          "code_url": "https://gist.github.com/hardco2020/37fb9fe11961323624b20c04919adb9d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GxWfywhb/"
+        },
+        {
+          "title": "GSoC Proposal for Fitbit Web API Subscription and Nutrition API Extension",
+          "short_description": "I am applying for the project 'Fitbit Web API Subscription and Nutrition API Extension' from RADAR-base. The main problem is updating the code...",
+          "student_name": "Junjie Zhou",
+          "code_url": "https://www.junjiezhou.cn/docs/gsoc-2022/intro",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/q83UnVQM/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.slack.com/client/T26BKKG6R/C26B9LPU4",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/radar_base"
+}

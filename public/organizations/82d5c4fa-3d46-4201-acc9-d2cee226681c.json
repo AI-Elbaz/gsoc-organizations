@@ -1,0 +1,357 @@
+{
+  "name": "cBioPortal for Cancer Genomics",
+  "url": "https://www.cbioportal.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cbioportal-for-cancer-genomics/fdxtjhb0urtqcyfe-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "genomics",
+    "cancer",
+    "bioinformatics",
+    "biology",
+    "precision medicine",
+    "big data",
+    "data visualization",
+    "cancer research"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "web",
+    "html",
+    "big data",
+    "web services",
+    "reactjs",
+    "database",
+    "web apps",
+    "mysql",
+    "react",
+    "typescript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5251173044977664/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Onco Query Language (OQL) editor",
+          "short_description": "cBioPortal allows the analysis and visualization of published cancer genomic datasets. These datasets must be queried by entering symbols of genes of...",
+          "student_name": "Shrumit Mehta",
+          "code_url": "https://gist.github.com/shrumit/ff3c282f9e2e5260d1b28886202aca7a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6736105642655744/"
+        },
+        {
+          "title": "Build a web service and auto updating pipeline to provide 3D structure alignments for BioPortal",
+          "short_description": "cBioPortal provides web resources in cancer genome research. Building a web service to provide protein alignments between ensembl and PDB sequences...",
+          "student_name": "JuexinWang",
+          "code_url": "https://github.com/cBioPortal/pdb-annotation/wiki/GSOC-2016-project-summary-and-guide",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5458181341839360/"
+        },
+        {
+          "title": "Integration of Proteomics Data to cBioPortal",
+          "short_description": "A key step towards the development of effective personalized cancer treatments is the collection of vast stores of patient data on a variety of tumor...",
+          "student_name": "pambot",
+          "code_url": "https://pambot.github.io/posts/gsoc2016-cbioportal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5256488603877376/"
+        },
+        {
+          "title": "Prototype Plugin framework for Authentication",
+          "short_description": "My proposal outlines my project goals. I have detailed my vision about how could the problem be solved. Also, I tried to enhance my strengths. I feel...",
+          "student_name": "AndreeaBican",
+          "code_url": "https://drive.google.com/open?id=11FVU_BYcrEQOz2IwN1_5GSSOmC1hZ8j-szo000P9EnQ",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5537963580588032/"
+        },
+        {
+          "title": "Improving the clinical timeline of cBioPortal's patient view",
+          "short_description": "The primary aim of this project is to improve the cBioPortal\u2019s clinical-timeline. The present implementation...",
+          "student_name": "rohangoel96",
+          "code_url": "https://github.com/cbioportal/clinical-timeline/commits/master?author=rohangoel96",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4613756411707392/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4741825894023168/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Standardizing clinical data from cBioPortal to for easier comparison and analysis",
+          "short_description": "cBioPortal provides clinical data from a number of different cancer studies.  The clinical data from the studies is conveniently organized in a...",
+          "student_name": "bsir",
+          "code_url": "https://github.com/cBioPortal/clinical-data-normalization/pull/1/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5426615479697408/"
+        },
+        {
+          "title": "Improved genome overview in patient view page.",
+          "short_description": "Through this project I plan to improve the genome overview in the patient view page. By adding- 1) Zoom Feature 2) Introducing Probe Level Copy...",
+          "student_name": "Ishu Kalra",
+          "code_url": "https://github.com/JiaoJiao123/igv.js/pull/11",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5445666612445184/"
+        },
+        {
+          "title": "Visualizing circulating tumor DNA results in the cBioPortal patient view",
+          "short_description": "A major need in cancer research is the development of non-invasive cancer detection and monitoring methods. Circulating tumor DNA (ctDNA) is DNA that...",
+          "student_name": "Pamela Wu",
+          "code_url": "https://pambot.github.io/posts/gsoc2017-cbioportal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5038821003493376/"
+        },
+        {
+          "title": "Integrating MolecularMatch clinical trials data into cBioPortal",
+          "short_description": "One of the main challenges in CBioPortal is to interpret the great amount of genomic data it has accumulated. It has currently integrated a few...",
+          "student_name": "sathyabandara",
+          "code_url": "https://medium.com/@technospace/gsoc-2017-integrating-molecularmatch-clinical-trials-data-into-cbioportal-fd32da44ea9b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6569403466383360/"
+        },
+        {
+          "title": "Implement a Pipeline to Extract and Transform GDC Data",
+          "short_description": "The goal of this project is to extract Cancer Genomic data available from NCI's Genomic Data Commons and transform them according to the file formats...",
+          "student_name": "Dixit Patel",
+          "code_url": "https://github.com/cBioPortal/gdc-et-pipeline",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6012174140964864/"
+        },
+        {
+          "title": "Collaborative construction of cancer pathways with PathwayMapper",
+          "short_description": "The tool used in cBioPortal for network visualization is a powerful one with many implemented features. However, researchers and biologists are more...",
+          "student_name": "Leonard Dervishi",
+          "code_url": "https://docs.google.com/document/d/1JElWO3knKrANMkvtp231tpH6N2Er5CSQM3WRHT-75gs/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6038148760993792/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6278222700871680/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Addition of novel CPTAC proteogenomic datasets to the cBioPortal",
+          "short_description": "This project will aim to create a pipeline for all CPTAC data transformation into cBioPortal compatible files for public access. Conversion and...",
+          "student_name": "Lizabeth Katsnelson",
+          "code_url": "https://github.com/lizabethkatsnelson/GoogleSummerOfCode2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6341239065018368/"
+        },
+        {
+          "title": "OncoKB Analysis in Study View",
+          "short_description": "I would like to work on issue #70, \u201cOncoKB Analysis in Study View\u201d. An inconvenience for both biologists trying to get valuable information to make...",
+          "student_name": "Andrew Cvekl",
+          "code_url": "https://docs.google.com/document/d/1VfepQWZuvsNC6dVcJGuEvoLjf7SSNrDbiR5zY1kab2w/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5669025143586816/"
+        },
+        {
+          "title": "Clonal evolution visualization web-tools",
+          "short_description": "The sequencing technology produces the DNA sequence information of tumor cells. And cBioPortal is one of the leading web-tools which collected tumor...",
+          "student_name": "Wenjie Sun",
+          "code_url": "https://wenjiesun.blogspot.com/2019/08/gsoc-2018-clonal-evolution.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5620818162221056/"
+        },
+        {
+          "title": "ETL pipeline development for TCGA data from GDC Portal",
+          "short_description": "The Genomic Data Commons (GDC) Portal serves as a large-scale genomic data repository hosting data from NCI cancer genome projects in standardized...",
+          "student_name": "Zachary Heins",
+          "code_url": "https://gist.github.com/zheins/4bd6767b3a49d588343f27082503fbb5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6012388719984640/"
+        },
+        {
+          "title": "Spark and Parquet Backend for cBioPortal Web API",
+          "short_description": "cBioPortal utilizes a Spring MVC architecture with MyBatis for the persistence layer and a relational database (MySQL) for data storage. As the...",
+          "student_name": "Doori Rose",
+          "code_url": "https://github.com/doori/GSoC-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5774843675410432/"
+        },
+        {
+          "title": "Integrating PathwayMapper into cBioPortal and Separating the Network View as a standalone module",
+          "short_description": "PathwayMapper provides a pathway visualization environment which biologists are mostly familiar with. Currently, it works as a standalone application...",
+          "student_name": "Ziya ERKO\u00c7",
+          "code_url": "https://docs.google.com/document/d/1lcD5f0DSTkwfYg8F39ae61H17jWJzOXHAZDZpc9bUcw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5947413179662336/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/cbioportal-for-cancer-genomics/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Genome Nexus' Command Line Interface Experience",
+          "short_description": "This will be the Genome Nexus' cli to rule them all. Main objectives: 1. All 3 projects will be merged into one Java project. 2. Interface will...",
+          "student_name": "Mete Ozguz",
+          "code_url": "https://github.com/ozguzMete/GSoC2022FinalWorkSubmission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bIWlKExH/"
+        },
+        {
+          "title": "Broader use of pathway views in cBioPortal",
+          "short_description": "The goal of this project is to improve the integration of PathwayMapper into cBioPortal as well as enhancing the full-blown, stand-alone editor...",
+          "student_name": "Yusuf Ziya \u00d6zg\u00fcl",
+          "code_url": "https://docs.google.com/document/d/1vuILzKAa86coq-49sCQUf43eqLt3hLQQRlm6Oby04cQ/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FzzHizYK/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/cbioportal-for-cancer-genomics",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Add Mutation Diagram on Study View for Enhanced Mutation Analysis",
+          "short_description": "This proposal aims to add a mutation diagram to the study view will enhance the mutation analysis capabilities of cBioPortal. The mutation diagram...",
+          "student_name": "Aditya  Garg",
+          "code_url": "https://gist.github.com/aditygrg2/1e20071a8b0ca0168a8d286e7b1d4755",
+          "proposal_id": "w0v8K8lf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uvgCfYuK"
+        },
+        {
+          "title": "Proposal_Interactive web tour_Biqing Su",
+          "short_description": "The cBioPortal provides access to a wealth of cancer genomics data, but new users often struggle to navigate its features, and existing users may not...",
+          "student_name": "Biqing Su",
+          "code_url": "https://github.com/cBioPortal/cbioportal-frontend/pull/4687",
+          "proposal_id": "mebYFKi3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/luumPTO5"
+        },
+        {
+          "title": "Pathway Improvements in cBioPortal",
+          "short_description": "The project aims to enhance the functionality and usability of the PathwayMapper tool in cBioPortal. The project will have two tasks: The first task...",
+          "student_name": "Gorkem",
+          "code_url": "https://docs.google.com/document/d/13myG9e-jts-kqBThMl7k3sJl58Y5jx_LCxn6NJNJ-t0/edit?usp=sharing",
+          "proposal_id": "7N2KiyVv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/s7TIxlWq"
+        },
+        {
+          "title": "Group Comparison - Generic Assay Categorical and Binary data implementation",
+          "short_description": "The objective of this project is to improve the functionality of cBioPortal by introducing support for categorical and binary data analysis and...",
+          "student_name": "JiahangLi",
+          "code_url": "https://docs.google.com/document/d/1U7K3VgYwo3zz9K7cDyGq99xcFq7TUBJJRDOamRQq3oE/edit?usp=sharing",
+          "proposal_id": "hcdTPMWC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QiwswzZ8"
+        },
+        {
+          "title": "Automating Quality Control of Datahub Submissions",
+          "short_description": "cBioPortal allows submission of data sets to enrich its open-access cancer genomics database. Currently, new data sets can be uploaded to a separate...",
+          "student_name": "Justin Jao",
+          "code_url": "https://gist.github.com/justinjao/c012caa6aa5646780e2fc64292eda9f8",
+          "proposal_id": "vgPwZt0i",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NH758ApJ"
+        },
+        {
+          "title": "Create a clinical trial curation tool based on CTML from MatchMiner",
+          "short_description": "Scope: To create a standalone React component from MatchMiner that will use Firebase to provide trial curation across multiple projects uses...",
+          "student_name": "Justin Singh",
+          "code_url": "https://github.com/Singhj2/ctims/pull/2",
+          "proposal_id": "rzPxxhAO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xSitA8Cr"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/cbioportal-for-cancer-genomics/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Add the ability to spawn code notebooks from cBioPortal queries",
+          "short_description": "This project aims to enhance cBioPortal functionality by allowing users to seamlessly launch code notebook environments like JupyterLite directly...",
+          "student_name": "gautamsarawagi",
+          "code_url": "https://github.com/cBioPortal/cbioportal-frontend/pull/4856",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uke0Gm6i/"
+        },
+        {
+          "title": "Integration of AlphaMissense Pathogenicity Predictions into Genome Nexus and cBioPortal",
+          "short_description": "This project involves the integration of AlphaMissense, an innovative tool for predicting the pathogenicity of missense mutations, into two...",
+          "student_name": "Ivy Zou",
+          "code_url": "https://docs.google.com/document/d/12QPx5IVg5ofI4n4qe8IUh-M8JgsVCBfuesERkqlx0fI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZOtvSMbd/"
+        },
+        {
+          "title": "Automated Curation and Harmonization of cBioPortal Clinical Metadata using Sentence Transformers",
+          "short_description": "Omics data repositories often contain heterogeneous data from multiple studies and diverse sources. This lack of structure in the metadata is...",
+          "student_name": "Abhilash Dhal",
+          "code_url": "https://docs.google.com/document/d/11DJKuWaKE5gMOIso_iFRT67ntByyjYjhx8gah7xsK0M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TgAYG5dK/"
+        },
+        {
+          "title": "Chatbot trained on documentation site and conversations",
+          "short_description": "This project is about build and train a streaming chatbot on four datasets: Documentation site of cBioportal, Google group conversations, PMC papers...",
+          "student_name": "Xinling Wang",
+          "code_url": "https://docs.google.com/presentation/d/1x8hwMFq85BB0-DRJU7Sxyc2Il1pPMlUNLq1KDvHVSxE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5PYvMkWW/"
+        },
+        {
+          "title": "Create pipeline/interface to prioritize variants for OncoKB curation",
+          "short_description": "The cBioPortal organization is dedicated to assisting clinicians and researchers in the analysis of complex cancer genomics data. And cBioPortal...",
+          "student_name": "Yameng Ge",
+          "code_url": "https://github.com/oncokb/oncokb-transcript/pull/426",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZnoBajlM/"
+        },
+        {
+          "title": "Improve navigatability of the HTAN data standards",
+          "short_description": "The goal of this project is to improve the navigability of the HTAN data standards in HTAN portal as well as in schema-visualization. To do this, we...",
+          "student_name": "Ankita Sahu",
+          "code_url": "https://docs.google.com/document/d/1b8vIBYPvCgAXo5nf4YuWRzxrF-POZGYiuUtMR6f0-Zs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/v019dm8R/"
+        },
+        {
+          "title": "Extend Chart Types in Study View",
+          "short_description": "Extend the \"Chart\" functionality on the Study View Page by supporting additional types of charts such as line charts and area charts. Support chart...",
+          "student_name": "mukayevolzhas",
+          "code_url": "https://gist.github.com/olzhasmukayev/deb78937c2795ff760bb9c16881665bd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9vHrWwVV/"
+        },
+        {
+          "title": "Frontend visualization and incorporation of single cell data in cBioPortal",
+          "short_description": "My project aims to bridge the gap between single-cell gene expression data analysis and existing cancer genomics workflows, particularly within the...",
+          "student_name": "SURAJ  SHARMA",
+          "code_url": "https://github.com/SURAJ-SHARMA27/GSoC24-final-doc-cBioPortal/blob/main/GSoC24-FInal-Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/K3eUFqx8/"
+        },
+        {
+          "title": "Visualize OncoKB annotation and  patient report generation",
+          "short_description": "OncoKB\u2122 is a crucial resource which provides comprehensive information about genomic alterations in cancer. However, despite the availability of APIs...",
+          "student_name": "Aishika Nandi",
+          "code_url": "https://github.com/oncokb/oncokb-annotation-visualizer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EaOORsnA/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/cbioportal-for-cancer-genomics",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Automated Metadata Harmonization Tool",
+          "short_description": "This project aims to automate metadata harmonization for cBioPortal, a widely used platform for cancer genomics research. Currently, metadata from...",
+          "student_name": "Changchang Li",
+          "code_url": null,
+          "proposal_id": "YFWb8mY9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NzVvml1R"
+        },
+        {
+          "title": "Use Chromoscope React Component for Structural Variants Visualization",
+          "short_description": "The cBioPortal for Cancer Genomics is an open resource for interactive exploration of multidimensional cancer genomics data sets. The goal of...",
+          "student_name": "Eugenio Mazzone",
+          "code_url": null,
+          "proposal_id": "52aTUwJ2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ecz27vCT"
+        },
+        {
+          "title": "Show Variant Allele Frequency on the Plots Tab and OncoPrint",
+          "short_description": "My project aims to enhance cBioportal's analytical capabilities by integrating Variant Allele Frequency (VAF) visualization into the Plots Tab and...",
+          "student_name": "Rishi Prasad Sulakhe",
+          "code_url": null,
+          "proposal_id": "wgcfmlC3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8scNjJhi"
+        },
+        {
+          "title": "AI/LLM Generated gene alteration and expression based subtyping for each tumor type",
+          "short_description": "The project aims to enhance the cBioPortal platform by generating a list of recommended default genes for each OncoTree code, which are often used...",
+          "student_name": "Suhasini Lulla",
+          "code_url": null,
+          "proposal_id": "vDWYtBH5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2AJ2V3qf"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.cbioportal.org",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/cbioportal-gsoc",
+  "ideas_url": "https://github.com/cBioPortal/gsoc/issues?q=is%3Aissue%20state%3Aopen%20label%3AGSoC-2025",
+  "guide_url": "https://github.com/cBioPortal/GSoC",
+  "twitter_url": "https://twitter.com/cbioportal"
+}

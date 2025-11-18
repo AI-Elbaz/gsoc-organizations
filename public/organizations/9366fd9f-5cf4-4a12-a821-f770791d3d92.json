@@ -1,0 +1,76 @@
+{
+  "name": "Xfce",
+  "url": "https://www.xfce.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/xfce/jp4avjju3s9gfqos-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "gui",
+    "desktop environment",
+    "desktop",
+    "customization"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "javascript",
+    "gtk",
+    "vala"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5706869816950784/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Proposals for file transfer improvement and more",
+          "short_description": "This proposal aims to solve various bugs and bad UX related to file transfer.",
+          "student_name": "Yongha Hwang",
+          "code_url": "https://mshrimp4.github.io/GSOC-6th/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5262524580102144/"
+        },
+        {
+          "title": "Thunar Evolved",
+          "short_description": "This project aims to bring the lagging parts of Thunar up to the modern standards. It contains a series of improvements that improve the UX and...",
+          "student_name": "SKefalidis",
+          "code_url": "http://users.uoa.gr/~sdi1800073/sources/xfce_blog05.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5161279047598080/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/xfce/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Adding features to Thunar file manager",
+          "short_description": "Thunar is a light-weight file manager under the XFCE project, written in C and GTK3. While functional and fast, it lacks some useful features present...",
+          "student_name": "Pratyaksh Gautam",
+          "code_url": "https://gitlab.xfce.org/xfce/thunar/-/merge_requests?scope=all&state=all&author_username=hi-im-buggy&search=%5BGSoC+22%5D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kGgLYNra/"
+        },
+        {
+          "title": "Proposal For Improvising Thunar Bulk-Renamer, Screenshooter, and Panel",
+          "short_description": "I plan to improvise the three components mentioned above of Xfce. By the end of GSoC's coding period, I am planning to: 1. Make Thunar bulk renamer...",
+          "student_name": "Yogesh Kaushik",
+          "code_url": "https://kaushikyogesh882.wixsite.com/masterchief02/post/gsoc-22-the-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Swv0QBd6/"
+        },
+        {
+          "title": "Thunar & XFCE Terminal",
+          "short_description": "Thunar is a modern file manager for the Xfce Desktop Environment. It supports 3 types of views - List View, Icon View & Compact View. As a part of my...",
+          "student_name": "Amrit Borah",
+          "code_url": "https://elessar-space.blogspot.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Z4eSfxn5/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#xfce-gsoc:libera.chat",
+  "contact_email": "",
+  "mailing_list": "https://mail.xfce.org/mailman/listinfo/xfce4-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/xfceofficial/",
+  "blog_url": "https://blog.xfce.org/"
+}

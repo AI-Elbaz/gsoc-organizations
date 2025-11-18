@@ -1,0 +1,168 @@
+{
+  "name": "Software and Computational Systems Lab at LMU Munich",
+  "url": "https://www.sosy-lab.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/software-and-computational-systems-lab-at-lmu-munich/kcrheiieoyvdm0r7-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "software analysis",
+    "software verification",
+    "benchmarking",
+    "smt solver",
+    "result presentation",
+    "program analysis",
+    "formal methods",
+    "SAT & SMT solving",
+    "cloud"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "grpc",
+    "Quarkus"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5139217877303296/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Upgrade of AngularJS, Refactoring UI and automated testing for CPAchecker.",
+          "short_description": "CPAchecker Project -\n\nUpgrade of AngularJS and other third-party libraries used.\nRefactoring of User Interface\nWriting automated tests for unit...",
+          "student_name": "Lokesh Kishor Nandanwar",
+          "code_url": "https://lokeshkvn.github.io/GSoC-CPAchecker-Project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4726926518255616/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5660544999096320/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Design and Create CLion plugin for CPAchecker execution",
+          "short_description": "CPAChecker is a framework which can be used as a software verification tool for C programs. We can use CPAchecker locally by command line interface...",
+          "student_name": "Tharsanan Kurukulasingam",
+          "code_url": "https://gitlab.com/sosy-lab/software/cpachecker-intellij-plugin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5497678564163584/"
+        },
+        {
+          "title": "Implement Cache Allocation Technology in BenchExec",
+          "short_description": "In this project we aim to incorporate Intel cache allocation software package (intel-cmt-cat) in BenchExec for cache allocation on a per core basis...",
+          "student_name": "Aditya Arora",
+          "code_url": "https://gitlab.com/sosy-lab/software/pqos-wrapper/wikis/Google-Summer-of-Code-2019-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6098062647230464/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/software-and-computational-systems-lab-at-lmu-munich",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implementing backward bounded model checking in CPAchecker",
+          "short_description": "Backward bounded model checking is a technique for program analysis that aims to solve the error location reachability problem by searching for...",
+          "student_name": "Bas Laarakker",
+          "code_url": "https://www.sosy-lab.org/gsoc/gsoc2023.php",
+          "proposal_id": "5ztB7rog",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BqBmUDig"
+        },
+        {
+          "title": "Scaling Formal Verification: Parallel Analysis of Functions",
+          "short_description": "Formal methods have been known to be useful for verifying critical software. However, one of the main factors keeping tools such as CPA-Checker from...",
+          "student_name": "George Granberry",
+          "code_url": "https://gitlab.com/sosy-lab/software/cpachecker/-/merge_requests/119",
+          "proposal_id": "qQvMeLhX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lHNppaxZ"
+        },
+        {
+          "title": "Reverse Program Synthesis for Backward Reachability Analysis in CPAchecker",
+          "short_description": "CPAchecker now supports reachability analysis, which can search for a path from the initial program location to the error location. This project is a...",
+          "student_name": "Jia Sun",
+          "code_url": "https://www.sosy-lab.org/gsoc/2023/reverse-cfa",
+          "proposal_id": "5I6pehq9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GUaldtJG"
+        },
+        {
+          "title": "Integrating the SMT solver dReal to the framework JavaSMT",
+          "short_description": "SMT solvers are widely utilized in computer-guided verification of computer programs and artificial intelligence. With a multitude of theories...",
+          "student_name": "Julius Brehme",
+          "code_url": "https://juliusbrehme.github.io/GSoC_Submission/",
+          "proposal_id": "qWamwRRh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nveyV1Qh"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/software-and-computational-systems-lab-at-lmu-munich/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Extending PJBDD with CESRBDDs:  BDDs with Complemented Edges and Edge-Specified Reductions",
+          "short_description": "PJBDD is a Java-based, multi-threaded Binary Decision Diagram (BDD) library that facilitates concurrent computation and parallel operations. It is...",
+          "student_name": "Ahmed Tarek",
+          "code_url": "https://ahmedtareek.github.io/pages/GSoC2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FVwqpWrT/"
+        },
+        {
+          "title": "Adaptive Algorithm Selection for Btor2 Verification Tasks",
+          "short_description": "We developed the first algorithm selector, Btor2-Select, for the word-level hardware model-checking problem described in the Btor2 language. Given a...",
+          "student_name": "Zhengyang Lu",
+          "code_url": "https://www.sosy-lab.org/gsoc/2024/btor2-select/report.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FGmF8gS3/"
+        },
+        {
+          "title": "Overlay Handling with fuse-overlayfs",
+          "short_description": "For benchmarking purposes, BenchExec typically creates a container with a file-system overlay atop the system's file system. However, due to a kernel...",
+          "student_name": "Haoran Yang",
+          "code_url": "https://github.com/sosy-lab/benchexec/discussions/1036#discussioncomment-10452486",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/UzhlnEel/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/software-and-computational-systems-lab-at-lmu-munich",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Exporting and Validating Correctness Witnesses for Memory Safety in CPAchecker",
+          "short_description": "Problem: CPAchecker lacks robust support for exporting and validating correctness witnesses for memory safety properties (null pointers, buffer...",
+          "student_name": "Nupur Singhi",
+          "code_url": null,
+          "proposal_id": "8b5RDpAB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ytzuKlC3"
+        },
+        {
+          "title": "Verifier Selection using LLMs",
+          "short_description": "The growing use of large language models (LLMs) in code understanding has paved the way for significant advancements in software verification. In...",
+          "student_name": "Patrik Felbinger",
+          "code_url": null,
+          "proposal_id": "eOmIYm2s",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RiOOLRsU"
+        },
+        {
+          "title": "Timestamps in logs in BenchExec",
+          "short_description": "This project aims to enhance the BenchExec benchmarking framework by resolving issues with output handling and log management. Key improvements...",
+          "student_name": "Taito Ohsumi",
+          "code_url": null,
+          "proposal_id": "tiLSUrLQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AAnqA9dr"
+        },
+        {
+          "title": "CPA-Daemon: Behavior Driven Tests",
+          "short_description": "CPA-Daemon is a microservice (currently gRPC service) for continuous verification of C programs with CPAchecker. Clients could craft gRPC requests...",
+          "student_name": "Wenyi Shi",
+          "code_url": null,
+          "proposal_id": "fn4dzqim",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gfeHjXL3"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@sosy-lab.org",
+  "mailing_list": "",
+  "ideas_url": "https://www.sosy-lab.org/gsoc/gsoc2025.php",
+  "guide_url": "https://www.sosy-lab.org/gsoc/gsoc2025.php#instructions"
+}

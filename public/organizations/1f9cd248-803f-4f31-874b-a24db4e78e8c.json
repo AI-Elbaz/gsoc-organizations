@@ -1,0 +1,101 @@
+{
+  "name": "Data for the Common Good",
+  "url": "https://commons.cri.uchicago.edu",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/data-for-the-common-good/tk4snywy4ejlztpt-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "health",
+    "data",
+    "infrastructure",
+    "software"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "kubernetes",
+    "reactjs",
+    "terraform"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/data-for-the-common-good/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Self generated Table 1 for D4CG medical data",
+          "short_description": "Table 1 or demographic tables are used to set the baseline characteristics in medical research. They are often the first table in the papers...",
+          "student_name": "Luwei Wang",
+          "code_url": "https://docs.google.com/document/d/1LE-HC8CorY9f2Y2q5SOa7ensVUXGZlrf4WWKOtFNHmo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SSLDebYv/"
+        },
+        {
+          "title": "(GSOC)D4CG_ Front-end and Adaptive Question Rendering",
+          "short_description": "The clinical trial matching application aims to improve user-friendliness, particularly for individuals without medical expertise, by incorporating...",
+          "student_name": "Zhen Jiang",
+          "code_url": "https://github.com/chicagopcdc/gearbox-frontend/tree/gsoc/adaptive_question",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dStHfDX7/"
+        },
+        {
+          "title": "Exploration of a new Component of the opensource GEN3 framework",
+          "short_description": "Our project, a clinical trial matching application, currently utilises a REACTJS front-end application. The GEN3 framework has introduced a new...",
+          "student_name": "PaarthA",
+          "code_url": "https://github.com/PaarthAgarwal/commons-frontend-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qRSZnKBW/"
+        },
+        {
+          "title": "Enhance automation in testing and CI/CD on cloud-based integration",
+          "short_description": "The lack of automated testing capabilities in the cloud infrastructure of a data-intensive system significantly increases the time and effort...",
+          "student_name": "Wenbo_Qian",
+          "code_url": "https://github.com/chicagopcdc/jenkins",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/M6IH4Vev/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/data-for-the-common-good",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Enhancing the SMART on FHIR Frontend for Patient-Controlled Data Sharing",
+          "short_description": "I will improve a SMART on FHIR patient-facing app to make it more accessible, user-friendly, and efficient. This includes simplifying menus and...",
+          "student_name": "aryantony",
+          "code_url": null,
+          "proposal_id": "rXa7dzq8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ERinz6Vo"
+        },
+        {
+          "title": "Developing a FHIR Resource Tabular Viewer for Efficient Data Exploration.",
+          "short_description": "Healthcare data is critical for decision-making, but the FHIR (Fast Healthcare Interoperability Resources) format, while powerful, can be challenging...",
+          "student_name": "Manjula",
+          "code_url": null,
+          "proposal_id": "fWB4wFdy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/a82WR3tt"
+        },
+        {
+          "title": "Enhancing the Cohort Discovery Chatbot",
+          "short_description": "The process of identifying patients meeting certain criteria is crucial to advance research and contributes to new knowledge in medicine and health....",
+          "student_name": "Regina Huang",
+          "code_url": null,
+          "proposal_id": "iha3tg3E",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tZzV2cMH"
+        },
+        {
+          "title": "Developing Custom Jupyter Notebooks for AVRO File Processing and QA/QC Analysis",
+          "short_description": "This project aims to create custom Jupyter notebooks that help users efficiently unpack AVRO files, perform quality assurance (QA) and quality...",
+          "student_name": "Tushar Jamdade",
+          "code_url": null,
+          "proposal_id": "llVwVqaK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GR11k6du"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:lgraglia@uchicago.edu",
+  "mailing_list": "",
+  "ideas_url": "https://docs.pedscommons.org/GSoC/ideas",
+  "guide_url": "https://docs.pedscommons.org/GSoC/proposal",
+  "twitter_url": "https://twitter.com/PedsDataCommons"
+}

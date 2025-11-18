@@ -1,0 +1,40 @@
+{
+  "name": "Wayland",
+  "url": "https://wayland.freedesktop.org/",
+  "image_url": "https://lh3.googleusercontent.com/4TgyMZO4bnVCdzuoV5C_iyaDKetlMKAiKYzqL3GO_Edy_9lavjat0VRjI2NhFWG8HEzNBNNxi3HpT5uXK7M31tR27O0iTupC",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "graphics",
+    "video",
+    "window system",
+    "display"
+  ],
+  "technologies": [
+    "c",
+    "opengl",
+    "wayland",
+    "xml",
+    "kms"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4886349127614464/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Weston output management enhancements",
+          "short_description": "Making   Weston   able   to   start   without   any   outputs   present   and   survive   when   all   outputs   have   been  disconnected.  ...",
+          "student_name": "Armin Krezovi\u0107",
+          "code_url": "https://armin-gsoc.blogspot.ba/2016/08/summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5995944801730560/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://phabricator.freedesktop.org/w/wayland/gsoc_2016/#talk-to-us",
+  "contact_email": "",
+  "mailing_list": "https://lists.freedesktop.org/mailman/listinfo/wayland-devel",
+  "ideas_url": "",
+  "guide_url": ""
+}

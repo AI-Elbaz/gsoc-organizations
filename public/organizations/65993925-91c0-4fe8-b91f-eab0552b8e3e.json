@@ -1,0 +1,289 @@
+{
+  "name": "OpenWISP",
+  "url": "https://openwisp.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openwisp/xgfy0r7femccwzvj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "networking",
+    "wireless",
+    "configuration management",
+    "telecommunications",
+    "web development",
+    "wifi",
+    "mesh-networks",
+    "iot",
+    "configu",
+    "telecom",
+    "wireless networks",
+    "network visualization",
+    "network automation",
+    "network management system",
+    "mesh",
+    "hotspot",
+    "vpn",
+    "sdn"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "django",
+    "openwrt",
+    "raspberry pi",
+    "linux",
+    "ansible",
+    "lua"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4763591446102016/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Django-radius",
+          "short_description": "Implement a reusable Django app which allows managing the main freeradius database tables.",
+          "student_name": "Fiorella de Luca",
+          "code_url": "https://delucafiorella2602.blog/2017/08/28/google-summer-of-code-2017-django-freeradius/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6360344054202368/"
+        },
+        {
+          "title": "Raspbian backend for OpenWISP 2",
+          "short_description": "The project will require to implement a backend for OpenWISP 2. The backend must generate Raspbian compatible configuration files (i.e....",
+          "student_name": "Ritwick DSouza",
+          "code_url": "https://medium.com/@ritwickdsouza/gsoc-openwisp-raspbian-backend-for-openwisp-2-61ff91843362",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6704162360262656/"
+        },
+        {
+          "title": "AirOS backend for OpenWISP2",
+          "short_description": "This project will extend the capability of the netjson-config utility by adding support for the AirOS firmware. AirOS is the base firmware for...",
+          "student_name": "Edoardo Putti",
+          "code_url": "https://edoput.github.io/openwispgsoc/about/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6117042746818560/"
+        },
+        {
+          "title": "OpenWISP 2 Network topology",
+          "short_description": "One of the use case scenarios of OpenWISP 2 is mesh networking. In these scenarios being able to collect and visualise topology information is...",
+          "student_name": "Rohith A. S. R. K.",
+          "code_url": "https://medium.com/@rohithasrk/openwisp-2-network-topology-gsoc-17-4765008ccba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4878404511858688/"
+        },
+        {
+          "title": "Building a Javascript Based Configuration UI for OpenWisp",
+          "short_description": "The openwisp project used netjson, a json schema standard, control network configurations. This requires a means for a user to edit these...",
+          "student_name": "Nkhoh Gaston Che",
+          "code_url": "https://medium.com/@gastonche/building-a-javascript-based-configuration-ui-for-openwisp-5eab15088a55",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5846773071347712/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4717005412237312/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "OpenWISP 2 Radius",
+          "short_description": "One of the features missing in the OpenWISP modules is AAA (Authorization, Authentication, and Accounting). RADIUS is a networking protocol that...",
+          "student_name": "Rohith A. S. R. K.",
+          "code_url": "https://gist.github.com/rohithasrk/f4dfff366a6b277538c1beff31e1b7c9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5294811053555712/"
+        },
+        {
+          "title": "OpenWISP IPAM: IP Address Management tool for OpenWISP 2",
+          "short_description": "This project idea consists in creating a new OpenWISP 2 IPAM module with the basic features for IP Address Management.",
+          "student_name": "Anurag Sharma",
+          "code_url": "https://gist.github.com/anurag-ks/75d033c9652c559b065f9cc6320ea707",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4589947797372928/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4578309608833024/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Dockerization of OpenWISP",
+          "short_description": "OpenWISP installation procedure has some limitations that make it unsuited for complex deployments that need horizontal scaling, custom setups and...",
+          "student_name": "Ajay Tripathi (atb00ker)",
+          "code_url": "http://tiny.cc/submitgsoc2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6285865729392640/"
+        },
+        {
+          "title": "NetjsongraphJS: based on canvas and geographic data",
+          "short_description": "Use EchartsJS to rewrite NetjsongraphJS",
+          "student_name": "KuTuGu",
+          "code_url": "https://docs.google.com/document/d/1MDKUEO7XvGEMwK2S09CIj97TDFofGuEJPMB7hqcGrdk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6312148597211136/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4717183558483968/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving OpenWISP Monitoring towards its first release",
+          "short_description": "The goal of this project is to bring important improvements to the module openwisp-monitoring (unreleased) for it's first release and include it in...",
+          "student_name": "Hardik Jain (nepython)",
+          "code_url": "https://medium.com/@nepython/openwisp-monitoring-gsoc-2020-project-report-332441961629",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4929442452865024/"
+        },
+        {
+          "title": "Merge django reusable-apps",
+          "short_description": "The primary aim of the work done for this project is to improve the maintainability of OpenWISP. OpenWISP comprises of various modules but overtime...",
+          "student_name": "Ajay Tripathi (atb00ker)",
+          "code_url": "http://tiny.cc/submitgsoc2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6276751581249536/"
+        },
+        {
+          "title": "OpenWISP Notifications Module",
+          "short_description": "OpenWISP Notification Module will provide a means of generating and transmitting notifications in OpenWISP modules. The module will play a...",
+          "student_name": "Gagan Deep (pandafy)",
+          "code_url": "https://medium.com/@pandafy/openwisp-notifications-6c11ae577994",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5162209044332544/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5206079750799360/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "New General Navigation Menu and UX improvements",
+          "short_description": "The main aim of the project is development of a new navigation menu that will aid users in navigating through the website with more ease....",
+          "student_name": "Nitesh Sinha",
+          "code_url": "https://medium.com/@niteshsinha1707/new-navigation-menu-and-ui-ux-improvements-project-report-a94c37514b7d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5748840874901504/"
+        },
+        {
+          "title": "OpenWISP REST API",
+          "short_description": "The main objective of this project is to fulfill the most important and much-needed missing REST API endpoints for some of the Django models of the...",
+          "student_name": "Manish Kumar Shah",
+          "code_url": "https://manishshah120.medium.com/openwisp-rest-api-gsoc21-project-report-f2c4e0a22673",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5332635089371136/"
+        },
+        {
+          "title": "OpenWRT package for OpenWISP Monitoring",
+          "short_description": "This project aims to package OpenWISP monitoring on OpenWRT. It focuses on creating two packages, one to collect device stats in NetJSON format and...",
+          "student_name": "Kapil (devkapilbansal)",
+          "code_url": "https://dev.to/devkapilbansal/openwrt-openwisp-monitoring-2bmj",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4651169976156160/"
+        },
+        {
+          "title": "Revamp Netengine and add its SNMP capability to OpenWISP Monitoring",
+          "short_description": "This project aims to revamp the Netengine library making it compliant with the NetJSON Device Monitoring spec and integrating it in OpenWISP...",
+          "student_name": "Purhan Kaushik",
+          "code_url": "https://medium.com/@purhan/gsoc-2021-final-project-report-85dc49c59a87",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4921638495191040/"
+        },
+        {
+          "title": "Bring professional efficiency to OpenWISP WiFi Login Pages",
+          "short_description": "The primary aim of this project was to bring professional efficiency by reducing boilerplate code, reducing the number of configuration lines with...",
+          "student_name": "Sankalp (codesankalp)",
+          "code_url": "https://codesankalp.medium.com/openwisp-wifi-login-pages-project-report-fbc77ff6cc8b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5762226845122560/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/openwisp/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Add Iperf3 bandwidth monitoring check to OpenWISP Monitoring",
+          "short_description": "The goal of this project is to add a bandwidth test using iperf3, using the active check mechanism of OpenWISP Monitoring. The use case is to perform...",
+          "student_name": "Aryaman",
+          "code_url": "https://aryamanz29.medium.com/iperf-check-to-openwisp-monitoring-gsoc22-project-report-2661eddd3f77",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XtYvTaI8/"
+        },
+        {
+          "title": "Improve netjsongraph.js for its new release",
+          "short_description": "The goal of this project is to improve the netjsongraph.js visualization library, which has not been released yet. This project aims to improve the...",
+          "student_name": "Vaishnav Nair",
+          "code_url": "https://medium.com/@vaishnavnair365/improve-netjsongraph-js-for-its-new-release-project-report-b87002fcfe34",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wUawVPHg/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openwisp",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Adding support for automatic management of ZeroTier Tunnels",
+          "short_description": "OpenWISP Controller already supports configuring OpenVPN, WireGuard and VXLAN over WireGuard tunnels. The goal of this project is to add support for...",
+          "student_name": "Aryaman",
+          "code_url": "https://aryamanz29.medium.com/add-support-for-automatic-management-of-zerotier-tunnels-791be96903bf",
+          "proposal_id": "33LXC7pq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KGEKArcc"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/openwisp/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve UX of the Notifications Module",
+          "short_description": "This project aims to significantly enhance the notification system by implementing a series of improvements: consolidating multiple notifications...",
+          "student_name": "Dhanus",
+          "code_url": "https://openwisp.org/preview/blog/improve-ux-of-the-notifications-module-gsoc24-project-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gKXf8d2X/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openwisp",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "WHOIS Information and IP Address-Based Geolocation",
+          "short_description": "The proposal aims to provide a feature to enable WHOIS details lookup and fuzzy location creation and using those details to enhance OpenWISP\u2019s...",
+          "student_name": "Aman Jagotra",
+          "code_url": null,
+          "proposal_id": "eNqaq8h4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bJdRSq0X"
+        },
+        {
+          "title": "Improve OpenWISP General Map: Indoor, Mobile, Linkable URLs",
+          "short_description": "This project aims to enhance the general network visualization capabilities in OpenWISP by introducing a unified and interactive new map page for...",
+          "student_name": "Deepanshu Sahu",
+          "code_url": null,
+          "proposal_id": "53boszxJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/sKabOs8i"
+        },
+        {
+          "title": "Improve UX and Flexibility of the Firmware Upgrader Module",
+          "short_description": "This project addresses the need to enhance user experience and operational efficiency in the OpenWISP firmware upgrader module. The objective is to...",
+          "student_name": "Roshan Kumar9",
+          "code_url": null,
+          "proposal_id": "txJeY1JX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nHk9QZFU"
+        },
+        {
+          "title": "Enhancing Uspot Captive Portal for OpenWrt",
+          "short_description": "I intend to implement missing features in Uspot, in particular traffic accounting and traffic usage limits as well as improve the documentation of...",
+          "student_name": "Thibaut",
+          "code_url": null,
+          "proposal_id": "UIpM2IUP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/292OF54a"
+        },
+        {
+          "title": "Improve netjsongraph.js Resiliency and Visualization",
+          "short_description": "This proposal targets enhancing netjsongraph.js, a JavaScript library for visualizing network topology based on the NetJSON format. The primary...",
+          "student_name": "Yashaswi Kumar",
+          "code_url": null,
+          "proposal_id": "ZkmJ3Edd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1S9WKRxs"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/openwisp/general",
+  "contact_email": "mailto:support@openwisp.io",
+  "mailing_list": "https://groups.google.com/forum/#!aboutgroup/openwisp",
+  "ideas_url": "https://openwisp.io/docs/dev/developer/gsoc-ideas-2025.html",
+  "guide_url": "https://openwisp.io/docs/developer/contributing.html",
+  "twitter_url": "https://www.linkedin.com/company/openwisp/",
+  "blog_url": "https://openwisp.org/blog/"
+}

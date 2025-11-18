@@ -1,0 +1,62 @@
+{
+  "name": "LEAP Encryption Access Project",
+  "url": "https://leap.se",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/leap-encryption-access-project/rd167bcc545zvv8w-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "mail",
+    "vpn",
+    "encryption",
+    "e2e",
+    "privacy",
+    "Circumvention"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "twisted",
+    "openvpn",
+    "gnupg",
+    "java",
+    "golang",
+    "qt5",
+    "docker",
+    "ansible"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6409962536304640/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Password Keeper Service Proposal",
+          "short_description": "The project entails the specification, design, implementation and documentation of a Password Keeper service that is to be integrated to the existing...",
+          "student_name": "Victor De Gouveia",
+          "code_url": "https://diffya.github.io/GSoC2018/2018/08/08/GSoC-2018-Project-Submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5119324326985728/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/leap-encryption-access-project/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Implement>Client-side Tracking-, Malware and Ad-Blocker",
+          "short_description": "Being a privacy enthusiast and an end user, the idea proposed by LEAP group for implementing Client-side Tracking-, Malware and Ad-Blocker really...",
+          "student_name": "Pratik Lagaskar",
+          "code_url": "https://0xacab.org/warlordsam/gsoc-22-work-product-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CXLvzRHp/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://web.libera.chat/#leap",
+  "contact_email": "info@leap.se",
+  "mailing_list": "leap-discuss@lists.riseup.net",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/leapcode",
+  "blog_url": "https://leap.se/en/about-us/news"
+}

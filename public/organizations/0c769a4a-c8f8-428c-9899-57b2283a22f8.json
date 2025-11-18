@@ -1,0 +1,765 @@
+{
+  "name": "OpenCV",
+  "url": "https://opencv.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/opencv/fmh9fnybaz97kodm-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "virtual reality",
+    "machine learning",
+    "robotics",
+    "computer vision",
+    "real time",
+    "deep learning",
+    "vision",
+    "graphics",
+    "ai"
+  ],
+  "technologies": [
+    "python",
+    "machine learning",
+    "c++",
+    "computer vision",
+    "deep learning",
+    "vision",
+    "javascript",
+    "c",
+    "cuda",
+    "python 3",
+    "opengl",
+    "ai"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6474535423442944/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Multi-language OpenCV Tutorials in Python, C++ and Java",
+          "short_description": "OpenCV is an open source image processing library extensively used in C++, Python, Java and more than 15 other languages.\nWith the big variety of...",
+          "student_name": "Cartucho",
+          "code_url": "https://docs.google.com/document/d/1FFpt3kuaN1t1zcKeiHmaKoD9gg09CYviG3bMGCGXP9c/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6414610965987328/"
+        },
+        {
+          "title": "Extending the text module with deep Word-spotting CNN",
+          "short_description": "This is a proposal for extending and improving the OpenCV text module. In brief I propose implementing word-level classification with deep CNN for...",
+          "student_name": "Anguelos",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/761",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6166337697087488/"
+        },
+        {
+          "title": "New camera model and parallel processing for stitching pipeline",
+          "short_description": "Stitching pipeline is a well established code in OpenCV. It provides good results for creating panoramas from camera captured images. Main limitation...",
+          "student_name": "Jiri Horner",
+          "code_url": "https://github.com/opencv/opencv/pull/6933",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5112624647766016/"
+        },
+        {
+          "title": "OpenCV dnn module enhancement",
+          "short_description": "My previous GSoC project resulted in OpenCV DNN module. It was the first step towards deep neural network support in OpenCV. However, neural networks...",
+          "student_name": "vludv",
+          "code_url": "https://docs.google.com/document/d/1GO-9NIjA_LqOln72eScipvl9Isl6NvavZXc-C-uWh9w/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6219114255220736/"
+        },
+        {
+          "title": "Improvement of the dense optical flow algorithm",
+          "short_description": "I was interested in the improvement of the current dense optical flow algorithm.\nMy proposal is to implement parallel algorithm as the alternative to...",
+          "student_name": "VladX",
+          "code_url": "https://github.com/VladX/opencv_contrib/commits/optflow?author=VladX",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6251299129524224/"
+        },
+        {
+          "title": "Deep Learning with Quantization for Semantic Saliency Detection",
+          "short_description": "Semantic saliency detection be implemented based on CNN module. Quantization method described in Pete's blog for quantization will be added into...",
+          "student_name": "Yida Wang",
+          "code_url": "https://github.com/tiny-dnn/tiny-dnn/commits?author=Wangyida",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4623962327744512/"
+        },
+        {
+          "title": "Convolutional Neural Networks for Visual Tracking",
+          "short_description": "Deep Learning (DL) and especially Convolutional Neural Network (CNN) has drawn a lot of attention in last few years. At present day CNN has been...",
+          "student_name": "Tyan Vladimir",
+          "code_url": "https://gist.github.com/Auron-X/a8258a53bcb360c8f6eb07821e825bad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4729515444011008/"
+        },
+        {
+          "title": "Efficient dense optical flow",
+          "short_description": "A very fast (up to 600Hz on 1 CPU core, excluding preprocessing) dense optical flow algorithm that outperforms the Farneback flow in terms of quality...",
+          "student_name": "Alexander Bokov",
+          "code_url": "https://github.com/opencv/opencv_contrib/commits/master?author=sbokov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4797975343661056/"
+        },
+        {
+          "title": "Update OpenCV file storage",
+          "short_description": "Update OpenCV FileStorage\nOpenCV FileStorage is very convenient while using C++. I'll update it and also add more features.\nAim is to add base64...",
+          "student_name": "MYLS",
+          "code_url": "https://wiryls.gitbooks.io/gsoc-2016-update-opencv-filestorage/content/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5855415350853632/"
+        },
+        {
+          "title": "Dynamic structured light in openCV",
+          "short_description": "GSoc 2015 brought structured light to OpenCV and I would love to extend the module this year. Among all the available algorithms, phase-shifting...",
+          "student_name": "Ambroise Moreau",
+          "code_url": "https://gist.github.com/AmbroiseMoreau/95403f41dfcdf77dccb9fabefb264909",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5949422521286656/"
+        },
+        {
+          "title": "A Modern Deep Learning module",
+          "short_description": "Nowadays, deep learning is the hip topic inside the computer vision community. Many authors have\ndemonstrated that using deep neural networks in...",
+          "student_name": "Edgar Riba",
+          "code_url": "https://github.com/tiny-dnn/tiny-dnn/commits/master?author=edgarriba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5965288667348992/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6424873924558848/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "The Fast Bilateral Solver",
+          "short_description": "Objective:\nTo implement \u2018the fast bilateral solver\u2019 in OpenCV, which can be generally taken as an efficient bilateral filter.\nTo implement diverse...",
+          "student_name": "Kuan Wang",
+          "code_url": "https://thukey.github.io/The_Bilateral_Solver/html/The_Fast_Bilateral_Solver.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6379759588081664/"
+        },
+        {
+          "title": "A Model Zoo for Tiny-dnn",
+          "short_description": "Tiny-dnn is a lightweight dependency free library. It is extremely easy to get your first boilerplate code running as it requires nearly no...",
+          "student_name": "Karan Desai",
+          "code_url": "https://github.com/tiny-dnn/tiny-dnn/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Akarandesai-96%20created%3A%3C2017-08-31",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6426968660639744/"
+        },
+        {
+          "title": "Improvement of the background subtraction algorithm",
+          "short_description": "I would like to work on improving background subtraction algorithm. In particular, I want to implement algorithm from the following article:...",
+          "student_name": "Vladislav Samsonov",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/1211",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6453014550282240/"
+        },
+        {
+          "title": "Recurrent Neural Networks on tiny-dnn",
+          "short_description": "RNNs are now central to many applications, from speech recognition to Computer Vision. Some examples are Image captioning, Visual Question Answering...",
+          "student_name": "Pau Rodr\u00edguez",
+          "code_url": "https://prlz77.github.io/gsoc2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6734489526992896/"
+        },
+        {
+          "title": "Speeding-up AKAZE features",
+          "short_description": "AKAZE features are scale-invariant binary features. They are licence-free and currently available in main OpenCV repository. AKAZE features show for...",
+          "student_name": "Jiri Horner",
+          "code_url": "https://github.com/opencv/opencv/pull/9444",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5730699164254208/"
+        },
+        {
+          "title": "GPU enabled deep learning framework",
+          "short_description": "GPU are very suitable for deep learning (DL) purposes, providing significant (sometimes almost two orders of magnitude) speedups  compared to CPU....",
+          "student_name": "Evgenii Zheltonozhskii",
+          "code_url": "https://groups.google.com/d/topic/opencv-gsoc-2017/nsnlvGqIMXU/discussion",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5398765569572864/"
+        },
+        {
+          "title": "Implementing and extending DynamicFusion (Newcombe et al 2015)",
+          "short_description": "Recent research has produced impressive methods of 3D reconstruction of scenes containing non-rigid deformations using a RGB-D camera, however there...",
+          "student_name": "Mihai Bujanca",
+          "code_url": "https://gist.github.com/mihaibujanca/5c4123a604d0e4ea7cd356d0c3981ada",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5263789645627392/"
+        },
+        {
+          "title": "Face alignment with opencv",
+          "short_description": "Face alignment is a computer vision technology for identifying the geometric structure of human faces in digital images. Given the location and size...",
+          "student_name": "sukhad Anand",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/1199",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5334461319217152/"
+        },
+        {
+          "title": "End to End text detection and recognition",
+          "short_description": "End-to-end scene text recognition is usually divided in two different sub tasks: word detection and word recognition. Currently OpenCV text detection...",
+          "student_name": "Suman Kumar Ghosh",
+          "code_url": "https://gist.github.com/sghoshcvc/d955c743bade4415f532d07f4cef919f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6212343507714048/"
+        },
+        {
+          "title": "Photometric Calibration",
+          "short_description": "Photometric Calibration Tool Kit\nCamera calibration is always an important part of almost every vision applications. As the direct method of SLAM...",
+          "student_name": "Nan Yang",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/1219",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4562707772604416/"
+        },
+        {
+          "title": "Documentation Improvement",
+          "short_description": "Using gathered complaints in forums and discussions I propose a project of documentation improving and restructuring, which is intended to improve...",
+          "student_name": "Jo\u00e3o Cartucho",
+          "code_url": "https://docs.google.com/document/d/1jndiomVBe8Ax-SVERTMJ86WfG_-AsKodKNFpBE4_Mrg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4630773877440512/"
+        },
+        {
+          "title": "Learning compact models for object detection",
+          "short_description": "A compact Convolutional Neural Networks based model will be developed to detect known objects in an image in real time taking inspiration from...",
+          "student_name": "kv",
+          "code_url": "https://gist.github.com/kvmanohar22/192ee561be2093a48341066d53e27220",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4777010266112000/"
+        },
+        {
+          "title": "API for Facial Landmark Detector",
+          "short_description": "Facial landmark detection is a useful algorithm with many possible applications including expression transfer, virtual make-up, and facial puppetry....",
+          "student_name": "Laksono Kurnianggoro",
+          "code_url": "https://gist.github.com/kurnianggoro/74de9121e122ad0bd825176751d47ecc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4919219854508032/"
+        },
+        {
+          "title": "Improve Background Subtraction with Aggregated Saliency",
+          "short_description": "In this proposal, a new approach for background subtraction by using multiple saliency methods and saliency optimization frameworks is proposed. Two...",
+          "student_name": "SHENGXIN QIAN",
+          "code_url": "https://gist.github.com/Masterqsx/f63c2627873c2cdf7be9cb520c7060a7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5780182153560064/"
+        },
+        {
+          "title": "Improve and Extend the JavaScript Bindings for OpenCV",
+          "short_description": "Web is the most vibrant open computing platform. With huge multimedia contents available on web, web developers are in need of wide array of image...",
+          "student_name": "Congxiang Pan",
+          "code_url": "https://gist.github.com/pancx/2778b72090782b6e5b47af13a32b0d7d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5183490937061376/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5070964117733376/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Computer Vision based Alpha Matting",
+          "short_description": "This project aims to integrate some of the computer vision based alpha matting algorithms into OpenCV. Alpha matting refers to the problem of softly...",
+          "student_name": "Muskaan",
+          "code_url": "https://github.com/muskaankularia/opencv_contrib/tree/alphamatting/modules/alphamat",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6582381362806784/"
+        },
+        {
+          "title": "DynamicFusion Implementation",
+          "short_description": "DynamicFusion is the first dense SLAM system capable of reconstructing non-rigidly deforming scenes in real time. It accomplishes this by extending...",
+          "student_name": "Apoorv Goel",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/2161",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6697423001354240/"
+        },
+        {
+          "title": "Improve the performance of JavaScript version of OpenCV (OpenCV.js)",
+          "short_description": "OpenCV.js is a JavaScript binding for selected subset of OpenCV functions for the web platform. It allows emerging web applications with multimedia...",
+          "student_name": "Wenzhao Xiang",
+          "code_url": "https://gist.github.com/Wenzhao-Xiang/8636e239c20e0eda839833f9d363828e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6705938227003392/"
+        },
+        {
+          "title": "Curating Deep Nets for the OpenCV DNN Module",
+          "short_description": "The OpenCV's DNN Module allows us to run inference on a pre-trained Deep Neural Network in order to accomplish high end vision tasks with just a few...",
+          "student_name": "Diego Velazquez",
+          "code_url": "https://github.com/dvd42/opencv/wiki#summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5455341930676224/"
+        },
+        {
+          "title": "Allow the OpenCV's DNN module to work with GPUs",
+          "short_description": "The development of GPUs for general purpose computing has revolutionized the field of deep learning. They are critical for training large deep neural...",
+          "student_name": "Yashas Samaga B L",
+          "code_url": "https://gist.github.com/YashasSamaga/a84cf2826ab2dc755005321fe17cd15d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6169918255398912/"
+        },
+        {
+          "title": "Learning-based Super Resolution",
+          "short_description": "Super resolution is the process of up-scaling and improving the details of an image. Currently the super resolution modules within OpenCV are based...",
+          "student_name": "Xavier Weber",
+          "code_url": "https://gist.github.com/Saafke/8e5b58488383d1b1fda47b3dbd141f9f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6247164785721344/"
+        },
+        {
+          "title": "Facial Landmark Detector",
+          "short_description": "Facial feature detection and tracking is a high value area of computer vision since humans are interested in what humans are paying attention to,...",
+          "student_name": "Saiteja Talluri",
+          "code_url": "https://gist.github.com/saiteja-talluri/1d0e4fc4c75774b936b99c7c52b65fe6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4578382908489728/"
+        },
+        {
+          "title": "Deep learning based super-resolution algorithms based on OpenCV DNN",
+          "short_description": "Super Resolution is a subset of algorithms that aim to up-sample a lower quality image to a higher quality one. It\u2019s goal is to create an up-sampled...",
+          "student_name": "Fanny Monori",
+          "code_url": "https://gist.github.com/fannymonori/9d012e43b90e51666070b7a8a0454a5b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4738499608051712/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6410072298618880/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Revise/improve Text & Digit Recognition Samples",
+          "short_description": "Proposal for Revise/improve Text & Digit Recognition Samples. There are two goals for this project. I have completed the prototype of Goal 1, and I...",
+          "student_name": "Zihao Mu",
+          "code_url": "https://gist.github.com/zihaomu/d010417865ddeac71b4d39a526dc7d2d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5737677988560896/"
+        },
+        {
+          "title": "Implementing ColorChecker detector and a better detector for AprilTag",
+          "short_description": "ColorChecker Chart is used for colour calibration, restoring the original image colours under illumination changes. Detecting them is relatively easy...",
+          "student_name": "Ajit Pant",
+          "code_url": "https://gist.github.com/AjitPant/9d0628a54b5fd9e2605d2d5260d833d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5399089744707584/"
+        },
+        {
+          "title": "Improvement of Random Sample Consensus in OpenCV",
+          "short_description": "Random Sample Consensus (RANSAC) is an important and popular robust algorithm. It is widely used in many computer vision tasks such as 3D...",
+          "student_name": "Maksym Ivashechkin",
+          "code_url": "https://github.com/opencv/opencv/pull/17683",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5489588363067392/"
+        },
+        {
+          "title": "Revise/improve Text & Digit Recognition Samples",
+          "short_description": "In practice, scene text recognition has been applied to various real-world scenarios, and it has become one of the most popular research topics in...",
+          "student_name": "Wenqing Zhang",
+          "code_url": "https://github.com/opencv/opencv/pull/17570",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4667965749854208/"
+        },
+        {
+          "title": "OpenCV bindings for Julia",
+          "short_description": "This project aims at creating comprehensive wrapping for OpenCV that allows OpenCV\u2019s functions to be called from Julia. The final bindings would...",
+          "student_name": "Archit Rungta",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/2622",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4800378014531584/"
+        },
+        {
+          "title": "Optimize OpenCV for RISC-V",
+          "short_description": "The main objective of the project is adding implementation of wide universal intrinsics for RISC-V in OpenCV Hardware Acceleration Layer (HAL)....",
+          "student_name": "Joy2myself",
+          "code_url": "https://github.com/opencv/opencv/pull/18228",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4805294711898112/"
+        },
+        {
+          "title": "Better SIFT in the main repository",
+          "short_description": "The patent on one of the most popular feature detection algorithm, SIFT, expired on 2020/03/06. So, we can move the implementation from the...",
+          "student_name": "Yoshio Kato",
+          "code_url": "https://docs.google.com/document/d/10gWapo1yMuTV9XQUS64EOQUycJ3BlasLndlZzZMsy9g/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6497360697360384/"
+        },
+        {
+          "title": "Point Clouds Model Fitting Implementation In OpenCV",
+          "short_description": "The availability of depth sensors such as 3D laser range finders or the Microsoft Kinect provide dense 3D measurements that typically consist of...",
+          "student_name": "Devansh Batra",
+          "code_url": "https://github.com/devanshbatra04/opencv_contrib",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6125587120259072/"
+        },
+        {
+          "title": "OpenCV.js: WASM SIMD optimization 2.0",
+          "short_description": "This project aims to optimize the WebAssembly version of OpenCV.js. Some evaluation experiments have shown that current WASM SIMD version has some...",
+          "student_name": "Kun Liang",
+          "code_url": "https://gist.github.com/lionkunonly/bbb50a839faf7acd1543f142d45254f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4840705911947264/"
+        },
+        {
+          "title": "Real-time Single Object Tracking using Deep Learning",
+          "short_description": "Recent interest in computer vision has led to a great advance in the development of visual trackers. Specifically, various applications of Kernelized...",
+          "student_name": "Jin Yeob Chung",
+          "code_url": "https://gist.github.com/jinyup100/9d4cf8f1aac17be75aab000a5e504898",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5851566562607104/"
+        },
+        {
+          "title": "Develop OpenCV.js DNN modules for promising web use cases together with their tutorials",
+          "short_description": "The dnn module of OpenCV.js has the ability and potential to develop interesting interactive deep learning applications on the Web. I'd like to...",
+          "student_name": "Zhiming Zeng",
+          "code_url": "https://github.com/opencv/opencv/pull/18064",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5887420949594112/"
+        },
+        {
+          "title": "Write a tutorial about training a network in TF or PyTorch and then running it in OpenCV",
+          "short_description": "TensorFlow (TF) and PyTorch are some of the most popular deep learning frameworks. TF exports networks in its own format; PyTorch supports export of...",
+          "student_name": "Anastasia Murzova",
+          "code_url": "https://github.com/opencv/opencv/pulls?q=GSoC+is%3Apr+label%3A%22category%3A+dnn%22++author%3ALupusSanctus+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5959291925692416/"
+        },
+        {
+          "title": "Depth Fusion for large scale environments",
+          "short_description": "This project aims to modify  Kinect  Fusion by implementing a  hash-based  TSDF  volume and a global pose optimization strategy for camera tracking...",
+          "student_name": "Akash Sharma-2",
+          "code_url": "https://akashsharma02.github.io/pages/opencv-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6301288695857152/"
+        },
+        {
+          "title": "GPU-enabled OpenCV.js",
+          "short_description": "My plan is to add a new backend by enabling WebGPU in OpenCV.js. There have been many sophisticated GPU backends including Cuda,OpenCL,Vulkan and...",
+          "student_name": "Jiang Hao",
+          "code_url": "https://github.com/opencv/opencv/pull/18066",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5153762219393024/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5722622045716480/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "OpenCV bindings for Julia",
+          "short_description": "This project is the continuation of the GSoC 2020 project OpenCV bindings for Julia. In that project, bindings for most of OpenCV\u2019s core modules were...",
+          "student_name": "Archit Rungta",
+          "code_url": "https://github.com/opencv/opencv_contrib/pull/3009",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6455232871006208/"
+        },
+        {
+          "title": "Loop closure algorithm based on HF-Net+BoW for depth fusion",
+          "short_description": "This work aims to add  Loop Closure Algorithm based on HF-Net+BoW into the OpenCV RGBD module. HF-Net can extract the local and global features at...",
+          "student_name": "Zihao Mu",
+          "code_url": "https://gist.github.com/zihaomu/4933dd1fb805cbb684e2b407e1e87e51",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5439405661093888/"
+        },
+        {
+          "title": "Tutorial for Universal Intrinsics and parallel_for_ for efficient cross-platform algorithm implementation",
+          "short_description": "Sample code and documentation explaining the use of cross-platform compatible implementation of OpenCV's Universal Intrinsic and parallel_for_",
+          "student_name": "Rohit Sutradhar",
+          "code_url": "https://github.com/opencv/opencv/pull/20361",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5471406791327744/"
+        },
+        {
+          "title": "Improve the OpenCV Python package with type annotations and type checking",
+          "short_description": "The OpenCV Python package (cv2) currently does not include type annotations, a feature introduced in PEP 484. The project aims to provide type...",
+          "student_name": "Duong Dac",
+          "code_url": "https://github.com/opencv/opencv/pull/20370",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4696498893225984/"
+        },
+        {
+          "title": "Accelerate OpenCV.js DNN via WebNN",
+          "short_description": "OpenCV.js exposes JavaScript API of dnn module that allows web apps to do deep learning model inference in web browsers. This capability enables web...",
+          "student_name": "Hanxi Guo",
+          "code_url": "https://github.com/opencv/opencv/pull/20406",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4779460481515520/"
+        },
+        {
+          "title": "3D samples using OpenGL and GLFW",
+          "short_description": "This project aims to develop not only 3D samples using OpenGL for the OpenCV 3D module but also reusable components that can later be incorporated...",
+          "student_name": "Ricardo Antunes",
+          "code_url": "https://github.com/opencv/opencv/pull/20371",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6034778591068160/"
+        },
+        {
+          "title": "3D samples using OpenGL and GLFW",
+          "short_description": "The project is aimed at creating few samples to demonstrate capability of OpenCV 3D module. After that all useful methods will be collected for a...",
+          "student_name": "Dmitrii Klepikov",
+          "code_url": "https://github.com/opencv/opencv/pull/20471",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5972362817699840/"
+        },
+        {
+          "title": "Create nuget package for OpenCV and OpenCV contrib",
+          "short_description": "Installing OpenCV on Windows has always been a gruesome procedure for beginners. Added steps of having to build the library by oneself using cmake...",
+          "student_name": "Aditya Mulgundkar",
+          "code_url": "https://github.com/AdityaMulgundkar/opencv-nuget",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6006857948200960/"
+        },
+        {
+          "title": "8-bit quantization in DNN Module",
+          "short_description": "This project aims to bring post-training integer quantization to OpenCV\u2019s DNN module and perform inference using 8-bit integer inputs and fixed-point...",
+          "student_name": "Jebastin Nadar",
+          "code_url": "https://docs.google.com/document/d/13KsCIuQAZn9ro8ChqBK68IdiFSI_Y71zPEtI8QbGsGQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6302543126200320/"
+        },
+        {
+          "title": "Optimizing OpenCV DNN for RISC-V",
+          "short_description": "There is a deep learning module in OpenCV named DNN, which has a set of built-in layers and functionality for loading serialized networks models from...",
+          "student_name": "Liutong HAN",
+          "code_url": "https://docs.google.com/document/d/1wPz3uZBFjnTg_aewOGQPLT3EbDewtY-DwW6Dra1D7pQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6323745668464640/"
+        },
+        {
+          "title": "Speech recognition using OpenCV Audio IO module",
+          "short_description": "OpenCV is used extensively in computer vision, tackling almost all major computer vision problems. Many Modern CV applications require working with...",
+          "student_name": "Shivanshu Tyagi",
+          "code_url": "https://github.com/spazewalker/SpeechRecog-Opencv#readme",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5177608781692928/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/opencv/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Implementing multi-task CV models in OpenCV",
+          "short_description": "Deep learning is now used to solve many different CV problems. A typical approach is to train a separate network for each specific task. However,...",
+          "student_name": "star",
+          "code_url": "https://github.com/obtx/opencv_zoo/tree/new-branch/models/multitask_centernet",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XkJwt5qM/"
+        },
+        {
+          "title": "AudioVisual Speech Recognition using OpenCV Audio IO module",
+          "short_description": "OpenCV is used extensively in computer vision, tackling almost all major computer vision problems. Many Modern CV applications work with video...",
+          "student_name": "Shivanshu Tyagi",
+          "code_url": "https://github.com/spazewalker/AudioVisualSpeechRecog_OpenCV/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vSBH0gCK/"
+        },
+        {
+          "title": "Yiyao Wang_Proposal_lightweight OCR models",
+          "short_description": "OCR (Optical Character Recognition), a technology which targets recognizing text in images automatically, contains the following parts: document...",
+          "student_name": "Yiyao Wang",
+          "code_url": "https://gist.github.com/Charles-258/f1a2bf28eb676560b94fcc3cfdfa4120",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dksIFqMl/"
+        },
+        {
+          "title": "Upgrading RANSAC and multi-grid camera calibration",
+          "short_description": "Upgrade and optimize existing RANSAC version that I have integrated two years ago. I know the structure of a code and how it works so it should not...",
+          "student_name": "maxim_ivashechkin",
+          "code_url": "https://github.com/opencv/opencv/pull/22363",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FEGOg9LB/"
+        },
+        {
+          "title": "Efficient Data Augmentation Module in OpenCV for DL Training",
+          "short_description": "This proposal aims to develop an efficient data augmentation module for OpenCV that supports both basic image manipulation approaches and deep...",
+          "student_name": "Chuyang Zhao",
+          "code_url": "https://github.com/ZhaoChuyang/Data-Augmentation-Module-in-OpenCV",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hmRrB6GQ/"
+        },
+        {
+          "title": "FIRST Robotics with OAK-D Camera",
+          "short_description": "For FIRST Robotics platform, there is no highly integrated and developer-friendly reference vision platform that exists at an affordable price (i.e....",
+          "student_name": "Gary Ding",
+          "code_url": "https://23garyd.github.io/tech/gsoc-2022-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JlDWvmqL/"
+        },
+        {
+          "title": "Lightweight Object detection and tracking for resource restricted usage",
+          "short_description": "Object detection has made great progress in the past few years along with the development of deep learning. However, most current object detection...",
+          "student_name": "Sri Siddarth Chakaravarthy",
+          "code_url": "https://github.com/Sidd1609/GSOC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zULf6hi2/"
+        },
+        {
+          "title": "Optimizing OpenCV Universal Intrinsic for RISC-V Vector",
+          "short_description": "There is a RISC-V Vector backend in OpenCV universal intrinsic, but the performance is very poor and only supported fixed vector size with 128 bit....",
+          "student_name": "Liutong HAN",
+          "code_url": "https://docs.google.com/document/d/1TRhU6uozDBHQYKfeabsecOIHOoKnEGza9tVqSg1w2c0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/08YwUMR5/"
+        },
+        {
+          "title": "Improved imgcodecs",
+          "short_description": "This proposal contains several improvements over the image codecs, provides a new API for reading the image header separately from the image data,...",
+          "student_name": "Berke Yavas",
+          "code_url": "https://gist.github.com/ocpalo/6886c89da91218001f6577af8dbb4d4a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XHoGWs9K/"
+        },
+        {
+          "title": "Light-OCR",
+          "short_description": "Project Light-OCR aims at providing lightweight OCR(optical character recognition) for the users of OpenCV. The whole process includes lightweight...",
+          "student_name": "Tong Zhang",
+          "code_url": "https://gist.github.com/the-star-sea/27fbdb0a6e93e1ba1735c4c1e9740aa2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Q4Xo7e02/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/opencv",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "OpenCV IDEA: Lightweight Optical Flow Model",
+          "short_description": "Optical flow is the problem of estimating the motion of objects in an image or video sequence. Optical flow is pivotal to many computer vision...",
+          "student_name": "Aser",
+          "code_url": "https://github.com/Aser-Abdelfatah/Google_Summer_of_Code_2023_OpenCV_Optical_Flow_Summary",
+          "proposal_id": "5WfDuJMP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eteD6MMy"
+        },
+        {
+          "title": "Realtime object tracking models",
+          "short_description": "The current state-of-the-art tracking models are hampered by low speed, limiting their applicability on devices with limited computational power....",
+          "student_name": "Ben Kang",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vRwcOGlfH81hiTeBjaa6Z5YG9v5wbsX71LiChVMGWtln-sDZ99kAZSe9pliOtLIHB3ACuzYDhXHnMcM/pub",
+          "proposal_id": "s5L1cGrF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/hzVSKe3M"
+        },
+        {
+          "title": "Realtime object tracking models",
+          "short_description": "Deep learning techniques impressively improve the performance of object tracking algorithms. Such algorithms have been deployed on some drones and...",
+          "student_name": "Jose Rios",
+          "code_url": "https://gist.github.com/guanarp/9e37f53ac6dd8497ee6e0c15c5d12ed4",
+          "proposal_id": "xksihEJt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5ehLZkp3"
+        },
+        {
+          "title": "A Pipeline for NeRF Experimentation and Visualization",
+          "short_description": "The goal for this project is to develop a NeRF model training pipeline within the OpenCV library. The end result will be a fully functioning data...",
+          "student_name": "Joshua Ahn",
+          "code_url": "https://github.com/OpenCXdev/NerfNet",
+          "proposal_id": "Mtiukr6R",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3VJ0YoAz"
+        },
+        {
+          "title": "OpenCX: Extending OpenCV with NeRFs and LLMs",
+          "short_description": "Investigative work on extending OpenCV. Researched state of the art and emerging 3D multimodal scene representations and use cases. For eg, queryable...",
+          "student_name": "Likhit Talasila",
+          "code_url": "https://docs.google.com/document/d/1fsAhYY787osveiUqtqR9RQf6Ajr4XLhqSYv-EyydBGs/edit?usp=sharing",
+          "proposal_id": "oIiUTRJ8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/G68yXZNG"
+        },
+        {
+          "title": "Multi-camera calibration part 2",
+          "short_description": "This project extends the work from the previous year, which included basic algorithms for multi-camera calibration, by adding testing cases with...",
+          "student_name": "Linfei",
+          "code_url": "https://github.com/opencv/opencv/pull/24052",
+          "proposal_id": "dQoJIJwo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BoM2kqWt"
+        },
+        {
+          "title": "IDEA: Realtime object tracking models",
+          "short_description": "Real-time object tracking models working on edge devices. I will use MAE pre train and knowledge distillation to make the performance better. The...",
+          "student_name": "lpy",
+          "code_url": "https://github.com/opencv/opencv/pull/24201",
+          "proposal_id": "XrvcIpP3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/okIdfVpA"
+        },
+        {
+          "title": "GSoC Project Proposal: IDEA3 - Simple triangle rendering",
+          "short_description": "This proposal aims to add useful functions for forward and inverse rendering to the OpenCV 3D module. The implementation will be divided into two...",
+          "student_name": "Ningyu Zhu",
+          "code_url": "https://github.com/nickyu-zhu/GSoC-Rendering-module-in-OpenCV",
+          "proposal_id": "7e2VMeFA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8QunCuzv"
+        },
+        {
+          "title": "Unlocking the Full Potential of OpenCV with G-API and Python",
+          "short_description": "The objective of this project is to create a comprehensive Python tutorial on G-API, a graph execution framework for OpenCV. The tutorial will cover...",
+          "student_name": "Tianyu Yang",
+          "code_url": "https://github.com/tianyu-yang1998/tutorials-py.git",
+          "proposal_id": "7vsU0i8S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vLUI85cB"
+        },
+        {
+          "title": "Point Cloud Compression",
+          "short_description": "This project aims to implement point cloud compression algorithm in OpenCV. This project intends to adopt octree as the data structure carrying point...",
+          "student_name": "Yuhang Wang",
+          "code_url": "https://github.com/opencv/opencv/pull/24197",
+          "proposal_id": "T7tHLDj2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/EDhcx6Ga"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/opencv/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "3D Radiance Toolbox",
+          "short_description": "The goal of this project is to develop an open-source toolbox that enables easy and efficient capture of real-world 3D scenes using mobile devices...",
+          "student_name": "Mudit1729",
+          "code_url": "https://drive.google.com/drive/folders/1k8NfTmmTlzVTDVUyMC1uPbI8CPvFCWTt?usp=drive_link",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vF9SJf07/"
+        },
+        {
+          "title": "Animated images and other functionality for imgcodecs",
+          "short_description": "1.Adding support animation encoding/decoding to OpenCV library. ( according to result of meetings which file types will be supported.) 2.zlib-ng...",
+          "student_name": "sturkmen",
+          "code_url": "https://gist.github.com/sturkmen72/184ee7604a29ccfc8b2bc33ef29227db",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Jkv7Uu6Z/"
+        },
+        {
+          "title": "OpenGL support with GTK 3 and GTK 4",
+          "short_description": "OpenCV 4.x supports integration with GTK 2, but it's out of date for most of modern Linux distribution. GTK 3+ provides new API for OpenGL...",
+          "student_name": "Yoshiki Obinata",
+          "code_url": "https://docs.google.com/document/d/1k6kYtGG34QLmXtvmc_PVov9XkHO0T2BZbltE_cud5pA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aJ9fBfct/"
+        },
+        {
+          "title": "Block-wise Quantization",
+          "short_description": "The proposal aims to expand upon the advancements made in the 2023 project, which focused on introducing 8-bit model quantization to OpenCV-zoo....",
+          "student_name": "Daniele Affinita",
+          "code_url": "https://gist.github.com/DaniAffCH/8cefbb13816a462bb81408145a1e9315",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fNykxbnu/"
+        },
+        {
+          "title": "Support gif decode and encode  and other functionalities for  imgcodecs",
+          "short_description": "Formats like GIF are widely used, however, OpenCV provides a limited support for this format. Noticed that FFmpeg is a dependency of OpenCV and it...",
+          "student_name": "Super",
+          "code_url": "https://docs.google.com/document/d/19pZJRkEoj8yoWg2hPS0DdkvmnL9otPwnLPELHBKjMfU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ausNpPuy/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/opencv",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "QR/Barcode/ArUco detector",
+          "short_description": "Description: QR, Barcode and ArUco are all popular code in computer vision applications. OpenCV now support all of them, and can detect and decode...",
+          "student_name": "Jinyue CHEN",
+          "code_url": null,
+          "proposal_id": "wtSCVM6Q",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/atviNhgk"
+        },
+        {
+          "title": "Better LLMs Support in OpenCV: Tokenizer Integration into DNN Module",
+          "short_description": "I propose to integrate native text tokenization support into OpenCV\u2019s DNN module so that Large Language Models (LLMs) can be run end-to-end directly...",
+          "student_name": "Jorge Velez",
+          "code_url": null,
+          "proposal_id": "kV2nCLaA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/79SW6eNK"
+        },
+        {
+          "title": "Integrate Fractal ArUco into OpenCV",
+          "short_description": "Problem: Traditional ArUco markers in OpenCV struggle with occlusion and long-range detection. Fractal ArUco markers (developed by Prof. Rafael Mu\u00f1oz...",
+          "student_name": "Liiigion",
+          "code_url": null,
+          "proposal_id": "f2fG2EUK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cC4UplVH"
+        },
+        {
+          "title": "Computational photography algorithms for better image quality",
+          "short_description": "GitHub issue: Opencv #27206, Opencv_contrib #3921 Fork with WIP: https://github.com/MykhailoTrushch/opencv_contrib As part of GSOC 2025 idea 11,...",
+          "student_name": "Mykhailo Trushch",
+          "code_url": null,
+          "proposal_id": "DU4s4QWN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DtBkV98K"
+        },
+        {
+          "title": "LLM Runtime Support in OpenCV",
+          "short_description": "This project aims to extend OpenCV\u2019s DNN module with efficient runtime support for Large Language Models (LLMs), focusing on decoder-only...",
+          "student_name": "Oleksandr Nikolskyy",
+          "code_url": null,
+          "proposal_id": "Rnfw6Zb7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Xt3sU0cr"
+        },
+        {
+          "title": "Implementation of a SLAM Framework in OpenCV with (ALIKED features & LightGlue matcher)",
+          "short_description": "This project involves a methodological approach to developing, testing, and documenting a SLAM framework. This will serve as both a practical tool...",
+          "student_name": "ShauryaKpanwar",
+          "code_url": null,
+          "proposal_id": "BoEueGOa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IFR73yH5"
+        },
+        {
+          "title": "Multi-camera calibration test",
+          "short_description": "I propose to enhance OpenCV\u2019s multi-camera calibration pipeline by curating and organizing high-quality calibration datasets that include varied...",
+          "student_name": "shyama7004",
+          "code_url": null,
+          "proposal_id": "fNpDqKXQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EPZ8lQ0v"
+        },
+        {
+          "title": "Enhancing OpenCV's imgcodecs Module Code Refactoring and Feature Improvements",
+          "short_description": "The goal of this project is to improve OpenCV\u2019s imgcodecs module by reducing code duplication, enhancing performance, and improving format support....",
+          "student_name": "Suleyman Turkmen",
+          "code_url": null,
+          "proposal_id": "FzxJs56t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hq9jbCAK"
+        },
+        {
+          "title": "Adding libcamera support for VideoCapture",
+          "short_description": "The Raspberry Pi OS Bullseye released with a new open camera stack libcamera, while VideoCapture did not integrate with the new camera backend in...",
+          "student_name": "Xuanrui Zhu",
+          "code_url": null,
+          "proposal_id": "5Pra2qDu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0rdlg60L"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://webchat.freenode.net/#opencv",
+  "contact_email": "mailto:garybradski@gmail.com",
+  "mailing_list": "https://groups.google.com/g/opencv-gsoc-202x",
+  "ideas_url": "https://github.com/opencv/opencv/wiki/GSoC_2025",
+  "guide_url": "https://github.com/opencv/opencv/wiki/How_to_contribute",
+  "twitter_url": "https://twitter.com/opencvlibrary",
+  "blog_url": "https://open-cv.slack.com/"
+}

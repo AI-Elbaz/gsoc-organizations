@@ -1,0 +1,56 @@
+{
+  "name": "Keptn",
+  "url": "https://keptn.sh/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/keptn/ey8vcewiadqdgplv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "cloud",
+    "devops",
+    "sre",
+    "CloudNative",
+    "Operations"
+  ],
+  "technologies": [
+    "golang",
+    "kubernetes",
+    "angular",
+    "Helm"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/keptn/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integration service for k6",
+          "short_description": "K6 is an open-source tool widely used for load testing. With Keptn\u2019s Quality gates, we can automate the process of evaluating the results of the test...",
+          "student_name": "Jainam Shah",
+          "code_url": "https://github.com/keptn/community/tree/main/mentorship/gsoc/2022/projects/k6-integration-service",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0xICJhw8/"
+        },
+        {
+          "title": "Integration for GitOps-based Deployment Tools (e.g. ArgoCD/Flux)",
+          "short_description": "To be able to use GitOps tools in combination with keptn, the main goal of this project is to find a proper way how the tools could interact with...",
+          "student_name": "Meha Bhalodiya",
+          "code_url": "https://github.com/keptn-sandbox/keptn-flux-integration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yHHRfVz2/"
+        },
+        {
+          "title": "New Documentation Site Engine",
+          "short_description": "My project will be Making a New Documentation Site Engine for Keptn which can handle a large number of documentations projects of Keptn. Currently,...",
+          "student_name": "Rajiv Ranjan Singh",
+          "code_url": "https://github.com/iamrajiv/GSoC-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/whEHkPZx/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://keptn.sh/community/#slack",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/keptnProject",
+  "blog_url": "https://keptn.sh/community/newsletter/"
+}

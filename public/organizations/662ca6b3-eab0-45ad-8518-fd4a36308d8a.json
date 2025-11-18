@@ -1,0 +1,92 @@
+{
+  "name": "KolibriOS Project Team",
+  "url": "https://kolibrios.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kolibrios-project-team/mrtxpzuxixjqff62-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "hardware",
+    "desktop",
+    "drivers",
+    "lowlevel",
+    "kernel",
+    "operating system",
+    "OS",
+    "low-level"
+  ],
+  "technologies": [
+    "fasm",
+    "flat assembler",
+    "x86 assembly",
+    "i386",
+    "i586",
+    "c",
+    "assembly",
+    "asm",
+    "pci"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5678701068943360/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "C layer",
+          "short_description": "writing layer between C and assembler code",
+          "student_name": "Sergei Sakhno",
+          "code_url": "https://github.com/punk-joker/kolibri-c-layer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6693475676323840/"
+        },
+        {
+          "title": "Bit torrent client for KolibriOS",
+          "short_description": "Primary goal of this project is to implement a bit torrent client for KolibriOS.",
+          "student_name": "Utsav_Chokshi",
+          "code_url": "http://chokshiutsav.github.io/BitTorrent/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6132971438342144/"
+        },
+        {
+          "title": "GUI-based FTP client for KolibriOS",
+          "short_description": "The aim is to build a GUI-based FTP client in x86 assembly/FASM. Currently KolibriOS only has a CLI-based FTP client with basic functionality. People...",
+          "student_name": "nisargshah95",
+          "code_url": "https://gist.github.com/nisargshah95/0b431a80713f3239bbdbc43190da0e63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6252078934523904/"
+        },
+        {
+          "title": "KolibriOS. Development of TLS/SSL library",
+          "short_description": "I would like to work on TLS/SSL library for KolibriOS. I am going to write basic version of mbed TLS (used to be PolarSSL). Library will be written...",
+          "student_name": "DenisKarpenko",
+          "code_url": "https://github.com/Bandd-k/TLS-Library",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4568246669803520/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/kolibrios-project-team/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "SDL2 Port for KolibriOS",
+          "short_description": "SDL is a free cross-platform multimedia library that implements an interface to graphics, sound and input devices. This library is actively used when...",
+          "student_name": "arnavbhatt288",
+          "code_url": "https://git.kolibrios.org/KolibriOS/kolibrios/pulls/92",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/U7cf4oma/"
+        },
+        {
+          "title": "NVMe SSD Driver Proposal",
+          "short_description": "NVM Express (NVMe), also referred to as Non-Volatile Memory Host Controller Interface Specification (NVMHCIS), is an open specification documenting...",
+          "student_name": "Abdur Rahman Mansoor",
+          "code_url": "https://codeberg.org/ramenu/kolibrios-nvme-driver",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/W1VYwf7j/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/FeB2NvE6bF",
+  "contact_email": "",
+  "mailing_list": "https://board.kolibrios.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/kolibri_os",
+  "blog_url": "https://board.kolibrios.org"
+}

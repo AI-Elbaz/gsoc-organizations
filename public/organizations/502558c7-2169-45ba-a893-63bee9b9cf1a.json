@@ -1,0 +1,50 @@
+{
+  "name": "Gambit - Software Tools for Game Theory",
+  "url": "http://www.gambit-project.org/",
+  "image_url": "https://lh3.googleusercontent.com/faDGKAqKtiNxDPDEDv1SmKHfv4f8712lvmDDwsKs51EQKYRTUuL7b3SP4Dta-446C57hBoRZg1yYAz-PNLM7b3OUT_C6Np4",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "graphics",
+    "academic projects",
+    "game theory"
+  ],
+  "technologies": [
+    "javascript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6393779032424448/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Best responses representation in bimatrix games",
+          "short_description": "Gambit is the first software for quantitative analysis in game theory. GTE (Game Theory Explorer) is a GUI (Graphical User Interface), it allows...",
+          "student_name": "Amelie HELIOU",
+          "code_url": "https://github.com/gambitproject/jsgte/blob/master/INFOS/amelie.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5583575864836096/"
+        },
+        {
+          "title": "GTE: the Future Tool in Game Theory",
+          "short_description": "I am interested in Gambit and GTE for two reasons. First, I believe that the project provides an incredibly useful tool for any researcher using Game...",
+          "student_name": "Jaume",
+          "code_url": "https://github.com/gambitproject/jsgte/blob/master/INFOS/jaume.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6027418322075648/"
+        },
+        {
+          "title": "Re-design of GTE in Javascript",
+          "short_description": "Gambit is one of the leaders for analyzing games as models of strategic interaction. But it needs to be installed and since people tend to skip over...",
+          "student_name": "Harkirat",
+          "code_url": "https://github.com/gambitproject/jsgte/blob/master/INFOS/harkirat.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5981651687440384/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc-gambit@nash.lse.ac.uk",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/thegambitproj"
+}

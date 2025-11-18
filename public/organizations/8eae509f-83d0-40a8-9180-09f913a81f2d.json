@@ -1,0 +1,48 @@
+{
+  "name": "GnuTLS",
+  "url": "https://gitlab.com/gnutls/gnutls",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnutls/xl8zg8hb6elbg1j4.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "security",
+    "cryptography",
+    "TLS",
+    "DTLS"
+  ],
+  "technologies": [
+    "c",
+    "Cryptography",
+    "TLS"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gnutls",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Enabling HTTP/3 support in Wget2",
+          "short_description": "This project will upgrade the popular command-line tool Wget2 to support the latest HTTP/3 protocol. Due to this, the users will get the advantage of...",
+          "student_name": "Harshmohan Kulkarni",
+          "code_url": "https://gitlab.com/gnuwget/wget2/-/merge_requests/527",
+          "proposal_id": "rP8hlPEF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TQBKKYlM"
+        },
+        {
+          "title": "Add support for Encrypted Client Hello (ECH)",
+          "short_description": "The TLS Encrypted ClientHello (ECH) extension enables clients to encrypt ClientHello messages, avoid leaking sensitive fields, like the server name...",
+          "student_name": "Pok\u00e9mon",
+          "code_url": "https://peonix.gitlab.io/gnutls-gsoc-2023/",
+          "proposal_id": "7BKtLXvh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/weKJfjhz"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://riot.im/app/#/room/#gnutls:matrix.org",
+  "contact_email": "",
+  "mailing_list": "https://lists.gnupg.org/mailman/listinfo/gnutls-help",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/gnutls"
+}

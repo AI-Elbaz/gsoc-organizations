@@ -1,0 +1,107 @@
+{
+  "name": "Libre Space Foundation",
+  "url": "https://libre.space",
+  "image_url": "https://lh3.googleusercontent.com/yKTJiijknIgJKL-5LXojkyi-tOdVdrZW1ztAlWaPPMM0_X0r_olR9hNakkrVsjHMiortPpajGakaosnfDbU5G6GJEPHGOdoe5BdUpkHNR18",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "hardware",
+    "web applications",
+    "space applications",
+    "software defined radio",
+    "cubesats",
+    "satellite data",
+    "space standards",
+    "spacecraft",
+    "orbital dynamics"
+  ],
+  "technologies": [
+    "python",
+    "django",
+    "c",
+    "c++",
+    "arduino",
+    "raspberry pi",
+    "sdr",
+    "embedded",
+    "space applications",
+    "machine learning",
+    "embedded systems"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6088409171361792/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Machine Learning on Health- Keeping Telemetry for Cubesat Awareness and Diagnostics",
+          "short_description": "The project aims to analyze a satellite set of telemetry to understand links and dependencies among different subsystems. The project should be able...",
+          "student_name": "Aditya Malshikhare",
+          "code_url": "https://hackmd.io/@lEkJZbL-QBKNnUlxfp-O2w/B1TNM3oNr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6654187562074112/"
+        },
+        {
+          "title": "PLUTO DSL in Python",
+          "short_description": "Developing an open source parser for PLUTO that can read PLUTO scripts as input and generate valid Python 3 code from the script.",
+          "student_name": "Vidit Jain",
+          "code_url": "https://gist.github.com/viditjain5598/94d56d90549d6c647972fda909f42f92",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4954010732199936/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6184201612689408/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Python Module for RF Collisions",
+          "short_description": "While observing a satellite from the ground station, it could lead to more than one satellite being visible from the ground station at a given time...",
+          "student_name": "Ravi Charan Nudurupati",
+          "code_url": "https://gitlab.com/librespacefoundation/satnogs/satnogs-collisions",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5393727746473984/"
+        },
+        {
+          "title": "Deep Learning For Cubesat: Behavior Segmentation With Collection Of Contextual Information",
+          "short_description": "The Polaris project used in-spacecraft data to learn and predict its behavior. The project aimed at adding external sources of data, such as orbit...",
+          "student_name": "Adithya Venkateswaran",
+          "code_url": "https://adithyav1511.gitlab.io/the-final-gsoc-blog",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5432831007784960/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5144401537400832/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Expand Events Detection",
+          "short_description": "With the increasing number of satellites launched into space, orbital congestion is escalating ever-more rapidly. This eventually increases the...",
+          "student_name": "Yash Gondhalekar",
+          "code_url": "https://www.poliastro.space/blog/2021/08/22/conclusion-gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6475891361710080/"
+        },
+        {
+          "title": "SatNOGS TX capabilities",
+          "short_description": "Improve the TX capabilities of SatNOGS using Gnu Radio and C++",
+          "student_name": "Michail Raptakis",
+          "code_url": "https://hackmd.io/@mraptakis/ByXwVGKeK",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5739593172779008/"
+        },
+        {
+          "title": "Polaris: Produce rich analysis reports",
+          "short_description": "This project aims to make a tool to use results of Betsi and anomaly detectors to generate customisable and rich analysis Reports and make...",
+          "student_name": "ayush_bansal",
+          "code_url": "https://ayu023ban.medium.com/gsoc-2021-polaris-web-reports-a9f7a5f95939",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4878682815987712/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://libre.space/community",
+  "contact_email": "mailto:info@libre.space",
+  "mailing_list": "https://community.libre.space",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/librespace_fnd",
+  "blog_url": "https://libre.space/category/updates"
+}

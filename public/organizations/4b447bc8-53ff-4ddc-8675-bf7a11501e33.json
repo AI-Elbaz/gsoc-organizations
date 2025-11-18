@@ -1,0 +1,421 @@
+{
+  "name": "Open Robotics",
+  "url": "https://www.openrobotics.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-robotics/6pg3nwfpieq1qmqw-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "robotics",
+    "simulation",
+    "middleware",
+    "fleet management",
+    "Control"
+  ],
+  "technologies": [
+    "ros",
+    "gazebo",
+    "python",
+    "javascript",
+    "c",
+    "c++",
+    "ignition",
+    "Open-RMF"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5925784095031296/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Extend communication outside the LAN",
+          "short_description": "Right now, all the messages sent and received stayed on the same LAN. The goal of the project is to extend this functionality and allow other...",
+          "student_name": "amtj",
+          "code_url": "https://bitbucket.org/ignitionrobotics/ign-transport/commits/all?search=user(Amitoj)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6433512848621568/"
+        },
+        {
+          "title": "Visualizing Joint Solutions in Descartes",
+          "short_description": "The proposed worktries is to visualize the kinematic joint solutions for the trajectories provided by\nDescartes. As the trajectories consist of...",
+          "student_name": "jontromanab",
+          "code_url": "http://wiki.ros.org/reuleaux",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6745622753312768/"
+        },
+        {
+          "title": "ROS Interface for Impedance/Force Control",
+          "short_description": "This proposal discusses a method to build a ROS interface that enable cartesian impedance control for accomplishing autonomous tasks that require...",
+          "student_name": "rkojcev",
+          "code_url": "https://docs.google.com/document/d/140NK1d3ZoY3MhfOzP2rE5i02hJJ4P0HuBD21fE9kBxI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6194767964667904/"
+        },
+        {
+          "title": "Reactive and Adaptive Path Planning Using Sensor Feedback and Operator Input",
+          "short_description": "ROS path planners such as MoveIt! and Descartes are good at finding feasible robot paths that avoid obstacles and optimize motion. In some...",
+          "student_name": "Kentaro Wada",
+          "code_url": "http://wkentaro.com/projects/gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4547228978905088/"
+        },
+        {
+          "title": "Project Proposal for \"Graphical interface for inserting plugins during simulation\" Causevic",
+          "short_description": "In order to add a new plugin Gazebo programmers must change the .world file and restart Gazebo each time [15]. Furthermore modifying source code,...",
+          "student_name": "AlminCausevic",
+          "code_url": "https://alminc91blog.wordpress.com/2016/08/20/first-blog-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4677561640550400/"
+        },
+        {
+          "title": "Extend communication outside the LAN",
+          "short_description": "This project will modify the core library to be able to communicate nodes located in different LANs. This will require to pass in an additional...",
+          "student_name": "nampi",
+          "code_url": "https://bitbucket.org/ignitionrobotics/ign-transport/commits/all?search=user(nadya)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6532774106234880/"
+        },
+        {
+          "title": "integrating gazebojs with gzweb into gazebow.",
+          "short_description": "this project aims to integrate two existing simulation tools, gzweb and gazebojs into a new tool called gazebow, the project involves replacing the...",
+          "student_name": "MohmmadAyman",
+          "code_url": "http://mohmmadayman.tumblr.com/post/149309880411/gazebow-a-gsoc-experience",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4899072699793408/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5991416564023296/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Perception Pipeline Improvements",
+          "short_description": "MoveIt! allows for seamless integration of motion planning functionality and perception is a very important part of it. It supports using Octomap...",
+          "student_name": "Ridhwan Luthra",
+          "code_url": "https://gist.github.com/Ridhwanluthra/7c258e6516db3caaf0635af07a9c5204",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5716959832309760/"
+        },
+        {
+          "title": "ROS Package for Robot Work Cell Discovery",
+          "short_description": "This proposal aims to create a ROS package which will allow any arbitrary robotic manipulator to intelligently explore and map it\u2019s work cell...",
+          "student_name": "Aaditya Saraiya",
+          "code_url": "https://github.com/ros-industrial/workcell_explorer/tree/kf_branch1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6520366214152192/"
+        },
+        {
+          "title": "Upgrade and Improve MoveIt! Setup Assistant integration with Gazebo",
+          "short_description": "This project main objective is to upgrade the MoveIt! Setup Assistant to automatically configure an arbitrary URDF robot to work with ROS Control and...",
+          "student_name": "mmd.ayman",
+          "code_url": "https://github.com/ros-planning/moveit/issues/894",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5936771426680832/"
+        },
+        {
+          "title": "Adding more motion planning libraries to MoveIt",
+          "short_description": "MoveIt was designed to be highly plugin-based and originally supported 3 planning libraries. Today that number has shrunk to 1. There are many good...",
+          "student_name": "Raghavender Sahdev",
+          "code_url": "https://docs.google.com/document/d/1QBHUtTediSPVx-f7GK3NkJbH0fkx7_wqdM994isVWZE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5139957215657984/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5150988804030464/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Gazebo Robotics Simulator Visual Plugin and Sensor Data Visualization",
+          "short_description": "This project focuses on improving Open Robotic's simulators through creating a Gazebo Visual Plugin and Sensor Data Visualization. This will involve...",
+          "student_name": "Tyler Lum",
+          "code_url": "https://gist.github.com/tylerlum/51c6c246419a1ecc107e0b7a28514b9f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5716556221251584/"
+        },
+        {
+          "title": "Migrating Gazebo plugins to ROS2",
+          "short_description": "Gazebo ROS packages (gazebo_ros_pkgs) provides a ROS interface to Gazebo simulations for developers to test their ROS code in a virtual simulation...",
+          "student_name": "Shivesh Khaitan",
+          "code_url": "https://discourse.ros.org/t/migrating-gazebo-plugins-to-ros2/10433",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5719848095580160/"
+        },
+        {
+          "title": "Improved Collision Checking for MoveIt",
+          "short_description": "MoveIt currently only implements discrete collision checking for movements of the controlled robot. A major drawback of discrete collision checking...",
+          "student_name": "jpetit",
+          "code_url": "https://github.com/ros-planning/moveit/issues/1427#issue-429633643",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5398613398650880/"
+        },
+        {
+          "title": "Actor support on Ignition",
+          "short_description": "This project is about migrating skeleton animation, i.e. actors, so they can be loaded into Ignition Gazebo. The work will involve making sure that...",
+          "student_name": "Alex Mingfei Sun",
+          "code_url": "http://mingfeisun.github.io/gsoc-mingfei/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5112531666862080/"
+        },
+        {
+          "title": "Gazebo documentation index",
+          "short_description": "The Gazebo project has a vast set of learning resources in the form of a documentation section, Gazebo tutorials, the QA website, ROS answers and...",
+          "student_name": "Mukul Khanna",
+          "code_url": "https://github.com/osrf/gazebo-doc-index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6054863815835648/"
+        },
+        {
+          "title": "Building a Gazebo overlay for RobotX simulator",
+          "short_description": "The Virtual RobotX (VRX) competition is an international, university-level competition aimed at developing a vehicle in a Gazebo-based simulation...",
+          "student_name": "Rumman Waqar",
+          "code_url": "https://gist.github.com/rummanwaqar/3c994a9a061800d787251cc9c6d0dab4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5961563352072192/"
+        },
+        {
+          "title": "Support creating Windows packages for ROS2 in Bloom",
+          "short_description": "Bloom is the release creation tool for the ROS ecosystem. From a standard package manifest format bloom can generate debian or rpm metadata for...",
+          "student_name": "Zhenye Wu",
+          "code_url": "https://lennonwoo.github.io/2019/08/20/Support-creating-Windows-packages-for-ROS2-in-Bloom-in-GSoC-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5222047293112320/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5551857973329920/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Ignition Gazebo Optical Tactile Sensor Plugin",
+          "short_description": "Tactile sensors allow you to sense physical interactions with the environment. This GSoC project aimed to implement the first step in the simulation...",
+          "student_name": "Marti\u00f1o Crespo \u00c1lvarez",
+          "code_url": "https://gist.github.com/mcres/f151afae2e26f1aeefbb2ee911485b35",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6601986100690944/"
+        },
+        {
+          "title": "Ignition Plotting Tool",
+          "short_description": "This project is about providing the simulation plotting system in ignition to plot ignition-transport messages and ignition gazebo's components...",
+          "student_name": "Amr Elsersy",
+          "code_url": "https://community.gazebosim.org/t/gsoc-2020-plotting-tool-for-ignition/619",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5113989714935808/"
+        },
+        {
+          "title": "Gazebo submarines",
+          "short_description": "Simulate underwater robotics with end effectors to manipulate the environment",
+          "student_name": "Youssef Khaky",
+          "code_url": "https://gist.github.com/Youssef-Khaky/e253521ed16344475546c2357b16d321",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5368244665319424/"
+        },
+        {
+          "title": "RVIZ based on Ignition Rendering Library",
+          "short_description": "RViz has undeniably been a key component of every ROS developer during the development of their robot\u2019s software stack. With the recent development...",
+          "student_name": "Sarathkrishnan Ramesh",
+          "code_url": "https://github.com/ignitionrobotics/ign-rviz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5565647368486912/"
+        },
+        {
+          "title": "Demos for ignition knowledge base",
+          "short_description": "this is my initial proposal introducing myself, ideas and timeline of the project. looking forward to hearing your reply",
+          "student_name": "Mohamed Ahmed Hassan",
+          "code_url": "https://community.gazebosim.org/t/new-ignition-gazebo-demos/613",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4804799985352704/"
+        },
+        {
+          "title": "Proposal for joining Robotics Middleware Framework running scenarios Project",
+          "short_description": "I am proposing to be part of the Robotics Middleware Framework running scenarios project. I am interested in multi-robot management because it is...",
+          "student_name": "Jiarong Qian",
+          "code_url": "https://gist.github.com/MakinoharaShouko/a6dce1b8c1bcd15b90b8835ee3ef9b2f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6528192858292224/"
+        },
+        {
+          "title": "Sensor data visualization",
+          "short_description": "The rendering component of Gazebo has been moved to its own library, Ignition Rendering, and is now part of the Ignition Robotics project. The works...",
+          "student_name": "Mihir Kulkarni",
+          "code_url": "https://github.com/mihirk284/GSoC2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5810108686139392/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5698036243628032/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "New GUI widgets in Ignition Gazebo",
+          "short_description": "Ignition Gazebo is the next generation of the Gazebo robotics simulator. This project involves porting a list of GUI widgets from Gazebo classic to...",
+          "student_name": "Atharva Pusalkar",
+          "code_url": "https://github.com/atharva-18/GSoC2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5553775305031680/"
+        },
+        {
+          "title": "Machine Learning Extension to Ignition Gazebo",
+          "short_description": "The project is about providing Ignition Gazebo with features of datasets generation to improve deep learning models training by implementing varies...",
+          "student_name": "Amr Elsersy",
+          "code_url": "https://community.gazebosim.org/t/gsoc-2021-machine-learning-extension-to-ignition-gazebo/1070",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5640022945955840/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open-robotics/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improving Gazebo\u2019s Mesh Format Support",
+          "short_description": "The project aims to extend Gazebo\u2019s mesh loading support by either (A) Using an external open-source library or (B) Writing glTF2 and FBX mesh...",
+          "student_name": "Onur Berk T\u00f6re",
+          "code_url": "https://github.com/gazebosim/gz-common/issues/374",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6XjQo6WM/"
+        },
+        {
+          "title": "Tools for creating new ignition projects",
+          "short_description": "Setting up a new ignition gazebo project currently is a non-trivial task with a lot of boilerplate and CMake involved. The project aims to solve it...",
+          "student_name": "Harsh Mahesheka",
+          "code_url": "https://github.com/gazebosim/gz_pkg_create/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cDF2TzVm/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/open-robotics",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Dynamic wrench application through the GUI",
+          "short_description": "Currently in Gazebo, it is complicated for the user to exert external forces and torques to objects during the simulation. In this project, I will...",
+          "student_name": "Henrique Barros Oliveira",
+          "code_url": "https://community.gazebosim.org/t/gsoc-2023-dynamic-wrench-application-through-the-gui/2227",
+          "proposal_id": "iPvkQU7r",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pGR7C6Xq"
+        },
+        {
+          "title": "Automatically Compute Moments of Inertia for SDFormat Links",
+          "short_description": "Physically plausible inertial parameters like the mass, center of mass, moments of inertia etc. are required for an accurate simulation. Since...",
+          "student_name": "Jasmeet Singh",
+          "code_url": "https://github.com/jasmeet0915/GSoC23-OpenRobotics",
+          "proposal_id": "pYX8pA9r",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KCQn6Rm8"
+        },
+        {
+          "title": "Improve maritime support in Gazebo",
+          "short_description": "The goal of this project is to extend the simulation capabilities of Gazebo in the maritime domain. Some examples of potential ideas are wave...",
+          "student_name": "Tejal Barnwal",
+          "code_url": "https://gist.github.com/tejalbarnwal/3367d8ff93ae48c7df949e4cca60c27c#file-work_summary-md",
+          "proposal_id": "iUdNmR3p",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/G0iveggC"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-robotics/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Physics-based Sonar Simulation for Underwater Robotics",
+          "short_description": "In any area of autonomous robotics, a simulation environment that captures a real scenario as accurately and efficiently as possible is essential for...",
+          "student_name": "Helena Moyen",
+          "code_url": "https://discourse.ros.org/t/gsoc-2024-migration-of-project-dave-to-ros-2-and-harmonic-worlds-models-and-plugins/39313",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/agiVoKmm/"
+        },
+        {
+          "title": "Benchmarking Physics Engines",
+          "short_description": "A wide variety of robotics applications strongly rely on simulator performance. While many open-source simulators/physics engines are available, each...",
+          "student_name": "Yaswanth Gonna",
+          "code_url": "https://gist.github.com/yaswanth1701/d9ac86875046d827d65f6f48963a13c7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Z5JjlB0f/"
+        },
+        {
+          "title": "Physics-based Sonar Simulation for Underwater Robotics",
+          "short_description": "The project aims to migrate and improve a physics-based multi-beam sonar simulation, adapting it to ROS 2 and Gazebo environments. Key aspects...",
+          "student_name": "Gaurav9920",
+          "code_url": "https://discourse.ros.org/t/gsoc-2024-migrating-the-project-dave-and-building-physics-based-sonar-simulation-for-underwater-robotics/39315",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RUV9Qsla/"
+        },
+        {
+          "title": "Gazebo Effortless Installations",
+          "short_description": "Implement a variety of new mechanisms to use a pre-installed Gazebo which helps users and developers to enjoy a simple experience of running the...",
+          "student_name": "sauk2",
+          "code_url": "https://github.com/gazebo-tooling/setup-gazebo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/V77ItSzx/"
+        },
+        {
+          "title": "Physics-based Sonar Simulation for Underwater Robotics",
+          "short_description": "The objective of the \"Physics-based Sonar Simulation for Underwater Robotics\" project is twofold: firstly, to transition to ROS2 and integrate with...",
+          "student_name": "Rakesh Vivekanandan",
+          "code_url": "https://dave-ros2.notion.site/035afb7e34fe441b8c8153b50b4ab14a?v=d54cc8422868455888cc629d8e6117a9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Kvh1aVFE/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-robotics",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improvements to ROS 2 Tracing",
+          "short_description": "This project focuses on enhancing ROS 2 tracing by enabling it to start after an application has already launched without losing essential...",
+          "student_name": "Deva Shravan",
+          "code_url": null,
+          "proposal_id": "PtimqPmQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/quKpaaVA"
+        },
+        {
+          "title": "Physics-based sonar simulation and new examples with commonly used hardware for underwater robotics",
+          "short_description": "The multibeam sonar is a ray-based plugin designed to simulate the physics of acoustic signal propagation, including phase and reverberation effects....",
+          "student_name": "Helena Moyen",
+          "code_url": null,
+          "proposal_id": "n7NnXzvd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/d2fAACfv"
+        },
+        {
+          "title": "C/C++ Struct to ROS Message Converter",
+          "short_description": "This project aims to create a tool that can automatically convert C/C++ structs into ROS 2 Message (.msg) files. It enables users to use their...",
+          "student_name": "Himaj Joshi",
+          "code_url": null,
+          "proposal_id": "tomB7FqE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NueAeoVg"
+        },
+        {
+          "title": "Modernization and Improvements of VCSTool",
+          "short_description": "Vcstool is a meta version control tool that simplifies working with multiple repositories and is commonly used in ROS and Gazebo environments. It is...",
+          "student_name": "Leander",
+          "code_url": null,
+          "proposal_id": "HtBRWiUY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jg1C10qE"
+        },
+        {
+          "title": "Improvements to ROS 2 Doctor",
+          "short_description": "Prerequisites: Ubuntu and ROS 2 development environment, no need for specialized hardware. Necessary programming skills: Familiarity with...",
+          "student_name": "Michael Carlstrom",
+          "code_url": null,
+          "proposal_id": "ZamltwZR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/v0mqB5fO"
+        },
+        {
+          "title": "Multi-Agent Traffic Optimization",
+          "short_description": "This project aims to enhance the multi-agent traffic debugging tool in Open-RMF's site editor for stress testing the multi-agent path finding (MAPF)...",
+          "student_name": "Nielsen Cugito",
+          "code_url": null,
+          "proposal_id": "JuyigxfM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/C1UJI3IF"
+        },
+        {
+          "title": "Multi-Agent Traffic Optimization + Infrastructure improvements.",
+          "short_description": "I am Ryan, a college student finishing their last semester for a bachelors in computer science. My contribution to the multi-agent traffic...",
+          "student_name": "rydb",
+          "code_url": null,
+          "proposal_id": "KX9VrzH5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2L1pxAFK"
+        },
+        {
+          "title": "Ray tracing enabled Faster-Than-Real-Time GPU based LiDAR plugin for Gazebo",
+          "short_description": "LiDAR (Light Detection and Ranging) plays a key role in autonomous navigation and 3D perception. To test and train LiDAR equipped systems...",
+          "student_name": "Shashank Rao",
+          "code_url": null,
+          "proposal_id": "rLHrX5M5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5l83pXn9"
+        },
+        {
+          "title": "Hardware Diagnostics Support for ros2_control",
+          "short_description": "The ros2_control framework uses a plugin-based system to support multiple hardware drivers at the same time. It takes care of resource constraints...",
+          "student_name": "Soham Sanjay Patil",
+          "code_url": null,
+          "proposal_id": "BBlN9uGP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/f6FbwO7Y"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://wiki.ros.org/Get%20Involved",
+  "contact_email": "mailto:gsoc@openrobotics.org",
+  "mailing_list": "http://www.ros.org/contribute/",
+  "ideas_url": "https://github.com/osrf/osrf_wiki/wiki/GSoC25",
+  "guide_url": "https://github.com/osrf/osrf_wiki/wiki/GSoC25#application-template-for-students",
+  "twitter_url": "https://twitter.com/OpenRoboticsOrg",
+  "blog_url": "https://discourse.ros.org/"
+}

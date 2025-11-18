@@ -1,0 +1,43 @@
+{
+  "name": "Quill.org",
+  "url": "https://quill.org",
+  "image_url": "https://lh3.googleusercontent.com/CHPiRA9590fHfBQ02NwN2zhkYtvjaI6DpI44mOuXOOoLeE3JtIwYx_0_k3-hb-W2QndF65EjL22oVy3fAeNXvk75fa2QWfc",
+  "image_background_color": "#00c3a2",
+  "category": "Web",
+  "topics": [
+    "education",
+    "web",
+    "machine learning",
+    "nlp",
+    "edtech"
+  ],
+  "technologies": [
+    "postgresql",
+    "javascript",
+    "react",
+    "ruby",
+    "rails"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4724462213660672/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Increasing Backend Test Coverage",
+          "short_description": "The aim is to increase the test coverage around the backend rails api codebase. Right now it has around 45% coverage. I aim to improve it by making...",
+          "student_name": "gaurav rakheja",
+          "code_url": "https://docs.google.com/document/d/12anRdtdsqLtbBKLw0bqDX-T4BVjQ8GhA6IzltwF6FCk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6218246403391488/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://community.quill.org/join-slack/",
+  "contact_email": "mailto:gsoc@quill.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/quill_org",
+  "blog_url": "https://medium.com/writing-with-quill"
+}

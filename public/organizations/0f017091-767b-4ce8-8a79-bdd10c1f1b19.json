@@ -1,0 +1,143 @@
+{
+  "name": "Micro Electronics Research Lab - UITU",
+  "url": "https://www.merledupk.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/micro-electronics-research-lab-uitu/el9byq6f4dfc1y77-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "iot",
+    "embedded",
+    "Processor",
+    "System on Chip",
+    "RISC-V"
+  ],
+  "technologies": [
+    "RISCV",
+    "Processor",
+    "Hardware",
+    "systemonchip",
+    "memory"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/micro-electronics-research-lab-uitu/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Development of a Python compiler for a resource-efficient SRAM-based TCAM",
+          "short_description": "TCAM is used to search contents stored in memory. Although it is faster compared to SRAM it has disadvantages including increased size, higher energy...",
+          "student_name": "Usman Siddique",
+          "code_url": "https://github.com/merledu/OpenTCAM",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hUU6NiA5/"
+        },
+        {
+          "title": "Add FuseSoC support at SoC level for Azadi-SoC and Rebase ibex core with the latest commit.",
+          "short_description": "The project aims to \u201cAdd FuseSoC support at SoC level for Azadi-SoC and Rebase ibex core with the latest commit\u201d. As currently, The ibex core used in...",
+          "student_name": "NAMEER IQBAL ANSARI.",
+          "code_url": "https://medium.com/@n.i.ansari200/gsoc22-a-summer-of-opportunity-95b9b2bb9232",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lkRwPJpN/"
+        },
+        {
+          "title": "Integration of Compressed (C) extension in NucleusRV core",
+          "short_description": "The project deals with the integration of RISC-V Compressed Extension into the NucleusRV core. For most embedded processors, the size of programmable...",
+          "student_name": "Abdul Wadood",
+          "code_url": "https://github.com/merledu/nucleusrv/pull/42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8tdgm8kB/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/micro-electronics-research-lab-uitu",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "TileLink Uncached Heavyweight (TL-UH) implementation in Azadi-SoC",
+          "short_description": "In this proposal, I am going to introduce the steps needed to upgrade Tilelink Uncached Lightweight (TL-UL) bus protocol to TL-UH (Tilelink Uncached...",
+          "student_name": "Doaa Magdy",
+          "code_url": "https://medium.com/@doaa.magdy2001/cf7eb9f18030",
+          "proposal_id": "8n5tteHL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3TI8MLxs"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/micro-electronics-research-lab-uitu/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Vaquita Vector Coprocessor",
+          "short_description": "Summary The project aims to enhance Nucleus RV Core by adding the RISC-V Vector Extension (RVV v1.0) as a co-processor. Key objectives include...",
+          "student_name": "Mohammad Latif",
+          "code_url": "https://github.com/merledu/vaquita/tree/dev/coprocessor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FWHAVeL5/"
+        },
+        {
+          "title": "Baby Kyber Accelerator",
+          "short_description": "The \"Baby Kyber Accelerator\" project aims to address the increasing demand for secure communication by developing a specialized hardware accelerator...",
+          "student_name": "Hamna Mohiuddin",
+          "code_url": "https://github.com/merledu/baby-kyber-accelerator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iISfNW7k/"
+        },
+        {
+          "title": "ASIC Design of OpenTCAM Generated IPs using  OpenLane and GF180/SKY130",
+          "short_description": "This project involves generating layouts and GDSII files for IPs produced with OpenTCAM, utilising diverse memory structure configurations. TCAM IPs...",
+          "student_name": "V Vignesh Karthik",
+          "code_url": "https://docs.google.com/document/d/1RyiSrMlSLs147ZgP9A4RI5sU28C5j37xG8wvEun2aY8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/pO06UABK/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/micro-electronics-research-lab-uitu",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Automated UVM Tuning Orchestrated Via AI Reasoning",
+          "short_description": "Verification in hardware design is a time-consuming and complex task as well as requires manual effort to update UVM testbench components...",
+          "student_name": "Abdul_Rehman",
+          "code_url": null,
+          "proposal_id": "itmofYhd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YT9iUEa6"
+        },
+        {
+          "title": "Integrating TCAM IP into Chipyard via MMIO and RoCC Interfaces",
+          "short_description": "This project focuses on integrating a Ternary Content Addressable Memory (TCAM) module into the Chipyard SoC framework to enable high-speed parallel...",
+          "student_name": "Atharva Nerkar",
+          "code_url": null,
+          "proposal_id": "GneBxDbb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Se9wHIpD"
+        },
+        {
+          "title": "AEGIS - AI-Enhanced Generation of Intelligent Scenarios",
+          "short_description": "AEGIS automates hardware verification by using AI to generate optimized test cases. Parses Specifications: Extracts key features (interfaces,...",
+          "student_name": "Mahnoor_Ismail",
+          "code_url": null,
+          "proposal_id": "yvn9vaKo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/82d7SM6N"
+        },
+        {
+          "title": "Running Secure and Vectorized Applications on SoC-Now",
+          "short_description": "This project aims to develop and benchmark high-performance applications that leverage the modular SoC-Now platform, which integrates RISC-V cores, a...",
+          "student_name": "Muhammad Hussain_017",
+          "code_url": null,
+          "proposal_id": "IITBY5yG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bUMTw353"
+        },
+        {
+          "title": "PyUVM-Based General Testbench for RISC-V Cores",
+          "short_description": "As RISC-V adoption continues to grow, verifying functional correctness across various implementations becomes increasingly challenging due to the...",
+          "student_name": "Nitin Grandhi",
+          "code_url": null,
+          "proposal_id": "G7IKXnHS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qoZg4Pu7"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/BZC54d7a",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/merledu/Google-Summer-of-Code/wiki/GSoC'25-Project-Ideas-List",
+  "guide_url": "https://github.com/merledu/Google-Summer-of-Code/wiki/GSoC-Proposal-Template",
+  "twitter_url": "https://twitter.com/merluit"
+}

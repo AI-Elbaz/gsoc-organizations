@@ -1,0 +1,830 @@
+{
+  "name": "The Mifos Initiative",
+  "url": "https://mifos.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-mifos-initiative/etmiqn0lkvfxvm5p-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "big data",
+    "cloud",
+    "mobile",
+    "fintech",
+    "financial inclusion",
+    "mobile banking",
+    "digital financial services",
+    "microfinance",
+    "web",
+    "ai",
+    "artificial intelligence"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "android",
+    "java",
+    "angularjs",
+    "spring",
+    "angular",
+    "kotlin"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5830829079003136/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Self - Service | Web/Hybrid App Development",
+          "short_description": "The aim of this project is to enable clients  to interact with their own data and transact in a self-service manner.It would allow the users to view...",
+          "student_name": "Adhyan",
+          "code_url": "http://ad-os.github.io/blog/gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6720901726863360/"
+        },
+        {
+          "title": "Mobile Money Integration in West and Central Africa.",
+          "short_description": "This project involves building a standalone application for the Mifos platform. This application will enable and allow mobile money transactions such...",
+          "student_name": "Daniel Carlson",
+          "code_url": "https://gist.github.com/DanCarl857/e72ea96ac12726709cce02953b6986d2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5699866936213504/"
+        },
+        {
+          "title": "Browser-Based Offline Access",
+          "short_description": "Add offline support in community-app so that we can have same application working on all browsers with offline support without the need of desktop...",
+          "student_name": "mbj36",
+          "code_url": "https://docs.google.com/document/d/1q8C163gFmhLYTPZ95MgtxSb8sW3TYLY9kRemmrqCeb4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5085384086126592/"
+        },
+        {
+          "title": "AngularJS Community App Enhancements",
+          "short_description": "The AngularJS Community App is the standard application on the Mifos X platform that provides all the core functionality for the most common methods...",
+          "student_name": "Fossa",
+          "code_url": "https://gsoc-2016-mifosx-by-kamdjouduplex.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6213615354904576/"
+        },
+        {
+          "title": "Android Field Operations App Version 3",
+          "short_description": "The Mifos Android Client is currently in version 2. Recently, significant new enhancements\nincluding refactoring, implementation of material design,...",
+          "student_name": "Rajan Maurya",
+          "code_url": "https://github.com/openMF/android-client/commits/master?author=therajanmaurya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6242235406352384/"
+        },
+        {
+          "title": "Mifos Credit bureau Integration",
+          "short_description": "Currently, there is no feature for reporting credit history in Mifos. This feature is optional and may be incorporated based on the requirements of...",
+          "student_name": "Nikhil Pawar",
+          "code_url": "https://nikpawar89.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4909757504684032/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5486404108812288/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "AngularJS Web App Enhancements",
+          "short_description": "The community-app (AngularJS Web app) is the standard application which is built on top of the Fineract platform and provides all the core...",
+          "student_name": "Gopala (gkrishnan724)",
+          "code_url": "https://docs.google.com/document/d/1YWSP2ek2gNdTufpPkFCVD1fHC7fNVgfHo6fUd6QvM8M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5668834455322624/"
+        },
+        {
+          "title": "Self Service app Version 2.0",
+          "short_description": "Self Service 2.0\nThe development phase of Self Service app 2.0 includes :-\n\nNew Features like sign up , displaying user details , updating user...",
+          "student_name": "Dilpreet",
+          "code_url": "https://medium.com/@dilpreet2028/my-gsoc-journey-with-mifos-initiative-a9d0834f347f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4979766276915200/"
+        },
+        {
+          "title": "Two-Factor Authentication for Mifos",
+          "short_description": "Fintech software requires strong overall security as there is a lot of sensitive information stored. All aspects of the solutions have to be secure....",
+          "student_name": "Aleksandar Ivanov",
+          "code_url": "https://gist.github.com/MegaAlex/1d03f19680981d4146276aa4f91ff945",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5125657726025728/"
+        },
+        {
+          "title": "AngularJS Web App Enhancements",
+          "short_description": "The AngularJS Community App is the standard application on the Mifos X distribution that provides all the core functionalities for the most common...",
+          "student_name": "Courage Angeh",
+          "code_url": "https://gist.github.com/Anh3h/ad945ffeb2064dc31f103e150879f0c6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5261241253625856/"
+        },
+        {
+          "title": "Self Service \u2013USSD Application",
+          "short_description": "Even with a very basic mobile phone, the solution allows the users to gain direct control to their finances and perform basic banking activities of...",
+          "student_name": "Kumaranath Fernando",
+          "code_url": "https://docs.google.com/document/d/1cZ9tkLbcUMUTAGpgaJYEALkFQHEcXTEKloMRFolv2ro/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5608016376233984/"
+        },
+        {
+          "title": "Self Service Web App",
+          "short_description": "The self-service web app needs to be developed from scratch, A set of API are available for the smooth development of the project. The proposal...",
+          "student_name": "Raunak Sett",
+          "code_url": "https://docs.google.com/document/d/1ZOA4ZiV2uEbn4Q8Sj-wf3YFYvZP7U20XWm5L0EtNXQk/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4636272777756672/"
+        },
+        {
+          "title": "Self-Service - Android App Version 2.0",
+          "short_description": "Though Mifos recently released a client facing API to enable clients to interact with their own data through self service channels. Previously all...",
+          "student_name": "Vladimir Fomene",
+          "code_url": "https://gist.github.com/vladimirfomene/37bd38a289d0e9a0570b132735002868",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4920774095798272/"
+        },
+        {
+          "title": "Browser-Based Offline Access",
+          "short_description": "Browser-Based Offline Project aims to run the Mifos Community web app offline. User can access the web even without any internet connection but they...",
+          "student_name": "Mohit Kumar Bajoria",
+          "code_url": "https://gist.github.com/mbj36/105c47ccc10890cc4c71582ad63cff23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5784180365459456/"
+        },
+        {
+          "title": "Mobile Wallet Framework",
+          "short_description": "This project aims to create a mobile wallet framework based on top of Fineract and clean architecture. This mobile wallet framework will provide a...",
+          "student_name": "Naman Dwivedi",
+          "code_url": "https://github.com/openMF/mobile-wallet",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5863386004848640/"
+        },
+        {
+          "title": "Android Field Officer v4",
+          "short_description": "The current android app (v3) for Bank Staff Officers has several features. However, there is a vast scope of improvements and feature enhancements...",
+          "student_name": "Tarun Mudgal",
+          "code_url": "http://tarun-mudgal.blogspot.in/2017/08/gsoc-2017-experience.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5969571823484928/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5355478070591488/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Containerization And Deployment Of Apache Fineract CN Using Docker, Docker Compose And Docker Swarm",
+          "short_description": "Apache Fineract CN is an  Application Framework for Digital Financial Services. It is a system to support nationwide financial transactions and to...",
+          "student_name": "Courage Angeh",
+          "code_url": "https://gist.github.com/Anh3h/760fe3313e5a7cad753899dbfe067679",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5060024451727360/"
+        },
+        {
+          "title": "Mobile Wallet 2.0",
+          "short_description": "Mobile Wallet 2.0 is about giving financial independence to their client, by providing financial services to all with transparency and reducing...",
+          "student_name": "Ankur Sharma",
+          "code_url": "https://gist.github.com/ankurs287/d9ef88cedcebe678f09fd555b17c7546",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5071215056125952/"
+        },
+        {
+          "title": "Online Baking App 2.0 (UPDATE)",
+          "short_description": "Currently, the Mifos-X platform is bank staff facing. Self Service Web Application enables end-user Customers to log in to view/transact on the...",
+          "student_name": "Ankit Raj Ojha",
+          "code_url": "https://gist.github.com/ankit01ojha/fe46be98bf69883c37e4497ca4f1e076",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5098183625539584/"
+        },
+        {
+          "title": "Payment Gateway And Mobile Money Integration",
+          "short_description": "Mobile money is rapidly transforming financial inclusion by providing more immediate, impactful, affordable, and secure financial services to the...",
+          "student_name": "Sanyam Goel",
+          "code_url": "https://gist.github.com/Sanyam96/8374c7094e6ca4fa4c6f67ec836adeb1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5637869485948928/"
+        },
+        {
+          "title": "Mifos-Mobile - App Version 3.0",
+          "short_description": "This year the project aims to extend the services provided to the end-user customer by   -\n\nAdding a chat extension to improve communication between...",
+          "student_name": "Manish  Kumar",
+          "code_url": "https://gist.github.com/ivary43/2021a4f8b9202884e7ed52128cedcccf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6238891237441536/"
+        },
+        {
+          "title": "Machine Learning Build Model and Predict Module",
+          "short_description": "Building a library that would take customer and transactional data as input to identify Good/Bad Loans, Frauds and other risk management activities...",
+          "student_name": "Lalit Mohan Sanagavarapu",
+          "code_url": "https://gist.github.com/lalitsanagavarapu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4585966564016128/"
+        },
+        {
+          "title": "Android Field Operations App Version 5",
+          "short_description": "This project would extend the existing version and transform it into Version 5 - by extending offline synchronization, adding additional...",
+          "student_name": "Aksh Gautam",
+          "code_url": "https://medium.com/@gaksh007/my-gsoc-journey-with-mifos-initiative-7165a961ea55",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4793761913634816/"
+        },
+        {
+          "title": "Mifos X Web App",
+          "short_description": "Mifos X Web App is the revamped version of the Mifos X Community App, an effective financial inclusion solution and the default web application built...",
+          "student_name": "abhaychawla",
+          "code_url": "https://gist.github.com/abhaychawla/7e4d6644c78b8fd6d0f5bcd5d3c166ee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4938219313430528/"
+        },
+        {
+          "title": "Mifos/Fineract Chatbot & Adapter Application",
+          "short_description": "This project is about building Chatbot and its adapter layer to promote user fetching information conveniently.",
+          "student_name": "Dingfan",
+          "code_url": "https://gist.github.com/ZhaoDingfan/9a4644b5b7c6ec4b924b47057d367961",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5959600184492032/"
+        },
+        {
+          "title": "Scalability & Performance Enhancements",
+          "short_description": "The platform is now fully fledged to support the core banking needs of the community. With the growing demands of clients ranging from several...",
+          "student_name": "Kumaranath Fernando",
+          "code_url": "https://docs.google.com/document/d/18_awblHsI3uZmc7f80Q5HljAGwc2XhIpYOlOtW_-In0/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5973842296045568/"
+        },
+        {
+          "title": "Fineract CN Mobile 2.0",
+          "short_description": "The Fineract CN Mobile 2.0 app is a step closer to achieving Mifos aim of speeding the elimination of poverty by enabling financial service providers...",
+          "student_name": "Mohak Puri",
+          "code_url": "https://github.com/mohak1712/fineract-cn-mobile-1/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6313147799437312/"
+        },
+        {
+          "title": "Mifos Mobile - Android App Version 3.0",
+          "short_description": "Enhancing the Mifos Self-Service App to newer functionality, better UI, and finally producing solid shippable product.\n1) Adding Support for applying...",
+          "student_name": "Saksham Handu",
+          "code_url": "https://gist.github.com/miPlodder/2c872981e9a05be7e5fe65f5f05c31f9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5213956079616000/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4585661988864000/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Computer Vision Based PPI Tool",
+          "short_description": "The PPI (Poverty Probability Index) is a powerful tool to measure poverty index and also a yard stick to measure the progress and impact of poverty...",
+          "student_name": "Apoorva M K",
+          "code_url": "https://gist.github.com/apoorva-mk/a6661ca04b9b6b5d098e8bee41c35ddf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6411607809196032/"
+        },
+        {
+          "title": "Mifos X Web App Angular 6 Rewrite",
+          "short_description": "Mifos X Web App is the revamped version of the Mifos X Community App, an effective financial inclusion solution and the default web application built...",
+          "student_name": "abhaychawla",
+          "code_url": "https://gist.github.com/abhaychawla/6cbb79aceec7ad516097e9083543c785",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6129253236604928/"
+        },
+        {
+          "title": "Mifos/Fineract Chatbot & Adapter 2.0",
+          "short_description": "Mifos/Fineract Chatbot and Adapter 2.0 is next iteration of the project. This project idea aims to provide integration between chatbot and Mifos,...",
+          "student_name": "Anshul Singh",
+          "code_url": "https://gist.github.com/iosdev747/2b7de87cd9b028bb97433ee2e26ad18d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5015711762612224/"
+        },
+        {
+          "title": "Fiinwallet Hybrid Mobile App",
+          "short_description": "The Project mainly aims to add some new features as well as enhance the ongoing to an in-development mobile wallet app where people can open a basic...",
+          "student_name": "MANISH  KUMAR",
+          "code_url": "https://gist.github.com/manigedit/542031cfaff35325d19409a73cb8c6c6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5074359960469504/"
+        },
+        {
+          "title": "Fineract CN mobile",
+          "short_description": "I would be working on the following features, and some additional features which are mentioned in my proposal based on Community remarks,\n1) Add...",
+          "student_name": "Saksham Handu",
+          "code_url": "https://gist.github.com/miPlodder/c1cec05d019bef444401004eb0453efe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5086491951235072/"
+        },
+        {
+          "title": "mifos-mobile-cn",
+          "short_description": "mifos-mobile-cn is an Android app for Digital Financial services that is built on top of FIneract-CN platform. It provides banking solutions for...",
+          "student_name": "Abhijit Ramesh",
+          "code_url": "https://gist.github.com/abhijitramesh/807768da9097455ae2823c6fc47523bf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5367966927945728/"
+        },
+        {
+          "title": "Scorecard for Credit Risk Assessment",
+          "short_description": "Develop Interfaces for Credit Risk Assessment Scorecard. Develop UI interfaces, API layer and DB for setting up Features, their relation and criteria...",
+          "student_name": "Supreeth S Karan",
+          "code_url": "https://gist.github.com/SupreethSudhakaranMenon/a20251271adb341f949dbfeb035191f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4647500659556352/"
+        },
+        {
+          "title": "Mobile Wallet - Android App Version 3.0",
+          "short_description": "Mobile Wallet is an Android-based framework for mobile wallets based on top of Fineract. The app follows the clean architecture and contains a core...",
+          "student_name": "Shivansh Tiwari",
+          "code_url": "https://gist.github.com/shiv07tiwari/acb5a7266fe685e8332498fd32b00bf0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4788226420637696/"
+        },
+        {
+          "title": "Mifos Mobile - Android App Version 4.0",
+          "short_description": "The Mifos mobile application is all built on top of the Apache Fineract 1.x client-facing APIs to enable self-service channels for clients to...",
+          "student_name": "PRASHANT KHANDELWAL",
+          "code_url": "https://gist.github.com/prashantkh19/ee02d6955ee17c3e44e6253c175caf97",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4792884983758848/"
+        },
+        {
+          "title": "Online Banking App 3.0",
+          "short_description": "Throughout the Summer I will be devoted to contributing and working on various modules and making sure that it complies with the terms and standards...",
+          "student_name": "CajetanRodrigues",
+          "code_url": "https://gist.github.com/CajetanRodrigues/b2b14b55f0f2c97ea276eb764209c4d9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6099288675844096/"
+        },
+        {
+          "title": "Upgrade android-client field officer app to v6.0.",
+          "short_description": "Planned features:\n[OPTIONAL]  Scheduler Jobs UI.\nContinued refactoring and performance improvements. \nImprove UI and workflows.\nImplement TOTP based...",
+          "student_name": "Dylan Robson",
+          "code_url": "https://gist.github.com/DylanRobson/5353817529f37d477f3b480dc0166343",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4869513827319808/"
+        },
+        {
+          "title": "Android Field Operations App Version 6",
+          "short_description": "Field Officer Application is an application developed for the Bank staff field officer to keep track of Clients, Centers, Groups, Loan Account,...",
+          "student_name": "Moksh Mahajan",
+          "code_url": "https://gist.github.com/moksh-mahajan/cf080d66b72659713dbc8336ca19976e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4957721583943680/"
+        },
+        {
+          "title": "Mifos X Web App Angular 6 Rewrite",
+          "short_description": "Mifos Community App is the default web application built on top of the Apache Fineract platform. It is maintained by the Mifos Initiative as a...",
+          "student_name": "Jivjyot Singh",
+          "code_url": "https://gist.github.com/Jov03/feb00a8a921668cf0ee9cd725ee881a2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5949731656695808/"
+        },
+        {
+          "title": "Integrate Mifos Payment Hub with GSMA Mobile Money APIs",
+          "short_description": "This project aims to extend the existing Mifos Payment Hub by integrating it with the GSMA Mobile Money APIs and present a working demonstration of...",
+          "student_name": "Sidhant Gupta",
+          "code_url": "https://gist.github.com/sidhant-gupta-004/090a9e95b3066e5dd0f8f6005ea60d04",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5211799836688384/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6055344943398912/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Computer Vision Based PPI Tool Version 2.0",
+          "short_description": "The Poverty Probability Index (PPI) is a poverty measurement tool for organizations and businesses with a mission to serve the poor.  A PPI survey...",
+          "student_name": "Yash Khare",
+          "code_url": "https://gist.github.com/yashk2000/b471cf090b739d901bf723a1741c9b40",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6356815610118144/"
+        },
+        {
+          "title": "Build GSMA Mobile Money API Connector for Mifos Payment Hub",
+          "short_description": "As part of our DIAL-funded project to integrate Mifos with the open source Mojaloop payments platform the team from DPC consulting built out a...",
+          "student_name": "Subham Pramanik",
+          "code_url": "https://gist.github.com/SubhamPramanik/905ea87b83dd0b6af62af18ca0c0c1ea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6367235938975744/"
+        },
+        {
+          "title": "Mifos Android SDK",
+          "short_description": "Mifos Android SDK is a library focused on providing a simple interface to interact with the Apache Fineract 1.x Platform APIs. Currently, in all the...",
+          "student_name": "Chinmay Kulkarni",
+          "code_url": "https://gist.github.com/Grandolf49/f79537436a467dac0baa9458a38290c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5697083836727296/"
+        },
+        {
+          "title": "Implementing Digital Bank/Challenger Bank for staff (back-office) on Fineract CN",
+          "short_description": "Apache Fineract CN is an Application Framework for Digital Financial Services.  It is a system to support nationwide financial transactions and to...",
+          "student_name": "Abhijeet Khangarot",
+          "code_url": "https://gist.github.com/abhi40308/21cf6f1ac78efe309faaf6a0d6d971e4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5412582954893312/"
+        },
+        {
+          "title": "Implementing configuration wizard in the web app and additional screens and workflow in Payment Hub EE Operations UI app.",
+          "short_description": "The project aims to implement a configuration wizard in the web app for the ease of new users to understand the workflow of web app and initial...",
+          "student_name": "Ashutosh Sharma",
+          "code_url": "https://gist.github.com/spider0061/965c8867490802af94bb28d931fa908e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5439973169299456/"
+        },
+        {
+          "title": "Computer Vision Based PPI Tool Version 2.0",
+          "short_description": "The Poverty Probability Index (PPI\u00ae) is a poverty measurement tool for organizations and businesses with a mission to serve the poor.  The PPI is...",
+          "student_name": "Mehul Arora",
+          "code_url": "https://gist.github.com/humbletechy/43e7322913af561fdd7db5d4962d59a7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5508293281185792/"
+        },
+        {
+          "title": "Mifos Open Banking Framework & Application",
+          "short_description": "Open Banking is seen as the Future of Fintech as it is revolutionising the way we manage our money. Mifos Open Banking Application would re-energise...",
+          "student_name": "Ankur Sharma-1",
+          "code_url": "https://gist.github.com/ankurs287/4ef7c3de462073bf36bd5247479cb176",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5522811008843776/"
+        },
+        {
+          "title": "Android Field Operations",
+          "short_description": "Android Field operation application based on Mifos X is a robust core banking platform that is developed for field officers using which they process...",
+          "student_name": "Shashank Priyadarshi",
+          "code_url": "https://gist.github.com/robustTechie/85e9fde225be7926a77b1dd08c9906d1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5531332492394496/"
+        },
+        {
+          "title": "Credit Bureau Integration Phase 3",
+          "short_description": "Credit Bureau Integration Phase 3 will aim to extend the modules and also to create a base infrastructure.",
+          "student_name": "Rahul Pawar",
+          "code_url": "https://rrpawar96.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6168895926304768/"
+        },
+        {
+          "title": "Fineract CN Mobile 4.0",
+          "short_description": "Fineract-CN-Mobile is an Android app for Digital Financial services, that is built on top of the FIneract-CN platform. It provides banking solutions...",
+          "student_name": "Ahmad Jawid Muhammadi",
+          "code_url": "https://gist.github.com/jawidMuhammadi/9fa91d37b1cbe43d9cdfe165ad8f2102",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5243447880974336/"
+        },
+        {
+          "title": "Mifos Mobile 5.0",
+          "short_description": "Mifos Mobile is a mobile banking app that allows financial institutions using MifosX or Apache Fineract to provide an omnichannel banking experience...",
+          "student_name": "Shivangi Singh",
+          "code_url": "https://gist.github.com/ShivangiSingh17/67b6041387c1e281caa7df23347f549e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5575436840468480/"
+        },
+        {
+          "title": "Mifos X Web App Angular 7 Rewrite",
+          "short_description": "Mifos X is a platform for delivering financial services. Mifos web-app serves as the main view of the financial platform. It is a revamped version of...",
+          "student_name": "Muskan Khedia",
+          "code_url": "https://gist.github.com/muskankhedia/b0929cbf2ae6236bfe07964a140da179",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6213437555736576/"
+        },
+        {
+          "title": "Mifos Mobile CN 3.0 - Mobile Banking App for Fineract CN",
+          "short_description": "Mifos Mobile CN is a reference mobile banking app on top of the Apache Fineract CN architecture, which allows a client to securely authenticate...",
+          "student_name": "Garvit Agarwal",
+          "code_url": "https://gist.github.com/garvit984/d420845e42a63628cf82c7dde1360233",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4806062672183296/"
+        },
+        {
+          "title": "Conversion of Mifos Mobile to Kotlin",
+          "short_description": "Mifos Mobile is an Android Application built on top of the MifosX Self-Service platform for end-user customers to view/transact on the accounts and...",
+          "student_name": "Ashwin Ramakrishnan",
+          "code_url": "https://gist.github.com/ashwinkey04/7bea77a5b5880023234b04dd68214c66",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6538482861735936/"
+        },
+        {
+          "title": "Mobile Wallet - Android Application Version 4.0",
+          "short_description": "Mobile Wallet is an Android-based framework for digital wallet use cases based on top of the Apache Fineract 1.x platform. The project follows the...",
+          "student_name": "Devansh Aggarwal",
+          "code_url": "https://gist.github.com/devansh-299/e2041c07d9ab55a747391951e9090df4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4892175592062976/"
+        },
+        {
+          "title": "Online Banking App 4.0",
+          "short_description": "Propsosal to bring up the Online banking app utilising self service APIs and Open Banking Standards",
+          "student_name": "Manish Kumar-M",
+          "code_url": "https://gist.github.com/manigedit/bca72537151afde40a3246776cb22503",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5136392365015040/"
+        },
+        {
+          "title": "Mifos X Web App Angular 7 Rewrite",
+          "short_description": "Mifos X Web App is the revamped version of the Mifos X Community App, an effective financial inclusion solution and the default web application built...",
+          "student_name": "Karan Takalkar",
+          "code_url": "https://gist.github.com/karantakalkar/7a4acb83f31ebfe4f3b827c86c67eec0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5162133110652928/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-mifos-initiative/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Proposal for Machine Learning Scorecard for Credit Risk Assessment Phase 5",
+          "short_description": "The core of this project is a credit assessment engineer for Fineract, which provides client SDK and plugins to integrate into the platform. Phase 5...",
+          "student_name": "Ziwei Cao",
+          "code_url": "https://github.com/Zavier-opt/fineract-federatedLearning-research/blob/main/READEME.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/sAnco83F/"
+        },
+        {
+          "title": "Machine Learning Scorecard for Credit Risk Assessment Phase 5",
+          "short_description": "The Machine Learning Scorecard Phase - 5 is a project listed as a part of the GSoC\u201922 program. The project involves making significant improvements...",
+          "student_name": "Suchith Krishna S Donni",
+          "code_url": "https://gist.github.com/sksDonni/53887ee6744330c4c8fbc1e18367331c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jQVBjutq/"
+        },
+        {
+          "title": "Adding New Features Or General Improvements In Mifos-Mobile-CN Application & Fixing Its Bugs.",
+          "short_description": "The main aim of my project is to add some new features & solve various major issues or Bugs in the mifos-mobile-cn app and at the same time also...",
+          "student_name": "Prashant830",
+          "code_url": "https://gist.github.com/Prashant830/176a7b1eada19a63ba02ed5b6e449593",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HNZAVvEu/"
+        },
+        {
+          "title": "Refactor Android Client & Rewrite using Android SDK",
+          "short_description": "Last summer, Fineract Android SDK was generated, which is a Java and Retrofit2 based library. It mainly focused on building an abstraction layer over...",
+          "student_name": "Avinaash M Vijayvargiya",
+          "code_url": "https://gist.github.com/avinash14022002/56a04b0288c353a6f91ef2fcecb4e139",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fPK0E7Ar/"
+        },
+        {
+          "title": "Build UI Library of common components across all mobile apps",
+          "short_description": "This project would focus on implementing common designs and UI elements across the Mifos apps to provide a consistent look and feel. Project goals...",
+          "student_name": "Rahul Gill",
+          "code_url": "https://gist.github.com/rahul-gill/6700c366627a2c7007a07b96ff6c0785",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Jkpvna9G/"
+        },
+        {
+          "title": "Computer Vision Based PPI Tool Version 3.0",
+          "short_description": "Refinement and Advancement of an AI-powered that leverages Machine Learning and Google's Cloud Vision to capture responses for the 10-question...",
+          "student_name": "Harsh_Vardhan",
+          "code_url": "https://mifosforge.jira.com/wiki/spaces/~62ecf99350bd9783f62bd9db/blog/2022/09/11/3186425918/GSOC+2022+Work+Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IihNBSwo/"
+        },
+        {
+          "title": "Mifos X Web App Enhancements",
+          "short_description": "In 2020 Mifos Web-App was upgraded to Angular 9 and almost completed the rewrite of the Web-App. Now some Enhancement, Optimization, and remaining...",
+          "student_name": "Ramveer",
+          "code_url": "https://gist.github.com/ramvr1256/11c197b038250e7394462e8687ef15f8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jQtDvYXT/"
+        },
+        {
+          "title": "Introducing Lombok to Reduce Getters/ Setters and Mapstruct to map REST DTO to Entity Objects",
+          "short_description": "Apache Fineract is a secure, multi-tenanted microfinance platform. The goal of the Apache Fineract API is to empower developers to build apps on top...",
+          "student_name": "Hemant Gupta",
+          "code_url": "https://gist.github.com/hmg65/430c1dd4d05b5f1bbd7081597ea90418",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JyHrWiAk/"
+        },
+        {
+          "title": "Integrating an IAM system with Payment-Hub",
+          "short_description": "The Problem: There's no IAM System for Payment Hub. Why is this a problem? As of now, we have to deal with authenticating each user for every...",
+          "student_name": "AnmolGupta",
+          "code_url": "https://github.com/ganmol123/Gsoc-2022-Anmol-Gupta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZtjNCalQ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-mifos-initiative",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Fineract Modularization",
+          "short_description": "This project aims to modularize Fineract, an open-source financial services platform, by creating independent Java libraries that can be used be used...",
+          "student_name": "Abhinav Sinha",
+          "code_url": "https://medium.com/@abhinav7.sinha/gsoc-2023-mifos-initiative-work-product-a03fe87073a9",
+          "proposal_id": "EyLCh82Y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rNVQgU0u"
+        },
+        {
+          "title": "Mifos Mobile 6.0 - Mobile Banking App - GSoC proposal for The Mifos Initiative",
+          "short_description": "Mifos Mobile is an android application designed for client use, which facilitates user authentication, account information viewing and editing, as...",
+          "student_name": "Abhishek Gururani",
+          "code_url": "https://gist.github.com/gururani-abhishek/0aec195d1affcf4303c770e72f641a8f",
+          "proposal_id": "8sfQ6TZg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BjEIeqaA"
+        },
+        {
+          "title": "Creating a deployable package for Mifos/Fineract, Payment Hub EE, and Mojaloop",
+          "short_description": "The goal of this project is to develop a cli-based software deployer that will allow anyone to quickly spin up a payment stack consisting of Fineract...",
+          "student_name": "Elijah Okello",
+          "code_url": "https://elijah-gsoc.gitbook.io/mojafos/project/final-submission",
+          "proposal_id": "fy4kQPAn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oQk6Gmup"
+        },
+        {
+          "title": "Mifos X Vulnerability Assessment and Penetration Testing Project Proposal",
+          "short_description": "My mission is to perform a vulnerability assessment and penetration testing engagement on the Mifos X web application, and the Apache Fineract APIs,...",
+          "student_name": "Kerlyn Manyi",
+          "code_url": "https://kerlynnkep.github.io/gsoc23/",
+          "proposal_id": "KAKiObGl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6WMs3ijB"
+        },
+        {
+          "title": "OpenG2P  - Digital Identity Proof of Concept with MOSIP",
+          "short_description": "The aim of this project is to enhance the online banking experience by providing a secure and smooth integration between Mifos, a financial account...",
+          "student_name": "Meghna Bajoria",
+          "code_url": "https://gist.github.com/meghnabajoria/fd1ead0534ab8b470950fa85d3c6965c",
+          "proposal_id": "aIwNjvsQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PrBZtvtd"
+        },
+        {
+          "title": "Mifos Mobile 6.0 - Mobile Banking App",
+          "short_description": "Mifos Mobile is an android application built on top of the MifosX Self-Service platform for end-user customers to view/transact on the accounts and...",
+          "student_name": "Pratyush Singh",
+          "code_url": "https://gist.github.com/PratyushSingh07/a016afeb66d9b66b5aa01d232b10d788",
+          "proposal_id": "1WM1yvwj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PVH24XE9"
+        },
+        {
+          "title": "Mifos X Web App Enhancements",
+          "short_description": "The project Mifos X Web App Enhancements aims to optimize the design of key flows, improve app localization, add in better context-sensitive help,...",
+          "student_name": "Pushpendra Kumar",
+          "code_url": "https://gist.github.com/PC-11-00/8f726c2a6719c7493accbaa58bcfb047",
+          "proposal_id": "1FfLPQ8J",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/C8LhVwKG"
+        },
+        {
+          "title": "Functional Enhancements to Mobile Wallet",
+          "short_description": "My objective for GSoC 2023 is to elevate our Mobile Wallet to become a benchmark implementation of a cutting-edge and reliable mobile wallet...",
+          "student_name": "Rachit Gupta - @rchtgpt",
+          "code_url": "https://docs.google.com/document/d/1xHDVzmxuBj5KA0vHiJS_UGrs0Zb6IrpqwRmSdW3uExM/edit?usp=sharing",
+          "proposal_id": "8dT6Z1sm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/esX4evaK"
+        },
+        {
+          "title": "Mifos X Web App Enhancements",
+          "short_description": "The Mifos X Web Enhancements project seeks to enhance localization, internationalization, and adapt web app to consume Typescript client for improved...",
+          "student_name": "Radha Ravindra Thakare",
+          "code_url": "https://gist.github.com/radhathakare/367e2aef18b206e3219ae9e6db06a56d",
+          "proposal_id": "rAQPqIyZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/H1yeEAEQ"
+        },
+        {
+          "title": "Security Penetration Testing",
+          "short_description": "Mifos X and Apache Fineract are widely used by financial institutions of all different sizes and methods around the world. This project is focused on...",
+          "student_name": "Yash Sancheti",
+          "code_url": "https://gist.github.com/Onyx2406/0a0f6b7e8d88a436f74e9d7387fc62f4",
+          "proposal_id": "7GfuJBx9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/47jBQlPG"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-mifos-initiative/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Functional Enhancements to Mobile Wallet for G2P Use Cases",
+          "short_description": "My objective for GSoC 2024 is to elevate the Mifos Mobile Wallet to become a benchmark implementation of a cutting-edge and reliable mobile wallet...",
+          "student_name": "Aditya Kumdale",
+          "code_url": "https://gist.github.com/AdityaKumdale/83324009b2e676f8fbc623df4f953497",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NWUl9PZz/"
+        },
+        {
+          "title": "Bank Statement Analysis (AI)",
+          "short_description": "The opportunity to assist Mifos achieve its goal of \"Ending Poverty One Line of Code at a Time,\" excites me. Working on bank statement analysis (AI)...",
+          "student_name": "Akshat Sharma 11",
+          "code_url": "https://gist.github.com/Akshat111111/2f5212f95dab3e6ab6cf12ee7aef5584",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YsVBcGdT/"
+        },
+        {
+          "title": "Mifos X Web App Enhancements",
+          "short_description": "The objective of the Mifos X Web App Enhancements project is to refine essential workflows, enhance app localization, integrate more comprehensive...",
+          "student_name": "Vikesh Kumar",
+          "code_url": "https://gist.github.com/vikashsprem/de573a3ea89d55c08eb5eb91474738e6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JLCf8L6w/"
+        },
+        {
+          "title": "Community Support for AI (MIFOS)",
+          "short_description": "The following points will be completed by the end of the projects: \u25cf Data collection. \u25cf Data preprocessing \u25cf Choosing and implementing an AI solution...",
+          "student_name": "Shubham_Pal",
+          "code_url": "https://gist.github.com/shubhampal62/f7e5331dc58af05f19e959f847c9d3e5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zcUTZDiV/"
+        },
+        {
+          "title": "Machine Learning Scorecard for Credit Risk Assessment Phase 6",
+          "short_description": "The proposal outlines a comprehensive plan to enhance the model's accuracy and efficiency, coupled with new user interface (UI) integrations. First,...",
+          "student_name": "Parth Kaushal",
+          "code_url": "https://github.com/openMF/scorecard-ai",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TEMI9947/"
+        },
+        {
+          "title": "Mifos X Web App Enhancements",
+          "short_description": "Our proposal aims to enhance the Mifos X Web App by addressing existing issues, redesigning key dashboard pages, implementing new features...",
+          "student_name": "Omar Nabil",
+          "code_url": "https://gist.github.com/Omar-Nabil/29c15796df1abcba7f3bb85f344d2e8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6JmXEKRK/"
+        },
+        {
+          "title": "Micro Front-ends Proof of Concept for Fineract 1.x  & Mifos X",
+          "short_description": "The project **Micro Front-ends Proof of Concept for Fineract 1.x & Mifos X** aims to propose and design architecture for the micro-frontend approach...",
+          "student_name": "PC_11",
+          "code_url": "https://gist.github.com/PC-11-00/d8a68cd653208b678818dc66e0c5c29a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/p3dFL1bk/"
+        },
+        {
+          "title": "Functional Enhancements to Mobile Wallet for G2P Use Cases",
+          "short_description": "The project focuses on the enhancement and refinement of a feature-rich and secure Mobile Wallet application tailored for Government to Person (G2P)...",
+          "student_name": "Pratyush Singh",
+          "code_url": "https://gist.github.com/PratyushSingh07/6509549e64dbee0d695b98c6657a17b2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EjdFZorM/"
+        },
+        {
+          "title": "Mifos Mobile 6.0 - Mobile Banking App",
+          "short_description": "Mifos Mobile is an Android Application built on top of the MifosX Self-Service platform for end-user customers to view/transact on the accounts and...",
+          "student_name": "Avneet_Singh",
+          "code_url": "https://gist.github.com/AvneetSingh2001/5922dbbd905cd5f5e5f8ad3c0313fc4c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OzI0UpE6/"
+        },
+        {
+          "title": "Refactor Android Client & Rewrite using Android SDK",
+          "short_description": "Android Client is a mobile application that allows bank staff field officers to keep track of clients, centers, groups, loan accounts, saving...",
+          "student_name": "Aditya Gupta 99",
+          "code_url": "https://gist.github.com/Aditya-gupta99/f0bad77037ae76f32dddb933b6cb1c2a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MKUuEld3/"
+        },
+        {
+          "title": "Phase 2 of Reducing the Boilerplate Code using Jackson and Lombok",
+          "short_description": "The project aims to enhance Fineract's codebase by reducing boilerplate code using Jackson and Lombok. This involves transitioning the API layer to...",
+          "student_name": "Zeyad Nasef",
+          "code_url": "https://gist.github.com/Zeyad2003/2906643085b408f4e7718f81592f150c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/pxKTLC5J/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-mifos-initiative",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Reactive Loan Risk Assessment Engine for Mifos",
+          "short_description": "Provide financial institutions with real-time insights into loan risk, helping them make better lending decisions. A reactive backend ensures the...",
+          "student_name": "Abhinav R Cillanki",
+          "code_url": null,
+          "proposal_id": "dTGax7Ha",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/v2MnBbus"
+        },
+        {
+          "title": "AI bot for community support",
+          "short_description": "The Mifos community has grown significantly over the years, along with the increasing number of projects and discussions happening across its...",
+          "student_name": "Aru Sharma",
+          "code_url": null,
+          "proposal_id": "xRV5rENJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ffITbKjg"
+        },
+        {
+          "title": "AI-Driven Architectural Test for MIFOS Payment Hub EE",
+          "short_description": "The MIFOS Payment Hub EE (PH-EE) is a microservice-based financial infrastructure requiring high availability, security, and resilience. However,...",
+          "student_name": "Azah Norbline",
+          "code_url": null,
+          "proposal_id": "cvm3k0hc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SHr7TT0a"
+        },
+        {
+          "title": "Build new Modern Web UI for Mifos X using ShadCN Reusable Components",
+          "short_description": "This project proposes building a new, modern web UI for Mifos X using React, Tailwind CSS, TypeScript, and ShadCN components. The new Mifos X will be...",
+          "student_name": "Craig Rosario",
+          "code_url": null,
+          "proposal_id": "PQsVVIjf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/A2cgOvZ1"
+        },
+        {
+          "title": "Mifos Gazelle: Support for ARM",
+          "short_description": "The problem I am trying to solve is to add ARM support. Right now, when the CircleCI pipeline is triggered, it pushes a Docker image that only...",
+          "student_name": "Devarsh D Shah",
+          "code_url": null,
+          "proposal_id": "KphnwOht",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6mc2LbTU"
+        },
+        {
+          "title": "Usability Improvements for Mifos X Web App",
+          "short_description": "The Mifos X Web App is an important tool that helps provide financial services to people around the world. This project aims to make the app easier...",
+          "student_name": "Gopi Kishan",
+          "code_url": null,
+          "proposal_id": "WKvoD8zG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SbIHv90C"
+        },
+        {
+          "title": "Making Mobile Wallet Deployment-Ready for G2P and Merchant Use Cases",
+          "short_description": "The Mifos Mobile Wallet is a powerful reference application aimed at accelerating financial inclusion. However, to be effectively used in real-world...",
+          "student_name": "Hekmatullah Amin",
+          "code_url": null,
+          "proposal_id": "abZfC7Rc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/isymcaV0"
+        },
+        {
+          "title": "Integrate Mifos X with Workflow Engine/Process  Automation Tool",
+          "short_description": "As stated in the Mifos Forge, Users of Mifos have long had a need to have greater control and flexibility over creating loan and customer onboarding...",
+          "student_name": "Hossam Hatem Ragab",
+          "code_url": null,
+          "proposal_id": "Q9a6NGc9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eyVE2lTg"
+        },
+        {
+          "title": "Generative AI to Improve Mifos Documentation",
+          "short_description": "The Mifos and Apache Fineract platforms, while offering comprehensive core banking solutions, present challenges in documentation due to their...",
+          "student_name": "Keshav Arora",
+          "code_url": null,
+          "proposal_id": "UbuerORo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RaFQCvIE"
+        },
+        {
+          "title": "Extend and Evolve UI Library of common components across all Mobile Apps",
+          "short_description": "This project aims to address the inconsistency and redundancy found across customer-facing mobile applications built on the Mifos and Fineract...",
+          "student_name": "Saksham_Gupta",
+          "code_url": null,
+          "proposal_id": "icGD4gCz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/94oYzKFZ"
+        },
+        {
+          "title": "Kotlin Multiplatform App Template Framework",
+          "short_description": "I propose to enhance the Mifos Initiative's Kotlin Multiplatform (KMP) Multi-Module Project Generator to streamline cross-platform application...",
+          "student_name": "Sk Niyaj Ali",
+          "code_url": null,
+          "proposal_id": "GIKah1xN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hJVB1kT5"
+        },
+        {
+          "title": "Mifos Gazelle: Profile/Demo Creator",
+          "short_description": "This project focuses on enhancing the deployment experience of Mifos Gazelle by introducing a flexible, profile-based approach. It aims to simplify...",
+          "student_name": "yashsharma127",
+          "code_url": null,
+          "proposal_id": "hmQtZFY1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pzO8onoq"
+        },
+        {
+          "title": "Credit Bureau Integration Phase 5: Plugin-Based Credit Bureau Integration and FICO Scoring",
+          "short_description": "This project proposes to improve Mifos X's loan origination capabilities by introducing a flexible, plugin-based architecture for integrating credit...",
+          "student_name": "Yu Wati Nyi",
+          "code_url": null,
+          "proposal_id": "3WrM2IvT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GhKSEn86"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://bit.ly/mifos-slack",
+  "contact_email": "mailto:info@mifos.org",
+  "mailing_list": "https://mifos.org/resources/community/communications/",
+  "ideas_url": "https://mifosforge.jira.com/wiki/spaces/RES/pages/4271669249/Google+Summer+of+Code+2025+Ideas",
+  "guide_url": "https://mifosforge.jira.com/wiki/spaces/RES/pages/4456638/Application+Template",
+  "twitter_url": "https://twitter.com/mifos",
+  "blog_url": "https://linkedin.com/company/mifos"
+}

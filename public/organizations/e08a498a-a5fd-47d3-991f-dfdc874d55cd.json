@@ -1,0 +1,56 @@
+{
+  "name": "Open Chromosome Collective",
+  "url": "https://open2c.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-chromosome-collective/ef70feamp2pdisjj.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "genomics",
+    "bioinformatics",
+    "data science",
+    "python"
+  ],
+  "technologies": [
+    "python",
+    "numpy",
+    "scikit-learn",
+    "pandas",
+    "HDF5"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-chromosome-collective/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Development of use case tutorials for Bioframe",
+          "short_description": "The BioFrame Python library is a powerful tool designed for operations and analysis of genomic intervals, enabling users to effortlessly load genomic...",
+          "student_name": "Talip Zengin",
+          "code_url": "https://talipzengin.github.io/Projects/GSoC_Final_Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8Q9kqy1U/"
+        },
+        {
+          "title": "Rust-based acceleration of bioframe using polars and a new API to access assembly metadata",
+          "short_description": "This project aims to enhance the bioframe library developed by Open2C, an organization that creates software for analyzing genomic data. A key focus...",
+          "student_name": "Alejandro Gonzales-Irribarren",
+          "code_url": "https://alejandrogzi.github.io/pages/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fHBnxNYD/"
+        },
+        {
+          "title": "Developing a binary pair format",
+          "short_description": "Problem: Storing Hi-C contacts in a gzipped .tsv format, which is mainly used in pairtools, cause major slowdowns for computations and storing....",
+          "student_name": "Olesia Slavska",
+          "code_url": "https://gist.github.com/ayaksvals/78461940b34a2360c92e9461e2ed37c9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/C4D2p1sF/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/qVfSbDYHNG",
+  "contact_email": "open.chromosome.collective@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/Open2C_team"
+}

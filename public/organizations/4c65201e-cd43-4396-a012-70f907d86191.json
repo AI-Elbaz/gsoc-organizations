@@ -1,0 +1,588 @@
+{
+  "name": "Chromium",
+  "url": "https://chromium.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/chromium-lj/qiwhezblvq2a0jgc-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "web",
+    "browser",
+    "operating-system"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "c++",
+    "git"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4857406487527424/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "End-to-end tests for DLP (Data Leak Prevention)",
+          "short_description": "Chrome browser and Chrome OS use Chrome Enterprise policies for added controls and configurations. \nThere is a new Data Leak Prevention Policy  for...",
+          "student_name": "Vishal Chaudhary",
+          "code_url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1132208",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5695428728717312/"
+        },
+        {
+          "title": "Sample Diagnostics App for ChromeOS",
+          "short_description": "The idea is to build a sample diagnostics tool for ChromeOS using web technologies. This tool will be a combination of a Progressive Web App and a...",
+          "student_name": "Aayush Joglekar",
+          "code_url": "https://github.com/MahmoudAGawad/cros-diag-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6173757894295552/"
+        },
+        {
+          "title": "Hiding Issues in the Issues Panel in Chrome DevTools",
+          "short_description": "The aim of this project is to augment the functionality of the Issues tab in Chrome Devtools by giving users the ability to Hide issues in the Issues...",
+          "student_name": "Rahat Muneeb",
+          "code_url": "https://docs.google.com/document/d/1p3ucb6cjuIa72aMQLnuJHvniX1j4lNewvy28C39oAdo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5623956647706624/"
+        },
+        {
+          "title": "WebStatus Developer Tooling",
+          "short_description": "The project aims at making the following modifications to chromestatus.com:-\n\nMigrate WebStatus from Python 2 to Python 3\nImplement a RoadMap view...",
+          "student_name": "Shivam Agarwal",
+          "code_url": "https://shivamag00.github.io/chromium-dashboard/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4683558425198592/"
+        },
+        {
+          "title": "Implement ClosedTabCache",
+          "short_description": "Implement a cache for closed tabs, such that reopening a recently closed tab will be instantaneous.",
+          "student_name": "Tobias Soppa",
+          "code_url": "https://gist.github.com/tobiassoppa/71a14274bc66037d9d1b6c5fa50adb36",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6021770074652672/"
+        },
+        {
+          "title": "WebView Components UI",
+          "short_description": "Android WebView is an Android framework component that is developed under the Chromium Project. WebView is embedded inside other Android apps but it...",
+          "student_name": "A5hut05h",
+          "code_url": "https://docs.google.com/document/d/1VBHlOSZtS9UnNN8rrA8zF5MwoyAXuGnFrhVWOHdfHOE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4868581589778432/"
+        },
+        {
+          "title": "Porting ChromeOS Power Policy End-to-End Tests",
+          "short_description": "At present, integration tests for few Power Policies in ChromeOS utilize autotest for automated testing using special debugging devices (servo). The...",
+          "student_name": "Bisakh Mondal",
+          "code_url": "https://blog.bisakh.com/blog/gsoc-chromium-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5772631235624960/"
+        },
+        {
+          "title": "Automating Puppeteer\u2019s Documentation - Tasneem Koushar",
+          "short_description": "Our challenge is to finish the remaining work to move Puppeteer\u2019s Documentation into a documentation that will update its content with any new change...",
+          "student_name": "Tasneem Koushar",
+          "code_url": "https://gist.github.com/tasneemkoushar/941128bc0d04f095fa01a5334617c65b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5934530094956544/"
+        },
+        {
+          "title": "Productionize XNNPACK Machine Learning Backend for Chrome OS",
+          "short_description": "Chrome OS enables fast and relatively low energy-consuming by utilizing TensorFlow Lite and hardware ML accelerators. The hardware accelerators are...",
+          "student_name": "Wenhe Li",
+          "code_url": "https://chromium-review.googlesource.com/q/owner:wl1508%2540nyu.edu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5195232475348992/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/chromium-lj/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Automate Drag-and-Drop Tests by Suyash Nayan",
+          "short_description": "Blink, which is the rendering engine for Chromium has multiple drag-and-drop API tests that make use of a Chromium-specific automation library and...",
+          "student_name": "Suyash Nayan",
+          "code_url": "https://docs.google.com/document/d/1YnOcebB8JuDRe1tfsXmMnlTw5iKxVTRZ13fncYp3ypY/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/U7o5GqYJ/"
+        },
+        {
+          "title": "Implement IPv4 to IPv6 address synthesis (RFC6052) to utilize the NAT64 on a IPv6 only network.",
+          "short_description": "Implement IPv4 to IPv6 address synthesis (RFC6052), and Pref64://n discovery using domain name \"ipv4only.arpa.\" (RFC7050) so packets will utilise the...",
+          "student_name": "Momoka",
+          "code_url": "https://momoka0122y.hatenablog.com/entry/2022/09/12/024202",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SvPKQKTx/"
+        },
+        {
+          "title": "Improve Mojo IPC fuzzing",
+          "short_description": "Chromium\u2019s multi-process architecture requires a mechanism for safely communicating between its processes. This requirement is addressed by Mojo - an...",
+          "student_name": "Moiseanu Rares",
+          "code_url": "https://docs.google.com/document/d/1vMqeNBEYZrVKurX1yyXUnfSIxwtGJIiMiv0XOkMSMII",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jcaDo8Yw/"
+        },
+        {
+          "title": "Support new IR in V8 Turbolizer",
+          "short_description": "V8 is adding a new intermediate representation (IR) to the TurboFan optimizing JavaScript compiler. The new IR is called TurboShaft. For the old IR,...",
+          "student_name": "Danylo Boiko",
+          "code_url": "https://docs.google.com/document/d/1rUY7PUfxoBI7Ln9hRgqqubrRxhjBN14uZ7f8g2MXXUc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/taspuPOM/"
+        },
+        {
+          "title": "VirtIO Balloon Performance Improvements",
+          "short_description": "ChromeOS often uses virtualization. To share memory efficiently between VMs, it uses the VirtIO Balloon. However, ChromeOS intensifies CPU...",
+          "student_name": "Soichiro Ueda",
+          "code_url": "https://chromium-review.googlesource.com/c/chromiumos/third_party/kernel/+/3893455",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/oWpd8ZlQ/"
+        },
+        {
+          "title": "Expose Render Blocking Status in Resource Timing",
+          "short_description": "Render blocking nature of resources is important to pre-emptively pinpoint exactly at which point content will be rendered on screen. The render...",
+          "student_name": "Abin K Paul",
+          "code_url": "https://gist.github.com/abinpaul1/b555321787b7d4b13e1706b9349f3b87",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qL0QbWdQ/"
+        },
+        {
+          "title": "Audio Worklet for Emscripten",
+          "short_description": "Many developers are using Emscripten to port the existing C/C++ audio code to Web Assembly, but Emscripten is still using deprecated...",
+          "student_name": "Divyam Ahuja",
+          "code_url": "https://github.com/DivyamAhuja/gsoc-chromium-freequeue",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8aeeJZr6/"
+        },
+        {
+          "title": "Improvements to the Mach-O LLD linker",
+          "short_description": "Chromium is built using LLVM\u2019s LLD linker for all platforms. This project aims to make various improvements to the LLD linker, which will ultimately...",
+          "student_name": "Daniel Bertalan",
+          "code_url": "https://gist.github.com/BertalanD/6a11e6e658be7d834870b03fb3e8af7b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fIekpwFn/"
+        },
+        {
+          "title": "Performance APIs spec compliance",
+          "short_description": "The Performance API is a set of web APIs that implement the Performance interface of the High Resolution Time standard. The interface is exposed...",
+          "student_name": "Sohom Datta",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vQiUHVy-xInzBF7jqnZwB_3mcuvtz5GDcIoLprWPCEkspXykQlmjb6CmqdzPhVxgMGrPF7hIJ0_wUl1/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Vqi9wYEF/"
+        },
+        {
+          "title": "ChromeStatus Frontend Modernization and Protocol Re-Architecture",
+          "short_description": "ChromeStatus.com is a website that allows web developers to track all the features in the Chrome browser, including the deprecated, current, and...",
+          "student_name": "Kuan-Hsuan (Kevin) Shen",
+          "code_url": "https://kevinshen56714.github.io/chromestatus-intern/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jas90LA8/"
+        },
+        {
+          "title": "Reducing Chrome\u2019s Presentation Latency on Windows",
+          "short_description": "The current rendering configuration of Chrome on Windows can lead to substantial presentation latency. This project aims to reduce that latency by...",
+          "student_name": "Alex Forrence",
+          "code_url": "https://gist.github.com/aforren1/73461ac3c0b9f6330003453efa04f1aa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RiwyAVic/"
+        },
+        {
+          "title": "Aggregation Jobs Control Plane",
+          "short_description": "Today, in tech, there is currently a data privacy revolution happening and with that companies and organizations must adapt to meet the future needs...",
+          "student_name": "Haroon Mohamedali",
+          "code_url": "https://docs.google.com/document/d/1JJIhGwaUUdkpDWPOkkdiG2rM-q-Sb2q9w935JPtrlb0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0j8x9KMw/"
+        },
+        {
+          "title": "Screenshot Functionality for Support Tool",
+          "short_description": "This project will add screenshot functionality to SupportTool. It can help users take screenshots when reporting the issues they encountered. Users...",
+          "student_name": "Y. Su",
+          "code_url": "https://chromium-review.googlesource.com/c/chromium/src/+/3881892",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Buhmdv7T/"
+        },
+        {
+          "title": "Make Perfetto Perfect: Interaction to Next Paint",
+          "short_description": "On Perfetto, users can get brilliant insights into the performance of applications through trace visualizations and metrics. Recently, core web...",
+          "student_name": "Patricija Cerkaite",
+          "code_url": "https://github.com/Patricijia/GSoC-Perfetto-Metrics",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7Q8N05AW/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/chromium-lj",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Chromium Accessibility Performance",
+          "short_description": "The accessibility code in Chromium is used in Chrome and Edge to enable users of assistive technology to access the web. However, enabling it can...",
+          "student_name": "Ahmed Elwasefi",
+          "code_url": "https://gist.github.com/Ahmad45123/b9084506b33cb30b864e24e4aa9f42da",
+          "proposal_id": "FT9Kn353",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IIh4sFdT"
+        },
+        {
+          "title": "Casting Local Media",
+          "short_description": "The primary objective of this project is to enhance the local media casting experience within Chromium by implementing a range of improvements. These...",
+          "student_name": "Ankit Kiran",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vSYoYA92xwisADrxlRHePm8KkDOCnNebXkOcW53s0PZ-v8xPdsXWZ1pbgBfM-nMNYqZP2K3uPK3ra6g/pub",
+          "proposal_id": "2fj51L5Z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ULtyGXXr"
+        },
+        {
+          "title": "Improving Performance API Code Health",
+          "short_description": "The primary objective of this project is to enhance the code quality, strengthen the test framework, and bolster the reliability of Chromium's...",
+          "student_name": "Ansh_Mishra",
+          "code_url": null,
+          "proposal_id": "XzhPPh8d",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CDKfzWvq"
+        },
+        {
+          "title": "Chrome System Audio Mirroring on macOS and Linux",
+          "short_description": "Casting is a feature of Chrome that allows a tab or a screen to be mirrored to a remote Chromecast-enabled device. Currently, both audio and video...",
+          "student_name": "An\u017ee Le\u0161nik",
+          "code_url": "https://lesnik.cc/google-summer-of-code-2023-at-chromium/",
+          "proposal_id": "yUd768Vv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xZOidcmN"
+        },
+        {
+          "title": "Enhance chrome://policy page",
+          "short_description": "The \"chrome://policy\" page is a URL in the Google Chrome browser that displays a list of policies applied to the browser. These policies determine...",
+          "student_name": "Aryan Kaushik",
+          "code_url": "https://docs.google.com/document/d/1GJDLJnNPA9OOTEvxFTthhRNbtZcDpiSHMOR9IjhPoo4/edit?usp=sharing",
+          "proposal_id": "bff2DCvG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wR9RJpgX"
+        },
+        {
+          "title": "Adding Codecs & Improving UI for squoosh.app",
+          "short_description": "Squoosh is a Progressive Web App (PWA) focusing on image compression - reducing image sizes through numerous formats. You can try out the latest and...",
+          "student_name": "Aryan Milind Pingle",
+          "code_url": null,
+          "proposal_id": "owIEOJo7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NrgtZp7v"
+        },
+        {
+          "title": "Enable & Improve Multi Display Chrome Testing Capabilities",
+          "short_description": "In this project, our aim is to enable the capability for testing multi-display APIs for Chromium, on Windows OS. In order to achieve this, we are...",
+          "student_name": "Avi Mathur",
+          "code_url": "https://docs.google.com/document/d/1Iq8t2GS4lMBcUQK9sNr-_nAiL6jpljw8d9nuy5uFEr4/edit?usp=sharing",
+          "proposal_id": "UiD6eLNJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/EaWBWece"
+        },
+        {
+          "title": "Automate testing of stylus touch pen",
+          "short_description": "This project aims to automate the testing of stylus touch pens with Chromebook using a human motion robot (HMR). Currently, stylus pens or any other...",
+          "student_name": "Douglas Hou Nam Chiang",
+          "code_url": "https://docs.google.com/document/d/1kbG2jdawmTQ2jOYyWvtYBYZ4nSfgnsdMcQP8bp2o990/edit?usp=sharing",
+          "proposal_id": "HKasmQEd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mxPS95Ya"
+        },
+        {
+          "title": "Implement JS filesystem bridge layer for Emscripten",
+          "short_description": "Emscripten is an open-source tool used to translate C/C++ code to WebAssembly, allowing web apps to run with near-native performance. WebAssembly is...",
+          "student_name": "James Hu",
+          "code_url": "https://docs.google.com/document/d/1Prn9B6x_cW7JRA79R6J1OhfyW7crHCAtgmpqEMBl3N4/edit",
+          "proposal_id": "m1v0IBBr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4q0L2ZMW"
+        },
+        {
+          "title": "Enhancing Web Development on Chromium: Accessibility Improvement in Chromium DevTools",
+          "short_description": "In an effort to improve the web development experience on Chromium, this project aims to add an efficient way to access Media panels to help debug...",
+          "student_name": "Jeremy Yoo",
+          "code_url": "https://gist.github.com/joonyoo181/dfadc41ef9740c7ecb126096f264b646",
+          "proposal_id": "WvYPKL5k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JBA9iOkF"
+        },
+        {
+          "title": "Improve AR/VR experience on Web",
+          "short_description": "The goal of this project is to develop a debugging page called \"xr-internals\" to help developers debug and optimize AR/VR web applications. The page...",
+          "student_name": "Mahmoud Tawfik",
+          "code_url": "https://gist.github.com/mahmoudahmedd/57d5ada258756d49420608c3cad07596",
+          "proposal_id": "DrHxiZCl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4EVJm10k"
+        },
+        {
+          "title": "Enhancing Media Privacy in Chromium's Incognito Mode",
+          "short_description": "Google Chromium's Incognito Mode currently has a privacy issue where the media metadata of the browser can be displayed in operating systems' media...",
+          "student_name": "Manuel Palenzuela Merino",
+          "code_url": "https://docs.google.com/document/d/1FuqY9tTvkKNdOPYpdBvSH-jDqvY878x7yIIDYrQC6vs",
+          "proposal_id": "s1ECqfuQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HdCyydGz"
+        },
+        {
+          "title": "Improving INP Metric by Exposing InteractionId to a Wider Range of Events",
+          "short_description": "Imagine typing a cheerful \"hello\ud83d\ude01\" on your keyboard, expecting a smooth and quick response, but instead, the browser stumbles, struggling to keep up...",
+          "student_name": "Patricija Cerkaite",
+          "code_url": "https://patricijia.github.io/GSoC-2023/",
+          "proposal_id": "fkNb1DG9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xaBTCCjG"
+        },
+        {
+          "title": "Integrate references into ChromeStatus.com",
+          "short_description": "ChromeStatus.com is a web application developed by Google to track feature launches in Blink, the browser engine that powers Chrome and many other...",
+          "student_name": "Pingren Nie",
+          "code_url": "https://github.com/GoogleChrome/chromium-dashboard/issues?q=author%3Apingren",
+          "proposal_id": "PKpk5kHP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Zs47D7ZH"
+        },
+        {
+          "title": "Chromium GSoC Proposal: Test History for wpt.fyi",
+          "short_description": "Currently, there is a good visual for the results of the current and most up to date test runs, but there is not an intuitive way to easily view the...",
+          "student_name": "Rachel Russell",
+          "code_url": "https://racheljay.github.io/code-blog/2023/09/05/gsoc-wrap-up.html",
+          "proposal_id": "1MAI56kw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/sU6WDtYa"
+        },
+        {
+          "title": "Migrate mv2 samples to mv3 and increase API coverage",
+          "short_description": "Manifest V3 is the latest version of Chrome extensions, which focuses on security, privacy, and performance. The goal of this project is to upgrade...",
+          "student_name": "Xuezhou Dai",
+          "code_url": "https://docs.google.com/document/d/1mppRm9Av3pACXb3u_P8CT55glObxcMf7foleJyZXzT4",
+          "proposal_id": "pRyFCSKl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JUcx6aBB"
+        },
+        {
+          "title": "Resource Initiator Reporting",
+          "short_description": "The proposed project aims to enhance the Resource Timing API by incorporating initiator information to identify the resource that triggered the fetch...",
+          "student_name": "Yash Joshi",
+          "code_url": "https://docs.google.com/document/d/1VGVd-6yGc8jI1EuCWfNkhlESsvZgIBtCzr1rPWvxPwM/edit?usp=sharing",
+          "proposal_id": "tuCJZDnm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mxiE3J6n"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/chromium-lj/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "AudioWorklets IDE",
+          "short_description": "The AudioWorkletNode is the one of the most widely-used and functional nodes in the Web Audio API. Given its unique ability to allow developers to...",
+          "student_name": "Tristan",
+          "code_url": "https://dev.to/kizjkre/google-summer-of-code-2024-a-retrospective-106c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EYnMaTZX/"
+        },
+        {
+          "title": "C++ clang static analysis: IteratorChecker",
+          "short_description": "IteratorChecker is a clang plugin that detects iterator use-after-invalidation related bugs and reports them at compile time using LLVM\u2019s...",
+          "student_name": "Pasquale Riello",
+          "code_url": "https://gist.github.com/Pask00/1c8e66851cbd77d5b71e5c1f30631c2d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bgIShKll/"
+        },
+        {
+          "title": "Bring Chromium's macOS toolchain up to speed",
+          "short_description": "Chromium uses LLVM\u2019s LLD linker in its build process. This project aims to continue my previous work on the macOS version of LLD (ld64.lld) to bring...",
+          "student_name": "D\u00e1niel Bertalan (BertalanD)",
+          "code_url": "https://danielbertalan.dev/gsoc2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Zuu7B8Bu/"
+        },
+        {
+          "title": "Bookmarks Tree View-GSOC",
+          "short_description": "The goal of this project is to reintroduce a tree view functionality into Chrome's bookmarks side panel, addressing user feedback and enhancing...",
+          "student_name": "Paras Awasthi",
+          "code_url": "https://docs.google.com/document/d/1QOMbtCIYGPqi5KFDKwdHbY7Cso-0C52J_D6HWOIUl_I/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/44PQeDCY/"
+        },
+        {
+          "title": "Side Panel Sizing",
+          "short_description": "The objective of this project is to enhance user interaction with Chromium-based browsers by enabling individual customization of side panel widths,...",
+          "student_name": "Jingqi Sun",
+          "code_url": "https://docs.google.com/document/d/1w6Ergq05d-iXesokvvzJbTfr-O1rV04Oxfwf5YN1ADs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CxOFUorU/"
+        },
+        {
+          "title": "Enhance AudioWorklet Developer Resources",
+          "short_description": "My project aims to enhance Chromium's AudioWorklet with robust test suites and developer resources for reliable real-time audio processing. I plan to...",
+          "student_name": "abhayporwals",
+          "code_url": "https://abhayporwals.hashnode.dev/abhay-gsoc24-chromium",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SfhDcUI7/"
+        },
+        {
+          "title": "A NIST 800-88 compliant method for safety erase for ChromiumOS devices",
+          "short_description": "Currently Chromebooks encrypt all user data safely, and they get \u201cerased\u201d by simply erasing the vault containing the encryption key, making the data...",
+          "student_name": "meelunae",
+          "code_url": "https://iaccarino.dev/blog/gsoc-2024-at-chromium",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Y8rmUJDT/"
+        },
+        {
+          "title": "Chromestatus.com - tech stack unification",
+          "short_description": "The project focuses on the modernization of Chromestatus.com, a critical tool for tracking feature launches in Blink. This will be achieved through...",
+          "student_name": "Mark Xiong",
+          "code_url": "https://github.com/GoogleChrome/chromium-dashboard/pulls/markxiong0122",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ngZiOaB7/"
+        },
+        {
+          "title": "Chrome Language and Translate",
+          "short_description": "This project aims to enhance the multilingual experience in Chrome. There were two primary goals: 1) Improve Android users\u2019 experience on Chrome by...",
+          "student_name": "Tao Xiong",
+          "code_url": "https://docs.google.com/document/d/1lGPgZcZNNdxCR9LCSX5e3ZuJ9E1Vo8c0UmJn_zSpvxA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lWAsJ9I4/"
+        },
+        {
+          "title": "Linux audio capture local muting",
+          "short_description": "My proposal centers on enhancing the Chrome browser's functionality on Linux systems, particularly focusing on the integration of local audio muting...",
+          "student_name": "Alexia Bojian",
+          "code_url": "https://gist.github.com/AlexiaBojian1/3a584a128dadac50f49838808ff2a16b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Vwp0SKcU/"
+        },
+        {
+          "title": "Building Performance Analysis Tool for Chrome Extensions",
+          "short_description": "Web developers have access to a wide array of tools to track web performance and discover ways to optimize their programs. However, that level of...",
+          "student_name": "Mahit Namburu",
+          "code_url": "https://github.com/mahitoburrito/webdrivertest",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DS1vtQWo/"
+        },
+        {
+          "title": "DNR Interactive Tool for Chrome Extensions",
+          "short_description": "The chrome.declarativeNetRequests API enables Chrome extensions to block or redirect network requests. As this API has a vast array of capabilities,...",
+          "student_name": "Amitesh Mahapatra",
+          "code_url": "https://docs.google.com/document/d/1xLoXP43M8OsfYj-TN2ajzF2nmNTEgSGUtimt0nIDgSE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HwllfBOW/"
+        },
+        {
+          "title": "Chromium - Dawn - Static Samplers",
+          "short_description": "This proposal aims to implement full static sampler support for Dawn, a WebGPU implementation for Chromium. A sampler is a GPU resource that defines...",
+          "student_name": "Srijan Dhungana",
+          "code_url": "https://dawn-review.googlesource.com/q/owner:srijan.dhungana6@gmail.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QyK1Cd9E/"
+        },
+        {
+          "title": "Enhance WebXR-internal page",
+          "short_description": "Provide real time diagnostic information to chrome://webxr-internals/ (e.g. real-time logs), as well as high-level performance metrics (live...",
+          "student_name": "Omar Shawky",
+          "code_url": "https://gist.github.com/OmarShawky1/0a344d908bf2f5f464bbdcb8085f1b9c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CKc1TA9s/"
+        },
+        {
+          "title": "Web Audio Test Suite & Rainfly: An AudioWorklet DSP Playground",
+          "short_description": "The Web Audio API\u2019s AudioWorklet (AW) is a powerful and flexible framework for browser-based synthesis and DSP. This summer, I contributed to...",
+          "student_name": "terry feng",
+          "code_url": "https://github.com/GoogleChromeLabs/web-audio-samples/blob/main/docs/terry-feng-GSoC-2024.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/b9wi9KCX/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/chromium-lj",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Develop fwupd plugin to handle touch firmware updates",
+          "short_description": "The project's main target is to start using fwupd plugins to manage and handle the firmware updates, for touch controllers in ChromeOS. Currently,...",
+          "student_name": "<Hamed>",
+          "code_url": null,
+          "proposal_id": "ptKwPYUn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dLFkwKok"
+        },
+        {
+          "title": "Chrome Extension APIs",
+          "short_description": "The Chrome Extensions platform is a vital part of the Chrome browser ecosystem, enabling developers to extend browser functionality. This project...",
+          "student_name": "Amit P",
+          "code_url": null,
+          "proposal_id": "kdSFOoYk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Z7zhQ3EO"
+        },
+        {
+          "title": "Debug WebUI For Tabstrip states",
+          "short_description": "This project aims to develop a read-only WebUI page in Chromium, chrome://tab-debug, that provides a live, structured visualization of the tabstrip...",
+          "student_name": "Brijesh Giri",
+          "code_url": null,
+          "proposal_id": "RdL6ipa0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uxcDW4j2"
+        },
+        {
+          "title": "Structured DNS Error Support in Chromium's DNS Stack",
+          "short_description": "When DNS queries fail due to policy-based restrictions (e.g., BLOCKED, CENSORED, FILTERED), DNS resolvers can attach Extended DNS Error (EDE) codes...",
+          "student_name": "Chenhao(Calvin) Diao",
+          "code_url": null,
+          "proposal_id": "oXfAhM1b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1iPxQyZ8"
+        },
+        {
+          "title": "WebGPU Texel Buffers",
+          "short_description": "The goal of this proposal is to provide a working prototype of texels buffers which is a new proposed extension in WebGPU API, in Dawn, Chromium's...",
+          "student_name": "Diego Rodrigues",
+          "code_url": null,
+          "proposal_id": "mT4l6EOa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ux8wL8V0"
+        },
+        {
+          "title": "GSoC 2025 Proposal - Interaction to Next Paint (INP) subparts",
+          "short_description": "Proposal Summary: Interaction to Next Paint (INP) Subparts Problem Statement: The recently introduced Interaction to Next Paint (INP) metric,...",
+          "student_name": "Guo Yi",
+          "code_url": null,
+          "proposal_id": "pCU6f3Hx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vUHz7K5H"
+        },
+        {
+          "title": "Enhancing Chrome Extension APIs",
+          "short_description": "The goal of this project is to improve the Chrome Extensions platform by updating existing APIs, introducing new ones, and enhancing the...",
+          "student_name": "Harsh_Singh",
+          "code_url": null,
+          "proposal_id": "VCnn2vGD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jEGGgdTB"
+        },
+        {
+          "title": "FedCM API test coverage and flakiness",
+          "short_description": "This project aims to enhance the tests made to cover the FedCM API. Currently, there are some units which might be missing coverage across the web...",
+          "student_name": "Jaimukund Bhan",
+          "code_url": null,
+          "proposal_id": "7xVIyrXd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9O6Emdgd"
+        },
+        {
+          "title": "Add 3rd Party Theme Support for Tab Groups - Chromium",
+          "short_description": "The goal of this project is to add support for third-party themes to customize tab group colors in Chromium. Currently, users are limited to a fixed...",
+          "student_name": "Jay Kapadia",
+          "code_url": null,
+          "proposal_id": "Lz9Agiue",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BHEvWNrX"
+        },
+        {
+          "title": "Structured DNS Errors - Kristofer Bjornsson proposal",
+          "short_description": "Chrome should implement enough of the emerging Public DNS Errors standards to allow public DNS servers to indicate to clients when certain DNS...",
+          "student_name": "Kristofer Fannar Bjornsson",
+          "code_url": null,
+          "proposal_id": "DPmMFDxi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8fROcunH"
+        },
+        {
+          "title": "Enhancing INP Insights for Developers",
+          "short_description": "Enhances Interaction to Next Paint (INP) analysis by breaking it into key parts\u2014input delay, event processing time, and rendering delay. It aims to...",
+          "student_name": "Mohamed Hany Youns",
+          "code_url": null,
+          "proposal_id": "vupd9uXm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/J0qI5a9d"
+        },
+        {
+          "title": "ChromeOS Platform Input Device Quality Monitoring",
+          "short_description": "This project aims to enhance the reliability of ChromeOS input devices by improving kernel-level logging and using automated tests to validate...",
+          "student_name": "Mohammad Gomaa",
+          "code_url": null,
+          "proposal_id": "xtxOxMIr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uCdIgK7K"
+        },
+        {
+          "title": "Farfetchd: tracing/replay",
+          "short_description": "This project enhances the farfetchd service in ChromiumOS by adding support for tracing and replaying disk I/O during application startup. The goal...",
+          "student_name": "Muxin Tian",
+          "code_url": null,
+          "proposal_id": "HLs34tMk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/w9IS12mr"
+        },
+        {
+          "title": "Improve Chromium Web Audio Testing",
+          "short_description": "The audit.js library, a fixture in over 300 web audio test files within Chromium, has become redundant due to its overlapping functionalities with...",
+          "student_name": "PunithNayak",
+          "code_url": null,
+          "proposal_id": "qywFD3wG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lvclf1XK"
+        },
+        {
+          "title": "Improve Chromium Web Audio Testing",
+          "short_description": "This project focuses on improving the testing system for web audio features in Chromium\u2014the open-source engine behind browsers like Google Chrome,...",
+          "student_name": "Saqlain01",
+          "code_url": null,
+          "proposal_id": "JnTQWcg2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LzP98Ubl"
+        },
+        {
+          "title": "Virtual Printer Application",
+          "short_description": "The goal of this project is to develop a fully configurable Android Virtual Printer application that simulates real printer behavior using the...",
+          "student_name": "Sauhard Gupta",
+          "code_url": null,
+          "proposal_id": "7PfTy3uW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kCcrQy0I"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:chromium-gsoc@chromium.org",
+  "mailing_list": "https://www.chromium.org/developers/technical-discussion-groups/",
+  "ideas_url": "https://docs.google.com/presentation/d/1ozDiULkf2Gi4HH1XA_Ad9O7rQpP9SP0yPEs_dpcBZKM/edit?usp=sharing",
+  "guide_url": "https://docs.google.com/document/d/1IOj4hSdPl8h1-8zYK_Gt3OxA0R44SLbmr-ZH3f9yDXM/edit?usp=sharing",
+  "twitter_url": "https://twitter.com/ChromiumDev",
+  "blog_url": "https://blog.chromium.org/"
+}

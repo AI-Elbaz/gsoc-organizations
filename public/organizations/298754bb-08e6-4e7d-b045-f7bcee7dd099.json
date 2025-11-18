@@ -1,0 +1,51 @@
+{
+  "name": "Free UK Genealogy",
+  "url": "http://www.freeukgenealogy.org.uk",
+  "image_url": "https://lh3.googleusercontent.com/VehPukOZevZhe7ahADaiK4mK4tdSqt3JFldLgnPoWzQGuIqrm8O6E30scj04LI7KTqd474SWMzj3wMeCQOsJxMNA6r25HgI",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "web apps",
+    "machine learning",
+    "open data",
+    "ai",
+    "ui/ux"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "mongodb",
+    "ruby on rails",
+    "css",
+    "html"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6511795204259840/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Proposal for Saumya Shah - Probate Parsing",
+          "short_description": "Free UK Genealogy will be launching a new project to expose genealogical information from wills and probate books. These books record the date and...",
+          "student_name": "Saumya Shah",
+          "code_url": "https://github.com/FreeUKGen/ProbateParsing/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5742387179552768/"
+        },
+        {
+          "title": "Citation Generator for FreeREG and FreeCEN",
+          "short_description": "In family history, records are kept in numerous formats. When we are referring to family history data, we have to show how we got those data. For an...",
+          "student_name": "Sudaraka Jayathilaka",
+          "code_url": "https://medium.com/@sudarakayasindu/how-i-spent-my-summer-with-gsoc-2018-as-an-intern-of-free-uk-genealogy-245f7871a886",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5136048057221120/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.freeukgenealogy.org.uk/about/volunteer/tech-volunteering-opportunities/ideas-list/",
+  "contact_email": "mailto:soc@freeukgenealogy.org.uk",
+  "mailing_list": "http://www.freeukgenealogy.org.uk",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/FreeUKGen",
+  "blog_url": "https://www.freeukgenealogy.org.uk/news/"
+}

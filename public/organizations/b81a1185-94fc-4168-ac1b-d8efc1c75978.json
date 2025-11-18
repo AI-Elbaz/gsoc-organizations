@@ -1,0 +1,50 @@
+{
+  "name": "kro | Kube Resource Orchestrator",
+  "url": "https://kro.run/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kro-kube-resource-orchestrator/qf9flxp0iswvhnli-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "automation",
+    "kubernetes",
+    "configuration management",
+    "cloud native"
+  ],
+  "technologies": [
+    "prometheus",
+    "golang",
+    "kubernetes",
+    "controller-runtime",
+    "CEL"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kro-kube-resource-orchestrator",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "CLI for kro Resource Management",
+          "short_description": "Building a cli tool for kro resource management. using golang's cobra library. mentioned are the proposed tasks which are about to be completed under...",
+          "student_name": "Dhairya Amrish Majmudar",
+          "code_url": null,
+          "proposal_id": "v5jq3msB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/usQIHr4B"
+        },
+        {
+          "title": "Enhanced Developer Tools and IDE Integration",
+          "short_description": "I\u2019m building a tool to make working with Kro YAML files easier and more efficient. This tool, called a Language Server Protocol (LSP), will help...",
+          "student_name": "Himanshu Kumar Sharma",
+          "code_url": null,
+          "proposal_id": "PRR6ABKV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Io5wpFgU"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://communityinviter.com/apps/kubernetes/community",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "https://github.com/kro-run/kro/issues/288",
+  "guide_url": "https://github.com/kro-run/kro/blob/main/CONTRIBUTING.md",
+  "blog_url": "https://kro.run/"
+}

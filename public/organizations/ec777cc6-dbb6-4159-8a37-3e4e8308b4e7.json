@@ -1,0 +1,110 @@
+{
+  "name": "Open HealthCare Network",
+  "url": "https://ohc.network/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-healthcare-network/eutslgqeknc9vlgd-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "electronic medical records",
+    "Digital Public Goods",
+    "Telemedicine and Remote Care",
+    "AI in Health",
+    "HMIS"
+  ],
+  "technologies": [
+    "python",
+    "django",
+    "react",
+    "typescript",
+    "NextJs"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-healthcare-network/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Rewriting Middleware Server in Django",
+          "short_description": "Overview The middleware server in the CARE project, currently implemented in TypeScript, requires a rewrite in Django to enhance integration and...",
+          "student_name": "Ankur Prabhu",
+          "code_url": "https://github.com/ohcnetwork/teleicu_middleware_backend/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Y431hMSS/"
+        },
+        {
+          "title": "Support for showing GitHub discussions",
+          "short_description": "My proposal is centered around integrating GitHub discussions seamlessly into the leaderboard repository while concurrently enhancing the scraper's...",
+          "student_name": "Dhrumit Parmar",
+          "code_url": "https://github.com/coronasafe/leaderboard/pull/463",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6uaflpp3/"
+        },
+        {
+          "title": "Explore other alternatives to generate PDF reports",
+          "short_description": "The CARE project aims to enhance healthcare management by digitizing patient records, streamlining workflows, and enabling TeleICU services.My...",
+          "student_name": "Prafful_Sharma",
+          "code_url": "https://github.com/ohcnetwork/care/pull/2132",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rUkPNXYp/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-healthcare-network",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "WhatsApp Bot for the CARE Platform",
+          "short_description": "Manual procedures on the CARE platform cover retrieval of patient information and appointment scheduling and FAQ answers and appointment reminders....",
+          "student_name": "Ashu_Choudhary",
+          "code_url": null,
+          "proposal_id": "3jNQwKRh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bPx3niWK"
+        },
+        {
+          "title": "HR Management module",
+          "short_description": "The proposed project aims to develop a FHIR-aligned HR management module for the CARE system, streamlining employee management, automating leave...",
+          "student_name": "Gurukiran",
+          "code_url": null,
+          "proposal_id": "HdQCgjob",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/b3hFfKM4"
+        },
+        {
+          "title": "Terminology Server from Google Sheet",
+          "short_description": "The proposed project aims to build a lightweight, scalable, and extensible alternative to the Snowstorm Terminology Server by leveraging Django and...",
+          "student_name": "Raj_Kumar_",
+          "code_url": null,
+          "proposal_id": "OmBioP5x",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9L9YN6qy"
+        },
+        {
+          "title": "ABDM \u2013 Patient Centric Flows (PHR Flows)",
+          "short_description": "This project implements comprehensive patient-facing digital health capabilities in the CARE platform by integrating Ayushman Bharat Digital Mission...",
+          "student_name": "Siva Pidugu",
+          "code_url": null,
+          "proposal_id": "5Iv0Gsdq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uIPCPdX9"
+        },
+        {
+          "title": "Diet Management in CARE",
+          "short_description": "The Diet Management module aims to bridge the gap between clinical care and nutritional health within CARE\u2019s ecosystem. This module will empower...",
+          "student_name": "Spandan Mishra",
+          "code_url": null,
+          "proposal_id": "UEybaVE0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7T36c0fb"
+        },
+        {
+          "title": "Offline Data Entry Support",
+          "short_description": "The project has the aim of providing offline data entry capability into the CARE form-based data collection system. Currently, users experience...",
+          "student_name": "vikaspal8923",
+          "code_url": null,
+          "proposal_id": "NFSxsJvs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xVR92zlY"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.ohc.network/",
+  "contact_email": "mailto:mohammed.nihal@egovernments.org",
+  "mailing_list": "Info@ohc.network",
+  "ideas_url": "https://contributors.ohc.network/projects",
+  "guide_url": "https://oss.ohc.network/",
+  "blog_url": "https://www.linkedin.com/company/ohcnetwork/"
+}

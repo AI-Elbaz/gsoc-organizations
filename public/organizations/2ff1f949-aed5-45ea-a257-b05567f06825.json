@@ -1,0 +1,102 @@
+{
+  "name": "LibreCube Initiative",
+  "url": "https://librecube.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/librecube-initiative/zkfjswciuihmdxu1-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "space",
+    "cubesat",
+    "mission control",
+    "Communication Protocols",
+    "robotics",
+    "automation",
+    "ai",
+    "Rover"
+  ],
+  "technologies": [
+    "python",
+    "micropython",
+    "zmq",
+    "mbed",
+    "mongodb",
+    "rest",
+    "docker",
+    "raspberry pi"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5642529495580672/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "CCSDS Space Packet / USLDP Transport Layer for Python and MicroPython",
+          "short_description": "The SPP and USDLP are the CCSDS recommended protocols used to efficiently transfer space application data through different space-links such as...",
+          "student_name": "Sidharth Shambu",
+          "code_url": "https://shambu2k.bearblog.dev/gsoc-21-librecube/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5740295097942016/"
+        },
+        {
+          "title": "CCSDS File Delivery Protocol in MicroPython",
+          "short_description": "CCSDS  File  Delivery  Protocol  (CFDP)  is a  file transfer protocol for use in space,  e.g., between  Earth and spacecraft in  Earth orbit or...",
+          "student_name": "Shayan Majumder",
+          "code_url": "https://medium.com/@shayan.majumder2/implementing-ccsds-file-delivery-protocol-cfdp-in-micropython-for-gsoc-2021-67fdb3100a78",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4978825582084096/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/librecube-initiative/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Generic Orbital Model Implementation",
+          "short_description": "The orbit module provides means to model orbital/trajectory movement of an object in the solar system and includes the calculation of planet...",
+          "student_name": "Husseinat",
+          "code_url": "https://github.com/balotofi/GSoC-2022/blob/main/WorkProductReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2uxuBPK3/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/librecube-initiative/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "SpaceDAO (Space traffic governance)",
+          "short_description": "Space DAO represents a decentralized autonomous organization (DAO) and initiative designed to facilitate decentralized, transparent, and neutral...",
+          "student_name": "Antoine Delamare",
+          "code_url": "https://gitlab.com/spacedao/frontend/spacedao-global-ui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2WFL0Umk/"
+        },
+        {
+          "title": "From Simulation to Reality: A Flexible Programming Interface for Rover Control",
+          "short_description": "This project aims to develop a user-friendly interface (either block-based or graphical) for users to define rover control commands. This interface...",
+          "student_name": "Komal.",
+          "code_url": "https://github.com/Kedyi/GSoC_2024_Final_Evaluation_Report/blob/master/GSoC_2024_Final_Report_Komal.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qSZd1iFq/"
+        },
+        {
+          "title": "Blockly for PLUTO Script Generation",
+          "short_description": "Blockly is an open-source software designed to utilize graphical blocks as code representations, enabling users to construct programs visually. The...",
+          "student_name": "sai m",
+          "code_url": "https://gist.github.com/Saigenix/e22a8c62d0c44ba82869b8d7960621e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/j96pQ9Cp/"
+        },
+        {
+          "title": "Unified Space Data Link Protocol",
+          "short_description": "The Unified Space Data Link Protocol (USLP) is a relatively new space protocol standard from CCSDS that aims to unify the protocols used for...",
+          "student_name": "thefaith",
+          "code_url": "https://github.com/faithinspace/GSoC_2024_Final_Evaluation_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TDAX1ycA/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.element.io/#/room/#librecube.org:matrix.org",
+  "contact_email": "info@librecube.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://fosstodon.org/@librecube"
+}

@@ -1,0 +1,95 @@
+{
+  "name": "libssh",
+  "url": "https://www.libssh.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/libssh/kcfc8lhxh3uyozbu-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "security",
+    "cryptography"
+  ],
+  "technologies": [
+    "c",
+    "ssh",
+    "ci",
+    "git",
+    "sftp"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/libssh/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Callback based sftp server",
+          "short_description": "I read the source code of libssh and I notice that there\u2019re many switch-case in the sftp server code, while the implementation to handle different IO...",
+          "student_name": "Zeyu Sheng",
+          "code_url": "https://gitlab.com/libssh/libssh-mirror/-/merge_requests/263",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Hm79LwKE/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/libssh",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Support for OpenSSH connection multiplexing",
+          "short_description": "The proposal aims to describe briefly my approach to implement OpenSSH connection multiplexing in libssh. It goes over the required components and...",
+          "student_name": "Ahsen Kamal",
+          "code_url": "https://medium.com/@itsahsenkamal/my-google-summer-of-code-gsoc-experience-with-libssh-8c302892d3aa",
+          "proposal_id": "SkpgBpIV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GdK87jbe"
+        },
+        {
+          "title": "Async SFTP Client",
+          "short_description": "This project aims to create async SFTP client API's for libSSH. Currently sftp_write is the only way of uploading files over SFTP using libssh but...",
+          "student_name": "Eshan Kelkar",
+          "code_url": "https://galorithm.com/gsoc2023",
+          "proposal_id": "PcpVhJmc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CdkiroFH"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/libssh/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implement GSSAPI Key Exchange and Improve Testing",
+          "short_description": "This project will set up Kerberos as part of the test suite using cwrap wrappers and write tests for the \"gssapi-with-mic\" user authentication...",
+          "student_name": "Gauravsingh Sisodia",
+          "code_url": "https://xaerru.github.io/gsoc24/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yojunwbr/"
+        },
+        {
+          "title": "Support for OpenSSH certificates",
+          "short_description": "This project aims to significantly enhance libssh capability to handle OpenSSH certificates. Currently, libssh only supports certificates as opaque...",
+          "student_name": "Francesco Rollo",
+          "code_url": "https://medium.com/@eferollo/my-google-summer-of-code-2024-journey-with-libssh-802e72f935e3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Ct9ZLgzB/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/libssh",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Support for FIDO/U2F keys on the client side",
+          "short_description": "This project aims to implement client-side support for FIDO/U2F authentication in libssh using the libfido2 library. It will introduce functionality...",
+          "student_name": "Praneeth Sarode",
+          "code_url": null,
+          "proposal_id": "NTpximuy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ziHCZkB4"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/!yBkUIMByeIPFgUzcVM:matrix.org?via=matrix.org",
+  "contact_email": "",
+  "mailing_list": "https://www.libssh.org/communication/",
+  "ideas_url": "https://www.libssh.org/development/google-summer-of-code/",
+  "guide_url": "https://www.libssh.org/development/google-summer-of-code/",
+  "blog_url": "https://www.libssh.org/"
+}

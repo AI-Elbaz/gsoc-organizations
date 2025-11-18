@@ -1,0 +1,89 @@
+{
+  "name": "Discourse",
+  "url": "http://www.discourse.org/",
+  "image_url": "https://lh3.googleusercontent.com/3sa2Hf4LtzL2kBlSkpAP29xgjyPANLS5uegKuI_fk_5KezIY94kPqWKsth2oI6UPgooSGV9Q6Nv_GSa8SHTXIivE-_LjQP8",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "web applications",
+    "email",
+    "communication",
+    "forum",
+    "web development",
+    "community",
+    "real time",
+    "asynchronous"
+  ],
+  "technologies": [
+    "javascript",
+    "ruby on rails",
+    "ruby",
+    "docker",
+    "ember",
+    "html",
+    "css"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6414446415052800/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Eventhooks for Discourse",
+          "short_description": "I will build webhooks for Discourse. The webhook is a HTTP callback. It post the payload to external URL when an event happened.\nTechnical...",
+          "student_name": "Erick Guan",
+          "code_url": "https://meta.discourse.org/t/webhooks-feedback/49046",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6577775968256000/"
+        },
+        {
+          "title": "Topic summaries, Canned Replies and Presence features",
+          "short_description": "Some topics, like a call-for-bug-reports or a new Howto, will receive a lot of replies that go stale shortly thereafter because the appropriate...",
+          "student_name": "Andr\u00e9 Pereira",
+          "code_url": "https://gist.github.com/adrapereira/f198238afb874ee692da08f4982aa203",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5975621553356800/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4878856288731136/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Common Event System for Chatrooms",
+          "short_description": "In our increasingly connected world, full of social media and internet-connected devices, it is important for systems to be interlinked to provide...",
+          "student_name": "David Taylor",
+          "code_url": "https://dtaylor.uk/blog/2017/08/gsoc_with_discourse/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6383927988060160/"
+        },
+        {
+          "title": "Advanced search enhancements & Autospec gem",
+          "short_description": "The project proposes new filters to advanced search and extraction of the rake task for running unit tests into a separate gem. Advanced search...",
+          "student_name": "Jakub Macina",
+          "code_url": "https://gist.github.com/dmacjam/66211e9149ad72537bc12d0e483ea9e1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5545567551750144/"
+        },
+        {
+          "title": "General improvements to Discourse",
+          "short_description": "This project is meant to improve the core of Discourse and implement new plugins. The features that are going to be implemented are:\n\nPLUGIN: Convert...",
+          "student_name": "Bianca Nenciu",
+          "code_url": "https://github.com/nbianca/gsoc-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5584241047896064/"
+        },
+        {
+          "title": "Unicode username and search improvements",
+          "short_description": "I will improve Unicode/i18n for Discourse, especially a Unicode username feature.\nThis includes a new gem to leverage on battle-tested ICU library...",
+          "student_name": "Erick Guan",
+          "code_url": "https://github.com/discourse/discourse/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Afantasticfears%20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5173734516195328/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/discourse/discourse/wiki/Contact",
+  "contact_email": "mailto:team@discourse.org",
+  "mailing_list": "https://github.com/discourse/discourse/wiki/Contact",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/discourse",
+  "blog_url": "http://blog.discourse.org"
+}

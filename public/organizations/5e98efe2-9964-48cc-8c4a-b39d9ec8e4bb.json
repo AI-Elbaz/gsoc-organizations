@@ -1,0 +1,91 @@
+{
+  "name": "The Center for Connected Learning and Computer-Based Modeling",
+  "url": "http://ccl.northwestern.edu/netlogo",
+  "image_url": "https://lh3.googleusercontent.com/_Ol--UayvdvAUvhHYRqcA8zVpL6mrSt70pZPWkks9uvxTHwwesYnulBEZDn6SdI5bSMDmjaYiN8SbT8q2pfyVwXB_dyXq7iL",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "education",
+    "research",
+    "programming languages",
+    "science",
+    "simulation",
+    "programming language",
+    "academic research"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "html5",
+    "scala",
+    "css",
+    "html5/css3"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6259409101520896/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve the usability of NetLogo IDE for Desktop",
+          "short_description": "This project aims to add features to improve the usability of NetLogo IDE for desktop. The features that will be implemented in this project are -\n...",
+          "student_name": "Akarshit Wal",
+          "code_url": "https://github.com/Akarshit/GSoC/blob/master/blog.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6007456119390208/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4578118920568832/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Exporting and Importing State from NLW and NLD",
+          "short_description": "I propose to implement the export-world and import-world methods to NetLogo Web. This will allow users to export and import their world state and...",
+          "student_name": "Camden Clark",
+          "code_url": "https://camdenclark.github.io/08-26-2017/GSoC-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6207129954287616/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5109641792978944/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Extension & Library Manager",
+          "short_description": "A user-friendly dialog that allows easy discovering & installing of NetLogo extensions and .nls libraries. \nWe hope, in this way, to assist the...",
+          "student_name": "Idloj",
+          "code_url": "https://gist.github.com/Idloj/9ee47f3f2d6057f06cffcd482a99c4d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5723088213770240/"
+        },
+        {
+          "title": "Enhancements to NetLogo Web Project",
+          "short_description": "The project aims to have new and necessary features to be made available on the web version of NetLogo. The current web project serves the limited...",
+          "student_name": "Diparth Shah",
+          "code_url": "https://gist.github.com/diparthshah/fcf15a3a7b680a0d5cf4937ce46f4e39",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5392965283348480/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6614261546090496/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "NetLogo Compiler: Implementing Peephole Optimizations",
+          "short_description": "The project proposes idea to implement peephole optimization in NetLogo Compiler codebase and perform cross-platform compiler optimization on both...",
+          "student_name": "Diparth Shah",
+          "code_url": "https://gist.github.com/diparthshah/2b3aa56d20fb43b72a0024839907b59a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5142635226857472/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/NetLogo/GSoC",
+  "contact_email": "mailto:feedback@ccl.northwestern.edu",
+  "mailing_list": "https://groups.google.com/forum/#!forum/netlogo-devel",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/netlogo"
+}

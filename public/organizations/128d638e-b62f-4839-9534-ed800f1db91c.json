@@ -1,0 +1,55 @@
+{
+  "name": "Xiph.Org Foundation",
+  "url": "https://xiph.org",
+  "image_url": "https://lh3.googleusercontent.com/sUYk_vuqIWBRqHqbkAxs0-3G7da5-bgNyn3QgnCvYEN_0qKFsPFMfp1ekbzUKzpBSxu3JJGFrrvZpI5WDUmvj5CXlpdHrtCPphQJGgaGe8eHGQ",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "video",
+    "video encode",
+    "video decode",
+    "multimedia"
+  ],
+  "technologies": [
+    "rust",
+    "assembly",
+    "arm",
+    "x86",
+    "c language"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5197456597319680/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Adding a return channel to Icecast server",
+          "short_description": "Icecast Server is used as a streaming server to broadcast to various listeners. A return channel allows for possibility of receiving feedback from...",
+          "student_name": "Vishal Mishra",
+          "code_url": "https://gist.github.com/vcode11/e9ee716fec20329e680aa01bd6a3c09d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5752195781230592/"
+        },
+        {
+          "title": "(Live) listener statistics for Icecast",
+          "short_description": "Icecast supports writing a basic access.log that includes client information as well as connection time. An analytical interface will be implemented...",
+          "student_name": "Rohit Verma",
+          "code_url": "https://gist.github.com/refactor-droidyy/bf73b866e18f943a653a74d0ca392d31",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5418481184407552/"
+        },
+        {
+          "title": "Improve fast scene detection modes proposal",
+          "short_description": "I propose to implement several metrics based on differens features of video such as color histograms, edge information, geometrical transformations...",
+          "student_name": "Aleksandr Gushchin",
+          "code_url": "https://dev.to/aleksandrgushchin/gsoc-2021-work-product-submission-xiph-org-foundation-3o9e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5972560755294208/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://xiph.org/contact/",
+  "contact_email": "",
+  "mailing_list": "http://lists.xiph.org/mailman/listinfo",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://xiph.org/press/"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Elm Software Foundation",
+  "url": "http://elm-lang.org/",
+  "image_url": "https://lh3.googleusercontent.com/fqsi9UFcYWf2gRtHisTVUL77H0wqC5R8EU7XRoI-yLzd6LESSqOWHS8THAVlDVG1J1lKlhE91MSHSksUrNpNs9b3C2QD8QE2",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming languages",
+    "functional programming",
+    "web applications",
+    "user interface"
+  ],
+  "technologies": [
+    "javascript",
+    "haskell",
+    "elm"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5658990390280192/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Elm for iOS",
+          "short_description": "Elm is a programming language for creating browser-based web apps. Elm for iOS (a.k.a. Elm Mobile) aims to bring the benefits of the Elm programming...",
+          "student_name": "Palmer Paul",
+          "code_url": "https://github.com/pzp1997/elm-ios",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5097842980945920/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://elmlang.herokuapp.com/",
+  "contact_email": "mailto:info@elm-lang.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/elm-discuss",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/elmlang",
+  "blog_url": "http://elm-lang.org/blog"
+}

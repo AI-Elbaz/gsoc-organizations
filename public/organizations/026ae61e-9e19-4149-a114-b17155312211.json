@@ -1,0 +1,182 @@
+{
+  "name": "Checker Framework",
+  "url": "https://checkerframework.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/checker-framework/zgooweugtqicf1jx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "software engineering",
+    "verification",
+    "programmer productivity",
+    "bug finding",
+    "pragrammer productivity",
+    "programming languages",
+    "type systems"
+  ],
+  "technologies": [
+    "java",
+    "compilers",
+    "Verification",
+    "formal methods",
+    "type systems"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6349316859887616/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Whole-Program Inference",
+          "short_description": "Checker Framework provides a collection of type systems to prevent bugs on Java programs at development time. Although a type system might be useful...",
+          "student_name": "Felipe R. Monteiro",
+          "code_url": "https://docs.google.com/spreadsheets/d/17VKHUBd1z9CkwCzPukYXAJHmlmDm6FQ_IYCzfTFW3-4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6689181245898752/"
+        },
+        {
+          "title": "Erroneous use of Java 8's Optional class",
+          "short_description": "Traditionally, java programs use null to represent the absence of value. Java 8 introduced Optional class, a container that contains a reference to T...",
+          "student_name": "Nikhil Deepak Shinde",
+          "code_url": "https://gist.github.com/nikshinde1996/a27297ab4718e5ca7b300ef7b24a92ae",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5686344500117504/"
+        },
+        {
+          "title": "Bounded-size strings",
+          "short_description": "The goal of this project is to implement a checker for bounded-size strings in the Checker Framework, as described on the GSoC 2017 Ideas page.\nThe...",
+          "student_name": "Vlastimil Dort",
+          "code_url": "https://docs.google.com/document/d/1Pja29eu-gR1Aerb0fEaySO-W3o4RwLfGhFRFsMSgIpc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4550172239462400/"
+        },
+        {
+          "title": "Update to newer version of JavaParser",
+          "short_description": "The JavaParser plays a significant role in the functioning of the StubParser project. The StubParser (sub-project of the Checker Framework) is the...",
+          "student_name": "Bohdan Sharipov",
+          "code_url": "https://gist.github.com/Bohdankm22/e84f8a08c240411ed5f8ec9d0597b1c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4591775574392832/"
+        },
+        {
+          "title": "Improving dataflow framework and analyzers",
+          "short_description": "Checker Framework has a Dataflow Framework for Java Language.\nThis is useful to infer more specific types in Checker Framework.\nThis framework is not...",
+          "student_name": "Shinya Yoshida",
+          "code_url": "https://github.com/bitterfox/checker-framework/wiki/Final-results-for-GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5186377155084288/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6235541699821568/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Annotate ASM library with signature checker",
+          "short_description": "This project consists of:\n\nAnnotating ASM with signature string checker of checker framework.\n\nFind and report bugs if any found during the process.\n...",
+          "student_name": "Sagar Tewari",
+          "code_url": "https://github.com/gsaga/checker-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6657754164887552/"
+        },
+        {
+          "title": "Enabling the Checker Framework to handle JDK 9",
+          "short_description": "This project is about enabling the checker framework to handle JDK9. As of now, the checker framework runs only on JDK 8. Since JDK 9 has already...",
+          "student_name": "Ravi Roshan",
+          "code_url": "https://docs.google.com/document/d/11ZwuqfpC8WXT7XIBC_Iwb2-6uDj5yv4-lozVo7ekqQ0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6220226517532672/"
+        },
+        {
+          "title": "Index Checker case study on Google Guava library. Fix bugs and improve its error messages.",
+          "short_description": "The Index Checker warns about potentially out-of-bounds accesses to sequence data structures in the widely used Google Guava library, guarantee...",
+          "student_name": "Nhat Dinh",
+          "code_url": "https://docs.google.com/document/d/1VjkbDK5zD4wBEHmn0Sr9P_U-3io3zCeQHFD8kaljUQQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5130657403502592/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4937505709752320/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Index Checker Case Study",
+          "short_description": "Index Checker warns the user about code that can throw an IndexOutOfBoundsException. In this case study, four open source libraries will be annotated...",
+          "student_name": "Maximilian Gama",
+          "code_url": "https://docs.google.com/document/d/1OzNx_PlzKwINyCf7b-FNKrUCPPAoZWEAe6zP-Y2Iu9Y/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4972162740387840/"
+        },
+        {
+          "title": "Android Support Annotations",
+          "short_description": "Currently, Android uses its own annotations that are similar to some in the Checker Framework. Examples include the @NonNull, @IntRange, @IntDef, and...",
+          "student_name": "Ayush Agarwal",
+          "code_url": "https://medium.com/@aagarwal1012/gsoc19-checker-framework-2d9b800a5f83",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4582020460576768/"
+        },
+        {
+          "title": "Improve Signedness Checker",
+          "short_description": "This project consists of:\n1.)Allowing the Signedness Type System to capture the signedness of boxed integral types, special Java wrappers for \n   ...",
+          "student_name": "Kartikeya Goswami",
+          "code_url": "https://docs.google.com/document/d/1VZzCbcgp1ruYxxkzpOL3Hx0v3W8IDebMBqxOKP6R0v4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4669053677862912/"
+        },
+        {
+          "title": "Annotate Apache Commons Lang with Index Checker.",
+          "short_description": "The aim of this project is to carry out a rigorous and deep case study of Index Checker by annotating Apache Commons Lang with the same. The plan of...",
+          "student_name": "Akash Srivastava",
+          "code_url": "https://docs.google.com/document/d/1_x8YPNzMXor3H4m-zVgEHz61ko-7tDYazMhVZnXwYfg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4672535755489280/"
+        },
+        {
+          "title": "Nullness Checker Case Study on Bazel Build tool",
+          "short_description": "As seen on Bazel\u2019s Issue Page, Bazel suffers from numerous NullPointerException( NPE ). These NPEs come out at runtime as RuntimeException causing a ...",
+          "student_name": "the1derer",
+          "code_url": "https://docs.google.com/document/d/1dV8IlCO1eS8kxrucGrl9SMGi6jZkVHUIdI2rMVNraOk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4853611576688640/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5983189996142592/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Annotating Google Gson Library",
+          "short_description": "Checker framework is a great lightweight tool which could easily type check code having a dependency on a library if the library has already been...",
+          "student_name": "Priti Chattopadhyay",
+          "code_url": "https://drive.google.com/file/d/1fJzOJbcvjzu7p7Yqn7m7JH4fkIL0pxnV/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6227841936523264/"
+        },
+        {
+          "title": "Tainted Checker Overhaul",
+          "short_description": "The Tainted Checker Overhaul aims to be an extension of the Tainted\nChecker Framework, extending the concept of tainted data and upgrading\nits...",
+          "student_name": "Aditya  Singh",
+          "code_url": "https://docs.google.com/document/d/18pNvjQ8N7X1UgwZ2YAjlkUGEpM5FSqK7Wcxoh89DjuY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5197202961465344/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/checker-framework",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "NullnessLight: A Lightweight Nullness Bug Detector for the Checker Framework",
+          "short_description": "I propose to develop NullnessLight, a lightweight, easy-to-use nullness checker built on the Checker Framework. NullnessLight will trade full...",
+          "student_name": "Abhijit Kulkarni",
+          "code_url": null,
+          "proposal_id": "KS46gAPm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Cek33Jhn"
+        },
+        {
+          "title": "Mutable Index Checker: Index Checking for Mutable Length Data Structures with the Checker Framework",
+          "short_description": "This project aims to enhance the Checker Framework by introducing a Mutable Index Checker, which provides compile-time guarantees of index safety for...",
+          "student_name": "Damika Anupama Nanayakkara",
+          "code_url": null,
+          "proposal_id": "J3fTbvLN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KIzghcua"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:checker-framework-gsoc@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/checker-framework-gsoc",
+  "ideas_url": "https://rawgit.com/typetools/checker-framework/master/docs/developer/new-contributor-projects.html",
+  "guide_url": "https://rawgit.com/typetools/checker-framework/master/docs/developer/new-contributor-projects.html",
+  "blog_url": "http://programanalysis.blogspot.com/"
+}

@@ -1,0 +1,507 @@
+{
+  "name": "GNU Project",
+  "url": "https://www.gnu.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnu-project/pm4yf7e7gm2jjyir.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "free software",
+    "operating system",
+    "gnu",
+    "package managers",
+    "astronomy",
+    "reverse engineering",
+    "http",
+    "tools",
+    "toolchain",
+    "command line",
+    "OS",
+    "binary tools"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "posix",
+    "lisp",
+    "eiffel",
+    "guile",
+    "operating systems",
+    "javascript",
+    "android",
+    "c++",
+    "scheme",
+    "gcc",
+    "autotools"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4828960579911680/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Rust implementation of GNUnet utils",
+          "short_description": "Improve the Rust implementation of GNUnet utils, possibly including adding support for asynchronous IO using mio, or perhaps a higher level...",
+          "student_name": "kc1212",
+          "code_url": "https://gnunet.org/node/2629",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6591089830002688/"
+        },
+        {
+          "title": "GCC - Further work on addressing mode selection",
+          "short_description": "The aim of this project is to improve the addressing mode selection pass in GCC that was made the previous summer.",
+          "student_name": "erikvarga",
+          "code_url": "https://gist.github.com/erikvarga/c7d5cbfe341796316062afaa04503459",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6604585959424000/"
+        },
+        {
+          "title": "ScholarLY Annotations",
+          "short_description": "The ScholarLY 'annotate' module is a new tool, currently in a workable preliminary state, which extends the LilyPond music engraving software to add...",
+          "student_name": "jefferyshivers",
+          "code_url": "https://gist.github.com/jefferyshivers/1f4ecc61615b2a200ea8e6d309e7d029",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6751120848322560/"
+        },
+        {
+          "title": "A private and secure auctioning library",
+          "short_description": "This project is about developing a secure and private auctioning library incorporating an algorithm by Felix Brandt. We modified the algorithm to use...",
+          "student_name": "mate",
+          "code_url": "https://gnunet.org/node/2630",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5688349176102912/"
+        },
+        {
+          "title": "Cleanup ffcall",
+          "short_description": "GNU Libffcall is a collection of four libraries which can be used to build foreign function call interfaces in embedded Interpreters:\nAvcall  -...",
+          "student_name": "Prasad_arun",
+          "code_url": "https://drive.google.com/drive/folders/0B96joKik42vZUVoyeVBZNzVFZ0U?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4990459134869504/"
+        },
+        {
+          "title": "Code Refactor",
+          "short_description": "GNU Libffcall is a collection of four libraries which can be used to build foreign function call interfaces in embedded Interpreters:\nAvcall  -...",
+          "student_name": "Jayitra",
+          "code_url": "https://drive.google.com/drive/folders/0B3vKYDJ2MRHuTGxKWnloejNENzQ?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5603016765865984/"
+        },
+        {
+          "title": "Integrating npm into the Guix ecosystem",
+          "short_description": "This project will allow Guix hackers to more easily package software that is\ndistributed through the Node Package Manager (npm), as well as allowing...",
+          "student_name": "jlicht",
+          "code_url": "https://github.com/wordempire/guix/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5616011994726400/"
+        },
+        {
+          "title": "GCC - Replace Libiberty with Gnulib",
+          "short_description": "For projects using Libiberty, most of that functionality can be provided by Gnulib and therefore there is no real advantage to the GNU project to...",
+          "student_name": "Ayush Goel",
+          "code_url": "https://gcc.gnu.org/wiki/replacelibibertywithgnulib",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4503908059709440/"
+        },
+        {
+          "title": "Rewrite Hydra to be more integrated with Guix",
+          "short_description": "The idea of this project is to write a continuous build system in Guile Scheme inspired by Hydra, in order improve Guix infrastructure parenthood.",
+          "student_name": "mthl",
+          "code_url": "https://notabug.org/mthl/cuirass",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4508804322426880/"
+        },
+        {
+          "title": "[MediaGoblin] Subtitle Interface along with keyboard hotkeys for video player",
+          "short_description": "Building a subtitle interface for the current video player. Popular formats of the subtitles would be supported along with multiple...",
+          "student_name": "saksham1115",
+          "code_url": "http://lists.mediagoblin.org/pipermail/devel/2016-August/001465.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4725761105723392/"
+        },
+        {
+          "title": "Lilypond - Allow spanners to cross voices",
+          "short_description": "Lilypond is a free music notation program that produces quality sheet music. The music is first written in a text format; Lilypond then processes the...",
+          "student_name": "starrynte",
+          "code_url": "http://lilypondblog.org/2016/08/google-summer-of-code-2016-cross-voice-spanners/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4959294852169728/"
+        },
+        {
+          "title": "GCC - Development of GIMPLE Front End",
+          "short_description": "The purpose of this project is to develop a tool which will ease the process of unit testing in gcc. Writing a test-case in C to generate the...",
+          "student_name": "Prasad Ghangal",
+          "code_url": "https://github.com/PrasadG193/gcc_gimple_fe/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5765958429835264/"
+        },
+        {
+          "title": "Implement xattr Support of Hurd Project",
+          "short_description": "The current hurd's ext2fs server uses a reversed field in inode to store passive translator setting. It is  a  ad-hoc method and causes that hurd's...",
+          "student_name": "Shengyu Zhang",
+          "code_url": "http://lists.gnu.org/archive/html/bug-hurd/2016-08/msg00075.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5786848613892096/"
+        },
+        {
+          "title": "Porting GuixSD to GNU/Hurd",
+          "short_description": "In this project, we would like to port the Guix Software Distribution to GNU Hurd.  By the end of the project, Guix should be able to handle and use...",
+          "student_name": "Manolis",
+          "code_url": "https://lists.gnu.org/archive/html/guix-devel/2016-08/msg01002.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5796530812354560/"
+        },
+        {
+          "title": "Liberty Eiffel meets Windows",
+          "short_description": "Liberty Eiffel language available on windows environment.",
+          "student_name": "Petru Gurita",
+          "code_url": "http://wiki.liberty-eiffel.org/index.php/GSoC_-_Windows_Support",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5853506506326016/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5556772852989952/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "GNUstep - Make WebCore run on top of GNUstep",
+          "short_description": "A longstanding problem in the GNUstep stack has been the absence of a web browser, due to the lack of a modern and feature-complete backing web...",
+          "student_name": "theiostream",
+          "code_url": "https://gist.github.com/theiostream/7b9e83997320ccade6b5ec749cdc3573",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6384501231976448/"
+        },
+        {
+          "title": "Javascript Backend for Gnu Guile",
+          "short_description": "To implement a Javascript backend to Gnu Guile, capable of compiling programs for execution in a modern web browser. This proposal completes work...",
+          "student_name": "Ian-1",
+          "code_url": "https://lists.gnu.org/archive/html/guile-user/2017-08/msg00070.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6661485954596864/"
+        },
+        {
+          "title": "[GNU Wget] Design and implementation of statistics module",
+          "short_description": "At the end of the project, the following objectives should be met:\n\nhost-based statistics are maintained and presented to user when asked to do so...",
+          "student_name": "rootkea",
+          "code_url": "https://gitlab.com/gnuwget/wget2/wikis/%5Bgsoc-2017%5D-final-report-:-design-and-implementation-of-a-statistics-module",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5644180000866304/"
+        },
+        {
+          "title": "Ring - Create a C++ plugin for Ring",
+          "short_description": "The plugin will read incoming messages and detect a particular sequence (keyword). The sequence is a written message in some scripting language (to...",
+          "student_name": "Houmin",
+          "code_url": "https://github.com/SimpCosm/ring-client-iot/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5704614754123776/"
+        },
+        {
+          "title": "Improving Kawa's gnu.bytecode using ObjectWeb ASM",
+          "short_description": "The goal of this project is to improve the gnu.bytecode library by creating a version of it which uses ObjectWeb ASM to generate classfiles, rather...",
+          "student_name": "Tom Bousso",
+          "code_url": "https://gitlab.com/tombousso/gnu-bytecode2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5477373134766080/"
+        },
+        {
+          "title": "Multiple qualities of video (GNU MediaGoblin)",
+          "short_description": "GNU MediaGoblin is a well known free software media publishing platform where people can see and share their media. Even though we can think of it as...",
+          "student_name": "varadhya",
+          "code_url": "https://lists.mediagoblin.org/pipermail/devel/2017-August/001563.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5497506330836992/"
+        },
+        {
+          "title": "[GNU Wget] Design and Implementation of Test Suite Using Libmicrohttpd",
+          "short_description": "At the end of the project, the following objectives should be met: Wget2 will use Libmicrohttpd, a small but powerful C library of HTTP server code,...",
+          "student_name": "Didik Setiawan",
+          "code_url": "https://drive.google.com/drive/folders/0B4yUFvLvAUANLU10X19qckZ6UkE?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5018961074716672/"
+        },
+        {
+          "title": "wget2 - Design and implementation of a framework for plugins",
+          "short_description": "Ability to extend wget for a paritcular purpose using dynamically loadable modules would be a nice addition.\n(Reference idea)",
+          "student_name": "Akash Rawal",
+          "code_url": "https://gitlab.com/akash_rawal/wget2/wikis/GSoc17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5545264622338048/"
+        },
+        {
+          "title": "JavaScript for info-style navigation",
+          "short_description": "The info program is very bare-bones (no fonts or images). On the other hand, the info program has a number of conveniences for browsing...",
+          "student_name": "Mathieu Lirzin",
+          "code_url": "http://mathieu.lirzin.emi.u-bordeaux.fr/2017/08/25/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4714203348729856/"
+        },
+        {
+          "title": "Improving the Internal Structure of Chords",
+          "short_description": "LilyPond's internal representation of chords is limited. As of now, it can mostly only represent the individual notes themselves that make up the...",
+          "student_name": "Charles Winston",
+          "code_url": "https://github.com/charlesrwinston/lilypond_chords/commits/dev/crw_chordsemantics?author=charlesrwinston",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6501081542557696/"
+        },
+        {
+          "title": "Ring: NodeJS Plugin for Seamless Cross-platform Client Development",
+          "short_description": "A big problem impeding Ring development is developing  (and providing support for) different Ring clients running on disparate systems. What this...",
+          "student_name": "asalman",
+          "code_url": "https://gerrit-ring.savoirfairelinux.com/#/q/owner:%22Asad+Salman+%253Cme%2540asad.co%253E%22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6532521776906240/"
+        },
+        {
+          "title": "Proposal GNU Ring project Olivier Gr\u00e9goire",
+          "short_description": "I will work on the GNU Ring project. This project is, at the moment, unstable due to a lack of automated tests. Only a part of the code is tested.I...",
+          "student_name": "Olivier Gasuleg",
+          "code_url": "https://gasuleg.github.io/gsoc2017/final_report/2017/08/19/Final-Evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5836252280520704/"
+        },
+        {
+          "title": "Guix rewrite build daemon in Guile Scheme",
+          "short_description": "This project proposes to replace the existing C++ guix-daemon with one implemented in Guile Scheme, for purposes of hackability and unity of code...",
+          "student_name": "reepca",
+          "code_url": "https://lists.gnu.org/archive/html/guix-devel/2017-08/msg00267.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5913865560784896/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6595441034526720/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improve Core Animation implementation and integrate it into AppKit",
+          "short_description": "GNUstep is a console, desktop and web application development framework for development using Objective-C. It is based on OPENSTEP specification, and...",
+          "student_name": "Stjepan Brki\u0107",
+          "code_url": "https://gist.github.com/whiteShtef/efe8b94444946bde1bd3fa241071c8b2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5647201107705856/"
+        },
+        {
+          "title": "Automake : Parse Makefile.am using an Abstract Syntax Tree",
+          "short_description": "The goal of the project is to generate an abstract syntax tree from parsing the input Makefile.am . It has separate lexer, parser and tree generation...",
+          "student_name": "Vishal Gupta",
+          "code_url": "https://docs.google.com/document/d/1XI4PXiFtx2a9DD8Ttw1AfFtqp1Ta80VUp6qLvA5klVk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5504092394749952/"
+        },
+        {
+          "title": "GNUnet Web-based User Interface",
+          "short_description": "Implementation of a Web-based UI for GNUnet similar to GNUnet-Gtk with a yet to be determined framework such as Angular2. This includes the design...",
+          "student_name": "Phil Buschmann",
+          "code_url": "https://gnunet.org/node/2670",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5506136664965120/"
+        },
+        {
+          "title": "libjit - register allocation",
+          "short_description": "At the moment register allocation in libjit is rather simplistic. The goal of this project is to implement proper data-flow analysis and register...",
+          "student_name": "Jakob L\u00f6w",
+          "code_url": "https://github.com/M4GNV5/GSoC2018/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6135522044936192/"
+        },
+        {
+          "title": "ActivityPub plugin for GNU Social",
+          "short_description": "The project idea aims at developing a plugin (as GNU Social is true to the Unix-philosophy of small programs to do a small job) that will implement...",
+          "student_name": "Diogo Cordeiro",
+          "code_url": "https://go.diogo.site/gsoc2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5289876471676928/"
+        },
+        {
+          "title": "GNU Guix (Cuirass): Adding a web interface similar to the Hydra web interface",
+          "short_description": "Cuirass is aimed to monitor a git repository containing Guix package definitions and build binaries from these package definitions.  The state of...",
+          "student_name": "Tatiana Sholokhova",
+          "code_url": "https://github.com/TSholokhova/gsoc-2018-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5325459940179968/"
+        },
+        {
+          "title": "GNU Taler - Payment/Donation Buttons and Code-less Payments with GNU Taler",
+          "short_description": "GNU Taler is a new electronic online payment system which provides privacy for customers and accountability for merchants. To pay with Taler,...",
+          "student_name": "Shivam Kohli",
+          "code_url": "https://taler.net/en/gsoc-codeless.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4619292221898752/"
+        },
+        {
+          "title": "CLISP - Integrate the SICL compiler into CLISP",
+          "short_description": "This project aims to incorporate components from Robert Strandh\u2019s SICL compiler called Cleavir into CLISP. Adding Cleavir would open up the...",
+          "student_name": "Charles Zhang",
+          "code_url": "https://gitlab.com/karlosz/clisp/tree/master/src/cleavir",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6514294606790656/"
+        },
+        {
+          "title": "Automake :  Modularize Automake to improve the test-suite performance",
+          "short_description": "This project aims to modularize the implementation of Automake to make it more easily extendable and to improve the test-suite performance.",
+          "student_name": "Matthias Paulmier",
+          "code_url": "http://lists.gnu.org/archive/html/automake/2018-08/msg00003.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6285889521057792/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5352439094444032/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "GNU Guix - Guix Deploy",
+          "short_description": "Add tooling to the Guix package manager for configuring and building local \"copies\" of remote systems and transferring those copies to their...",
+          "student_name": "Jakob L. Kreuze",
+          "code_url": "https://lists.gnu.org/archive/html/guix-devel/2019-08/msg00127.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5504040568356864/"
+        },
+        {
+          "title": "GNU social - Optimizations on Load Balance System and Storage Usage",
+          "short_description": "GNU social is a communication software used in federated social networks. \nThis project will: \n\u2022 Improvements on the Federated Requests Queue (which...",
+          "student_name": "Miguel Dantas",
+          "code_url": "https://go.diogo.site/gsoc2019_load",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6155433343975424/"
+        },
+        {
+          "title": "[GNU Wget] HTTP/2 Test Suite",
+          "short_description": "Adding HTTP/2 + TLS support to the test library and h2 specific tests.",
+          "student_name": "Kumar Mallikarjuna",
+          "code_url": "https://gitlab.com/gnuwget/wget2/wikis/GSoC/Reports/GSoC-2019-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5001862103695360/"
+        },
+        {
+          "title": "syscall/setsockopt optmization on various platforms, working on the testsuite for the libmicrohttpd2 API",
+          "short_description": "To optimize syscall/setsockopt optimization on various platforms (Debian Linux, FreeBSD 12-RELEASE-p3, NetBSD-CURRENT), and to work on the testsuite...",
+          "student_name": "ng0",
+          "code_url": "https://git.gnunet.org/libmicrohttpd.git/?h=dev%2Fng0%2Fgsoc2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4734648230346752/"
+        },
+        {
+          "title": "Improvements on GNU social's network systems",
+          "short_description": "GNU social is a communication software used in federated/decentralized social networks. In order to archive such decentratization, some communication...",
+          "student_name": "Bruno Casteleiro",
+          "code_url": "https://go.diogo.site/gsoc2019_network",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6021217092370432/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5461276207087616/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Adopt the SMuFL music font encoding standard",
+          "short_description": "I would like to implement support for the SMuFL music notation font standard, in order to give LilyPond access to the growing number of notation...",
+          "student_name": "WolfGangsta",
+          "code_url": "http://lilypondblog.org/2020/08/google-summer-of-code-2020-smufl/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5676939668357120/"
+        },
+        {
+          "title": "V3 Rewrite with Symfony",
+          "short_description": "GNU social is a communication software used in federated social networks, however, it relies on outdated and unmaintained libraries. To this end,...",
+          "student_name": "Hugo Sales",
+          "code_url": "https://go.diogo.site/gsoc2020_v3_be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5483698721390592/"
+        },
+        {
+          "title": "Web-based graphical user interface for LibEuFin",
+          "short_description": "LibEuFin is a software package that provides access to (currently mainly European) banking APIs via a simplified interface. The goal of this project...",
+          "student_name": "Heng Yeow TAN",
+          "code_url": "https://gist.github.com/tanhengyeow/28d2fdb1a62eec5defaf847fe61dfbc5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5304839103315968/"
+        },
+        {
+          "title": "Image registration with the celestial sphere and non-linear warping in Gnuastro.",
+          "short_description": "This project aims at working towards the implementation of libraries for image registrations and non-linear warpings required to register them for...",
+          "student_name": "Sachin Singh-1",
+          "code_url": "https://sachinkumarsingh092.github.io/blog/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5541510759579648/"
+        },
+        {
+          "title": "Support arbitrary precision and export high quality output",
+          "short_description": "XaoS currently cannot support very deep zooms because the 80-bit floating-point arithmetic used runs out of precision before too long. It should be...",
+          "student_name": "Anurag Aggarwal",
+          "code_url": "https://github.com/xaos-project/XaoS/wiki/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4729143566008320/"
+        },
+        {
+          "title": "Machine Interface for GNU Poke",
+          "short_description": "GNU poke is an interactive, extensible editor for binary data. Not limited to edit-\ning basic entities such as bits and bytes, it provides a...",
+          "student_name": "kostasch",
+          "code_url": "https://drive.google.com/file/d/1SUUv9C2VZM12AGtpdvCc1Z-9gEXjkSqJ/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4952097767817216/"
+        },
+        {
+          "title": "Wget2 - LibWARC Implementation and Integration",
+          "short_description": "WARC, short for Web ARChive, is a data storage format for storing archived web pages. It is an extension of the ARC format, traditionally used by web...",
+          "student_name": "Suhas K S",
+          "code_url": "https://gitlab.com/gnuwget/libwarc/-/wikis/GSoC-2020-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5775183287156736/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gnu-project",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Add a web user interface to XaoS",
+          "short_description": "The project aims to enable XaoS, a fractal program, to function effectively on web browsers through the use of Qt. Currently, XaoS requires the user...",
+          "student_name": "abhishek_tiwari",
+          "code_url": "https://github.com/tabhishek432/GSoC-2023-xaos",
+          "proposal_id": "NuXj9yP7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3R0aNcqK"
+        },
+        {
+          "title": "Integration of GNU Anastasis with the GNU Taler Android wallet",
+          "short_description": "GNU Anastasis is a distributed and password-less key backup and recovery system. It allows users to safely backup keys by giving shares to various...",
+          "student_name": "Iv\u00e1n \u00c1valos",
+          "code_url": "https://git.taler.net/taler-android.git",
+          "proposal_id": "9DGl5Fqg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wV0LSczA"
+        },
+        {
+          "title": "lilypond - Fix Beaming Patterns/Beam Subdivisions and Tuplets",
+          "short_description": "Many bug reports from almost 10 years ago to even recent times report that GNU Lilypond has been unable to correctly render note subdivision beams...",
+          "student_name": "Jason Yip",
+          "code_url": "https://gitlab.com/lilypond/lilypond/-/merge_requests/2080",
+          "proposal_id": "jixv6FzZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XcjddXhU"
+        },
+        {
+          "title": "GNUnet Transport Next Generation (TNG): Communicator plugins",
+          "short_description": "The protocols supported by Transport Next Generation are limited to TCP and UDP. I will implement a new communicator plugin to transport data using...",
+          "student_name": "Marshall",
+          "code_url": "https://www.gnunet.org/en/news/2023-08-GSoC-QUIC.html",
+          "proposal_id": "ufmBT7Il",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Tz0ohYot"
+        },
+        {
+          "title": "aris - Add a web user interface to GNU Aris",
+          "short_description": "The project aims at extending GNU Aris by adding a web user interface. It involves some design changes in the GUI and migrating the current GTK based...",
+          "student_name": "Saksham Attri",
+          "code_url": "https://github.com/kovzol/aris/pull/15",
+          "proposal_id": "nr3GE5Qx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DV8XVm5g"
+        },
+        {
+          "title": "Parameterized Packages for GNU Guix",
+          "short_description": "Parameterized packages will provide users with a simple way to configure many aspects of packages, \u00e0 la Gentoo USE flags. This project will add two...",
+          "student_name": "Sarthak",
+          "code_url": "https://github.com/cel7t/parameterized-packages.org",
+          "proposal_id": "O9HIn1WY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/heQYLzrz"
+        },
+        {
+          "title": "Porting Rust into GNU/Hurd",
+          "short_description": "The goal of this project is to make the Rust language available on the GNU/Hurd operating system. Currently, there is no official Rust support for...",
+          "student_name": "Vedant Tewari",
+          "code_url": "https://gist.github.com/Vtewari2311/89551d5028e64c5dfc1fd419582797df",
+          "proposal_id": "pCFrB0wD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pyWcRl8o"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gnu-project/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integration of GNU Anastasis With GNU Taler Wallet",
+          "short_description": "The GNU Anastasis is a key recovery system that allows the user to securely deposit shares of a core secret with an open set of escrow providers, to...",
+          "student_name": "Amr Abdelhady",
+          "code_url": "https://github.com/amrsalah3/GSoC24-GNU",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/boSUJEVt/"
+        },
+        {
+          "title": "Add source encoding and literal conversion to the GnuCOBOL compiler",
+          "short_description": "COBOL source files may use different encodings. Commonly, these use some 8-bit character encoding like ISO-8859-15 or an EBCDIC one \"transferred as...",
+          "student_name": "AMaher",
+          "code_url": "https://medium.com/@ahmed.maher.ahmed.309/google-summer-of-code-with-gnu-organization-d4317828172d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dyyeQOgO/"
+        },
+        {
+          "title": "GNUnet-Transport Next Generation (TNG) Communicator plugins",
+          "short_description": "This project aims to implement a new communicator for GNUnet's Transport Next Generation (TNG) using the HTTP/3 protocol. The communicator will be...",
+          "student_name": "Shichao",
+          "code_url": "https://www.gnunet.org/en/news/2024-08-GSoC-HTTP3.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LQDMCad9/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "summer-of-code@gnu.org",
+  "mailing_list": "https://lists.gnu.org/mailman/listinfo/summer-of-code/",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://planet.gnu.org"
+}

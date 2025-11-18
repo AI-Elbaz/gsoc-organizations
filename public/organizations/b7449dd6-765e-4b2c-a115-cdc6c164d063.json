@@ -1,0 +1,95 @@
+{
+  "name": "QC-Devs",
+  "url": "https://qcdevs.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/qc-devs/nywcx8edxlpsz2kg-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "data science",
+    "scientific visualization",
+    "quantum chemistry",
+    "Computational Science",
+    "numerical algorithms"
+  ],
+  "technologies": [
+    "python",
+    "github",
+    "c++",
+    "julia",
+    "jupyter"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/qc-devs/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Selector: Interactive Web Interface for Chemical Subset Selection",
+          "short_description": "In the rapidly evolving field of computational chemistry, the Selector project aims to tackle the subset selection problem critical for drug...",
+          "student_name": "Jun Xia",
+          "code_url": "https://github.com/JackyZzZz/GSoC-Report-2024-Selector-Interface",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JpL7n5Ji/"
+        },
+        {
+          "title": "ModelHamiltonian: API and Interface Improvement",
+          "short_description": "Sometimes, in the context of quantum chemistry, the quantum state of a system in a crystal or molecule can be well described only by its occupation...",
+          "student_name": "Giovanni BENEDETTI DA ROSA",
+          "code_url": "https://gist.github.com/giovanni-br/5493429b7ebac7b00c29affef908489a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6uDYrj5i/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/qc-devs",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Refactor AtomDB Structure",
+          "short_description": "Efficient data storage and retrieval are essential for the performance and scalability of scientific databases. AtomDB, a valuable resource for...",
+          "student_name": "Enjy Ashraf",
+          "code_url": null,
+          "proposal_id": "mmuKbfEl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iOSDCvNs"
+        },
+        {
+          "title": "ModelHamiltonian: Manipulating Model Hamiltonians and Building Interfaces to External Packages",
+          "short_description": "ModelHamiltonians is already a well-structured library to express and simulate Hamiltonians in the context of quantum chemistry. The package,...",
+          "student_name": "Giovanni BENEDETTI DA ROSA",
+          "code_url": null,
+          "proposal_id": "EDyipDJe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UUGIKoxV"
+        },
+        {
+          "title": "Improving Gbasis Performance Using Screening",
+          "short_description": "The efficient computation of molecular integrals is crucial for large-scale quantum chemistry calculations to obtain the properties of the system....",
+          "student_name": "Omid Hosseinzadeh",
+          "code_url": null,
+          "proposal_id": "9pOylRb3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/z7Ryg9a3"
+        },
+        {
+          "title": "Enhancing NICE.jl with a Hybrid Solver and Manual Jacobian for Reaction Network Analysis",
+          "short_description": "The NICE.jl package, a Julia-based tool for reaction network analysis, currently lacks efficient handling of complex systems with oscillations or...",
+          "student_name": "Sparsh Karna",
+          "code_url": null,
+          "proposal_id": "bHLb9AZG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RDAPq7QJ"
+        },
+        {
+          "title": "Transformed Cubic Grids",
+          "short_description": "My GSoC 2025 proposal focuses on enhancing the \"Transformed Cubic Grids\" framework (Issue #264) within the QC-Devs organization by implementing...",
+          "student_name": "tutou2356",
+          "code_url": null,
+          "proposal_id": "tkC29Gz5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gL4q2C9U"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:qcdevs@qcdevs.org",
+  "mailing_list": "",
+  "ideas_url": "https://qcdevs.org/join/qcdevs_gsoc/",
+  "guide_url": "https://qcdevs.org/join/qcdevs_gsoc/#contributor-guidance",
+  "twitter_url": "https://twitter.com/QCDevs"
+}

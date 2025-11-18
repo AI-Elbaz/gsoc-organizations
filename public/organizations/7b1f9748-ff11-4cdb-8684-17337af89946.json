@@ -1,0 +1,207 @@
+{
+  "name": "Submitty",
+  "url": "https://submitty.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/submitty/jlpoxlj2rvpot6zv-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "web",
+    "data visualization",
+    "privacy/security",
+    "communication",
+    "visualization"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "databases",
+    "web",
+    "html",
+    "css",
+    "php",
+    "javascript",
+    "ajax",
+    "postgresql"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5076076959105024/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Instructor Interface for Plagiarism Detection",
+          "short_description": "Plagiarism Detection is among the significant and crucial tools provided by Submitty. I would like to work on improvising the current Plagiarism...",
+          "student_name": "Tushar Gurjar",
+          "code_url": "http://submitty.org/developer/GSOC2018_TusharGurjar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6579818627858432/"
+        },
+        {
+          "title": "Discussion Forum",
+          "short_description": "Submitty has a student-faculty portal named \"Discussion Forum\". It can be used for asking queries, announcements, notes sharing, etc.\nI would like to...",
+          "student_name": "Gagan Kumar",
+          "code_url": "http://submitty.org/developer/GSOC2018_GaganKumar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5114290021335040/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6109881407373312/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Continuous Integration Testing (Automation) for Submitty.",
+          "short_description": "Infrastructure management is an important part of every project as we are always faced with the need to make regular releases of new features and...",
+          "student_name": "Fenn25",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2019_FonNoel",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5606968301977600/"
+        },
+        {
+          "title": "REST API for Submitty",
+          "short_description": "The project aims to establish a REST API for Submitty. The API provides an alternative way of interacting with Submitty, which helps system...",
+          "student_name": "Xiao Han",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2019_XiaoHan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4645685633220608/"
+        },
+        {
+          "title": "Automating configuration for Assignment uploads",
+          "short_description": "Autograding is one of the greatest features which makes the instructor work more easier. It helps the instructor by grading score without reading the...",
+          "student_name": "Patel Drumil",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2019_DrumilPatel",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4878251485298688/"
+        },
+        {
+          "title": "Discussion Forum Upgrades",
+          "short_description": "The project was an upgrade to the Discussion Forum module of the Submitty web application. The Discussion Forum allows students in a course to...",
+          "student_name": "Anubhav Singh",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2019_AnubhavSingh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5857080622186496/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5702344097923072/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Peer Grading",
+          "short_description": "The project aims to develop a system for grading in online learning modules so that grading can include peer grading in addition to the already...",
+          "student_name": "Harsh Joshi",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2020_Harsh_Joshi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5335387796406272/"
+        },
+        {
+          "title": "WebSockets for live page updates",
+          "short_description": "WebSockets allow users\u2019 pages to get dynamically refreshed/updated without the need to manually refresh the page every now and then.\nThis behaviour...",
+          "student_name": "Marwan Atef",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2020_Marwan_Atef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4879317634383872/"
+        },
+        {
+          "title": "Mobile Friendly Website and PWA",
+          "short_description": "This project was focused on making Submitty mobile friendly and a progressive web-app with adding push notification feature but during the summer I...",
+          "student_name": "Mukul Kumar Jha",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2020_Mukul_Kumar_Jha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5953544957460480/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/submitty/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Website Security and Penetration Testing",
+          "short_description": "I will be performing a holistic security assessment of Submitty. Patching once a potential vulnerability is found and documenting the flaw....",
+          "student_name": "Akshat Batra",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2022_Akshat_Batra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cgmh6Hr7/"
+        },
+        {
+          "title": "Static Program Analysis for Autograding",
+          "short_description": "Static analysis is used in the Submitty platform for verifying that the student submissions for programming courses contain specific language...",
+          "student_name": "Poorna Gunathilaka",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2022_Poorna_Gunathilaka",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TjeLz8zH/"
+        },
+        {
+          "title": "Submitty Progressive Web App",
+          "short_description": "With today's dynamic technology , people interact more with their phones and tablets and in order to adapt with this change , PWAs offer a great...",
+          "student_name": "Madhur Jain",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2022_Madhur_Jain",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1P0Nl08m/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/submitty",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Continuous Integration Optimization",
+          "short_description": "Submitty currently has unit and integration tests that take over an hour to complete, the goal is to reduce the run time of the tests by at least...",
+          "student_name": "Cameron Peterson",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2023_Cameron_Peterson",
+          "proposal_id": "WwRwrgbq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/buBnvtEr"
+        },
+        {
+          "title": "Website Security and Penetration Testing",
+          "short_description": "Submitty is a web-based platform responsible for managing confidential information, and it is essential to assess its security regularly. This...",
+          "student_name": "Musaab Imran",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2023_Musaab_Imran",
+          "proposal_id": "jxIzYT5j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/jjv12quT"
+        },
+        {
+          "title": "Streamline Instructor Configuration of Automated Grading",
+          "short_description": "The overall UI design of Submitty can get a little overwhelming for the general public. Submitty is feature-rich but lacks simplicity for...",
+          "student_name": "saumyaborwankar",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2023_Saumya_Borwankar",
+          "proposal_id": "nmcTI7eV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nwwlQpp7"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/submitty/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Expand Testing of the Manual/TA Rubric Grading Interface",
+          "short_description": "Submitty, the TA grading interface is elaborate, highly-featured, and customizable. However, the interface is visually overwhelming to new graders,...",
+          "student_name": "Rahul Vishwakarma_",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2024_Rahul_Vishwakarma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CJ2GEkRL/"
+        },
+        {
+          "title": "Expansion of Examples and Documentation of Intermediate and Advanced Autograding Features",
+          "short_description": "Instructors face significant challenges when configuring autograding systems for their courses due to limited examples, insufficient documentation,...",
+          "student_name": "Nithish Reddy Banda",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2024_Nithish_Reddy_Banda",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/x4SFJiVp/"
+        },
+        {
+          "title": "Enhancing User Interface for Viewing Grades",
+          "short_description": "After taking time to discuss the Submitty system with a professor that uses it daily as a grading tool for their classes, a place for improvement...",
+          "student_name": "Sophia Oliinik",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2024_Sophia_Oliinik",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NZIEKNQo/"
+        },
+        {
+          "title": "Notebook Builder: UI To Streamline Instructor Configuration of Automated Grading",
+          "short_description": "Submitty's autograding is complex for instructors. This project will revamp the Notebook Builder interface to be more user-friendly. Instructors will...",
+          "student_name": "Sahil Suman",
+          "code_url": "https://submitty.org/developer/google_summer_of_code/2024_Sahil_Suman",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nDmGrbzX/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://submitty.zulipchat.com/join/7keujybzs4ismpedptpqsqpv/",
+  "contact_email": "mailto:submitty-admin@googlegroups.com",
+  "mailing_list": "https://submitty.org/index/contact",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/submitty"
+}

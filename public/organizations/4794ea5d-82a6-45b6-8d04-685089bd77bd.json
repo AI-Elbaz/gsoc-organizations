@@ -1,0 +1,82 @@
+{
+  "name": "Urban Energy Systems Laboratory, Empa",
+  "url": "https://hues-platform.github.io/",
+  "image_url": "https://lh3.googleusercontent.com/2ZeU3O2oOvAkneIhXFjY_bIuvV0vRzmyAgzKDM7UP5a2LP6TwohTU5MpYR43-zd7pfpjhBVYzIRlap8fkpY8RJwhJwABEGvD",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "simulation",
+    "data analysis",
+    "energy",
+    "distributed energy systems",
+    "modeling & optimization",
+    "data portal"
+  ],
+  "technologies": [
+    "python",
+    "gis",
+    "milp",
+    "fast fluid dynamics"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5408616613937152/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Open source energy simulation database : using MEAN Stack",
+          "short_description": "This project involves the development of an open source database to enable the linked exploration of data in the platform, including energy demand,...",
+          "student_name": "Khushboo Mandlecha",
+          "code_url": "https://gist.github.com/Khushboo1192/d5214e25fb3f9e5d2eff8938641b6f59",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4780796011347968/"
+        },
+        {
+          "title": "Modular Energy Hub Modelling Framework",
+          "short_description": "Energy system components are modular in nature and interact across multiple scales. There is a need for a modelling framework that can easily...",
+          "student_name": "Jazzpilz",
+          "code_url": "https://bitbucket.org/Jazzpilz/modular-energy-hub-modeling-framework.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4906260059127808/"
+        },
+        {
+          "title": "Real-time Wind Flow in Cities",
+          "short_description": "Modelling wind flow through a city has many applications, such as studying the effect of natural ventilation or looking at pollution levels. Solving...",
+          "student_name": "Lukas Bystricky",
+          "code_url": "https://github.com/lukasbystricky/GSoC_FFD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6313634942681088/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4513544758362112/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "GIS Interface for Energy Hub and Network Definitions",
+          "short_description": "The HUES platform is a set of open source computational resources that support distributed energy systems (DES) design and control. It provides...",
+          "student_name": "Rachit Kansal",
+          "code_url": "https://bitbucket.org/empa_lbst/gui-gis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5625793514307584/"
+        },
+        {
+          "title": "Visualization Module for the Ehub Modeling Tool",
+          "short_description": "The Energy Hub (Ehub) Modeling Tool is a set of MATLAB scripts for writing and executing a district energy system optimization. The purpose of the...",
+          "student_name": "Soumyadip Ghosh",
+          "code_url": "https://gist.github.com/gmomo/040f0728cbe94171e9b95a836ac6f9ed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6482668749324288/"
+        },
+        {
+          "title": "Visualization Dashboard for Empa-NEST using node-red",
+          "short_description": "The aim of this project is to develop a visualization dashboard based on node-red and javascript charting library Highcharts which will have a...",
+          "student_name": "Arushee Garg",
+          "code_url": "https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5143085629571072/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:andrew.bollinger@empa.ch",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

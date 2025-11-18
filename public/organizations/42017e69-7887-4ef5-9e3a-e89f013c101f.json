@@ -1,0 +1,55 @@
+{
+  "name": "Erlang Ecosystem Foundation",
+  "url": "http://erlef.org",
+  "image_url": "https://lh3.googleusercontent.com/5uycoUg-xQ6_2bY9fHvMj8N74iBghWqwmDXcCMIrfEc0pe7RB_RIqNuuFH0dtzJfowjQgNdB93DObYni4yDDOICJ7J2LiQ",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "instant messaging",
+    "distributed systems",
+    "language",
+    "messaging",
+    "soft real-time"
+  ],
+  "technologies": [
+    "erlang",
+    "elixir",
+    "beam",
+    "lfe"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4857921046839296/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Handle replication using the Yggdrasil Network.",
+          "short_description": "Barrel use erlang-libp2p and HTTP to handle the replication in a P2P manner. The idea is to add the support of the Yggdrasil network to handle...",
+          "student_name": "Kushal Kothari",
+          "code_url": "https://gitlab.com/barrel-db/lab/erlang-yggdrasil/-/blob/erlang-yggdrasil-INITIAL/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5657492056440832/"
+        },
+        {
+          "title": "Vulnerability report system in hex.pm website.",
+          "short_description": "The idea of this project is to design and create all needed components for a vulnerabilities report\nsystem in Hex packages integrated in the...",
+          "student_name": "Lois Soto L\u00f3pez",
+          "code_url": "https://hex.pm/blog/vulnerability-report-system",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4869881054363648/"
+        },
+        {
+          "title": "Reference implementation for riak-core-lite based distributed application",
+          "short_description": "riak-core is a distributed systems framework that is based on the Dynamo-Style architecture. It has served as the basis of Riak KV, a highly...",
+          "student_name": "Riki Otaki",
+          "code_url": "https://wattlebirdaz.github.io/rclref/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5834795419959296/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:eef@erlef.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/gsoc-erlef",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/theerlef"
+}

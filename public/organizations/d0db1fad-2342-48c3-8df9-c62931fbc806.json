@@ -1,0 +1,290 @@
+{
+  "name": "GNSS-SDR",
+  "url": "https://gnss-sdr.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gnss-sdr/vaciksjfho8cec2g-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "geolocation",
+    "navigation",
+    "software defined radio",
+    "communications",
+    "gnss",
+    "communications engineering",
+    "digital signal processing",
+    "signal processing",
+    "geospatial"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "c++11",
+    "c++14",
+    "gnss",
+    "c++17",
+    "sdr",
+    "c++ libraries c++11 c++14 c++17 c++20",
+    "c++20"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5800194151022592/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Project Frisbee : An Antenna Array Receiver Testbed for GNSS-SDR",
+          "short_description": "In the modern day, GNSS Receivers form the heart of numerous systems - positioning, navigation, time-keeping, synchronisation of communication...",
+          "student_name": "Ajith Peter",
+          "code_url": "https://drive.google.com/folderview?id=0B09wqnLOWhrQZDIwSHh0SGw1RkU&usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6354326805020672/"
+        },
+        {
+          "title": "Implementation of the BeiDou signal tracking block for the GNSS-SDR Project",
+          "short_description": "Implementation of the signal tracking algorithms for BeiDou open service signals (B1I), following the examples already implemented for GPS L1 C/A and...",
+          "student_name": "Enric Juan",
+          "code_url": "https://gnsssdrgsoc2016.wordpress.com/2016/08/18/beidou-tracking-block-for-gnss-sdr/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6588550162153472/"
+        },
+        {
+          "title": "GNSS-SDR port to android",
+          "short_description": "I'm proposing to implement a GNSS-SDR Android port with a QT/QML GUI.",
+          "student_name": "hoernchen",
+          "code_url": "https://github.com/Hoernchen/grand-build",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6603922655412224/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5204929132101632/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Graphical User Interface for GNSS-SDR configuration",
+          "short_description": "A proposal for developing GUI for generating configuration files for GNSS-SDR receiver. The project will deliver a friendly and intuitive GUI for the...",
+          "student_name": "Usman Haider",
+          "code_url": "https://github.com/UHaider/gnss_sdr_gui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6610212098146304/"
+        },
+        {
+          "title": "Expanding the receiver to GLONASS",
+          "short_description": "Add code to support GLONASS processing in the GNSS-SDR platform",
+          "student_name": "Damian Miralles",
+          "code_url": "https://gist.github.com/dmiralles2009/0d2d0402d0408b7d7bc0769ba9515369",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6138210627354624/"
+        },
+        {
+          "title": "Pulsed and continuous wave radio frequency interferences mitigation: application to GNSS-SDR in low Signal to Noise ratio scenarios",
+          "short_description": "During last decades Global Navigation Satellite Systems (GNSS) have increasingly become a fundamental tool for high accuracy positioning purposes....",
+          "student_name": "Antonio Ramos de Torres",
+          "code_url": "https://gnsssdrinterferencemitigationgsoc2017.wordpress.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5347588081451008/"
+        },
+        {
+          "title": "Expanding the GNSS-SDR receiver to GLONASS",
+          "short_description": "Expanding the receiver to GLONASS signals will help the community to research and implement new algorithms for multi-constellation and new estimation...",
+          "student_name": "Gabriel Araujo",
+          "code_url": "https://gist.github.com/Gastd/f46a2bd78dcc11984e69eb7cbc49f8a4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5357969688494080/"
+        },
+        {
+          "title": "Robust KF-based Tracking Techniques for Advanced GNSS Receivers",
+          "short_description": "The currently available tracking technique in GNSS-SDR includes three parameters(code phase, Doppler shift, carrier phase). The GNSS-SDR technique...",
+          "student_name": "Shashanka Joisa",
+          "code_url": "https://trackinggsoc.wordpress.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6261573228167168/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5951344653369344/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Proposal to implement Bayesian Covariance Estimation for Kalman Filter based Digital Carrier Synchronization in GNSS-SDR",
+          "short_description": "This document, submitted to the GNSS-SDR open-source software defined radio project as part of the 2018 Google Summer of Code (GSoC) program,...",
+          "student_name": "Gerald LaMountain",
+          "code_url": "http://geraldlamountain.com/gsoc2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6167449959399424/"
+        },
+        {
+          "title": "Expanding the receiver to BeiDou B1I",
+          "short_description": "This project will add processing capability of the BeiDou B1I signals into the GNSS-SDR platform. The addition of BeiDou B1I signals will increase...",
+          "student_name": "Sara Hrbek",
+          "code_url": "https://gist.github.com/sarahrbek/42ada442757c7d44f5a0e30c57a4a04a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5089211505967104/"
+        },
+        {
+          "title": "Expanding the receiver to Beidou B2a",
+          "short_description": "The current GNSS-SDR platform is a software defined receiver that supports GPS, GLONASS, and GALILEO GNSS signals. It also partially supports Beidou...",
+          "student_name": "Dong-Kyeong Lee",
+          "code_url": "https://gist.github.com/dole7890/8df6453762a49df234091d51e3b85aaf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6197114962968576/"
+        },
+        {
+          "title": "Design and Implementation of a Graphical User Interface (GUI) to show the GNSS-SDR status in real-time",
+          "short_description": "My objective for the Google Summer of Code (GSoC) 2018 is to develop a Graphical User Interface (GUI) to monitor the GNSS-SDR status complying with...",
+          "student_name": "\u00c1lvaro Cebri\u00e1n Juan",
+          "code_url": "https://drive.google.com/file/d/1oumzKzhrW4b0tQu1d7BpkllZw0d-E3wQ/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6562581313486848/"
+        },
+        {
+          "title": "Expanding the receiver to BeiDou B1I",
+          "short_description": "The main objective of this proposal is to get a working implementation of the GNSS-SDR software receiving and processing BeiDou B1l signals. Some...",
+          "student_name": "Sergi Segura Mu\u00f1oz",
+          "code_url": "https://gnsssdrbeidoub1igsoc2018.wordpress.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5965667966648320/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6369884148072448/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Optimal Frame Synchronization Detection",
+          "short_description": "The current implementation of the GNSS-SDR is a hard correlation scheme with a known scheme. The goal of this project is to implement and validate an...",
+          "student_name": "Lucas Ventura",
+          "code_url": "https://gnsssdrgsoc2019.wordpress.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5062110764072960/"
+        },
+        {
+          "title": "Expanding the receiver to BEIDOU B1C",
+          "short_description": "The current version of GNSS-SDR supports GPS, GALILEO, GLONASS and BeiDou Global Navigation Satellite System signals. Right now in BeiDou signals,...",
+          "student_name": "Andrew Kamble",
+          "code_url": "https://gist.github.com/andrewkamble88/67431cdfff751961b8767b8a8b6e2414",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6509812521631744/"
+        },
+        {
+          "title": "Nonlinear State Estimation for Carrier Synchronization in GNSS-SDR",
+          "short_description": "Carrier synchronization in standard, mass-market GNSS receivers typically utilizes well understood locked-loop architectures. The performance...",
+          "student_name": "glamountain",
+          "code_url": "http://geraldlamountain.com/gsoc2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6299766860808192/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5600351610208256/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Robust Interference Mitigation for anti-jamming",
+          "short_description": "With Global Navigation Satellite System (GNSS) being popular in position-based applications with high accuracy, our growing dependence on GNSS within...",
+          "student_name": "Haoqing Li",
+          "code_url": "https://gist.github.com/HaoqingLi/0c973317a467e03cabbe90eb3f67577c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5671680850001920/"
+        },
+        {
+          "title": "Expanding the GNSS receiver to Galileo E5b signals",
+          "short_description": "Currently, the GNSS receiver supports GPS, Galileo, GLONASS and BeiDou signals. It is only compatible with Galileo E5a signals. Since the two types...",
+          "student_name": "Piyush Gupta",
+          "code_url": "https://gist.github.com/piyush0411/8b4b83da9d2069fab7df0c555667fbb7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6254817149714432/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6204387118022656/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Anti-spoofing Techniques for GNSS Receivers",
+          "short_description": "This project involves implementation of various anti-spoofing techniques in GNSS-SDR. These techniques include consistency checks to verify and...",
+          "student_name": "harshadms",
+          "code_url": "https://harshadsathaye.com/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4767907556360192/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/gnss-sdr/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Complete implementation of BeiDou B1C SDR",
+          "short_description": "My proposal consists on completing BeiDou\u2019s B1C Software-Defined Radio code-base implementation, helping with the development of the code as well as...",
+          "student_name": "Joan Bernabeu",
+          "code_url": "https://github.com/jbernabeu26/DM-gnss-sdr/tree/bds_b1c_gsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3mJdvXub/"
+        },
+        {
+          "title": "Anomaly detection and recovery with a Deep-learning-based approach",
+          "short_description": "I suggest a deep-learning-based approach to analyze the physical characteristics of GNSS signals and detect abnormal sequences, and consequently...",
+          "student_name": "SeonwooKim",
+          "code_url": "https://github.com/seki5405/gnss_spoof_detector",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2HsxUfPb/"
+        },
+        {
+          "title": "Integration of anti-spoofing techniques in GNSS-SDR",
+          "short_description": "In this GSoC I aim to potentially implement in the GNSS-SDR receiver the following antispoofing techniques: Auxiliary Peak Tracking (APT), Output...",
+          "student_name": "Eric S\u00e1nchez",
+          "code_url": "https://gist.github.com/ericsg1999/496811fa9d70f3eb5ef04d1975c5d743",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cMCC6Tpw/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gnss-sdr/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "GNSS SDR with a RFSoC IC",
+          "short_description": "The future of satellite navigation is in sampling the signal directly from the antenna to the signal processing unit. To carry out this great feat,...",
+          "student_name": "Jorge Iglesias",
+          "code_url": "https://github.com/jorgeiglesiasc/advanced-rfsoc-front-end",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LTWEWeEv/"
+        },
+        {
+          "title": "Integration of SBAS (EGNOS/WAAS) in GNSS-SDR",
+          "short_description": "The main goal of this project, is to implement in a sofware-defined GNSS receiver (GNSS SDR), EGNOS/WAAS signals. They are both satellite-based...",
+          "student_name": "Juan Alfaro",
+          "code_url": "https://github.com/gnss-sdr/gnss-sdr/pull/810",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Di2ZQK9j/"
+        },
+        {
+          "title": "GNSS + INS Sensor Fusion",
+          "short_description": "The goal is to implement a functional GNSS receiver that is capable of introducing measurements from another sensor into the GNSS receiver chain....",
+          "student_name": "V\u00edctor Castillo",
+          "code_url": "https://github.com/gnss-sdr/gnss-sdr/pull/811",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LWPfDnVC/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gnss-sdr",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Characterizing and implementing missing vector operations in the volk-gnsssdr library",
+          "short_description": "Currently, certain essential signal-processing functions, called kernels here, in volk-gnssdr, the Vector-Optimized Library of Kernels for GNSS-SDR,...",
+          "student_name": "Marcus Alagar",
+          "code_url": null,
+          "proposal_id": "HJJUwFMp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/g60T12bi"
+        },
+        {
+          "title": "GNSS-SDR Vector Tracking Loop",
+          "short_description": "This project aims to implement a Vector Tracking Loop (VTL) architecture in GNSS-SDR, a widely used open-source software-defined GNSS receiver....",
+          "student_name": "PedroPereira",
+          "code_url": null,
+          "proposal_id": "sxxJtUmk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pyRTzjuZ"
+        },
+        {
+          "title": "GNSS + INS Sensor Fusion",
+          "short_description": "The goal is to implement a functional GNSS receiver that uses INS measurements to improve the position, velocity and time solutions. This will...",
+          "student_name": "V\u00edctor Castillo",
+          "code_url": null,
+          "proposal_id": "Qhf0Xufa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ItPRA36a"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:carles.fernandez@cttc.es",
+  "mailing_list": "https://sourceforge.net/projects/gnss-sdr/lists/gnss-sdr-developers",
+  "ideas_url": "https://gnss-sdr.org/google-summer-code-2025-ideas-list/",
+  "guide_url": "https://gnss-sdr.org/contribute/",
+  "blog_url": "https://github.com/gnss-sdr/gnss-sdr/issues"
+}

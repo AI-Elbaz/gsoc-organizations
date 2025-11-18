@@ -1,0 +1,145 @@
+{
+  "name": "Society for Arts and Technology (SAT)",
+  "url": "https://sat.qc.ca",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/society-for-arts-and-technology-sat/pkgrduycyoh0wxmf-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "web",
+    "graphics",
+    "cloud",
+    "multimedia",
+    "accessibility",
+    "computer vision",
+    "Telepresence",
+    "digital arts"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "opengl",
+    "c++",
+    "supercollider",
+    "qt",
+    "esp32"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/society-for-arts-and-technology-sat/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Face Tracking to Improve Accessibility and Interaction in the Metaverse with Satellite",
+          "short_description": "The \"metaverse\" has seen exceptional interest in both tech and the wider market. However, metaverse software currently on the market, from Second...",
+          "student_name": "Matt Wiese",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2022-contributions/matthewwiese-satellite-face-tracking/work-product-matthewwiese/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ve25fc1w/"
+        },
+        {
+          "title": "Add support of Unix permission in the Shmdata library",
+          "short_description": "The Shmdata library provides a layer to share streams of framed data between processes via shared memory. It supports any kind of data stream: it has...",
+          "student_name": "Vanshita Verma",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2022-contributions/vanshitaverma-add-support-of-unix-permission-in-the-shmdata-library/work-product-vanshitaverma/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xNd20Xxl/"
+        },
+        {
+          "title": "Create a WebUI for data mapping and software control in embedded systems",
+          "short_description": "Open Source tools, such as those developed by SAT, have been widely used for a variety of applications by academics and independent users. The tools...",
+          "student_name": "Yash_Raj",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2022-contributions/tiger-yash-webui-for-data-mapping-and-software-control/work-product-tiger-yash/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fhWh7het/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/society-for-arts-and-technology-sat",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Motion Capture in WebXR: a search for the uniqueness in replaying live performances",
+          "short_description": "Live performances and concerts promote a sense of uniqueness. It happens for two main reasons: the relationship between the artist and the public;...",
+          "student_name": "Fanny",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-contributions/caciliefanny/motion-capture-in-webxr/",
+          "proposal_id": "4XGjx0h4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZjzzYxSd"
+        },
+        {
+          "title": "Development of Generalizable SATIE Mappers that Optimized Audio Spatialization Flexibility",
+          "short_description": "SATIE(Spatial Audio Toolkit for Immersive Environments) can be used for audio spatialization. It is an audio spatialization engine programmed in...",
+          "student_name": "Haokun Song",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-contributions/kuk1song-development-of-generalizable-satie-mappers/work-product-kuk1song/",
+          "proposal_id": "1SiBxJo7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JoEdoUzG"
+        },
+        {
+          "title": "Audio to Haptic interaction design with ForceHost and Feelix supporting DeformableHapticSurfaces",
+          "short_description": "Haptics, as a multidisciplinary field, has applications within the Medical, Consumer and Entertainment domains, to name a few, and despite their...",
+          "student_name": "Maxwell Gentili-Morin",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-contributions/maxw3llgm/work-product-maxw3llgm-audio-to-haptic-interaction-design-with-feelix-supporting-torquetuner/",
+          "proposal_id": "P8OFraFy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YmhosRcH"
+        },
+        {
+          "title": "Building Immersive Learning Experiences",
+          "short_description": "The proposed project aims to support teaching in hybrid telepresence settings by developing and embedding examplar explorable explanations into the...",
+          "student_name": "Pedro Andrade",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-contributions/pedroansa1/work-product-pedroansa1-building-immersive-learning-experiences/",
+          "proposal_id": "SJZUE3X5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZJTheXqH"
+        },
+        {
+          "title": "Replace OpenGL by a multi-API rendering library in Splash.",
+          "short_description": "The Splash projection mapping software allows for controlling multiple video projectors together to build a single projection. It is able to adapt to...",
+          "student_name": "Tarek Yasser",
+          "code_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2023-contributions/knockerpulsar/replace-opengl-by-a-multi-api-rendering-library/",
+          "proposal_id": "T4SU35pF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UlGCj7qL"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/society-for-arts-and-technology-sat",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Object Detection on Point Cloud Streams",
+          "short_description": "This project comprises two parts: prototyping a real-time Python pipeline for object detection on point cloud data, and integrating it into LivePose....",
+          "student_name": "Eddie Liu",
+          "code_url": null,
+          "proposal_id": "kBjp18hw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/miLarupg"
+        },
+        {
+          "title": "Exploring Advanced Rendering Pipelines for Fulldome Content with Ray-tracing in ossia score",
+          "short_description": "This project aims to enhance fulldome content rendering in ossia score by integrating advanced ray-tracing render pipelines. Traditional fulldome...",
+          "student_name": "Lejie LIU",
+          "code_url": null,
+          "proposal_id": "0Ygnd4lW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YLjs5vlA"
+        },
+        {
+          "title": "Porting Puara-gestures to Avendish and creating ossia score objects",
+          "short_description": "This project addresses the limited accessibility of the powerful Puara-gestures library for creating high-level gestural descriptors within modern...",
+          "student_name": "yashtiwari9182",
+          "code_url": null,
+          "proposal_id": "TMfBCGBn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/skzm18oM"
+        },
+        {
+          "title": "A Responsive And Lightweight CLI For Managing Media Libraries",
+          "short_description": "Managing large libraries of media files efficiently is challenging, especially when dealing with diverse formats, extracting metadata, and performing...",
+          "student_name": "zepredos",
+          "code_url": null,
+          "proposal_id": "VeyR3KSV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LDlr5P8f"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.element.io/#/room/#sat-gsoc:matrix.org",
+  "contact_email": "",
+  "mailing_list": "https://gitlab.com/sat-mtl/collaborations/google-summer-of-code/-/issues",
+  "ideas_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/categories/ideas/",
+  "guide_url": "https://sat-mtl.gitlab.io/collaborations/google-summer-of-code/posts/2025-news/2025-share/",
+  "twitter_url": "https://twitter.com/SATmontreal"
+}

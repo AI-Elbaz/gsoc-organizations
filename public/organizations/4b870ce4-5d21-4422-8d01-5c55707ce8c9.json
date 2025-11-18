@@ -1,0 +1,46 @@
+{
+  "name": "CASTOR",
+  "url": "https://www.castor.kth.se/",
+  "image_url": "https://lh3.googleusercontent.com/oj63z5DyuNFvVEKOI4hyX9UFI6IkKOKZ9l2EbD4-zUMSx6GkJRcc5Jeyv0uYf4-OWJG4alDEYg_KSAPCKrEX2jLNCcHTWhuC1Zkv3LuIuRqYHQ",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "testing",
+    "software analysis",
+    "optimization",
+    "development",
+    "automated program repair"
+  ],
+  "technologies": [
+    "java",
+    "scala",
+    "bytecode"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6291016608382976/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implement DepClean Gradle plugin and add support for multi-module project analysis",
+          "short_description": "Currently, DepClean has a plugin that analyzes maven-based java projects, but we can't use it in Gradle-based java projects. The main aim of this...",
+          "student_name": "Abhay Singh",
+          "code_url": "https://github.com/ABHAY0O7/GSoC-21-CASTOR/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6679675211874304/"
+        },
+        {
+          "title": "Add/Improve tests in Spoon",
+          "short_description": "Spoon is an open-source library to analyze, rewrite, transform, transpile Java source code. It parses source files to build a well-designed AST with...",
+          "student_name": "Rohitesh Jain",
+          "code_url": "https://docs.google.com/document/d/19UDvXunmsOy-Gd60QsmJD3Q1ol82rvR-IrarGxlCfIQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5674282557898752/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@castor.kth.se",
+  "mailing_list": "https://www.castor.kth.se/stay-tuned/",
+  "ideas_url": "",
+  "guide_url": ""
+}

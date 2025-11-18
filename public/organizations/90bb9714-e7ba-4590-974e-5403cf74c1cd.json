@@ -1,0 +1,78 @@
+{
+  "name": "JSK Robotics Laboratory / The University of Tokyo",
+  "url": "http://www.jsk.t.u-tokyo.ac.jp/",
+  "image_url": "https://lh3.googleusercontent.com/V4f6Ny9M9DvdfuMAgmU_c1SHVpdy5ZK1KuTU9mL-2Y_xF2UgLZzXXilamzydEwVKYsfku91UpC2fKvPdOSh0aIFLrA1u_w",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "artificial intelligence",
+    "ros"
+  ],
+  "technologies": [
+    "ros",
+    "euslisp",
+    "openhrp",
+    "openrtm",
+    "lisp",
+    "prolog"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5081151127420928/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6380010977886208/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Knowledge and Learned Model Exchange Between Robotic Agents using openEASE",
+          "short_description": "In this proposal, I propose a solution for using openEASE as a knowledge bridge between robots. For this, I aim to implement a module in openEASE...",
+          "student_name": "Asil Kaan Bozcuoglu",
+          "code_url": "https://gist.github.com/asilx/db597257e272e958a3b15243f2e1f451",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5660367464169472/"
+        },
+        {
+          "title": "Integrating FCL for collision detection",
+          "short_description": "The proposal firstly introduces my previous experience and then give a detailed idea of my plan for the gsoc project.",
+          "student_name": "Yisha",
+          "code_url": "http://yswhynot.github.io/subpage/projects/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5496984223875072/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5947308659179520/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "EusLisp more Common",
+          "short_description": "Adding Common Lisp functionalities to EusLisp and improving existing ones",
+          "student_name": "\u00c9ricles Lima",
+          "code_url": "https://ericlesaquiles.github.io/euslisp/2018/08/12/End-of-GSoC-Project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5009622138093568/"
+        },
+        {
+          "title": "Integration of PCL to ROS",
+          "short_description": "The jsk-pcl-ros library is widely used for visualizing point cloud data from Microsoft Kinect Camera to ROS (Robot Operating System). We have used...",
+          "student_name": "Sanket Gaurav",
+          "code_url": "https://github.com/sanketrahul/GSoC18_Sanket/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5926045819600896/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5987024522182656/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://gitter.im/euslisp/jskeus",
+  "contact_email": "mailto:k-okada+gsoc@jsk.imi.i.u-tokyo.ac.jp",
+  "mailing_list": "https://groups.google.com/forum/#!forum/rtm-ros-robotics",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/pr2jsk"
+}

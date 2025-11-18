@@ -1,0 +1,48 @@
+{
+  "name": "Mantis",
+  "url": "https://netflix.github.io/mantis/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mantis/qvsvnpozgrydjrxi-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "cloud",
+    "distributed systems",
+    "Operational Analytics"
+  ],
+  "technologies": [
+    "java",
+    "Rxjava",
+    "Akka",
+    "Netty"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mantis",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Refactor Metrics Interface/Implementation in Mantis",
+          "short_description": "Improve the Mantis metrics system by replacing the existing implementation with a more standardized and flexible OSS library which should be easier...",
+          "student_name": "Jue Wu",
+          "code_url": "https://docs.google.com/document/d/1cUqS8o9fyAnFsRrHskD3vdvW_l_h3xFJFn45WubdnlY/edit?usp=sharing",
+          "proposal_id": "oIGu9lfF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/t0aEL7iA"
+        },
+        {
+          "title": "Mantis Connection Monitor",
+          "short_description": "Mantis is a stream-processing-as-a-service platform. Mantis workers create network connections to read data from sources or write data to sinks....",
+          "student_name": "Kriti Kathuria",
+          "code_url": "https://github.com/Netflix/mantis/pull/536",
+          "proposal_id": "jEAIjHll",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AV5mJy6s"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/bKvxTn4jRv",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/mantis-oss-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/mantisio2"
+}

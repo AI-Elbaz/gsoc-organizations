@@ -1,0 +1,245 @@
+{
+  "name": "Git",
+  "url": "https://git-scm.com/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/git/mbqqznjbaohwgq80-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "version control",
+    "dvcs",
+    "version-control"
+  ],
+  "technologies": [
+    "c",
+    "shell script",
+    "git",
+    "shell",
+    "c language"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5532648021688320/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Incremental Rewrite of Git Bisect",
+          "short_description": "Git bisect is a frequently used command which helps the developers in finding the commit which introduced the regression. Some part of it is written...",
+          "student_name": "Pranit Bauva",
+          "code_url": "https://drive.google.com/drive/folders/0B2SBIDYEkAaiV2xhNWZNSUdWOVE?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5595001820020736/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5061577619275776/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Incremental Rewrite of git-submodules",
+          "short_description": "To manage the external dependencies, git submodule commands have been\nfrequently used by the developers in their projects. But as most of the...",
+          "student_name": "Prathamesh Chavan",
+          "code_url": "https://drive.google.com/drive/folders/0B1HuYKpJFTqWYk5vcmpaa2JJa28",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5434523185577984/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4840889583140864/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Convert \u201cgit stash\u201d to builtin",
+          "short_description": "Currently, many components of Git are still in the form of Shell or Perl scripts. This choice makes sense especially when considering how faster new...",
+          "student_name": "Paul-Sebastian Ungureanu",
+          "code_url": "https://github.com/ungps/gsoc2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6700324135895040/"
+        },
+        {
+          "title": "Convert rebase  and it's options to C",
+          "short_description": "Many components of Git are still in the form of shell and Perl scripts. This has certain advantages of being extensible but causes problems in...",
+          "student_name": "Pratik Karki",
+          "code_url": "https://github.com/prertik/GSoC2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5389615745728512/"
+        },
+        {
+          "title": "Convert interactive rebase to C",
+          "short_description": "git is a modular source control management software, and all of its subcommands are programs on their own. A lot of them are written in C, but a...",
+          "student_name": "Alban Gruin",
+          "code_url": "https://github.com/agrn/gsoc2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6165469845258240/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6548634445807616/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve consistency of sequencer commands",
+          "short_description": "Since when it was created in 2005, the git rebase command has been implemented using shell scripts that are calling other git commands. Commands like...",
+          "student_name": "__rohit",
+          "code_url": "https://rashiwal.me/2019/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5390155215536128/"
+        },
+        {
+          "title": "Make pack access code thread-safe",
+          "short_description": "As direct as possible, the goal with this project is to make more of Git\u2019s codebase thread-safe, so that we can improve parallelism in various...",
+          "student_name": "Matheus Tavares",
+          "code_url": "https://matheustavares.gitlab.io/posts/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4787791739748352/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5445576591671296/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Convert submodule to builtin",
+          "short_description": "Some Git commands were initially implemented directly in shell script with some instances of Perl as well. As times progressed, various platforms to...",
+          "student_name": "shourya",
+          "code_url": "https://shouryashukla.blogspot.com/2020/08/the-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4541259818991616/"
+        },
+        {
+          "title": "Implement Generation Number v2",
+          "short_description": "Git uses various clever methods for making operations on very large repositories faster, from bitmap indices for git fetch to generation numbers...",
+          "student_name": "abhishekkumar8222",
+          "code_url": "https://github.com/abhishekkumar2718/GSoC20/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6510085276172288/"
+        },
+        {
+          "title": "Unify ref-filter formats with other --pretty formats",
+          "short_description": "Git has an old problem of duplicated implementations of some logic. For example, Git had at least 4 different implementations to format command...",
+          "student_name": "Hariom Verma",
+          "code_url": "https://harry-hov.github.io/blogs/posts/the-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6123927484497920/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6398200235163648/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Use ref-filter formats in git cat-file",
+          "short_description": "git cat-file has options --batch[=\n] and --batch-check[=\n] that can take a \n. It would be nice if the implementation of this \n would use the as much...",
+          "student_name": "ZheNing Hu",
+          "code_url": "https://adlternative.github.io/GSOC-Git-Final-Blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5443907994779648/"
+        },
+        {
+          "title": "Finish converting submodule to builtin",
+          "short_description": "Git has historically had many components implemented in the form of shell scripts. This was less than ideal for several reasons:\n\nPortability:...",
+          "student_name": "Atharva Raykar",
+          "code_url": "https://github.com/tfidfwastaken/gitnotes/blob/main/final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5071550033690624/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/git/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "More Sparse Index Integrations",
+          "short_description": "The spare index feature accelerates Git commands when using sparse-checkout in cone mode. This works by modifying the on-disk index file in a way...",
+          "student_name": "Shaoxuan Yuan",
+          "code_url": "https://ffyuanda.github.io/blog/GSoC-final-blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hz4rcOUB/"
+        },
+        {
+          "title": "Reachability bitmap improvements",
+          "short_description": "Git uses bitmaps to speed up the work of knowing which object(trees, blobs, etc.) can be reached from which commit. The current bitmap implementation...",
+          "student_name": "Abhra303",
+          "code_url": "https://medium.com/@abhra303/gsoc-final-report-feaaacfae737",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UPtA6qdf/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/git",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Unify ref-filter formats with other --pretty formats",
+          "short_description": "Git has an old problem of duplicated implementations of some logic. For example, Git had at least 4 different implementations to format command...",
+          "student_name": "Kousik Sanagavarapu",
+          "code_url": "https://five-sh.github.io/2023/08/26/the-final-report",
+          "proposal_id": "yny8lAaX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rck3kmq2"
+        },
+        {
+          "title": "More Sparse Index Integrations",
+          "short_description": "The \"sparse-index\" is a feature that reduces the size of the working directory's index to function effectively with \"sparse-checkout\", resulting in...",
+          "student_name": "SHUQI LIANG",
+          "code_url": "https://cheskaqiqi.github.io/2023/08/22/Final/",
+          "proposal_id": "3hKzB8QH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Rkbc1Abe"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/git/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Move existing tests to a unit testing framework",
+          "short_description": "Git has many existing end-to-end tests which are written in shell script. However, to unit test some of the internal libraries/functionality, we use...",
+          "student_name": "Ghanshyam Thakkar",
+          "code_url": "https://spectre10.github.io/posts/gsoc_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/e9C4rhrv/"
+        },
+        {
+          "title": "Move and improve reftable tests in the unit testing framework",
+          "short_description": "A new unit testing framework was introduced to the Git mailing list last year with the aim of simplifying testing and improving maintainability by...",
+          "student_name": "Chand",
+          "code_url": "https://chand-ra.github.io/2024/08/24/GSoC-Final-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tlh611d7/"
+        },
+        {
+          "title": "Implement consistency check for refs",
+          "short_description": "The project addresses the issue that the current git-fsck command cannot detect corruption in the \"packed-refs\" file and lacks explicit checks for...",
+          "student_name": "shejialuo",
+          "code_url": "https://luolibrary.com/2024/08/25/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ukm4PTEF/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/git",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Refactoring in order to reduce Git\u2019s global state",
+          "short_description": "Git currently relies on a global object the_repository and several global environment-related variables, which limits modularity and complicates...",
+          "student_name": "Ayush Chandekar",
+          "code_url": null,
+          "proposal_id": "edYSEbKn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/no7dVMeG"
+        },
+        {
+          "title": "Machine-Readable Repository Information Query Tool",
+          "short_description": "This project introduces a new Git sub-command (currently intended to be called git repo-info) that will centralize data currently retrieved by git...",
+          "student_name": "Lucas Oshiro",
+          "code_url": null,
+          "proposal_id": "XGcRKExG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fGgMYHwl"
+        },
+        {
+          "title": "Consolidate ref-related functionality into git-refs",
+          "short_description": "This project aims to streamline reference management in Git by consolidating functionality currently spread across multiple commands into a single...",
+          "student_name": "Meet Soni",
+          "code_url": null,
+          "proposal_id": "hcHxJPhQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xVrT5e2q"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://git-scm.com/community",
+  "contact_email": "mailto:git@vger.kernel.org",
+  "mailing_list": "https://git-scm.com/community",
+  "ideas_url": "https://git.github.io/SoC-2025-Ideas/",
+  "guide_url": "https://git.github.io/General-Application-Information/"
+}

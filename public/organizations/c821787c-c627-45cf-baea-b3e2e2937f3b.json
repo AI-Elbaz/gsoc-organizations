@@ -1,0 +1,1885 @@
+{
+  "name": "The Apache Software Foundation",
+  "url": "https://apache.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/apache-software-foundation/hq22fwtmvdfjnsh9-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "database",
+    "cloud",
+    "ddd",
+    "dsl",
+    "big data",
+    "libraries",
+    "other"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "ruby",
+    "couchdb",
+    "c",
+    "erlang",
+    "c++",
+    "rust"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5934639780724736/",
+      "num_projects": 35,
+      "projects": [
+        {
+          "title": "Mapping between the GeoTIFF metadata to ISO 19115",
+          "short_description": "The goal of this project is to improve the Apache SIS coverage module in order to meet the needs of space agencies. Particularly, this includes...",
+          "student_name": "haonguyen",
+          "code_url": "http://haonguyen123.blogspot.com/2016/08/mapping-between-geotiff-metadata-to-iso-19115.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6447441695997952/"
+        },
+        {
+          "title": "Apache Hama benchmark against Spark and Flink",
+          "short_description": "Distributed system performance benchmarks are an important source of information for decision makers who must choose the right technology for their...",
+          "student_name": "bsikander",
+          "code_url": "https://github.com/bsikander/GSoC-16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6604885264957440/"
+        },
+        {
+          "title": "Running Docker from Apache Taverna",
+          "short_description": "Taverna is a comprehensive workflow engine which has several ways of creating work flows and there are multiple layers/interfaces exposed to interact...",
+          "student_name": "nadeesh092",
+          "code_url": "https://github.com/apache/incubator-taverna-common-activities/commits/docker?author=NadeeshDilanga",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6625717198520320/"
+        },
+        {
+          "title": "Improving Discussion Threads and UI/UX of Apache Allura",
+          "short_description": "Improving Discussion Threads and UI/UX of Apache Allura\nGoals\n\nImprove Discussion Threads (ForgeDiscussion) \nImprove landing page on installation and...",
+          "student_name": "rhnvrm",
+          "code_url": "https://allura.apache.org/posts/2016-gsoc-16.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6641326720286720/"
+        },
+        {
+          "title": "Notebooks for Weather Data Analytics",
+          "short_description": "My primary goal with this project is to build a notebook\u00ad front ends so users can interact with weather data. As an initial goal, I will work with...",
+          "student_name": "Pradyut",
+          "code_url": "https://github.com/apache/airavata-sandbox/tree/master/Interacting_with_Airavata_using_ipython_Notebook",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6665478663569408/"
+        },
+        {
+          "title": "White Box and Regression Testing of the Mynewt OS",
+          "short_description": "This Project is based on testing.\nThe aim of this project is to have a white box and regression test carried out on the mynewt os.\nThis is very...",
+          "student_name": "Nges Brian",
+          "code_url": "https://gist.github.com/NgesBrian/3e4521c0228f6c635e7b69318f38dccb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6741911901569024/"
+        },
+        {
+          "title": "Port core OS and a subset of the utilities to a new 32-bit microcontroller",
+          "short_description": "Apache Mynewt OS is a rapidly developing operating system specially designed for 32-bit microcontrollers. With the development of IoT, embedded...",
+          "student_name": "Pradeep Sanjeewa",
+          "code_url": "https://gist.github.com/SanjeewaUoM/93e80f116e6fc878b31d771ecc2104d8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5683813690638336/"
+        },
+        {
+          "title": "TAVERNA-880 Browse+use CWL tool descriptions",
+          "short_description": "The Taverna suite is consist of Taverna Engine, which handles both Taverna Workbench and\nthe Taverna Server. Taverna Server is used to execute remote...",
+          "student_name": "Thilina Manamgoda",
+          "code_url": "http://maanadevgsoc2016.blogspot.com/2016/08/final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5397810476220416/"
+        },
+        {
+          "title": "Apache Cassandra: Make streaming operations resumable",
+          "short_description": "Apache Cassandra provides different operations which involves streaming within different nodes and data centers like bootstrap, rebuild, decommission...",
+          "student_name": "Kaide Mu",
+          "code_url": "https://gist.github.com/kdmu/55b14b7b4e1b8749fa9194bc5fa7da8c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5429448547500032/"
+        },
+        {
+          "title": "Apache SYNCOPE-809",
+          "short_description": "The SYNCOPE-809 feature request points out the lack of a plugin for IDEs to allow users to create and edit mail templates and report stylesheets in...",
+          "student_name": "Tushar",
+          "code_url": "http://blog.tusharmishra.in/?p=197",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5478022748569600/"
+        },
+        {
+          "title": "Add MongoDB to Tajo Storage",
+          "short_description": "Apache Tajo currently embeds HDFS, S3, Openstack, HBase, RDBMS storage plugins, so users can connect those data sources to Apache Tajo. The project...",
+          "student_name": "Janaka",
+          "code_url": "http://janakact.blogspot.com/2016/08/gsoc-2016-add-mongodb-to-tajo-storage.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5515426813444096/"
+        },
+        {
+          "title": "Predicting Criminal Moments with Hidden Markov Models",
+          "short_description": "We aim to construct a probabilistic model which explains a hypothetical\ncriminal's behavior based on that criminal's actions. We will be given the...",
+          "student_name": "kebertx",
+          "code_url": "https://github.com/kebertx/crimgeoprofile",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6146525818257408/"
+        },
+        {
+          "title": "Nuxeo repository and Authority connector for Apache ManifoldCF",
+          "short_description": "Nuxeo repository and Authority connector for Apache ManifoldCF\nNowadays, there are many containers of information, each one is specialized in a...",
+          "student_name": "Davarresc",
+          "code_url": "https://github.com/davarresc/nuxeo-manifold-connector",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5250916420681728/"
+        },
+        {
+          "title": "Adding PaaS support to Brooklyn",
+          "short_description": "The Apache open-source-project Brooklyn is a multi- cloud application management platform. Brooklyn can manage the provisioning and deployment of...",
+          "student_name": "Jose Carrasco Mora",
+          "code_url": "https://mail-archives.apache.org/mod_mbox/brooklyn-dev/201608.mbox/%3C5472759B-2FB5-4B49-ADF9-3A45DB645CD9%40lcc.uma.es%3E",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5559741749133312/"
+        },
+        {
+          "title": "Fineract: Implement integration for Unified Payments Interface",
+          "short_description": "Apache Fineract is an open source system for core banking as a platform.\nThe National Payments Corporation of India (NPCI) recently proposed an...",
+          "student_name": "meta-coder",
+          "code_url": "https://github.com/meta-coder/incubator-fineract/commits/upi-sdk?author=meta-coder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5563761838522368/"
+        },
+        {
+          "title": "Implementing a Python Utility Library for accessing PO.DAAC NASA JPL",
+          "short_description": "Physical Oceanography Distributed Active Archive Center(PO.DAAC) at NASA Jet Propulsion Laboratory has a web API enabling efficient...",
+          "student_name": "Omkar Reddy",
+          "code_url": "https://cwiki.apache.org/confluence/display/CLIMATE/Create+data+source+input+for+NASA+JPL+PO.DAAC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6191933286252544/"
+        },
+        {
+          "title": "Zeppelin Notebooks",
+          "short_description": "The proposal outlines the work done in investigating about the project and the approach that will be taken to accomplish the goals laid down by the...",
+          "student_name": "anish18sun",
+          "code_url": "https://github.com/anish18sun/Zeppelin-Notebooks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6203504733454336/"
+        },
+        {
+          "title": "Apache CouchDB datastore implementation for Apache GORA",
+          "short_description": "Apache Gora open source framework provides an in-memory data model and persistence for big data. Gora supports persisting to column stores, key value...",
+          "student_name": "cihad guzel",
+          "code_url": "https://cwiki.apache.org/confluence/display/GORA/Apache+CouchDB+Datastore+Implementation+%28GORA-437%29+Reports",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4520211218694144/"
+        },
+        {
+          "title": "Apache VXQuery - Fully integrate Lucene Indexing into VXQuery",
+          "short_description": "The wide use of XML for document management and data exchange has created the need to query large repositories of XML data. Apache VXQuery is...",
+          "student_name": "Menaka",
+          "code_url": "http://mail-archives.apache.org/mod_mbox/vxquery-dev/201608.mbox/%3CCAOg5xaAiEV7bScgTLsYJAiGfQmxd1Ct8En9bXPiQfdaOuMxTRQ%40mail.gmail.com%3E",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4595108200579072/"
+        },
+        {
+          "title": "Proposal for Apache Open Meetings: OPENMEETINGS-1353",
+          "short_description": "My goal is to bring webRTC to Apache Open Meetings. These include adding features for\nSCTP protocol for signaling and change scheme for sharing video...",
+          "student_name": "Dmitry.Bezheckov",
+          "code_url": "https://cwiki.apache.org/confluence/display/OPENMEETINGS/%5BGSOC+2016%5D+webrtc+implementation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4660948707049472/"
+        },
+        {
+          "title": "Zeppelin Notebook Storage using P2P protocol",
+          "short_description": "Zeppelin has implementations for storing notebook in local filesystem, local Git repository, S3 and Azure. The idea of this project is to add storage...",
+          "student_name": "OnkarShedge",
+          "code_url": "https://onkarshedge.github.io/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4708984158158848/"
+        },
+        {
+          "title": "Derby bug Fixing",
+          "short_description": "Apache Derby is a Realational Database Management System that is implemented entirely in java. The Derby JIRA has collected the community's knowledge...",
+          "student_name": "Danoja",
+          "code_url": "https://docs.google.com/document/d/1f8IiMjrzQbCYd4oa1Tl7DUrFBwnXUn_ER6gP1aDG2aM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4811187468369920/"
+        },
+        {
+          "title": "Smoke Tests and Continuous Integration Infrastructure for Apache Open Climate Workbench",
+          "short_description": "The Open Climate Workbench (OCW) project has basic unit test coverage in the form of a test suite written using the nose framework. In order to...",
+          "student_name": "Ibrahim Jarif",
+          "code_url": "https://github.com/apache/climate/commits/master?author=jarifibrahim",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6547556846796800/"
+        },
+        {
+          "title": "Security Layer for NutchServer (NUTCH-1756)",
+          "short_description": "Apache Nutch is a highly extensible and scalable open source web crawler software project. Stemming from Apache Lucene, the project has diversified...",
+          "student_name": "Furkan KAMACI",
+          "code_url": "https://wiki.apache.org/nutch/GoogleSummerOfCode/SecurityLayer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6555348454342656/"
+        },
+        {
+          "title": "JCache DataStore Implementation for Apache Gora",
+          "short_description": "JCache DataStore implementation for Apache Gora using Hazelcast JCache provider.",
+          "student_name": "djkevincr",
+          "code_url": "https://github.com/apache/gora/commits/master?author=djkevincr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4849721646514176/"
+        },
+        {
+          "title": "In-Situ Simulation Management and Analysis Using Apache Airavata",
+          "short_description": "The goal of this project is to extend Apache Airavata to allow in-situ data reporting and analysis for Molecular Dynamics (MD) workflows. The...",
+          "student_name": "jkinnison",
+          "code_url": "https://gist.github.com/jeffkinnison/49252125d0475ca19390abfa41d615ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4904644882989056/"
+        },
+        {
+          "title": "JSONiq Support to Apache VXQUERY",
+          "short_description": "The Apache VXQUERY processor is responsible for parsing and querying large amounts of XML documents. The XML format is currently used in a variety of...",
+          "student_name": "cricri",
+          "code_url": "http://mail-archives.apache.org/mod_mbox/vxquery-dev/201608.mbox/%3Ce4ac9280-cf23-3bcf-e491-2fff68671d2a%40ucr.edu%3E",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5813866374103040/"
+        },
+        {
+          "title": "Add the ability to sync events from CalDAV to Apache OpenMeetings Calendar",
+          "short_description": "The project will add the ability to sync events from OpenMeetings Calendar and iCal/CalDAV Protocol. OpenMeetings is a Web-Conferencing and...",
+          "student_name": "Ankush Mishra",
+          "code_url": "https://cwiki.apache.org/confluence/display/OPENMEETINGS/[GSoC+2016]+Add+syncing+from+CalDAV+to+Apache+OpenMeetings+Calendar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5864271036547072/"
+        },
+        {
+          "title": "Apache Spark: Build monitoring UI and related infrastructure for Spark SQL and structured streaming",
+          "short_description": "As more efforts have been made to Spark SQL, there are more demands on providing more information and metrics through Spark UI in an effective way....",
+          "student_name": "Tao Lin",
+          "code_url": "https://github.com/apache/spark/pulls?q=author%3Anblintao",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5923875250503680/"
+        },
+        {
+          "title": "VXQUERY-178: Support JSONiq - add objects to the data model",
+          "short_description": "Apache VXQuery will be a standard compliant Xquery processor implemented in java. JSONiq is a query and processing language specifically designed for...",
+          "student_name": "Riyafa Abdul Hameed",
+          "code_url": "http://mail-archives.apache.org/mod_mbox/vxquery-dev/201608.mbox/%3CCAMOqS%2BjR6zvZ59xSeBa-KmBmKDRQtRuh2e2wPSD%2Bw8G_ttXopg%40mail.gmail.com%3E",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5950762551083008/"
+        },
+        {
+          "title": "Add support for arbitrary CPU and RAM in the ComputeService (jclouds-482)",
+          "short_description": "This project will add support for arbitrary CPU and RAM in the ComputeService on JClouds. Some providers do not have the hardware profiles concept...",
+          "student_name": "Iv\u00e1n Lomba",
+          "code_url": "https://gist.github.com/ivanlomba/4f4eee3a46e13f90c2ce71b2929a2250",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5984606893375488/"
+        },
+        {
+          "title": "Apache Zeppelin Notebooks",
+          "short_description": "Apache Zeppelin is becoming a popular web-based notebook for exploratory data analytics due to features like pluggable interpreters and custom GUIs...",
+          "student_name": "Paul Bustios",
+          "code_url": "https://github.com/bustios/zeppelin-notebooks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6266081870086144/"
+        },
+        {
+          "title": "[FLINK-3599] Code Generation in Serializers and Comparators of Apache Flink",
+          "short_description": "The current implementation of the serializers can be a performance bottleneck in some scenarios. These performance problems were also reported on the...",
+          "student_name": "G\u00e1bor Horv\u00e1th",
+          "code_url": "https://github.com/Xazax-hun/flink/commits/serializer_codegen?author=Xazax-hun",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6292775360266240/"
+        },
+        {
+          "title": "OPENNLP-840 - Sentiment Analysis Project Proposal",
+          "short_description": "My proposal involves developing an ideal model for sentiment analysis for OpenNLP by starting with a simple model and advancing to the desired...",
+          "student_name": "anastasijam",
+          "code_url": "http://irds.usc.edu/SentimentAnalysisParser/blog.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6317132388237312/"
+        },
+        {
+          "title": "Proposal for the Apache REEF project",
+          "short_description": "Hi, I'm Won Wook Song, currently a final year BS student in Seoul National University in Republic of Korea. I'm interested in working on the Apache...",
+          "student_name": "wonook",
+          "code_url": "https://github.com/apache/reef/commits?author=wonook",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5207595501486080/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4633151007621120/",
+      "num_projects": 23,
+      "projects": [
+        {
+          "title": "ASTERIXDB-1371 Support the standard GIS objects",
+          "short_description": "Apache AsterixDB is a scalable, open source Big Data Management System (BDMS). It currently supports many data types in the Asterix Data Model (ADM)....",
+          "student_name": "Riyafa Abdul Hameed",
+          "code_url": "https://asterix-gerrit.ics.uci.edu/1974",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6341931260968960/"
+        },
+        {
+          "title": "Add SQL support",
+          "short_description": "Apache Gearpump is a real-time big data streaming engine. It is inspired by recent advances in the Akka framework and a desire to improve on existing...",
+          "student_name": "Buddhi Ayesha",
+          "code_url": "https://github.com/GearGSoC/gsoc2017/blob/master/GSoC_2017.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6359040665845760/"
+        },
+        {
+          "title": "Apache -VXQUERY-180 (RESTful API)",
+          "short_description": "Apache VXQuery uses Hyracks and Algebricks open-source frameworks and provides a standards compliant XML Query processor implemented in Java to...",
+          "student_name": "Erandi Ganepola",
+          "code_url": "https://medium.com/@erandiganepola/gsoc-2017-apache-vxquery-180-restful-api-bcb8833f24e5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6592753324523520/"
+        },
+        {
+          "title": "DBSCAN Clustering in Mahout",
+          "short_description": "Clustering is an important Data Mining technique with wide applications in Medicine, Biology, Social Network Analysis, Image Segmentation just to...",
+          "student_name": "A. S. Aditya Sarma",
+          "code_url": "https://github.com/apache/mahout/pull/334",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5706035582992384/"
+        },
+        {
+          "title": "Adding a new NoVNC console- CloudStack9778",
+          "short_description": "The aim of this feature is to make it possible to connect to VM consoles using  VNC client called NoVNC in browsers.noVNC is an HTML 5-based remote...",
+          "student_name": "Sachin Patil",
+          "code_url": "https://cwiki.apache.org/confluence/display/CLOUDSTACK/noVNC+support+for+Cloudstack",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5708090456408064/"
+        },
+        {
+          "title": "Rewrite Cassandra Module in Apache Gora to support CQL",
+          "short_description": "gora cassandra module is written based on thrift connector, but new Cassandra servers don't support thrift connectors, therefore this module is...",
+          "student_name": "Madhawa Gunasekara",
+          "code_url": "https://github.com/apache/gora/commits?author=madhawa-gunasekara",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5727025356603392/"
+        },
+        {
+          "title": "NUTCH-2369 Create a new GraphGenerator Tool for writing Nutch Records as a Full Web Graph.",
+          "short_description": "Currently Apache Nutch has the concept of a WebGraph which builds Web graphs, performs a stable convergent link-analysis, and updates the crawldb...",
+          "student_name": "Omkar Reddy Gojala",
+          "code_url": "https://wiki.apache.org/nutch/GoogleSummerOfCode/GraphGeneratorTool/WeeklyReports",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5413355305041920/"
+        },
+        {
+          "title": "Port Apache SIS to Android",
+          "short_description": "Porting task of SIS library to Android with possible alternatives for the technologies which are not compatible with Android.",
+          "student_name": "Sisinda Dinusha",
+          "code_url": "https://gist.github.com/dinush/5e7a331ce4aa8796a8c507dc93b2fc84",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5513810026692608/"
+        },
+        {
+          "title": "Apache Fineract Credit Bureau Integration phase 2",
+          "short_description": "During Phase 1 of Credit Bureau Integration project, the focus was on Credit Bureaus from India region. Initial modifications were done in Loan and...",
+          "student_name": "Nikhil Pawar",
+          "code_url": "https://nikpawar89.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5062843560886272/"
+        },
+        {
+          "title": "SIS JavaFX Front End",
+          "short_description": "Apache SIS is a library for handling  geospatial  data. This project aims to create a JavaFX app that will expose the features of this library.  The...",
+          "student_name": "Siddhesh Rane",
+          "code_url": "https://github.com/SiddheshRane/sis-client",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5105884501901312/"
+        },
+        {
+          "title": "Apache OODT : Rework OODT configuration to make use of Zookeeper for distributed configuration management",
+          "short_description": "Since OODT consists of different components like file manager, resource manager and work flow manager, all those components have their own...",
+          "student_name": "Imesha Sudasingha",
+          "code_url": "https://loneidealist.wordpress.com/2017/08/24/gsoc-2017-distributed-configuration-management-for-apache-oodt/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5113122192883712/"
+        },
+        {
+          "title": "Add Event Listeners to Data Objects and Implement Vote Based Locking",
+          "short_description": "Apache Gossip is a system which can be used to build a distributed peer-to-peer network using the gossip protocol. Currently Apache Gossip is under...",
+          "student_name": "Mirage",
+          "code_url": "https://docs.google.com/document/d/1JZsXxqlcQeD12qlWLWwyn5txCfjHUmu88TCQHMne5_Y/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5267581699096576/"
+        },
+        {
+          "title": "Improving Lucene Indexing on Apache VXQuery",
+          "short_description": "This proposal aims to introduce indexing as a way to speed up XML query evaluation. In XML, due to the complexity of tree structures, a wide range of...",
+          "student_name": "Christina Pavlopoulou",
+          "code_url": "http://mail-archives.apache.org/mod_mbox/vxquery-dev/201708.mbox/%3Cf2f453d8-f848-88a1-6718-4af00b0df1ea%40ucr.edu%3E",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5339960219533312/"
+        },
+        {
+          "title": "Implement Aerospike Datastore",
+          "short_description": "Apache Gora currently supports for persisting objects to various database models such as column stores like Apache Hbase, Apache Cassandra and  key...",
+          "student_name": "Nishadi Kirielle",
+          "code_url": "https://github.com/apache/gora/commits/master?author=nishadi&until=2017-08-30",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5583054563180544/"
+        },
+        {
+          "title": "Port Marmotta to Eclipse RDF4J",
+          "short_description": "Apache Marmotta has become one of the most prominent projects within the open source community of Linked Data. It brings together the standards of...",
+          "student_name": "Gustavo Mora",
+          "code_url": "https://wiki.apache.org/marmotta/GSoC/2017/MARMOTTA-659",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6223317417590784/"
+        },
+        {
+          "title": "Support advanced features of resource managers",
+          "short_description": "Summary\nThis project aims to implement Node Labeling and Preemption API, which are existing feature of resource managers, on REEF. Node Labels allow...",
+          "student_name": "Seokchan Ahn",
+          "code_url": "https://gist.github.com/scan3/6eddf8a20735171fd1f4ccf3b32a3180",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4630813337452544/"
+        },
+        {
+          "title": "Mobile Field Officer App on Apache Fineract Version 2.0",
+          "short_description": "Fineract version 1.0 was based on the client server architecture. Now Mifos is moving one step forward and is going to releasing Gen 3/Fineract...",
+          "student_name": "Rajan Maurya",
+          "code_url": "https://github.com/therajanmaurya/android-client-2.0/pulls?q=is%3Apr+author%3Atherajanmaurya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4709667863265280/"
+        },
+        {
+          "title": "Distributed Workload Management",
+          "short_description": "Apache Airavata is a framework that allows users to manage and execute multiple tasks using distributed computing techniques in the cloud. A core...",
+          "student_name": "apalkar",
+          "code_url": "https://docs.google.com/document/d/1z9Lo5zUkU01uchvtJCtX454x8lUG2o05-63F6O7awdA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4774844797288448/"
+        },
+        {
+          "title": "Database Versioning in Apache Airavata",
+          "short_description": "Considering Airavata, which has multiple developers contributing to the project, there is bound to be a situation where the databases and the data...",
+          "student_name": "Sneha Tilak",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/A+gist+of+my+summer+with+Apache+Airavata+during+GSoC+2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4793818889060352/"
+        },
+        {
+          "title": "DERBY-6921 How good is the Derby Query Optimizer, really",
+          "short_description": "Query Optimization is an active field of research in the Database Research Community, researchers have spent significant time and resources studying...",
+          "student_name": "Harshvardhan Gupta",
+          "code_url": "https://medium.com/@harshvardhangupta/apache-derby-google-summer-of-code-2017-52aa99ff77c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6076759980113920/"
+        },
+        {
+          "title": "Automate performance testing and reporting",
+          "short_description": "Currently the performance tests are only semi-automated and only a subset of algorithms are included, but largely the process is manual. An automatic...",
+          "student_name": "Sai Krishna Kalyan",
+          "code_url": "https://github.com/krishnakalyan3/krishnakalyan3.github.io/blob/master/work_product.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6077565689135104/"
+        },
+        {
+          "title": "Fineract REST API \"Live\" - Swagger",
+          "short_description": "Mifos (Fineract) has a documented REST API already. It currently has two limitations:\nIt's source is simply a HTML file that is maintained manually...",
+          "student_name": "Sanyam Goel",
+          "code_url": "https://github.com/apache/fineract/pull/409",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4848851110330368/"
+        },
+        {
+          "title": "Supporting Image-to-Text (Image Captioning) in Tika for Image MIME Types",
+          "short_description": "Image captions are a small piece of text, usually of one line, added to the metadata of images to provide a brief summary of the scenery in the...",
+          "student_name": "Thejan Wijesinghe",
+          "code_url": "https://wiki.apache.org/tika/GSOC/GSoC2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4859682480979968/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5175246747336704/",
+      "num_projects": 23,
+      "projects": [
+        {
+          "title": "GORA-535 Add a data store for Apache Ignite",
+          "short_description": "This GSoC project aims to implement a new backend for Apache Gora, specifically the distributed database Apache Ignite. This proposal focuses on the...",
+          "student_name": "Carlos Mu\u00f1oz",
+          "code_url": "https://github.com/apache/gora/pull/134",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6380991102844928/"
+        },
+        {
+          "title": "MongoDB Output Connector for Apache ManifoldCF",
+          "short_description": "Apache ManifoldCF is an open source software framework which falls under the category of enterprise content management software, designed to...",
+          "student_name": "Irindu Nugawela",
+          "code_url": "https://drive.google.com/drive/folders/1Vq8rYKKzl27_YGrIuKsXch0j7QMihhCW",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6680749151354880/"
+        },
+        {
+          "title": "Support Groovy implementations in the  Netbeans IDE plugin",
+          "short_description": "Apache Syncope allows customization of its behaviour using Groovy scripts this is done so that the Syncope behaviour can be customized at runtime. It...",
+          "student_name": "Rohan Julka",
+          "code_url": "https://gist.github.com/rohanjulka19/1773172d06c289af5c7e1bb191613e27",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5726348362383360/"
+        },
+        {
+          "title": "Mapping Criminal Activity",
+          "short_description": "I'm making a criminology gateway which would make data more accessible to those with the proper clearance by creating a web application that is easy...",
+          "student_name": "Davis Joseph",
+          "code_url": "https://github.com/datjosep/airavata-sandbox/tree/master/gsoc2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5397332929544192/"
+        },
+        {
+          "title": "Integrate NextCloud for Apache Airavata's Data Transfer Use Cases",
+          "short_description": "The goal of this project is to design and implement a Nextcloud module and replace the existing transfer of the files from the client applications...",
+          "student_name": "Karan Kotabagi",
+          "code_url": "https://github.com/karankotz/Apache-airavata-nextcloud-/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5025640554168320/"
+        },
+        {
+          "title": "Re-architect Output Data Parsing into Airavata core",
+          "short_description": "This provides an opportunity to re-architect the data catalog and build it on new Helix DAG based execution within Airavata.",
+          "student_name": "Lahiru Jayathilake",
+          "code_url": "https://medium.com/@lahiru_j/gsoc-2018-re-architect-output-data-parsing-into-airavata-core-81da4b37057e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5293136083419136/"
+        },
+        {
+          "title": "[AIRAVATA-2717] [GSoC] Resurrect User-Defined Airavata Workflows",
+          "short_description": "Apache Airavata used to support user-defined workflows using the XBaya interface, to drag and drop application components to a workspace and define...",
+          "student_name": "Yasas Gunarathne",
+          "code_url": "https://medium.com/@yasgun/gsoc-2018-with-apache-airavata-user-defined-airavata-workflows-39f0e79234ee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5636168544681984/"
+        },
+        {
+          "title": "Evolve DRAT web interface",
+          "short_description": "Apache DRAT is an open source Release Audit Tool. Which is distributed and parallelized (Map Reduce) wrapper around APACHE RATTM (Release Audit Tool)...",
+          "student_name": "Ahmed Ifhaam",
+          "code_url": "https://medium.com/@ahmedifhaam/the-journey-21af965c9493",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6199118498103296/"
+        },
+        {
+          "title": "Apache Taverna CWL support proposal",
+          "short_description": "The Common Workflow Language (CWL) aims to standardize workflow languages to execute command line tools on the cloud and on local servers.\nApache...",
+          "student_name": "Majdi Haouech",
+          "code_url": "https://github.com/haouech/incubator-taverna-language/tree/cwlparser",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6202553398198272/"
+        },
+        {
+          "title": "Fineract CN SMS & Email Notifications",
+          "short_description": "This project is a new feature request for the Apache Fineract CN. The SMS/Email Notifications service would be a microservice developed on Apache...",
+          "student_name": "Graham",
+          "code_url": "https://gist.github.com/ebenezergraham/c0f085f95bf0a8c6aade2101f2a61575",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4548540353216512/"
+        },
+        {
+          "title": "Writing Tests for Apache Taverna Mobile",
+          "short_description": "Apache Taverna Mobile is an Android app for controlling an Apache Taverna Server for remotely running Apache Taverna workflows. Apache Taverna mobile...",
+          "student_name": "Hitesh Gautam",
+          "code_url": "https://gist.github.com/Hiteshgautam01/8a2367d71869b0d9bc0ef599693205bc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4680671263981568/"
+        },
+        {
+          "title": "Fineract CN Mobile 2.0",
+          "short_description": "The development phase for Fineract CN Mobile 2.0 can be divided into these parts:-\n\nNew Features like Multiple account login and maintain session,...",
+          "student_name": "Dilpreet Singh",
+          "code_url": "https://github.com/apache/fineract-cn-mobile/pulls?utf8=\u2713&q=is%3Apr+author%3Adilpreet96",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4686743341105152/"
+        },
+        {
+          "title": "Implement RESTful API and web ui interface in Nemo",
+          "short_description": "Apache Nemo (incubating) is a data processing system that supports various deployment characteristics, by easily customizing translation of a...",
+          "student_name": "Jae Hyeon Park",
+          "code_url": "https://github.com/apache/incubator-nemo/pull/95",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4758094961704960/"
+        },
+        {
+          "title": "Implementing integration plugins in RocketMQ for HBase and Beam",
+          "short_description": "This proposal aims at designing, implementing and evaluating plugins that integrate RocketMQ with both the HBase data store and the Beam data...",
+          "student_name": "Sergio Esteves",
+          "code_url": "https://gist.github.com/sesteves/9c37e23f7e0b79cfb6be1f7ee6a31acc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4822558528503808/"
+        },
+        {
+          "title": "Implement OGC Catalog Service for the Web(CSW)",
+          "short_description": "This project focus on building about the server side of the Catalog Service for the Web(CSW) is base on OGC Catalogue interface standards use the...",
+          "student_name": "PHUONG HAO NGUYEN THI",
+          "code_url": "https://phuonghaonguyen.blogspot.com/2018/08/i.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6480593474813952/"
+        },
+        {
+          "title": "[COMDEV-254] Allura - Personal Dashboard",
+          "short_description": "A nice improvement to Allura project/code hosting would be a personal dashboard when a user is logged in. It would provide quick access to the...",
+          "student_name": "Deshani Geethika",
+          "code_url": "https://medium.com/@deshanigeethika/gsoc-2018-apache-allura-personal-dashboard-631b4bc23ec5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6563917719404544/"
+        },
+        {
+          "title": "New Web UI For Apache Fineract CN",
+          "short_description": "This project is about designing a new web user interface for institutions with Group lending facilities using Apache Fineract CN which will be...",
+          "student_name": "Pembe Motia",
+          "code_url": "https://gist.github.com/pembemiriam/f588107c092b686e394ed3866730b489",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4911608904024064/"
+        },
+        {
+          "title": "Group Loan Management Service",
+          "short_description": "This project is about building a Group Loan Management Service web UI within the fims-web-app to consume the existing APIs of the Group microservice...",
+          "student_name": "Ruphine Kengne",
+          "code_url": "https://gist.github.com/kengneruphine/1b9ec42cae46e62c637729f0505cdfc5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5836324221222912/"
+        },
+        {
+          "title": "Apache Beam: TPC-H Benchmark on Beam SQL",
+          "short_description": "Beam has a number of classic streaming SQL benchmarks known as \"Nexmark\" coded up in both raw Java and also Beam SQL.\nSo far, expanding functionality...",
+          "student_name": "Kai Jiang",
+          "code_url": "https://gist.github.com/vectorijk/4372aa5e69b465138f29eb9083952590",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6321528153047040/"
+        },
+        {
+          "title": "OpenID Connect Authentication Handler for Apache Sling",
+          "short_description": "This project is about creating an OpenID Connect Relying Party Authentication Handler for Apache Sling.  OpenID Connect(OIDC) is an authentication...",
+          "student_name": "Hasini Witharana",
+          "code_url": "https://medium.com/@hasiniwitharana/gsoc-2018-openid-connect-relying-party-implementation-for-apache-sling-635ea1e9b45e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5129417365913600/"
+        },
+        {
+          "title": "ANY23-295  Implement ability to use librdfa",
+          "short_description": "This project will implement a new RDFa parser for Apache Any23 through a wrapper of the native C/C++ library Librdfa. The implementation aims to...",
+          "student_name": "Julio Caguano",
+          "code_url": "https://cwiki.apache.org/confluence/display/ANY23/GSoC+2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5137473516601344/"
+        },
+        {
+          "title": "[SYSTEMML-2083] Language and runtime for parameter servers",
+          "short_description": "The project aims to provide a compiler extension and runtime for a new \"paramserv\" built-in function. In the context of large-scale machine learning,...",
+          "student_name": "Guobao LI",
+          "code_url": "http://edgarlgb.github.io/Gsoc-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5148916517437440/"
+        },
+        {
+          "title": "OpenWhisk performance improvement - work stealing, priority-based scheduling on load balancer and direct connection for streaming capabilities.",
+          "short_description": "The emergence of serverless computing moves cloud/edge to the next generation of resource sharing: function as a service. The innovation makes...",
+          "student_name": "Tzu-Chiao Yeh",
+          "code_url": "https://tz70s.github.io/posts/gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5211013825691648/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5617445421711360/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "SpamAssassin : Statistical Classifier Plugin",
+          "short_description": "The goal of the project is to implement a plugin with various statistical models implemented underneath from which the user can choose the best one...",
+          "student_name": "Shreyansh Shrivastava",
+          "code_url": "https://medium.com/@shreyansh25.shrivastava/gsoc19-work-submission-4699662d99f5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6477076280901632/"
+        },
+        {
+          "title": "CAMEL-11492 New Camel website",
+          "short_description": "New Camel website is a major migration of http://camel.apache.org/ website. This work is focused on Camel 3 final release in September.\nTools used to...",
+          "student_name": "Nayananga Muhandiram",
+          "code_url": "https://medium.com/@nayanangamuhandiram/final-submission-in-gsoc-2019-a99b117a64b3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6707838833917952/"
+        },
+        {
+          "title": "[BEAM-6611] A Python Sink for BigQuery with File Loads in Streaming",
+          "short_description": "This project aims to add support for File Loads method of inserting data into BigQuery for streaming pipelines. The PR - #7655 for [BEAM-6553] added...",
+          "student_name": "Tanay Tummalapalli",
+          "code_url": "https://gist.github.com/ttanay/80f84b7b852e0867d5a00d3b345e1dad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6754999034445824/"
+        },
+        {
+          "title": "CAMEL-9260 Dataformat Apache Any23",
+          "short_description": "This project will implement a new dataformat within Apache Camel. Concretely, the dataformat will cover the microformats standard through the...",
+          "student_name": "Roberto Flores",
+          "code_url": "https://github.com/apache/camel/pull/3022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5670732191760384/"
+        },
+        {
+          "title": "Implementing an user mentions feature for discussions with additional improvements",
+          "short_description": "This proposal suggests a full-featured modern user mentions feature with additional improvements for Apache Allura. User will be able to mention...",
+          "student_name": "Shalitha Suranga",
+          "code_url": "https://medium.com/@shalithasuranga/gsoc-2019-implementing-user-mentions-feature-for-apache-allura-4e5e4df8b2db",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5430086918995968/"
+        },
+        {
+          "title": "[OODT-986] A React based new UI for OPSUI",
+          "short_description": "At the present stage, Apache OODT provides a web app to monitor the status of each component and ingested files, metadata and workflows. This main...",
+          "student_name": "Nadeeshan Gimhana",
+          "code_url": "https://medium.com/@gimhanadesilva.15/gsoc-2019-apache-oodt-react-based-opsui-dashboard-d93a9083981c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5432463780741120/"
+        },
+        {
+          "title": "Hazelcast Jet execution engine support for Apache Gora",
+          "short_description": "The Apache Gora\u2122 an in-memory data model and persistence for big data. Gora provides a generic API to work with different datastores. Data storing,...",
+          "student_name": "Lahiru Jayasekara",
+          "code_url": "https://github.com/apache/gora/pull/175",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5499434064936960/"
+        },
+        {
+          "title": "GORA-527: Implement a data store for REDIS",
+          "short_description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. So, It is better if Apache Gora...",
+          "student_name": "Xavier Sumba",
+          "code_url": "https://cwiki.apache.org/confluence/display/GORA/GORA-527%3A+Implement+a+data+store+for+REDIS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6142988273582080/"
+        },
+        {
+          "title": "Implementing Parallel Sort Merge Join in AsterixDB",
+          "short_description": "AsterixDB currently attempts to perform an efficient join using a hybrid-hash-join and uses a nested-loop-join when hybrid-hash-join is not...",
+          "student_name": "Stephen Ermshar",
+          "code_url": "https://lists.apache.org/thread.html/aac14e34a217daf2a95e9cec774114ad33324ce6918878146f38f7d8@<dev.asterixdb.apache.org>",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5611242465525760/"
+        },
+        {
+          "title": "Empower Apache Nemo I/O with new hardware and off-heap memory",
+          "short_description": "This project aims to optimize Apache Nemo I/O with two main approaches:\n\nProviding I/O using high-performance networking and storage hardware such as...",
+          "student_name": "Haeyoon Cho",
+          "code_url": "https://github.com/hy00nc/GSoC2019/blob/master/FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4554188468518912/"
+        },
+        {
+          "title": "PMDK based Persistent Memory Service for Mnemonic",
+          "short_description": "Apache Mnemonic is a non-volatile hybrid memory storage oriented library and it proposes a non-volatile/durable Java object model and durable...",
+          "student_name": "Afrin Jaman",
+          "code_url": "https://github.com/apache/mnemonic/pull/118",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4737513996943360/"
+        },
+        {
+          "title": "Swagger Documentation for Fineract APIs",
+          "short_description": "In the previous documentation of fineract API, the source was simply an HTML  file which was maintained manually in parallel to the source code which...",
+          "student_name": "Kang Breder Mbulle",
+          "code_url": "https://gist.github.com/kangbreder/034f47e2e8015cee10b48b7c5f1b8df1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6515157121892352/"
+        },
+        {
+          "title": "Benchmark Module for Apache Gora",
+          "short_description": "Apache Gora is an opensource framework which aims to give users an easy-to-use in-memory data model and persistence for big data frameworks with data...",
+          "student_name": "Sheriffo Ceesay",
+          "code_url": "https://cwiki.apache.org/confluence/display/GORA/Final+Report%3A+%5BGORA-532%5D+Benchmark+Module+For+Apache+Gora",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4872731915452416/"
+        },
+        {
+          "title": "Support Nemo Executor on AWS Lambda",
+          "short_description": "This project aims at improving the flexibility and resource management of Apache Nemo by dispatching Nemo executor to AWS Lambda Function.",
+          "student_name": "Zhiyuan Gao",
+          "code_url": "https://issues.apache.org/jira/browse/NEMO-352",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4878490845839360/"
+        },
+        {
+          "title": "Make OODT Deployment Simple Using Docker and Distributed Configuration Management",
+          "short_description": "This project aims to make OODT deployment and configuration management simple through implementation of a docker-based deployment tool that...",
+          "student_name": "Yasith Jayawardana",
+          "code_url": "https://about.yasithmilinda.me/open-source.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5817813699133440/"
+        },
+        {
+          "title": "Object-relational Mapping Migration",
+          "short_description": "Apache Fineract CN is currently using HIbernate as it Object-Relational Mapping. However, Hibernate's license is not compliant with the Apache...",
+          "student_name": "Graham",
+          "code_url": "https://gist.github.com/ebenezergraham/b0f46714b4821650db62cb68b03f50f2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5906535694204928/"
+        },
+        {
+          "title": "GORA-485 Apache Kudu datastore for Gora",
+          "short_description": "This project aims to integrate Kudu (a columnar storage manager developed for the Apache Hadoop platform) into the Apache Gora project as a DataStore...",
+          "student_name": "John Javier Mora Vivar",
+          "code_url": "https://cwiki.apache.org/confluence/display/GORA/GORA-485+Apache+Kudu+datastore+for+Gora+Reports",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5979318746873856/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6679967372410880/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Making Fineract More Robust",
+          "short_description": "The project aims to make Fineract more robust by fixing Issues/feature Requests in Backlog. The major part of this project include work on making...",
+          "student_name": "Manthan Raju Surkar",
+          "code_url": "https://gist.github.com/thesmallstar/265d4f75a3a91bedb6acbf54b3e67cf9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6593169975672832/"
+        },
+        {
+          "title": "Apache Gora - Implement RethinkDB datastore module",
+          "short_description": "RethinkDB is a popular implementation for document store which is being used extensively in modern real time applications. Detailed technical...",
+          "student_name": "Rumesh Perera",
+          "code_url": "https://github.com/apache/gora/pull/219",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5720601970343936/"
+        },
+        {
+          "title": "CAMEL-13934 camel-minio - Component to store/load files from blob store",
+          "short_description": "I have decided to select the project,\ncamel-minio - Component to store/load files from blob store(https://issues.apache.org/jira/browse/CAMEL-13934)...",
+          "student_name": "Nayananga Muhandiram",
+          "code_url": "https://medium.com/@nayanangamuhandiram/my-final-submission-of-gsoc-2020-camel-minio-component-for-apache-camel-d2318e2eaa4f?sk=7bc78b4689cf4eef88a713f3e1a6ccdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6158627733241856/"
+        },
+        {
+          "title": "Interval Join in AsterixDB",
+          "short_description": "AsterixDB currently performs interval joins but it is not optimized; the database uses a nested loop when an interval join is required. In the...",
+          "student_name": "Caleb Herbel",
+          "code_url": "https://gist.github.com/cherbel/6eccbc5fa33d78bcef1cca6f56175a18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5007141632475136/"
+        },
+        {
+          "title": "Implementing Storage limits for multiple types of storages",
+          "short_description": "Airavata based science gateways store data in the gateway storage which is typically mounted in the portal's hosting server. Each user's data is...",
+          "student_name": "vivek",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/User+Storage+Quotas+and+MFT+Dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5046913029636096/"
+        },
+        {
+          "title": "Migrate Fineract ORM from OpenJPA to EclipseLink",
+          "short_description": "In line with the rationale for choosing EclipseLink as the ORM replacement for Hibernate in FineractCN, we have broad consensus across the community...",
+          "student_name": "Yemdjih Kaze Nasser",
+          "code_url": "https://gist.github.com/xurror/9fc6a93e2234dcd546b9d92ba44be28e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5087537648893952/"
+        },
+        {
+          "title": "Strengthen/Harden Fineract 1.x",
+          "short_description": "Strengthen/Harden Fineract 1.x  by integration static analysis tool  Error Prone and enforce code checks; Migrate from Joda time to new Java 8...",
+          "student_name": "Percy Enoabane",
+          "code_url": "https://gist.github.com/percyashu/98b0f7cc7f475b1515a5cae8a22320f4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5102710392619008/"
+        },
+        {
+          "title": "Implement an Azure blobstore filesystem for Python SDK",
+          "short_description": "Currently, Apache Beam Python SDK has already got support for Google Cloud Storage and Amazon Web Services S3. This project aims to add support for...",
+          "student_name": "Aldair Coronel Ruiz",
+          "code_url": "https://gist.github.com/AldairCoronel/a0e0987fd5f386ed9a402ebd70a30bdd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5112694748741632/"
+        },
+        {
+          "title": "Electron.js for Native Airvata Applications",
+          "short_description": "This proposal focuses on developing a prototype in Electron.js of the SEAGrid native application, currently implemented in JavaFX. Once prototyped,...",
+          "student_name": "Nicholas Mowery",
+          "code_url": "https://beta.geogateway.scigap.org/geogateway_django_app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4663367148503040/"
+        },
+        {
+          "title": "Building an injectable IoC centric, small and lightweight HTTP server  and making it runnable as a native executable [Jira: OWB-1319]",
+          "short_description": "CDI (Contexts and Dependency Injection) is an IoC (Inversion of Control) container, that is implemented in Apache OWB (OpenWebBeans). Even though...",
+          "student_name": "Alexander Fischer",
+          "code_url": "https://gist.github.com/a-rekkusu/b98ecd201d25102ca3e118a2fa38fbb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4751252849688576/"
+        },
+        {
+          "title": "Hazelcast IMap backed datastore for Apache Gora",
+          "short_description": "Apache Gora currently has support for JCache datastore which can be used with any JCache provider like Hazelcast. However JCache API does not expose...",
+          "student_name": "Saviyo Perera",
+          "code_url": "https://github.com/apache/gora/pull/222",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4794290636587008/"
+        },
+        {
+          "title": "User Interface for Airavata Managed File Transfer Service",
+          "short_description": "Airavata Managed File Transfer (MFT) (https://github.com/apache/airavata-mft) is the Apache Airavata\u2019s own Data Movement Implementation Framework to...",
+          "student_name": "Akhil nagulavancha",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/User+Interface+for+Airavata+Managed+File+Transfer+Service",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4904320115408896/"
+        },
+        {
+          "title": "Apache Camel - OAI-PMH Component",
+          "short_description": "This proposal aims to implement an OAI-PMH component for Apache Camel. OAI-PMH is a protocol widely used in libraries and digital repositories across...",
+          "student_name": "Juan Segarra",
+          "code_url": "https://github.com/apache/camel/pull/3934",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5843083465326592/"
+        },
+        {
+          "title": "Implementing Pattern Recognition Function in Beam SQL",
+          "short_description": "Match_Recogniztion syntax was introduced in SQL in 2016. It turned out to be very useful in data analysis. Currently, Beam SQL does not support this...",
+          "student_name": "Qihang Zeng",
+          "code_url": "https://docs.google.com/document/d/1jzQN4KuV92C2FtJ3pIP3HuGeDa_8GeBrts8Bp68mv3k/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5936301435518976/"
+        },
+        {
+          "title": "BeamSQL aggregation analytics functionality",
+          "short_description": "This project aims to add support for aggregation analytics functions (a.k.a window functions) to the SQLBeam module of the Apache Beam project. The...",
+          "student_name": "John Mora",
+          "code_url": "https://github.com/apache/beam/pull/11975",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6286692517937152/"
+        },
+        {
+          "title": "Implement Scylla DB Datastore for Apache Gora",
+          "short_description": "Scylla is an open-source distributed NoSQL data store. It was designed to achieve significantly higher throughputs and lower latencies. Apache Gora...",
+          "student_name": "Arne",
+          "code_url": "https://github.com/apache/gora/pull/221",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5176655267495936/"
+        },
+        {
+          "title": "Implement ArangoDB multi-model data store for Apache Gora",
+          "short_description": "Multi model databases are becoming more popular due its native support for polyglot persistence. Polyglot Persistence is a term to mean that when...",
+          "student_name": "Dinuka Perera",
+          "code_url": "https://github.com/apache/gora/pull/218",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5187038518706176/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5149287498907648/",
+      "num_projects": 28,
+      "projects": [
+        {
+          "title": "Improve Robustness by fixing Issues / Feature Requests from the backlog",
+          "short_description": "Proposal is about improving the robustness of MifosX and Apache Fineract by fixing issues/feature requests from the backlog. There're currently 5...",
+          "student_name": "Benura Abeywardena",
+          "code_url": "https://gist.github.com/BLasan/9c624bf4e5230b17c1dc4711301097f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6385348753489920/"
+        },
+        {
+          "title": "Enhance verification for APISIX ingress controller",
+          "short_description": "Currently, the basic structural verification of CRD has been completed in APISIX Ingress Controller, but more verification is still needed. For...",
+          "student_name": "Huaxi Jiang",
+          "code_url": "https://gist.github.com/fgksgf/27d7d8d90fc688bdfb686c4387240e14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6468310341779456/"
+        },
+        {
+          "title": "Application Proposal for Apache Clerezza",
+          "short_description": "The purpose of this task is to define an ontology for conversations and to create a Java library based on Apache Clerezza to store them. Signal...",
+          "student_name": "Yusuf Karadag",
+          "code_url": "https://github.com/miador/clerezza-signal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5668477070737408/"
+        },
+        {
+          "title": "Proposal for cloudstack: cloning a VM",
+          "short_description": "Currently, cloudstack does not have an option for the user to clone a VM. In order to achieve a full clone, we have to manually handle it by using...",
+          "student_name": "Junxuan Wu",
+          "code_url": "https://github.com/apache/cloudstack/pull/5216",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5669923870736384/"
+        },
+        {
+          "title": "COMDEV-412 Apache DolphinScheduler Parameter coverage",
+          "short_description": "Currently parameter configuration of DolphinScheduler is mainly based on configuration files. However there\u2019s no way to override parameters when the...",
+          "student_name": "nrumeshp",
+          "code_url": "https://github.com/apache/dolphinscheduler/pull/6027",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5696192259817472/"
+        },
+        {
+          "title": "Multiple SSH key holding on CloudStack",
+          "short_description": "Project proposal on issue#4813 about holding multiple SSH keys.\nAs of now, ACS supports only a single SSH key to be added / reset on a VM. Here I...",
+          "student_name": "Bikram Biswas-1",
+          "code_url": "https://docs.google.com/document/d/1uRSKex-8fNoYdj4skx2UXtciRDj5Hf7kQiXqPA4Jqso",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5728925379985408/"
+        },
+        {
+          "title": "Functional Enhancements To Fineract CN Mobile Application",
+          "short_description": "The Fineract-cn-mobile application is the Android client of Apache Fineract CN, built on top of the FIneract CN Platform. It provides banking...",
+          "student_name": "Varun Jain",
+          "code_url": "https://gist.github.com/varsvat/be08d5234770b1c22d809177564a6276",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5754030134919168/"
+        },
+        {
+          "title": "Containerisation of Apache Synapse ESB",
+          "short_description": "The Apache Synapse ESB currently exists as a standard server runtime, the same state it\u2019s been since inception. However cloud native technologies...",
+          "student_name": "Nuwan Jayawardene",
+          "code_url": "https://github.com/n-jay/gsoc-2021/tree/feature1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5088417175568384/"
+        },
+        {
+          "title": "Add ttl for cassandra snapshots",
+          "short_description": "Currently Cassandra can create snapshots of SSTables containing all data of concrete Column Family (Analogue of the table into RDBMS).Snapshot is a...",
+          "student_name": "fibersel",
+          "code_url": "https://github.com/apache/cassandra/pull/1046",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5128135825162240/"
+        },
+        {
+          "title": "Fineract Client",
+          "short_description": "A Java and Retrofit2 based library, which mainly focuses on building an abstraction layer over the fineract API. Currently, all the MIFOS application...",
+          "student_name": "Danish Jamal",
+          "code_url": "https://gist.github.com/danishjamal104/ddb099d5f7985dc08537db658c178a81",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5246508378619904/"
+        },
+        {
+          "title": "Implementing Work Stealing on Nemo",
+          "short_description": "This project aims to optimize the performance of Nemo by dynamically splitting skewed tasks of a job based on the information collected from runtime...",
+          "student_name": "Hwarim Hyun",
+          "code_url": "https://github.com/apache/incubator-nemo/pull/312,",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5555996843311104/"
+        },
+        {
+          "title": "APISIX ingress controller integration with Knative Serving",
+          "short_description": "Knative is an extension of Kubernetes and is specifically designed for serverless workloads. Knative Serving, as one of the core components of...",
+          "student_name": "Fang Hu",
+          "code_url": "https://gist.github.com/fhuzero/a913eb2ae3cddb04b0019dc95c0daebe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6199699496763392/"
+        },
+        {
+          "title": "[Incubator-Nemo] Accurate Task Execution Simulator for Distributed Data Processing",
+          "short_description": "This is a project that develops a simulator consisting of an executor model abstracted based on statistics and a scheduler model that are executed...",
+          "student_name": "Hae Dong Lee",
+          "code_url": "https://lemarais.github.io/gsoc/2021/08/24/GSoC-final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6209738378838016/"
+        },
+        {
+          "title": "Redesign, develop and refactor APISIX landing page",
+          "short_description": "I propose my project idea relating to Apache APISIX growth, titled \"Redesign, develop and refactor Apache APISIX landing page and documentation...",
+          "student_name": "ShivamSingh",
+          "code_url": "https://gist.github.com/1502shivam-singh/08dfa68024c4503f12cc22df81c4ff96",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4768141195870208/"
+        },
+        {
+          "title": "Machine Learning Credit Scorecard PHASE 4",
+          "short_description": "Financial Organizations using Mifos/Fineract are depending on external agencies or their past experiences for evaluating credit scoring and...",
+          "student_name": "Nasser Yemdjih Kaze",
+          "code_url": "https://gist.github.com/xurror/bba79ecbf063dd8eae8ee9c24732701e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6114688672202752/"
+        },
+        {
+          "title": "Nemo Optimization by WAN Hierarchical Aggregation and Fidelity Control",
+          "short_description": "This GSOC project aims to optimize Nemo execution by performing hierarchical aggregation and controlling its fidelity based on the distance of a...",
+          "student_name": "Ji Ho Kang",
+          "code_url": "https://kangji.github.io/nemo-wan-hierarchical-aggregation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4904415944769536/"
+        },
+        {
+          "title": "Apache James - Implement Thread support for JMAP",
+          "short_description": "JMAP is an email application protocol to modernise IMAP, on top of HTTP using a JSON format. JMAP is designed to make efficient use of limited...",
+          "student_name": "H\u1ed3ng Qu\u00e2n Tr\u1ea7n",
+          "code_url": "https://gist.github.com/quantranhong1999/8147f52a1b17f0461a9f1f27fc8b5303",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4918420021182464/"
+        },
+        {
+          "title": "Support JOOQ API within gora-sql module",
+          "short_description": "Currently the gora-sql module is outdated and only supports mysql database scheme. This module can be rewritten in JOOQ in such a way that it can...",
+          "student_name": "infaz",
+          "code_url": "https://github.com/apache/gora/pull/246",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5762844951314432/"
+        },
+        {
+          "title": "Apache OODT - Improving OPSUI React.js UI with Advanced Functionalities",
+          "short_description": "This project aims to improve the functionalities of the Apache OODT OPSUI React.js User Interface and implement a REST API for the resource manager...",
+          "student_name": "Pavindu Lakshan",
+          "code_url": "https://pavindulakshan.medium.com/gsoc-2021-improving-apache-oodt-opsui-react-js-ui-with-advanced-functionalities-8d1a8b080c8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5863359534071808/"
+        },
+        {
+          "title": "NuttX Support for Rapid Control Applications Development with pysimCoder",
+          "short_description": "NuttX is a real time operating system which provides wide support for smaller and cheaper microcontrollers and development boards. PysimCoder is an...",
+          "student_name": "Michal Lenc",
+          "code_url": "https://cwiki.apache.org/confluence/display/NUTTX/%5B2021%5D+NuttX+Support+for+Rapid+Control+Applications+Development+with+pysimCoder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5866655485263872/"
+        },
+        {
+          "title": "UX Enhancements",
+          "short_description": "There are 3 sub-projects in the UX improvements, they are :\n\nImplementation of shortcut navigation using the keyboard on CloudStack client. \nAdding...",
+          "student_name": "Apurv Gupta",
+          "code_url": "https://apurv-1.github.io/gsoc2021-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5909142476161024/"
+        },
+        {
+          "title": "Enhanced authentication for APISIX Dashboard",
+          "short_description": "Current problem\nA simple identity authentication module has been implemented in the current panel, which supports the user name/password...",
+          "student_name": "Zeping Bai",
+          "code_url": "https://github.com/apache/apisix-dashboard/pull/2010",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5928497645617152/"
+        },
+        {
+          "title": "Functional Enhancements to Fineract CN Mobile",
+          "short_description": "As we know FIneract CN Mobile is a mobile field operations app built upon the brand new Apache Fineract CN micro-services architecture, with an MVP...",
+          "student_name": "Kinar Sharma",
+          "code_url": "https://gist.github.com/EGOR-IND/e13db2d9bcbb221d46741ec3644e800c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5985136419536896/"
+        },
+        {
+          "title": "Proofread Oracle DML SQL Definitions for the ShardingSphere Parser",
+          "short_description": "Apache ShardingSphere uses ANTLR (ANother Tool for Language Recognition) as a generator for the SQL parser engine and obtains SQL statements from AST...",
+          "student_name": "Thanoshan M.V.",
+          "code_url": "https://mvthanoshan.medium.com/apache-shardingsphere-proofread-oracle-dml-sql-definitions-gsoc-2021-fcf6fdcbf34a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6296096749387776/"
+        },
+        {
+          "title": "Dynamic Partitioning for Interval Joins in Asterix Database",
+          "short_description": "Asterix currently requires a static range hint in the query when performing interval joins. The range hint supplies split points for input data, then...",
+          "student_name": "Caleb Herbel",
+          "code_url": "https://gist.github.com/cherbel/44c0f2ab58ee455bd7921ef5554c575d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5147213700792320/"
+        },
+        {
+          "title": "Apache CloudStack - Synchronization of network devices on newly added hosts for Persistent Networks",
+          "short_description": "Apache CloudStack\u2019s persistent networks have been a solution for system administrators, that abstracts away the micromanaging of resources like...",
+          "student_name": "Sang Woo Bae",
+          "code_url": "https://github.com/apache/cloudstack/pull/5195",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5165975426564096/"
+        },
+        {
+          "title": "Apache ShardingSphere - Proofread the Oracle DDL/TCL SQL Definitions",
+          "short_description": "ShardingSphere parser engine helps users parse a SQL to get the AST (Abstract Syntax Tree) and visit this tree to get SQLStatement (Java Object). At...",
+          "student_name": "Liangda Wang",
+          "code_url": "https://github.com/apache/shardingsphere/issues/10513",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5176643219357696/"
+        },
+        {
+          "title": "Proposal for Apache SkyWalking: Python agent supports profiling",
+          "short_description": "Apache SkyWalking already has a Python Agent with relatively complete functions, but it still has some functional deficiencies compared with Java...",
+          "student_name": "Ke Zhang",
+          "code_url": "https://github.com/Humbertzhang/GSOC2021FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5224136162410496/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/apache-software-foundation/",
+      "num_projects": 33,
+      "projects": [
+        {
+          "title": "Apache EventMesh Support Knative as Eventing Infra",
+          "short_description": "By finishing this project, we could provide an event-driven application that connects EventMesh to Knative. Apache EventMesh community could obtain...",
+          "student_name": "Pengcheng Ma",
+          "code_url": "https://pchengma.github.io/2022/09/06/gsoc22.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YxBHSLin/"
+        },
+        {
+          "title": "Apache ShenYu: Integration tests cover more scenarios",
+          "short_description": "The main tasks of this project are adding plugin integration tests and adding new test workflows. There are already integration tests for some...",
+          "student_name": "erdengk",
+          "code_url": "https://github.com/erdengk/GSoC2022/blob/main/GSoC2022.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wWJCM4HI/"
+        },
+        {
+          "title": "Elaborating the new stream processing system utilizes serverless framework with fast scaling policy",
+          "short_description": "In this project, I will focus on building a concrete baseline for stream processing system scaling on a serverless framework. First, choose an...",
+          "student_name": "maverick_June",
+          "code_url": "https://github.com/MaverickJune/snuspl_intern",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hNZOOc0x/"
+        },
+        {
+          "title": "GSoC2022 Rust language implementation",
+          "short_description": "dubbo-rust provides basic RPC communication and service governance capability in microservice scenarios. deliverables: + protoc-gen-rust-triple:...",
+          "student_name": "\u6768\u9633",
+          "code_url": "https://gist.github.com/yang20150702/87ac709f5895c17a1b8079532def2189",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7b6vmFqS/"
+        },
+        {
+          "title": "Apache APISIX Java Plugin Runner Improvement",
+          "short_description": "This project's aim was to improve upon the current apisix-java-plugin-runner design. APISIX is an API Gateway that provides traffic management (load...",
+          "student_name": "erikiceliu",
+          "code_url": "https://gist.github.com/ericluoliu/defa835dccf44a6c11db7bd72f88f10c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cLq6dMbf/"
+        },
+        {
+          "title": "Log Outlier Detection",
+          "short_description": "Currently Apache SkyWalking can collect logs from various sources like user agents and Envoy access logs, it also provides a log analysis language to...",
+          "student_name": "Liangshumin",
+          "code_url": "https://github.com/Liangshumin/GSoC-Log--Outlier--Detection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/REBhXTku/"
+        },
+        {
+          "title": "Dubbo Metrics and Observability",
+          "short_description": "This project has three main modules: indicator collection, local aggregation and indicator push. 1.indicator collection : Define MetricsCollector...",
+          "student_name": "henrik",
+          "code_url": "https://github.com/apache/dubbo/pull/10331",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/88DMMT0I/"
+        },
+        {
+          "title": "DUBBO-92: Explore a new generation of flexible loadbalance algorithms for Dubbo-go",
+          "short_description": "Based on traffic scheduling, traffic limiting and circuit breaking in service mesh, enhancing the feedback capability of the server side (downstream...",
+          "student_name": "Yepeng Zhang",
+          "code_url": "https://github.com/apache/dubbo-go/issues/1834",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jAxP1ZpV/"
+        },
+        {
+          "title": "Proposal For Python API CLI Enhancement",
+          "short_description": "The Python API CLI is a component of PyDolphinScheduler, but it currently only has two commands, `version` and `config`. This proposal refines its...",
+          "student_name": "lyle",
+          "code_url": "https://github.com/pulls?user=apache&q=is%3Apr+author%3Alyleshaw+archived%3Afalse&user=apache",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JTAjayLz/"
+        },
+        {
+          "title": "Apache Dubbo GSoC2022 Proxyless Mesh support",
+          "short_description": "Details xDS \u5b98\u65b9\u8bf4\u660e https://www.envoyproxy.io/docs/envoy/latest/api-docs/xds_protocol \u25cf Listener Discovery Service (LDS): Returns Listener resources....",
+          "student_name": "Cyl",
+          "code_url": "https://gist.github.com/chenyanlann/dd833db1a723ffc4500dc63f4941ae33",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/de4zCj2s/"
+        },
+        {
+          "title": "Dashboards to get quick statistics",
+          "short_description": "Apache Airavata is a software framework for executing and managing computational jobs on distributed computing resources including local clusters,...",
+          "student_name": "Shubham Bipin Kumar",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/Final+Report+%3A+AdminDashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QmSIkjhD/"
+        },
+        {
+          "title": "Solve Unsupported PostgreSQL Statements That Start With 'c' for Shardingsphere Parser",
+          "short_description": "The ShardingSphere parser engine can handle various SQL dialects such as MySQL, PostgreSQL, SQLServer, openGauss, and Oracle. Although the parser...",
+          "student_name": "Thanoshan M.V.",
+          "code_url": "https://github.com/apache/shardingsphere/issues/17844",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LJFxxqPR/"
+        },
+        {
+          "title": "Proposal for Apache Shenyu about logging-elasticsearch plugin",
+          "short_description": "Apache Shenyu supports the use of elasticsearch, Kafka and rocketmq middleware to obtain gateway log information, but at present, it can only support...",
+          "student_name": "QinHaiqi",
+          "code_url": "https://github.com/HaiqiQin/GSoC2022/blob/master/GSoC2022-Summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wjs0bHYB/"
+        },
+        {
+          "title": "Airavata Jupyter Platform Services",
+          "short_description": "There is a need to develop a UI application integrated with Apache Custos as the authentication service to host jupyter notebooks platform on...",
+          "student_name": "Himanshu Hansaria",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/Airavata+Jupyter+Platform+Services+%3A-+Final+Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mRaKJNOZ/"
+        },
+        {
+          "title": "ShenYu: logging-kafka plugin",
+          "short_description": "ShenYu is a widely used program for limiting, fusing, forwarding, routing, monitoring, and so on. Since ShenYu clusters are able to support a large...",
+          "student_name": "Qifan Yu",
+          "code_url": "https://shenyu.apache.org/docs/next/plugin-center/observability/logging-kafka",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HOZgtVXq/"
+        },
+        {
+          "title": "Apache ShardingSphere Develop an external tool to convert YAML configuration into DistSQL scripts",
+          "short_description": "Since version 5.0.0, ShrdingSphere provides its own management language: DistSQL, which greatly facilitates users to manage distributed databases....",
+          "student_name": "Xin Huang",
+          "code_url": "https://github.com/isHuangXin/GSoC-2022-DistSQL-Convert-Tool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4PnSweAf/"
+        },
+        {
+          "title": "Apache skywalking: Add the webapp of Banyandb",
+          "short_description": "Apache skywalking: Add the webapp of Banyandb has determined the support for HTTP client requests, and the data structure has been designed. We only...",
+          "student_name": "Chusheng Wu",
+          "code_url": "https://github.com/apache/skywalking-banyandb/pull/175",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FKBuRb8U/"
+        },
+        {
+          "title": "DolphinScheduler: Support etcd as registry",
+          "short_description": "The dolphinscheduler-registry-api defines the standard for implementing plugins. This project aims to support Etcd as a new registrar plugin and help...",
+          "student_name": "wjf",
+          "code_url": "https://gist.github.com/wjf222/3096c65bae2b4e9073f484b3dc090de6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/O8ZokNAN/"
+        },
+        {
+          "title": "SMILES Data Models",
+          "short_description": "The goal is to design and implement the solution to the Airavata Data Catalog to record the metadata extracted from the Literature, Experimental and...",
+          "student_name": "Bhavesh Asanabada",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/SMILES+Data+Models",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LAzoIUP3/"
+        },
+        {
+          "title": "Solve unsupported Postgres sql about alter statement for ShardingSphere Parser",
+          "short_description": "Apache ShardingSphere is positioned as a Database Plus, and aims at building a standard layer and ecosystem above heterogeneous databases. It focuses...",
+          "student_name": "Everly Precia Suresh",
+          "code_url": "https://gist.github.com/everly-gif/b2df9b5b2133afc671c38c43c08f2569",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ajDT1hjj/"
+        },
+        {
+          "title": "Gracefully shuts down for dubbo-go-pixiu",
+          "short_description": "Pixiu is an open source Dubbo ecosystem API gateway and language solution for accessing dubbo clusters. When Pixiu is closed, there may be some...",
+          "student_name": "Shibo Chen",
+          "code_url": "https://github.com/apache/dubbo-go-pixiu/pull/474",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cbmFNiQj/"
+        },
+        {
+          "title": "dubbo-go Proxyless Mesh",
+          "short_description": "Service mesh has brought new vitality to the rpc field, but the complexity and performance loss of the sidecar deployment discourages users....",
+          "student_name": "zlber",
+          "code_url": "https://github.com/apache/dubbo-go/pull/1945",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lZ90KM9Z/"
+        },
+        {
+          "title": "GSoC 2022: Dubo-go-boot project enriches other middleware adaptations",
+          "short_description": "Dubo-go-boot project enriches other middleware adaptations Similar to the Spring Boot project, which makes it easier for users to use dubo-Go...",
+          "student_name": "jay li",
+          "code_url": "https://github.com/dubbogo/dubbo-go-boot/pull/9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CVodKm18/"
+        },
+        {
+          "title": "Apache Custos Baremetal Deployment",
+          "short_description": "Although Apache Custos is currently deployed on a Kubernetes cluster - its size and complexity may not be ideal for a relatively small application...",
+          "student_name": "Abhinav Sinha",
+          "code_url": "https://medium.com/@abhinav7.sinha/gsoc-2022-apache-airavata-final-report-db4e79043c67",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2OPKNrzB/"
+        },
+        {
+          "title": "Airavata Rich Client Based on ElectronJS",
+          "short_description": "The SeaGrid web portal is created for interested science communities for conducting experiments. Desktop applications have better performance for...",
+          "student_name": "Aishwarya Sinhasane",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1cNhg9b3/"
+        },
+        {
+          "title": "EventMesh Admin Dashboard",
+          "short_description": "Currently, there is no front end user interface for the control plane of EventMesh. For this project, we're building a front end user interface for...",
+          "student_name": "Kaifeng Liu",
+          "code_url": "https://github.com/apache/incubator-eventmesh/tree/dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fPgGP9W7/"
+        },
+        {
+          "title": "Apache Geode Data store support for Apache Gora(GORA-698)",
+          "short_description": "The goal is to add Apache Geode support for the Apache Gora project. Apache Gora currently supports a wide range of data stores. But, Apache Geode is...",
+          "student_name": "Himanshu Acharya",
+          "code_url": "https://github.com/apache/gora/pull/273",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3P25m4BT/"
+        },
+        {
+          "title": "Thin SDK for Proxy Mesh",
+          "short_description": "The overall goal is to modify the Dubbo SDK to work in mesh mode and streamline unnecessary processes. 1. For service invocation, add the meshEnable...",
+          "student_name": "conghuhu",
+          "code_url": "https://github.com/conghuhu/conghuhu/blob/main/GSoC%202022%20Work%20Product%20Doc.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JCf3vuRf/"
+        },
+        {
+          "title": "Commons Numbers Library for Complex Linear Algebra",
+          "short_description": "The existing Commons Numbers library for complex types uses collections of complex object instances that incur Java object allocation overhead and is...",
+          "student_name": "Sumanth Sulur Rajkumar",
+          "code_url": "https://gist.github.com/sumanth-rajkumar/705e0247c1b48f78bfded8fa58a98aa0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/m9ScOEh7/"
+        },
+        {
+          "title": "Task demo demonstrating the usage of Dubbo3",
+          "short_description": "\u670d\u52a1\u6cbb\u7406\uff08Service-Oriented Architecture (SOA) governance\uff09\u662f\u6307\u5728\u9762\u5411\u670d\u52a1\u67b6\u6784\u4e2d\u5bf9\u670d\u52a1\u6267\u884c\u63a7\u5236\u76f8\u5173\u7684\u6d3b\u52a8\uff0c\u4e3b\u8981\u4f5c\u7528\u662f\u6539\u53d8\u8fd0\u884c\u65f6\u670d\u52a1\u7684\u884c\u4e3a\u548c\u9009\u5740\u903b\u8f91\uff0c\u8fbe\u5230\u9650\u6d41\uff0c\u6743\u91cd\u914d\u7f6e\u7b49\u76ee\u7684\u3002Dubbo...",
+          "student_name": "Huang Yilong",
+          "code_url": "https://gist.github.com/Trydamere/3cea03844dcdd9b7e10a5bcf58773d63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0h06IrAA/"
+        },
+        {
+          "title": "CloudStack Terraform Provider - Add datasources for the existing resources",
+          "short_description": "CloudStack has recently made the first release of its own terraform provider, called CloudStack-Terraform Provider v0.4.0 and as of today it supports...",
+          "student_name": "Daman Arora",
+          "code_url": "https://gist.github.com/Damans227/f235d8a6a4e609a28be37ce0b2cb4143",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZVraist1/"
+        },
+        {
+          "title": "Runner Comparison / Capability Matrix revamp",
+          "short_description": "Currently, Apache Beam maintains a static capability matrix to track which Beam features are supported by which set of language SDKs + Runners. This...",
+          "student_name": "Aisulu Karimbaeva",
+          "code_url": "https://gist.github.com/alive2020/b7c63851c30c1bb739994a8132aa1fc7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bcrkfuzU/"
+        },
+        {
+          "title": "Multi-source data import and export extension for APISIX Dashboard",
+          "short_description": "\u200b A simple route import and export module has been implemented in the current APISIX dashboard. But its implementation faces several problems. \u200b...",
+          "student_name": "Feng Han",
+          "code_url": "https://github.com/apache/apisix-dashboard/pull/2538",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QADLl2VF/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/apache-software-foundation",
+      "num_projects": 25,
+      "projects": [
+        {
+          "title": "Varnish Cache support in Apache Traffic Control",
+          "short_description": "Apache Traffic Control is a Content Delivery Network that that requires Apache Traffic Server as the underlying cache. The goal is to extend the...",
+          "student_name": "AbdulrahmanElawady",
+          "code_url": "https://abdelrahmanelawady.github.io/GSoC-2023/",
+          "proposal_id": "fievIQpu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Y9YXNhle"
+        },
+        {
+          "title": "[GSOC-242] Project proposal for Airflow",
+          "short_description": "Overview This project aims to create a tool for Apache PMCs that will automate analysis of contributor activity in any given Apache repository....",
+          "student_name": "Aibek",
+          "code_url": "https://github.com/AibekYrysbekov/airflow/tree/main/community/pmc-tool",
+          "proposal_id": "sqgLGXS6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/h1cLBx3O"
+        },
+        {
+          "title": "New Summary Statistics API for Java 8 streams",
+          "short_description": "My goal is to design an updated summary statistics API for use with Java 8 streams based on the summary statistic implementations in the Commons Math...",
+          "student_name": "ani5rudh",
+          "code_url": "https://gist.github.com/ani5rudh/4d82f3498f20c9c1a6d6e429cffaab3b",
+          "proposal_id": "8JN59XfI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lEdvtw7o"
+        },
+        {
+          "title": "Introduce New CRD ShardingSphereChaos",
+          "short_description": "Problem: Introduce New CRD ShardingSphereChaos to ShardingSphere. Plan: 1. Design chaos based on ShardingSphere in a production environment...",
+          "student_name": "aroura",
+          "code_url": "https://github.com/moomman/GSOC-Reporter2023-ShardingSphere-on-cloud",
+          "proposal_id": "bGtR94IT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dRt47Swt"
+        },
+        {
+          "title": "GORA-708 Improve ArangoDB datastore and upgrade Hive and HBase dependencies",
+          "short_description": "The project proposes further extending multi model database support in Apache Gora with ArangoDB datastore and upgrade Hive and HBase datastore...",
+          "student_name": "chaminda-neluka",
+          "code_url": "https://gist.github.com/chaminda-neluka/e2b96506cfdee6256a577f14aa21665b",
+          "proposal_id": "Z3ZODGVE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iSEHsdtP"
+        },
+        {
+          "title": "GSoC Implement python client for RocketMQ 5.0",
+          "short_description": "RocketMQ 5.0 has released various language clients including Java, CPP, and Golang, to cover all major programming languages, a Python client needs...",
+          "student_name": "Chaomei Yan",
+          "code_url": "https://github.com/yanchaomei/GSOC2023/blob/main/README.md",
+          "proposal_id": "o7HWt6Xm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XEJasFhe"
+        },
+        {
+          "title": "Dubbo GSoC 2023 - Go Observability Improvement",
+          "short_description": "I am proposing an improvement to the observability capabilities of Apache Dubbo-go, a Dubbo implementation written in Golang used to solve...",
+          "student_name": "Guan Wang",
+          "code_url": "https://gist.github.com/ev1lQuark/7cb8c9fb32bc36fd73b70f0a2037656b",
+          "proposal_id": "QqbgLHvB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/FC5ucrIH"
+        },
+        {
+          "title": "Apache SkyWalking - Python Agent Performance Enhancement Plan",
+          "short_description": "Currently, SkyWalking Python agent is implemented with the Threading module to provide data reporters. Yet with the growth of the Python agent, it is...",
+          "student_name": "Guohan Ling",
+          "code_url": "https://github.com/apache/skywalking-python/pull/316",
+          "proposal_id": "kUgZZKhu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/M7qsJ2mB"
+        },
+        {
+          "title": "Data Privacy Policy Definition and Function Verification for Teaclave",
+          "short_description": "Teaclave currently lacks a mechanism for data providers to enforce policies on the data they upload, and also it cannot verify that the behavior of...",
+          "student_name": "Hiroki Chen",
+          "code_url": "https://github.com/apache/incubator-teaclave",
+          "proposal_id": "y2NQOZ9P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/jnoHeq00"
+        },
+        {
+          "title": "Add Apache Skywalking Terraform Module",
+          "short_description": "Goal: \u25cb To add a Terraform module for SkyWalking deployment to facilitate users in conveniently spinning up a cluster for demonstration or testing. \u25cb...",
+          "student_name": "infracop",
+          "code_url": "https://github.com/apache/skywalking-terraform",
+          "proposal_id": "tSozsdhD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZR71GtF1"
+        },
+        {
+          "title": "Import-Export Instances on KVM",
+          "short_description": "The project adds support for importing and exporting virtual machines (VMs) from KVM Hypervisor into the CloudStack. It helps administrators better...",
+          "student_name": "itsayushpandey",
+          "code_url": "https://github.com/itsayushpandey/GSoC2023",
+          "proposal_id": "CSmn1rsa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/f0gpheQM"
+        },
+        {
+          "title": "ShardingSphere Enhance SQLNodeConverterEngine to support more MySQL SQL statements",
+          "short_description": "Shardingsphere federated query engine provides support for SQL statements. In the GSoc period, I have to add support for more MySQL SELECT statements...",
+          "student_name": "kanha-gupta",
+          "code_url": "https://gist.github.com/kanha-gupta/c62ef45c0e427a682c1e3c2801dd211a",
+          "proposal_id": "BnuDW01I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UIxa8sz7"
+        },
+        {
+          "title": "ShenYu Gsoc2023 - shenyu-ingress-controller",
+          "short_description": "shenyu-ingress-controller is an important step for Apache ShenYu to integrate into the cloud native ecosystem. This time gsoc roughly needs to...",
+          "student_name": "Kunshuai Zhu",
+          "code_url": "https://gist.github.com/JooKS-me/387ed3d2edba5bf427282df84125b2a0",
+          "proposal_id": "PnwDE9W6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RiNlevG8"
+        },
+        {
+          "title": "Design and implementation of lifecycle management of the CyberShuttle agents",
+          "short_description": "Apache Airavata MFT is a distributed high-performance, multi-protocol data transfer engine to orchestrate data movement and operations across most...",
+          "student_name": "Praneeth Chityala",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/Design+and+implementation+of+lifecycle+management+of+the+CyberShuttle+agents",
+          "proposal_id": "dVt4P79l",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wjchXCVK"
+        },
+        {
+          "title": "shenyu-springcloud-plugin-e2e-testcase-proposal",
+          "short_description": "E2e (End to End), also known as end-to-end testing, is a method used to test whether the application flow is executed as designed from beginning to...",
+          "student_name": "QinHaiqi",
+          "code_url": "https://gist.github.com/HaiqiQin/1825af8245210185d3d6f25b1fa52306",
+          "proposal_id": "6uVSeyjm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OeKmTy4J"
+        },
+        {
+          "title": "Building Apache Beam Notebooks for Real-World ML Use Cases",
+          "short_description": "In this project, I want to create Jupyter notebooks for a real-world machine learning use case, especially image processing using publicly accessible...",
+          "student_name": "Reeba Qureshi",
+          "code_url": "https://medium.com/@reebaq2/real-world-ml-use-cases-apache-beam-gsoc-2023-report-edeb313d43ba",
+          "proposal_id": "L9IPqKPz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tCKZoqmv"
+        },
+        {
+          "title": "AI Code Completion for Apache Beam Java SDK.",
+          "short_description": "Currently, Beam has code completion plugins for Python and Golang SDKs in JetBrains IDEs. For example, Pycharm has a plugin called Alabaster that...",
+          "student_name": "Saadat",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vThb7Ig7i7SbjLNGSVpqeyYNiWf93E37U7PiX2dyYBiQfr5iyxaFJ88_TJXXpEpycjZC7REaIi5BNju/pub",
+          "proposal_id": "5kxfGyPa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rXHePT06"
+        },
+        {
+          "title": "Dashboards to get quick statistics",
+          "short_description": "The Airavata Django Portal is a web interface to the Apache Airavata API implemented using the Django web framework. Gateway admins need period...",
+          "student_name": "Saurav Kumar Jha",
+          "code_url": "https://cwiki.apache.org/confluence/display/AIRAVATA/Dashboards+to+get+quick+statistics",
+          "proposal_id": "D9ilOWEo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ZptJgBGs"
+        },
+        {
+          "title": "Apache EventMesh EventMesh official website docs by version and demo show",
+          "short_description": "Improve and maintain EventMesh documentation, including archiving Chinese and English content for different release versions, enhancing project quick...",
+          "student_name": "Shukun Zhang",
+          "code_url": "https://github.com/apache/eventmesh-site/pull/126",
+          "proposal_id": "hinDTfpl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/00W2TfS9"
+        },
+        {
+          "title": "Progressive Page Cache Improvement for Apache Doris",
+          "short_description": "In the process of this task, a more comprehensive page cache system will be completed progressively for Apache Doris, aiming at better cache...",
+          "student_name": "Siyang Tang",
+          "code_url": "https://github.com/apache/doris/pull/23546",
+          "proposal_id": "eL4XZLIl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mfXgmxdQ"
+        },
+        {
+          "title": "RocketMQ DLedger Controller Performance Optimization",
+          "short_description": "Based on the performance bottleneck issues in the current mode of RocketMQ, implement a high-performance, highly maintainable new version of the...",
+          "student_name": "TheR1sing3un",
+          "code_url": "https://github.com/TheR1sing3un/GSoC",
+          "proposal_id": "OHF68Gc9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ShSzQCKe"
+        },
+        {
+          "title": "GORA-709 Improve Geode datastore and upgrade Hadoop dependencies",
+          "short_description": "This project will upgrade Hadoop dependencies in Apache Gora repository and improve Geode datastore existing implementation for Apache Gora., that...",
+          "student_name": "trisha-melani",
+          "code_url": "https://gist.github.com/trisha-melani-gsoc/ac9526ec11e7368207ef2a88bbb911f2",
+          "proposal_id": "XaVdMvXy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/19qnve5z"
+        },
+        {
+          "title": "Apache EventMesh Optimize the event-bridge on EventMesh",
+          "short_description": "Through eventmesh\u2018s event bridge feature, we can connect data to heterogeneous data storage, we hope that the community can optimize the current...",
+          "student_name": "Yixiang Zhao",
+          "code_url": "https://docs.google.com/document/d/1O4XBiS7lvUb9iIz5c5UOL9lRZO2Jqs6NVV2l7lrVFKI/edit?usp=sharing",
+          "proposal_id": "HEiftQLW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8rkqnqNF"
+        },
+        {
+          "title": "Dubbo GSoC 2023 - Development of Dubbo Admin Dashboard UI Pages",
+          "short_description": "Summary of the Development of Dubbo Admin Dashboard UI Pages: Firstly, I analyzed the specifications of the previous code in order to facilitate...",
+          "student_name": "yongshuai wang",
+          "code_url": "https://github.com/SDUWYS/wys/blob/main/Google%20Summer%20of%20Code%202023%20Development%20of%20Dubbo%20Admin%20Dashboard%20UI%20Pages.md",
+          "proposal_id": "OR5E5fVO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tpu64rbb"
+        },
+        {
+          "title": "[GSoC][Doris]Dictionary Encoding Acceleration",
+          "short_description": "Problem description: In Apache Doris, dictionary encoding is performed during data writing and compaction. Dictionary encoding will be implemented on...",
+          "student_name": "Yukang Lian",
+          "code_url": "https://docs.google.com/document/d/1Kx_0rW7RqBerHXugttQhHKv3KpRFDEh7fZ2Hiafh69o/edit",
+          "proposal_id": "G9TRX73L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/D02XRff5"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/apache-software-foundation/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "OVFS, OpenDAL File System via Virtio",
+          "short_description": "Virtio is an open standard designed to enhance I/O performance between virtual machines (VMs) and host systems in virtualized environments. VirtioFS...",
+          "student_name": "zjregee",
+          "code_url": "https://github.com/zjregee/ovfs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SprO8wOO/"
+        },
+        {
+          "title": "Building Rich User Interfaces for Airavata Services",
+          "short_description": "Currently, Apache Airavata Managed File Transfers (MFT) is accessed through a command line interface (CLI), using commands such as mft storage list....",
+          "student_name": "Ganning Xu",
+          "code_url": "https://www.ganningxu.com/blog/google-summer-of-code-apache-airavata-cybershuttle",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TXAWwjun/"
+        },
+        {
+          "title": "Support for Aggregate Engines in Apache UIMA CPP",
+          "short_description": "UIMA is a framework for unstructured information management, in production use for about two decades. The framework is available in C++ and Java,...",
+          "student_name": "Huy T",
+          "code_url": "https://gist.github.com/mac-op/3736a9a76349c7abc4d2a064c8de42ef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gMqxBugf/"
+        },
+        {
+          "title": "Dubbo - Python integration & AI Traffic Management",
+          "short_description": "The proposal aims to enhance Dubbo-python to meet the evolving needs of the AI sector by addressing compatibility issues, architectural limitations,...",
+          "student_name": "Zikang Chen",
+          "code_url": "https://gist.github.com/cnzakii/6ec192eaaac5086369c0bf677412c9e6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PxEnkiBZ/"
+        },
+        {
+          "title": "Optimization of the Query Subsystem in BanyanDB",
+          "short_description": "This project aims to enhance query efficiency through two main optimizations. Firstly, it will focus on improving stream filtering and sorting...",
+          "student_name": "ButterBright",
+          "code_url": "https://gist.github.com/ButterBright/db5ae63583770ebbe54282342525712e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eIOi0A44/"
+        },
+        {
+          "title": "Apache SkyWalking - BanyanDB Cluster Monitoring",
+          "short_description": "SkyWalking BanyanDB is an observability database designed to ingest, analyze, and store metrics, tracing, and logging data. The goal of this project...",
+          "student_name": "Sylvie Wu",
+          "code_url": "https://gist.github.com/Sylvie-Wxr/5533163fbba47dc399b7408458a50c42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/s31z2duw/"
+        },
+        {
+          "title": "Apache OpenDAL Ofs via CloudFilter Project Proposal",
+          "short_description": "OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way. currently...",
+          "student_name": "Ho 229",
+          "code_url": "https://github.com/apache/opendal/issues/5029",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LL5vQ6HN/"
+        },
+        {
+          "title": "Proposal for Unified IDL",
+          "short_description": "Objectives: 1. Develop toolsets to help unify the development experience using dubbo's IDL mode and Non-IDL mode 2. Develop a set of translation...",
+          "student_name": "Chales Xu",
+          "code_url": "https://gist.github.com/SHA-4096/0402c337a87e239e05c3c43a40d688e8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/d7xCkgQ1/"
+        },
+        {
+          "title": "Support Memory Management Module For Apache HugeGraph",
+          "short_description": "This project addresses the latency and response time variability issues in the hugegraph-server query engine by introducing memory management...",
+          "student_name": "Pengzna",
+          "code_url": "https://github.com/apache/incubator-hugegraph/wiki/%5BMemory-Management%5D-GSoC-2024-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GhIkUpuq/"
+        },
+        {
+          "title": "mnemofs: An Apache NuttX NAND Flash Filesystem",
+          "short_description": "NAND flashes have become a very popular medium of storage mainly due to their compactness and cheapness compared to their alternatives, among other...",
+          "student_name": "resyfer",
+          "code_url": "https://github.com/apache/nuttx/issues/11979#issuecomment-2307655305",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JISwnjR5/"
+        },
+        {
+          "title": "Implement Jupyter Extension and Desktop App for Airavata MFT",
+          "short_description": "Currently, Airavata MFT can be accessed through its command line interface and the gRPC API. However, its accessibility will be really enhanced if a...",
+          "student_name": "Shivang Mishra",
+          "code_url": "https://github.com/apache/airavata-custos",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wp8QUxkw/"
+        },
+        {
+          "title": "[GORA-709] Upgrade Hadoop dependencies in Apache Gora",
+          "short_description": "This project aims to upgrade Hadoop dependencies in Apache Gora repository. Apache Gora codebase is based on hadoop 2.x ( 2.5.2 ) and project...",
+          "student_name": "melani-chamoda",
+          "code_url": "https://gist.github.com/melani-chamoda/bffa29c5b4844b87c9e8d52269cd0124",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3HQFL9H1/"
+        },
+        {
+          "title": "Traffic Management for Dubbo-go and Dubbo-k8s, feature enhancement and demonstration",
+          "short_description": "Build the traffic rule distribution process of dubbo-b8s, implement traffic rule push in various environments such as k8s, universal, mesh, enhance...",
+          "student_name": "WangYibo",
+          "code_url": "https://github.com/YarBor/gsoc/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/plyDlESx/"
+        },
+        {
+          "title": "OpenDAL FTP Server (oftp)",
+          "short_description": "OpenDAL is a data access layer that allows users to easily and efficiently retrieve data from various storage services in a unified way. oftp can...",
+          "student_name": "George Miao",
+          "code_url": "https://github.com/apache/opendal/tree/main/integrations/unftp-sbe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RBW1uuxq/"
+        },
+        {
+          "title": "Runze's Proposal for [SS] Scan and create issues for classes that have not implemented unit tests",
+          "short_description": "Apache ShardingSphere(SS) Community focus on code quality and we ever used CodeCov as the test tool. However, when SS update JunitTest Version From 4...",
+          "student_name": "Tommy(Runze) Li",
+          "code_url": "https://github.com/apache/shardingsphere/pull/32396",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CsAwI4xc/"
+        },
+        {
+          "title": "Build out Beam Yaml features",
+          "short_description": "The aim of this project is to enhance the Beam Yaml API by introducing ML and IO transforms to provide the users with more functionalities. The...",
+          "student_name": "Reeba Qureshi",
+          "code_url": "https://medium.com/@reebaq2/apache-beam-yaml-features-gsoc-2024-report-c39f01dacc1c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KePyLXdR/"
+        },
+        {
+          "title": "Build out Beam Use Cases - Implement semantic search pipelines",
+          "short_description": "Apache Beam through its unified model for batch and streaming data-parallel processing pipelines, runners for executing them on a variety of...",
+          "student_name": "itsayushpandey",
+          "code_url": "https://github.com/itsayushpandey/GSoC2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bOmqicBe/"
+        },
+        {
+          "title": "Optimizing Lock Mechanisms in Apache RocketMQ",
+          "short_description": "1.Examine the locking mechanism in RocketMQ and analyze any potential performance bottlenecks it may cause. 2.Design flexible lock optimization...",
+          "student_name": "hqbfz",
+          "code_url": "https://shimo.im/docs/473QM8m8ByCn6l3w/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rAINlqkW/"
+        },
+        {
+          "title": "Apache NuttX Apps and Rust Integration",
+          "short_description": "The integration of Rust into Apache NuttX, an embedded Real-Time Operating System (RTOS) used across various platforms from 8-bit to 64-bit, aims to...",
+          "student_name": "Rushabh Gala",
+          "code_url": "https://github.com/rushabhvg/rushabhvg.github.io/blob/master/articles/end_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6XD00y5S/"
+        },
+        {
+          "title": "RocketMQ Dashboard Supports RocketMQ 5.0 Architecture and Enhances Usability",
+          "short_description": "With the launch of RocketMQ 5.0 architecture, the RocketMQ Dashboard has not been well adapted to RocketMQ 5.0. There have been issues with Dashboard...",
+          "student_name": "ZiweiYuan",
+          "code_url": "https://github.com/1294566108/GSoC-2024-List/blob/main/list",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XF1NcQuS/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/apache-software-foundation",
+      "num_projects": 27,
+      "projects": [
+        {
+          "title": "Enhancing Dubbo Python Serialization",
+          "short_description": "Currently, Dubbo Python exposes a serialization function interface that requires users to implement their own serialization methods. For commonly...",
+          "student_name": "AdityaYadav",
+          "code_url": null,
+          "proposal_id": "1Uh5Dsfu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CnQMbU0M"
+        },
+        {
+          "title": "[Kvrocks] Improve the controller UI",
+          "short_description": "Apache Kvrocks currently uses a minimalistic UI for its Controller, which limits usability and lacks advanced features. This project aims to revamp...",
+          "student_name": "Agnik Misra",
+          "code_url": null,
+          "proposal_id": "lSDmv1Qr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HH06mbPA"
+        },
+        {
+          "title": "Extend multi-raft cluster mode",
+          "short_description": "The current Apache Seata Server supports the Raft cluster mode, but the performance and throughput of the cluster are significantly limited due to...",
+          "student_name": "Andrew SEif",
+          "code_url": null,
+          "proposal_id": "PDZwUEu1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/elIJRNz8"
+        },
+        {
+          "title": "Enhanced Interactive Pipeline Development Environment for JupyterLab",
+          "short_description": "The BeamVision extension revolutionizes interactive pipeline development in JupyterLab by transforming fragmented notebook visualizations into an...",
+          "student_name": "Canyu Chen",
+          "code_url": null,
+          "proposal_id": "vxxey6Pd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xswqwNdM"
+        },
+        {
+          "title": "Implement Agentic GraphRAG Architecture for HugeGraph",
+          "short_description": "This project aims to transform HugeGraph-LLM's current GraphRAG system into an intelligent agent-based architecture that dynamically adapts to query...",
+          "student_name": "Chaomei Yan",
+          "code_url": null,
+          "proposal_id": "7o7B4LC9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZVrEnq6S"
+        },
+        {
+          "title": "Beam YAML, Kafka and Iceberg User Accessibility",
+          "short_description": "Apache Beam is a unified programming model for authoring embarrassingly parallel batch and streaming data processing pipeline. The relatively new...",
+          "student_name": "Charles Nguyen",
+          "code_url": null,
+          "proposal_id": "xcz1QIwo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/f4kiDdus"
+        },
+        {
+          "title": "Infrastructure Automation and Cloud Resource Management for Apache Beam",
+          "short_description": "Apache Beam's test infrastructure is complex and difficult to manage manually. This project aims to improve resource management and security by...",
+          "student_name": "Enrique Calderon",
+          "code_url": null,
+          "proposal_id": "gDlovYdT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QRKMhW67"
+        },
+        {
+          "title": "Extend visualization capabilities of Apache StreamPipes",
+          "short_description": "Apache StreamPipes is a platform that allows you to capture, modify and display IoT data streams. But currently, the part of displaying data is very...",
+          "student_name": "Florian G",
+          "code_url": null,
+          "proposal_id": "6ztFEkSd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/muN9dJS6"
+        },
+        {
+          "title": "Airavata Research Catalog Local Agent",
+          "short_description": "The Airavata Cybershuttle Research Catalog is a web platform that enables researchers to share and run Jupyter Notebooks, GitHub repositories,...",
+          "student_name": "Ganning Xu",
+          "code_url": null,
+          "proposal_id": "ylxd4XzS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dBWuhuqs"
+        },
+        {
+          "title": "Unlocking the Power of Metadata in Apache Seata From Load Balancing to Advanced Routing",
+          "short_description": "Apache Seata's current service discovery relies on registries like Nacos and Zookeeper, which lack support for custom metadata. This limits the...",
+          "student_name": "Guanlin Wu",
+          "code_url": null,
+          "proposal_id": "NLsLIfoz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jI0IGDJg"
+        },
+        {
+          "title": "Optimizing Apache RocketMQ's POP Orderly Consumption Process",
+          "short_description": "Problem: In Apache RocketMQ 5.x POP orderly consumption, when a PushConsumer's ReceiveMessage response is lost due to network issues, the client...",
+          "student_name": "Kingcide",
+          "code_url": null,
+          "proposal_id": "KkmrNbGn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Nv98AHeF"
+        },
+        {
+          "title": "Airavata Django to React Migration: Admin Functionality",
+          "short_description": "This proposal aims to modernize Apache Airavata's administrative features by migrating the current Django-based portal to a React based single page...",
+          "student_name": "Krish Katariya",
+          "code_url": null,
+          "proposal_id": "hgpeh0sh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/O22MG1px"
+        },
+        {
+          "title": "Apache Mahout Refactoring the Website",
+          "short_description": "The project Apache Mahout Refactoring the Website aims to modernize the site by deprecating old technologies and old blogs/posts, also the Qumat...",
+          "student_name": "Krishna Dave",
+          "code_url": null,
+          "proposal_id": "uu9W0QnD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SvnaDehF"
+        },
+        {
+          "title": "Apache SkyWalking GSOC 2025 Proposal: Cloud Storage Integration for BanyanDB",
+          "short_description": "Apache SkyWalking BanyanDB currently supports only local file systems through the remote.FS interface, which limits its flexibility in cloud-native...",
+          "student_name": "Lihan",
+          "code_url": null,
+          "proposal_id": "4CFPj7h8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MZsmKHO2"
+        },
+        {
+          "title": "Dubbo triple protocol for go language implementation",
+          "short_description": "This proposal aims to implement HTTP/3 communication for Dubbo Triple in the Go language environment, enhancing the connection management...",
+          "student_name": "marsevilspirit",
+          "code_url": null,
+          "proposal_id": "OlHvaxqb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iqigMBLJ"
+        },
+        {
+          "title": "NuttX Support for IEEE 802.3-2022 10BASE-T1x Ethernet using Open Aliance SPI MAC-PHYs",
+          "short_description": "This project aims to add support for IEEE 802.3-2022 10BASE-T1x Ethernet in NuttX using MAC-PHY devices with the Open Alliance SPI interface. These...",
+          "student_name": "michal matias",
+          "code_url": null,
+          "proposal_id": "ENnHjBjF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bbWye78I"
+        },
+        {
+          "title": "Beam ML Vector DB/Feature Store Integrations - Mohamed Awnallah GSoC Proposal",
+          "short_description": "The goal of this project is to enhance Apache Beam\u2019s Python SDK by developing connectors for vector databases like Pinecone, Milvus and feature...",
+          "student_name": "Mohamed Awnallah",
+          "code_url": null,
+          "proposal_id": "hkt6vrXx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/X32yGjqz"
+        },
+        {
+          "title": "Replicator and Dependency Injection Enhancements for Lucene.NET",
+          "short_description": "Lucene.NET\u2019s current replication system lacks seamless integration with ASP.NET Core and is not modular enough for use across diverse application...",
+          "student_name": "NehanKhan Pathan",
+          "code_url": null,
+          "proposal_id": "wlM5Hsy9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DWGSyADV"
+        },
+        {
+          "title": "[Airavata] - Designing and Developing the Model and Data Catalog Interfaces for the Apache Airavata",
+          "short_description": "In the current research ecosystem, datasets and trained machine learning models (e.g., LLMs, CNNs, etc.) are often scattered across various...",
+          "student_name": "Nipuna Bandara",
+          "code_url": null,
+          "proposal_id": "YTEJoXnB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/t1hzdmFS"
+        },
+        {
+          "title": "Enhancing Connection Pool Management and Visualization for Apache Seata\u2019s AT/XA Transaction Modes",
+          "short_description": "This project aims to enhance connection pool management in Apache Seata\u2019s AT/XA transaction modes by introducing a unified, user-friendly monitoring...",
+          "student_name": "Oscar Cheng",
+          "code_url": null,
+          "proposal_id": "QbFiDXtf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EPXz1kVe"
+        },
+        {
+          "title": "GSoC Proposal: AI Agent for Apache HertzBeat with MCP",
+          "short_description": "This proposal outlines the development of an AI Agent for Apache HertzBeat using the Model Context Protocol (MCP), enabling natural language...",
+          "student_name": "sarthakeash",
+          "code_url": null,
+          "proposal_id": "1nKfLzUk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MZlJ0wnB"
+        },
+        {
+          "title": "Add more traffic management rule support for Dubbo Proxyless Mesh",
+          "short_description": "Dubbo Proxyless mode refers to Dubbo directly communicating with the control plane and achieving capabilities such as Service Discovery and Service...",
+          "student_name": "Shihao Hu",
+          "code_url": null,
+          "proposal_id": "PMdSAaxS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qlaBuhvs"
+        },
+        {
+          "title": "Firmware Upgrades over Silicon-Heaven Protocol for NXboot Demonstrated on pysimCoder",
+          "short_description": "The primary goal of this project is to develop a practical firmware updater for NuttX that leverages the NXBoot bootloader. The updater will transfer...",
+          "student_name": "\u0160t\u011bp\u00e1n Pressl",
+          "code_url": null,
+          "proposal_id": "pxVdkupp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/whPaBXY8"
+        },
+        {
+          "title": "Identification and Generation of Computational Experiments in AIRAVATA",
+          "short_description": "In scientific computing environments like Apache Airavata, users routinely configure and execute complex computational experiments involving multiple...",
+          "student_name": "svaibhav",
+          "code_url": null,
+          "proposal_id": "HCNq9qWy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/haSb0RSS"
+        },
+        {
+          "title": "Enhancing Apache DolphinScheduler with Generalized OIDC Authentication",
+          "short_description": "Apache DolphinScheduler currently offers only bespoke OIDC support (e.g., Casdoor), which hampers its adoption in enterprises that rely on a variety...",
+          "student_name": "tusaryan",
+          "code_url": null,
+          "proposal_id": "ICXVC2Dg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RoNSW60Q"
+        },
+        {
+          "title": "Containerized Deployment of Airavata Services",
+          "short_description": "My project for GSoC 2025 focuses on improving the deployment process of Apache Airavata by containerizing its core services using Docker. Currently,...",
+          "student_name": "Yasindu Dissanayake",
+          "code_url": null,
+          "proposal_id": "0LBSfBC2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XV40d7XV"
+        },
+        {
+          "title": "Modernizing RocketMQ Dashboard: UI Refactor, Performance Optimization & Security Enhancements",
+          "short_description": "Problem: The current RocketMQ Dashboard suffers from outdated UI design, slow API responses, security vulnerabilities (e.g., plaintext passwords),...",
+          "student_name": "\u8bb8\u5104\u9a70",
+          "code_url": null,
+          "proposal_id": "nPWTPVdi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gkHyVAIG"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.apache.org/general/IRC",
+  "contact_email": "mailto:mentors@community.apache.org",
+  "mailing_list": "http://apache.org/foundation/mailinglists.html",
+  "ideas_url": "https://s.apache.org/gsoc2025ideas",
+  "guide_url": "https://community.apache.org/gsoc/",
+  "twitter_url": "https://twitter.com/theasf",
+  "blog_url": "https://blogs.apache.org/"
+}

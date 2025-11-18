@@ -1,0 +1,640 @@
+{
+  "name": "freifunk",
+  "url": "https://freifunk.net/en",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/freifunk/bpcbaeecusvfzbzk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "monitoring",
+    "user interface",
+    "wifi",
+    "mesh",
+    "routing protocols",
+    "wireless",
+    "routing",
+    "firmware development",
+    "embedded systems",
+    "network",
+    "web applications",
+    "software-defined networking",
+    "web apps",
+    "software defined networking",
+    "wireless communications",
+    "open hardware",
+    "wireless networks",
+    "decentralized",
+    "federation",
+    "security"
+  ],
+  "technologies": [
+    "c",
+    "lua",
+    "openwrt",
+    "olsr",
+    "batman",
+    "javascript",
+    "shell script",
+    "html",
+    "css",
+    "lede/openwrt",
+    "python",
+    "ruby",
+    "shell",
+    "c++",
+    "json",
+    "rust",
+    "gnu/linux"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6540884078231552/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "SWOON: Simultaneous Wireless Organic Optimization within Nodewatcher",
+          "short_description": "In modern urban areas it is very common to experience a lot of Wi-Fi spectrum congestion in the 2.4GHz and 5GHz bands. High density of...",
+          "student_name": "marn",
+          "code_url": "http://blog.freifunk.net/2016/swoon-simultaneous-wireless-organic-optimization-within-nodewatcher-final-steps",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5110178932326400/"
+        },
+        {
+          "title": "Implementing Pop-Routing",
+          "short_description": "OONF (OLSRv2) is a link state routing protocol. It works sending periodical messages to his neighbors with the aim of transmitting information about...",
+          "student_name": "Gabriel_unname",
+          "code_url": "http://blog.freifunk.net/2016/implementing-poprouting-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5374689325088768/"
+        },
+        {
+          "title": "A schema-based configuration system for OpenWrt",
+          "short_description": "I'd like to create an alternative to OpenWrt's UCI configuration system, improving on the following points:\n\nStructured (JSON-based) configuration...",
+          "student_name": "NeoRaider",
+          "code_url": "http://blog.freifunk.net/2016/gsoc-ece-configuration-system-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6011300383555584/"
+        },
+        {
+          "title": "Provide a cryptographic implementation for Qaul.net",
+          "short_description": "The Qaul,net project provides a mesh-wifi network for people to connect and share information to other people on the network, helping them avoid...",
+          "student_name": "spacekookie",
+          "code_url": "https://spacekookie.de/gsoc2016/what-i-have-done-in-gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6078005789065216/"
+        },
+        {
+          "title": "DynaPoint - A dynamic access point validator and creator for OpenWrt/LEDE",
+          "short_description": "Find an easily configurable solution for making the wireless access ssid in OpenWrt/LEDE dependent on a set of network conditions.",
+          "student_name": "Asco",
+          "code_url": "https://github.com/thuehn/dynapoint",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5759497725280256/"
+        },
+        {
+          "title": "netifd extension: external device handlers",
+          "short_description": "In this project, we will extend netifd by a generic device handler interface, which is exposed via the ubus IPC system to enable interaction with...",
+          "student_name": "arkap",
+          "code_url": "http://blog.freifunk.net/2016/google-summer-code-2016-external-netifd-device-handlers-final-milestone",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5944457270657024/"
+        },
+        {
+          "title": "Monitoring and quality assurance of open wifi networks: the client view",
+          "short_description": "Running a huge open wifi network that is split into different network areas needs monitoring to assure an appropriate quality of service to it's...",
+          "student_name": "Jan-Tarek Butt",
+          "code_url": "http://blog.freifunk.net/2016/monitoring-and-quality-assurance-open-wifi-networks-out-client-view-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5172789354954752/"
+        },
+        {
+          "title": "OpenWrt - poWquty (poWer quality)",
+          "short_description": "Sustainable energy production and consumption are crucial for a prospering life on earth. Decentralized energy production is one of the next big...",
+          "student_name": "Neez",
+          "code_url": "http://blog.freifunk.net/neez-el-sayed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5178692250632192/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6004756195573760/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Spectrum Analyzer",
+          "short_description": "I believe that Community Networks' Operating Systems could use the Spectrum Analysis a lot to make better decisions on how they use the...",
+          "student_name": "Nicolas Andres Pace",
+          "code_url": "https://blog.freifunk.net/2017/08/29/gsoc-libremesh-spectrum-analyzer-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6581109399748608/"
+        },
+        {
+          "title": "LibreMesh Attended Sysupgrade",
+          "short_description": "Performing updates on routers is quite different from full Linux distribution. It's not sustainable to do release upgrade via a packet manager....",
+          "student_name": "Paul Spooren",
+          "code_url": "https://blog.freifunk.net/2017/08/25/attended-sysupgrade-final-evaluation-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6718970065321984/"
+        },
+        {
+          "title": "Powquty Live-Log",
+          "short_description": "PowQuty provides statistics from measurements taken by a USB oscilloscope. The statistics provide information about the power distribution network,...",
+          "student_name": "Stefan Venz",
+          "code_url": "https://blog.freifunk.net/2017/08/28/powquty-live-log-gsoc-2017-final-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6727994328481792/"
+        },
+        {
+          "title": "Add MPTCP support in LEDE/OpenWRT trunk",
+          "short_description": "Create an MPTCP supported OpenWRT/LEDE trunk and ensure its operation in a multipath Wi-Fi aggregation environment.  The trunk should contain the...",
+          "student_name": "SPYFF",
+          "code_url": "https://spyff.github.io/mptcp/2017/08/27/transparent-mptcp-proxy/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5379317957656576/"
+        },
+        {
+          "title": "lime-webui: port to LuCI2",
+          "short_description": "Make an inventory of all LuCI components that LibreMesh uses and that will not be compatible with LuCI2. Analyze which dependencies must be replaced...",
+          "student_name": "Marcos Gutierrez",
+          "code_url": "https://gist.github.com/gmarcos87/e77759463bed026884a279a55e243087",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4560102203850752/"
+        },
+        {
+          "title": "netjsongraph.js: visualization of netjson data",
+          "short_description": "NetJSON is a great work attracted some interest from around the world, but there are a lot of defects. And I\u2019m a front-end developer and now focus on...",
+          "student_name": "GeekPlux",
+          "code_url": "https://blog.freifunk.net/2017/08/26/netjsongraph-js-google-summer-code-gsoc-2017-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4599822061404160/"
+        },
+        {
+          "title": "geolocator (Software defined GPS)",
+          "short_description": "A dynamical and flexible geolocator, which should give a GPS position based on WiFi information for devices which doesn't have GPS hardware but WiFi....",
+          "student_name": "Jan-Tarek Butt",
+          "code_url": "https://blog.freifunk.net/2017/08/29/geolocator-software-defined-gps-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6061657130270720/"
+        },
+        {
+          "title": "OpenWRT/LEDE Configuration Management",
+          "short_description": "Improve the proof-of-conecpt version of a OpenWRT/LEDE configuration software.",
+          "student_name": "Johannes Wegener",
+          "code_url": "https://blog.freifunk.net/2017/08/28/openwifi-gsoc-2017-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4873250551103488/"
+        },
+        {
+          "title": "Improving nodewatcher data representation capability",
+          "short_description": "Currently nodewatcher has very limited overview of used IP space without more precise division of existing and used subnets. This could be improved...",
+          "student_name": "rasovica",
+          "code_url": "https://gist.github.com/rasovica/67bfbd2d5985a6ee2261f983ffbb7d68",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5924917853814784/"
+        },
+        {
+          "title": "Implementing Pop-Routing in OSPF",
+          "short_description": "Prince is a network daemon that continuosly monitors the network topology  and  sets  the  timers  for  OLSRv2,  it  is  developed  in  C  and  we ...",
+          "student_name": "Gabriele Gemmi",
+          "code_url": "https://blog.freifunk.net/2017/08/29/implementing-pop-routing-ospf-final-evaluation-updates/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6288671921668096/"
+        },
+        {
+          "title": "Extending LoxiGen and ONOS to enable SDN control of wireless switches via OpenFlow",
+          "short_description": "LoxiGen is a tool by the Floodlight project to generate OpenFlow libraries for several programming languages including Java and C. The goal of this...",
+          "student_name": "Arne Kappen",
+          "code_url": "https://blog.freifunk.net/2017/08/26/gsoc-2017-final-milestone/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5150861667860480/"
+        },
+        {
+          "title": "RetroShare Improvements",
+          "short_description": "The aim of this proposal is to improve RetroShare incrementally during the summer in the following work lines:\n\nSemi-automatic RetroShare friendship...",
+          "student_name": "ange",
+          "code_url": "https://gitlab.com/angesoc/RetroShare-GSoC-2017-Report/uploads/a393c3361ebbcdea4dc5a736f2ed8ec6/GSoC_2017_RetroShare_Report-RC3.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5162289770528768/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5072753191288832/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Kernel space SOCKS proxy for Linux 4.x",
+          "short_description": "Currently no open source SOCKS proxy available for recent kernel versions. In fact router proxification depends on user-space proxy applications....",
+          "student_name": "Fejes Ferenc",
+          "code_url": "https://blog.freifunk.net/2018/08/14/gsoc-2018-kernel-space-socks-proxy-for-linux-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5526632785772544/"
+        },
+        {
+          "title": "Design network agnostic communication protocol",
+          "short_description": "My goal is to design a new protocol for qaul.net. The current protocol is very heavily coupled to olsr which is used for all networking tasks. To...",
+          "student_name": "Katharina Sabel",
+          "code_url": "https://blog.freifunk.net/2018/08/13/gsoc-2018-qaul-net-changes-and-experiences-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6160409165824000/"
+        },
+        {
+          "title": "Local Phone App",
+          "short_description": "The project consists of constructing an android app which allows a quick exchange of contact data through a QR-code and thus serverless p2p voice- as...",
+          "student_name": "Daniel Dakhno",
+          "code_url": "https://github.com/dakhnod/Meshenger/releases/tag/v1.0.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5559204609785856/"
+        },
+        {
+          "title": "Better map for nodewatcher",
+          "short_description": "The idea is to replace the original map with a new one that looks better and represents nodes in a better way. Currently the map is very basic and...",
+          "student_name": "Marin Stevi\u0107",
+          "code_url": "https://blog.freifunk.net/2018/08/13/gsoc-2018-better-map-for-nodewatcher-final-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6226691114401792/"
+        },
+        {
+          "title": "LibreNet6",
+          "short_description": "https://projects.freifunk.net/#/projects?project=libremesh_librenet6_integrations&lang=en\nLibreMesh already does extensive use of IPv6 technology, we...",
+          "student_name": "Paul Spooren",
+          "code_url": "https://libremesh.github.io/librenet6/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4554077438476288/"
+        },
+        {
+          "title": "VRConfig - Visual Router Config for OpenWrt",
+          "short_description": "Improve the usability and beginner-friendliness of OpenWrt's LuCI Web Interface by creating a picture-based visual router configuration",
+          "student_name": "Tobias Ilte",
+          "code_url": "https://gitlab.com/vrconfig",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4877220174626816/"
+        },
+        {
+          "title": "nodewatcher: Build system rework and package upstreaming",
+          "short_description": "Nodewatcher currently uses Dockerized OpenWrt firmware builders which are manually generated.\nCurrently, their generation is slow and complicated...",
+          "student_name": "Robert Marko",
+          "code_url": "https://blog.freifunk.net/2018/08/13/nodewatcher-build-system-rework-and-package-upstreaming-final-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4921530546913280/"
+        },
+        {
+          "title": "Realizing a decentralized WiFi Controller",
+          "short_description": "Decentralized WiFi controller\nDAWN is a decentralized WiFi controller. So far the daemon concentrates on load balancing to distribute the network...",
+          "student_name": "nick.power",
+          "code_url": "https://blog.freifunk.net/2018/08/13/dawn-final-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5829027742875648/"
+        },
+        {
+          "title": "Re-write the Turnantenna code",
+          "short_description": "Turnantenna is now a prototype, and the code was written for a specific driver and for a specific motor.\nMy project includes:\n\u2022 1 more motor, in...",
+          "student_name": "Marco Musumeci",
+          "code_url": "https://turnantenna.readthedocs.io/en/latest/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5997754593574912/"
+        },
+        {
+          "title": "Easily Expandable Wireless Intrusion Detection System",
+          "short_description": "While analyzing already available Open Source Wireless Intrusion Detection Systems (WIDS), we realized that there is no full-featured solution yet....",
+          "student_name": "Alexander Paetzelt",
+          "code_url": "https://blog.freifunk.net/2018/08/12/gsoc-2018-easily-expandable-wids-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6003342211809280/"
+        },
+        {
+          "title": "LibreMesh ground routing user friendly interface",
+          "short_description": "Create a user interface for lime-hwd-ground-routing that is easy to use and understand.",
+          "student_name": "Marcos Gutierrez",
+          "code_url": "https://gist.github.com/gmarcos87/51eb831c714911d7ef4d0d803d016e6f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6299152380067840/"
+        },
+        {
+          "title": "OpenWLANMap App",
+          "short_description": "The goal of this project is to develop a new OpenWLANMap wardriver app to replace the old one, which is not working anymore in order to save and...",
+          "student_name": "Thi Huyen (Lilli) Cao",
+          "code_url": "https://blog.freifunk.net/2018/08/14/openwlanmap-app-final-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5160138260348928/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6609278192844800/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Unit testing LibreMesh",
+          "short_description": "Integrate a testing and mocking framework to LibreMesh and provide the functionality needed to easily write new tests for actual or new code. Add...",
+          "student_name": "Santiago Piccinini",
+          "code_url": "https://gist.github.com/spiccinini/6ddd5e18ce49bd47886e112b42f3e4e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6614034516803584/"
+        },
+        {
+          "title": "Designing RetroShare for Android with chat backend improvements",
+          "short_description": "Retroshare is a highly sophisticated communication platform which is accessible only on desktops. This project aims to develop a mobile application...",
+          "student_name": "Konrad D\u0119biec",
+          "code_url": "https://blog.freifunk.net/2019/08/26/retroshare-for-android-update-3-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6743200104972288/"
+        },
+        {
+          "title": "RetroShare port web interface to JSON API",
+          "short_description": "Retroshare has an existing WebUI interface which covers the basic functionality of the client. However it has limited functionality and does not make...",
+          "student_name": "Saud",
+          "code_url": "https://blog.freifunk.net/2019/08/25/retroshare-web-interface-final-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5715146800889856/"
+        },
+        {
+          "title": "WireGuard Tunneling for BMX7",
+          "short_description": "BMX7 offers plugins which are used for the distribution of small files, settings up tunnels or offer stats of the network structure. Currently the...",
+          "student_name": "Harry Pantazis",
+          "code_url": "https://blog.freifunk.net/2019/08/26/bmx7-wireguard-tunneling-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6127762010537984/"
+        },
+        {
+          "title": "Load-correlated distributed bandwidth analysis for LibreMesh networks",
+          "short_description": "Performance tests are key for identifying the bottlenecks and optimize the network topology.\nThe main indicator is the bandwidth, but also other...",
+          "student_name": "Ilario Gelmetti",
+          "code_url": "https://blog.freifunk.net/2019/08/18/load-correlated-distributed-bandwidth-analysis-for-libremesh-networks-4-conclusions-and-further-work/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6129391480864768/"
+        },
+        {
+          "title": "Build a qual.net network simulator to enable automated testing",
+          "short_description": "qual.net\u2019s Rust rewrite will enable improved modularity, performance, and security, but rewriting an entire system in a new and rapidly evolving...",
+          "student_name": "NoraCodes",
+          "code_url": "https://blog.freifunk.net/2019/08/20/gsoc-2019-building-a-testing-framework-for-qaul-net/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6141611669454848/"
+        },
+        {
+          "title": "ConTest - Wireless resource allocation algorithm testing framework",
+          "short_description": "This project provides a framework for reproducible wireless resource allocation algorithm testing. This will ease the benchmarking and the...",
+          "student_name": "ikstream",
+          "code_url": "https://blog.freifunk.net/author/ikstream/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5092953410764800/"
+        },
+        {
+          "title": "OpenWrt Firmware Wizard",
+          "short_description": "The Project has 3 sub-parts which are described as:\n\nInitial Firmware Retrieval:    People who want to update their device, often do not know what...",
+          "student_name": "Sudhanshu Gautam",
+          "code_url": "https://blog.freifunk.net/2019/08/26/gsoc-2019-openwrt-firmware-wizard-final-update/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4588038850609152/"
+        },
+        {
+          "title": "qaul.net HTTP API",
+          "short_description": "Regarding the development of an API for the qaul.net rewrite along with a configuration and message management system.",
+          "student_name": "Jess Rogers",
+          "code_url": "https://blog.freifunk.net/2019/08/26/qaul-net-a-framework-a-service-a-plan/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4752125056253952/"
+        },
+        {
+          "title": "Library to export/import public datasets to Retroshare network",
+          "short_description": "I would to create a reference library capable to interact bidirectionally with RS and outside it, engaging people to create apps, bots, and other...",
+          "student_name": "Joan Pascual Sanahuja",
+          "code_url": "https://gitlab.com/jpascualsana/gsoc-2019-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4827205262114816/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5663378709676032/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "OpenWRT PPA",
+          "short_description": "Building a platform to support users and compile openwrt packages on the fly by building an executable,  code ready docker image , ready to be...",
+          "student_name": "Neelaksh Singh",
+          "code_url": "https://github.com/Neelaksh-Singh/OpenWRT_PPA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5712260906876928/"
+        },
+        {
+          "title": "OpenWrt Device Page",
+          "short_description": "Create an overview of OpenWrt supported devices to simplify user choice of acquiring new devices",
+          "student_name": "Aditi-Singh",
+          "code_url": "https://blog.freifunk.net/2021/08/22/gsoc-final-blog-openwrt-device-page/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5256259665657856/"
+        },
+        {
+          "title": "Irdest Android Client",
+          "short_description": "irde.st is a software suite that allows users to create an internet-independent, decentralized & ad-hoc wireless mesh network. It removes all the...",
+          "student_name": "Ayush Shrivastava",
+          "code_url": "https://blog.freifunk.net/2021/08/21/gsoc21-irdest-android-client-work-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4542577163894784/"
+        },
+        {
+          "title": "LibreMesh Pirania UI",
+          "short_description": "This proposal seeks to improve the implementation of the administration interface of the Pirania captive portal which is implemented in LibreMesh.",
+          "student_name": "Angie Ortiz Giraldo",
+          "code_url": "https://gist.github.com/AngiieOG/5a5108a378e527729140cf49279570f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4694365368221696/"
+        },
+        {
+          "title": "Retroshare Mobile",
+          "short_description": "RetroShare provides a decentralized, encrypted connection with maximum security between nodes where they can chat, share files, mail, etc. Retroshare...",
+          "student_name": "Avinash",
+          "code_url": "https://github.com/RetroShare/retroshare-mobile",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6100684595789824/"
+        },
+        {
+          "title": "Updation of the Json Schema to latest version (2020-12)/draft7 along with the form generation and validation with the updated schema of the tools",
+          "short_description": "Updating the JSON schema to the latest version (2020-12)/draft7 and updating the tools which uses JSON schema to generate forms and validate form...",
+          "student_name": "sh15h4nk",
+          "code_url": "https://sh15h4nk.github.io/gsoc21-freifunk/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5802146250883072/"
+        },
+        {
+          "title": "Android native app for network selection capability in LibreMesh routers",
+          "short_description": "One practical barrier for the usage of local network web-based applications (such as the LimeApp) in Android devices is that browsers don't allow the...",
+          "student_name": "Tom\u00e1s Assenza",
+          "code_url": "https://github.com/Patacon13/LimeApp/tree/GSoC-2021-RB1.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5150144445546496/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/freifunk/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implement elRepo.io unit testing",
+          "short_description": "ElRepo.io is an Android app that combines the RetroShare JSON API with a Flutter frontend aimed to share content into the RetroShare F2F network....",
+          "student_name": "AndreaRuru",
+          "code_url": "https://blog.freifunk.net/2022/09/09/gsoc-2022-implement-elrepo-io-unit-testing-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CdegMgzn/"
+        },
+        {
+          "title": "Call a Friend",
+          "short_description": "I will be working on converting the app source codes from java to kotlin, I\u2019ll remove the extra features that the mentor suggests to be removed and...",
+          "student_name": "AdiCoder",
+          "code_url": "https://github.com/meshenger-app/meshenger-android/tree/GSOC-22_new",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nTkppSfR/"
+        },
+        {
+          "title": "Traffic Monitoring and Classification via XDP/eBPF",
+          "short_description": "1. Analysis of different approaches to run XDP and eBPF on openWrt devices 2. Integration of the tools and drivers into OpenWrt 3. Description of...",
+          "student_name": "Zheng Qijia",
+          "code_url": "https://github.com/menmazqj/GSoC2022-Freifunk-XDP-eBPF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5wmAYhSk/"
+        },
+        {
+          "title": "Try LibreMesh without having a router",
+          "short_description": "LibreMesh is a framework for creating OpenWrt- based firmware for Wireless mesh nodes. LibreMesh works in a decentralized way and is used as a base...",
+          "student_name": "Irina Arga\u00f1aras",
+          "code_url": "https://github.com/irina556/lime-packages/tree/easing-libremesh-virtualization",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rqCSy7fn/"
+        },
+        {
+          "title": "Complete the Retroshare Web Interface",
+          "short_description": "This proposal seeks to develop the Web Interface of Retroshare application. The primary goal is to develop as many features as in the RetroShare Qt...",
+          "student_name": "Sukhamjot Singh",
+          "code_url": "https://blog.freifunk.net/2022/09/06/completing-the-retroshare-web-interface-gsoc22-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ALJxiVDx/"
+        },
+        {
+          "title": "Minstrel-TX Rate Control in User space",
+          "short_description": "Considering the wide deployment of IEEE 802.11 wireless networks and their shared use of the ISM band, there have been significant efforts in...",
+          "student_name": "Prashiddha",
+          "code_url": "https://blog.freifunk.net/2022/09/12/final-report-on-minstrel-tx-rate-control-in-user-space-gsoc-22/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vLnsukoX/"
+        },
+        {
+          "title": "TX-Power Control in WiFi Networks",
+          "short_description": "Wireless communication and in particular WiFi networks are becoming more and more important. Research already focuses on improving reliability,...",
+          "student_name": "Jonas Jelonek",
+          "code_url": "https://blog.freifunk.net/2022/09/10/final-gsoc22-report-tx-power-control-in-mac80211/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/e4hhNVvP/"
+        },
+        {
+          "title": "Videoodyssee : System Refactoring",
+          "short_description": "Improving the video upload workflow and reimplementing the video processing pipeline using a better and maintainable CI/CD tool to support parallel...",
+          "student_name": "Vijay",
+          "code_url": "https://blog.freifunk.net/2022/10/17/gsoc22-final-report-videoodyssee/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zPxrHSCN/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/freifunk",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "LuCI Migration to JavaScript based Framework: Improved UX and Performance on OpenWrt-based Devices",
+          "short_description": "LuCI is a framework used to build web interfaces for configuration and monitoring on embedded devices such as WiFi routers, etc. In the old CBI based...",
+          "student_name": "Ayushman",
+          "code_url": "https://blog.freifunk.net/2023/08/15/gsoc23-final-report-luci-migrate-to-javascript-based-framework/",
+          "proposal_id": "thSGQdFH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zBkmcw7X"
+        },
+        {
+          "title": "Qaul Matrix Bridge",
+          "short_description": "Qaul is an Internet independent wireless mesh communication app. With qaul, you can communicate directly from one device to another. The aim of this...",
+          "student_name": "Harshil Jani",
+          "code_url": "https://gist.github.com/Harshil-Jani/281ab3c38b5786a3b8b4a0ab6b7086c5",
+          "proposal_id": "R9LrPZUQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/z3BpcR6Z"
+        },
+        {
+          "title": "OpenWRT PPA Part 2",
+          "short_description": "Original project proposal: https://projects.freifunk.net/#/projects?project=openwrt_ppa_part_2&lang=en Currently, compiling OpenWRT packages for a...",
+          "student_name": "Mr. Andrei",
+          "code_url": "https://gist.github.com/ndren/399c5e7c86658a4f1cdfcf43b191de2f",
+          "proposal_id": "EKFW8kPz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bN4xJR6h"
+        },
+        {
+          "title": "Joint Power and Rate Control in User space for Freifunk OpenWrt Mesh & Access Networks",
+          "short_description": "The IEEE 802.11 specification for Wireless Local Area Networking (WLAN) has been widely deployed worldwide due to its low cost and convenience in...",
+          "student_name": "Prashiddha",
+          "code_url": "https://blog.freifunk.net/2023/09/25/gsoc-23-final-report-on-joint-power-and-rate-control-in-userspace/",
+          "proposal_id": "bEjkfqNL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/InnsjFBU"
+        },
+        {
+          "title": "Automation tools for LibreMesh firmware build and monitoring",
+          "short_description": "Create a set of automated tasks to install services on a Raspberry Pi to meet the needs of small community-network with an administration/tech team,...",
+          "student_name": "samlo",
+          "code_url": "https://gitlab.com/a-gave/libremesh-ansible-playbooks",
+          "proposal_id": "tuPYDZvc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JXudSn3E"
+        },
+        {
+          "title": "Implementation of Web Interface of Retroshare",
+          "short_description": "RetroShare is a C++ software program that comprises a headless lib called \"libretroshare\". This lib is utilized to implement Retroshare application...",
+          "student_name": "Sumit Kumar Soni",
+          "code_url": "https://blog.freifunk.net/2023/08/27/gsoc23-implementation-of-web-interface-of-retroshare-final-report/",
+          "proposal_id": "RJAxmzQN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tFSIOQNm"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/freifunk/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "LibreMesh Cable Purpose Autodetection",
+          "short_description": "When a community network router ethernet port is acting as a gateway to the Internet or as a border to neighboring networks, the network...",
+          "student_name": "Nemael",
+          "code_url": "https://blog.freifunk.net/2024/09/23/gsoc-2024-libremesh-cable-purpose-autodetection-2/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WuHxzDCO/"
+        },
+        {
+          "title": "eBPF performance optimisations for a new OpenWrt Firewall",
+          "short_description": "Project Description While the Linux network stack evolved throughout the past years with support for new protocols and features, it has become more...",
+          "student_name": "Til",
+          "code_url": "https://blog.freifunk.net/2024/08/26/gsoc-2024-ebpf-performance-optimizations-for-a-new-openwrt-firewall-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/u79z1qYm/"
+        },
+        {
+          "title": "New Transmit Power Control approach for IEEE 802.11ax Wifi chips",
+          "short_description": "Implementation of a novel TPC algorithm in the user space to develop a dynamic power controller, and then in the mac80211 subsystem of the Linux...",
+          "student_name": "Raul Shahi",
+          "code_url": "https://blog.freifunk.net/2024/09/20/gsoc-2024-final-insights-on-throughput-based-dynamic-wifi-power-control-for-real-networks/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yR1qJus0/"
+        },
+        {
+          "title": "Project Libremesh Pirania, new release.",
+          "short_description": "After the publication of the New Pirania API, a lot has been gained with Pirania in Libremesh. Many communities could be used and even today they use...",
+          "student_name": "Henrique Mohr",
+          "code_url": "https://gist.github.com/henmohr/6a1903f14fdd081e8b0560af2e8b7850",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/J7QlUBlx/"
+        },
+        {
+          "title": "qaul BLE Module for Linux with BlueR",
+          "short_description": "Qaul is an internet-independent wireless mesh communication app. With qaul, you can communicate directly from one device to another. This project...",
+          "student_name": "Sukhman Singh",
+          "code_url": "https://github.com/qaul/qaul.net/pull/641",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ydglU9hY/"
+        },
+        {
+          "title": "Visualise community data",
+          "short_description": "The Freifunk project collects a snapshot of data from community groups every hour. This has been going on since 2014, and so far the project has...",
+          "student_name": "Pierre Marshall",
+          "code_url": "https://blog.freifunk.net/2024/08/25/gsoc-2024-visualise-community-data-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tQ01hkSG/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/freifunk",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Simplifying LibreMesh with OpenWrt-Native Solutions",
+          "short_description": "LibreMesh has grown over the past decade with valuable community contributions, but some of its features now duplicate tools available in OpenWrt....",
+          "student_name": "Agustin Trachta",
+          "code_url": null,
+          "proposal_id": "ghuJIhmH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NivhKPOA"
+        },
+        {
+          "title": "qaul RPC user authentication layer",
+          "short_description": "The qaul RPC user authentication layer project aims to implement a secure and scalable authentication system for the qaul network, enabling multiple...",
+          "student_name": "claddy",
+          "code_url": null,
+          "proposal_id": "s6SAISRc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3s6IePJd"
+        },
+        {
+          "title": "Deep Q Network-based Rate Adaptation for IEEE 802.11ac Networks",
+          "short_description": "This project aims to enhance Wi-Fi rate adaptation by integrating Deep Q-Networks (DQN) with the ORCA and RateMan frameworks. Traditional rate...",
+          "student_name": "Raul Shahi",
+          "code_url": null,
+          "proposal_id": "WPFdncu4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/S9jb6evA"
+        },
+        {
+          "title": "Social Media Archive Explorer + Frontend Nodes",
+          "short_description": "This project aims to build a static, user-friendly site that serves as an archive explorer for Freifunk\u2019s historical social media posts. These posts...",
+          "student_name": "Sandra Taskovic",
+          "code_url": null,
+          "proposal_id": "3dgRKSCA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EJ7jWFK9"
+        },
+        {
+          "title": "Adding Wi-Fi Support to QEMU Simulations in LibreMesh",
+          "short_description": "LibreMesh relies on continuous testing to ensure its robustness across various network conditions and hardware setups. Currently, testing new...",
+          "student_name": "Victor Spehar",
+          "code_url": null,
+          "proposal_id": "tNfPAaPy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yBmMMWDN"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#freifunk-gsoc2021:bau-ha.us",
+  "contact_email": "mailto:gsoc-org-admins@freifunk.net",
+  "mailing_list": "https://lists.freifunk.net/mailman/listinfo/wlanware-freifunk.net",
+  "ideas_url": "https://projects.freifunk.net",
+  "guide_url": "https://projects.freifunk.net/#/faq",
+  "twitter_url": "https://social.freifunk.net/@freifunk",
+  "blog_url": "https://blog.freifunk.net"
+}

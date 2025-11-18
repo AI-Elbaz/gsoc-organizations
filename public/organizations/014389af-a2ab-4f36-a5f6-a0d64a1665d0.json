@@ -1,0 +1,66 @@
+{
+  "name": "Tarantool",
+  "url": "https://www.tarantool.io/en/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/tarantool/npjtqad5oa15tkps-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "distributed systems",
+    "algorithms",
+    "high performance data processing",
+    "in-memory data grid",
+    "sql",
+    "In-memory",
+    "JIT",
+    "IMDG",
+    "NoSQL Database"
+  ],
+  "technologies": [
+    "c",
+    "lua",
+    "sql",
+    "python",
+    "c++"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6336686404927488/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "C++ connector enhancement",
+          "short_description": "Tarantool\u2019s team has released a new C++ connector, which is based on compile-time MsgPack encoder/decoder. Reaching the limits of C++, this library...",
+          "student_name": "Anastasiy Belyaev",
+          "code_url": "https://github.com/tarantool/tarantool/wiki/Google-Summer-of-Code-2021.-Tarantool-connector-enhancement",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5715645072670720/"
+        },
+        {
+          "title": "LLVM JIT engine for Tarantool's DQL",
+          "short_description": "Tarantool's SQLite-derivative VM code for SQL engine known as 'vdbe' is creating a performance bottleneck: self-execution of the main part of the...",
+          "student_name": "Georgiy Lebedev",
+          "code_url": "https://github.com/tarantool/tarantool/wiki/LLVM-JIT-engine-for-Tarantool%27s-DQL",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5346192522739712/"
+        },
+        {
+          "title": "Various SQL VM improvements: threaded interpretation and instruction merging",
+          "short_description": "Tarantool uses SQL VM with conventional interpretation technique: loop over instruction, inside which dispatching switch-case executes logic of...",
+          "student_name": "Anastasia Neklepaeva",
+          "code_url": "https://github.com/tarantool/tarantool/wiki/Threaded-interpretation-and-instruction-merging",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5947375067070464/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/tarantool/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://t.me/+T7iUBVmNd3sxNjcy",
+  "contact_email": "mailto:admin@tarantool.io",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/tarantooldb",
+  "blog_url": "https://habr.com/ru/hub/tarantool/"
+}

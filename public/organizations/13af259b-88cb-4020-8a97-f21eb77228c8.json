@@ -1,0 +1,40 @@
+{
+  "name": "Buildroot",
+  "url": "http://www.buildroot.org",
+  "image_url": "https://lh3.googleusercontent.com/N59xgAFazsdFH2FnOyaL3aaTd-ZoZZZXLq3obziwVACJG_7onmUl4dqVdiR0yvk3A-Sci-LgPv_MRfOnFAUl75BQsFqITcw",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "build tools",
+    "embedded systems",
+    "linux",
+    "compilation"
+  ],
+  "technologies": [
+    "python",
+    "shell",
+    "gnu make",
+    "kconfig"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5526850200141824/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Reproducible Builds",
+          "short_description": "Ensuring that two instances of buildroot running with the same configuration for the same device yields the same result. Reproducible builds means...",
+          "student_name": "Atharva Lele",
+          "code_url": "https://elinux.org/Buildroot:ReproducibleBuilds#GSoC_Work_Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5168827816476672/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://buildroot.org/support.html",
+  "contact_email": "mailto:buildroot-association@buildroot.org",
+  "mailing_list": "http://lists.buildroot.org/mailman/listinfo/buildroot",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/buildrootorg"
+}

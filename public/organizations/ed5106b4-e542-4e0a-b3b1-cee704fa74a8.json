@@ -1,0 +1,55 @@
+{
+  "name": "Soletta Project",
+  "url": "https://solettaproject.org/",
+  "image_url": "https://lh3.googleusercontent.com/8OmsKRY9i3R3AoQOrow_zrz9jlzjaOSIXW9m2e7cCviUzCO6V3_ny6_KC9cAOuJTWIzWtDemuapvM6YV0joi1QsThI7UcvvR",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "robotics",
+    "internet of things",
+    "drones",
+    "portable",
+    "makers"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "javascript",
+    "machine learning",
+    "networking"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6477188102619136/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implement go bindings for soletta",
+          "short_description": "Go is a programming language with a design focused on simplicity, effectiveness and performance, that is widely used in all kind of projects. With...",
+          "student_name": "Vladimir",
+          "code_url": "http://blog.digitalkid.me/almost-there-gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5290556552904704/"
+        },
+        {
+          "title": "sol-lwm2m: Implement missing features",
+          "short_description": "Soletta has its own implementation of the lightweight machine to machine (LWM2M) protocol. The LWM2M protocol is used to remotely control IoT...",
+          "student_name": "bsmelo",
+          "code_url": "https://github.com/solettaproject/soletta/commits?author=bsmelo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5629807966552064/"
+        },
+        {
+          "title": "Implement Auto-complete for Soletta Dev-App",
+          "short_description": "The project aims to implement live auto-complete support for Soletta Dev-App. Soletta Dev-App uses Ace editor which already has auto-complete...",
+          "student_name": "kamidi_preetham",
+          "code_url": "https://drive.google.com/folderview?id=0Bz7Cfllru5REdXU2a2haNmNBRmc&usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4536824152195072/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://solettaproject.org/",
+  "contact_email": "mailto:soletta-dev@lists.solettaproject.org",
+  "mailing_list": "https://solettaproject.org/",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Conversations.im",
+  "url": "https://Conversations.im",
+  "image_url": "https://lh3.googleusercontent.com/DHegsdb0kS2OAqMolz-YYFRha30Z5_d91HjiaHgmQXdGCWina0SCE6u1YxP-W-zNtw34Md_77sUkWWqvpcnIvfBzGIcRkORc",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "instant messaging",
+    "real time",
+    "ui",
+    "usabilty",
+    "ux",
+    "web",
+    "desktop",
+    "mobile"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "java",
+    "xmpp",
+    "javafx",
+    "javascript",
+    "gtk"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5967780016816128/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improving Dino",
+          "short_description": "This project will introduce various improvements in Dino, a new XMPP client using GTK+ written in Vala. Among the improvements will be MAM, Stream...",
+          "student_name": "fiaxh",
+          "code_url": "https://gist.github.com/fiaxh/d51713b15a1a29fc57d98d1a8a250a42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6004123493203968/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6032491081105408/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improving OMEMO support in dino: Blind trust before verification and encrypted groupchats",
+          "short_description": "Dino currently has limited support for the OMEMO end-to-end encryption protocol. It supports one-on-one chats, but lacks a system to manage trust and...",
+          "student_name": "sdhand",
+          "code_url": "https://github.com/dino/dino/pull/413",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5394978347941888/"
+        },
+        {
+          "title": "OpenPGP (OX) for Smack",
+          "short_description": "This is my proposal to create an implementation of OpenPGP for XMPP Instant Messaging (OX) for the XMPP client library Smack.",
+          "student_name": "Paul Moritz Schaub",
+          "code_url": "https://vanitasvitae.github.io/GSOC2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6037508810866688/"
+        },
+        {
+          "title": "XMPP Compliance Tester",
+          "short_description": "Currently Compliance Tester is a command line tool to check compliance status of an XMPP server. Testing servers for compliance with XMPP extensions...",
+          "student_name": "Rishi Raj",
+          "code_url": "https://gist.github.com/RishiRaj22/60b19f7f9f59f97fd1316e0110535eb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6102003247742976/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://conversations.im/j/gsoc@conference.conversations.im",
+  "contact_email": "mailto:gsoc@conversations.im",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

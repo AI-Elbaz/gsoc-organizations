@@ -1,0 +1,111 @@
+{
+  "name": "Systers Community",
+  "url": "https://anitab.org/systers/",
+  "image_url": "https://lh3.googleusercontent.com/ZfLKPxprJmOds95nIeEkrw78RF0olObie6ligW1ZyPTL3mDcPsbhSR0Ed9fhyzdJHOsdblNFB2L9wwgMNMKHjH4RpNhTGc2a",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "web apps",
+    "community",
+    "mobile applications"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "ruby on rails",
+    "ios"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6321870005600256/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Mentorship System",
+          "short_description": "New Android Application that allows women from the Systers community to mentor other women during a period of time. This can help new women getting...",
+          "student_name": "Isabel Costa",
+          "code_url": "https://gist.github.com/isabelcosta/413e5a58529b7be9cdb57dddc08fec01",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6592097335377920/"
+        },
+        {
+          "title": "Volunteer Management System(VMS)",
+          "short_description": "The Volunteer Management System (VMS) is a portal useful for volunteer coordinators and volunteers in tracking hours, and reporting.",
+          "student_name": "Anjali  Dhanuka",
+          "code_url": "https://gist.github.com/anjali-dhanuka/76563d3c9b953b2e754a5a03ddc300e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5112991330598912/"
+        },
+        {
+          "title": "PC Prep Kit",
+          "short_description": "An app that teaches tactics for prevention of Malaria to Peace Corps volunteers before they go for remote missions. This would be achieved using...",
+          "student_name": "Mayank Lunayach",
+          "code_url": "https://gist.github.com/lunayach/a68e02eb25948b8a6a2af50477de7aa0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5257578317611008/"
+        },
+        {
+          "title": "Out-of-Character Contextual Information for PowerUp!",
+          "short_description": "PowerUp! has huge potential to impact the lives of many young ladies.\nAs an adult, it\u2019s pretty easy to go through the game's choices and pick the...",
+          "student_name": "Cady",
+          "code_url": "https://justkd.github.io/GSoC18-Doc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5566352643325952/"
+        },
+        {
+          "title": "Sysbot",
+          "short_description": "A Slack integrated Github automation bot for handling and checking Github workflow.",
+          "student_name": "Sombuddha Chakravarty",
+          "code_url": "https://sammy1997.github.io/GSoC_work_submission/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5599578510327808/"
+        },
+        {
+          "title": "Proposal for Systers Portal",
+          "short_description": "The Systers Portal is a platform for Systers communities to post and share information within and with other communities. It includes features like...",
+          "student_name": "Abhijit Kumar",
+          "code_url": "https://gist.github.com/abhi20161997/4f30efba3e6f0a8d33468a062b5180c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5615555386015744/"
+        },
+        {
+          "title": "Infrastructure/Automation-Android",
+          "short_description": "Aim is to follow Model-View-Presenter architecture,  improve Android performance,  improve database access, shift the project to follow ROOM Library...",
+          "student_name": "Anamika Tripathi",
+          "code_url": "https://gist.github.com/geekanamika/9c87c250774e567d889fbe412a93e91e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4684707258171392/"
+        },
+        {
+          "title": "GH Pages for Systers",
+          "short_description": "In this project I aim to design and develop the main systers.io , celebrations and the slack inviter web pages. I will use Bootstrap to develop the...",
+          "student_name": "Anumeha Agrawal",
+          "code_url": "https://medium.com/@anumehaagrawal29/google-summer-of-code-2018-final-submission-1e5b8478edc5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4834382976122880/"
+        },
+        {
+          "title": "PowerUp-Android",
+          "short_description": "PowerUp is a project specially designed to impart knowledge to pre-adolescents about reproductive health, personal hygiene, STDs and common hormonal...",
+          "student_name": "Rimjhim Bhadani",
+          "code_url": "https://gist.github.com/Rimjhim28/f358db74436a66dfe7e9e92941fe42fc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5758658998697984/"
+        },
+        {
+          "title": "Github Pages",
+          "short_description": "Develop a MEAN(MongoDB, ExpressJS, AngularJS, NodeJS) Stack Systers Open Source Website which acts as an interface to help introduce people to the...",
+          "student_name": "Baani Leen Kaur Jolly",
+          "code_url": "https://gist.github.com/BaaniLeen/c4bb39d5fe3f829040ae2ea3aa0513fd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5975618600566784/"
+        },
+        {
+          "title": "Infrastructure and Automation of Web projects in Python.",
+          "short_description": "Integrate coverage checks on automated builds.\nEnhance coverage for Systers' Portal, Systers' VMS, Postorius.\nGet the automated builds up and green....",
+          "student_name": "Monal Shadi",
+          "code_url": "https://github.com/systers/vms/wiki/GSoC-2018-Final-Report-Monal-Shadi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5982586513915904/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://systers.io/slack-systers-opensource/",
+  "contact_email": "mailto:systers.keeper@gmail.com",
+  "mailing_list": "http://www.systers.org/mailman/listinfo/systers-opensource",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/systers_org",
+  "blog_url": "http://systers-opensource.blogspot.com/"
+}

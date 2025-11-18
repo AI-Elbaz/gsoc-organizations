@@ -1,0 +1,110 @@
+{
+  "name": "Open Roberta",
+  "url": "https://lab.open-roberta.org",
+  "image_url": "https://lh3.googleusercontent.com/TihjVj3TcdATW2AuNmSCtSYsYYjwtvFdqsNA3nQs2eH0IDOUBM6iFEhPfOPgDN0OsD9T6p-cTcfsYtYKJ5UbdHjIKkCaaPPQp3wMn71HDq0R",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "education",
+    "robotics",
+    "programming",
+    "web",
+    "visual programming"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "python",
+    "go",
+    "c++",
+    "typescript"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5792235979276288/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Open Roberta Standalone app for Desktop and Mobile",
+          "short_description": "The Open Roberta is a server-side Web Application and the idea of a standalone version is to bundle the server with a built-in Web Browser. This can...",
+          "student_name": "Rishabhdeep Singh",
+          "code_url": "https://gist.github.com/rishabhdeepsingh/e67fdbd0b212ac8e82a4839421cc247c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5885974982688768/"
+        },
+        {
+          "title": "Multiple robots in simulation",
+          "short_description": "To add the feature of multiple simulations for EV3 Robot.\nThe Open Roberta\u00ae Lab provides a simulation, where users can test their programs without a...",
+          "student_name": "Akshat Khare",
+          "code_url": "https://gist.github.com/akshat-khare/2afb8698b48e0f5391c869fa07363eca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6315206296731648/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6273661445603328/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Support for custom assets (EV3, NXT)",
+          "short_description": "The OpenRoberta is a learning platform. It uses a graphical programming language (based on blockly) and has code generators/loader for many robots...",
+          "student_name": "Varun Shankar S",
+          "code_url": "https://docs.google.com/document/d/160NCBkETLffOoOMiHNJVGr8DjfceKvhMR3lOa5i_6ck/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5012182255796224/"
+        },
+        {
+          "title": "EV3 as a storage device",
+          "short_description": "EV3 as a storage device\nIntroduction\nOpenRoberta is a learning platform that uses a graphical programming language to program different robots. One...",
+          "student_name": "Simone Degiacomi",
+          "code_url": "https://gist.github.com/simonedegiacomi/213efe56934051e80dc7bd7d3494f051",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6235685948751872/"
+        },
+        {
+          "title": "Expression block... and more",
+          "short_description": "OpenRoberta is a learning platform. It uses a graphical programming language (based on blockly) and has code generators/loader for many robots and...",
+          "student_name": "Wilfredo Graterol",
+          "code_url": "https://gist.github.com/WGraterol64/351ce1cd4dd9e506b84ac4216add2660",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5809762631942144/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4541796253696000/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "The NEPO debugger",
+          "short_description": "The project involves building an option to be able to debug a program for the robots system that is written in the NEPO language.",
+          "student_name": "Thomas Barker",
+          "code_url": "https://docs.google.com/document/d/1Z3y3MIHqL2jNr5V8CGhUXxCz2lvoVXpN-11RQPFU9-Q/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5650487602315264/"
+        },
+        {
+          "title": "Visualize the robot's configuration more realistically",
+          "short_description": "OpenRoberta Lab is a learning platform that uses graphical programming language (based on blockly) to generate code for robots and embedded systems...",
+          "student_name": "Silas Ribeiro Santos",
+          "code_url": "https://github.com/santorsilas/openroberta-lab-configuration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5117614767996928/"
+        },
+        {
+          "title": "Tangibles - Real life coding blocks",
+          "short_description": "Tangibles is a feature that can expand \u200b\u200bOpen Roberta lab and solve problems of collaboration that can arise from traditional ways of interacting...",
+          "student_name": "Vasilis Poulos",
+          "code_url": "https://gist.github.com/VasilisPoulos/5176e80d0f8f4948e0549a58497d3b54",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4829450681712640/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6381326080409600/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://github.com/OpenRoberta/openroberta-lab/wiki/Community",
+  "contact_email": "mailto:roberta-zentrale@iais.fraunhofer.de",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/RobertaIAIS",
+  "blog_url": "https://roberta-home.de"
+}

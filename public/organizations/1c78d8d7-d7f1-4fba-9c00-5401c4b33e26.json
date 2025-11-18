@@ -1,0 +1,50 @@
+{
+  "name": "SW360",
+  "url": "https://eclipse.dev/sw360/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/sw360/scylub8cx6f9mkzk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "license compliance",
+    "compliance automation",
+    "SBOM",
+    "component repository",
+    "vulnerabilities management"
+  ],
+  "technologies": [
+    "java",
+    "react",
+    "couchdb",
+    "SpringBoot"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/sw360",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improving Integration of SW360 with FOSSology",
+          "short_description": "Currently, SW360\u2019s integration with FOSSology is limited to only basic functionalities using outdated endpoints namely, triggering scans and checking...",
+          "student_name": "Ritankar Saha",
+          "code_url": null,
+          "proposal_id": "wLz1nPMY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gh7uLcOi"
+        },
+        {
+          "title": "Improve tests for all REST API endpoints",
+          "short_description": "This proposal aims to improve the testing framework for SW360\u2019s REST API endpoints by addressing limited test coverage, insufficient integration...",
+          "student_name": "Rohit Borra",
+          "code_url": null,
+          "proposal_id": "xRPL0ZgH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GTS6j5jV"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#technology.sw360-general:matrix.eclipse.org",
+  "contact_email": "",
+  "mailing_list": "sw360-dev@eclipse.org",
+  "ideas_url": "https://eclipse.dev/sw360/gsoc/gsoc-projects-2025/",
+  "guide_url": "https://eclipse.dev/sw360/docs/development/",
+  "blog_url": "https://eclipse.dev/sw360/"
+}

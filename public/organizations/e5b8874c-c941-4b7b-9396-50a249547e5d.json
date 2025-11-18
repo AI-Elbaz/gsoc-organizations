@@ -1,0 +1,113 @@
+{
+  "name": "FreeCAD",
+  "url": "https://freecad.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/freecad/hka287elz3d4wvzu.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "engineering",
+    "graphics",
+    "cad",
+    "architecture",
+    "CAM",
+    "3d",
+    "BIM"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "qt",
+    "OpenCASCADE",
+    "OpenInventor"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/freecad",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "UI tool for fetching online content",
+          "short_description": "A library management add-on for managing Different online-offline FreeCAD components is a utility application for FreeCAD which allows an easy and...",
+          "student_name": "Amulya Paritosh",
+          "code_url": "https://amulyaparitosh.github.io/Google-Summer-of-Code-2023-Work-Blog-HTML/",
+          "proposal_id": "hT0bkhyn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/h7rrw0s0"
+        },
+        {
+          "title": "Upgrade the documentation system to git-based system",
+          "short_description": "The project aims to migrate the FreeCAD documentation system to a file-based, versioned system based on Git and Markdown so that it supports multiple...",
+          "student_name": "Gauri_Maheshwari",
+          "code_url": "https://github.com/gauriimaheshwarii/gsoc-2023",
+          "proposal_id": "ref8g4jI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iPaw5Jd9"
+        },
+        {
+          "title": "Unified Measurement Facility",
+          "short_description": "FreeCAD currently has several ways of measuring objects, causing confusion for users and making the learning curve steeper. The proposed project aims...",
+          "student_name": "hlorus",
+          "code_url": "https://gist.github.com/hlorus/6722b7487249e3e747f3b9d2a7fad6e0",
+          "proposal_id": "ugGa6SAe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/w0LSLLQE"
+        },
+        {
+          "title": "On-machine Inspection for FreeCAD",
+          "short_description": "On-machine Inspection (OMI) is a valuable tool used in CNC commercial manufacturing to ensure proper tolerances of the manufactured piece. This is...",
+          "student_name": "Tanaus\u00fa Hern\u00e1ndez Yanes",
+          "code_url": "https://forum.freecad.org/viewtopic.php?t=78215",
+          "proposal_id": "NjjsBjDr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gqlTqNAb"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/freecad/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Command-Line Preferences Manipulation",
+          "short_description": "The project aims to create a Command-line utility tool to manage and manipulate FreeCAD preferences from outside the FreeCAD application. This tool...",
+          "student_name": "Harshita Saraswat",
+          "code_url": "https://harshitasaraswat.github.io/GSOC-2024-Work-Submission-Blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/m2pg14nm/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/freecad",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "3D PDF Export in FreeCAD",
+          "short_description": "The 3D PDF Export for FreeCAD project aims to develop a native capability for exporting interactive 3D models directly to PDF format, enhancing...",
+          "student_name": "chiragsingh1711",
+          "code_url": null,
+          "proposal_id": "8zS4ZHDD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/istlFWLD"
+        },
+        {
+          "title": "Interactive controls in the 3D View",
+          "short_description": "This project aims to add interactive controls like Gizmos along with On- View-Parameters (OVPs) directly to the 3D model view of FreeCAD,...",
+          "student_name": "Sayantan Deb (captain0xff)",
+          "code_url": null,
+          "proposal_id": "P4NKWm45",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CCXJAFdQ"
+        },
+        {
+          "title": "Multiple files parallel editing",
+          "short_description": "As of march 2025 FreeCAD cannot have more than one active document. If a task is going on in a file, another file cannot be edited until that...",
+          "student_name": "theo-vt",
+          "code_url": null,
+          "proposal_id": "B7VtmqmF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xukQtkzX"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#FreeCAD_FreeCAD:gitter.im",
+  "contact_email": "",
+  "mailing_list": "https://forum.freecad.org",
+  "ideas_url": "https://wiki.freecad.org/Google_Summer_of_Code_2025",
+  "guide_url": "https://wiki.freecad.org/GSoC_Checklist",
+  "twitter_url": "https://twitter.com/freecadnews",
+  "blog_url": "https://blog.freecad.org/"
+}

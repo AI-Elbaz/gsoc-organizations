@@ -1,0 +1,50 @@
+{
+  "name": "GDevelop",
+  "url": "https://gdevelop-app.com",
+  "image_url": "https://lh3.googleusercontent.com/f4WpusIovGhvkq0URnquenWBfSMC62lLjEC3s8wsXI4b2sK-mVRT9JlP7AdIjSWuZV54HCcUX-sU2LWIubZPURUmrU6cfA",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "web",
+    "graphics",
+    "web applications",
+    "gaming"
+  ],
+  "technologies": [
+    "javascript",
+    "c",
+    "c++",
+    "react",
+    "web development",
+    "game development"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5791816890187776/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Dynamic Lighting and Shadows",
+          "short_description": "This project aims to provide dynamic lighting and shadows in GDevelop using PixiJS. Plugins such as Pixi-layers, Pixi-lights and Pixi-shadows would...",
+          "student_name": "Harsimran Virk",
+          "code_url": "http://wiki.compilgames.net/doku.php/gdevelop5/community/summer-of-code/results",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5753007297265664/"
+        },
+        {
+          "title": "Command Palette and Revamped Shortcuts",
+          "short_description": "With this project, I aim to implement a fully functional command palette, that allows the user to access almost any function of the GDevelop IDE with...",
+          "student_name": "Nilay Majorwar",
+          "code_url": "http://wiki.compilgames.net/doku.php/gdevelop5/community/summer-of-code/results#command_palette_and_revamped_shortcuts",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6513796127916032/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/rjdYHvj",
+  "contact_email": "mailto:compilgames@gmail.com",
+  "mailing_list": "http://forum.gdevelop-app.com",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "http://twitter.com/GDevelopApp"
+}

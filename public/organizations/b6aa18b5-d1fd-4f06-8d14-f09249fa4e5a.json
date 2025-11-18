@@ -1,0 +1,126 @@
+{
+  "name": "lowRISC",
+  "url": "https://www.lowrisc.org",
+  "image_url": "https://lh3.googleusercontent.com/nXwbNqY-sFoaSOqayF8cQozzvByH5OO1523rq2G1g1LY99QjrwnBOSxRTBdpzljlgde9flGHfs-usWVQp6MYOWkF3xjMpRI",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "security",
+    "education",
+    "embedded hardware",
+    "system-on-chip",
+    "debug",
+    "hardware",
+    "fpga",
+    "soc",
+    "compilers",
+    "open hardware"
+  ],
+  "technologies": [
+    "linux",
+    "verilog",
+    "fpga",
+    "chisel",
+    "c++",
+    "risc-v",
+    "python",
+    "systemverilog"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4969698068267008/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Integrate more open-source IP for lowRISC on FPGAs",
+          "short_description": "To introduce open-source IP for components such as an NASTI slave memory mapped DDRx controller.",
+          "student_name": "diadatp",
+          "code_url": "https://github.com/diadatp/nasti-ddrx-mc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6680752104144896/"
+        },
+        {
+          "title": "Arduino to PULPino library porting",
+          "short_description": "PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core.\nImporting Arduino Libraries to PULPino architecture should...",
+          "student_name": "El-Mohr",
+          "code_url": "https://github.com/pulp-platform/pulpino/commits/master?author=El-Mohr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5567575769481216/"
+        },
+        {
+          "title": "Porting xv6 to the lowRISC platform",
+          "short_description": "Xv6 is a \u201csimple Unix-like teaching operating system\u201d. It is based on Sixth Edition Unix and written in ANSI C for x86. Its simplicity coupled with...",
+          "student_name": "Jeff Rogers",
+          "code_url": "https://github.com/jeffreyrogers/pv6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4636347671248896/"
+        },
+        {
+          "title": "Porting OPTEE to lowRISC",
+          "short_description": "This project aims to port OPTEE for a RISC-V based machine by implementing trust-zone mechanisms using minion cores and tagged memory. Also OPTEE...",
+          "student_name": "rahulmahadev",
+          "code_url": "http://mahadevrahul.blogspot.in/2016/08/gsoc-lowrisc-trusted-execution.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6017214285086720/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5688479367299072/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "CMSIS-DSP on PULPino",
+          "short_description": "I will implement ARM CMSIS library on PULPino using proposed priority, then i will port the implementation to its DSP core and compare results.",
+          "student_name": "Mostafa Saleh",
+          "code_url": "https://github.com/misaleh/CMSIS-DSP-PULPino",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5520055446011904/"
+        },
+        {
+          "title": "Implementation of core lock step in the lowRISC SoC for use in cubesats.",
+          "short_description": "The upgraded role of cubesats, fueled by technological advances in the aerospace industry, that lower launch costs, has opened access to space for a...",
+          "student_name": "nchronas",
+          "code_url": "https://nchronas.github.io/GSoC-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5232658514706432/"
+        },
+        {
+          "title": "ORAM interface for RISC-V systems",
+          "short_description": "Memory access is one of the most important operation done in modern processors thus it plays an important role in implementation of trusted execution...",
+          "student_name": "Yeonju Ro",
+          "code_url": "https://docs.google.com/document/d/1B6yjYxzuO0twFXVi-18TmCd6UkHh8DVzfFNctgMqz-Y/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4566057310224384/"
+        },
+        {
+          "title": "RISC-V Simulator for education",
+          "short_description": "This project aims to support the use of RISC-V in education by providing a simulator to step through assembly programs. This is a similar concept to...",
+          "student_name": "Benjamin Landers",
+          "code_url": "https://github.com/TheThirdOne/rars/releases/tag/v1.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6309390843904000/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6088258989064192/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Simulated memory controller",
+          "short_description": "Project goal\nThe goal of this project is to devise and implement a simulation-ready memory controller dedicated to benchmarking processor cores...",
+          "student_name": "Flavien Solt",
+          "code_url": "https://flaviens.github.io/simmem/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5122180888657920/"
+        },
+        {
+          "title": "Proof-of-concept integration of pointer authentication support in Ibex",
+          "short_description": "Pointer Authentication is a software security primitive that makes it much harder for an attacker to aggravate attacks targeting arbitrary code...",
+          "student_name": "Yuichi Sugiyama",
+          "code_url": "https://mmxsrup.github.io/2020/08/31/gsoc2020-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5950588879110144/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://lowrisc.zulipchat.com/",
+  "contact_email": "mailto:info@lowrisc.org",
+  "mailing_list": "https://listmaster.pepperfish.net/cgi-bin/mailman/listinfo/lowrisc-dev-lists.lowrisc.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/lowrisc",
+  "blog_url": "https://www.lowrisc.org/blog/"
+}

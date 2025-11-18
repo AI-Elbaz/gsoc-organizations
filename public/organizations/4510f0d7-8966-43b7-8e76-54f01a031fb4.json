@@ -1,0 +1,55 @@
+{
+  "name": "Tiled",
+  "url": "http://www.mapeditor.org",
+  "image_url": "https://lh3.googleusercontent.com/N82LnqT49LVmJ28wMr-Rkos0G1sWptTlzlDufgbUAaAe7gg7_p2tbsEQSDOKJl--rLX9X1GI7nbQdzTOKEGKsaqwAJkf7zp5",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "game",
+    "game development",
+    "edit",
+    "editing",
+    "level"
+  ],
+  "technologies": [
+    "github",
+    "c++",
+    "qt",
+    "git"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6470814639587328/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "General Improvements and Bug Fixes for Tiled",
+          "short_description": "Tiled is a map editor. A good user experience as well as interface is one of the key components for its users. A lot of small improvements can be...",
+          "student_name": "Ketan Gupta",
+          "code_url": "http://ketangupta.in/blog/gsoc/development/2017/08/29/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5103365772017664/"
+        },
+        {
+          "title": "Reusable Object Templates",
+          "short_description": "Tiled doesn\u2019t support saving custom objects and reusing them with their predefined properties, currently for doing so, an object can be duplicated,...",
+          "student_name": "Mohamed Ahmed thabet",
+          "code_url": "https://gist.github.com/thabetx/57cbf9c3fcb62ebe95c457678ba3f4b1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5897411272638464/"
+        },
+        {
+          "title": "Wang Tiles, and Filling Improvements",
+          "short_description": "With a small set of base tiles, users will be able to fill large areas of a tile map in a continuous, non-repetitive way, and dynamically edit...",
+          "student_name": "Ben Trotter",
+          "code_url": "https://github.com/bjorn/tiled/wiki/GSOC-2017:-Wang-Tiles",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5221230412038144/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/bjorn/tiled",
+  "contact_email": "mailto:bjorn@lindeijer.nl",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/thorbjorn81"
+}

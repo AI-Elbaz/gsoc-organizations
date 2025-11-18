@@ -1,0 +1,64 @@
+{
+  "name": "The Perl Foundation",
+  "url": "https://perlfoundation.org",
+  "image_url": "https://lh3.googleusercontent.com/d5e0eT02pNSKppd0CTbEJ0Xk11l06hzop8Rsed1FGMr_Rc4jGxgD9dyZ4k6y_Yayy_df4aL5nTup0p5swm_vxWVvx80rthY",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "functional programming",
+    "concurrency",
+    "web services",
+    "natural language understanding",
+    "programming languages and development tools"
+  ],
+  "technologies": [
+    "c",
+    "perl",
+    "regular expressions",
+    "perl6",
+    "perl5"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6559697677582336/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implementing the Chinese Encoding for Perl 6",
+          "short_description": "Develop encoding and decoding of GB2312 and GB18030 (simplified Chinese) for perl6.",
+          "student_name": "Zhongnian Tao",
+          "code_url": "https://github.com/ZhongnianTao/Chinese-Encodings-for-MoarVM",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6336350519820288/"
+        },
+        {
+          "title": "Redesign of the Perl 6 Documentation System",
+          "short_description": "Currently, pod6 files are processed by various scripts and modules (htmlify.p6,\nPod::To::HTML, Pod::To::BigPage,...), that has repeated...",
+          "student_name": "Antonio G\u00e1miz Delgado",
+          "code_url": "https://gist.github.com/antoniogamiz/16ed2317e67e4e0b546aa47639a73e32",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5717156845584384/"
+        },
+        {
+          "title": "Perl 6 - Documentation Tooling Revamp: p6doc",
+          "short_description": "Improving the p6doc command line tool.",
+          "student_name": "Joel Dale Sch\u00fcller",
+          "code_url": "https://gist.githubusercontent.com/noisegul/3675280a6d9f93cfcbef13e764d79b72/raw/3b0b8f13a9a31b70dbae6e6fceed828e1b180eb9/gsoc2019-report.txt",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4588302538113024/"
+        },
+        {
+          "title": "Linking Perl 6 Programs",
+          "short_description": "This project will add the capacity for Perl 6 to produce and execute self-contained binaries on Windows, Linux, and MacOS. I will start with an...",
+          "student_name": "Madeleine Goebel",
+          "code_url": "https://yakshavingcream.blogspot.com/2019/08/summer-in-review.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4956857557319680/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.irc.perl.org/",
+  "contact_email": "mailto:mdk@perlfoundation.org",
+  "mailing_list": "https://lists.perl.org/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/@perlfoundation",
+  "blog_url": "http://news.perlfoundation.org/"
+}

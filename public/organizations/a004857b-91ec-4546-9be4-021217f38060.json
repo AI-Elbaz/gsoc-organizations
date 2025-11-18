@@ -1,0 +1,76 @@
+{
+  "name": "AOSSIE - The Australian National University's Open-Source Software Innovation and Education",
+  "url": "https://cecs.anu.edu.au/current-students/student-opportunities/google-summer-code-anu",
+  "image_url": "https://lh3.googleusercontent.com/XfzAMWazpWFv5aKpdEt9P6PMkHbX4Hz5LFbxdwNWnBiheiQKPYcUlbneEYs7ipnGdYTxnly9g6XCOF9jHm5lF2LxJxLYH0UJ",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "privacy",
+    "health",
+    "logic",
+    "live programming",
+    "data analysis"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "llvm",
+    "scala",
+    "lisp"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5127141637226496/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Implementation of theorem prover based on Skeptik's data structures and Conflict Resolution algorithm",
+          "short_description": "Skeptik[1] is a tool focused on compression of proofs, but it's also possible to generate proofs using it's infrastructure.\nThere is a new algorithm...",
+          "student_name": "itegulov",
+          "code_url": "https://github.com/Paradoxika/Skeptik/pull/123",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6674954703601664/"
+        },
+        {
+          "title": "Local Community Detection Search Using a Conceptual View",
+          "short_description": "Rogas is based on a conceptual view of network analytics, where two families of topological constructs have been introduced and implemented for...",
+          "student_name": "Omid Rezvani",
+          "code_url": "https://github.com/orezvani/GSOC-Rogas/commits/local-community-search",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5515055835643904/"
+        },
+        {
+          "title": "Dynamic Network Analysis in Rogas",
+          "short_description": "Developing a visualization tool that can visualize graphs dynamically, and designing dynamic analysis strategies that can provide a flexible and...",
+          "student_name": "Yan Xiao",
+          "code_url": "https://github.com/shallyan/GSoC-Rogas",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5092347436072960/"
+        },
+        {
+          "title": "Parsers implementation and extension of proof compression algorithms from propositional to first-order logic",
+          "short_description": "Skeptik [1] is a collection of data structures and algorithms focused especially on the compression of formal proofs.\nResolution proofs, in...",
+          "student_name": "Ezequiel Postan",
+          "code_url": "https://github.com/Paradoxika/Skeptik/commits/develop?author=EzequielPostan",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5643440998055936/"
+        },
+        {
+          "title": "Private medical data comparison functions for similar patient matching",
+          "short_description": "Current implementation of PPSPM Software (http://dmm.anu.edu.au/PPSPM/) handles similar patient matching (SPM) based on  Bloom filter based masking...",
+          "student_name": "Mathu",
+          "code_url": "https://github.com/Mathuv/PPSPM-TextMM",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6232264908210176/"
+        },
+        {
+          "title": "Extempore - Live coding with simulation codes",
+          "short_description": "I will be using investigating the opportunities that Extempore provides in creating a more dynamic workflow for scientists programming simulation and...",
+          "student_name": "JPenington",
+          "code_url": "https://github.com/extemporelang/incremental-fluids/commits/master?author=peningtonj",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4715014292242432/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://cecs.anu.edu.au/current-students/student-opportunities/google-summer-code-anu#acton-tabs-link--tabs-0-middle-3",
+  "contact_email": "mailto:aossie-gsoc-2016@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/aossie-gsoc-2016",
+  "ideas_url": "",
+  "guide_url": ""
+}

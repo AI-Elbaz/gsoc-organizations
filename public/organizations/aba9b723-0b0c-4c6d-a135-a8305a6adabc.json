@@ -1,0 +1,144 @@
+{
+  "name": "DeepChem",
+  "url": "https://www.deepchem.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/deepchem/ffdofoxp3ba1qqmh-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "artificial intelligence",
+    "chemistry",
+    "biology",
+    "materials science",
+    "Drug Discovery"
+  ],
+  "technologies": [
+    "python",
+    "numpy",
+    "pytorch",
+    "HuggingFace"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/deepchem/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Protein Language Modeling",
+          "short_description": "The project aims to integrate a protein language model (PLM) into the DeepChem library through HuggingFace APIs and PyTorch. The project would...",
+          "student_name": "Shivasankaran Vanaja Pandi",
+          "code_url": "https://forum.deepchem.io/t/gsoc-24-protein-language-modeling-final-report/1445",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lpCjiX2J/"
+        },
+        {
+          "title": "Developing Modality Support for PROTACs",
+          "short_description": "PROTACs represent a very promising emerging drug modalities. Traditional modalities, small-molecule drugs, for example, or monoclonal antibodies, are...",
+          "student_name": "David_Zhang",
+          "code_url": "https://docs.google.com/document/d/1eY8fVvQrRPlLaQjkbnwKBamR8KLPa7oLgmoLk-mTkP0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HadcZO5q/"
+        },
+        {
+          "title": "Target Conditioned Antibody Sequence Generation Using Protein Language Models",
+          "short_description": "Monoclonal antibodies (mAbs) are a potent therapeutic because of their ability to precisely target molecular surfaces at a sub-protein level...",
+          "student_name": "Dhuvi Karthikeyan",
+          "code_url": "https://forum.deepchem.io/t/gsoc-24-final-report-target-conditioned-antibody-sequence-generation-using-protein-language-models/1449?u=dxk_23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/drmMTzsC/"
+        },
+        {
+          "title": "Torch compile and PyTorch 2.2.0",
+          "short_description": "This project aims to integrate the torch.compile function released in PyTorch 2.0 into DeepChem's PyTorch models, unlocking significant performance...",
+          "student_name": "Gautham Krishnan",
+          "code_url": "https://forum.deepchem.io/t/project-report-torch-compile-and-pytorch-2-2-0-gsoc-2024/1441",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Xwr0Z1tZ/"
+        },
+        {
+          "title": "Porting the Smiles2Vec Model from Tensorflow to Pytorch",
+          "short_description": "In this project, we aim to port DeepChem Models from Tensorflow to Pytorch. I want to select Chemnet Models model to work with. I want to put the...",
+          "student_name": "Harishwar Adithya S",
+          "code_url": "https://forum.deepchem.io/t/gsoc-24-porting-smiles2vec-model-from-tensorflow-to-pytorch-final-report/1443",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GgASHSpj/"
+        },
+        {
+          "title": "Incorporating Polymer Representation in DeepChem for Drug Delivery and Material Science Support",
+          "short_description": "Current methods in the DeepChem library struggle to understand complex polymers, limiting their application in drug delivery and materials science....",
+          "student_name": "Debasish Mohanty",
+          "code_url": "https://forum.deepchem.io/t/gsoc24-final-report-incorporating-polymer-representation-in-deepchem-for-drug-delivery-and-material-science-support/1444",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Vf2iK2zs/"
+        },
+        {
+          "title": "DeepChem meets Hugging Face pLM ESM-2: Predicting protein binding sites. A tutorial.",
+          "short_description": "Protein-ligand interactions play a crucial role in various biological processes, and accurately predicting protein binding sites, where ligand...",
+          "student_name": "Elisa G\u00f3mez de Lope",
+          "code_url": "https://forum.deepchem.io/t/gsoc-24-final-report-integration-of-protein-language-model-esm-2-with-deepchem-for-predicting-binding-sites/1446",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/554MrMl8/"
+        },
+        {
+          "title": "Drug Target Selection and Validation",
+          "short_description": "The project aims to integrate ConPLex for target selection and ESM for target validation into DeepChem, addressing the need for target selection and...",
+          "student_name": "Anamika_Yadav",
+          "code_url": "https://forum.deepchem.io/t/gsoc-final-report-drug-target-selection-and-validation/1467",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/j6C7hnpW/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/deepchem",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Model-Parallel DeepChem Model Training",
+          "short_description": "This project aims to significantly enhance the DeepChem library by integrating PyTorch Lightning to enable efficient multi-GPU training. Currently,...",
+          "student_name": "Bhuvanmdev",
+          "code_url": null,
+          "proposal_id": "cDzTeHH4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TQng0tTL"
+        },
+        {
+          "title": "Porting Chemception Model to PyTorch",
+          "short_description": "This project ports the Chemception model\u2014a deep CNN for molecular property prediction\u2014from TensorFlow to PyTorch.DeepChem has been shifting its...",
+          "student_name": "Bibhusundar Mohapatra",
+          "code_url": null,
+          "proposal_id": "cvylHyCF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/M5sBGg3d"
+        },
+        {
+          "title": "Integrating Single Cell RNA-seq modeling into Deepchem",
+          "short_description": "This project proposes integrating ACTINN, a neural network for automated cell type identification in single-cell RNA sequencing (scRNA-seq) data,...",
+          "student_name": "Harindhar",
+          "code_url": null,
+          "proposal_id": "Y6une4zu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/y70fgXcU"
+        },
+        {
+          "title": "Implement a Wishlist Model - Fourier Neural Operator",
+          "short_description": "This project aims to implement the Fourier Neural Operator (FNO) in DeepChem, expanding its support for solving complex partial differential...",
+          "student_name": "Shrisharanyan Vasu",
+          "code_url": null,
+          "proposal_id": "12kztAE7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pCUg5nMr"
+        },
+        {
+          "title": "Improving New Drug Modality Support for Antibody Drug Conjugate",
+          "short_description": "Cancer has become one of the leading causes of morbidity and mortality worldwide. One of the critical drawbacks of current cancer treatment has been...",
+          "student_name": "Sonali Lipsa Patra",
+          "code_url": null,
+          "proposal_id": "CrhqvG2Q",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5Kf7jqft"
+        },
+        {
+          "title": "Hamiltonian Neural Networks",
+          "short_description": "This project aims to implement Hamiltonian Neural Networks (HNN) within the DeepChem framework using PyTorch. HNNs are designed to model physical...",
+          "student_name": "ZapBot",
+          "code_url": null,
+          "proposal_id": "tvupICqa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NBfvsztr"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/RYTrUY8Ssn",
+  "contact_email": "",
+  "mailing_list": "https://forum.deepchem.io/",
+  "ideas_url": "https://forum.deepchem.io/t/deepchem-gsoc-2025-project-ideas/1568",
+  "guide_url": "https://forum.deepchem.io/t/gsoc-proposal-guidelines-2024/1102",
+  "twitter_url": "https://twitter.com/deep_chem"
+}

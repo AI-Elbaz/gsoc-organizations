@@ -1,0 +1,205 @@
+{
+  "name": "Berkman Klein Center for Internet and Society",
+  "url": "https://cyber.harvard.edu",
+  "image_url": "https://lh3.googleusercontent.com/h3ZbO_8msyWmFXvcts6xk9bJlHL9mjVlBkVsMaKORIvz32yfbpihILKKVBR3QmrOLfEYRnVgpt92mD_YIQLsi3wy7t2YuM6x",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "education",
+    "internet freedom",
+    "digital rights",
+    "censorship",
+    "law and policy",
+    "web",
+    "internet access",
+    "security and privacy",
+    "law",
+    "research",
+    "internet censorship"
+  ],
+  "technologies": [
+    "javascript",
+    "ruby on rails",
+    "go",
+    "meteor.js",
+    "sql/nosql",
+    "d3",
+    "elasticsearch",
+    "elk",
+    "python",
+    "java"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6488734048452608/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Improvements for Question Tool",
+          "short_description": "The objective of this proposal is to improve the existing user interface and optimise page speed of the Question Tool. The proposed layout improves...",
+          "student_name": "HarshV",
+          "code_url": "https://docs.google.com/spreadsheets/d/1Si8jq2DyMa7KShIoJozZMgW1UM_PhW_IWqeVxV7Sfbg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6387501132414976/"
+        },
+        {
+          "title": "New Data Integration Platform",
+          "short_description": "Implement a new Data Integration Platform that will allow for more data sources and a scalable ETL process. This will allow the Dashboard Widgets and...",
+          "student_name": "dphuang",
+          "code_url": "http://dphuang2.github.io/streamsets_scripts/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5650665401483264/"
+        },
+        {
+          "title": "Wave Federation protocol over the Matrix Protocol",
+          "short_description": "SwellRT is a full-stack framework for developing decentralized real-time collaborative apps in JavaScript/Java/Android. It is based upon Apache Wave...",
+          "student_name": "Waqee Khalid",
+          "code_url": "https://github.com/Waqee/incubator-wave/blob/master/MATRIX-FEDERATION.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5749069813121024/"
+        },
+        {
+          "title": "Data-Agnostic Visualization Widgets [Internet Monitor Dashboard]",
+          "short_description": "At this stage, the data visualization widgets available in the Internet Monitor Dashboard are all pre-tailored, with the front and back-end closely...",
+          "student_name": "maarouf",
+          "code_url": "http://gsoc16.maarouf.me/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5754182434816000/"
+        },
+        {
+          "title": "Dotplot Project Proposal",
+          "short_description": "DotPlot is a web platform which enables users with little or no programming skills create data visualisations. The platform utilises D3.js JavaScript...",
+          "student_name": "Chaitanya",
+          "code_url": "https://github.com/berkmancenter/dotplot/commits/master?author=chaitanyya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5301321083125760/"
+        },
+        {
+          "title": "LibraryBox iOS App",
+          "short_description": "An iOS app for LibraryBox written in Swift.  The app sends Notifications and WatchKit Complications on proximity to a LibraryBox based on iBeacon...",
+          "student_name": "davidhas",
+          "code_url": "https://soleil-alpin.com/gsoc2016/2016/08/workproductsubmission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5631818011246592/"
+        },
+        {
+          "title": "New onboarding experience to enhance UX for Teem especially for newcomers.",
+          "short_description": "The goal of my proposal is to provide Teem users with a new on boarding experience which will help newcomers to easily find communities appealing to...",
+          "student_name": "prastut",
+          "code_url": "https://prastut.github.io/2016/08/20/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6225932247367680/"
+        },
+        {
+          "title": "Admin Panel Customization in Book-a-Nook",
+          "short_description": "Book-a-Nook is an online platform where a user can look up for available community  spaces like libraries and make reservation requests to the admin....",
+          "student_name": "Shubham Patel",
+          "code_url": "http://shubhpatel108.github.io/gsoc/final-submission.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4917822647959552/"
+        },
+        {
+          "title": "IPFS friendly & distributed version of Amber",
+          "short_description": "The main aim of this project is to come up with distributed and resilient version of Amber, which can help it in achieving the real vision of...",
+          "student_name": "skbly7",
+          "code_url": "https://docs.google.com/document/d/1RdgpdrKaw9U2oLZum2F5Vex8JUCWXwdTSfc61yjRYgk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5870562895200256/"
+        },
+        {
+          "title": "Project Lumen",
+          "short_description": "The aim of this project is not only to build features that will speed and ease administrative tasks for the Lumen project staff, but also to build...",
+          "student_name": "Emmanuel Hayford Mensah",
+          "code_url": "https://gist.github.com/siaw23/394f9f5d93544d19c153b5495e870faf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6323410288246784/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5825274612547584/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Project Proposal: Implement topic creation using machine learning",
+          "short_description": "While retrieving articles with simple boolean queries will suffer from a list of problems in general, several machine learning approaches can be...",
+          "student_name": "Dongge Liu",
+          "code_url": "https://gist.github.com/Alan32Liu/08a639512568c7320b2869c019131de8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6403119244115968/"
+        },
+        {
+          "title": "End-to-end encryption in SwellRT",
+          "short_description": "End-to-end encryption (E2EE) has been gaining relevance during the last years due to the increasing privacy concerns of users. Encrypting...",
+          "student_name": "David Llop",
+          "code_url": "https://llopv.github.io/gsoc-2017/code/2017/08/29/project-overview.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5480697707888640/"
+        },
+        {
+          "title": "Bake a Pi for the lIbrary(box)",
+          "short_description": "LibraryBox currently runs on a limited set of TP-Link devices. While relatively simple to get running, LibraryBox still depends on being custom...",
+          "student_name": "Morgan Gangwere",
+          "code_url": "https://github.com/LibraryBox-Dev/alexandria/blob/master/gsoc-2017.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5000927312347136/"
+        },
+        {
+          "title": "Inclusion of new UI features along with third-party integrations",
+          "short_description": "Going with the idea that is mentioned on Teem\u2019s project idea page, that \n\u201cInternet applications do not exist as independent islands but rather as a...",
+          "student_name": "krshubham",
+          "code_url": "https://gist.github.com/krshubham/f8a6024d37c8e50f157ae5f745ebfdaa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5234444147359744/"
+        },
+        {
+          "title": "UI Improvements and Testing suite for Book-A-Nook",
+          "short_description": "Currently BookANook suffers from a great many UX bugs and seems unpolished in terms of features. With my experience in Web Design and Web...",
+          "student_name": "arkokoley",
+          "code_url": "https://drive.google.com/open?id=18vrNs5iQKyf_JUAjYGk2-g2c0OorfiTaOKDyZLs7R8M",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5820978034638848/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5751016104394752/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improvements and Addition of new features in the question tool",
+          "short_description": "My project proposal is to make the tool more user-friendly and adding features which will help in a more meaningful discussion among people. This...",
+          "student_name": "Salil Jain",
+          "code_url": "https://docs.google.com/spreadsheets/d/1rZs-VR5nKqHekUj7Zin1vHD0ZhFb2FlImDVo11SeEmY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5644570842890240/"
+        },
+        {
+          "title": "Automating Force Based Layout Scaling And Network Visualization For Media Source Networks From MediaCloud Topic Graphs",
+          "short_description": "Media source networks generated from Mediacloud topic graphs are currently visualized using software like Gephi with Force based layouts, however...",
+          "student_name": "Tasmiah Tahsin Mayeesha",
+          "code_url": "https://github.com/Tahsin-Mayeesha/Mediaviz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5704578783772672/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5781930639884288/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Proposal For Berkman Klein Center For Internet And Society - Question Tool",
+          "short_description": "The current state of Question Tool client side app is in functional state, but there are both, a large number of issue remaining, and an equally...",
+          "student_name": "Sanket Singh",
+          "code_url": "https://gist.github.com/singhsanket143/441676eccaddb9501e30dc9f7f0366cf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5300463950364672/"
+        },
+        {
+          "title": "Proposal for Integration of perma.cc with Lumendatabase",
+          "short_description": "Perma.cc is created with a aim to tackle the increasing incidences of link rot. It does so by archiving copies of the linked resources and providing...",
+          "student_name": "Shubham Sangamnerkar",
+          "code_url": "https://gist.github.com/shubhscoder/3055f976bfe7ef3d3b11141dc34addc0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5624115774357504/"
+        },
+        {
+          "title": "Ayanda",
+          "short_description": "Ayanda is an Open Source Android Library that makes it easy to discover nearby devices and share files through a simple API. Ayanda is meant to...",
+          "student_name": "Atul Nair",
+          "code_url": "https://atulnair.github.io/GSOC-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5841309451943936/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://cyber.harvard.edu/gsoc/Main_Page#Contact_Us",
+  "contact_email": "mailto:gsoc@cyber.harvard.edu",
+  "mailing_list": "https://cyber.harvard.edu/getinvolved",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/BKCHarvard",
+  "blog_url": "https://blogs.harvard.edu/geeks/"
+}

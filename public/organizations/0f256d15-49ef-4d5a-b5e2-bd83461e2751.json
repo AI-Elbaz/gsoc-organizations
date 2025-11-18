@@ -1,0 +1,428 @@
+{
+  "name": "OpenStreetMap",
+  "url": "https://www.openstreetmap.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openstreetmap/ihw4tczyumj0yx81-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "geoinformatics",
+    "gis",
+    "maps",
+    "crowdsourcing",
+    "open data",
+    "databases",
+    "routing",
+    "ui",
+    "geocoding",
+    "web",
+    "geodata"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "opengl",
+    "ruby",
+    "postgis",
+    "c",
+    "c++",
+    "python",
+    "sql",
+    "docker",
+    "postgresql",
+    "rust"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6253041544069120/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Visual Lane Editor for iD",
+          "short_description": "This proposal seeks to add a visual lane editor to iD. This lane editor must fit in 350px wide side pane of the editor and should be similar to the...",
+          "student_name": "kepta",
+          "code_url": "https://www.openstreetmap.org/user/kepta/diary/39327",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6418365304274944/"
+        },
+        {
+          "title": "Improved Shaders for OSM2World",
+          "short_description": "OSM2World provides an excellent tool for converting OSM data to 3D models. It however lacks in visual fidelity, which can make it off-putting to use...",
+          "student_name": "Zabot",
+          "code_url": "https://github.com/tordanik/OSM2World/pull/112",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6223715507372032/"
+        },
+        {
+          "title": "Public Transport Assistant Plugin for JOSM",
+          "short_description": "With the existing implementation, mapping and editing public transportation routes is a labor-intensive task, which demotivates mappers. The...",
+          "student_name": "DaryaGolovko",
+          "code_url": "https://drive.google.com/open?id=1gecpTGhSYQi70MseyScgVDfwn5h_yYpyoFmTx5gBSNE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4703186757615616/"
+        },
+        {
+          "title": "Reorganizing JOSM core",
+          "short_description": "I propose to restructure the JOSM core classes to be more flexible. This also allows us to separate different components of JOSM and change the...",
+          "student_name": "Michael Zangl",
+          "code_url": "http://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2016/AcceptedProjects/JOSM_core",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5207898028244992/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6746951777255424/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "3D Model Repository for OpenStreetMap",
+          "short_description": "This proposal consists of the implementation of a 3D model repository for OpenStreetMap, improving upon the basic system offered by the Simple 3D...",
+          "student_name": "Pedro Amaro",
+          "code_url": "https://gitlab.com/n42k/3dmr",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6733916283076608/"
+        },
+        {
+          "title": "Enhancement of the pt_assistant plugin",
+          "short_description": "During last year's GSoC, the pt_assistant plugin has been developed by Darya Golovko. My goal is to further develop the plugin making small fixes and...",
+          "student_name": "Giacomo Servadei",
+          "code_url": "https://wiki.openstreetmap.org/w/index.php?title=Google_Summer_of_Code/2017/AcceptedProjects/pt_assistant&oldid=1502764",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6744213332951040/"
+        },
+        {
+          "title": "Public transport - Web editor for public transport routes",
+          "short_description": "This is the proposal for the project idea shared on OSM wiki page https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2017/Project_Ideas...",
+          "student_name": "dkocich",
+          "code_url": "https://github.com/dkocich/osm-pt-ngx-leaflet",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5666315725438976/"
+        },
+        {
+          "title": "libosmscout: Implementation of an opengl renderer",
+          "short_description": "Currently there exists a great variety of OSM map rendering libraries, but a fast offline OpenGL based library is needed. libosmscout offers offline...",
+          "student_name": "Fanny Monori",
+          "code_url": "https://www.openstreetmap.org/user/fannymonori/diary/42144",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4659017582379008/"
+        },
+        {
+          "title": "[JOSM] UI enhancements and Main menu refactoring",
+          "short_description": "JOSM is a great editor for OpenStreenMap. It provides a rich set of functionality to allow its users a fluent way of managing data. \nCurrently, some...",
+          "student_name": "bafonins",
+          "code_url": "https://wiki.openstreetmap.org/wiki/User:Bafonins",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5206850593095680/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5878934189113344/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "iD Editor : Support for vector tile data",
+          "short_description": "iD currently uses publicly available reference data when editing OpenStreetMap. This data is often in the form of raster tiles (aerial imagery...",
+          "student_name": "Princi Vershwal",
+          "code_url": "https://medium.com/@vershwal/vector-tile-support-for-openstreetmaps-id-editor-40b1cb77f63b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6227707679473664/"
+        },
+        {
+          "title": "Extend wikipedia plugin for JOSM, especially with regard to wikidata",
+          "short_description": "Adds extended validation for wikidata/wikipedia tags, all integrated with the standard JOSM validator.\nThe plugin will show the main information that...",
+          "student_name": "Florian Sch\u00e4fer",
+          "code_url": "https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Wikipedia/GSoC_2018#Work_product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4518670936047616/"
+        },
+        {
+          "title": "Adding Notes to iD Editor",
+          "short_description": "Notes help users and editors understand what needs to be fixed. Adding notes to the iD editor allows editors to see descriptions of issues for an...",
+          "student_name": "Thomas Hervey",
+          "code_url": "https://www.openstreetmap.org/user/Thomas_Hervey/diary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6551746721611776/"
+        },
+        {
+          "title": "OSM Public Transport Editor-2nd Part",
+          "short_description": "I plan to enhance the public transport web editor developed by David Kocich in GSoC\u201917. The proposed project will add more editing functionality and...",
+          "student_name": "Anusha Singh",
+          "code_url": "https://www.openstreetmap.org/user/anusha%20singh/diary/44670",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4929538848980992/"
+        },
+        {
+          "title": "Continued development of Public Transport Assistant",
+          "short_description": "The project proposes to make the Public Transport Assistant more reliable, work properly with all forms of transport and help assist a mapper in a...",
+          "student_name": "Biswesh Mohapatra",
+          "code_url": "https://www.openstreetmap.org/user/Biswesh/diary/44589",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5857980385853440/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4651509608873984/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "HOT Task Manager Integration",
+          "short_description": "Many OSM contributors are guided by mapping tasks, such as HOTOSM tasks for disaster relief and humanitarian projects. Even though the iD editor is...",
+          "student_name": "Thomas Hervey",
+          "code_url": "https://github.com/openstreetmap/iD/tree/tm_test",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5710540297469952/"
+        },
+        {
+          "title": "PT_Assistant plugin",
+          "short_description": "Currently the Public Transport Assistant has been able to achieve a lot of success in\nvalidating the route data in OpenStreetMap but there are still...",
+          "student_name": "Ashish Singh",
+          "code_url": "https://www.openstreetmap.org/user/ashish123/diary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6183202723463168/"
+        },
+        {
+          "title": "Tool to Generate Bounding Nodes for Buildings and Quality Assurance",
+          "short_description": "I have been using JOSM to add cartographic data about my university. My university has a lot of buildings with complex shapes that can be difficult...",
+          "student_name": "Vishal R",
+          "code_url": "https://wiki.openstreetmap.org/wiki/JOSM/Plugins/AutoBound",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6480296566849536/"
+        },
+        {
+          "title": "3D Traffic Sign Rendering in OSM2World",
+          "short_description": "OSM2World is a converter that renders 3D models of the world, based on exported OpenStreetMap data. As the project is still under construction and...",
+          "student_name": "IASON MANOLOUDIS",
+          "code_url": "https://www.openstreetmap.org/user/JasonManoloudis/diary/390572",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6484767678136320/"
+        },
+        {
+          "title": "OpenStreetMap - Implement Add Wikidata to Nominatim",
+          "short_description": "The goal of this project is to extend the existing Nominatim Wikipedia extraction scripts to take into account Wikidata. The Wikidata project...",
+          "student_name": "tchaddad",
+          "code_url": "https://github.com/openstreetmap/Nominatim/pull/1475",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4877177324044288/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5531645890789376/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Simple Indoor Tagging Support for OSM2World",
+          "short_description": "Whilst OSM2World currently renders buildings, street furniture and other outdoor objects in 3 dimensions there is no functionality to do this for...",
+          "student_name": "Daniel Weaver",
+          "code_url": "https://www.openstreetmap.org/user/DWeaver/diary/394059",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4555090049892352/"
+        },
+        {
+          "title": "Fix and Improve Mapillary Plugin for JOSM",
+          "short_description": "Mapillary plugin is used to extract street-level imagery so they can be used for better editing in JOSM. Currently the basic implementation of the...",
+          "student_name": "Kishan Tripathi",
+          "code_url": "https://wiki.openstreetmap.org/wiki/JOSM/Plugins/Mapillary/GSoC_2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4824233839951872/"
+        },
+        {
+          "title": "Adding Search suggestions for osm.org",
+          "short_description": "OSM\u2019s main search engine Nominatim does not support search suggestions. A separate database, which should be derived from the Nominatim database,...",
+          "student_name": "K Rahul Reddy",
+          "code_url": "https://www.openstreetmap.org/user/krahulreddy/diary/394064",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5757600261472256/"
+        },
+        {
+          "title": "BIM Import for IndoorHelper Plugin",
+          "short_description": "The idea of this project is to extend the existing JOSM Plugin \"indoorHelper\" by an import feature for Building Information Modelling (BIM) files....",
+          "student_name": "Rebecca Schmidt",
+          "code_url": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2020/BIM_Import",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5947524084400128/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5165116701540352/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Interface for reporting search bugs for Nominatim",
+          "short_description": "Currently, there is no standard platform where users can report bugs when they are working with Nominatim. Generally, if a user wants to report a...",
+          "student_name": "Yash Srivastava",
+          "code_url": "https://www.openstreetmap.org/user/Darkshredder/diary/397433",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5308417748500480/"
+        },
+        {
+          "title": "Opening hours tag evaluator",
+          "short_description": "As noted by SimonPoole, the current opening hours parser lacks a complete evaluator for its input opening hours. This project will center around...",
+          "student_name": "Vuong Ho",
+          "code_url": "https://www.openstreetmap.org/user/goodudetheboy/diary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5381538123874304/"
+        },
+        {
+          "title": "Nominatim QA Analyser",
+          "short_description": "Nominatim is a software used to process geocoding requests on OpenStreetMap data. The software uses its own database schema which differs from the...",
+          "student_name": "Antonin Jolivat",
+          "code_url": "https://www.openstreetmap.org/user/AntoJvlt/diary/397480",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6545567106203648/"
+        },
+        {
+          "title": "Element History Widget",
+          "short_description": "This will be a standalone library to display multiple versions of any selected OSM element and allow comparison between the different versions.",
+          "student_name": "Zohaib Ansari",
+          "code_url": "https://github.com/zedlabs/ElementHistoryDialog",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5759143863910400/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/openstreetmap/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Re-Introducing Transit Routing Support to Valhalla",
+          "short_description": "Valhalla is a routing engine built on OpenStreetMap data, that allows for high flexibility by providing diverse routing modes and routing filters....",
+          "student_name": "Chris Park",
+          "code_url": "https://www.openstreetmap.org/user/ChrisPark/diary/399918",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZLkTUrMt/"
+        },
+        {
+          "title": "Geo-referenced image viewer in OSM",
+          "short_description": "Problem: A popular way of taking notes while mapping is by taking pictures. But in order to efficiently use those notes, the pictures should be shown...",
+          "student_name": "Mukesh Jaiswal",
+          "code_url": "https://github.com/openstreetmap/iD/pull/9291",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/KIEOQzXL/"
+        },
+        {
+          "title": "Nominatim - Importance by OSM map views",
+          "short_description": "Nominatim is OSM\u2019s own geocoding software. When a user is searching for a specific place, Nominatim returns multiple results that are likely to be...",
+          "student_name": "Tareq Al-Ahdal",
+          "code_url": "https://www.openstreetmap.org/user/tareqpi/diary/399922",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EllLnlI3/"
+        },
+        {
+          "title": "Proposal for JOSM Route Visualisation",
+          "short_description": "This plugin enhances the visualization of routes to make it easier for users to edit routes. The code improves the interface for interacting with...",
+          "student_name": "Zhengyi",
+          "code_url": "https://www.openstreetmap.org/user/Zing929645/diary/399898",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/IKbrxrQN/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openstreetmap",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "OSRM Python Bindings",
+          "short_description": "Develop Python bindings to the OSRM C++ framework using pybind11, with the end goal of publishing the package to PyPI. This would allow OSRM to...",
+          "student_name": "DW Chung",
+          "code_url": "https://gist.github.com/whytro/6af6cade4b1a5c7cbb11ee70fb16cf55",
+          "proposal_id": "Zx1tGMIn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PiLUxU6Z"
+        },
+        {
+          "title": "Landmark-based Navigation in Valhalla",
+          "short_description": "The aim of this project is to enhance Valhalla's route guidance by enabling landmark-based navigation/narration, which will utilize OpenStreetMap's...",
+          "student_name": "Junzhen Lou",
+          "code_url": "https://www.openstreetmap.org/user/Junzhen/diary/402456",
+          "proposal_id": "xZ8Z1j3D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HIQ2dR9w"
+        },
+        {
+          "title": "Improving Japanese Search Capability: Adding Japanese Morphological Analysis Functionality",
+          "short_description": "Japanese addresses are unique and have a different system compared to other countries. The address format is in block style, and is different from...",
+          "student_name": "Miku",
+          "code_url": "https://docs.google.com/document/d/1wuVfzD_F2dyUMW6Gdg0RZWmkMhzTnP6X-LQ41WyEXQQ/edit",
+          "proposal_id": "FIz9ugEH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0TtY6g6k"
+        },
+        {
+          "title": "Support Vespucci preset extensions in JOSM",
+          "short_description": "Vespucci, the Android editor for OpenStreetMap, uses the JOSM-compatible presets for tagging. Vespucci, however, has evolved to support far greater...",
+          "student_name": "Sarabjeet Sodhi",
+          "code_url": "https://www.openstreetmap.org/user/Sarabjeet%20Sodhi/diary/402268",
+          "proposal_id": "UYiajQET",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2ef3Fr1d"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/openstreetmap/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Colorblind-Friendliness Assessment and Adjustment Plugin for MapLibre Maps",
+          "short_description": "The project aims to enhance accessibility for users with color vision deficiencies (CVD) by developing a npm package. It analyzes color combinations...",
+          "student_name": "Katie Yang",
+          "code_url": "https://github.com/osm-americana/color-unclasher",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qiEx40A3/"
+        },
+        {
+          "title": "Formatted citations in OpenHistoricalMap",
+          "short_description": "The OpenHistoricalMap project aims to give a temporal aspect to mapped information, adding the possibility to see maps during specific points in...",
+          "student_name": "Pedro Le\u00e3o",
+          "code_url": "https://docs.google.com/document/d/1YjiBKjp3Lf_UXWEXsRv9kEG4t3OCeIK1tmoqwwjHMGM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vh3NAhvi/"
+        },
+        {
+          "title": "Support navigation in PWAs for Ferrostar",
+          "short_description": "Idea based on https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2024/Project_ideas Ferrostar is the new cross-platform turn-by-turn...",
+          "student_name": "catme0w",
+          "code_url": "https://www.openstreetmap.org/user/catme0w/diary/404954",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OFMxtO2T/"
+        },
+        {
+          "title": "\"Support display of images from Panoramax in iD\"",
+          "short_description": "Panoramax would make a priceless addition to the OpenStreetMap (and FOSS in general) community: the panoramic view feature improves map exploration...",
+          "student_name": "Mattia Pezzotti",
+          "code_url": "https://www.openstreetmap.org/user/Juicio/diary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RhEwak4x/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openstreetmap",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Nominatim: Transliteration of Search Results",
+          "short_description": "OpenStreetMap (OSM) commonly stores names of streets, places, and points of interest in their local language and script. As a result, users searching...",
+          "student_name": "anqixu",
+          "code_url": null,
+          "proposal_id": "zFJh4Fe9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hnNINYNC"
+        },
+        {
+          "title": "Temporary  Road  Closures  Database  and  API",
+          "short_description": "The Temporary Road Closures Database and API project addresses a critical gap in the OpenStreetMap (OSM) ecosystem by creating a centralized,...",
+          "student_name": "Archit Rathod",
+          "code_url": null,
+          "proposal_id": "gRSNgXhx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tF4ccCqZ"
+        },
+        {
+          "title": "Modernize the 3D Model Repository",
+          "short_description": "3DMR is a community-driven repository for 3D models and their metadata, aimed at enhancing 3D map rendering. Originally developed as part of Google...",
+          "student_name": "Ayush Dhar Dubey",
+          "code_url": null,
+          "proposal_id": "aPnS4hMI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZJyIdiWg"
+        },
+        {
+          "title": "Modernize iD Editor Session Management with IndexedDB",
+          "short_description": "The iD Editor is a powerful tool used by thousands to contribute to OpenStreetMap, but its current session management system relies on localStorage,...",
+          "student_name": "Deeptanshu Sankhwar",
+          "code_url": null,
+          "proposal_id": "B1DwNbPA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VxNSENnT"
+        },
+        {
+          "title": "Ferrostar - Snapshot Recording, Testing, and Replay",
+          "short_description": "This project aims to enhance Ferrostar by implementing a session recording and replay system for debugging and testing navigation flows. The system...",
+          "student_name": "Kandarp Jindal",
+          "code_url": null,
+          "proposal_id": "9UdPFN9L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Bsi6d3Fr"
+        },
+        {
+          "title": "Photos in Every Door",
+          "short_description": "The \"Photos in Every Door\" project aims to enrich OpenStreetMap by enabling mappers to capture and upload two types of images: photo notes linked to...",
+          "student_name": "Soham Dixit",
+          "code_url": null,
+          "proposal_id": "srvQWM1n",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8LuEQxXz"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2021#Contact",
+  "contact_email": "",
+  "mailing_list": "https://community.openstreetmap.org/",
+  "ideas_url": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2025/Project_ideas",
+  "guide_url": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2025",
+  "twitter_url": "https://twitter.com/openstreetmap",
+  "blog_url": "https://blogs.openstreetmap.org/"
+}

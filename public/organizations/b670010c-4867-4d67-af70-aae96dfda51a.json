@@ -1,0 +1,79 @@
+{
+  "name": "BeeWare Project",
+  "url": "https://pybee.org",
+  "image_url": "https://lh3.googleusercontent.com/1rn4mBGgb0b0WyJrcK__M074I7LIUzcOIwRFpLYUbw63ADidvYiNjyNQR-ALTJrXp0dlywT9S3EwkIg6trXFFqaFxwm8RjQ",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "ui",
+    "ide",
+    "cross-platform",
+    "app development",
+    "mobile",
+    "cross desktop"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "ios",
+    "mobile",
+    "javascript",
+    "java"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5213454373748736/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Port Cricket to use Toga, instead of Tkinter",
+          "short_description": "Cricket's GUI interface is currently implemented using Tkinter, which has a lot of limitations. The main goal is the complete port of Cricket to use...",
+          "student_name": "Dayanne Fernandes",
+          "code_url": "https://pybee.org/news/buzz/2017-google-summer-of-code-final-report-dayanne-fernandes/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5746440890482688/"
+        },
+        {
+          "title": "Batavia improvements: JSON module, Generators and others",
+          "short_description": "This project consists of a number of features and improvements that further advance BeeWare's Batavia:\n\nComplete implementation of dict and list data...",
+          "student_name": "Adam Boniecki",
+          "code_url": "https://pybee.org/news/buzz/2017-google-summer-of-code-final-report-adam-boniecki/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5506569248702464/"
+        },
+        {
+          "title": "Toga Settings API and Inward Facing Testing API",
+          "short_description": "Programs and settings are a inseparably bound with each other. Every professional application gives users the freedom to change default values to...",
+          "student_name": "Jonas Schell",
+          "code_url": "https://pybee.org/news/buzz/2017-google-summer-of-code-final-report-jonas-schell/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5942267911077888/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5679790782676992/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implement asyncio support in voc",
+          "short_description": "This project focus on implementing asyncio\u2019s coroutine and event loop (both timer & socket based) for voc in JVM. Successful implementation of...",
+          "student_name": "Yap Boon Peng",
+          "code_url": "https://pybee.org/news/buzz/2018-google-summer-of-code-final-report-yap-boon-peng/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5944530150883328/"
+        },
+        {
+          "title": "Optimizing the VOC Compiler",
+          "short_description": "The current implementation of Python AST to Java bytecode transpilation in many cases takes a naive approach, resulting in redundant bytecode...",
+          "student_name": "Patience Shyu",
+          "code_url": "https://pybee.org/news/buzz/2018-google-summer-of-code-final-report-patience-shyu/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5998717874208768/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/pybee",
+  "contact_email": "mailto:contact@pybee.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/pybeeware",
+  "blog_url": "http://pybee.org/news/"
+}

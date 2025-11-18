@@ -1,0 +1,42 @@
+{
+  "name": "ZynAddSubFX",
+  "url": "http://zynaddsubfx.sf.net",
+  "image_url": "https://lh3.googleusercontent.com/p7QK3Y5XvI87Zn_oqiI8iAtjp7lvHSIOArnAIfbhUQOR0HsP7dyWk-GXysodrPfYSpZETMrCMnid2-tHgykKz3PSPkuvcg",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "visualization",
+    "music",
+    "audio",
+    "digital signal processing",
+    "user experience"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "opengl",
+    "ruby",
+    "midi",
+    "open-sound-control"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5486812028469248/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Signal Scopes for intermediate waveform",
+          "short_description": "The aim of this project is to extend the current Synthesis State Watcher to additional low level waveform in different stage of producing note during...",
+          "student_name": "Micky C",
+          "code_url": "http://zynaddsubfx.sourceforge.net/GSoC2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4691913792290816/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://zynaddsubfx.sourceforge.net/support.html",
+  "contact_email": "",
+  "mailing_list": "http://zynaddsubfx.sourceforge.net/support.html",
+  "ideas_url": "",
+  "guide_url": ""
+}

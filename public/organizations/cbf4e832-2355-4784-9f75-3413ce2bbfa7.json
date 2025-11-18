@@ -1,0 +1,41 @@
+{
+  "name": "API Client Tools at Google",
+  "url": "https://googleapis.github.io",
+  "image_url": "https://lh3.googleusercontent.com/Wz1qKokD67uvVuu1FCoNqyl7dmYk19VC0UzGdQS1heA8QlzKQpzgJZ_DAD1g691sAQ7T_njEX_gP1ZnolJa0KytP6t1_Fds",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "automation",
+    "apis",
+    "code generation",
+    "api description"
+  ],
+  "technologies": [
+    "rest",
+    "openapi",
+    "grpc",
+    "protocol buffers",
+    "rpc"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6340359469137920/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Build tools that bridge OpenAPI and gRPC",
+          "short_description": "Creating APIs should be as easy as writing a \u201cHello World\u201d program. Therefore, the Google APIs team is\nworking on different tools to accomplish that...",
+          "student_name": "Lorenz Hofmann-Wellenhof",
+          "code_url": "https://medium.com/@lorenzhofmann.w/6-useful-things-i-learned-from-gsoc-1738c7471a90",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5019228334194688/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:actools-info@google.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/googleapis"
+}

@@ -1,0 +1,483 @@
+{
+  "name": "RoboComp",
+  "url": "https://robocomp.github.io/web/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/robocomp/okal4wecq8dywr78-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "robotics",
+    "computer vision",
+    "framework",
+    "robotics simulation",
+    "simulation",
+    "multi-agent system",
+    "component-based development",
+    "Multi-agent Systems"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "cmake",
+    "zeroc ice",
+    "gnu/linux",
+    "qt",
+    "openscenegraph",
+    "c",
+    "ice - zeroc",
+    "opencv",
+    "c++11",
+    "component-based development",
+    "qt5",
+    "c++17",
+    "pytorch"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6723762711953408/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "A new graphical tool for deploying components",
+          "short_description": "Two main reason for this to be an important idea.\n                (1) Sometimes we will have to work with component networks which contains hundreds ...",
+          "student_name": "Basil",
+          "code_url": "https://gist.github.com/BasilMVarghese/b66c11871bcee5cb769e4644cbcec7e2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6372975016148992/"
+        },
+        {
+          "title": "Qt5 and ROS support",
+          "short_description": "The project is about implementing a Qt5 and ROS support in RoboComp\u2019s DSL",
+          "student_name": "dgallegos",
+          "code_url": "https://github.com/Daniel1108/website/blob/gh-pages/_posts/gsoc2016/dgallegos/2016-08-20-dgallegosWeek11.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6617925590974464/"
+        },
+        {
+          "title": "RoboComp: Object detection for simulated environments",
+          "short_description": "Object detection and recognition are central problems in computer vision literature and essential for a vision based library. Recent advances in...",
+          "student_name": "Harit",
+          "code_url": "https://docs.google.com/document/d/1uJq8H5lG77iEgcvyJn-cyJoBo_Zf346DBmdx6OXVH3Q",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4543387667529728/"
+        },
+        {
+          "title": "Writing a name and port service for running components",
+          "short_description": "This Project deals with writing a new component in RoboComp that will provide a naming and port service. When starting, components will now contact...",
+          "student_name": "Yash Sanap",
+          "code_url": "http://robocomp.github.io/website/2016/08/20/yashWeek16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4600633139134464/"
+        },
+        {
+          "title": "Automatic code generation for State Machines",
+          "short_description": "When you run robocompdsl in addition to create the file example .cdsl, will create an example file where state machine will be defined. When you run...",
+          "student_name": "ibarbech",
+          "code_url": "https://ibarbech.github.io/AcGfSM_GSoC16/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6085194759012352/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5477575937753088/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Graphic Deployment Tool",
+          "short_description": "The highlyUnstable branch of robocomp has an advanced rcmanager, which aids for creation of the xml files in a simple and illustrative way, through a...",
+          "student_name": "Mayank_Kumar",
+          "code_url": "https://gist.github.com/Kmayankkr/61e52a764da1ec1dd96dd5ff366eb67e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5404869523406848/"
+        },
+        {
+          "title": "Domain Specific Language for programming the Learnbot educational robot",
+          "short_description": "Project aims at designing a custom language for getting rid of the burden of textual programming and to provide abstraction and hide the underlying...",
+          "student_name": "Aniq Ur Rahman",
+          "code_url": "https://docs.google.com/presentation/d/1AN1_6moCLcTjmeyPX2aGd1fl6cLJwDTbMb8LpaXGcWE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5233140759003136/"
+        },
+        {
+          "title": "Domain Specific Language for programming the Learnbot educational robot",
+          "short_description": "The Learnbot is a small robot which is used to teach to the children the world of robotics. This robot is designed to run simple programs. These...",
+          "student_name": "Iv\u00e1n",
+          "code_url": "https://ibarbech.github.io/IDE-for-programming-the-Learnbot/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5324479815221248/"
+        },
+        {
+          "title": "Social navigation with Robocomp\u200b",
+          "short_description": "The project idea I would like to contribute to robocomp platform as a part of Google Summer of Code is a new component - or set of new RoboComp...",
+          "student_name": "Araceli Vega Magro",
+          "code_url": "https://aracelivegamagro.github.io/SocialNavigation_GSOC17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5351511802511360/"
+        },
+        {
+          "title": "Introducing robust code generation techniques in Robocomp",
+          "short_description": "RoboComp is an open-source Robotics framework providing the tools to create and modify software components that communicate through public...",
+          "student_name": "Nikhil Abraham",
+          "code_url": "https://docs.google.com/document/d/1nCri4oe_ykMFzO3OaG7fQmZYHATM3ONYRBlgH92V-YM",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5577900602425344/"
+        },
+        {
+          "title": "Learning useful Actions for efficient planning",
+          "short_description": "Automated Planning involves taking actions to reach the goal. The problem is that most of the practical situations have lots of actions involved, and...",
+          "student_name": "Lashit Jain",
+          "code_url": "https://gist.github.com/jainlashit/e017f7fa1bf1a319c82bd92ca640ec96",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6257780235173888/"
+        },
+        {
+          "title": "Social Navigation with RoboComp",
+          "short_description": "The aim of this project is to integrate social behaviors into the RoboComp navigation agent. Mobile robots that encounter people on a regular basis...",
+          "student_name": "Yohan M R",
+          "code_url": "https://yohanmr.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4821890795307008/"
+        },
+        {
+          "title": "Redesign of Learnbot to improve its features and functionalities",
+          "short_description": "One proposal to redesign Learnbot to solve current problems and make the robot more attractive and expressive",
+          "student_name": "brickbit",
+          "code_url": "https://github.com/brickbit/web/blob/master/gsoc/2017/brickbit/My%20progress.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4841577180561408/"
+        },
+        {
+          "title": "Javascript Support",
+          "short_description": "This project aims to extend the current  DSL based component code generator to also generate RoboComp components that  can be run in the browser. The...",
+          "student_name": "Love Mehta",
+          "code_url": "https://gist.github.com/lovemehta/ca0799f36ad3a2436307f98773ddc404",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5971490868559872/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5504242315952128/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Emotion Recognition Component for Learnbot",
+          "short_description": "Learnbot is a small low-cost robot designed to develop computational thinking in kids of age 10 and above. Presently, Learnbot can be programmed to...",
+          "student_name": "Sayali Deshpande",
+          "code_url": "https://github.com/psy2d/gsoc-2018-report/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5676453324652544/"
+        },
+        {
+          "title": "Improving the Human-centered Robot Navigation Agent",
+          "short_description": "My proposal consists on transform the fixed personal space used actually in Robocomp into an adaptive space, depending of the spatial context (there...",
+          "student_name": "Araceli Vega Magro",
+          "code_url": "https://aracelivegamagro.github.io/HumanCenteredRobotNavigation_GSOC18/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5692367319334912/"
+        },
+        {
+          "title": "Visual Detection Mechanisms in Mobile Robots.",
+          "short_description": "I think about how to improve the RoboComp system by adding visual detection mechanisms to the mobile robots. This provides to the robot all the...",
+          "student_name": "CristinaMG",
+          "code_url": "https://github.com/ljmanso/objectDetection2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5755683257450496/"
+        },
+        {
+          "title": "Gazebo-RoboComp Integration",
+          "short_description": "Simulation plays an important role in robotics. Through simulation we can save valuable time and resources to test our algorithms. Often robotics...",
+          "student_name": "Akash Kumar Singh",
+          "code_url": "https://gist.github.com/ksakash/ea6c21487df14409a860787ff7a7f66d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5069507739516928/"
+        },
+        {
+          "title": "JavaScript support",
+          "short_description": "My proposal is based on getting full support for JavaScript within the RoboComp framework. For this, the current state of generation of written...",
+          "student_name": "Jos\u00e9 Alberto And\u00fajar",
+          "code_url": "https://github.com/Joanes04/Robocomp-ZeroC-JS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5248878257373184/"
+        },
+        {
+          "title": "Learnblock (Learnbot programming language) extension for collaborative robotics",
+          "short_description": "LearnBlock is the programing tool designed for easy usage of the Learnbot robot. It is meant to be used by students and to help them learn new...",
+          "student_name": "Prinshu Kumar",
+          "code_url": "https://github.com/coolprinshu123/Collaborative-Robotics/blob/master/index.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4685928303951872/"
+        },
+        {
+          "title": "RCIS: improving RoboComp simulator with contact physics",
+          "short_description": "The existing RCIS simulator is not very efficient when our robot get more complex so we need more advanced functions in RCIS. This project is to...",
+          "student_name": "Sparsh",
+          "code_url": "https://gist.github.com/sparsh789/1f2cca0c3d069912fd78e0693ee78137",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5960282882965504/"
+        },
+        {
+          "title": "Generation of new use cases, tutorials and reference information for RoboComp",
+          "short_description": "Robocomp current tutorials are simple and cover just the basics. Improved tutorials and use cases need to be created for Robocomp to be a framework...",
+          "student_name": "Maria Boh\u00f3rquez",
+          "code_url": "https://gist.github.com/mariabohorquez/1810d41aeb00d370d68ff74a50cb5563",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5195628246204416/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6183862000943104/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "New examples and scenarios for swarm robotics in RoboComp",
+          "short_description": "Swarm robotics is an approach to the coordination of large numbers of robots in order to tackle a given task inspired by the observation of social...",
+          "student_name": "Jos\u00e9 Manuel Ag\u00fandez",
+          "code_url": "https://jmagundezg.github.io/GSoC-2019-SwarmComm/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5439300831805440/"
+        },
+        {
+          "title": "Robocompdsl-gui: a graphical interface for Robocompdsl",
+          "short_description": "RoboComp is an open-source robotics framework that affords the tools to create software components. These components communicate through interfaces...",
+          "student_name": "Elena Barranco",
+          "code_url": "https://gist.github.com/elebarr/d98ee5c191b0cbccd45e7a93612159a7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5442187049828352/"
+        },
+        {
+          "title": "Interactive RCIS Project Proposal",
+          "short_description": "Building an interactive robotic simulator in order to simulate the complex real world. As real worlds are dynamic in nature we need a simulator where...",
+          "student_name": "Shashwat Shrivastava",
+          "code_url": "https://gist.github.com/t2shashwat/57c02f6c7002e712afc92b23299e654d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4996884521811968/"
+        },
+        {
+          "title": "Storage of the graph-based world representation used in RoboComp",
+          "short_description": "My proposal aims to create a new component that allows to store the representation of the robot\u2019s world over time, as well as query it. For this, it...",
+          "student_name": "Alberto And\u00fajar",
+          "code_url": "https://github.com/Joanes04/serious-game-robocomp-GSOC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5004232925642752/"
+        },
+        {
+          "title": "Testing and comparison of alternative robotic simulators",
+          "short_description": "RoboComp\u2019s existing simulator, RCIS, is based on OpenSceneGraph technology and custom made actuators and sensor. This project is to build prototypes...",
+          "student_name": "Nikhil-Bansal",
+          "code_url": "https://medium.com/@nikhilbansal3456/gsoc-2019-final-report-of-robocomp-v-rep-integration-5442bfc6d3d3?source=friends_link&sk=849ff22ec790129a5bcfdb2f1df65d7b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5371818305650688/"
+        },
+        {
+          "title": "Development of human activity recognition component",
+          "short_description": "The task of recognizing and predicting human daily activities is a trending topic nowadays,  and  a  lot  of  research  has  been  developed  around ...",
+          "student_name": "Liubove Orlov Savko",
+          "code_url": "https://gist.github.com/liu-oryol/08e7632d81ae1e1bb70355ddb6c5af51",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6201176222072832/"
+        },
+        {
+          "title": "People identification component for the EBO educational robot",
+          "short_description": "Aim of this project is to develop a People Identification System with the following two capabilities.\n\nGiven an image identify all the faces in it...",
+          "student_name": "Aditya Aggarwal",
+          "code_url": "https://gist.github.com/adityaaggarwal97/4adbb90dd5aa9280d1ddbdc050e5db61",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4951617697218560/"
+        },
+        {
+          "title": "Development of a Text To Speech component that operates offline for the EBO educational robot",
+          "short_description": "My project is based on the fact that the offline component to be created for EBO gives it the ability to speak through a TTS modulating the voice...",
+          "student_name": "Isabel Najarro Borrego-1",
+          "code_url": "https://inajarrob.github.io/GSoC-2019-TextToSpeech/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5950500120297472/"
+        },
+        {
+          "title": "Learning acceptable social behaviour using machine learning techniques",
+          "short_description": "Machines have been socially aware but the efforts to be put into making them socially aware or their behavior to be socially acceptable are...",
+          "student_name": "Ronit Jorvekar",
+          "code_url": "https://gist.github.com/Ronit-j/6768953b8076ce97a20ee2dc6d0dfa66",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6299515403894784/"
+        },
+        {
+          "title": "Development of a human activity recognition component",
+          "short_description": "Understanding actions and interactions of humans from the RGB-D sensor input can significantly improve cognitive functions of robots and help safely...",
+          "student_name": "Mariyam Fedoseeva",
+          "code_url": "https://mfedoseeva.github.io/GSOC19-har-project-robocomp/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5145834843275264/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6622081011154944/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Efficient acceptable social behaviour using machine learning techniques",
+          "short_description": "Aim of this project is to introduce machine learning methods to learn about the surroundings for a robot\u2019s navigation, we want to develop an agent...",
+          "student_name": "Rishabh Baghel",
+          "code_url": "https://github.com/notabee/GSoC20-Report/blob/master/Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6595025401544704/"
+        },
+        {
+          "title": "Syntax-error highlighter for LearnBlock",
+          "short_description": "This project aims to endow LearnBlock with the ability to determine the different syntax-errors of a program and to display those errors in both, the...",
+          "student_name": "Jos\u00e9 Miguel S\u00e1nchez",
+          "code_url": "https://gist.github.com/jmi2k/4749fb0c63a053661bc85cf12aedabcc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5719678351048704/"
+        },
+        {
+          "title": "DNN\u2019s for precise manipulation of household objects",
+          "short_description": "The ability of a robot to detect, grasp and manipulate objects is one of the key challenges in building an intelligent humanoid robot. For a...",
+          "student_name": "Mohamed Shawky",
+          "code_url": "https://gist.github.com/DarkGeekMS/ab9abdad83d7f993f52f7f33d214be32",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5455125545484288/"
+        },
+        {
+          "title": "Robocomp GUI development",
+          "short_description": "This Graphical User Interface is responsible for the Robot's controlling and monitoring. This uses CORTEX architecture which is a cognitive robotics...",
+          "student_name": "Rahul Katiyar",
+          "code_url": "https://github.com/rahulkatiyar19955/gsoc-gui-dev/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5247158732718080/"
+        },
+        {
+          "title": "Hand Gesture Recognition Component",
+          "short_description": "One of the capabilities of the robot is to efficiently communicate with humans, either through voice or gestures. Currently, EBO is equipped with...",
+          "student_name": "Kanav",
+          "code_url": "https://gist.github.com/Kanav-7/5cbe51c3575fa44debb5705fa0597900",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5310102854172672/"
+        },
+        {
+          "title": "Integration of an emotion recognition component in RoboComp",
+          "short_description": "We are living in a world where a cognitive robot can act as a human assistant and has the potential to offer social experiences through human-robot...",
+          "student_name": "Palash Agarwal",
+          "code_url": "https://gist.github.com/palash16/50ce44d356cdbf44dc82586389c8cd97",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6493455699673088/"
+        },
+        {
+          "title": "Human recognition (identification) using multi-modal perception system",
+          "short_description": "In Robotics, it is crucial to identify humans and efficiently distinguish them. This gives the ability to perform further challenging tasks such as...",
+          "student_name": "Shubh Maheshwari",
+          "code_url": "https://github.com/robocomp/robocomp-aston/tree/master/components/detection/HumanIdentification",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4939459423895552/"
+        },
+        {
+          "title": "Human-robot dialogue and collaboration for social navigation.",
+          "short_description": "The navigation of a robot in an environment with humans is a subject with enormous interest in the last years. To be accepted in these types of...",
+          "student_name": "Rishi Gondkar",
+          "code_url": "https://github.com/RishiGondkar/GSoC-2020/blob/master/report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6266448592240640/"
+        },
+        {
+          "title": "Python3 bindings for InnerModel Library",
+          "short_description": "C++ as a programming language comes in handy in case of performance oriented applications for example: a simulator. But when it comes to rapidly...",
+          "student_name": "Akash Kumar Singh",
+          "code_url": "https://gist.github.com/ksakash/e3ea536981d9c8ab88c98766ff41d04b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5194611217137664/"
+        },
+        {
+          "title": "Software agent for estimating occupancy in medium and large buildings using RGB cameras",
+          "short_description": "Humans and robots coexist together in today's world and to make these interactions more meaningful, one of the capacities that a robot must certainly...",
+          "student_name": "Nivedita Rufus",
+          "code_url": "https://niveditarufus.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5202658475900928/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6285571999137792/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Webots integration",
+          "short_description": "This is a proposal for no. 15 project idea - \"Webots integration with RoboComp\".\nAs the title indicates, the project aims at integrating RoboComp...",
+          "student_name": "Kacper Kujawski",
+          "code_url": "https://github.com/Estox/GSoC2021-Webots-Integration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6639022675329024/"
+        },
+        {
+          "title": "Sign Language Recognition",
+          "short_description": "The main topic can be divided into two parts:\n+Body and hand detection:  I apply the lightweight Openpose model, MediaPipe library, and the optical...",
+          "student_name": "Trung Ngo Tan",
+          "code_url": "https://gist.github.com/rongtuech/e23d9293186f6f0563ccba77d559d899",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5691934034624512/"
+        },
+        {
+          "title": "Improvement of a Social Navigation component",
+          "short_description": "With the advent of Machine Learning, one can learn such heuristics and use them as cost functions in conventional path planners. SNGNN-1D is one such...",
+          "student_name": "Aditya Kapoor",
+          "code_url": "https://github.com/robocomp/sngnn/tree/master/SNGNN-RL",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5472062881136640/"
+        },
+        {
+          "title": "An object detection component for LearnBlock",
+          "short_description": "Implementing a neural network with transfer learning for a new component of object detection in LearnBlock",
+          "student_name": "Alejandro Fern\u00e1ndez",
+          "code_url": "https://alexfdez1010.github.io/web/GSOC2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5487554727510016/"
+        },
+        {
+          "title": "Graphical-User Interface for affective human-robot interactions",
+          "short_description": "Interaction of a robot with the operator (human) is an important and daunting task. The aim of this project would be to create a clean, modern and...",
+          "student_name": "Aditya Kasibhatla",
+          "code_url": "https://github.com/dev-kasibhatla/gsoc-conversationalAgent",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5078415975120896/"
+        },
+        {
+          "title": "Software agent for traffic and pedestrian traffic monitoring in outdoor environments using RGB cameras.",
+          "short_description": "In today\u2019s world, a lot of educated decisions are made using the information collected by robots and are aided by the inferences given by the...",
+          "student_name": "Amarthya Sasi Kiran",
+          "code_url": "https://github.com/robocomp/robocomp-robolab/tree/master/components/detection/trafficMonitoringInOutdoorEnv",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6247686998589440/"
+        },
+        {
+          "title": "Simultaneous path planning and following using Model Predictive Control (SPAF)",
+          "short_description": "The field of Model Predictive Control (MPC) has seen tremendous progress. The algorithms and high-level software available to solve challenging...",
+          "student_name": "Yassmin Hesham",
+          "code_url": "https://github.com/Yasmin-Hesham/optimizer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4888220159967232/"
+        },
+        {
+          "title": "Port of AGM from Python 2 to Python 3",
+          "short_description": "AGM (Active Grammar-based Modeling) is a Project with the objective of proposing a detailed description of how the software modules of the robots can...",
+          "student_name": "Fernando Martin",
+          "code_url": "https://docs.google.com/document/d/1mqUB373x1gFD2RtUp0wUqp7JwJnOpD3xQP4l9MixEos/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5168969689858048/"
+        },
+        {
+          "title": "Computer vision for detecting elements of a vehicle\u2019s environment with RoboComp",
+          "short_description": "The detection of risk situations during the navigation of mobile robots is an essential task for future applications. The goal is to create a...",
+          "student_name": "Garv Tambi",
+          "code_url": "https://github.com/robocomp/robocomp-robolab/tree/master/components/detection/DetectingElements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5189931814617088/"
+        },
+        {
+          "title": "Monocular Depth Estimation from RGB signals",
+          "short_description": "Depth Estimation is one of the attractive research areas in computer vision. The motivation of this project is to estimate depth without the use of...",
+          "student_name": "Vaibhaw Khemka",
+          "code_url": "https://gist.github.com/vaibhawkhemka/1b832b198ebffed607804238d2d1cee4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5196785273798656/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/robocomp/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Reinforcement Learning for pick and place operations",
+          "short_description": "Reinforcement learning is an established discipline for the automatic acquisition of control programs from a reward signal. Some early limitations...",
+          "student_name": "Daniel Peix",
+          "code_url": "https://github.com/robocomp/robocomp-pick-and-place/tree/dani_branch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jJ8o0Wpc/"
+        },
+        {
+          "title": "Extending the Social Navigation component to realistic scenarios",
+          "short_description": "Socially aware path planning enables a robot to navigate through a crowded environment causing the least amount of discomfort to the surrounding...",
+          "student_name": "Sushant Sreeram Swamy",
+          "code_url": "https://github.com/robocomp/gsoc22-socnavenv",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/So3JrqTr/"
+        },
+        {
+          "title": "Model Predictive Control for obstacle avoidance",
+          "short_description": "I am proposing the use of Convex Inner Approximations to plan the trajectories. The Convex Inner Approximation method finds kinodynamically feasible...",
+          "student_name": "Kaustab Pal",
+          "code_url": "https://kaustabpal.github.io/gsoc_22_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Ci8WKoJ7/"
+        },
+        {
+          "title": "Self-Adaptive controller for path following",
+          "short_description": "Self-adaptation is a key ability for future autonomous robots. Thanks to this capability, a robot is able to automatically adapt to changes during...",
+          "student_name": "Swati Dantu",
+          "code_url": "https://github.com/swatidantu/DSR_ASMC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dWqGmh50/"
+        },
+        {
+          "title": "Reinforcement Learning for pick and place operations",
+          "short_description": "The aim of the project is to train a optimal controller using Deep Reinforcement Learning for pick and place operations. The agent improves from a...",
+          "student_name": "Vamsi Anumula",
+          "code_url": "https://github.com/robocomp/robocomp-pick-and-place/tree/sac_her",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XJDzk1aT/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/robocomp/robocomp/robocomp-gsoc",
+  "contact_email": "mailto:pbustosgarciadecastro@gmail.com",
+  "mailing_list": "https://gitter.im/robocomp/robocomp/robocomp-gsoc",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://robocomp.github.io/web/blog/index"
+}

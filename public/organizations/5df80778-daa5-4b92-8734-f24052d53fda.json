@@ -1,0 +1,47 @@
+{
+  "name": "Cockpit Project",
+  "url": "https://cockpit-project.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cockpit-project/znjdaamdoskwijzj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "web",
+    "linux"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "react"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/cockpit-project",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Navigator plugin modernization",
+          "short_description": "\"Cockpit navigator\" is a featureful File System Browser for Cockpit, which allows the user to remotely browse, manage, edit, upload, and download...",
+          "student_name": "Mahmoud Hamdy",
+          "code_url": "https://github.com/cockpit-project/cockpit-navigator",
+          "proposal_id": "nePYu37M",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KNYEb8CT"
+        },
+        {
+          "title": "Implement the Feature to Create and Manage VPNs in Cockpit",
+          "short_description": "This project aims to develop a user-friendly interface for configuring and managing popular VPN protocols like WireGuard and OpenVPN on Linux servers...",
+          "student_name": "Subho",
+          "code_url": "https://subhoghosh.com/blog/gsoc-2023",
+          "proposal_id": "YGXm8cmF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SF3rQQZc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.irccloud.com/irc/libera.chat/channel/cockpit",
+  "contact_email": "mailto:mmarusak@redhat.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/cockpitproject/"
+}

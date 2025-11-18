@@ -1,0 +1,276 @@
+{
+  "name": "AerospaceResearch.net",
+  "url": "http://aerospaceresearch.net/",
+  "image_url": "https://lh3.googleusercontent.com/Cuse4sTixkecf8wRwx4LW93vB8rj1hu6e-cKUrxa_jMrTkLDct_Xhw2nBd0Db6SmwcjMxeGEuN2HG9yp3gkRqXlbLeDdR0NxGJnU07iTeFHJug",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "distributed computing",
+    "space applications",
+    "software defined radio",
+    "cubesats",
+    "simulations",
+    "signal processing"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "vhdl",
+    "boinc",
+    "java",
+    "sqlite",
+    "raspberry pi",
+    "machine learning",
+    "sdr"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6713622831038464/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Universal Space Operations Center",
+          "short_description": "The Universal Space Operations Center, USOC, is an open-source tool that allows a simple and easy creation of a working groundstation to aid space...",
+          "student_name": "Victor Hertel",
+          "code_url": "http://aerospaceresearch.net/?p=350",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6437495088611328/"
+        },
+        {
+          "title": "Orbit Position Data Analysis and Interpolation",
+          "short_description": "This project is directed towards obtaining the Keplerian orbit parameters from the jittery position vector obtained by de-noising and interpolating...",
+          "student_name": "Nilesh Chaturvedi",
+          "code_url": "https://aerospaceresearch.net/?p=299",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6712304007643136/"
+        },
+        {
+          "title": "SiqNAL:\u00a0Fast\u00a0CubeSat tracking using IQ stream data",
+          "short_description": "This project aims to provide a reliable open-sourced cubesats tracking following different mechanisms and protocols for transmitting signals that too...",
+          "student_name": "Jay Krishna",
+          "code_url": "https://goo.gl/xLXGsH",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5749327108505600/"
+        },
+        {
+          "title": "VisMa \u2013 A visual equation solver",
+          "short_description": "VisMa aims to make math simpler for all who are afraid of mathematics. Once the numbers are eliminated from an equation, people fear dealing with...",
+          "student_name": "sidkothiyal",
+          "code_url": "https://aerospaceresearch.net/?p=431",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6145493683929088/"
+        },
+        {
+          "title": "Multi Purpose Ground Station",
+          "short_description": "Iridium is a satellite communication system, previously mainly used for satellite phone calls and remote control and tracking of scientific...",
+          "student_name": "vstarlinger",
+          "code_url": "http://aerospaceresearch.net/?p=326",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6152911629320192/"
+        },
+        {
+          "title": "Lone Pseudoranger: orbit position data analysis and interpolation (3d)",
+          "short_description": "The project is mainly focused on data analysis for 3d position data of satellite orbits. My work is to receive as an input a huge amount of...",
+          "student_name": "Alexandros Kazantzidis",
+          "code_url": "http://aerospaceresearch.net/?p=332",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4841919569985536/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5715161717407744/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Universal Space Operation Center GUI",
+          "short_description": "The Problem\nThe Universal Space Operations Center is a simple and easy-to-use ground station for space projects. It was initially developed to aid...",
+          "student_name": "Pedro12909",
+          "code_url": "https://aerospaceresearch.net/?p=924",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6383478224453632/"
+        },
+        {
+          "title": "Implementing Two-Line Element (TLE) Input / Output and using it for evaluation",
+          "short_description": "The project is focused on two-line elements that how we can accurately determine satellite orbit using the information wrapped in it and then...",
+          "student_name": "Aakash Deep",
+          "code_url": "https://aerospaceresearch.net/?p=899",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6415325138518016/"
+        },
+        {
+          "title": "[gsoc18-a-dd6] DirectDemod: Decoding of Automatic Picture Transmission (NOAA)",
+          "short_description": "One of the important functions of satellites is to provide us with weather data allowing us to properly plan and be prepared for adverse weather...",
+          "student_name": "Vinay C K",
+          "code_url": "http://aerospaceresearch.net/?p=949",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6687330249211904/"
+        },
+        {
+          "title": "Lone Pseudoranger: Orbit position data analysis and interpolation (3D)",
+          "short_description": "Enabling orbit determinator to predict orbits using real time data. It will be done using 5 steps:\n\nFinding a set of Keplerian elements that...",
+          "student_name": "Arya Das",
+          "code_url": "https://aerospaceresearch.net/?p=929",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5678807906254848/"
+        },
+        {
+          "title": "Turning orbitdeterminator into a robust, reliable tool",
+          "short_description": "As a GSoC project, I will continue the work done on  orbitdeterminator, so that we turn it into a robust, reliable tool, suitable for orbit...",
+          "student_name": "Jorge P\u00e9rez",
+          "code_url": "https://aerospaceresearch.net/?p=984",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5574424229052416/"
+        },
+        {
+          "title": "visma - VISualMAth",
+          "short_description": "visma - VISualMAth, an equation solver, which aims at showing the step-by-step solution of a given equation.\nAs of now, visma is capable of...",
+          "student_name": "Shantanu Mishra",
+          "code_url": "https://8hantanu.github.io/projects/visma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6099516126134272/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5335970445000704/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Ksat: Visualizing multi-dimensional evolution on system and subsystem level",
+          "short_description": "Optimization of complex systems is one of the biggest challenges in engineering. A system can be considered complex when its consisted of more...",
+          "student_name": "Themistoklis Spanoudis",
+          "code_url": "https://aerospaceresearch.net/?p=1812",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6650127358361600/"
+        },
+        {
+          "title": "Decoding of ADSB and Multi-Lateral positioning",
+          "short_description": "This project is focused on tracking aircrafts with ADS-B messages. The aim is to make a smooth tracking method when the aircraft fails to report its...",
+          "student_name": "Shoumik Dey",
+          "code_url": "https://aerospaceresearch.net/?p=1765",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5747705790332928/"
+        },
+        {
+          "title": "OrbitDeterminator: Community Observation Input of many station locations.",
+          "short_description": "I read the work Jorge Perez has done for GSoC 2018(especially for sun orbiting bodies) and I found it fascinating, I would really love to build upon...",
+          "student_name": "Rakshit Bhatt",
+          "code_url": "https://aerospaceresearch.net/?p=1822",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5044018348556288/"
+        },
+        {
+          "title": "VISual MAth: Refactoring Old Modules & Adding New Ones",
+          "short_description": "VISual MAth (visma) is an equation solver and visualiser, which can be used to solve complex mathematical equations. It not only solves the equation...",
+          "student_name": "Mayank Dhiman",
+          "code_url": "https://aerospaceresearch.net/?p=1791",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5346225803493376/"
+        },
+        {
+          "title": "OrbitDeterminator: Community Observation Input of Many Station Locations",
+          "short_description": "In this project, functionality to take input from a mix of ground stations and observations of different format will be added to OrbitDeterminator....",
+          "student_name": "Vidhan Arya",
+          "code_url": "https://github.com/vidhanarya/GSoC2019-Orbitdeterminator/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6243038328782848/"
+        },
+        {
+          "title": "DirectDemod Automatic Picture Transmission (NOAA) \u2013 BigImage and Globe Projection",
+          "short_description": "There are thousands of wheather satellites orbiting the Earth at each moment of time, constantly transmitting APT signals. The problem of efficient...",
+          "student_name": "Vladyslav Mokrousov",
+          "code_url": "https://aerospaceresearch.net/?p=1704",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4823831749853184/"
+        },
+        {
+          "title": "MaaS (Molto-IT as a Service)",
+          "short_description": "The objectives of this project are to find optimizations in MOLTO-IT trying to reach the best performance due to the hard numerical process that this...",
+          "student_name": "Brandon Escamilla",
+          "code_url": "https://aerospaceresearch.net/?p=1800",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5949173310947328/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5720999993016320/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Device Handler Development for the SOURCE Project",
+          "short_description": "GSOC 2020 - Device Handler Development for the SOURCE Project \nIntroduction\nI am Robin Mueller, a graduate student in aerospace engineering at the...",
+          "student_name": "Robin M\u00fcller",
+          "code_url": "https://git.ksat-stuttgart.de/source/sourceobsw",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5703498638819328/"
+        },
+        {
+          "title": "Orbit determination of continuous and sporadic signals.",
+          "short_description": "With increasing popularity in CubeSat technologies, it has gotten ever so important to have low-cost systems that complement the economical and...",
+          "student_name": "Nikhil Mishra",
+          "code_url": "https://aerospaceresearch.net/?p=1942",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5357240590008320/"
+        },
+        {
+          "title": "Doppler-based Orbit Determination Using Network of Low-Cost Ground Stations",
+          "short_description": "The problem of near-Earth environment congestion  has become increasingly important due to the growing number of both active and inactive Resident...",
+          "student_name": "Andrey Pak",
+          "code_url": "https://aerospaceresearch.net/?page_id=2010",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6560599258955776/"
+        },
+        {
+          "title": "Finite Fourier series approximation of low-thrust lunar ballistic trajectories",
+          "short_description": "The present proposal tries to give attention to the CR3BP in its potential applications for Earth-Moon transfers, as well as propose an alternative...",
+          "student_name": "Gin\u00e9s Salar",
+          "code_url": "https://aerospaceresearch.net/?p=1947",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5978124384206848/"
+        },
+        {
+          "title": "MOLTO OPTIMIZATION FOR PRODUCTION PURPOSES",
+          "short_description": "The objective of this project is to optimize MOLTO for production purposes due to different reasons related to the users flow and the asynchronous...",
+          "student_name": "Brandon Escamilla",
+          "code_url": "https://aerospaceresearch.net/?p=2033\u200e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5140424701771776/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4866654592303104/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "CalibrateSDR",
+          "short_description": "CalibrateSDR is designed to accurately determine the frequency offset of an SDR via an IQ recording sample. Cheaper SDRs use a low-quality crystal...",
+          "student_name": "Jayaraj",
+          "code_url": "https://aerospaceresearch.net/?p=2349",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6331354941227008/"
+        },
+        {
+          "title": "Development of an FDIR algorithm using Neural networks",
+          "short_description": "The goal of this project is to develop a failure detection, isolation and recovery algorithm (FDIR) for a cubesat, but using machine learning and...",
+          "student_name": "Rafael Badell",
+          "code_url": "https://aerospaceresearch.net/?p=2372",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6171036227207168/"
+        },
+        {
+          "title": "Python GUI Visualisation for MOLTO-3BP Engine",
+          "short_description": "Visualisation of the MOLTO-3BP Incorporating Matlab Python SDK\nI am aware there are many applicants, thus I sincerely apologize and regret my delay...",
+          "student_name": "Mario Robert D'Ambrosio",
+          "code_url": "https://aerospaceresearch.net/?p=2330",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5061006694285312/"
+        },
+        {
+          "title": "Calibrate SDR enhancement",
+          "short_description": "Calibrate SDR is a tool by AerospaceResearch.net in which we would be adding support of GSM, and DVB-T signals for correcting frequency offset that...",
+          "student_name": "Ayush Singh",
+          "code_url": "https://aerospaceresearch.net/?p=2347",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6238241459535872/"
+        },
+        {
+          "title": "Implementation of the data analysis compilation interface in a satellite monitoring simulator",
+          "short_description": "Cubesat are now widespread as affordable tools for teaching and researching for Universities\nand Research Centers. Although they are simple...",
+          "student_name": "R.David Aleman Ramos",
+          "code_url": "https://aerospaceresearch.net/?p=2211",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6491447599038464/"
+        },
+        {
+          "title": "Center of Satellite Signal in the Frequency Domain",
+          "short_description": "Because of the recent sharp growth of the satellite industry, it is necessary to have free, accessible, open-source software to analyze satellite...",
+          "student_name": "Binh-Minh Tran-Huu",
+          "code_url": "https://aerospaceresearch.net/?p=2353",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6052985896960000/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://aerospaceresearch.zulipchat.com/",
+  "contact_email": "mailto:gsoc2021@aerospaceresearch.net",
+  "mailing_list": "https://lists.shackspace.de/mailman/listinfo/constellation",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ardnnews",
+  "blog_url": "http://aerospaceresearch.net"
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Ruby on Rails",
+  "url": "http://rubyonrails.org/",
+  "image_url": "https://lh3.googleusercontent.com/vKSkD8tHmHh8CZANFLZKn491GK8d7EtO-1ym1y1jkUKTdaXThRD1egMpovzLvJ0lKWQlUCR0u2OYiSVb-aMrQdsOjQA-HP9W",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "full stack",
+    "web development",
+    "web applications"
+  ],
+  "technologies": [
+    "ruby on rails",
+    "ruby",
+    "html"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5017499041005568/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Refactor Rails' Cookie Implementation and Improve Signing with Expiry and Purpose",
+          "short_description": "The main goal of this project is to add expiry and purpose to cookies so that cookies won't last forever and trying to use a cookie for something it...",
+          "student_name": "Assain K C",
+          "code_url": "https://gist.github.com/assain/fed04b9b610b8c190566a1956f523cc1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6745169634263040/"
+        },
+        {
+          "title": "Long Running Ruby and Rails Benchmarks",
+          "short_description": "Finding out about regressions months in development cycle can often incur a massive cost, fixing bugs early on is cheap. Usually the longer we wait...",
+          "student_name": "Marko Bogdanovi\u0107",
+          "code_url": "https://gist.github.com/bmarkons/78d7568dbccf2b79263965860c78762e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4860189823991808/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5717023518621696/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Modernising Error Pages",
+          "short_description": "The Rails website and welcome page was redesigned. However, the current design of error pages doesn't follow the new style. The new styling can be...",
+          "student_name": "Yao Jie Lim",
+          "code_url": "https://gist.github.com/causztic/21bbd396251f7c16dec81ef67a153f11",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6742288784949248/"
+        },
+        {
+          "title": "Server Timing Middleware & GSoC\u201917 - Refactor Rails\u2019 Cookie Implementation & Improve Signing With Expiry & Purpose - Continuation",
+          "short_description": "This project completes the leftover bits of GSoC'17 and adds a new Rack middleware - Server Timing Middleware",
+          "student_name": "Assain KC",
+          "code_url": "https://gist.github.com/assain/508356287b1c036059e29804ff810757",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4586375592542208/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://rubyonrails.org/community/",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/rubyonrails-gsoc",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/rails",
+  "blog_url": "http://weblog.rubyonrails.org"
+}

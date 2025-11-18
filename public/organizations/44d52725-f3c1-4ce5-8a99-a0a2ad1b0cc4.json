@@ -1,0 +1,423 @@
+{
+  "name": "Global Alliance for Genomics and Health",
+  "url": "https://ga4gh.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/global-alliance-for-genomics-and-health/0bnlmihuhff098xd-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "genomics",
+    "big data",
+    "apis",
+    "standards",
+    "data sharing",
+    "web",
+    "bioinformatics",
+    "genetics",
+    "cloud",
+    "data discovery",
+    "healthcare",
+    "data security",
+    "security"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "sql",
+    "protobuf",
+    "mongodb",
+    "c++",
+    "c",
+    "cloud",
+    "spring",
+    "node.js",
+    "hl7 fhir",
+    "postgresql",
+    "react",
+    "rust"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6536303764045824/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "GSoC Student Proposal for SMART/FHIR and GA4GH",
+          "short_description": "I am submitting  a proposal for integrating SMART/FHIR and GA4GH",
+          "student_name": "Beth2",
+          "code_url": "https://drive.google.com/file/d/0BwMrLWyiMI9pQ0Z1U0hmb2tST2M/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6615272911798272/"
+        },
+        {
+          "title": "Beacon Compliance Suite",
+          "short_description": "Main tasks include the following:\n\nthe Beacon project and Beacon Networks project need a Java client to be implemented. The configurable clients...",
+          "student_name": "Voskoboynick",
+          "code_url": "https://gist.github.com/artemik/2a985c4a4c604cf6f212463a568ef10c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5553409088290816/"
+        },
+        {
+          "title": "Building a Better Beacon: Developing Supporting Tools for the Beacon Project",
+          "short_description": "With beacons being lit and the specification readily being adopted by organizations all over the world, there is a need for a toolkit which...",
+          "student_name": "patmagee",
+          "code_url": "https://gist.github.com/patmagee/08b73b93f4be6dbca87406e35cf6d9b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4806214433112064/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6101170829393920/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Structural Variants Support in VCF Validator",
+          "short_description": "The VCF (Variant Call Format) is a format for text files, which is generally stored in a compressed manner to make the data retrieval of variants...",
+          "student_name": "Anishka Gupta",
+          "code_url": "https://gist.github.com/Anishka0107/75d0f6c13ebbe22b1643689683c25a54",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5232335049981952/"
+        },
+        {
+          "title": "VCF Streaming API Server and Specification",
+          "short_description": "\u201cHtsget retrieval API spec\u201d [1] is a specification by the Global Alliance for Genomics and Health (GA4GH) for genomics bulk data transfers. This is a...",
+          "student_name": "Amila Silva",
+          "code_url": "https://gist.github.com/amilamanoj/a3827d91e9915569ee97d9802e394839",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5312337674240000/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4659817385820160/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Connect genomic sample discovery and sequencing data streaming",
+          "short_description": "BioSamples is the EMBL-EBI central hub for metadata about samples whose raw data is hosted in reference archives such as EGA, ENA and EVA. The goal...",
+          "student_name": "Dilshat Salikhov",
+          "code_url": "https://gist.github.com/Dilschat/898155f861604bca5a63258e342f0a3c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5657082955038720/"
+        },
+        {
+          "title": "Reference Sequence Retrieval API",
+          "short_description": "This proposal consists of the development of a compliance test suite for Reference API servers with validation and checks for URLs, status codes,...",
+          "student_name": "Somesh Chaturvedi",
+          "code_url": "https://gist.github.com/someshchaturvedi/4b7cc34fa794da5bb7c438941326e164",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5679977345318912/"
+        },
+        {
+          "title": "Simplify usage of VCF validation suite",
+          "short_description": "vcf-validator is a suite of command-line tools that can validate and fix VCF files. The goal of my project is to overcome the limitations of the...",
+          "student_name": "Sarbjit Singh",
+          "code_url": "https://gist.github.com/srbcheema1/c4356400549d126bf9274885e8f5b121",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4808616125136896/"
+        },
+        {
+          "title": "Proposal: Global filesystem and search engine for genomics data",
+          "short_description": "Data Object Service (DOS) is an emerging standard for specifying location of data across different cloud environments. The goal of DOS is to create a...",
+          "student_name": "Eric Keilty",
+          "code_url": "https://gist.github.com/ekeilty17/bef6562cbb65e71df844f32013454d91",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4858482238947328/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6722565253365760/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Task distribution logic for GA4GH Cloud APIs",
+          "short_description": "The Global Alliance for Genomics and Health aims to provide end-to-end solutions for clinical data use cases. The sensitive nature of data in the...",
+          "student_name": "Vani Singh",
+          "code_url": "https://gist.github.com/vaniisgh/02af3ab8233fb7b6ac9314df0c3716f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5037401347457024/"
+        },
+        {
+          "title": "Data pipeline for exchange of genomic variation between public repositories",
+          "short_description": "The main goal of this project is to implement a mechanism to be in sync with the latest human data submitted to dbSNP. Once imported, this...",
+          "student_name": "Rohan K",
+          "code_url": "https://gist.github.com/108krohan/64baa69d6017976ad39bf6a664a85bc6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5232003631284224/"
+        },
+        {
+          "title": "Data repository service",
+          "short_description": "The Data Repository Service (DRS) API provides a generic interface to data repositories so data consumers, including workflow systems, can access...",
+          "student_name": "Dilshat Salikhov",
+          "code_url": "https://docs.google.com/document/d/1GiyUXWh33_B6v7xunLo0TuWyTvGslsdPF0AJJ6OCnH8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5942884002430976/"
+        },
+        {
+          "title": "RESTful API for genomic variation search",
+          "short_description": "The Beacon specification allows to query whether a genomic variation is present in a repository. But the current implementation is based on an...",
+          "student_name": "JUNAID N Z",
+          "code_url": "https://gist.github.com/junaidnz97/4feadc786249424e081021d21ae94294",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6294760740880384/"
+        },
+        {
+          "title": "Generic compliance framework for GA4GH APIs",
+          "short_description": "The aim of this project is to build a compliance framework, to ensure that all new implementations/products/APIs adhere to the central specification...",
+          "student_name": "Rishi Kaushik",
+          "code_url": "https://github.com/rkaushik15/api-compliance-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5135086553399296/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5086080816119808/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Web application for trait-to-ontology mapping",
+          "short_description": "Mapping free text trait names to ontologies so that they can be processed is an important task that is not yet standardized. The goal of this project...",
+          "student_name": "Giorgos Apostolopoulos",
+          "code_url": "https://gist.github.com/joj0s/c5b23d99ee5fbe2e36fdc6bec53f7016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6346834307448832/"
+        },
+        {
+          "title": "JSON Schema Repository and Browser",
+          "short_description": "JSON Schema is a vocabulary to specify the structure of a JSON document. JSON Schema is widely used and well supported and sees a growing use for...",
+          "student_name": "Hashan Perera",
+          "code_url": "https://gist.github.com/Hashan-Rashmi-Perera/99f6983bcfb11e7990abbdd484796854",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6609598628233216/"
+        },
+        {
+          "title": "Dynamically adding data to DRS",
+          "short_description": "Storing, sharing and accessing the vast volumes of data being generated in modern research and healthcare settings is extremely daunting. With the...",
+          "student_name": "Sarthak Gupta",
+          "code_url": "https://gist.github.com/sarthakgupta072/d46494fac5fcdec1e059c148f5603d16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5846031054405632/"
+        },
+        {
+          "title": "Reference registry + contig alias search",
+          "short_description": "Reference sequences are files that are used as a reference to describe variants that are present in analyzed sequences and play a central role in...",
+          "student_name": "Tanmay Singal",
+          "code_url": "https://gist.github.com/singaltanmay/7d997b0643b71ca2bfdb06b754f5b21a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6267605683273728/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4716668999172096/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Brokering Continuous Delivery through the ELIXIR Cloud service registry",
+          "short_description": "The solution will act as a BROKER that manages subscriptions for update notifications for each deployment subscribed by system administrators\nSystem...",
+          "student_name": "Akash Saini",
+          "code_url": "https://gist.github.com/akash2237778/bc0c1473e786ca172ffdde281b89ede6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5045763050045440/"
+        },
+        {
+          "title": "Pure Rust Htsget Implementation",
+          "short_description": "The aim of this proposal is to build a pure Rust serverless implementation of htsget - a client/server protocol for reliably and securely sending...",
+          "student_name": "Marko Malenic",
+          "code_url": "https://gist.github.com/mmalenic/b30550b216d6461ca24001d8cba9893b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5320826445889536/"
+        },
+        {
+          "title": "React diagram component library for creating pedigree drawings tools",
+          "short_description": "Scope\nProject scope is to develop a React.js library of pedigree components that will meet the GA4GH standards.\nLibrary will be build of accessible...",
+          "student_name": "Kamil Albrycht",
+          "code_url": "https://github.com/TrakGene/pedigree-chart",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4697350605373440/"
+        },
+        {
+          "title": "Implement TES in Galaxy/Pulsar",
+          "short_description": "To increase the interoperability of the Galaxy Platform with GA4GH Cloud-compliant solutions, the goal of this project is to add support for the TES...",
+          "student_name": "Vipul Chhabra",
+          "code_url": "https://gist.github.com/vipulchhabra99/ad41343524cb6ba5d27f57098fca0c58",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4779531717574656/"
+        },
+        {
+          "title": "Implement reusable GA4GH UI clients",
+          "short_description": "This project is based on the idea of the simplest form of micro-frontends that we can provide our users with our services like Cloud Registry, TRS,...",
+          "student_name": "Anurag Gupta",
+          "code_url": "https://gist.github.com/git-anurag-hub/736301f2b40e242f1eef582151e3098a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5890187980177408/"
+        },
+        {
+          "title": "Pure Rust serverless htsget implementation",
+          "short_description": "The goal of this proposal would be to implement the htsget protocol in pure Rust using the noodles crate. It also has the objective of making a...",
+          "student_name": "Daniel del Castillo",
+          "code_url": "https://gist.github.com/CastilloDel/ad0bce5a75319623e6a59fc3d70224a8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6269526773071872/"
+        },
+        {
+          "title": "vcf2fhir for Structural Variants",
+          "short_description": "vcf2fhir is a utility to convert VCF files into HL7 FHIR format for genomics-EHR integration. The utility currently converts simple variants (SNVs,...",
+          "student_name": "Rohan Gupta",
+          "code_url": "https://gist.github.com/Rohan-cod/1129016197a6cbe9bcf5cac6b93c32fc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5190353660936192/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/global-alliance-for-genomics-and-health/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "GSoC Proposal Global Alliance for Genomics and Health [ Shubhrajyoti Dey ]",
+          "short_description": "This proposal aims on solving a problem to create user customisable forms on pedigree data of patients and storing it as per the GA4GH Standards to...",
+          "student_name": "Shubhrajyoti Dey",
+          "code_url": "https://medium.com/@toshubhrajyotidey/react-form-builder-gsoc-project-global-alliance-for-genomics-and-health-b669b1d6b51a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wjvcrI1H/"
+        },
+        {
+          "title": "Compliance testing framework for the Task Execution Service API",
+          "short_description": "Task Execution Service (TES) is a Global Alliance for Genomics and Health (GA4GH) standard that allows federating and distributing computing tasks...",
+          "student_name": "Lakshya Garg",
+          "code_url": "https://gist.github.com/LakiG/0d7feb7af004d6478d8bb802ad5034b6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FJcK05lP/"
+        },
+        {
+          "title": "Multi-model approach for discovery of associations between gene variants and diseases.",
+          "short_description": "To identify possible relations between gene variants, phenotypes, and diseases - an ideal way would be a multi-model approach that involves: \u2022...",
+          "student_name": "Sindhu Kandepu",
+          "code_url": "https://gene-variant-monitoring.herokuapp.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/olstmZZX/"
+        },
+        {
+          "title": "BioSerDe: (De)Serializing bioinformatics file formats to alternative representations",
+          "short_description": "The field of bioinformatics has used many different extensions to express genomics data throughout its history, most of them focusing on simplicity...",
+          "student_name": "Gabriel Simonetto",
+          "code_url": "https://umccr.org/blog/bioserde/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cEgvzcpy/"
+        },
+        {
+          "title": "Increasing Support for Molecular Consequence Data in Genomic Standards",
+          "short_description": "Molecular consequences of genetic variants determine their impact. For example, the variant NM_001330311.2(DVL1):c.1594del is a frameshift variant...",
+          "student_name": "Justin Aronson",
+          "code_url": "https://gist.github.com/JustinAronson/6f206e58e1d7f01c50c73cf10a4daeb7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Nurr5g8f/"
+        },
+        {
+          "title": "TES Callback endpoint and mechanism in TESK",
+          "short_description": "The goal of this project is to implement a callback mechanism for task status updates in TES, which will send requests from the server to the client...",
+          "student_name": "Suyash Gupta",
+          "code_url": "https://gist.github.com/sgalpha01/c0251dafa87c3e3c17fd5c1249055725",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1w5c8prs/"
+        },
+        {
+          "title": "Federating workflow execution using GA4GH Cloud APIs",
+          "short_description": "The Task Execution Service (TES) API and the Workflow Execution Service (WES) are two of the several standards defined by the Global Alliance for...",
+          "student_name": "Ayush  Kumar",
+          "code_url": "https://gist.github.com/Ayush5120/d0cb4e95dd5d7be0a4667369b1379941",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VWmyQb45/"
+        },
+        {
+          "title": "Dynamic computation of variant annotations using GA4GH Variant Annotations plus FHIR Genomics",
+          "short_description": "This project aims to demonstrate sharing of annotated genomic variants between clinicians and knowledge bases using a clinical decision support (CDS)...",
+          "student_name": "Rohan Gupta",
+          "code_url": "https://gist.github.com/Rohan-cod/02bf3dd5bc89a8c3ae8bf32fc1655465",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tPCaz5A7/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/global-alliance-for-genomics-and-health",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "GA4GH-FHIR Molecular Consequence Harmonization",
+          "short_description": "The Proposal is how to make updates in the reference implementation based on the harmonization work, the creation of the new FHIR profile, and the...",
+          "student_name": "Arrax",
+          "code_url": "https://github.com/FHIR/genomics-operations/pull/65",
+          "proposal_id": "3IjaGPRV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xlmEPbXJ"
+        },
+        {
+          "title": "Web Components for discovering and using scientific software in the Cloud",
+          "short_description": "The Global Alliance for Genomics and Health (GA4GH) defines the Tool Registry Service (TRS) specification for the discovering and accessing research...",
+          "student_name": "Assel Abzalova",
+          "code_url": "https://gist.github.com/ltwmori/dab4d1781368d24d7023aca82ef6e205",
+          "proposal_id": "df3rlHgv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/u8vLOUkf"
+        },
+        {
+          "title": "Implementation of the Sequence collection specification using the EVA contig alias backend",
+          "short_description": "This project aims at implementing the Sequence Collection specification designed by the Global Alliance for Genomics and Health (GA4GH). The main...",
+          "student_name": "Haroune Hassine",
+          "code_url": "https://gist.github.com/waterflow80/89f31a9e2bdf855715d8c35391e897d3",
+          "proposal_id": "Jq9pAbFB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YyUIz8kG"
+        },
+        {
+          "title": "Dashboard Web Components (React, Vue etc) for Workflow and Task Runs",
+          "short_description": "The objective of this project is to create adaptable web components using UI frameworks like Microsoft's Fast. This will involve expanding the...",
+          "student_name": "Javed Habib",
+          "code_url": "https://gist.github.com/JaeAeich/56463bffaae8d20e98a3e65d10a3abe0",
+          "proposal_id": "go3sXzF9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UEuLvYby"
+        },
+        {
+          "title": "Implementing Phenopackets in a Variant Discovery Pipeline",
+          "short_description": "Variant filtration is key to rare disease discovery. For a rare disease discovery app to be successful, it must be able to cleanly represent the...",
+          "student_name": "Justin Aronson",
+          "code_url": "https://gist.github.com/JustinAronson/84b620a7cec2d303c29e7bea2da7ec1e",
+          "proposal_id": "mr0GU2pa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MexIXIkK"
+        },
+        {
+          "title": "Common compliance testing framework for every OpenAPI specification",
+          "short_description": "An interoperable automated framework for compliance testing has been developed, equipped with the capability to execute customizable test files. The...",
+          "student_name": "Lakshya Garg",
+          "code_url": "https://gist.github.com/LakiG/35fd41c6eedc68363cf6d06105446c12",
+          "proposal_id": "Tsmc28w8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/07nwka8k"
+        },
+        {
+          "title": "Creating a reproducible VRS mapping and validation library for MaveDB",
+          "short_description": "The aim of this project is to make it easier to use MaveDB datasets for clinical use, as most of the MaveDB datasets are not annotated in a way that...",
+          "student_name": "Samriddhi Singh",
+          "code_url": "https://docs.google.com/document/d/1EUEP5cK7HewCuROnYepY4AOAKoT59CJOZr9tJGWRM5Q/edit?usp=sharing",
+          "proposal_id": "o0vvXC5b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DM4cjHXv"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/global-alliance-for-genomics-and-health/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Python library for packaging and reusing Cloud Computing workload traces",
+          "short_description": "The goal of this proposal is to address the issue of how difficult it can be to package and reuse computational workflows and analyses in genomics...",
+          "student_name": "Karanjot786",
+          "code_url": "https://gist.github.com/Karanjot786/c1ae7a424246dcea7e7a1b0dc23b33cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yCH8WdvY/"
+        },
+        {
+          "title": "Crypt4GH Support for GA4GH Task Execution Service API Implementations",
+          "short_description": "Crypt4GH is a file format developed by GA4GH that keeps genomic data encrypted at rest and in transit. Currently, implementations of the TES API do...",
+          "student_name": "Athitheya Gobinathan",
+          "code_url": "https://github.com/elixir-cloud-aai/protes-middleware-crypt4gh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GVQEHJyM/"
+        },
+        {
+          "title": "Extensible GA4GH Client Library/SDK and Command Line Interface implemented in Rust",
+          "short_description": "This proposal aims to create a client library in rust and command line interface (CLI) for interacting with GA4GH environments in python. It will be...",
+          "student_name": "aaravm",
+          "code_url": "https://gist.github.com/aaravm/ded3ba164ce07e87834325da3bace80d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zOmLG5B3/"
+        },
+        {
+          "title": "Dashboard Web Components (React, Vue etc) for file upload and handling",
+          "short_description": "The project's objective is to create adaptable web components utilizing UI frameworks like LitElement. These components will adhere to the Data...",
+          "student_name": "Pratiksha Sankhe",
+          "code_url": "https://gist.github.com/psankhe28/1af074aefa2fa67b056ce05b12c3b14e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6rZ4i004/"
+        },
+        {
+          "title": "TESK - A GA4GH-TES based Kubernetes batch execution service",
+          "short_description": "This project endeavors to revamp the Kubernetes batch execution service to adhere to the Task Execution Service (TES) standards established by the...",
+          "student_name": "Javed Habib",
+          "code_url": "https://gist.github.com/JaeAeich/54b3bc916f1d49ed7e53eedf8f984f45",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aQ6bSsK2/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://docs.google.com/document/d/1G9OG8Pcd3ar77jflrSWyPYyjU80XNAwGB7zUxFFS-vA/edit?usp=sharing",
+  "contact_email": "gsoc-mentors-2025@ga4gh.org",
+  "mailing_list": "https://docs.google.com/document/d/1cdrWkFMqwZ38revM3G-ROJSTeNnh-Zt2XE_DcXVxo1I/edit?usp=sharing",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ga4gh",
+  "blog_url": "https://ga4gh.org/news"
+}

@@ -1,0 +1,291 @@
+{
+  "name": "Cuneiform Digital Library Initiative (CDLI)",
+  "url": "https://cdli.ucla.edu",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cuneiform-digital-library-initiative-cdli/rljrqtuzc0jxkpcp-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "natural language processing",
+    "semantic web",
+    "machine translation",
+    "information retrieval",
+    "linguistics",
+    "computer vision",
+    "data processing pipeline",
+    "nlp",
+    "lod",
+    "data-collection",
+    "computational linguistics",
+    "data visualization",
+    "web portal",
+    "data processing",
+    "digitization",
+    "cultural heritage",
+    "History",
+    "culture"
+  ],
+  "technologies": [
+    "python",
+    "mariadb",
+    "rdf",
+    "php",
+    "nltk",
+    "mysql",
+    "java",
+    "html",
+    "css",
+    "python 3",
+    "javascript",
+    "docker",
+    "SCSS"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4794601982394368/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Towards building the first Semantic Role Labeling system for Sumerian",
+          "short_description": "Semantic role labeling (SRL) is a task in Natural Language Processing which helps in detecting the semantic arguments of the predicate/s of a...",
+          "student_name": "Bakhtiyar Syed",
+          "code_url": "https://github.com/cdli-gh/Semantic-Role-Labeler",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6336913732534272/"
+        },
+        {
+          "title": "Granular Temporal Data Management",
+          "short_description": "The Cuneiform Digital Library Initiative (CDLI) aims to collect, maintain and make available images, text, and metadata of all artifacts inscribed...",
+          "student_name": "Sameer Sengar",
+          "code_url": "https://github.com/cdli-gh/database-schema/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5158695151337472/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4653253634031616/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Multiple Layer Annotations Querying",
+          "short_description": "Currently, there is no tool available to integrate into a website that has the capacity to query through multiple layers of linguistic annotations...",
+          "student_name": "Sagar Sagar",
+          "code_url": "https://github.com/cdli-gh/Framework/wiki/CDLI-Multi-Layer-Annotation-Query-Tool",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6692203190026240/"
+        },
+        {
+          "title": "CDLI - Search Results Visualizations",
+          "short_description": "CDLI has rich geographical and temporal data at its disposal. Currently, this information is not fully utilized. Although the data schema is being...",
+          "student_name": "Amaan Iqbal",
+          "code_url": "https://github.com/cdli-gh/Framework/wiki/CDLI-Search-Results-Visualizations",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5069701397348352/"
+        },
+        {
+          "title": "TEI Export for the CDLI Corpus",
+          "short_description": "I am writing an export tool for the CDLI dataset so it can be used with the Scaife viewer. The tool will need to convert the native AFT markup used...",
+          "student_name": "rillian",
+          "code_url": "https://github.com/rillian/2019-gsoc/blob/ed65a8e/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6056318652121088/"
+        },
+        {
+          "title": "Neural Machine Translation for Sumerian and English",
+          "short_description": "The project aims to build a machine translation model that can convert Sumerian (Language used around 2000 BC) to English Language using Neural...",
+          "student_name": "Ravneet Punia",
+          "code_url": "https://github.com/cdli-gh/Framework/wiki/Neural-Machine-Translation-for-Sumerian-and-English",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5914126327480320/"
+        },
+        {
+          "title": "Computer vision challenge for the cuneiform script",
+          "short_description": "The current display system used at CDLI requires that a user reads a text to absorb visual and text information simultaneously, and to interpret the...",
+          "student_name": "Vishal Thamizharasan",
+          "code_url": "https://github.com/cdli-gh/Framework/wiki/OCR-for-Cuneiform-RGB-Images",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5929730530869248/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5649030769541120/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Bibliography management and display",
+          "short_description": "CDLI is moving away from its older flat database and for the occasion has designed a full model for bibliographic data management. This challenge...",
+          "student_name": "Ajit Jadhav",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc20/bibliography/posts/15_eval3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6706871584423936/"
+        },
+        {
+          "title": "Image Processing Pipeline : From RAW to Archival",
+          "short_description": "This pipeline would extend the framework's capabilities to process images and convert RAW images to archival view and web view which can be further...",
+          "student_name": "AmanSingh",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc20/img_pipeline/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5648529566990336/"
+        },
+        {
+          "title": "Translating the whole Ur III corpus",
+          "short_description": "This project aims to build a full translation pipeline with the integration of NER (Named Entity Recognition) and POS (Part of Speech) tagging of...",
+          "student_name": "Himanshu Choudhary",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc20/translation_pipeline/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5672069980749824/"
+        },
+        {
+          "title": "Metadata API and Management and Display of Bibliographies",
+          "short_description": "General points:\n\nlinked-data metadata with formal schemas\nmetadata API in three parts: base REST API, content negotiation and export links\ninterfaces...",
+          "student_name": "Lars Willighagen",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc20/api/posts/results",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5453787629617152/"
+        },
+        {
+          "title": "Visualization Pipeline for CDLI Accounting Corpora",
+          "short_description": "This proposal outlines a suite of tools to assist researchers working with the numeric component of CDLI accounting corpora. This includes an...",
+          "student_name": "Logan Born",
+          "code_url": "https://github.com/MrLogarithm/cdli-accounting-viz/wiki/GSoC-2020:-CDLI-Accounting-Corpus-Analysis-and-Visualizations",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4616852216479744/"
+        },
+        {
+          "title": "Revamp CDLI tablet apps (Apple and Android)",
+          "short_description": "CDLI tablet app offers a curated collection of images, text, and metadata of artifacts inscribed with the cuneiform script. Artifacts from the...",
+          "student_name": "Anila Hoxha",
+          "code_url": "https://github.com/anila-a/cdli-tablet-app/wiki/GSoC-2020:-Revamp-CDLI-tablet-apps-(Apple-and-Android)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6564103281180672/"
+        },
+        {
+          "title": "Design Integration and Accessibility audit",
+          "short_description": "The cuneiform digital library initiative has a vivid user base. Coming up with an outstanding first impression is an expectation that cannot be...",
+          "student_name": "Samarth Sharma",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc20/design_integration/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4945343327764480/"
+        },
+        {
+          "title": "Improving CDLI Framework",
+          "short_description": "CDLI Framework integrates features of the project in a logical infrastructure, prepares new data displays, including machine-readable outputs, to...",
+          "student_name": "Vedant Wakalkar",
+          "code_url": "https://github.com/Karna98/GSoC-2020-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5840077927743488/"
+        },
+        {
+          "title": "Journals Management & Display",
+          "short_description": "This project focuses on the publication of various types of journals that CDLI hosts, currently CDLI hosts four journals, two peer-reviewed journals...",
+          "student_name": "Nisheal John",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc20/journals/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5922021642338304/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5679162177617920/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Transliterations editor and API",
+          "short_description": "JTF is a new JSON-based format for transliterations that aims to make cuneiform textual data easily accessible for processing and modifications. It...",
+          "student_name": "Vishv Kakadiya",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc21/transliterationEditorAndApi/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6669899463655424/"
+        },
+        {
+          "title": "Design Challenge",
+          "short_description": "The Project includes :\n\nDesigning and Implementing the Admin dashboard.\nMerging Admin and public templates following the WCAG norms.\nAdding...",
+          "student_name": "Somil Jain",
+          "code_url": "https://uchihasomil.github.io/Final-Report/#/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5685888901709824/"
+        },
+        {
+          "title": "Discovery Search and Advanced Search features",
+          "short_description": "The project mainly focuses on enhancing the search and advanced search features in the CDLI framework.\nThe objectives of the project are :\n\nAdd the...",
+          "student_name": "Yashraj Desai",
+          "code_url": "https://github.com/yashrajdesai/GSoC-2021-Report#-google-summer-of-code-2021-",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5421781967437824/"
+        },
+        {
+          "title": "DESIGN CHALLENGE",
+          "short_description": "This project aims to unify the complete styling of the website using minimal space and complexity. Also, it aims to improve the designing of certain...",
+          "student_name": "Aradhana Kund",
+          "code_url": "https://github.com/cdli-gh/blog/blob/gh-pages/_blog/gsoc21/designChallengeAradhanaKund/final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6177060019503104/"
+        },
+        {
+          "title": "Journals Open Review Workflow and Integration",
+          "short_description": "This project focuses on the CDLI journal workflow before we submit an article. Before the submission of journals it should be accessible for an open...",
+          "student_name": "Apoorva",
+          "code_url": "https://github.com/apoorva1509/GSoC-2021/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4801923697344512/"
+        },
+        {
+          "title": "3D Viewer Integration",
+          "short_description": "This project is to load 3D Models in PLY format from the CDLI database into the existing 3D Model Web Viewer using the Three.js library. The idea is...",
+          "student_name": "Mustafa Dhar",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc21/3dViewerIntegration/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4811902416322560/"
+        },
+        {
+          "title": "Digital Library Management",
+          "short_description": "This project is about preparing a dashboard that can show an admin the visual assets of the digital library for each artifact but also add, edit,...",
+          "student_name": "daksh",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc21/digitalLibraryManagement/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6269188376625152/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/cuneiform-digital-library-initiative-cdli/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Seals Portal",
+          "short_description": "The seals portal aims at displaying all of the resources in the CDLI concerning a seal, aggregated in one place, with important features like viewing...",
+          "student_name": "Aditi Singh",
+          "code_url": "https://github.com/Aditi-Singh16/GSoC-22-Report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/caFqYFAc/"
+        },
+        {
+          "title": "Apertium - Phrase-based MT system",
+          "short_description": "The previously developed Machine Translation systems for Sumerian face sparsity issues because of their low-resource. The advanced translation...",
+          "student_name": "Himanshu Choudhary",
+          "code_url": "https://github.com/cdli-gh/apertium-sux-eng",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hTlBC1N6/"
+        },
+        {
+          "title": "Search Enhancements",
+          "short_description": "This project mainly focuses on updating and improving the current search features. The search setup has been completed under past programs of GSOC...",
+          "student_name": "Ajinkya Morankar",
+          "code_url": "https://github.com/ajinkya1702/GSOC-2022-Project-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Vvp3XmeB/"
+        },
+        {
+          "title": "Improve the credits: ownership and licencing of digital assets",
+          "short_description": "The idea aims at updating how digital assets\u2019 (artifacts) license, ownership and credits are stored, while considering how they can be displayed in a...",
+          "student_name": "Chidiebere",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc22/ImproveTheCredits/posts/15_eval2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pBbCdRWu/"
+        },
+        {
+          "title": "Towards a General-Purpose Entity-Bibliography Linking System",
+          "short_description": "Currently, the bibliography data on assyriology is only linked with ancient artifact entities, but it also contains information about other entities,...",
+          "student_name": "Circle Chen",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc22/TowardsAGeneralPurposeEntityBibliographyLinkingSystem/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FM5IjD5N/"
+        },
+        {
+          "title": "New Features and Usability Enhancement",
+          "short_description": "This project aims at adding new features to the CDLI framework and enhancing the usability of some of the pre-existing features. The objectives of...",
+          "student_name": "Shivoham Angal",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc22/NewFeaturesAndUsabilityEnhancement/posts/17_eval2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pDQYTu4a/"
+        },
+        {
+          "title": "Design Challenge I",
+          "short_description": "The project aims on creating a generic view with a user-centric interface using minimal space and complexity. The project aims to : Improve the...",
+          "student_name": "UtkarshTiwari",
+          "code_url": "https://cdli-gh.github.io/blog/gsoc22/DesignChallenge1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AAi9cvHh/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitlab.com/cdli/framework/-/wikis/Join-the-Community-and-GSoC-Contact",
+  "contact_email": "mailto:cdli+gsoc@ucla.edu",
+  "mailing_list": "https://docs.google.com/forms/d/1neaY7d-IGX0Hu_x5kgJpehLnlRp0yx5PqlIMoDIYKJE",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/cdli_news",
+  "blog_url": "https://cdli-gh.github.io/blog/index"
+}

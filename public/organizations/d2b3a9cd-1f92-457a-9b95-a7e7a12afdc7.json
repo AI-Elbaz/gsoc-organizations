@@ -1,0 +1,646 @@
+{
+  "name": "TensorFlow",
+  "url": "https://www.tensorflow.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/tensorflow-d1/0sqdbtssij0tfcwy-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "data science",
+    "deep learning",
+    "python",
+    "data",
+    "computer vision",
+    "natural language processing",
+    "cloud computing",
+    "education",
+    "research",
+    "on-device machine learning"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "machine learning",
+    "data analysis",
+    "deep learning",
+    "javascript",
+    "python deep learning frameworks",
+    "tensorflow",
+    "ai",
+    "Jax",
+    "keras"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6672831360794624/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "TensorFlow js Exploration",
+          "short_description": "This project will convert some pre-trained Keras models into TensorFlow js models and explains how they can be made accessible by packing them in npm...",
+          "student_name": "Paul Spende",
+          "code_url": "http://www.paulspen.de/GSOC2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6470490938408960/"
+        },
+        {
+          "title": "Creating Neuroevolution Framework for Tensorflow 2.0, preimplementing 'Neuroevolution of Augmenting Topologies' (NEAT)",
+          "short_description": "Implementing a framework for Neuroevolution in Tensorflow 2.0, providing a variety of preimplemented Neuroevolution algorithms, genomes and...",
+          "student_name": "Paul Pauls",
+          "code_url": "https://github.com/PaulPauls/Tensorflow-Neuroevolution",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5386822992003072/"
+        },
+        {
+          "title": "An Extended Version of \u201cA Concise Handbook of TensorFlow\u201d And A Library of Extended Keras Layers for TF 2.0",
+          "short_description": "Usability and 3rd cutting-edge models are two main factors that are especially concerned by academic area. This project concentrate on enhancing both...",
+          "student_name": "snowkylin",
+          "code_url": "https://snowkylin.github.io/blogs/gsoc2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5460192307707904/"
+        },
+        {
+          "title": "Adding traditional Machine Learning algorithms to Swift for Tensorflow",
+          "short_description": "This project aims to add traditional machine learning algorithms to the Tensorflow for Swift library. We aim to implement Logistic Regression,...",
+          "student_name": "Victor Antony",
+          "code_url": "https://vantony1.github.io/S4TF/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5508704416301056/"
+        },
+        {
+          "title": "Adding and standardizing image processing operations in tf.image",
+          "short_description": "Project aims at updating existing functions to make them compatible with Tensorflow 2.0 and adding new image processing operations to make the...",
+          "student_name": "whiterat",
+          "code_url": "https://medium.com/@parthpartani9724/gsoc19-final-code-submission-3e984c4b4dac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6180250151550976/"
+        },
+        {
+          "title": "Debugging Model Performance in TensorBoard Guide",
+          "short_description": "TensorBoard is a TensorFlow tool for models visualization. It can generate histograms, graph and help debug and improve the neural network. To help...",
+          "student_name": "Bruna Pinos",
+          "code_url": "https://docs.google.com/document/d/1-un1zmYx48fCIRPRDMzwGozdjT-f4Qn05oBr5vXKONA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5013469403807744/"
+        },
+        {
+          "title": "TensorFlow Hub Module Creation and Support for TensorFlow.js",
+          "short_description": "Training of High end Deep Learning Models takes a Long time to Train, Hours, Days and Even Weeks. So, as a Developer/researchers it slows down the...",
+          "student_name": "Adrish Dey",
+          "code_url": "https://github.com/captain-pool/GSOC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5063116054855680/"
+        },
+        {
+          "title": "TensorFlow Datasets - Implement new features in TFDS for users and developers",
+          "short_description": "Main goal of this project is extending available datasets, offering some additional features to Tensorflow Datasets that can make TensorFlow users'...",
+          "student_name": "Recep Ahmet SARITEKIN",
+          "code_url": "https://us.github.io/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5117138421940224/"
+        },
+        {
+          "title": "Add traditional machine learning algorithms to the Swift TensorFlow library",
+          "short_description": "This document describes the proposal to \"add traditional Machine Learning algorithms to the Swift TensorFlow library\", for \"TensorFlow\" organization....",
+          "student_name": "Param Bhavsar",
+          "code_url": "https://medium.com/@bhavsarparam087/tensorflow-gsoc19-swift-library-for-machine-learning-17639acd22e5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5243175126433792/"
+        },
+        {
+          "title": "TensorFlow.js with WebWorker",
+          "short_description": "The TensorFlow.js will be highly computational consuming while we are doing prediction or classification. And if such a computation happens at the UI...",
+          "student_name": "Wenhe Li",
+          "code_url": "https://blog.steins.live/gsoc-2019-in-tensorflow-js/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5335825221419008/"
+        },
+        {
+          "title": "JSON Dataset Reader - TensorFlow I/O",
+          "short_description": "TensorFlow is one of the most popular machine learning frameworks and is widely used in fields beyond machine learning and data science. The...",
+          "student_name": "Jiacheng Xu",
+          "code_url": "https://github.com/tensorflow/io/issues/262",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5358647872323584/"
+        },
+        {
+          "title": "End-to-End Mobile Swift for Tensorflow Application",
+          "short_description": "Deploying a machine learning module using Swift for Tensorflow it to a mobile device, including building out necessary components of the Swift for...",
+          "student_name": "Ayush Agrawal",
+          "code_url": "https://github.com/Ayush517/S4TF-Tutorials",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5613734569967616/"
+        },
+        {
+          "title": "Core Model Migration to TF 2.0",
+          "short_description": "Re-building the official Tensorflow models to make it TF 2.0 compatible. This project proposes holistic improvements to the models repository to...",
+          "student_name": "Vishal V",
+          "code_url": "https://github.com/Vishal-V/GSoC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6192873714745344/"
+        },
+        {
+          "title": "Improving and adding more functionality to the TensorFlow-Datasets library with the addition of DatasetBuilders for important research datasets.",
+          "short_description": "Tensorflow Datasets or tfds makes the work of the user easier by transforming the raw dataset into a standard format so that it can be immediately...",
+          "student_name": "Chanchal Kumar Maji",
+          "code_url": "https://github.com/ChanchalKumarMaji/Google-Summer-of-Code-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6537043688030208/"
+        },
+        {
+          "title": "Reasonable Effectiveness of Mobile Inference: Adaptive Growth of the TensorFlow.js Model Garden",
+          "short_description": "The project aims to grow the TensorFlow.js model garden with five new low-latency, low-power, high-accuracy applications controlled via an...",
+          "student_name": "Sasha Illarionov",
+          "code_url": "https://sdll.io/tfjs-model-garden",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6561581775716352/"
+        },
+        {
+          "title": "Adding Curiosity to TF-Agents",
+          "short_description": "Reinforcement learning is a class of machine learning methods that use the reward signal of the environment to infer optimal actions. Thus, easy...",
+          "student_name": "Ryan Lee",
+          "code_url": "https://www.endtoend.ai/blog/tags/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6082757464162304/"
+        },
+        {
+          "title": "Data Visualization library for Swift",
+          "short_description": "Swift for TensorFlow is a Swift library that helps develop and train ML models. Data Visualization can be helpful when exploring a dataset. It helps...",
+          "student_name": "Karthik Ramesh Iyer",
+          "code_url": "https://cgknowhow.tumblr.com/post/187240999459/gsoc-19-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4838049433780224/"
+        },
+        {
+          "title": "Text embedding modules in tensorflow hub",
+          "short_description": "Project's main goal is adding new techniques and tools for text embedding modules in TensorFlow Hub.It is divided into three parts:\n\nImprove the...",
+          "student_name": "Tasmiah Tahsin Mayeesha",
+          "code_url": "https://github.com/Tahsin-Mayeesha/gsoc2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4897242354286592/"
+        },
+        {
+          "title": "TensorFlow Official Model Migration to v2.0",
+          "short_description": "Migration of official TensorFlow models to use/support TF v2.0 features/functions.",
+          "student_name": "ace",
+          "code_url": "https://github.com/google-research/tf-slim/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5925308677488640/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5569649606918144/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Flax HOWTOs",
+          "short_description": "Flax is a high-performance neural network library for JAX designed for flexibility. In order to allow users get started easily, Flax provides a...",
+          "student_name": "Roland Gavrilescu",
+          "code_url": "https://github.com/rolandgvc/flaxvision",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6721577686663168/"
+        },
+        {
+          "title": "GCS, S3 and Hadoop support for Tensorflow",
+          "short_description": "Currently, there are no supports for S3 and GCS on Windows. It leads to two problems:\n\nThe limitation of storage capacity and inconvenient of...",
+          "student_name": "Vo Van Nghia",
+          "code_url": "https://gist.github.com/vnvo2409/dc1e3d98c8958efe8ebac2773f9a33fd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5669113902399488/"
+        },
+        {
+          "title": "TensorFlow Hub New Models and Demos Application",
+          "short_description": "I will implement DeepFillv2 and add detailed Colab demos for it. The model will be \"fine-tunable\" to support the \u201creusable\u201d characteristic of...",
+          "student_name": "Dejia Xu",
+          "code_url": "https://medium.com/@ir1d/tensorflow-gsoc20-implement-deepfill-and-sid-for-tf2-model-garden-1c83bbd9cefe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5677816948981760/"
+        },
+        {
+          "title": "State of the Art TensorFlow 2.x Models",
+          "short_description": "State-of-the-art Deep Learning models for the TensorFlow Model Garden implemented from the most recent research papers and trained on the datasets...",
+          "student_name": "Vishal V",
+          "code_url": "https://github.com/Vishal-V/GSoC-TensorFlow-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5723742564515840/"
+        },
+        {
+          "title": "Improving TensorFlow Datasets Library",
+          "short_description": "Everyone wants to focus on improving their model performance, but a significant portion of their time is used up while searching for a proper dataset...",
+          "student_name": "Vijay Tadikamalla",
+          "code_url": "https://vijayphoenix.github.io/blog/gsoc-2020-tensorflow/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5736415268175872/"
+        },
+        {
+          "title": "Incorporating point-based convolutions in Tensorflow Graphics",
+          "short_description": "Point-based learning techniques have shown great potential in standard Computer Vision tasks such as\n3D scan segmentation or 3D object...",
+          "student_name": "Hedron",
+          "code_url": "https://github.com/schellmi42/graphics/tree/point_convolutions/tensorflow_graphics/projects/point_convolutions",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5094542103019520/"
+        },
+        {
+          "title": "Implement Mesh R-CNN in TensorFlow Graphics",
+          "short_description": "The Mesh-RCNN technique was recently introduced to estimate 3D models from natural 2D images. It uses a combination of an object detection module...",
+          "student_name": "Robin Baumann",
+          "code_url": "https://robinbaumann.github.io/gsoc20.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5121794777808896/"
+        },
+        {
+          "title": "New Tools for TensorFlow Hub",
+          "short_description": "This project aims at implementing new tools to support the transfer learning pipelines, ranging from object detection to embedding-based similarity...",
+          "student_name": "Jin Dong",
+          "code_url": "https://gist.github.com/djdongjin/bdd20e0020b0bf48544a0906c98f98c2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6243514674839552/"
+        },
+        {
+          "title": "Help migrate a TensorFlow library to TensorFlow 2.x",
+          "short_description": "My interest lies in software engineering (especially debugging) and machine learning applications. I am very interested in the project Help migrate a...",
+          "student_name": "Yiming Shi",
+          "code_url": "https://syiming.github.io/articles/2020-08/GSOC-with-TensorFlow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4690040304697344/"
+        },
+        {
+          "title": "Let's not Go Off Tangent - Add Efficient Tangent batching to ForwardAccumulator",
+          "short_description": "Current native support for forward-mode differentiation calls backward on a function twice. But executing this as a tf.function prevents retracing...",
+          "student_name": "Abhineet Choudhary",
+          "code_url": "https://gist.github.com/abhichou4/449286bf1cec8dea9f2ac5735c6f3826",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4721706561699840/"
+        },
+        {
+          "title": "Reinforcement Learning to S4TF",
+          "short_description": "Reinforcement learning is a class of machine learning methods that uses the reward signal of the environment to infer optimal actions. Reinforcement...",
+          "student_name": "seungjaeryanlee",
+          "code_url": "https://www.endtoend.ai/personal/gsoc-2020-retrospective/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4725666655764480/"
+        },
+        {
+          "title": "SOTA ML Paper/Model Implementations",
+          "short_description": "Neural Tangents (Infinite-width NNs) migration and reconstruction for TensorFlow 2.x, originally based on JAX...",
+          "student_name": "Zhibo Zhang",
+          "code_url": "https://github.com/DarrenZhang01/TensorFlow_GSoC/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6501916986572800/"
+        },
+        {
+          "title": "A fast, cross-platform image loader in Swift",
+          "short_description": "Apps and web pages often contain a lot of images and at times they are remote and contribute highly to data usage, so they require a loader to delay...",
+          "student_name": "Ayushi",
+          "code_url": "https://medium.com/@ayushitiwari2103/gsoc-20-swift-image-loader-for-swift-for-tensorflow-56b4195c50b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6516494910881792/"
+        },
+        {
+          "title": "Implementing \u201cimplicit 3D representations\u201d in TensorFlow Graphics",
+          "short_description": "In recent years, \u201cimplicit 3D representations\u201d have been attracting attention as an appropriate 3D expression for deep neural networks. At CVPR 2019,...",
+          "student_name": "Daisuke Kasuga",
+          "code_url": "https://gist.github.com/dkasuga/387d656472f03a0403a80cb248e61a73",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5960094111498240/"
+        },
+        {
+          "title": "Implement TF 2.x Model Garden Examples",
+          "short_description": "The main objective of this project will be to implement various neural network models and to improve the documentation for the TensorFlow User...",
+          "student_name": "Yasaswi",
+          "code_url": "https://kyscg.github.io/GSoC2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6005707201052672/"
+        },
+        {
+          "title": "TensorFlow Lite Flutter Support Suite",
+          "short_description": "TensorFlow Lite Flutter Support Suite is a cluster of three projects TfLite Flutter Plugin, TfLite Flutter Helper library, Flutter example ML app...",
+          "student_name": "Amish Garg",
+          "code_url": "https://docs.google.com/document/d/1zm9Ifiql4aFKTXMdEe0FXlEU83g6l5jWCO8a3BtHeI0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5190057343844352/"
+        },
+        {
+          "title": "Keras RFC Implementation - ImagePipeline based on tf.data API",
+          "short_description": "tf.data.Dataset is the defacto way of loading and preprocessing data in TensorFlow for training machine learning models on CPUs, GPUs and TPUs. There...",
+          "student_name": "Swarup",
+          "code_url": "https://github.com/tanzhenyu/image_augmentation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5200014252441600/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6649841832165376/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "TensorFlow Lite Flutter Support Suite Enhancements",
+          "short_description": "In GSoC 2020, The TFLite team and I released the TensorFlow Lite Support Suite consisting of TFLite Flutter Plugin, TFLite Flutter Helper Library,...",
+          "student_name": "Amish Garg",
+          "code_url": "https://medium.com/@am15hg/updates-to-tensorflow-lite-flutter-support-suite-7076c3fc27a9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6383902926569472/"
+        },
+        {
+          "title": "TensorFlow2 Model Garden document site and YOLO project tutorial",
+          "short_description": "I listed three potential projects, the main directions are implement MLCV research papers with GPU CUDA accelerating and distributing API, and code...",
+          "student_name": "Yifan Wang",
+          "code_url": "https://tf-model-readthedocs.readthedocs.io/en/latest/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6612829917937664/"
+        },
+        {
+          "title": "TensorFlow Proposal for the Convert Matlab ML examples to Python / JAX project",
+          "short_description": "In this proposal, I layout my strengths in machine learning, open source code and TensorFlow, and argue why I am the best candidate to work with the...",
+          "student_name": "Gerardo Duran-Martin",
+          "code_url": "https://gerdm.github.io/2021/08/16/gsoc2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5678473070247936/"
+        },
+        {
+          "title": "Implement Wave2Vec2 in TensorFlow 2 & publish it in TensorFlow Hub",
+          "short_description": "I am proposing to implement Wave2Vec2 in TensorFlow 2. I will be converting the pre-trained checkpoint in TensorFlow compatible format and will...",
+          "student_name": "Vasudev Gupta",
+          "code_url": "https://vasudevgupta7.github.io/gsoc-wav2vec2/assets/final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5710163654213632/"
+        },
+        {
+          "title": "Convert Matlab ML examples to Python / JAX",
+          "short_description": "Translate the Matlab examples listed in the pyprobml to Python, using JAX and test the examples to make sure they work with the existing Colab...",
+          "student_name": "Ming Liang Ang",
+          "code_url": "https://neoanarika.github.io/posts/2021/08/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5731860889468928/"
+        },
+        {
+          "title": "Converting ML Matlab Examples to Python using JAX",
+          "short_description": "JAX as the latest machine learning library has all the advanced gradient techniques aided by acceleration of \nGPU/TPU and high-level modules for...",
+          "student_name": "Srikar Reddy Jilugu",
+          "code_url": "https://srikarjilugu-gsoc2021.blogspot.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5421206072721408/"
+        },
+        {
+          "title": "TensorFlow Implementation of Distribution Aware Coordinate Representation for Human Pose Estimation",
+          "short_description": "Implement  Distribution-Aware Coordinate Representation for Human Pose Estimation(DARK Pose) using TensorFlow library . The\nmain goal of this project...",
+          "student_name": "Chandykunju Alex",
+          "code_url": "https://github.com/chandyalex/GSoC-2021-TF-DarkPose",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5423467574329344/"
+        },
+        {
+          "title": "ViT (Vision Transformer)",
+          "short_description": "Transformers are getting more and more attention in tasks outside of Natural Language Processing (NLP) and should be considered a general sequence to...",
+          "student_name": "sgeisler",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vQXO0R2dONBtN6exwAv5peMUjStwGd3DXSAKX8V42U1UrCr2WsIduICD3xBpgamnbhsXUCMMCJ5i7ec/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5112979623772160/"
+        },
+        {
+          "title": "Suggest, implement and publish state-of-the-art ML models in TensorFlow 2",
+          "short_description": "TensorFlow Model Garden and TF Hub provide a lot of state-of-the-art models for TF developers to use easily in their research and product...",
+          "student_name": "Mehdi Mabrouki",
+          "code_url": "https://gist.github.com/CallmeMehdi/b32b484cb44cc847fafa7ac146e35b7e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5355274566631424/"
+        },
+        {
+          "title": "Generate New Task Library in TensorFlow Lite for Pose Landmark Detection",
+          "short_description": "TensorFlow Lite Task Library contains easy-to-use task-specific libraries that allow developers to easily build Android/iOS apps using TensorFlow...",
+          "student_name": "Milind Thakur",
+          "code_url": "https://github.com/milindthakur177/GSoC21-TensorFlow-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6254035732004864/"
+        },
+        {
+          "title": "TensorFlow Lite examples for Natural Language Processing",
+          "short_description": "TensorFlow Lite Task Library examples for Natural Language Processing is a project, where we have to recreate existing NLP examples in Android & IOS...",
+          "student_name": "Sunit Roy",
+          "code_url": "https://github.com/SunitRoy2703/Google-Summer-of-Code-2021-Tensorflow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4701689461866496/"
+        },
+        {
+          "title": "Adding Panoptic Segmentation to the TensorFlow Model Garden",
+          "short_description": "Panoptic Segmentation aims to further the process of understanding an image by classifying all the pixels in it while also assigning them to unique...",
+          "student_name": "Srihari Humbarwadi",
+          "code_url": "https://github.com/srihari-humbarwadi/tf-gsoc-2021/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4795598015823872/"
+        },
+        {
+          "title": "\ud83d\udcbb GSoC 2021: Improve Computer Vision Sample Apps of TensorFlow Lite",
+          "short_description": "The idea behind the project is to improve the sample apps of Computer Vision which uses TensorFlow Lite Task Library as well as TensorFlow Support...",
+          "student_name": "Sayan Nath",
+          "code_url": "https://github.com/sayannath/GSoC-Project-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6015798929260544/"
+        },
+        {
+          "title": "Improving TensorFlow GAN Library",
+          "short_description": "Tensorflow GAN is a lightweight library that is used for training and evaluating GAN models. Through this project different variants of GAN models...",
+          "student_name": "Nived P A",
+          "code_url": "https://github.com/nivedwho/GSoC-2021-TF-GAN",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6120248708694016/"
+        },
+        {
+          "title": "Tensorflow Proposal",
+          "short_description": "As everyone knows, TensorFlow is the best open source platform for Deep Learning. Instead of focusing on basics like alternatives which lag behind...",
+          "student_name": "Aleyna Kara",
+          "code_url": "https://medium.com/@aleynakara98/google-summer-of-code-2021-a-probabilistic-perspective-9cc5a03ec91e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4920456607432704/"
+        },
+        {
+          "title": "Tree-based models",
+          "short_description": "For this project, I would like to work with new models for random forests and gradient boosted trees. It would be interesting to then use this on a...",
+          "student_name": "Dinko Franceschi",
+          "code_url": "https://docs.google.com/document/d/10WHt8ohdkahAOgIgbc53cL4ZexytDvQiTDSZ3tWfvm0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5822398800068608/"
+        },
+        {
+          "title": "Implement RegNet-Y in TensorFlow 2",
+          "short_description": "TensorFlow Hub and Model Garden are the go-to resources for ML practitioners for quick and easy experimentation. This project aims to implement...",
+          "student_name": "Aditya Kane",
+          "code_url": "https://adityakane2001.github.io/opensource/gsoc2021report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6325551266004992/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/tensorflow/",
+      "num_projects": 22,
+      "projects": [
+        {
+          "title": "Develop demos for TensorFlow Lite Micro",
+          "short_description": "In this project, I'll be building demos for TensorFlow Lite Micro, to be used in conferences and Machine Learning Courses. My plan is to build these...",
+          "student_name": "Vishwa",
+          "code_url": "https://www.hackster.io/theevildoof",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8GgkzjIp/"
+        },
+        {
+          "title": "Tensorflow/JAX project \u2014 \"JAX ML Textbook\"",
+          "short_description": "The aim of this project is to implement various advanced machine learning algorithms for the upcoming textbook \"Probabilistic Machine Learning:...",
+          "student_name": "Xinglong",
+          "code_url": "https://xinglong-li.github.io/gsoc2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PNHsZcwK/"
+        },
+        {
+          "title": "ArcFace Loss Implementation for Tensorflow Similarity",
+          "short_description": "Metric learning is a collection of machine learning approaches for learning to assess similarities and differences between data points from various...",
+          "student_name": "Aylin Ayd\u0131n",
+          "code_url": "https://github.com/aylinaydincs/GSoC-22-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ObpzfgGa/"
+        },
+        {
+          "title": "Kaggle examples for TensorFlow Decision Forests",
+          "short_description": "Today libraries like XGBoost and LightGBM dominate most Kaggle competitions on tabular data and achieve state-of-the-art results on a variety of...",
+          "student_name": "Rishiraj Acharya",
+          "code_url": "https://rishiraj.github.io/gsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RmEpoyDX/"
+        },
+        {
+          "title": "Expanding the JAX SSM Library & Exploring Particle-Based Variational Inference (JAX ML Textbook)",
+          "short_description": "For this project, I plan to explore state space models(SSM) and variational inference(VI) in depth. First, I will translate legacy numpy/PyTorch...",
+          "student_name": "Peter G. Chang",
+          "code_url": "https://petergchang.github.io/gsoc2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HuOaqkRh/"
+        },
+        {
+          "title": "Develop new models and examples for TensorFlow-Hub",
+          "short_description": "I am proposing to publish 4 Collections of models to TF-Hub containing a total of 23 models. Collections will be published from the following models-...",
+          "student_name": "Mohammad Shoaib",
+          "code_url": "https://github.com/shoaib6174/GSOC-22-Video-Swin-Transformers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/g0hpWlQ1/"
+        },
+        {
+          "title": "Deep Care",
+          "short_description": "With more than 1 million new diagnoses reported every year, prostate cancer (PCa) is the second most common cancer among males worldwide that results...",
+          "student_name": "Mayuresh Agashe",
+          "code_url": "https://medium.com/@mayureshagashe2105/gsoc22-tensorflow-wrapping-up-484d326e7235",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2HAC6oqy/"
+        },
+        {
+          "title": "Addition of new losses to tensorflow similarity",
+          "short_description": "I propose to add new loss functions which make improvements over the existing ones for metric learning. I also propose to improve documentation and...",
+          "student_name": "Abhishar",
+          "code_url": "https://github.com/tensorflow/similarity/pull/286",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/p8RPezSR/"
+        },
+        {
+          "title": "Develop JAX examples and demos for an ML upcoming textbook",
+          "short_description": "I propose to address the existing challenges with the current codebase of the book and then contribute new code for several figures for the upcoming...",
+          "student_name": "Zeel B Patel",
+          "code_url": "https://patel-zeel.github.io/gsoc22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uZY2MwtW/"
+        },
+        {
+          "title": "JAX ML Textbook",
+          "short_description": "The project will be making contributions to the PyProbML repo helping to build demonstrations and reference implementations for probabilistic machine...",
+          "student_name": "Giles Harper-Donnelly",
+          "code_url": "https://gileshd.github.io/posts/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ae3gaL1T/"
+        },
+        {
+          "title": "Contribute to KerasCV and KerasNLP",
+          "short_description": "This project aims to add several functionalities to Keras-CV which will be of use to beginner as well as seasoned practitioners. I will be...",
+          "student_name": "Aditya Kane",
+          "code_url": "https://adityakane2001.github.io/opensource/gsoc2022report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hkRbtWVD/"
+        },
+        {
+          "title": "Publish fine-tuned MobileViT in TensorFlow Hub",
+          "short_description": "Publish fine-tuned MobileViT in TensorFlow Hub TensorFlow Hub is the main TensorFlow model repository with thousands of pre-trained models with...",
+          "student_name": "Sayan Nath",
+          "code_url": "https://github.com/sayannath/MobileViT-GSoC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pzWz8XQD/"
+        },
+        {
+          "title": "Tutorials for Object Detection Models",
+          "short_description": "This proposal aims to provide Tensorflow with more object detection models and tutorial examples. The plan consists of adding...",
+          "student_name": "stein",
+          "code_url": "https://colab.research.google.com/drive/1fWbqRatzQDdGwheKQ3IhnewJNvnYku64?authuser=1#scrollTo=q83gvlkT0eC5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/P02aeTf1/"
+        },
+        {
+          "title": "JAX ML TEXTBOOK",
+          "short_description": "I will potentially work towards the following problems during the GSoC: 1) I am excited to implement advanced algorithms in JAX and create/re-produce...",
+          "student_name": "KARM PATEL",
+          "code_url": "https://karm-patel.github.io/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AtU8TBJz/"
+        },
+        {
+          "title": "[KerasNLP] Adding Metrics, Decoding Strategies, Model Encoder Blocks and Data Augmentation APIs",
+          "short_description": "KerasNLP is a library for building NLP building blocks such as model layers, metrics, tokenizers, text processing/augmentation techniques, etc. I...",
+          "student_name": "Abheesht Sharma",
+          "code_url": "https://befitting-pajama-3af.notion.site/Summer-of-22-My-Time-with-KerasNLP-db8d9403fcc34e739a26922c10988c71",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2zKr5UPe/"
+        },
+        {
+          "title": "Implementation of State-of-the-Art Components in Object Detection for KerasCV",
+          "short_description": "Previous iterations of GSoC combined with recent community contributions have helped TensorFlow catch up with the SOTA in image classification....",
+          "student_name": "Sarvagya Malaviya",
+          "code_url": "https://docs.google.com/document/d/10Wd4Ear7j3vNriXClmNhxcDykpnnfY-13kzYXy1xyj4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/c5hSIzaY/"
+        },
+        {
+          "title": "Adding Native Support for Text Data Augmentation in KerasNLP alongside Tutorials",
+          "short_description": "Data Scarcity is a Huge and Evergrowing Problem as new tasks and problems are tackled. Sometimes collecting substantial amount of data is almost...",
+          "student_name": "Aflah",
+          "code_url": "https://aflah02.github.io/GSOC_Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/txBeI4c8/"
+        },
+        {
+          "title": "Profiling and Optimising Energy Consumption for TF Lite Models.",
+          "short_description": "There is a spurt of pretrained edge machine learning models that can be quickly deployed in microcontrollers, thanks to TensorFlow Lite. Reducing RAM...",
+          "student_name": "Rishiraj Adhikary",
+          "code_url": "https://github.com/rishi-a/Power-Management-In-Arduino",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/R1aYnFlP/"
+        },
+        {
+          "title": "Develop Kaggle examples for TensorFlow Decision Forests",
+          "short_description": "TensorFlow Decision Forests (TF-DF) is a collection of state-of-the-art algorithms for the training, serving, and interpretation of Decision Forest...",
+          "student_name": "Vansh",
+          "code_url": "https://github.com/vanshhhhh/Google-Summer-of-Code-2022-TensorFlow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/umFX98b3/"
+        },
+        {
+          "title": "Develop NLP examples using HuggingFace Transformers",
+          "short_description": "In this project, I propose to create NLP examples using transformer implementations from the Hugging Face Library; by developing easy-to-use and...",
+          "student_name": "Sreyan Ghosh",
+          "code_url": "https://medium.com/@gsreyan/gsoc-2022-final-report-c4d7152b2ea4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tLgwQubw/"
+        },
+        {
+          "title": "Developing demos for TensorFlow Lite Micro",
+          "short_description": "This project aims to develop machine learning projects for microcontrollers. This project is a little bit challenging because it is hard to make...",
+          "student_name": "Ayyuce Demirbas",
+          "code_url": "https://medium.com/@a.ayyuced/my-gsoc-2022-journey-bef8bb23037",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qEOm5SRi/"
+        },
+        {
+          "title": "Harsh Shah - Develop healthcare examples using Keras",
+          "short_description": "The aim of this project is to create healthcare examples using Keras. I plan to implement new tutorials for: 1. Diabetic Retinopathy detection using...",
+          "student_name": "Harsh Shah",
+          "code_url": "https://docs.google.com/document/d/1JEkQVAjE-nHpK0zzOciqrmBi7gRr7sY-lmfECT4KVyU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Vv0YDXcR/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/tensorflow-d1",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "KerasCV: Creating Tutorials",
+          "short_description": "The existing Keras Database [1] presently features just four functional tutorials for 3D datasets, the latest of which dates back to the summer of...",
+          "student_name": "Ambra Jin",
+          "code_url": "https://github.com/TGAmbra/GSOC-2023/wiki/Home/43429ef393c8ef901e8765bf469a75df7289cb5d",
+          "proposal_id": "XALW9pTZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9lfGbA1d"
+        },
+        {
+          "title": "Enhance Tokenizers and Implement end-to-end Token Classification Tasks",
+          "short_description": "The objective of this project is to implement Token Classification tasks for the KerasNLP library. The focus will be on enhancing the tokenizers API...",
+          "student_name": "Mishra, Anshuman",
+          "code_url": "https://docs.google.com/document/d/1j9obAx5vrPyQXLqCmSHhNQQqZjHB3jOGmHSCOxR3FkA/edit?usp=sharing",
+          "proposal_id": "6QsbXey5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/X4GwVWLu"
+        },
+        {
+          "title": "MediaPipe Flutter Plugin",
+          "short_description": "The project aims to make a MediaPipe plugin for Flutter. The basic idea is to make an API for Flutter developers to use MediaPipe platform-specific...",
+          "student_name": "Mohammad Eid",
+          "code_url": "https://github.com/googlesamples/mediapipe/tree/main/examples/object_detection/android-jetpack-compose",
+          "proposal_id": "lOThksQc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KKSfVREX"
+        },
+        {
+          "title": "Interactive Web Demos using the MediaPipe Machine Learning Library",
+          "short_description": "The COVID-19 pandemic has increased awareness of hygiene risks associated with touchscreens, with reports indicating that 80% of people find them...",
+          "student_name": "Pratyay Banerjee",
+          "code_url": "https://github.com/Neilblaze/GSOC-23/blob/main/README.md",
+          "proposal_id": "MQzuZcx4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pd9KgnNP"
+        },
+        {
+          "title": "Create a text summarization model by fine-tuning a pre-trained model with a custom dataset",
+          "short_description": "This project aims to create a high-quality custom dataset using PaLM API and create a high-quality text summarization model by fine-tuning a...",
+          "student_name": "Seungjun Lee",
+          "code_url": "https://docs.google.com/document/d/1vqR8TA_QkDzizoBcdRLlULVO8775HyEIbNgLShluzl0/edit?usp=sharing",
+          "proposal_id": "CIoKyAGL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qjSsWX86"
+        },
+        {
+          "title": "Flutter Plugin for MediaPipe Machine Learning Library",
+          "short_description": "This project outlines the development of a Flutter plugin for MediaPipe, with a focus on a feature-first approach. The plan includes implementing the...",
+          "student_name": "Yassin Hashem",
+          "code_url": "https://docs.google.com/document/d/1vDDCuYNK99Jvu1b6G7Qj3v4UNPUXEV0bXbnAerc4V2Q/edit?usp=sharing",
+          "proposal_id": "dUZSdbHy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qz7nZ32E"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://gitter.im/tensorflow",
+  "contact_email": "mailto:tensorflow-gsoc@google.com",
+  "mailing_list": "https://github.com/tensorflow/community",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/tensorflow",
+  "blog_url": "https://blog.tensorflow.org/"
+}

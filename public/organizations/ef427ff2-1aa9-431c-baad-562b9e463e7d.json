@@ -1,0 +1,305 @@
+{
+  "name": "CloudCV",
+  "url": "https://eval.ai/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cloudcv/mxq9gvskhg4i5lyw-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "machine learning",
+    "computer vision",
+    "deep learning",
+    "artificial intelligence",
+    "web development",
+    "cloud computing",
+    "python",
+    "tensorflow",
+    "django",
+    "angularjs",
+    "react",
+    "deep-learning",
+    "reinforcement learning",
+    "AI/ML"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "lua",
+    "caffe",
+    "torch",
+    "django",
+    "angularjs",
+    "deep learning",
+    "reactjs",
+    "machine learning",
+    "artificial intelligence",
+    "computer vision",
+    "cloud",
+    "python 3",
+    "docker",
+    "aws",
+    "angular"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4785685563179008/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "CVFY",
+          "short_description": "The aim of this project is to create a framework that can help people create a web based demo out of their machine learning code and share it. Others...",
+          "student_name": "tocttou",
+          "code_url": "https://ashishchaudhary.in/gsoc-2016-finish",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5040066812444672/"
+        },
+        {
+          "title": "Build Deep Learning models online",
+          "short_description": "This is a user interface to draw and configure deep neural networks and supports import / export of model configuration file from / to caffe &amp;...",
+          "student_name": "gauravgupta",
+          "code_url": "https://github.com/Cloud-CV/IDE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4929000031911936/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6419112360148992/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Making research more accessible with Origami",
+          "short_description": "Origami aims to provide Artificial Intelligence as a Service. Presently, deep learning is a very interesting field. However, the issue arises when...",
+          "student_name": "Avais Pagarkar",
+          "code_url": "https://avaisp.github.io/gsoc-the-end.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5654547515047936/"
+        },
+        {
+          "title": "CloudCV Web App Redesign",
+          "short_description": "The aim of this project is to rewrite Cloud CV Web App into a modern web app with a REST API  backend with continuous integration and deployment.",
+          "student_name": "Utkarsh Gupta",
+          "code_url": "https://uttu357.github.io/gsoc/2017/08/26/gsoc-final-blog.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5277219337273344/"
+        },
+        {
+          "title": "Improved layer support and collaboration",
+          "short_description": "The proposal is towards improving the layer support and adding real time collaboration for Fabrik. I propose to add support for some essential...",
+          "student_name": "Utsav Garg",
+          "code_url": "https://utsavgarg.github.io/blog/the-end",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6224316131704832/"
+        },
+        {
+          "title": "Implementing RESTful web services for EvalAI",
+          "short_description": "EvalAI is an evaluation server that will host AI challenges like Visual Question Answering, Image Captioning. In recent years, it has become...",
+          "student_name": "Rishabh Jain",
+          "code_url": "https://medium.com/@rishabhjain17/gsoc17-with-cloudcv-final-report-a50e964d2e87",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4507838760091648/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5182287540912128/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improve Demo creation in Origami",
+          "short_description": "Improve the Demo creation in Origami and Provide REST API for demo access.Adding analytic server  for  optimising demo performance and for getting ...",
+          "student_name": "Vipin Singh",
+          "code_url": "https://gist.github.com/vpn1997/63ee006760c15b5bbe80bce6fbe119aa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6670827508465664/"
+        },
+        {
+          "title": "Fabrik",
+          "short_description": "Fabrik is an online collaborative platform to build, visualize and train deep learning models via a simple drag-and-drop interface. It allows...",
+          "student_name": "Ram Ramrakhya",
+          "code_url": "https://medium.com/@ramramrakhya81/gsoc18-with-cloudcv-3a238e1fc994",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5247657211592704/"
+        },
+        {
+          "title": "Improve Demo creation in Origami",
+          "short_description": "Cloud-CV is an open source cloud platform with the aim to make AI research reproducible. Origami (previously called CloudCV-fy your code) is an...",
+          "student_name": "fristonio",
+          "code_url": "https://fristonio.github.io/2018/08/10/gsoc18-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6263373423443968/"
+        },
+        {
+          "title": "Python Package, Amazon SQS and REST-ful services for EvalAI.",
+          "short_description": "1. EvalAI Python Package.\nCreating a python package for EvalAI which lets the participants to import evalai as a python package and then make...",
+          "student_name": "Adarsh Suraj",
+          "code_url": "https://github.com/Cloud-CV/evalai-cli/commits?author=isht3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4538857819209728/"
+        },
+        {
+          "title": "Implementing python package and new features for EvalAI",
+          "short_description": "This project will involve implementation of a python-package for enabling CLI submissions and participation in the first phase. The second phase will...",
+          "student_name": "Dhruv Batheja",
+          "code_url": "https://medium.com/@dhruvbatheja/gsoc-2018-with-cloudcvs-evalai-c02bdb49aba6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6279229570285568/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4813273243844608/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Enhance UI/UX of EvalAI",
+          "short_description": "This project will focus on improving the existing UI of EvalAI to improve the experience of both challenge organizers and participants. Beyond this,...",
+          "student_name": "Sanjeev Singh",
+          "code_url": "https://medium.com/@sanjeevsinghdevil97/gsoc-2019-with-cloudcv-8408c40c3e80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6580990380605440/"
+        },
+        {
+          "title": "Implement robust evaluation pipeline in EvalAI",
+          "short_description": "Currently, the submission worker that evaluates the challenge requires manual scaling. For auto-scaling, I'll be migrating it to AWS Fargate from...",
+          "student_name": "Khalid Riyaz",
+          "code_url": "https://medium.com/@khalidriyaz/google-summer-of-code-2019-with-cloudcv-a16927f57249",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5630848051707904/"
+        },
+        {
+          "title": "EvalAi-ngx",
+          "short_description": "A web application for contesting online AI challenge. The front end has been improved for better user experience and performance.",
+          "student_name": "Sanket Bansal",
+          "code_url": "https://medium.com/@sanketbansal57/finishing-up-gsoc-2019-a7bedd141ec0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5909175756914688/"
+        },
+        {
+          "title": "Evaluating Submission Code in Docker Containers",
+          "short_description": "The rise of reinforcement learning based problems or any problem which requires that an agent must interact with an environment introduces additional...",
+          "student_name": "Kartik Verma",
+          "code_url": "https://medium.com/@vkartik97/gsoc-2019-with-cloudcv-the-end-dfc559f137f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6274511849127936/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6719687229964288/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Enhancement in Code Upload Pipeline",
+          "short_description": "As EvalAI hosts more code-upload challenges and researchers utilize the modular Kubernetes based infrastructure for hosting these challenges,...",
+          "student_name": "Ayush Khare",
+          "code_url": "https://medium.com/@ayussh.khare/gsoc-20-with-cloudcv-evalai-6bd8f1b49598",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5091876505387008/"
+        },
+        {
+          "title": "Improvement In EvalAI front @CloudCV",
+          "short_description": "This project mainly focuses adding some missing features and improving the frontend of the EvalAI.",
+          "student_name": "Kajol Kumari",
+          "code_url": "https://medium.com/@kajolkumarisingh222/gsoc20-with-cloudcv-9e7385aff209?source=friends_link&sk=98ceacdba01c433bd7152c3c3eb968e1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5342961233035264/"
+        },
+        {
+          "title": "Streamlining challenge creation on EvalAI",
+          "short_description": "EvalAI is a platform to host and participate in AI challenges around the globe. To host a challenge, challenge creation is one of the core features...",
+          "student_name": "Khalid Riyaz",
+          "code_url": "https://medium.com/@khalidriyaz/google-summer-of-code-2020-with-cloudcv-f00ca26e5c79",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5966605818789888/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5332159690178560/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improvements in EvalAI frontend",
+          "short_description": "This project involves fixing the last remaining kinks in the EvalAI UI. The goal of this project would be to improve the new UI as we replace the...",
+          "student_name": "Gautam Jajoo",
+          "code_url": "https://medium.com/@gautamjajoo/google-summer-of-code-2021-with-cloudcv-d207321aa58c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5009970000560128/"
+        },
+        {
+          "title": "Static code upload challenge evaluation and enhancements in GitHub based challenge creation",
+          "short_description": "EvalAI is a platform to host and participate in AI challenges around the globe. To a challenge host, reproducibility of submission results and...",
+          "student_name": "Savish Bedi",
+          "code_url": "https://medium.com/@savishbedi1/google-summer-of-code-2021-with-cloudcv-573d4181a997",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4676246344040448/"
+        },
+        {
+          "title": "Monitoring setup for EvalAI",
+          "short_description": "As the number of challenges on EvalAI are increasing, we want to focus on improving the performance of our services. As a first step, we will focus...",
+          "student_name": "Aviral Jain",
+          "code_url": "https://medium.com/@burnerlee/google-summer-of-code-2021-with-cloudcv-b1cf77219f91",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5945725162094592/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/cloudcv",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Evaluation Infrastructure Optimization",
+          "short_description": "This project aims to enhance EvalAI's functionalities by automating large worker deployments in AWS, adding relevant features for efficient challenge...",
+          "student_name": "Ayush Rathore",
+          "code_url": "https://medium.com/@ayushr1/google-summer-of-code-2023-with-cloudcv-a2c1afd152ba",
+          "proposal_id": "pHtDnNfj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0s3XeybO"
+        },
+        {
+          "title": "Improvements in EvalAI User Interface",
+          "short_description": "This project aims to enhance and optimize the existing platform by implementing several important features and improvements. These changes include...",
+          "student_name": "Suryansh Pathak",
+          "code_url": "https://medium.com/@suryanshpathak5545/gsoc-2023-with-cloudcv-8cf9c8ae3d05",
+          "proposal_id": "YaPpKd6H",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oPOQoAJ7"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/cloudcv/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Enhanced Exception Handling, Testing, Documentation, and User-Friendliness for EvalAI",
+          "short_description": "This project aims to make EvalAI better for users. It will improve how errors are handled, add more tests to make sure things work properly, provide...",
+          "student_name": "Harshit Jain 2210",
+          "code_url": "https://medium.com/@harshitjain0562/google-summer-of-code-2024-with-cloudcv-aeb58538c4ed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Sv1GLh6t/"
+        },
+        {
+          "title": "Google Summer of Code 2024 Proposal for CloudCV",
+          "short_description": "The proposal targets enhancing CloudCV by improving its admin dashboard, optimizing costs, and enhancing infrastructure monitoring. Key initiatives...",
+          "student_name": "Thieu Nguyen",
+          "code_url": "https://medium.com/@minhthieu135/my-journey-into-gsoc-2024-enhancing-evalai-with-cloudcv-569cac449930",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TITGUVUt/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/cloudcv",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "RAG-Based Chat Bot for Enhanced Challenge Support",
+          "short_description": "RAG-Based Chatbot for Enhanced EvalAI Challenge Support Problem EvalAI struggles with providing consistent, timely, and accurate support for AI...",
+          "student_name": "Aditi Bindal",
+          "code_url": null,
+          "proposal_id": "AoLufrRa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uh8YMZEU"
+        },
+        {
+          "title": "Enhanced Test Suite and Improved User Experience",
+          "short_description": "This project is focused on significantly improving EvalAI\u2019s usability by enhancing exsiting comprehensive test suite alongside a series of user...",
+          "student_name": "Akshat_Singh",
+          "code_url": null,
+          "proposal_id": "PBMNI7Pv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IA5TwFwY"
+        },
+        {
+          "title": "RAG-Based Chat Bot for Enhanced Challenge Support",
+          "short_description": "This project aims to enhance the user experience for both challenge hosts and participants by developing an intelligent, RAG (Retrieval Augmented...",
+          "student_name": "Zahed",
+          "code_url": null,
+          "proposal_id": "S2iMtPvU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BwLKGHrI"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/cloudcv-community/shared_invite/zt-32d77sbma-OjV24gfcKy1tmcl576ZyIg",
+  "contact_email": "mailto:team@cloudcv.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/cloudcv",
+  "ideas_url": "https://gsoc.cloudcv.org/",
+  "guide_url": "https://github.com/Cloud-CV/GSoC-Ideas/wiki/GSOC-2025-Proposal-Template",
+  "twitter_url": "https://twitter.com/eval_ai"
+}

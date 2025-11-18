@@ -1,0 +1,195 @@
+{
+  "name": "gprMax",
+  "url": "https://www.gprmax.com",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/gprmax/vm8kavyxz3csja8f-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "science",
+    "engineering",
+    "geophysics",
+    "electromagnetics",
+    "ground penetrating radar",
+    "optimisation"
+  ],
+  "technologies": [
+    "python",
+    "cython",
+    "cuda",
+    "openmp",
+    "mpi",
+    "opencl"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5844947004030976/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implementation of a sub-gridding framework",
+          "short_description": "An implementation of a sub-gridding framework is proposed. Sub-gridding reduces the computational resources and \nsolve time required for many...",
+          "student_name": "John Hartley",
+          "code_url": "https://github.com/gprMax/gprMax/pull/224",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6378497251999744/"
+        },
+        {
+          "title": "OpenCl Accelerated FDTD Solver for gprMax",
+          "short_description": "The aim is to add new feature of simulating GPR models based on OpenCl which willrun on heterogeneous computing units. PyOpenCl, a Python wrapper...",
+          "student_name": "MANISH AGRAWAL",
+          "code_url": "https://spacevstab.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4854715383283712/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4979973948964864/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "LasoMax",
+          "short_description": "The aim of this project is to create a module to import geometric data acquired from terrestrial laser scanners. It will focus on developing a method...",
+          "student_name": "Kartik Bansal",
+          "code_url": "https://github.com/gprMax/gprMax/pull/295",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4734758998769664/"
+        },
+        {
+          "title": "Modelling complex materials electromagnetic properties in gprMax software",
+          "short_description": "All electromagnetic phenomena are governed by the Maxwell's equations, which describing how electric and magnetic fields are distributed due to...",
+          "student_name": "Sylwia Majchrowska",
+          "code_url": "https://github.com/gprMax/gprMax/pull/296",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4802755276832768/"
+        },
+        {
+          "title": "Implementing GPU Accelerated Sub-gridding",
+          "short_description": "This project aims at integrating GPU accelerated FDTD sub-gridding into gprMax. The current version of gprMax treats everything within the same...",
+          "student_name": "ThenoobMario",
+          "code_url": "https://github.com/gprMax/gprMax/pull/297",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6058544859709440/"
+        },
+        {
+          "title": "Automatic Realization of AI-Based Electromagnetic Models",
+          "short_description": "The aim of this project is to integrate an automatic AI-based scheme into the gprMax environment such that it provides real-time FDTD solutions to...",
+          "student_name": "Utsav Akhaury",
+          "code_url": "https://github.com/gprMax/gprMax/pull/294",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5922912141312000/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/gprmax",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implementation of a plane wave source",
+          "short_description": "The objective of the project would be implement a plane wave source in gprMax. It is mentioned that it would be done by `translating existing MATLAB...",
+          "student_name": "Adittya",
+          "code_url": "https://github.com/gprMax/gprMax/pull/373",
+          "proposal_id": "nhPy4h4b",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QbO6y5Xj"
+        },
+        {
+          "title": "Improved Installation Tools",
+          "short_description": "The benefits of creating a simplified and more user-friendly installation workflow for gprMax software are: Improved user experience , Increased...",
+          "student_name": "Aditya Saini",
+          "code_url": "https://medium.com/@adityasaini10012001/google-summer-of-code-23-work-submission-dd61d8254d3c",
+          "proposal_id": "mXaPT3gc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HIvD1YHY"
+        },
+        {
+          "title": "Create a gprMax custom kernel and that can be installed in Jupyter notebook",
+          "short_description": "gprMax is CLI interface software which is used to solve electrodynamics problems by solving Maxwell's Equations using FDTD method. It is also used to...",
+          "student_name": "srutanik",
+          "code_url": "https://github.com/srutanik/GSoC_23",
+          "proposal_id": "FVobikrg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9kFAAx7H"
+        },
+        {
+          "title": "Improving Efficiency and Readability of the gprMax codebase and preparing a custom support chatbot.",
+          "short_description": "The major objectives of the project are: 1. Refactoring the Python code to increase efficiency and readability and increase the overall code quality...",
+          "student_name": "V. Sai Suraj",
+          "code_url": "https://medium.com/@manosaisuraj12/gsoc23-work-product-submission-f6dfba458bd2",
+          "proposal_id": "fEKrLbCk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yqaL17VS"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/gprmax/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Apple Metal Port",
+          "short_description": "The project focuses on developing an Apple Metal port of the Finite-Difference Time-Domain (FDTD) solver machine for gprMax. The current version of...",
+          "student_name": "Bianca Pham",
+          "code_url": "https://github.com/gprMax/gprMax/pull/457",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7nu9MkQW/"
+        },
+        {
+          "title": "\"Optimisation of CUDA and OpenCL performance\" proposal from Lihao",
+          "short_description": "The proposal for the GSOC project focuses on the \"Optimization of CUDA and OpenCL performance\" within the gprMAX software, a tool utilizing the...",
+          "student_name": "Lihao Bi",
+          "code_url": "https://www.dropbox.com/scl/fi/fqnt775oyz7lfy1345my3/GSOC_2024.zip?rlkey=rjh40rcburntv823x00rnq5m3&st=b0pis175&dl=0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/osUJGblH/"
+        },
+        {
+          "title": "AI Chatbot and Assistant for Support",
+          "short_description": "This project aims to improve the user experience of gprMax, an open-source software for simulating electromagnetic wave propagation by modelling...",
+          "student_name": "Jung Whan Lee",
+          "code_url": "https://github.com/eddieleejw/gprmax_chatbot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DwjJyBl7/"
+        },
+        {
+          "title": "Cache-Efficient Acceleration of the FDTD Method in gprMax via XPU Technology",
+          "short_description": "This proposal aims to improve the performance of the Finite-Difference Time-Domain (FDTD) algorithm within the gprMax software by integrating XPU...",
+          "student_name": "Yutian Chen",
+          "code_url": "https://github.com/gprMax/gprMax/pull/458",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4Zh4wnzY/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/gprmax",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "AMD ROCm HIP Port Proposal",
+          "short_description": "This project focuses on porting the PyCUDA-based FDTD method solver of gprMax to HIP API. The final target is to run gprMax on AMD ROCm GPUs. HIP...",
+          "student_name": "Anjie",
+          "code_url": null,
+          "proposal_id": "7YQMK1eo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oM0R3IbA"
+        },
+        {
+          "title": "Building Comprehensive AI support system for gprMax",
+          "short_description": "This project aims to enhance gprMax's user support capabilities by integrating advanced Language Model (LLM) technologies. The core goal is...",
+          "student_name": "Jichao Fang",
+          "code_url": null,
+          "proposal_id": "NK2a3aQS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AYkOXMci"
+        },
+        {
+          "title": "Implementation of a Near to Far Field Transformation (NFFT) Calculation  and Output of Relevant Info",
+          "short_description": "This project aims to implement a Near-to-Far Field Transformation (NFFT) feature in gprMax. This will enable users to compute the far-field radiation...",
+          "student_name": "Karan Khajanchi",
+          "code_url": null,
+          "proposal_id": "vftLZS4t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fc4B9yzr"
+        },
+        {
+          "title": "Apple Metal Port",
+          "short_description": "This project aims to complete the development of an Apple Metal port for gprMax, building upon the initial work in PR #457. gprMax is an open-source...",
+          "student_name": "Manobhav Sachan",
+          "code_url": null,
+          "proposal_id": "zlUSTGD9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lKjuDV7t"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gprmax.zulipchat.com/join/rdr3ibeupg6nz5c4eu7oo2z4/",
+  "contact_email": "mailto:info@gprmax.com",
+  "mailing_list": "https://groups.google.com/g/gprmax",
+  "ideas_url": "https://github.com/gprMax/GSoC/blob/main/project-ideas-2025.md",
+  "guide_url": "https://github.com/gprMax/GSoC/blob/main/project-template.md",
+  "twitter_url": "https://twitter.com/gprmax_fdtd"
+}

@@ -1,0 +1,128 @@
+{
+  "name": "AnkiDroid",
+  "url": "https://github.com/ankidroid/Anki-Android",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ankidroid/cxtovrlsuuluttgi-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "android",
+    "user generated content",
+    "flashcard",
+    "mobile",
+    "Flashcards"
+  ],
+  "technologies": [
+    "javascript",
+    "android",
+    "java",
+    "gradle",
+    "rust",
+    "kotlin",
+    "mobile"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5687189203058688/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Development of AnkiDroid project",
+          "short_description": "This project aims to develop and improve the AnkiDroid Android App.\nHere are the list of things which I aim to work on:\nOnboarding for new users\nAn...",
+          "student_name": "Shridhar Goel",
+          "code_url": "https://gist.github.com/ShridharGoel/2eb73b5b4b67c7981f479841361c6942",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5701531810136064/"
+        },
+        {
+          "title": "\"Migrating to Scoped Storage\" By Farjad Ilyas, 2021",
+          "short_description": "This project aims to migrate the AnkiDroid App to Scoped Storage. It will follow Google's recommended approach. This will involve migrating user data...",
+          "student_name": "Farjad Ilyas",
+          "code_url": "https://docs.google.com/document/d/1OCRR8VVbVNX4WaY3ZRVW_O1KsqBiUU4Lgzha6UFMXe0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4622107475968000/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/ankidroid/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improve Card Browser",
+          "short_description": "The Card Browser is an integral part of the AnkiDroid ecosystem, and through this project, my aim is to port more functionality from Anki Desktop to...",
+          "student_name": "Akshit Sinha",
+          "code_url": "https://gist.github.com/viciousAegis/602a64c47d2a1594bbf6e0647b5bd039",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Szuxr74f/"
+        },
+        {
+          "title": "CSV Importer and Improve Preferences UI/UX",
+          "short_description": "My proposal has 2 subprojects associated to improve the app: CSV Importer and Improve Preferences UI/UX. CSV files are a very useful way to organize...",
+          "student_name": "Brayan Oliveira",
+          "code_url": "https://gist.github.com/BrayanDSO/82c713050e8af049489a6ed7db2b5515",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/C9pmMeIt/"
+        },
+        {
+          "title": "Migrate AsyncTask to Kotlin Coroutines",
+          "short_description": "The proposal focuses on migrating the project from the use of deprecated AsyncTask to Kotlin coroutines. Coroutines are a great way of handling...",
+          "student_name": "Divyansh Kushwaha",
+          "code_url": "https://medium.com/@divyanshdxn/divyansh-kushwahas-gsoc-2022-report-a5ab871db6ed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XLPJsm8o/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/ankidroid/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Instant Add Note Editor & Multimedia UI/UX",
+          "short_description": "My proposal comprises two subprojects aimed at enhancing the app: the Instant Note Editor and enhancements to the Multimedia UI/UX. Cloze deletion...",
+          "student_name": "criticalAY - Ashish Yadav",
+          "code_url": "https://github.com/criticalAY/GSoC-Report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HHr5HsjN/"
+        },
+        {
+          "title": "Tablet & Chromebook UI",
+          "short_description": "This proposal focuses on enhancing the user experience of AnkiDroid on larger devices like tablets and Chromebooks. The project aims to improve...",
+          "student_name": "Sanjay Sargam",
+          "code_url": "https://github.com/SanjaySargam/GSoC-Report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8VnbDJ2l/"
+        },
+        {
+          "title": "Additional Widgets",
+          "short_description": "Ankidroid currently lack convenient access to key study management features directly from their device's home screen. This inefficiency hampers user...",
+          "student_name": "Snowiee",
+          "code_url": "https://github.com/xenonnn4w/GSoC-Report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/w1n3pqnM/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/ankidroid",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Eric Li - Review Reminders - GSoC 2025",
+          "short_description": "Currently, reminders and notifications in AnkiDroid are entirely broken. This proposal aims to completely overhaul the system, in accordance with the...",
+          "student_name": "ericli3690 (Eric Li)",
+          "code_url": null,
+          "proposal_id": "95iCYRQc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hM59fHT8"
+        },
+        {
+          "title": "Tablet & Chromebook UI",
+          "short_description": "AnkiDroid was initially designed for Android mobile phones. Over the years, Android has come to tablets and Chromebooks, but our UI has continued to...",
+          "student_name": "Hari Srinivasan",
+          "code_url": null,
+          "proposal_id": "nuTmVr0n",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pctRgn1E"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/qjzcRTx",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/anki-android",
+  "ideas_url": "https://docs.google.com/document/d/1Va6IWEYcWTkK4KDtyoFxtOKzpdcYe54GdrVpuMcFvlI/edit?usp=sharing",
+  "guide_url": "https://github.com/ankidroid/Anki-Android/wiki/Google-Summer-of-Code",
+  "twitter_url": "https://twitter.com/ankidroid"
+}

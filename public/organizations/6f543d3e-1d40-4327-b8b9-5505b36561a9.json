@@ -1,0 +1,42 @@
+{
+  "name": "Tungsten Fabric",
+  "url": "https://tungsten.io",
+  "image_url": "https://lh3.googleusercontent.com/SQUdOZ93rgGC711-JWBbLWzxGbC7Pds8BTbQw4rwEEVEw-RfAxF-T0dRwu7uG4SzQLb6pKh4zuXmSZvZMEHJPTKuaTv4_yY",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "security",
+    "software defined networking",
+    "routing",
+    "multicloud"
+  ],
+  "technologies": [
+    "python",
+    "linux",
+    "c",
+    "c++",
+    "networking",
+    "kubernetes"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5098459072299008/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Quickstart Guide for Tungsten Fabric as a Container Network Interface for Kubernetes",
+          "short_description": "Efficient adoption of multiple clouds is often hindered by unconsolidated control and observability.\nThe Tungsten Fabric framework addresses this...",
+          "student_name": "Fayaz Akhtar",
+          "code_url": "https://github.com/fayaxa/TF-K8s-Guide",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5557299018465280/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://tungsten.io/community/",
+  "contact_email": "mailto:dev@lists.tungsten.io",
+  "mailing_list": "https://tungsten.io/community/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/tungstenfabric"
+}

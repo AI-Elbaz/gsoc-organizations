@@ -1,0 +1,89 @@
+{
+  "name": "Eclipse Vert.x",
+  "url": "http://vertx.io",
+  "image_url": "https://lh3.googleusercontent.com/VkiPGfm8MX6JvIJbm675GIpat5g2Tv265xwmE9Owc274xFQdx60SiwOUCLswo7AXz-WREWuU8aMo6imBr83xWyCg3VsAHk0",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "micro services",
+    "high performance computing",
+    "distributed",
+    "polyglot",
+    "reactive",
+    "unopionated"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "groovy",
+    "micro-services",
+    "reactive",
+    "kotlin",
+    "reactive extensions",
+    "microservices",
+    "event-loop"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5126842331693056/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implementation of \u201cblueprint\u201d Vert.x applications and detailed documents",
+          "short_description": "Motivation for Proposal / Goal:\nVert.x is an excellent full-stack toolkit which can help us build FRP-sytle, high concurrent, scalable applications....",
+          "student_name": "sczyh30",
+          "code_url": "http://www.sczyh30.com/en/2016/08/19/gsoc-2016-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6595109919391744/"
+        },
+        {
+          "title": "DevOps tooling for Vert.x applications",
+          "short_description": "Vert.x is a powerful framework to build polyglot applications based on the Java Virtual Machine. It is very suitable for projects developed following...",
+          "student_name": "ricardohmon",
+          "code_url": "https://docs.google.com/document/d/1L19p6zypA5qWRqMFp_qwNfBvvA5oYkm7PH6lOTaEP58/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5465346421030912/"
+        },
+        {
+          "title": "Vert.x Eventbus clients for Python,C#, C, and Rust applications",
+          "short_description": "Vert.x is a toolkit for the Java Virtual Machine enabling the implementation of reactive, highly concurrent, polyglot applications. Thanks to its...",
+          "student_name": "Jayamine Alupotha",
+          "code_url": "http://jayamine.weebly.com/project-progress/tcp-eventbus-clients-python-c-c-and-rust",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5874088526479360/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5851994006749184/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Administration Console for Vert.x Applications",
+          "short_description": "Eclipse Vert.x is a toolkit for the Java Virtual Machine enabling the implementation of reactive, highly concurrent, polyglot applications. The goal...",
+          "student_name": "Yunyu Lin",
+          "code_url": "https://github.com/yunyu/vertx-console",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5394178544500736/"
+        },
+        {
+          "title": "Developing a Vert.x based MQTT client (in the spirit of Eclipse Paho)",
+          "short_description": "MQTT is \u201clightweight\" messaging protocol for use on top of the TCP/IP protocol. This protocol is used when you to keep connections with remote and...",
+          "student_name": "Pavel Drankov",
+          "code_url": "https://docs.google.com/document/d/1PpzXr1-r2PncjwB1q6fymk8a62ItLn1tU9za-1gV7Sk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6059934177296384/"
+        },
+        {
+          "title": "Router Factory for Design Driven Web API Development",
+          "short_description": "The main objective of my project is to expose functions that generate a Router from an API specification (based on an API specification standard like...",
+          "student_name": "Francesco Guardiani",
+          "code_url": "https://gist.github.com/slinkydeveloper/25e4f5543755480635b4dddc449dcf53",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5131880328331264/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://vertx.io/community/",
+  "contact_email": "mailto:vertx-enquiries@googlegroups.com",
+  "mailing_list": "http://vertx.io/community/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/vertx_project",
+  "blog_url": "http://vertx.io/blog"
+}

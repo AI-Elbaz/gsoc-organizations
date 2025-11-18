@@ -1,0 +1,349 @@
+{
+  "name": "Ruby",
+  "url": "https://www.ruby-lang.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ruby/dc6i7iw8w39rktw1-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "programming languages",
+    "developer tools",
+    "web servers",
+    "cloud",
+    "programming language",
+    "web development",
+    "type system",
+    "performance optimization",
+    "security",
+    "web",
+    "server",
+    "application"
+  ],
+  "technologies": [
+    "ruby",
+    "c",
+    "java",
+    "ruby on rails",
+    "rubygems",
+    "bundler"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5274246683033600/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Java ByteBuffer Support for Nio4r",
+          "short_description": "Ruby has no native ByteArray or ByteBuffer types, unlike Java. While it'd be great to have something like this in core Ruby, the next best place...",
+          "student_name": "Upekshe Jayasekera",
+          "code_url": "https://github.com/celluloid/nio4r/commits/bytebuffers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5743258319716352/"
+        },
+        {
+          "title": "Maintain Bundler: a very popular and widely-used open source project",
+          "short_description": "I will help with current contributors of bundler to help maintain the bundler projects and other related project under bundler. As a maintainer, my...",
+          "student_name": "allenzhao",
+          "code_url": "https://github.com/bundler/bundler/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aallenzhao%20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6133135989276672/"
+        },
+        {
+          "title": "Optional types for Matz's Ruby Interpreter",
+          "short_description": "Dynamic languages trade some of the compile-time safety properties of statically typed languages for greater flexibility for a programmer to write...",
+          "student_name": "RB",
+          "code_url": "https://gist.github.com/robblanco/f644ef41d8c65f15e9ce8271f618521e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4986104843337728/"
+        },
+        {
+          "title": "Move the Bundler API back into RubyGems.org",
+          "short_description": "My project would re-implement the Bundler API on the Rails app that provides RubyGems.org. Bundler uses bundler-api to download dependency...",
+          "student_name": "Aditya Prakash",
+          "code_url": "https://github.com/rubygems/rubygems.org/commits/master?author=sonalkr132",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5019846106415104/"
+        },
+        {
+          "title": "Implement UJS using native JavaScript",
+          "short_description": "The goal of this project is to\n\nRewrite UJS using native JavaScript, i.e., without jQuery.\nAdd new features to UJS. Currently I have planned...",
+          "student_name": "Dangyi Liu",
+          "code_url": "https://github.com/rails/jquery-ujs/pull/474",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5116543536988160/"
+        },
+        {
+          "title": "Cap'n Proto RPC implementation by wrapping c++",
+          "short_description": "Cap'n Proto RPC implementation \n Project idea\nThere is already a decent binding of Cap'n Proto in github but it doesn't have RPC. My project consist...",
+          "student_name": "NemoNoboru",
+          "code_url": "https://nemonoboru.github.io/projects/2016/08/18/Google-summer-of-code.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6182672799891456/"
+        },
+        {
+          "title": "Rails: Support Auto-Completion in Web Console",
+          "short_description": "Web Console is a debugging tool for the web apps built with Ruby on Rails. In order\nto debug, it provides an interactive Ruby session to the...",
+          "student_name": "Hiroyuki",
+          "code_url": "https://gist.github.com/sh19910711/3782603cafdcecd2ca1fdda259d5803c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6484979710164992/"
+        },
+        {
+          "title": "Rebuild bundler.io, the Bundler website",
+          "short_description": "Rebuild old, middleman based http://bundler.io website and make it more automated",
+          "student_name": "kruczjak",
+          "code_url": "https://gist.github.com/kruczjak/4311b5ff8fdc5afe8bc75d32f54d10f0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6035657411526656/"
+        },
+        {
+          "title": "Maintain Bundler: a very popular and widely-used open source project",
+          "short_description": "As mentioned in the listing for Bundler-related ideas, \"Once an open source project has taken off and become popular and widely used, writing code...",
+          "student_name": "Boggs",
+          "code_url": "https://github.com/b-ggs/bundler-gsoc2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6117802150723584/"
+        },
+        {
+          "title": "Plugin system",
+          "short_description": "This is to develop a plugin system for bundler which can be used to add features like CLI commands, new sources for ruby gems and hooks for lifecycle...",
+          "student_name": "asutoshpalai",
+          "code_url": "https://gist.github.com/asutoshpalai/5d49663b7b19441fb2decaca8de79b28",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5845236815233024/"
+        },
+        {
+          "title": "Breaking changes for the 2.0 release",
+          "short_description": "Everything that worked with Bundler 1.0 still works with Bundler 1.11, all new features from 1.0 to 1.11 have been incremental additions, without...",
+          "student_name": "Chalkos",
+          "code_url": "https://gist.github.com/chalkos/e93ab425f78a12058f4c97bfe98aac0a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5180308366295040/"
+        },
+        {
+          "title": "Automatic-selection mechanism for data structures in MRI",
+          "short_description": "I will consider and conduct a survey about the data structures appropriate to the operations used in Ruby, and combine their merits by dynamically...",
+          "student_name": "spinute",
+          "code_url": "http://www.spinute.org/ruby/gsoc2016/english",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5201565367402496/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5758920052178944/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Adding Type Annotations to Ruby Syntax",
+          "short_description": "I would like to add type annotations to Ruby, per the ideas list. These annotations will serve as documentation and hopefully a way to implement...",
+          "student_name": "nicholaslyang",
+          "code_url": "https://github.com/ruby/ruby/compare/trunk...NicholasLYang:type-annotations",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4968218317815808/"
+        },
+        {
+          "title": "Apply for the project of Ruby huge memory machine",
+          "short_description": "Currently, several problems are known when Ruby program runs under a high memory workload, including slow rates for allocating memory and program...",
+          "student_name": "Yimin Zhao",
+          "code_url": "https://github.com/Tacinight/ruby-gsoc-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4981627071496192/"
+        },
+        {
+          "title": "Integrate functionality from bun",
+          "short_description": "Having gone through bun and playing around with it, I found it to be a great tool for quick editing of Gemfiles. I would be integrating it into...",
+          "student_name": "Agrim Mittal",
+          "code_url": "https://gist.github.com/agrim123/cfc1e1aadbe8b46f6e2b6e9b090ed2f3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5547552766164992/"
+        },
+        {
+          "title": "Add security vulnerability notifications in rubygems",
+          "short_description": "This proposes the feature to generate security vulnerability notifications by gem authors for a specific gem version which have security issues....",
+          "student_name": "Shlok Srivastava",
+          "code_url": "https://lifeinoss.wordpress.com/2018/08/14/gsoc-with-rubygems/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4728379223834624/"
+        },
+        {
+          "title": "Add multi-factor authentication to Rubygems.",
+          "short_description": "Currently gem command line tool and rubygems.org does not support any OTP authentication other than original email and password. This project tries...",
+          "student_name": "Qiu Chaofan",
+          "code_url": "https://gist.github.com/ecnelises/9654e59877aa336977c1409ef540e2a9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5818862696136704/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6496971961925632/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Recursive tree view for gem dependencies",
+          "short_description": "This project would add a feature on the rubygems.org website to give an option on each gem web page to show a tree/DAG of all transitive dependencies...",
+          "student_name": "Nakul Warrier",
+          "code_url": "https://nakul9597.github.io/My-Blog/gsoc/final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6420844287361024/"
+        },
+        {
+          "title": "A Rails 6 package transition in Debian",
+          "short_description": "Upgrade the Rails to 6.0.0 and patch all 169 Debian packages that depend on the Rails to be compatible with Rails 6.0.0.\nRails (Ruby on Rails) is one...",
+          "student_name": "Jongmin Kim",
+          "code_url": "https://jongmin.dev/go/gsoc-2019-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6469485647626240/"
+        },
+        {
+          "title": "Integrate functionality from gem-web into RubyGems gem CLI",
+          "short_description": "Gem-web is a tool that capable of providing an interface that allows opening documentation, source code and website of a ruby gem. Integrating it on...",
+          "student_name": "Matheus Richard",
+          "code_url": "https://gist.github.com/MatheusRich/48efd26a245f61c729cfe8bde6d8635c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5285707902353408/"
+        },
+        {
+          "title": "Adding Autocomplete Function in RubyGems.org Search UI",
+          "short_description": "In RubyGems.org website, we can search for any kinds of gems you want. However, most programmers use google or any other websites to look for gems...",
+          "student_name": "Shunji Nishitani",
+          "code_url": "https://gist.github.com/shunshunNi/ff439abb6e9875bfea7ee319c34746cb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5806675691307008/"
+        },
+        {
+          "title": "Bundler and gem metrics, statistics and analytics",
+          "short_description": "Bundler includes some basic information in the User-Agent header during HTTP requests to gem servers, but this information is insufficient and...",
+          "student_name": "Or Hadad",
+          "code_url": "https://gist.github.com/Akrabut/7b7a616d31d29ef49c99e473c0833cf4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5969335967809536/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5633129894641664/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "GSOC 2020 Proposal for GemStash",
+          "short_description": "Gemstash has long been serving as a private gem source for developers who wanted to inhabit a personal environment to update and develop their gems....",
+          "student_name": "Hac Duy Quang Nguyen",
+          "code_url": "http://rubygsoc.github.io/add-backends-for-gemstash-storage-of-private-gems/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5028580767039488/"
+        },
+        {
+          "title": "Brush up RBS and related tools for practical Rails apps",
+          "short_description": "RBS, a type annotation language and\ntool for Ruby, is about to be bundled with Ruby 3.0. Gradual typing\nwith RBS allows Rubyists to enjoy the...",
+          "student_name": "Tadashi Saito",
+          "code_url": "https://writtensomeday.blogspot.com/2020/08/google-summer-of-code-2020-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5125391108276224/"
+        },
+        {
+          "title": "Add gem owner add and remove in web UI of rubygems.org",
+          "short_description": "gem owner -a/r command is used to add or remove owners by an email. We will add options for adding/removing gem owners via Web UI. Additionally, we...",
+          "student_name": "Pavan Vachhani",
+          "code_url": "https://vachhanihpavan.github.io/2020-08-21-gsoc-2020-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6211479520411648/"
+        },
+        {
+          "title": "Allowing Type Checking in Method Signatures",
+          "short_description": "Allows Rubyists to enforce a type into a parameter without any DSLs",
+          "student_name": "Afront",
+          "code_url": "https://blog.afront.me/blog/ruby-g-so-c-2020-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4859073708687360/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5432182465626112/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Writing of RBS Files",
+          "short_description": "Writing of RBS Files\n\nRuby is an extremely easy to use, syntactically elegant, dynamically typed language. \nRuby announced the release of RBS, a...",
+          "student_name": "Sushanth Rao",
+          "code_url": "https://raosush.github.io/2021/08/19/gsoc-ruby-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5685634559115264/"
+        },
+        {
+          "title": "Language Server for RBS",
+          "short_description": "Implement Language Server for RBS",
+          "student_name": "Yuki Osaki",
+          "code_url": "https://gist.github.com/Yuuki77/6f8c5be9ceda33eaf930d15f8c28da09",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6523952716840960/"
+        },
+        {
+          "title": "Ractor-supported libraries",
+          "short_description": "Ractor is a feature introduced in Ruby 3 that allows parallel execution. However, many Ruby libraries are currently not compatible with Ractor. This...",
+          "student_name": "Rohit Menon",
+          "code_url": "https://gist.github.com/rm155/b1984eb3e54d09a897ca23cf068c215e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4858157871923200/"
+        },
+        {
+          "title": "Optimize Kernel::require API for Ruby 3",
+          "short_description": "The most frequently used Ruby Core APIs Kernel::require and Kernel::require_relative are doing the same work: it\u2019s to resolve the file path, read the...",
+          "student_name": "Xinyu Wang",
+          "code_url": "https://github.com/DarkKowalski/GSoC2021-RubyLanguage",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5143626866229248/"
+        },
+        {
+          "title": "Tests for debugger",
+          "short_description": "GSoC 2021 Proposal: Tests for debugger\nOverview\ndebug.rb is a replacement of the traditional lib/debug.rb standard library which is implemented by...",
+          "student_name": "Naoto Ono",
+          "code_url": "https://gist.github.com/ono-max/b12ef342d77267c46c5c77a3e3040791",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5181633300267008/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/ruby/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Optimizing Garbage Collection for Ruby Ractors",
+          "short_description": "Ruby 3 introduced Ractors, which allow true concurrency in the language. However, Ruby's stop-the-world Garbage Collector (GC) pauses all of the...",
+          "student_name": "Rohit Menon",
+          "code_url": "https://gist.github.com/rm155/cf4ec2a07ea1cfa4e06b7b6470bd5c9b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/id53bY9z/"
+        },
+        {
+          "title": "RDoc generation from RBS",
+          "short_description": "Documentation refers to the additional text associated with a codebase to help developers and/or clients/users understand the code/use cases better....",
+          "student_name": "Sushanth",
+          "code_url": "https://raosush.github.io/2022/09/11/gsoc-ruby-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1wSHVbTn/"
+        },
+        {
+          "title": "Implementing Ruby 3.0 Pattern Matching in TruffleRuby",
+          "short_description": "This project aims to improve feature parity between TruffleRuby and CRuby in places where full Ruby 3.0 feature parity has not been achieved, aiming...",
+          "student_name": "Raghu Ranganathan",
+          "code_url": "https://github.com/oracle/truffleruby/pull/2683",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wn1rYdKO/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/ruby",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Scarpe on WASM",
+          "short_description": "The project primary objective would be bypassing the current usage of the webview library in Scarpe, feeding directly the HTML and Javascript code to...",
+          "student_name": "Giovanni Borgh",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vT98QScIvjO-J-VY97G6SYPDvKfv8KDA0ITIEXleEXWlPmHenwvTImzSuRQRIh4POhCWBN7-e6XGj8N/pub",
+          "proposal_id": "vRbHYqcz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/npIo3yA0"
+        },
+        {
+          "title": "Reducing Garbage Collection Cost with Fibers in Ruby",
+          "short_description": "Ruby uses garbage collection (GC) to automatically reclaim memory that was allocated by a program, but no longer used. Consequently, users do not...",
+          "student_name": "Joyce Chen",
+          "code_url": "https://sites.google.com/view/joycechen-gsoc2023/home",
+          "proposal_id": "sFre3cf5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dl5PkU7O"
+        },
+        {
+          "title": "Hash Maps That Don\u2019t Hate You: A Proposal For Fast, Insertion-Ordered Hash Maps in Truffleruby",
+          "short_description": "The project this document proposes is that of implementing the hash map structure described in high level detail in the article Hash Maps That Don\u2019t...",
+          "student_name": "Mostafa-M-K",
+          "code_url": "https://github.com/oracle/truffleruby/pull/3172",
+          "proposal_id": "XP42UJVf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dxbIv9s3"
+        },
+        {
+          "title": "Scarpe",
+          "short_description": "Scarpe is a project designed to resurrect the shoes library using modern technology. This project aims to leverage an HTML/CSS/JS/RUBY stack to...",
+          "student_name": "Pavan Nambi",
+          "code_url": "https://gist.github.com/gintama91/d87b8e34815cea953b1a6f5c232aabc2",
+          "proposal_id": "g3KeZ3ib",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/k9ItClFX"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://bundler.slack.com",
+  "contact_email": "mailto:saroj@zoras.me",
+  "mailing_list": "https://github.com/rubygsoc/rubygsoc/wiki",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://rubygsoc.github.io/"
+}

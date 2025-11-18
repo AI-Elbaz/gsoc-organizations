@@ -1,0 +1,113 @@
+{
+  "name": "MacPorts",
+  "url": "https://www.macports.org/",
+  "image_url": "https://lh3.googleusercontent.com/Lymw2myNawPMZb74F5Pv2S5aN6nJq_tN5Dbvp6ygfnSPh336b1dmI7KyILWdxfihweAV6kn60bCZo0SkqILOIHSVuyZ_xJw",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "package manager",
+    "mac os x",
+    "macos",
+    "build tools",
+    "command line",
+    "operating systems",
+    "libraries",
+    "package management"
+  ],
+  "technologies": [
+    "make",
+    "git",
+    "tcl",
+    "html",
+    "javascript",
+    "vue.js",
+    "frontend",
+    "react.js",
+    "c",
+    "python",
+    "web",
+    "scripting",
+    "buildbot"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5223416953044992/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adding migrate action to port command",
+          "short_description": "A MacPorts installation is designed to work with a particular OS and a particular hardware architecture. After major system changes like an OS...",
+          "student_name": "umeshksingla",
+          "code_url": "https://github.com/macports/macports-base/commits/gsoc17-migrate?author=umeshksingla",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4647824360734720/"
+        },
+        {
+          "title": "Bot and CI for macports-ports",
+          "short_description": "Right now PRs have to be manually tested by commiters and some commiters aren't aware of new PRs at all.\nAlso certain information like whether the PR...",
+          "student_name": "l2dy",
+          "code_url": "https://github.com/l2dy/gsoc2017_mp#readme",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6525238720331776/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4867664006610944/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6180821432532992/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Web App (with API) to Collect PortIndex, Build History and Installation Statistics",
+          "short_description": "The website would have a dynamic page for each port which would display\n\nPort Information: Name, Description, Version, Maintainers (github and...",
+          "student_name": "Arjun Salyan-1",
+          "code_url": "https://arjunsalyan.github.io/gsoc19-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5286572331630592/"
+        },
+        {
+          "title": "Automating Packaging for Macports",
+          "short_description": "While creating a Portfile for MacPorts one has to manually write the file or depending on the upstream use tools such as pypi2port, cpan2port, etc....",
+          "student_name": "Karan Sheth",
+          "code_url": "https://gist.github.com/Korusuke/7b2ccf20533bc904b18ec5554d149730",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4785498831192064/"
+        },
+        {
+          "title": "Phase Out Xcode Dependency",
+          "short_description": "Currently, a full Xcode installation is needed to install MacPorts. In reality this is overkill,  as most of the packages on the MacPort do not need...",
+          "student_name": "Ahmad Satryaji Aulia",
+          "code_url": "https://docs.google.com/document/d/14gNpDf468xG7kVBDn0f0VjbZ5eb0miULOZhfD1ivNy0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4820962661367808/"
+        },
+        {
+          "title": "Macports Custom Views Plugin for Buildbot",
+          "short_description": "MacPorts currently uses a legacy version of Buildbot (0.8) as its continuous integration framework and hasn\u2019t upgraded due to certain drawbacks in...",
+          "student_name": "Rajdeep Bharati",
+          "code_url": "https://medium.com/@rajdeepbharati/macports-buildbot-gsoc-report-ad2c9abeaeb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6077517604061184/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4588406077652992/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Enhancing the Ports Webapp",
+          "short_description": "The main idea is to improve the web app which is still scratchy and make it a more mature software with exhaustive tests and features that are more...",
+          "student_name": "Arjun Salyan",
+          "code_url": "https://arjunsalyan.com/gsoc20-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5789962403840000/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.macports.org/contact.php#IRC",
+  "contact_email": "mailto:macports-dev@lists.macports.org",
+  "mailing_list": "https://www.macports.org/contact.php#Lists",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/macports",
+  "blog_url": "https://www.macports.org/news/"
+}

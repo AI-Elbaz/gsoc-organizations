@@ -1,0 +1,39 @@
+{
+  "name": "TLA+",
+  "url": "https://lamport.azurewebsites.net/tla/tla.html",
+  "image_url": "https://lh3.googleusercontent.com/Pc9QkyJIXikZm1XmX5tA4LUsw2AquRp4RRrLKK15YSrDFhV3LFrs4QUiMxFcFbk1-ZPsBR1pB-QbCMOXwKDFkG3tNNeIc20",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "algorithms",
+    "formal methods"
+  ],
+  "technologies": [
+    "java",
+    "ocaml",
+    "tla+",
+    "eclipse",
+    "smt"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6308187447754752/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "CONCURRENT ON-THE-FLY SCC-BASED LTL MODEL CHECKING",
+          "short_description": "Project aims at implementation and proof of concurrent on-the-fly SCC detection algorithm to aid in liveness checking of TLC model checker. The goal...",
+          "student_name": "Parv Mor",
+          "code_url": "https://github.com/parvmor/googlesummerofcode18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6275225452806144/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/forum/#!forum/tlaplus",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/tlaplus"
+}

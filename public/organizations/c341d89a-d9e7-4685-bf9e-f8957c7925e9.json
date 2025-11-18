@@ -1,0 +1,210 @@
+{
+  "name": "Kubeflow",
+  "url": "https://kubeflow.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kubeflow/uqphmd1y7opxpjim-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "machine learning",
+    "cloud",
+    "infrastructure",
+    "kubernetes",
+    "AI/ML",
+    "generative AI"
+  ],
+  "technologies": [
+    "python",
+    "tensorflow",
+    "kubernetes",
+    "jupyter notebook",
+    "kustomize",
+    "go",
+    "typescript",
+    "YAML"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5374310232883200/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Build a UI to Deploy Managed Tensorboard Instances with Support for PVCs",
+          "short_description": "Many Data Scientists have their data saved in a PersistentVolumeClaim accessed by their Notebooks. So it would be helpful and greatly improve...",
+          "student_name": "Kostas Andriopoulos",
+          "code_url": "https://github.com/kubeflow/kubeflow/blob/master/components/crud-web-apps/tensorboards/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6613367730470912/"
+        },
+        {
+          "title": "Create a sample for notebook to Kubeflow deployment using TensorFlow 2.0 Keras",
+          "short_description": "Kubernetes is already an industry-standard in managing cloud resources. Kubeflow is on its path to become an industry standard in managing machine...",
+          "student_name": "Yash Jakhotiya",
+          "code_url": "https://yashjakhotiya.github.io/blog/open-source/mlops/2020/08/23/gsoc-kubeflow.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6175219762331648/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/kubeflow/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Push-based Metrics Collection for Katib (Project 6)",
+          "short_description": "The project aims to provide a Python SDK API interface for users to push metrics to Katib DB directly. The current implementation of Metrics...",
+          "student_name": "Shao Wang",
+          "code_url": "https://github.com/kubeflow/katib/issues/2340",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Y24WA26D/"
+        },
+        {
+          "title": "Automated Documentation Generation for Kubeflow Python SDKs Project Proposal",
+          "short_description": "This proposal aims to automate the generation of comprehensive documentation for Kubeflow Python SDKs, specifically focusing on the Training Operator...",
+          "student_name": "SIVASUBRAMANIAM L",
+          "code_url": "https://github.com/kubeflow/katib/pull/2392",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YE04jBvV/"
+        },
+        {
+          "title": "(Project Proposal) Project 8: Support various parameter distributions like log-uniform in Katib",
+          "short_description": "The goal of this project is to enhance the Katib Experiment APIs to support various parameter distributions such as uniform, log-uniform, and...",
+          "student_name": "Shashank Mittal",
+          "code_url": "https://github.com/kubeflow/katib/issues/2374",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/V3mup6rZ/"
+        },
+        {
+          "title": "Integrate JAX with Kubeflow Training Operator",
+          "short_description": "The machine learning (ML) community is continually seeking ways to streamline the process of training and deploying models. JAX, with its...",
+          "student_name": "Sandipan Panda",
+          "code_url": "https://sandipanpanda.github.io/gsoc2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/c29HXzpc/"
+        },
+        {
+          "title": "Kubeflow Notebooks 2.0",
+          "short_description": "This proposal aims to introduce a new Kubernetes controller for Kubeflow Notebooks. The implementation of this project will significantly enhance the...",
+          "student_name": "Adem Baccara",
+          "code_url": "https://gist.github.com/Adembc/983d4cbc1d3899815b708e5a77fd8fde",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6cxU1OFn/"
+        },
+        {
+          "title": "LLM Hyperparameters Tuning API Proposal (Project 4)",
+          "short_description": "This proposal aims to address the challenge of tuning hyperparameters for Large Language Models (LLMs) by developing a user-friendly high-level API....",
+          "student_name": "Hezhi Xie",
+          "code_url": "https://github.com/kubeflow/katib/issues/2339",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/osQjg4Se/"
+        },
+        {
+          "title": "Triage and Categorize Kubeflow GitHub Issues & PRs",
+          "short_description": "The main goal of the project is to find a solution to categorize issues and PRs in the Kubeflow Github repository. There are a lot of issues and PRs...",
+          "student_name": "Hansini Karunarathne",
+          "code_url": "https://github.com/hansinikarunarathne/GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8xPdKdCd/"
+        },
+        {
+          "title": "Rootless Kubeflow Container Images(Istio Ambient Mesh)",
+          "short_description": "My proposal aims to test and integrate the featues of Istio-CNI and Kubernetes' Pod Security Standards that are require to run Kubeflow rootless as...",
+          "student_name": "Biswajit Pattnaik",
+          "code_url": "https://gist.github.com/biswajit-9776/3a28e3d73c1db51ee495574c60bf321d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FuHa3NYl/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/kubeflow",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Project 7: GPU Testing for LLM Blueprints",
+          "short_description": "This project aims to use self-hosted runners to run GPU-intensive tasks like LLM blueprint or (planned) AI Playground. The necessary infra is...",
+          "student_name": "Akash Jaiswal",
+          "code_url": null,
+          "proposal_id": "24VdSJ1G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fwZkvPr0"
+        },
+        {
+          "title": "Project 5: JupyterLab Plugin for Kubeflow",
+          "short_description": "This project addresses the issue of fragmented tools within the Kubeflow ecosystem, specifically Elyra, Kale, and Jupyter Scheduler, which...",
+          "student_name": "Amrit_Kumar",
+          "code_url": null,
+          "proposal_id": "8JS2QiBt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vtdQwx7U"
+        },
+        {
+          "title": "Project3:  Istio CNI and Ambient Mesh for Secure Kubeflow Deployments",
+          "short_description": "This project aims to enhance Kubeflow's security posture by implementing Istio CNI by default and providing an optional Ambient Mesh configuration....",
+          "student_name": "Ayush Gupta (Madmecodes)",
+          "code_url": null,
+          "proposal_id": "6yn5QybT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WAHCCi8V"
+        },
+        {
+          "title": "Batch Processing Gateway Integration",
+          "short_description": "Jupyter Notebooks provide a powerful, interactive environment widely used by data scientists and ML engineers for exploratory analysis,...",
+          "student_name": "Fellipe Resende",
+          "code_url": null,
+          "proposal_id": "dk4027eG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zRPtxGBI"
+        },
+        {
+          "title": "Project 2: Kserve Models Web App",
+          "short_description": "The KServe Models Web App is a crucial front-end interface for managing ML models deployed through KServe, a core component of Kubeflow. However, the...",
+          "student_name": "Harshit Nayan",
+          "code_url": null,
+          "proposal_id": "dvpTePex",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/K9iend9b"
+        },
+        {
+          "title": "Project 1: Kubeflow Platform Enhancements",
+          "short_description": "This project aims to enhance Kubeflow\u2019s infrastructure by productionizing the SeaweedFS proof of concept as a secure alternative to MinIO, improving...",
+          "student_name": "Harshvir Potpose",
+          "code_url": null,
+          "proposal_id": "8qchamo9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PWDq4Zvt"
+        },
+        {
+          "title": "Deploying Kubeflow with Helm",
+          "short_description": "The proposed project aims to bridge a critical gap in the Kubeflow ecosystem by introducing robust Helm-based deployment support. While Kustomize has...",
+          "student_name": "Kunal Dugar",
+          "code_url": null,
+          "proposal_id": "lrYgtUyJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/azZltU0y"
+        },
+        {
+          "title": "Project 8: Support JAX and TensorFlow Training Runtimes",
+          "short_description": "This project implements key components of KEP-2170, introducing the Kubeflow Training V2 API. Specifically, it focuses on creating the...",
+          "student_name": "Mahdi Khashan",
+          "code_url": null,
+          "proposal_id": "O4l8vxal",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/50KbkoaM"
+        },
+        {
+          "title": "Project 12: Empowering Kubeflow Documentation with LLMs",
+          "short_description": "refer notion site for better view :...",
+          "student_name": "Santhosh Toorpu",
+          "code_url": null,
+          "proposal_id": "6qXw7H1a",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/a9JPxfEh"
+        },
+        {
+          "title": "Project 10: Support Volcano Scheduler in Kubeflow Trainer",
+          "short_description": "This document outlines a proposal to support Volcano for gang-scheduling in Kubeflow Trainer, so as to provide users with more AI-specific scheduling...",
+          "student_name": "Xinmin Du",
+          "code_url": null,
+          "proposal_id": "BhjjvwI0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZWbY1Rfj"
+        },
+        {
+          "title": "Project 11: Support Postgres for Kubeflow Pipelines Backend",
+          "short_description": "Kubeflow Pipelines (KFP) currently only supports MySQL/MariaDB databases, creating a significant limitation for many organizations that standardize...",
+          "student_name": "Yunkai Li",
+          "code_url": null,
+          "proposal_id": "kxMOoOaO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fw66akzN"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://cloud-native.slack.com/archives/C0742LBR5BM",
+  "contact_email": "mailto:https://groups.google.com/g/kubeflow-discuss",
+  "mailing_list": "https://www.kubeflow.org/docs/about/gsoc/",
+  "ideas_url": "https://www.kubeflow.org/events/gsoc-2025/",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/kubeflow",
+  "blog_url": "https://medium.com/kubeflow"
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Continuous Delivery Foundation",
+  "url": "https://cd.foundation/projects/",
+  "image_url": "https://lh3.googleusercontent.com/LIm70oXZmOAwSUXnJnrFu6kj-uICMl6w_uM6scdnz2QXD8DREGO1wML3-5bCcKYOHHhPf7UmAmXWyw002rJhneQP5tkP5Au3u4Fa4txdw7Re",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "cloud",
+    "continuous integration",
+    "continuous delivery",
+    "devops",
+    "developer tools",
+    "great developer tooling"
+  ],
+  "technologies": [
+    "tekton",
+    "spinnaker",
+    "ci/cd",
+    "screwdriver",
+    "jenkins",
+    "ortelius",
+    "screwdriver.cd"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6695549513760768/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "\"Continuous Delivery, Continuous Deployments with Spinnaker\" By Moki Daniel, 2020",
+          "short_description": "Spinnacker being an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence, I would...",
+          "student_name": "Moki Daniel",
+          "code_url": "https://github.com/spinnaker/deck/pull/8525/files",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4578914636136448/"
+        },
+        {
+          "title": "Improve SCM Integration",
+          "short_description": "Screwdriver is a set of services facilitating flawless workflow implementations for continuous delivery pipelines. It provides integrations to...",
+          "student_name": "Supratik Das",
+          "code_url": "https://gist.github.com/supra08/5983fc6e739912fdba7ced956aa024b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4669627835088896/"
+        },
+        {
+          "title": "Drone CI type for Spinnaker pipeline stage",
+          "short_description": "Add Drone build type as a Spinnaker pipeline stage type. Currently the two main CI options are Google Cloud Build and Jenkins, consequently users...",
+          "student_name": "Victor Odusanya",
+          "code_url": "https://github.com/Odusanya18/droneci-spinnaker-stage",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4813067126308864/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5349298455183360/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Git credentials binding for sh, bat, and powershell",
+          "short_description": "This project idea proposes to implement two new credential bindings i.e. gitSshPrivateKey and gitUsernamePassword, that will contribute files and...",
+          "student_name": "Harshit Chopra",
+          "code_url": "https://www.jenkins.io/blog/2021/08/19/git-credentials-binding-work-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6331979657641984/"
+        },
+        {
+          "title": "Security Validator for Jenkins Kubernetes Operator",
+          "short_description": "Some of the plugins have security warnings that are not properly presented to the end-users. This may result in introducing security risk in existing...",
+          "student_name": "Pulkit Sharma",
+          "code_url": "https://gist.github.com/sharmapulkit04/4e2a5a058f878825b0dcde1939b8125d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6386280392294400/"
+        },
+        {
+          "title": "try.spinnaker.io",
+          "short_description": "One of the best ways to learn Spinnaker is to use Spinnaker. This project is focused on generating (and destroying) temporary sandbox environments...",
+          "student_name": "Daniel Ko",
+          "code_url": "https://spinnaker.io/docs/community/gsoc/projects/2021/try-spinnaker-io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6226534452428800/"
+        },
+        {
+          "title": "CloudEvents Plugin for Jenkins: Consume and Emit CloudEvents",
+          "short_description": "Enhance interoperability in the current Jenkins architecture by designing a plugin for Jenkins which emits and consumes CloudEvents. CloudEvents is...",
+          "student_name": "Shruti Chaturvedi",
+          "code_url": "https://github.com/jenkinsci/cloudevents-plugin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6547681874280448/"
+        },
+        {
+          "title": "Jenkins Remoting Monitoring",
+          "short_description": "In Jenkins, we have a Remoting module, which implements a communication layer in the Jenkins automation server. It\u2019s being primarily used for...",
+          "student_name": "Akihiro Kiuchi",
+          "code_url": "https://www.jenkins.io/projects/gsoc/2021/projects/remoting-monitoring/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5837471820021760/"
+        },
+        {
+          "title": "Conventional Commits Plugin for Jenkins",
+          "short_description": "The main idea behind the project is to build a plugin to automatically determine the next semantic version for a repository using the Conventional...",
+          "student_name": "Aditya Srivastava",
+          "code_url": "https://github.com/jenkinsci/conventional-commits-plugin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5151236776525824/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://bit.ly/3bfxmFW",
+  "contact_email": "mailto:info@cd.foundation",
+  "mailing_list": "https://lists.cd.foundation/g/main",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/CDeliveryFdn",
+  "blog_url": "https://cd.foundation/news/blog/"
+}

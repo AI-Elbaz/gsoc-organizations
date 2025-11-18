@@ -1,0 +1,49 @@
+{
+  "name": "MZmine and MS-DIAL",
+  "url": "https://mzmine-ms-dial-gsoc.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mzmine-and-ms-dial/pdqwksmlm0rn7hwq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "data science",
+    "graphics",
+    "cheminformatics",
+    "mass spectrometry",
+    "feature detection"
+  ],
+  "technologies": [
+    "java",
+    "c#",
+    "javafx"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mzmine-and-ms-dial",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implementing MS-FINDER Functions to MS-DIAL",
+          "short_description": "MS-DIAL is a data analysis tool for metabolomics and lipidomics that supports data processing from import of mass spectrometry raw data to...",
+          "student_name": "Kanako Hirata",
+          "code_url": "https://github.com/MZmine-MS-DIAL-GSoC/gsoc2023_kanako",
+          "proposal_id": "sNdPkNo8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/A7tRhdjB"
+        },
+        {
+          "title": "Million scale nearest neighbor search for mass spectra using different spectral representations",
+          "short_description": "In this project, we will aim to develop algorithms that can effectively and efficiently search large-scale mass spectral databases to improve further...",
+          "student_name": "Miguel Robles",
+          "code_url": "https://github.com/mzmine/vector_db.git",
+          "proposal_id": "hhP6xEAE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eDGt4qsb"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:mzmine.msdial.gsoc@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/msdial_project"
+}

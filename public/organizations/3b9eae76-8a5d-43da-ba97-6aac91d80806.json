@@ -1,0 +1,112 @@
+{
+  "name": "Open Climate Fix",
+  "url": "https://www.openclimatefix.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-climate-fix/k4retnlmzqbkc6bn-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "Forecasting",
+    "Climate",
+    "renewables"
+  ],
+  "technologies": [
+    "python",
+    "pytorch"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-climate-fix/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "FengWu-GHR Implementation",
+          "short_description": "I will implement FengWu-GHR model into OpenClimateFix graph_weather repository. This model is the first to be able to predict weather at the 0.09\u00b0...",
+          "student_name": "Lorenzo Breschi",
+          "code_url": "https://gist.github.com/rnwzd/94a3d13d244ec85d90630ee52f62c78b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZKa8235W/"
+        },
+        {
+          "title": "GenCast Implementation",
+          "short_description": "I propose to contribute to the OpenClimateFix organization by implementing the GenCast model (https://arxiv.org/abs/2312.15796), with a focus on...",
+          "student_name": "Giuseppe Bruno",
+          "code_url": "https://github.com/openclimatefix/graph_weather/tree/main/graph_weather/models/gencast",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Q0k3mmLI/"
+        },
+        {
+          "title": "Add other model architectures to Open Quartz Solar",
+          "short_description": "The Open Quartz Solar project is a PV forecasting model that leverages open data to generate forecasts for any location on Earth. Currently, the...",
+          "student_name": "Rosheen Naeem",
+          "code_url": "https://gist.github.com/roshnaeem/f3f66bc7e76a4eff79b07568b99819f4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/oBSgCjM7/"
+        },
+        {
+          "title": "Connect Solar panel inverter (Enphase) to Open Quartz",
+          "short_description": "The existing Open Source Quartz Solar Forecast lacks live data integration from Enphase Inverters, hindering its accuracy and utility for Enphase...",
+          "student_name": "Aryan Bhosale",
+          "code_url": "https://gist.github.com/aryanbhosale/0b5fb460c6bf95fb859442de51729854",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/411AklNM/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-climate-fix",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Efficient Cloud-Based Data Streaming for ML: Implementing Ice Chunk + Zarr 3 for PVNet Training",
+          "short_description": "This proposal describes a thorough implementation strategy for streamlining Zarr data straight from cloud storage using Ice Chunk and Zarr 3...",
+          "student_name": "Dakshbir",
+          "code_url": null,
+          "proposal_id": "qi2sQGbf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Q8cKVlvw"
+        },
+        {
+          "title": "Adjuster This! TabPFN for Solar Forecast Error Adjustment",
+          "short_description": "Open Climate Fix\u2019s Quartz Solar forecasting model uses a simple rule-based \"adjuster\" that averages recent forecast errors to correct incoming solar...",
+          "student_name": "Gupta, Anshul",
+          "code_url": null,
+          "proposal_id": "4vR3Ne1K",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/T6DDfINT"
+        },
+        {
+          "title": "Open Data PVNet",
+          "short_description": "Open Data PVNet aims to democratize solar energy forecasting by extending the PVNet framework to work entirely with publicly available weather...",
+          "student_name": "Siddharth899",
+          "code_url": null,
+          "proposal_id": "jLlmazUE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5GJMolBG"
+        },
+        {
+          "title": "Cloudcasting UI",
+          "short_description": "Open Climate Fix recent Cloudcasting model is able to predict clouds movements very accurately but for end user it\u2019s hard to see or visualize the...",
+          "student_name": "Suvan Banerjee",
+          "code_url": null,
+          "proposal_id": "ACzf9zDm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GXFLZMmW"
+        },
+        {
+          "title": "Improving Probabilistic Solar Forecasts",
+          "short_description": "This project aims to improve probabilistic solar forecasting by replacing traditional quantile regression with a more expressive Gaussian Mixture...",
+          "student_name": "Tara Murphy",
+          "code_url": null,
+          "proposal_id": "DN2ynSGd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tH7yq93f"
+        },
+        {
+          "title": "Quartz Solar - New data source in ML model",
+          "short_description": "This project aims to enhance PVNet, a multi-modal deep learning model for solar energy forecasting, by integrating aerosol data as an additional...",
+          "student_name": "zaryab ali",
+          "code_url": null,
+          "proposal_id": "knflRCYu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NrZHhgA3"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:emily@openclimatfix.org",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/1nh6pdIjCTSLWwgFhgIV1gpG8CbIqGyoCFDHOfWmKdwA/edit?usp=sharing",
+  "guide_url": "https://docs.google.com/document/d/19vU8JAhr2ekvtKrZNC067seerZxMHNGrvS9nBrXBP24/edit?usp=sharing",
+  "twitter_url": "https://twitter.com/OpenClimateFix"
+}

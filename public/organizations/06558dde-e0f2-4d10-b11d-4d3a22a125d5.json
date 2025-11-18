@@ -1,0 +1,560 @@
+{
+  "name": "LibreOffice",
+  "url": "https://www.libreoffice.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/libreoffice/3g60m1gvsyzwzvvk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "cloud",
+    "office suite",
+    "big project",
+    "desktop application",
+    "end user applications",
+    "android",
+    "end user application",
+    "end-user application"
+  ],
+  "technologies": [
+    "python",
+    "android",
+    "java",
+    "opengl",
+    "c++"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6301550246887424/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improve user experience with Table Styles",
+          "short_description": "The project aims to make Table Styles more user friendly and useful by increasing their support and improving workflow and accessibility. In the...",
+          "student_name": "ubap",
+          "code_url": "https://gist.github.com/ubap/55d22ef9b2e00347a2dc58ca4cb8b0ea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6679308995133440/"
+        },
+        {
+          "title": "Implementing legacy SAX  parser Interface with FastParser",
+          "short_description": "The idea is to implement XParser(legacy) and related APIs using XFastParser , and push the tokenization incrementally through to ODF import filters...",
+          "student_name": "Azorpid",
+          "code_url": "https://lists.freedesktop.org/archives/libreoffice/2016-August/075031.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5661108882898944/"
+        },
+        {
+          "title": "Infrastructure for defining toolbars via .ui (Glade) files",
+          "short_description": "The goal of this task is to create a new toolbar implementation that allows dynamic layout of widgets, and potentially tabbed toolbars too. Using...",
+          "student_name": "eszka",
+          "code_url": "http://eszkadev.blogspot.com/2016/08/gsoc-2016-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5625220941479936/"
+        },
+        {
+          "title": "Finish Firebird driver integration",
+          "short_description": "Firebird database integration,\nupgrade to Firebird 3.0",
+          "student_name": "Wastack",
+          "code_url": "https://lists.freedesktop.org/archives/libreoffice/2016-August/075015.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6236078839169024/"
+        },
+        {
+          "title": "Implement Zoner Draw import filter",
+          "short_description": "Zoner Draw is a good and easy to use vector graphics editor. Its development stopped several years ago and the last version (5) was released free of...",
+          "student_name": "AlexP11223",
+          "code_url": "https://lists.freedesktop.org/archives/libreoffice/2016-August/075000.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4529893417156608/"
+        },
+        {
+          "title": "Redesigning the Template Manager and Emoji Toolbar Control",
+          "short_description": "First Project (Redesigning the Template Manager): The current Template Manager of LibreOffice has some bugs and needs better implementation. This...",
+          "student_name": "Akshay Deep",
+          "code_url": "https://akkidevblog.wordpress.com/2016/08/21/gsoc-with-libreoffice-work-product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4916035404693504/"
+        },
+        {
+          "title": "Support ODF styles in Calc using Orcus",
+          "short_description": "Orcus is an external filter library. The project is to implement missing code for style and conditional format and corresponding interface in...",
+          "student_name": "Jaskaran Veer Singh",
+          "code_url": "https://jaskaranvs.wordpress.com/2016/08/20/gsoc-project-submission-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4921533499703296/"
+        },
+        {
+          "title": "Unifying low-level text layout using HarfBuzz",
+          "short_description": "To unify low level text layout in LibreOffice using HarfBuzz. The new layout class should be able to generate correct and similar glyph indices and...",
+          "student_name": "autoit",
+          "code_url": "https://somefoobar.wordpress.com/2016/08/24/gsoc-project-comes-to-an-end/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5960968467120128/"
+        },
+        {
+          "title": "Review of Sidebar and it's functionality",
+          "short_description": "The LibreOffice Sidebar has seen a lot of vital upgrades recently. Many sidebar functionalities were added and enhanced by Rishabh Kumar in GSoC...",
+          "student_name": "susobhang70",
+          "code_url": "https://susobhang70.github.io/gsoc-report/libreoffice-gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6280374179069952/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5507893709242368/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Solving Most Annoying Bugs for LibreOffice Android Viewer",
+          "short_description": "The proposed work will focus on Android Viewer\u2019s most annoying bugs listed on Bugzilla. I grouped them into bugs, feature requests, and my own ideas....",
+          "student_name": "Ximeng Zu",
+          "code_url": "https://gist.github.com/uznomis/da8e5e893e469f38406d2101577b4492",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6733490812878848/"
+        },
+        {
+          "title": "Improve SmartArt import in LibreOffice",
+          "short_description": "SmartArt is a format of storing diagrams in Office Open XML files that was introduced in MS Office 2007.\nIt allows to separate data from a way of...",
+          "student_name": "Grzegorz Araminowicz",
+          "code_url": "https://lists.freedesktop.org/archives/libreoffice/2017-August/078396.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5394597169594368/"
+        },
+        {
+          "title": "Revamp the Customization Dialog",
+          "short_description": "The Tools &gt; Customization dialog lacks today on supporting means. For instance, it is not possible to search for a particular function. It also...",
+          "student_name": "Muhammet Kara",
+          "code_url": "https://gist.github.com/mrkara/a65fc6a92fc94fc9595b57131d79b743",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5027011722477568/"
+        },
+        {
+          "title": "Migrating from legacy Parser to FastParser",
+          "short_description": "Most part of the ODF import uses legacy parser. FastParser is threaded, token based and faster than legacy parser. We aim to migrate almost...",
+          "student_name": "Azorpid",
+          "code_url": "https://lists.freedesktop.org/archives/libreoffice/2017-August/078392.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5055363472687104/"
+        },
+        {
+          "title": "LibreOffice Online",
+          "short_description": "Make important features known in LibreOffice(desktop version) and other leading office suites, available in LibreOffice online.",
+          "student_name": "Aditya Dewan",
+          "code_url": "https://medium.com/@adityadewan/summer-of-code-with-libreoffice-6a657f24825b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5605954791931904/"
+        },
+        {
+          "title": "Improve LibreOffice for Android",
+          "short_description": "This project aims to work behind the scenes to improve the LibreOffice Android build system by switching from deprecated NDK GCC toolchain to a...",
+          "student_name": "Gautam Prajapati",
+          "code_url": "https://medium.com/@gautamprajapati/gsoc-final-submission-report-libreoffice-for-android-5623d011df41",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6252965845270528/"
+        },
+        {
+          "title": "Replace EditEngine binary clipboard with ODF filter",
+          "short_description": "EditEngine still uses a legacy StarOffice format with SfxItemPool binary serialization for copy/paste operations. This is a maintainability problem...",
+          "student_name": "Varun Dhall",
+          "code_url": "https://github.com/varundhall/Google-Summer-of-Code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4859593897279488/"
+        },
+        {
+          "title": "Implement QuarkXPress import filter",
+          "short_description": "QuarkXPress is a desktop publishing application that was very popular in the 90s and early 2000, so there are lots of existing documents created in...",
+          "student_name": "Aleksas Pantechovskis",
+          "code_url": "https://alexp11223.github.io/qxp/gsoc-results",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5756673784283136/"
+        },
+        {
+          "title": "Usability of Special Characters",
+          "short_description": "Special Characters are an integral part of LibreOffice. Its usability should be improved by providing new methods of interaction from the end-user...",
+          "student_name": "Akshay Deep",
+          "code_url": "https://akkidevblog.wordpress.com/2017/08/21/gsoc-2017-work-product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6007196944957440/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6489903890169856/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Add Support for Python in LOEclipse Plugin",
+          "short_description": "Existing LOEclipse plugin allows users to develop extensions for LibreOffice using Java. This project will allow us to extend this support to include...",
+          "student_name": "Shobhan Mandal",
+          "code_url": "https://github.com/LibreOffice/loeclipse/pull/68",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5662005255995392/"
+        },
+        {
+          "title": "Adding a DSL to the UI testing and improving the generated log file",
+          "short_description": "The UI testing is one of the newest additions to LibreOffice's testing frameworks. The code consists of wrapper classes written in C++ and tests...",
+          "student_name": "Saurav Chirania",
+          "code_url": "https://chiranias.blogspot.com/2018/08/gsoc-final-report-ui-logger.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5503833354534912/"
+        },
+        {
+          "title": "Improvements to Notebookbar",
+          "short_description": "The proposed work will focus on to improve the current implementation of notebookbars. The emphasis will be on making the notebookbars bugs free and...",
+          "student_name": "Kshitij Pathania",
+          "code_url": "https://gerrit.libreoffice.org/#/q/owner:kshitijpathania%2540gmail.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5510761002565632/"
+        },
+        {
+          "title": "Listbox separate read values from input values",
+          "short_description": "Listboxes are a very useful component when entering data on forms in databases. The proposal primarily concerns providing the user the ability to...",
+          "student_name": "Hrishabh Rajput",
+          "code_url": "https://gist.github.com/hrishabh23/dee3d259ae129da2161e3941fb4aae35",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5284877666615296/"
+        },
+        {
+          "title": "Revamp Print Dialog",
+          "short_description": "The idea is make Print Dialog clean, simple and straightforward for the user.\nPrint Dialog content will only feature essential printing options. All...",
+          "student_name": "Daniel Silva",
+          "code_url": "https://gist.github.com/danielfaleiro/992aa39557f8475b8f4daa3af4bb3052",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5565537606172672/"
+        },
+        {
+          "title": "Implement interface for external data source import into Calc",
+          "short_description": "The idea now is to take all the different ways that we have to import external data (CSV and HTML) and combine them in one common feature. To make...",
+          "student_name": "Vikas Mahato",
+          "code_url": "https://gettingstartedwithlibreoffice.blogspot.com/2018/08/gsoc-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4587641735479296/"
+        },
+        {
+          "title": "LibreOffice Android Viewer",
+          "short_description": "Currently, there are many features of the android viewer are either not implemented or not working properly. For instance theres no option for...",
+          "student_name": "Muammer Mert T\u00fcmer",
+          "code_url": "https://gerrit.libreoffice.org/#/q/mert",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4922437388992512/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6381024487931904/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improvement to Notebookbar",
+          "short_description": "The aim of the project is to improve the current implementation of notebookbar. The task is majorly divided into two parts creating the basic...",
+          "student_name": "Sumit Chauhan",
+          "code_url": "https://sumitcn.github.io/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6585513719365632/"
+        },
+        {
+          "title": "Implement Chart Styles",
+          "short_description": "Currently, LibreOffice does not support styles for charts that can help to quickly insert formatted charts following a certain theme throughout the...",
+          "student_name": "Gagandeep Singh",
+          "code_url": "https://medium.com/@deepgagan231197/gsoc-2019-with-libreoffice-implement-chart-styles-10b44e1278b9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5406386014388224/"
+        },
+        {
+          "title": "LibreOffice for Android(Online)",
+          "short_description": "This project aims at improving the LibreOffice's Online implementation over Android by adding new features to the document viewer, fixing the most...",
+          "student_name": "Kaishu Sahu",
+          "code_url": "https://gist.github.com/Kaishu-Sahu/aa4fa27dd181b8751952ad8f99370c4a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4594875901673472/"
+        },
+        {
+          "title": "Improve the UI testing DSL and the log files for UI actions",
+          "short_description": "The UI testing in LibreOffice is based on introspection code in c++ interacting with a testing framework in python through a simple UNO interface. To...",
+          "student_name": "Ahmed Elshreif",
+          "code_url": "https://ahmedelshreif.blogspot.com/2019/08/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4762543371845632/"
+        },
+        {
+          "title": "LibreOffice Appliances",
+          "short_description": "Free digital signage and presentation screen solution with LibreOffice and cheap single-board computers.",
+          "student_name": "Rasmus Jonsson",
+          "code_url": "https://rptr.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5982046940299264/"
+        },
+        {
+          "title": "Generating QR Code in LibreOffice",
+          "short_description": "The project idea aimed at integrating QR code generating library at LibreOffice and add options to use the generated QR code in LibreOffice...",
+          "student_name": "Shubham Goyal",
+          "code_url": "https://22shubh22.github.io/2019/08/21/libreoffice-gsoc-2019-qrcode-generator.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5211701606088704/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6094595844210688/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Additions - Tight integration of extensions!",
+          "short_description": "The idea of additions is to better integrate extensions. On various places it should be possible to get more content from external storage. It is an...",
+          "student_name": "Yusuf Keten",
+          "code_url": "https://yusufketen.com/post/2020-08-31-libreoffice-gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6582763672567808/"
+        },
+        {
+          "title": "Move the gallery code to use ZIP files",
+          "short_description": "The objective of the project is to move the existing gallery code to use ZIP files. Currently, the gallery code is cumbersome and custom binary...",
+          "student_name": "Aditya Sahu",
+          "code_url": "https://gist.github.com/aditya-sahu/b36dfe02c4f58b869bde18d47030a04a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5703374655193088/"
+        },
+        {
+          "title": "Blurry Shadows",
+          "short_description": "In LibreOffice the shadows are just a copy of the object.\nCurrently, users can enable the shadow for the object, change its color, its angle,...",
+          "student_name": "Ahmad Ganzouri",
+          "code_url": "https://ahmadganzouri.blogspot.com/2020/08/gsoc-2020-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5403655865368576/"
+        },
+        {
+          "title": "Add Impress shape animations that use a real physics engine",
+          "short_description": "Even though Impress has plenty of shape animation effects present, these effects lack the modernity expected today. Adding cool animation effects to...",
+          "student_name": "Sarper Akdemir",
+          "code_url": "https://quwex.com/gsoc20-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6031463448838144/"
+        },
+        {
+          "title": "Styles Inspector",
+          "short_description": "Currently there is no way to analyse all the applied styles to the document at one place. The project is mainly focused on designing and implementing...",
+          "student_name": "Shivam Kumar Singh",
+          "code_url": "https://shivam-51.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5946366959812608/"
+        },
+        {
+          "title": "Extending the UITest framework",
+          "short_description": "The UI testing in LibreOffice is based on introspection code in c++ interacting with a testing framework in python through a simple UNO interface. To...",
+          "student_name": "Ahmed ElShreif",
+          "code_url": "https://ahmedelshreifgsoc20.blogspot.com/2020/08/gsoc20-final-report-project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5955350588555264/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4920197969870848/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "100 Paper Cuts",
+          "short_description": "100 Paper Cuts aims for improving user interface, implementing enhancement requests and solving most-annoying issues on the UX side of LibreOffice.",
+          "student_name": "Bayram \u00c7i\u00e7ek",
+          "code_url": "https://bayramcicek.com.tr/libreoffice-dev/2021/08/23/final-report-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6396163648913408/"
+        },
+        {
+          "title": "Implementing table styles DOCX support",
+          "short_description": "This project aims to take a step towards a solution, which could make LibreOffice able to handle proper table styles. \nImplementing table styles in...",
+          "student_name": "Bal\u00e1zs S\u00e1ntha",
+          "code_url": "https://wiki.documentfoundation.org/User:Santhab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5656529142808576/"
+        },
+        {
+          "title": "Bringing the context to the translators by a magic gate .",
+          "short_description": "make a User Interface that presents some context of the word in form of a dialog or a video that includes the word or the whole sentence ,that will...",
+          "student_name": "sary nasser",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vS-RliG5cHdmyu16X6zk6ir0B7Qe1kvmxkDPYYg5r3L-lUTxfUwMU8j2R2YmaB0WJ_uUL25fQf_nawY/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5755999545196544/"
+        },
+        {
+          "title": "Sidebar Task",
+          "short_description": "This proposal is to revamp the current Styles deck sidebar for the original Styles Highlighter project",
+          "student_name": "Anshu Khare",
+          "code_url": "https://gerrit.libreoffice.org/q/anshu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5461563934244864/"
+        },
+        {
+          "title": "Make SVM format independent of the VCL Metafile + test of the format",
+          "short_description": "This project requires the completion of the tests regarding SVM and then the separation of the read, write functionality of MetaActions to new...",
+          "student_name": "Panos Korovesis",
+          "code_url": "https://panoskorovesis.github.io/posts/second-post-gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6205296443129856/"
+        },
+        {
+          "title": "Implement Interface for external data source import into Calc",
+          "short_description": "Currently back end of data provider is implemented and it supports csv,html,xml and base data provider. Many transformations are also available so...",
+          "student_name": "Tushar Kumar Rai",
+          "code_url": "https://libreoffice-dataproviders.blogspot.com/2021/08/data-providers.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4735149572358144/"
+        },
+        {
+          "title": "Tests for the VCL graphics backend",
+          "short_description": "The idea behind this task generally revolves around the fact that the smooth and bug-free nature of the graphics rendering of LibreOffice should be...",
+          "student_name": "Akshit Kushwaha",
+          "code_url": "https://theproglevblog.blogspot.com/2021/08/google-summer-of-code-2021-project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5193049591775232/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/libreoffice/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Extend Z compressed graphic format support",
+          "short_description": "Currently, there is uncompression support for .svgz format, which is a Z compressed .svg file. The goal of this project is to extend support for Z...",
+          "student_name": "Oplopoios Paris",
+          "code_url": "https://offtkp.github.io/GSoC22FE/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9YaaPO77/"
+        },
+        {
+          "title": "VBA Macros - Tests and missing APIs",
+          "short_description": "My proposal is to research and make new tests for writer (as calc seems to already have lots of tests) as well as identify and implement some missing...",
+          "student_name": "Hannah Meeks",
+          "code_url": "https://gist.github.com/hmeeks-dot/0a04bd685d4d18f755b727e231b27b96",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wMvv2tnI/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/libreoffice",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improving OpenPGP encryption experience in LibreOffice",
+          "short_description": "The project aims to enhance the experimental PGP/GPG encryption support in LibreOffice by addressing several shortcomings, such as the need to select...",
+          "student_name": "Ahmed Gamal Eltokhy",
+          "code_url": "https://tokiesan.github.io/blogposts/gsoc/final_report.html",
+          "proposal_id": "X5hMUkyb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kT3Vc8Im"
+        },
+        {
+          "title": "Proposal for selecting tests to run on gerrit patches based on machine learning",
+          "short_description": "LibreOffice is a large and complex office software and has an extensive CI system to ensure that new patches do not introduce bugs. A lot of unit...",
+          "student_name": "Baole Fang",
+          "code_url": "https://github.com/baolef/libreoffice-ci",
+          "proposal_id": "pWzyUebe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TRuGywNg"
+        },
+        {
+          "title": "Search Field in Options",
+          "short_description": "This enhancement aims to provide a search functionality for \"Tools > Options\". LibreOffice is a complex application with a large and growing number...",
+          "student_name": "Bayram \u00c7i\u00e7ek",
+          "code_url": "https://bayramcicek.github.io/libreoffice-dev/2023/08/26/final-report-2023-gsoc.html",
+          "proposal_id": "PcVsan6m",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IKtSHIH1"
+        },
+        {
+          "title": "Convert Writer's Java UNO API Tests to C++",
+          "short_description": "The objective of this project is to convert Writer\u2019s Java UNO API tests to C++. Unit testing is a software testing method by which individual units...",
+          "student_name": "Dipam Turkar",
+          "code_url": "https://gerrit.libreoffice.org/q/anfanite396+tests+-status:abandoned",
+          "proposal_id": "QBLttE0T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/co1Noz8V"
+        },
+        {
+          "title": "Adding APNG import/export support",
+          "short_description": "APNG (Animated PNG) is an animated format backwards compatible with PNG. It is supported by all the major browsers and has benefits over GIF such as...",
+          "student_name": "Oplopoios Paris",
+          "code_url": "https://offtkp.github.io/GSoC23FE/",
+          "proposal_id": "UkHJ9DOb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/VVKVeknp"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/libreoffice/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Comments in Sidebar",
+          "short_description": "The goal of this project is to enhance the LibreOffice Writer by implementing a comments sidebar feature. Currently, comments are displayed at...",
+          "student_name": "Mohit Marathe",
+          "code_url": "https://github.com/mohit-marathe/libreoffice-gsoc-2024-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Hht1NBGx/"
+        },
+        {
+          "title": "Adding native support for histogram chart and its variations",
+          "short_description": "This proposal aims to address the lack of support for histogram charts and other advanced chart types introduced in Microsoft Office 2016 within...",
+          "student_name": "Devansh Varshney",
+          "code_url": "https://devanshvarshney.com/libreoffice-google-summer-of-code-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hGYE3dQZ/"
+        },
+        {
+          "title": "Libreoffice Theme",
+          "short_description": "Libreoffice uses its own GUI Library VCL, which interfaces with various backends like GTK, QT, Windows UI, and macOS X UI. VCL gets colors for the UI...",
+          "student_name": "Sahil Gautam",
+          "code_url": "https://gerrit.libreoffice.org/c/core/+/168016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/M5PxrB9V/"
+        },
+        {
+          "title": "More and Better Tests a GSOC Project Proposal",
+          "short_description": "This project aims to create more and better tests for the LibreOffice code base. Better tests will be produced by porting over older JUnit(written in...",
+          "student_name": "Adam Seskunas",
+          "code_url": "https://gist.github.com/a-seskunas/f0b624dd75a54bc7dee658123acc6b23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/pUU5JIpy/"
+        },
+        {
+          "title": "Cross Platform .NET Bindings for UNO API",
+          "short_description": "The UNO API allows developers to write code that works with LibreOffice, allowing programmatic control over the entire suite. This provides a robust...",
+          "student_name": "Ritobroto Mukherjee",
+          "code_url": "https://gist.github.com/RMZeroFour/80e5115ddd59030a0ec808abc396e839",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rjuhQUsS/"
+        },
+        {
+          "title": "LUA UNO Language Binding in Libreoffice (GSoC 2024)",
+          "short_description": "Universal Network Objects (UNO) serves as the component model within LibreOffice. It enables users to interact with UNO components through various...",
+          "student_name": "Venetia Furtado",
+          "code_url": "https://gist.github.com/VenetiaFurtado/08c232bfa39cacda134bb0a978bb7398",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zjjSxW4x/"
+        },
+        {
+          "title": "Improvements to the Functions Deck & Functions Wizard in LibreOffice Calc",
+          "short_description": "LibreOffice Calc has a nice functions deck on the sidebar allowing to pick one of the many functions, and this functions panel has some room for...",
+          "student_name": "Ahmed Hamed Gaber",
+          "code_url": "https://ahmedhamed3699.github.io/posts/gsoc/libreoffice/final-report-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3kVxg6wp/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/libreoffice",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Implement Report Builder in C++",
+          "short_description": "The Report Builder is located in LibreOffice Base, its function is to produce a report in the form of a LibreOffice Writer document from a...",
+          "student_name": "Adam Seskunas",
+          "code_url": null,
+          "proposal_id": "7B6SoP0e",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VoGM95aI"
+        },
+        {
+          "title": "BASIC IDE code auto-completion in LibreOffice",
+          "short_description": "The LibreOffice BASIC IDE currently offers limited code assistance, hindering developer productivity with unreliable completion, no object browser,...",
+          "student_name": "Devansh Varshney",
+          "code_url": null,
+          "proposal_id": "GDqabmBd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iLT9BxsA"
+        },
+        {
+          "title": "New Dialog To Edit Table Styles",
+          "short_description": "LibreOffice (Writer and Calc) currently allows users to apply predefined table styles via the \u201cAutoFormat Styles\u201d dialog and add new styles based on...",
+          "student_name": "Karthik Godha",
+          "code_url": null,
+          "proposal_id": "FpUhTxt5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xvUbIlHA"
+        },
+        {
+          "title": "Python code auto-completion",
+          "short_description": "LibreOffice has Python scripting support via its UNO API but does not have adequate IDE support because it doesn't have static type information. This...",
+          "student_name": "Manish Bera",
+          "code_url": null,
+          "proposal_id": "Lj4fZpzW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TVa3MD9k"
+        },
+        {
+          "title": "Rust UNO Language Binding",
+          "short_description": "LibreOffice's UNO (Universal Network Objects) component model currently lacks support for the Rust programming language, creating a barrier for Rust...",
+          "student_name": "Mohamed Ali Mohamed",
+          "code_url": null,
+          "proposal_id": "fQNkAdw6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/42tsJZ3Z"
+        },
+        {
+          "title": "Rework Impress slideshow to use DrawingLayer primitives",
+          "short_description": "This project aims to modernize the Impress slideshow engine by replacing its legacy StarView metafile-based rendering with a cleaner, modular...",
+          "student_name": "Shardul Vikram Singh",
+          "code_url": null,
+          "proposal_id": "D8N2VAnm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pBevATJt"
+        },
+        {
+          "title": "Import Markdown files into LibreOffice Writer",
+          "short_description": "This project aims to implement Markdown support in LibreOffice Writer, ensuring compliance with the CommonMark specification. The imported Markdown...",
+          "student_name": "Ujjawal Kumar Chouhan",
+          "code_url": null,
+          "proposal_id": "48XG0hGw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jyyCI3gu"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.documentfoundation.org/Website/IRC",
+  "contact_email": "mailto:libreoffice@lists.freedesktop.org",
+  "mailing_list": "https://wiki.documentfoundation.org/Development/Mailing_List",
+  "ideas_url": "https://wiki.documentfoundation.org/Development/GSoC/Ideas",
+  "guide_url": "https://wiki.documentfoundation.org/Development/GSoC/2025#How_to_apply",
+  "twitter_url": "https://twitter.com/libreoffice",
+  "blog_url": "https://blog.documentfoundation.org/"
+}

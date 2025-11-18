@@ -1,0 +1,57 @@
+{
+  "name": "ViSP",
+  "url": "https://visp.inria.fr/",
+  "image_url": "https://lh3.googleusercontent.com/vc01h5JBortXEAkxC3HSGB1axXpw6ZzgDfH5VEXF9OWZf6JlkRHH4DpqvK3Bas_ZCvANTX6ieoHnGA3mpPSxwWxUbakRzng",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "robotics",
+    "vision",
+    "computer vision"
+  ],
+  "technologies": [
+    "c++",
+    "vision",
+    "c"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4892929554382848/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Markerless model-based tracker CAD model editor",
+          "short_description": "ViSP supports CAD model in .cao format or in .vrml format which are needed for Markerless \nmodel-based tracker module. Currently, the creation of...",
+          "student_name": "Vikas Thamizharasan",
+          "code_url": "https://github.com/lagadic/visp_cao_editor/wiki/GSoC-2017-with-ViSP",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6353080996069376/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5088548537499648/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Porting ViSP to Android Devices",
+          "short_description": "The objective of my project is to offer the ViSP community an SDK for Android, containing:\n\nBuild scripts\nAdapting existing files\nCreating the...",
+          "student_name": "Akshay Sharma-1",
+          "code_url": "https://github.com/lagadic/visp/wiki/GSoC-2018:-Porting-ViSP-to-Android-devices",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5711312218750976/"
+        },
+        {
+          "title": "Augmented Reality with ViSP and Unity",
+          "short_description": "Computer vision algorithms in ViSP (Visual Servoing Platform) such as pose estimation and tracking have the potential to benefit Augmented Reality...",
+          "student_name": "Utkarsh Tripathi",
+          "code_url": "https://github.com/lagadic/visp_unity/wiki/GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4839768059805696/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://visp.inria.fr",
+  "contact_email": "mailto:visp-gsoc-2018@inria.fr",
+  "mailing_list": "https://github.com/lagadic/visp/wiki/GSoC_2018#for-students-interested-in-applying",
+  "ideas_url": "",
+  "guide_url": ""
+}

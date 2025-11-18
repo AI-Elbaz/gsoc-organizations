@@ -1,0 +1,46 @@
+{
+  "name": "wxWidgets",
+  "url": "http://www.wxwidgets.org/",
+  "image_url": "https://lh3.googleusercontent.com/eOVcxwPPFY88vbPAbL0VdS3UXorKsdc3Ow4SIUsUecOXlnaNEOgMxlvJeKw6AG3zMw9IZdSp5_Xz93Rr5f8-EsrW2hAwrrg",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "desktop",
+    "cross-platform",
+    "gui"
+  ],
+  "technologies": [
+    "c++",
+    "gtk+",
+    "win32",
+    "cocoa"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5262324659126272/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Support multi-touch gestures",
+          "short_description": "The goal of this project is to generate wxWidgets events for the multi-touch gestures recognized by the underlying system and, possibly, also the raw...",
+          "student_name": "Prashant Kumar",
+          "code_url": "https://github.com/wxWidgets/wxWidgets/compare/master...prashantkn94:SOC2017_GESTURES",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5379891201572864/"
+        },
+        {
+          "title": "wxWebView JavaScript Integration",
+          "short_description": "wxWebView currently provides a simple RunScript() function for running JavaScript. However in many cases it would be preferable have access to a...",
+          "student_name": "Jose Lorenzo",
+          "code_url": "https://docs.google.com/document/d/1oA-lPdjwPWgWehhgSTNcZR1fL_z2ds8zgGY9QjLEwu4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6201193772613632/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://www.wxwidgets.org/support/irc/",
+  "contact_email": "mailto:wx-dev@googlegroups.com",
+  "mailing_list": "http://www.wxwidgets.org/support/mailing-lists/",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "http://wxwidgets.blogspot.com/"
+}

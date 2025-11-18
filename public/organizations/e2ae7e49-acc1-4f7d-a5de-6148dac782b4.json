@@ -1,0 +1,99 @@
+{
+  "name": "TianoCore",
+  "url": "https://www.tianocore.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/tianocore/klcxfxidgxhn6yan-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "firmware",
+    "uefi",
+    "bootloader",
+    "edk2",
+    "open system firmware",
+    "acpi",
+    "BIOS"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "rust",
+    "golang",
+    "uefi"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6228850043781120/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "EXT4 Filesystem driver",
+          "short_description": "This project proposes the implementation of an ext4 driver in Tianocore. EXT4 is widely recognized as a de-facto standard filesystem for modern Linux...",
+          "student_name": "Pedro Falcato",
+          "code_url": "https://docs.google.com/document/d/1HE85sVvCnY8eQLF3BIzKhnsJrRYOGQUod7R3r3sw3HM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6610488355454976/"
+        },
+        {
+          "title": "Minimum Platform Board Port - Acer Aspire VN7-572G",
+          "short_description": "MinPlatform is a project to get open-source EDK2 firmware booting mainstream boards. However, other than the Intel RVP development boards, presently...",
+          "student_name": "Benjamin Doron",
+          "code_url": "https://gist.github.com/benjamindoron/cf9ce28bba0b6356113918a40814af30",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6129563955888128/"
+        },
+        {
+          "title": "Integration of a PE/COFF loader designed with formal methods",
+          "short_description": "Security best practices are of utmost importance on all layers if a system is to be considered secure. Unfortunately, during my internship at ISP RAS...",
+          "student_name": "Marvin H\u00e4user",
+          "code_url": "https://github.com/mhaeuser/gsoc-2021-edk2-pe-loader",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5061684091158528/"
+        },
+        {
+          "title": "proposal for Enable Clang/LLVM Build for Microsoft Windows",
+          "short_description": "On Windows, using the Clang toolchain still depends on Visual Studio. This proposal is to fix these two dependencies:\na.    BaseTools contains C...",
+          "student_name": "yuqi (alyssa) chen",
+          "code_url": "https://github.com/tianocore/edk2-staging/tree/2021-gsoc-llvm-gnumake",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6480757324775424/"
+        },
+        {
+          "title": "Terminal Driver Improvements",
+          "short_description": "Fix bugs in the terminal driver to ensure that each terminal type is using the best character set for their usecase. \nFix it so OVMF and  MinPlatform...",
+          "student_name": "Pokemod97",
+          "code_url": "https://edk2.groups.io/g/devel/message/79692",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6124043882725376/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/tianocore/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Add Rust Support for building UEFI Applications and Modules",
+          "short_description": "This project aims to add UEFI support to Rust to allow building applications and modules for edk2 and UEFI in general. This will entail achieving the...",
+          "student_name": "Ayush Singh",
+          "code_url": "https://www.programmershideaway.xyz/post15/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PwQlcngc/"
+        },
+        {
+          "title": "Add QEMU support to MinPlatform (OpenQEMUBoardPkg)",
+          "short_description": "The goal is to support a fully emulated UEFI environnement in QEMU using the MinPlatform specification. Deliverables would correspond to the...",
+          "student_name": "Th\u00e9o Jehl",
+          "code_url": "https://gist.github.com/theomacx86/3abf8854a013fc5226045671de63a900",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/s892c1ox/"
+        },
+        {
+          "title": "Minimum Platform - Implement support for S3 resume and closed-chassis HDMI debug",
+          "short_description": "MinPlatform is a project to get open-source EDK2 firmware booting mainstream boards. However, it presently lacks support for S3 resume, an important...",
+          "student_name": "Benjamin Doron",
+          "code_url": "https://gist.github.com/benjamindoron/e8c5f4f866424c96e9f3a5a7269fc1b5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bxqSRN3n/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://edk2.groups.io/g/devel",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/tianocore"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Qdrant",
+  "url": "https://qdrant.tech",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/qdrant/73jgnlygoyu6ibia-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "databases",
+    "machine learning",
+    "Search Engines"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "rust"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/qdrant",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Web UI for visualization and exploration \ud83d\udcca",
+          "short_description": "Problem: Qdrant, a vector search engine used for similarity search and clustering, lacks the necessary functionality to effectively visualize and...",
+          "student_name": "kartik-gupta-ij",
+          "code_url": "https://gist.github.com/kartik-gupta-ij/b5610040aa22334120dfe1313ca31229",
+          "proposal_id": "ZP64dheQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kvzZHPpj"
+        },
+        {
+          "title": "Geo Filtering by Polygon or Multipolygon",
+          "short_description": "At present, selecting a radius or bounding box to cover a desired region and then filtering the retrieved points is a viable option for narrowing...",
+          "student_name": "Zein",
+          "code_url": "https://github.com/qdrant/qdrant/issues/795",
+          "proposal_id": "JQMeolf4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OOFGDBMY"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://qdrant.to/discord",
+  "contact_email": "mailto:dev@qdrant.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/qdrant_engine",
+  "blog_url": "https://www.linkedin.com/company/qdrant/"
+}

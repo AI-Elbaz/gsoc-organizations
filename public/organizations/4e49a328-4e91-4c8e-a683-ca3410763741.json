@@ -1,0 +1,47 @@
+{
+  "name": "Eta",
+  "url": "https://eta-lang.org/",
+  "image_url": "https://lh3.googleusercontent.com/CWx2uyJZ-z2_-0wcJhdTznrSu9d08LqOnoE19wp7OESJ0nj-Vhc0QbqXIp6nXU8lICP39AWtl3wGB-bsrToxqMPclT_uxCo",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming-tools",
+    "functional-programming",
+    "runtime systems"
+  ],
+  "technologies": [
+    "java",
+    "haskell",
+    "jvm"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4825444746526720/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "High Performance Web Server with Fibers",
+          "short_description": "The aim of this project is to re-implement Warp with Fibers to demonstrate the effectiveness of Fibers. To complete that, the following goals need to...",
+          "student_name": "Jitian Deng",
+          "code_url": "https://github.com/ouromoros/eta-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6137374182473728/"
+        },
+        {
+          "title": "Purity and Nullability Analysis",
+          "short_description": "I propose to work on a tool that, given JVM bytecode, decides for each method, whether it performs an effectful computation (including IO, global...",
+          "student_name": "Mriganka B R Chowdhury",
+          "code_url": "https://mbrc12.github.io/blog/posts/2018-08-06-2.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5192733304029184/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/typelead/eta",
+  "contact_email": "mailto:etalanguage@gmail.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/eta-discuss",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/eta_lang",
+  "blog_url": "https://blog.eta-lang.org/"
+}

@@ -1,0 +1,826 @@
+{
+  "name": "OSGeo (Open Source Geospatial Foundation)",
+  "url": "https://www.osgeo.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/osgeo-open-source-geospatial-foundation/yundulx00fbd1akm-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "science",
+    "gis",
+    "maps",
+    "geospatial",
+    "cartography",
+    "open science",
+    "citizen science",
+    "mapping",
+    "geoinformatics",
+    "computer vision",
+    "geolocation",
+    "databases",
+    "routing"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "ogc standards",
+    "c++",
+    "sql",
+    "java",
+    "database",
+    "standards",
+    "open source databases",
+    "javascript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6434461499523072/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "VistSOS: the istSOS Data Visualization Framework",
+          "short_description": "In order to extent the available characteristic offered by the istSOS server, I propose the use of an open source Javascript library for the...",
+          "student_name": "Felipe Poveda",
+          "code_url": "https://felipe07.github.io/VistSOS-1/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6347788522618880/"
+        },
+        {
+          "title": "istSOS Web API",
+          "short_description": "Implementation of an easy to use framework that will offer to the final user the ability of building feature-rich web widget that will be easily...",
+          "student_name": "Luka G.",
+          "code_url": "https://webpractice-lukag.github.io/istSOS-Web-API/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6449630787141632/"
+        },
+        {
+          "title": "NASA Web World Wind - Multidimensional Visualization Tool for Environmental Variables",
+          "short_description": "The idea behind this project is to create an application using Nasa Web World Wind to show metadata about environmental variables in more than three...",
+          "student_name": "gabry501",
+          "code_url": "https://github.com/GabrielePrestifilippo/MuViAS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5667947544576000/"
+        },
+        {
+          "title": "WEBGRASS",
+          "short_description": "This idea will focus on the development of web based GUI for the Grass \u201cWebGrass\u201d where people can use Grass modules through a web browser without...",
+          "student_name": "Mayank Agrawal",
+          "code_url": "https://trac.osgeo.org/grass/wiki/GSoC/2016/WebGrass",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5386472567865344/"
+        },
+        {
+          "title": "Bringing pyModis to the web through ZOO-Project",
+          "short_description": "The pyModis project has been developed and used to work with MODIS data, it provides wxPython user interfaces which are able to download and process...",
+          "student_name": "Chingchai Humhong",
+          "code_url": "http://www.geo-nred.nu.ac.th/zoo-pymodis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5493393094344704/"
+        },
+        {
+          "title": "A complete photogrammetric OSSIM tool for automatic DSMs generation using multi-view optical and SAR images",
+          "short_description": "My project proposal concerns the improvement and the implementation of new functionalities for the OSSIM plug-in that I developed in the last two...",
+          "student_name": "martidi",
+          "code_url": "https://github.com/martidi/opencv_dsm/tree/imageStack",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4999444474888192/"
+        },
+        {
+          "title": "Complete basic cartography suite in GRASS GIS wxGUI Map Display",
+          "short_description": "Currently a GRASS GIS user is forced to use Cartographic Composer or use another software (e.g. QGIS) to create hard copy map outputs with all...",
+          "student_name": "ad.laza32",
+          "code_url": "https://github.com/lazaa32/SoC16/commits",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5062270988058624/"
+        },
+        {
+          "title": "Implementation of a framework which supports addition of contraction techniques for pgRouting.",
+          "short_description": "Contraction is a technique used to speed up shortest-path computation by first creating contracted versions of the network. There are different ways...",
+          "student_name": "Sankepally Rohith Reddy",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2016-Contraction",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5261601225572352/"
+        },
+        {
+          "title": "Web-based administration & process management for PyWPS",
+          "short_description": "PyWPS is an implementation of OGC WPS standard on the server side, written in Python programming language. Since it's perfectly designed for programs...",
+          "student_name": "Jan Rudolf",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2016-August/003523.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5340035113025536/"
+        },
+        {
+          "title": "Flow Algorithms for pgRouting",
+          "short_description": "This project aims to add functionality in order to solve the maximum flow problem in pgRouting.\nA flow network is a directed graph where each edge...",
+          "student_name": "Illedran",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2016-Flow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6192757919973376/"
+        },
+        {
+          "title": "Introduce Triangulated Surface, Polyhedral Surface and Triangle API in the OGRGeometry core and implement their support in OGR drivers for GDAL",
+          "short_description": "The current OGR core doesn't include three geometries according to OGC standards - Triangular Irregular Networks, Polyhedral Surfaces and Triangles....",
+          "student_name": "avyavkumar",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2016-August/003506.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6202171414544384/"
+        },
+        {
+          "title": "Android istSOS client",
+          "short_description": "Firstly, the aim of the project is to develop an Android App for the istSOS project. In order to achieve that objective, a main goal will be to...",
+          "student_name": "masterflorin",
+          "code_url": "https://masterflorin.github.io/gsoc16-istsos/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4529712491659264/"
+        },
+        {
+          "title": "Development of a model for woody debris flooding hazard in gvSIG",
+          "short_description": "In forested mountain landscapes wood can significantly increment the total flow volume during a flooding event. The presence of large wood on river...",
+          "student_name": "Silvia Franceschi",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2016-August/003508.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4549839245279232/"
+        },
+        {
+          "title": "OSGeo GDAL DWG support",
+          "short_description": "The objective is to extend GDAL/OGR supported formats with DWG, allowing to read geometries from it. It is going to be reached by writing a new DWG...",
+          "student_name": "sandyre",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2016-August/003499.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4638615413981184/"
+        },
+        {
+          "title": "Add tests and educational games support to gvSIG Educa.",
+          "short_description": "The main idea behind this project is to develop addons which allows to create/play tests and educational games. Also generate documentation specially...",
+          "student_name": "Carlos I. Colombana",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2016-August/003521.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4670449980014592/"
+        },
+        {
+          "title": "Implementing WPS for Geopaparazzi field data collection tool using ZOO-Project: Simplifying integration of field data and GIS",
+          "short_description": "JGrasstools is a library which contains a variety of geoprocessing functionalities. It has been used for many GIS framework to provide a...",
+          "student_name": "Niroshan",
+          "code_url": "https://github.com/niroshansb/GSoC2016/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4763907394633728/"
+        },
+        {
+          "title": "One bus Away Quick start",
+          "short_description": "Develop a quick start version to the Transit Time application. Currently the set up of transtime is very complex with little available documentation...",
+          "student_name": "Brendan Egan",
+          "code_url": "https://groups.google.com/forum/#!topic/onebusaway-developers/8oj_NZmH1vg",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6519999531319296/"
+        },
+        {
+          "title": "OGC protocols support within OL3-Google-Maps",
+          "short_description": "This library allows users to add Google Maps layers to an OpenLayers v3 map. To do this, the library replicates the OpenLayers objects to the Google...",
+          "student_name": "SamuelLapointe",
+          "code_url": "http://lists.osgeo.org/pipermail/soc/2016-August/003479.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4915736099160064/"
+        },
+        {
+          "title": "QGIS Styles, Symbols, and SVG Markers Sharing Repository",
+          "short_description": "This project will focus on making styles (.qml), symbols definition (.xml), and SVG markers sharing possible through web services that later can be...",
+          "student_name": "akbargumbira",
+          "code_url": "http://www.akbargumbira.com/slide_gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5981954214199296/"
+        },
+        {
+          "title": "PyQt implementation of GUI forms generated automatically from XML",
+          "short_description": "GUI forms (module dialogs) are now automatically generated from XML into wxPython. My idea is to create code that is generating the same code into...",
+          "student_name": "Ond\u0159ej Pe\u0161ek",
+          "code_url": "https://github.com/pesekon2/GRASS-Qt-based-GUI/commits/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5131196623224832/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4554340639440896/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "3D OSM Plugin API",
+          "short_description": "The goal of this project is to create a plugin API to display OpenStreetMap (OSM) data on NASA Web WorldWind...",
+          "student_name": "Candan Eyl\u00fcl Kilsedar",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2017-August/003844.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6446195887046656/"
+        },
+        {
+          "title": "Integrating istSOS as a data store in MapMint",
+          "short_description": "The idea of integrating istSOS as a data store in MapMint is able to provide a platform for data visualization which can be used as near real time,...",
+          "student_name": "Niroshan Bandara",
+          "code_url": "https://github.com/niroshansb/mapmint/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6140850555846656/"
+        },
+        {
+          "title": "Improving IstSOS Web API and finalizing IstSOS Javascript Core Library",
+          "short_description": "My proposal consists of making some crucial changes (event handling, authentication...) to the IstSOS JavaScript core library, that will solve the...",
+          "student_name": "Luka G.",
+          "code_url": "https://luka-g.github.io/istSOS-Web-API/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4982617598328832/"
+        },
+        {
+          "title": "Integration of Bikeshare Information into an Open-source Transportation App",
+          "short_description": "The General Transit Feed Specification (GTFS) has revolutionized multi-modal information and open transit data. Started as a simple way to represent...",
+          "student_name": "Rodrigo Carvalho",
+          "code_url": "https://github.com/OneBusAway/onebusaway-android/pull/776/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5552538552107008/"
+        },
+        {
+          "title": "NASA WebWorldWind - MarkerCluster Plugin",
+          "short_description": "Creating a Marker Cluster Plugin for NASA Web World Wind with the following features:\n\nClustering based on different algorithms\nSet a custom cluster...",
+          "student_name": "Simone Battaglia",
+          "code_url": "https://simonebt92.github.io/NASA-WWW-MarkerCluster/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5602094421639168/"
+        },
+        {
+          "title": "Rewrite for Turn Restricted Shortest Path Algorithm in PgRouting",
+          "short_description": "In graph theory, the shortest path problem is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the...",
+          "student_name": "Vidhan Jain",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2017-August/003846.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4730835743801344/"
+        },
+        {
+          "title": "SOS tools in GRASS GIS",
+          "short_description": "GRASS GIS doesn\u2019t have any module to work with Sensor Observation Service (SOS). SOS is an Open Geospatial Consortium (OGC) standard and it is useful...",
+          "student_name": "Ond\u0159ej Pe\u0161ek",
+          "code_url": "https://github.com/pesekon2/GRASS-GIS-SOS-tools/tree/gsoc2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4761529861799936/"
+        },
+        {
+          "title": "QGIS Web API and remote control Plugin (for Notebook integration)",
+          "short_description": "The goal of this project is to create a QGIS Desktop plugin which provides a web service API that exposes QGIS' data processing and canvas drawing...",
+          "student_name": "Kevin Stadler",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2017-August/003841.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4854198344613888/"
+        },
+        {
+          "title": "istSOS-Data analysis and statistical tools suite",
+          "short_description": "istSOS has gone through a lot of improvements since 2009. This has somehow affected the simplified interaction with measurements and SOS service...",
+          "student_name": "rahulworld",
+          "code_url": "https://github.com/rahulworld/Data-analysis/blob/master/examples/GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4902267350155264/"
+        },
+        {
+          "title": "Adding Audio/Video and SOS input support in the MapMint4ME",
+          "short_description": "MapMint4ME is an android application which allows its users to record alphanumeric data, photo and GPS locations. The data can be recorded even when...",
+          "student_name": "Rajat Shinde",
+          "code_url": "https://github.com/omshinde/MapMint4ME/wiki/Final-Report:-GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5784917489221632/"
+        },
+        {
+          "title": "GRASS GIS Locations Created From Public Data",
+          "short_description": "Novice GRASS GIS users often have difficulty with the complexities of re-formatting data, solving map projection issues, and working with centralized...",
+          "student_name": "Zechariah Krautwurst",
+          "code_url": "https://github.com/zkwurst/GSoC2017-GRASS-GIS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5871436652609536/"
+        },
+        {
+          "title": "Educational games add-on for gvSIG Batov\u00ed/Educa",
+          "short_description": "The main idea behind this project is to develop an add-on which allows to create/play educational games. Also generate documentation specially...",
+          "student_name": "Carlos I. Colombana",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2017-August/003840.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6319623737704448/"
+        },
+        {
+          "title": "Implement Connected Components Algorithms for pgRouting by the Boost Graph Library",
+          "short_description": "Connected components algorithms are used to analyze graph and solve problems (like 2-satisfiability problem). There are three parts of connected...",
+          "student_name": "Maoguang Wang",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2017-August/003843.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5135673321324544/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4890968767594496/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Full support of Python 3 in GRASS GIS",
+          "short_description": "The current GRASS GIS version has partial support for Python 3. This project aims to update core GRASS components for Python 3 and update all the...",
+          "student_name": "Sanjeet Bhatti",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2018-August/004186.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5652161459388416/"
+        },
+        {
+          "title": "Support of Unit Of Measure conversion in istSOS3",
+          "short_description": "The aim of my project primarily is to add plugins in istSOS3 for unit of measure conversion. The user can convert unit in another specified unit...",
+          "student_name": "rahulworld",
+          "code_url": "https://github.com/rahulworld/Support-of-Unit-Of-Measure-conversion-in-istSOS3/blob/master/gsoc/GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5674440260059136/"
+        },
+        {
+          "title": "GRASS GIS module for Sentinel-2 cloud and shadow detection",
+          "short_description": "Optical sensors are unable to penetrate clouds leading to related incorrect reflectance values. Unlike\nLandsat images, Sentinel 2 datasets do not...",
+          "student_name": "Roberta Fagandini",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2018-August/004177.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6151540461010944/"
+        },
+        {
+          "title": "Making pgRoutingLayer plugin compatible with QGIS 3.0 and Adding GUI support for proposed stable functions which are scheduled for next release.",
+          "short_description": "The new version of QGIS has introduced an API break. The key changes in QGIS 3.0 are as follows:\nUpdated from Qt4 to Qt5\nUpdated from PyQt4 to PyQt5...",
+          "student_name": "Aasheesh Tiwari",
+          "code_url": "https://github.com/AasheeshT/pgRoutingLayer/wiki/Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4548857308381184/"
+        },
+        {
+          "title": "Implement Geospatial Data Viewer in pgAdmin4 for PostGIS",
+          "short_description": "pgAdmin is the GUI management tool for PostgreSQL. The latest version pgAdmin4 is web-based and written in Python and jQuery with Bootstrap, using...",
+          "student_name": "Xuri Gong",
+          "code_url": "https://trac.osgeo.org/postgis/wiki/GeospatialDataViewerInPgAdmin4ForPostGIS_FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4832028394520576/"
+        },
+        {
+          "title": "Database Output Storage for PyWPS",
+          "short_description": "The Web Processing Service (WPS) is an Open Geospatial Consortium (OGC) standard that provides rules for publishing and executing processes on the...",
+          "student_name": "Jan Pi\u0161l",
+          "code_url": "https://github.com/geopython/pywps/pull/371",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6067691425103872/"
+        },
+        {
+          "title": "Implement Minimum-cost flow Algorithm by the Boost Graph Library and Chinese Postman Problem for pgRouting",
+          "short_description": "Minimum-cost flow problem is an extension of maximum flow problem with an added cost (per unit flow) for each edge. The Chinese Postman Problem...",
+          "student_name": "Maoguang Wang",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2018-Minimum-cost-flow-and-ChPP",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4843352612667392/"
+        },
+        {
+          "title": "Extension of Gisquick platform filtering tool based on raster and vector spatio-temporal data",
+          "short_description": "My project will extend the current filtering tool that was developed as a part of my final thesis. Currently it is focused on spatio-temporal vector...",
+          "student_name": "David T\u011bthal",
+          "code_url": "https://github.com/davidtethal/gisquick-gsoc2018/wiki/Final-Report-GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5850679075667968/"
+        },
+        {
+          "title": "Implement Minimum Spanning Tree and Min-Cut for pgRouting by the Boost Graph Library.",
+          "short_description": "Graph connectivity is one of the classical subjects in graph theory and has many practical applications. A Minimum Spanning Tree in an undirected...",
+          "student_name": "Aditya Pratap Singh",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2018-August/004181.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5854279130677248/"
+        },
+        {
+          "title": "Implement Parallel Dijkstra\u2019s and Bellman-Ford algorithm by the Parallel BGL",
+          "short_description": "Graph Algorithms like Dijkstra\u2019s single source shortest path algorithm are widely applied in many routing applications, but for the Large-scale...",
+          "student_name": "Sourabh Garg",
+          "code_url": "https://lists.osgeo.org/pipermail/soc/2018-August/004182.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5166614936813568/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6684630290268160/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Create of new topological rules in gvSIG desktop",
+          "short_description": "The project consists of the creation of three new topological rules in the gvSIG desktop toolbox. These rules are '' Must be disjoint '', \"Must not...",
+          "student_name": "H\u00e9ctor Tundidor",
+          "code_url": "https://github.com/hecnita/gvsig-gsoc2019-topology/wiki/Work-Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6592130720464896/"
+        },
+        {
+          "title": "QGIS 3D Improvement: On Screen Navigation, Bookmarks, Rendering Point Feature as Billboard, and Measuring Tool",
+          "short_description": "QGIS 3D is a great feature that has been introduced in QGIS 3.0 in 2018. It is still missing some features that are needed or can be helpful for the...",
+          "student_name": "Ismail Sunni",
+          "code_url": "https://ismailsunni.github.io/GSoC-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5387550166876160/"
+        },
+        {
+          "title": "Implement Edward Moore's Algorithm, Breadth First Search and Binary Breadth First Search Algorithms in pgRouting",
+          "short_description": "Edward Moore's Algorithm is an improvement over Bellman-Ford's algorithm and can compute single-source shortest paths in weighted (including negative...",
+          "student_name": "Gudesa Venkata Sai Akhil",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2019-Edward-Moore's-Algorithm,-Breadth-First-Search-and-Binary-Breadth-First-Search",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4969850387038208/"
+        },
+        {
+          "title": "GSoC 19: GRAPH C++ Boost graph algorithms for pgRouting",
+          "short_description": "My project will focus on implementing topological sort, transitive closure and lengauer tarjan dominator tree.",
+          "student_name": "Hang Wu",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2019-GRAPH-C---Boost-graph-algorithms-for-pgRouting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6090469145051136/"
+        },
+        {
+          "title": "MapMint - porting from Python 2.x to Python 3.x",
+          "short_description": "At present the MapMint project is running on Python 2.x whose support will soon end in 2020 and MapMint is unable to take advantage of the...",
+          "student_name": "Fenil Mehta",
+          "code_url": "https://github.com/fenilgmehta/mapmint/wiki/GSoC-2019---Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4859857885200384/"
+        },
+        {
+          "title": "New rules for the Topology Framework in gvSIG Desktop",
+          "short_description": "Before starting the project only a few topology rules have been implemented, most of them pending to be developed. With the project was achieved...",
+          "student_name": "Mauro Carlevaro",
+          "code_url": "https://github.com/Maureque/gvsig-gsoc2019-topology/wiki/8.-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5915581163765760/"
+        },
+        {
+          "title": "Adding Augmented Reality (AR) support to the MapMint4ME Android Application",
+          "short_description": "MapMint4ME (MM4ME) is an android application allows user to take photos, record their positions, and view their current location on map based on...",
+          "student_name": "Aditya Vitthalrao",
+          "code_url": "https://github.com/AdityaChondke/MapMint4ME/wiki/Final-Report-GSoC-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5962182162907136/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5355444958134272/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Creation of a new GRASS GIS startup mechanism",
+          "short_description": "This project will focus on the creation of a more user friendly GRASS GIS startup. The general idea is to make the initial user\u2019s contact easier and...",
+          "student_name": "Linda Kladivova",
+          "code_url": "https://trac.osgeo.org/grass/wiki/GSoC/2020/StartupWindow#FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5713801627828224/"
+        },
+        {
+          "title": "New rules for the Topology Framework in gvSIG Desktop",
+          "short_description": "My project seeks to improve the topology motor of gvSIG Desktop. Also I would like to correct some topology rules and implant three new rules.\nThe...",
+          "student_name": "Jose Olivas Carriqu\u00ed",
+          "code_url": "https://github.com/jolicar/GSoC2020/wiki/GSoC2020-New-rules-for-the-Topology-Framework-in-gvSIG-Desktop",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5739605220917248/"
+        },
+        {
+          "title": "Implement Boyer Myrvold Planarity Testing and Make Connected in pgRouting",
+          "short_description": "Boost::boyer_myrvold_planarity_test A graph is planar if it can be drawn in two-dimensional space with no two of its edges crossing. Such a drawing...",
+          "student_name": "Himanshu Raj",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2020-Implement-Boyer-Myrvold-Planarity-Testing-and-Make-Connected-in-pgRouting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5404340644216832/"
+        },
+        {
+          "title": "Data transaction implementation on pygeoapi",
+          "short_description": "pygeoapi is a python server implementation of OGC RESTful API standards. The current implementation of OGC Features API in pygeoapi supports only...",
+          "student_name": "Alex Mathew",
+          "code_url": "https://github.com/alex-mathew/pygeoapi/wiki/Final-Report-GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5072103415480320/"
+        },
+        {
+          "title": "Improving QGIS 3D",
+          "short_description": "Improving QGIS 3D capabilites by adding :\nTexturing support, 3D map exporting, new rendering techniques, shadow rendering",
+          "student_name": "Belgacem Nedjima",
+          "code_url": "https://docs.google.com/document/d/1z7mNqrIhtgouOrdttNVQAr-yHJwFF55ry1KBts5-A8g/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5093774948040704/"
+        },
+        {
+          "title": "New rules for the Topology Framework in gvSIG Desktop",
+          "short_description": "A topology toolbox has been added to gvSIG Desktop. This tool provides a group of integrity rules that check the validation of the geometries...",
+          "student_name": "Giani Carlevaro",
+          "code_url": "https://github.com/Maureque/GSoC2020-topology-osgeo-gvsig/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4641551331885056/"
+        },
+        {
+          "title": "Implement Lengauer Tarjan Dominator Tree and Bipartite algorithm for pgRouting",
+          "short_description": "Graph algorithm Lengauer Tarjan Dominator Tree is applied in many routing applications, one application can be if the user wants to go from city A to...",
+          "student_name": "Prakash Tiwari",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2020-Lengauer-Tarjan-dominator-tree-and-Bipartite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4645571421274112/"
+        },
+        {
+          "title": "Depth First Search, Sequential Vertex Coloring and analysis of Graph Input Ordering for pgRouting",
+          "short_description": "The project aims to add the following two algorithms in pgRouting:\nDepth First Search: It is the implementation of a standard graph traversal...",
+          "student_name": "Ashish Kumar",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2020-Depth-First-Search-and-Sequential-Vertex-Coloring",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4678956906708992/"
+        },
+        {
+          "title": "CQL filter implementation on pygeoapi",
+          "short_description": "Develop an efficient code to contribute to pygeoapi with advanced filter functionality on features. Implement CQL on pygeoapi for specifying enhanced...",
+          "student_name": "Farheen Bano",
+          "code_url": "https://github.com/FarheenB/pygeoapi/wiki/Final-Report-GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4699968423591936/"
+        },
+        {
+          "title": "Enhancing AR Support for MapMint4ME and adding GPS Satellite Tracking",
+          "short_description": "MapMint4ME (MM4ME) is an android application with the capability to record data on the field without internet connectivity. It gives users the...",
+          "student_name": "Aditi Sawant",
+          "code_url": "https://github.com/aditis1204/MapMint4ME/wiki/Final-Report:-GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6315957250686976/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5115040503431168/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "VRP functionality with VROOM on the database for pgRouting",
+          "short_description": "The project aims at implementing the VRP functionality in the vrprouting repository of pgrouting, using VROOM as a library in C++.\nVROOM is an...",
+          "student_name": "Ashish-Kumar",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2021-VRP-functionality-with-VROOM-on-the-database",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5684733287071744/"
+        },
+        {
+          "title": "Parallelization of existing modules for GRASS GIS",
+          "short_description": "The project focuses on parallelizing existing modules that can benefit from parallelization with OpenMP, such as r.neighbors, r.mfilter, r.univar,...",
+          "student_name": "Aaron Saw Min Sern",
+          "code_url": "https://aaronsms.github.io/gsoc/2021.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5418858269114368/"
+        },
+        {
+          "title": "First steps towards a new GRASS GIS Single-Window GUI",
+          "short_description": "My project will mainly focus on extensive Graphical User Interface (GUI) refactoring necessary to prepare GRASS GIS for Single-Window GUI. As the...",
+          "student_name": "Linda Kladivova",
+          "code_url": "https://trac.osgeo.org/grass/wiki/GSoC/2021/SingleWindowLayout#FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5505611139121152/"
+        },
+        {
+          "title": "Integrating a module to 3d scan a house within the MapMint4ME android application.",
+          "short_description": "Minimalist 3D scan (taking multiple pictures, recording camera position, using opendrone map  to rebuild the 3D scene) with the house faces...",
+          "student_name": "ayoubft",
+          "code_url": "https://github.com/ayoubft/Journey-GSoC-21/wiki/Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5562519455793152/"
+        },
+        {
+          "title": "AR Draw + Measure experience in MapMint4me",
+          "short_description": "Introducing the Augmented Reality experience in the present MapMint4ME project and working on Better UI and UX part for the Augmented Reality...",
+          "student_name": "Sourav singh",
+          "code_url": "https://github.com/srvsingh1962/ARDraw-MM4ME/wiki/Final-Report-Google-Summer-of-Code-2021-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4651587124854784/"
+        },
+        {
+          "title": "New Virtual Raster Data Provider for Raster Calculator in QGIS",
+          "short_description": "QGIS already has an integrated raster calculator, where user can enter an expression that will apply raster algebra functions to one or more input...",
+          "student_name": "Francesco Bursi",
+          "code_url": "https://gist.github.com/Franc-Brs/b533fde3bec4ba16978c8fd2ef5e064f#file-gsoc2021-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4676329726803968/"
+        },
+        {
+          "title": "Implement 3D scene visualization support using Potree and integrate with MapMint",
+          "short_description": "Implementation of 3D visualization support and integration with the MapMint instance. The 3D scenes are rendered with Potree Loaders along with...",
+          "student_name": "Aryan Kenchappagol",
+          "code_url": "https://github.com/aryanxk02/mapmint/wiki/GSoC-2021:-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6036322531147776/"
+        },
+        {
+          "title": "Implement sorting methods for PostGIS data types before building GiST index",
+          "short_description": "Create and test pre-sorting methods of z-order and Hilbert curve for elements in GiST index to check if it will improve the performance of index...",
+          "student_name": "HanwGeek",
+          "code_url": "https://github.com/postgis/postgis/pull/619",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5762639296200704/"
+        },
+        {
+          "title": "Improved Integration of GRASS GIS and Jupyter Notebooks",
+          "short_description": "My project will focus on 3 main tasks: (1) simplifying the launch of GRASS GIS sessions in Jupyter Notebooks, (2) creating a more intuitive way to...",
+          "student_name": "CaitlinHaedrich",
+          "code_url": "https://trac.osgeo.org/grass/wiki/GSoC/2021/JupyterAndGRASS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6277136683368448/"
+        },
+        {
+          "title": "Implement 3D scene visualization support using Potree and integrate with MapMint",
+          "short_description": "With the 3D scene visualization, viewing data in three dimensions gives users new perspectives. 3D viewing can provide insights that would not be...",
+          "student_name": "Aniket Giri",
+          "code_url": "https://github.com/AniketDGiri/mapmint/wiki/Final-Report-GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6288524990480384/"
+        },
+        {
+          "title": "Integrating 3D scene builder as WPS services within MapMint administration User Interface",
+          "short_description": "At present  the user can only visualize the 2D datasets and can even generate one of them. So, my major approach in this project would be to create...",
+          "student_name": "Sandeep Saurav",
+          "code_url": "https://github.com/Sandeep10021/mapmint/wiki/Final-Report:-GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5168188542681088/"
+        },
+        {
+          "title": "Implement Edge Coloring Algorithm for pgRouting by the Boost Graph Library",
+          "short_description": "Edge Coloring is an algorithm used for coloring of the edges for the vertices in the graph. It is an assignment of colors to the edges of the graph...",
+          "student_name": "Veenit Kumar",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2021-Implement-Edge-Coloring-Algorithm-for-pgRouting-by-the-Boost-Graph-Library",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5198869406679040/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/osgeo-open-source-geospatial-foundation/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Adding Node.js support for service implementation to the ZOO-Kernel",
+          "short_description": "The ZOO-Project is a solid WPS server able to handle services implemented in various different programming languages. The existing `ZOO-Kernel`...",
+          "student_name": "mmomtchev",
+          "code_url": "https://github.com/mmomtchev/libnode",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZsLHGYTg/"
+        },
+        {
+          "title": "Implementing hawick_circuits algorithm from Boost Graph Library to  pgRouting",
+          "short_description": "The project aims at implementing Boost Graph Library Algorithm Hawick_circuits in pgRouting.Hawick circuit is an algorithm used for searching...",
+          "student_name": "Nitish Chauhan",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2022-Implementing-hawick_circuits-algorithm-from-Boost-Graph-Library-to-pgRouting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7WWx9hAC/"
+        },
+        {
+          "title": "Osgeo[Pgrouting] : Add Google OR-Tools functionality in vrpRouting",
+          "short_description": "Proposal : Add Google OR Tools functionality in vrpRouting. Integrate Google-OR-tools, a combinatorial optimization software tool into...",
+          "student_name": "Manas_2001",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2022-Add-Google-OR-Tools-functionality-in-vrpRouting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lySCzc6L/"
+        },
+        {
+          "title": "Integrating ZOO-services with QGIS",
+          "short_description": "The ZOO-Project is an open-source WPS (Web Processing Service) platform. WPS allows GIS processing to be done remotely. Currently, the ZOO-Project...",
+          "student_name": "Sandeepan Dhoundiyal",
+          "code_url": "https://github.com/sdhoundiyal/GSoC_ZOO-Project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FxtReu6V/"
+        },
+        {
+          "title": "ZOO-Project - Adding Cesium support within MapMint",
+          "short_description": "MapMint is a web-based Geographic Information System (GIS), which is designed to facilitate deployment of Spatial Data Infrastructure (SDI). In an...",
+          "student_name": "Bhupendra",
+          "code_url": "https://github.com/bhupendra1324/mapmint",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/haiLMxnP/"
+        },
+        {
+          "title": "Implement Cuthill-Mckee Ordering Boost Graph Library Algorithm for pgRouting",
+          "short_description": "The Cuthill-Mckee Ordering is an algorithm used to reduce the bandwidth of a graph by reordering the indices assigned to each vertex. The vertices...",
+          "student_name": "Shobhit Chaurasia",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2022-Implement-Cuthill-Mckee-Ordering-Algorithm-for-pgRouting-by-the-Boost-Graph-Library",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4OxG2uIw/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/osgeo-open-source-geospatial-foundation",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Implement pgr_withPointsKSP and Add Overloads",
+          "short_description": "The project aims to implement pgr_withPointsKSP and all its overloads. Yen's algorithm computes single-source K-shortest loopless paths for a graph...",
+          "student_name": "Abhinav_Jain",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2023-Implement-pgr_withPointsKSP-and-Add-Overloads",
+          "proposal_id": "8G0EFv8L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6SNYZ0ph"
+        },
+        {
+          "title": "Implementation of the pgr_KSP and add all the overloads.",
+          "short_description": "The implementation of a pgr_ksp() function that can calculate K shortest paths for various scenarios is essential for many applications. This project...",
+          "student_name": "Aniket Agarwal",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2023-Implement-pgr_KSP-and-Add-All-Overloads",
+          "proposal_id": "Tjaj2ujU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/8JpdTHk8"
+        },
+        {
+          "title": "Implementing Dijkstra\u2019s Driving distance Function and its migration",
+          "short_description": "The project aims to implement a new function called \"pgr_dijkstraDD\" that replaces the existing \"pgr_drivingDistance\" function. The new function will...",
+          "student_name": "Aryan Gupta1",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2023-Implementing-Dijkstra%E2%80%99s-Driving-distance-Function-and-its-migration",
+          "proposal_id": "VnmPgg0R",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tAxiQllV"
+        },
+        {
+          "title": "Support basic SensorThings API (STA) for istSOS",
+          "short_description": "istSOS currently supports the Sensor Observation Service (SOS) standard, but to enhance its interoperability, we propose implementing some of the...",
+          "student_name": "filippofinke",
+          "code_url": "https://blog.filippofinke.ch/posts/final-report-gsoc/",
+          "proposal_id": "QII7BFfJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wLDJ39zW"
+        },
+        {
+          "title": "Getting ready with ZOO-Project for the OGC Compliance Testing.",
+          "short_description": "The ZOO-Project is an SDI manager which gives the users the capability of building their own map and web applications using Map server as the Open...",
+          "student_name": "Koushikey Chhapariya",
+          "code_url": "https://github.com/Koushikey4596/ZOO-Project/wiki/Final-Report",
+          "proposal_id": "tqq0XyTn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Wx8rnGL5"
+        },
+        {
+          "title": "Support basic Sensor Things Api (STA) in istSOS",
+          "short_description": "The goal of my project is to add OGC standard of Sensor Things API(STA) to istSOS project. The OGC SensorThings API provides an open,...",
+          "student_name": "Saail Narvekar",
+          "code_url": "https://saailn.github.io/Saail_GSoC23/",
+          "proposal_id": "kZpgzLnz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TmvBTqrE"
+        },
+        {
+          "title": "Improving Parameters and Standardizing Results in pgr_withPointsDD Function for pgRouting",
+          "short_description": "This project aims to enhance the functionality of the pgr_withPointsDD function in pgRouting by improving the 'driver_side' optional parameter,...",
+          "student_name": "Yige Huang",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2023-Improving-Parameters-and-Standardizing-Results-in-pgr_withPointsDD-Function-for-pgRouting",
+          "proposal_id": "EZOr7Mbn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/k9zuPo5a"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/osgeo-open-source-geospatial-foundation/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Advancing the ZOO-Project testing capabilities",
+          "short_description": "The ZOO-Project is an open-source WPS (Web Processing Service) platform. This proposal entails designing and implementing a comprehensive unit test...",
+          "student_name": "dhruvmehtaaa",
+          "code_url": "https://github.com/dhruvmehtaaa/ZOO-Project/tree/Week-12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hLiX75zQ/"
+        },
+        {
+          "title": "istSOS\u03bc support for STAC",
+          "short_description": "The objective of the project is to add support for STAC(SpatioTemporal Asset Catalog) to istSOS. The STAC specification is an open specification...",
+          "student_name": "Chetan Mahajan",
+          "code_url": "https://github.com/istSOS/istSOS4-STAC/wiki/Google-Summer-of-Code-2024-Final-Report-istSOS-STAC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/z1NoWrga/"
+        },
+        {
+          "title": "istSOS support for data array extension",
+          "short_description": "Summary: The project aims to extend istSOS to support the dataArray extension, which is commonly used in SensorThings for managing Observation...",
+          "student_name": "filippofinke",
+          "code_url": "https://github.com/istSOS/istsos-miu/wiki/GSOC-2024-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/f9HRFQqL/"
+        },
+        {
+          "title": "Improve GRASS user experience in Jupyter  Notebook",
+          "short_description": "Problem Statement: - The existing InteractiveMap lacks advanced features, rendering performance is suboptimal, and handling large datasets can be...",
+          "student_name": "29riyasaxena",
+          "code_url": "https://grasswiki.osgeo.org/wiki/GRASS_GSoC_2024_Improve_user_experience_in_Jupyter_Notebooks#Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1KXI3ewU/"
+        },
+        {
+          "title": "Implementing Brandes Betweenness Algorithm from Boost Graph Library to pgRouting for GSoC 2024",
+          "short_description": "The project aims to implement the Brandes betweenness centrality algorithm in pgRouting. Betweenness centrality is a measure of node importance based...",
+          "student_name": "bedupako",
+          "code_url": "https://github.com/pgRouting/pgrouting/wiki/GSoC-2024-Brandes-Betweenness-Centrality",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bgXBcKOA/"
+        },
+        {
+          "title": "Add EODAG support to GRASS GIS",
+          "short_description": "The project focuses on writing a Python library for GRASS GIS that utilizes EODAG API. Currently, GRASS uses different APIs for each satellite data...",
+          "student_name": "<Hamed>",
+          "code_url": "https://grasswiki.osgeo.org/wiki/GRASS_GSoC_2024_EODAG_Support",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eWqnFI4u/"
+        },
+        {
+          "title": "OSGeo Grass: Add JSON output to different tools in C",
+          "short_description": "At the moment, most of the tools in Grass have custom human readable outputs in plain text. Some of these modules could benefit from storing their...",
+          "student_name": "juno",
+          "code_url": "https://grasswiki.osgeo.org/wiki/GRASS_GSoC_2024_Add_JSON_output",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qKiBlvHG/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/osgeo-open-source-geospatial-foundation",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Migrating and updating the existing CWL runners",
+          "short_description": "The ZOO-Project is an open-source WPS (Web Processing Service) platform. The propose of this proposal is to reorganize and improve the ZOO-Project...",
+          "student_name": "Aryan Khare",
+          "code_url": null,
+          "proposal_id": "03qUkaij",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DHY55xFA"
+        },
+        {
+          "title": "Implementing Sloan Ordering Algorithm from Boost Graph Library to pgRouting",
+          "short_description": "This project aims to integrate the Sloan sparse matrix ordering algorithm from the Boost Graph Library into pgRouting, enhancing its capabilities for...",
+          "student_name": "Bipasha Gayary",
+          "code_url": null,
+          "proposal_id": "HKakGlaE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AYTTkvxI"
+        },
+        {
+          "title": "Implementing King Ordering Algorithm and Minimum Degree Ordering Algorithm for pgRouting",
+          "short_description": "This project aims to implement the King Ordering Algorithm and Minimum Degree Ordering Algorithm from the Boost Graph Library into pgRouting,...",
+          "student_name": "Fan Wu",
+          "code_url": null,
+          "proposal_id": "3r3NWLiM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HijWa06g"
+        },
+        {
+          "title": "AI-ready Dataset Metadata as a Service using ZOO-Project",
+          "short_description": "The project focuses on extending the ZOO-Project by adding support for the GeoCroissant metadata standard and implementing Data-Centric AI (DCAI)...",
+          "student_name": "Harsh Shinde",
+          "code_url": null,
+          "proposal_id": "h2JP1tXe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Nkzade2v"
+        },
+        {
+          "title": "Web Administration Interface for istSOS",
+          "short_description": "The project aims to develop a web-based administrative interface for istSOS, focussed on simplify the management and monitoring of SensorThings API...",
+          "student_name": "Luca Abate",
+          "code_url": null,
+          "proposal_id": "IgVUItM6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/A4bqz8NW"
+        },
+        {
+          "title": "Grafana Data Source Plugin for istSOS4",
+          "short_description": "This project focuses on developing an advanced Grafana plugin for istSOS4 that supports full OGC SensorThings API queries with parametrization and...",
+          "student_name": "Mostafa Magdyy",
+          "code_url": null,
+          "proposal_id": "qMbT20iH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tZDVJvPk"
+        },
+        {
+          "title": "Add JSON output to different tools in C for GRASS GIS",
+          "short_description": "Currently, most GRASS tools produce data in plain text, which forces users to write custom parsing code when processing output in Python. This...",
+          "student_name": "Nishant Bansal",
+          "code_url": null,
+          "proposal_id": "2aMCjCiB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GPVGd3DH"
+        },
+        {
+          "title": "istSOS Setup Configuration Wizard",
+          "short_description": "This project proposes the development of a graphical setup configuration wizard for istSOS4, an open-source Sensor Observation Service. Currently,...",
+          "student_name": "Rahull004",
+          "code_url": null,
+          "proposal_id": "UBbKdIfG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IBbXBca9"
+        },
+        {
+          "title": "Implementing the Bandwidth Algorithm for pgRouting",
+          "short_description": "This project intends to port the Boost Graph Library's 'Bandwidth' algorithm for pgRouting into OSGeo. Graph bandwidth is a primitive parameter in...",
+          "student_name": "Saloni Kumari",
+          "code_url": null,
+          "proposal_id": "3VCyizLr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KkW6RVJh"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.osgeo.org/wiki/Google_Summer_of_Code_Recommendations_for_Students#How_to_get_in_contact_via_IRC",
+  "contact_email": "mailto:gsoc-admin@osgeo.org",
+  "mailing_list": "https://www.osgeo.org/community/communications/",
+  "ideas_url": "https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2025_Ideas",
+  "guide_url": "https://wiki.osgeo.org/wiki/Google_Summer_of_Code_Recommendations_for_Students",
+  "twitter_url": "https://x.com/osgeo",
+  "blog_url": "http://planet.osgeo.org/"
+}

@@ -1,0 +1,219 @@
+{
+  "name": "Fortran-lang",
+  "url": "https://fortran-lang.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/fortran-lang/ay9se7mc6vgdwgbn-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "science",
+    "engineering",
+    "numerical computing",
+    "libraries",
+    "high-performance computing",
+    "compilers",
+    "programming languages",
+    "build systems",
+    "Fortran"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "llvm",
+    "compiler",
+    "fortran"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6542461173760000/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Linked List in stdlib of Fortran-lang",
+          "short_description": "The Fortran offers all the ingredients needed for building modules of various data types such as linked-list, maps, binary tree, etc.\nThis project...",
+          "student_name": "Chetan Karwa",
+          "code_url": "https://github.com/fortran-lang/stdlib/pull/491",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5486930011095040/"
+        },
+        {
+          "title": "LFortran: Finish AST generation",
+          "short_description": "This project aims to ensure that all the grammar rules defined are exposed to the AST(Abstract Syntax Tree) level.\n    \u2023 Basically working on Lexical...",
+          "student_name": "Thirumalai Shaktivel",
+          "code_url": "https://gist.github.com/Thirumalai-Shaktivel/c2a1aaa5239e792e499eaa8942987519",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5088526328135680/"
+        },
+        {
+          "title": "Handling compiler arguments",
+          "short_description": "This project should broaden the functionality of being able to specify flags for compilation profiles, which is so far quite limited. It should also...",
+          "student_name": "Jakub Jelinek",
+          "code_url": "https://github.com/fortran-lang/fpm/pull/498",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4646731328782336/"
+        },
+        {
+          "title": "LFortran and Computational Chemistry",
+          "short_description": "The overarching goal of the project is to have a minimum viable project which can compile the dftatom project which is of personal interest to me as...",
+          "student_name": "Rohit Goswami",
+          "code_url": "https://web.archive.org/web/20210822135122/https://rgoswami.me/posts/gsoc21-fin-reprot/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6524640414924800/"
+        },
+        {
+          "title": "Project Strings: Improving strings support in Fortran",
+          "short_description": "Addition of deferred length variables in Fortran 2003 provides a user with an utility to leave the responsibility of allocating the required space to...",
+          "student_name": "Aman Godara",
+          "code_url": "https://docs.google.com/document/d/1zgSPek0ZB1L8MZ5D_NEXEHFMmmg9QSwZQTOa2pcp128/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6316253567778816/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/fortran-lang/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "LFORTRAN: IMPLEMENTING A CUSTOM WASM BACKEND",
+          "short_description": "This project is about adding support of generating WASM using the LFortran Compiler. It focuses on building a custom ASR (Abstract Semantic...",
+          "student_name": "Mohd Ubaid Shaikh",
+          "code_url": "https://gist.github.com/Shaikh-Ubaid/b93adf592383ca0f25ba5d4d88854701",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2knIxPfC/"
+        },
+        {
+          "title": "Port fortran-lang.org to Sphinx",
+          "short_description": "The idea is to Port the Entire site from Jekyll to Sphinx and MyST parser to add internationalisation as it comes built in Sphinx which also acts as...",
+          "student_name": "Henil Shalin Panchal",
+          "code_url": "https://github.com/henilp105/GSoc-2022-Port-Fortran-lang.org-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/L28fukIz/"
+        },
+        {
+          "title": "Build an online playground for fortran-lang.org",
+          "short_description": "The project aimed to build a playground for Modern Fortran which enables users to run their code online. It will be offered as an extension to the...",
+          "student_name": "Ashirwad Mishra",
+          "code_url": "https://gist.github.com/ashirrwad/ea7eb6f289b6b651d362916721842370",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h0J5Izcu/"
+        },
+        {
+          "title": "LFortran - Implementing generics",
+          "short_description": "Currently LFortran requires that all function parameters to be typed. This makes implementing algorithms supported by many types, tedious. This...",
+          "student_name": "Oshanath Rajawasam",
+          "code_url": "https://oshanathgsoc.blogspot.com/2022/09/gsoc-2022-lfortran-implementing-generics.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kP9aFiIW/"
+        },
+        {
+          "title": "fpm-ize the Fortran ecosystem",
+          "short_description": "This proposal describes the plan and research I have done to make the packages in Fortran Ecosystem FPM compatible. I have described in detail how I...",
+          "student_name": "Arteev Raina",
+          "code_url": "https://github.com/arteevraina/GSoC-2022-Fortran-lang-Final_Work_Product/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wiAa3vbH/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/fortran-lang",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Compiling SciPy with LFortran",
+          "short_description": "I propose enhancing LFortran so that it can compile the majority or all of SciPy's Fortran code to binaries, allowing SciPy to be entirely compiled...",
+          "student_name": "Pranav Goswami",
+          "code_url": "https://gist.github.com/Pranavchiku/5a5a1c82c68b51ea6ffd2b1e0602ecd3",
+          "proposal_id": "Ex5xJbs6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6IzqNOrE"
+        },
+        {
+          "title": "High-level HTTP client library",
+          "short_description": "The project aims to implement a High-level library for HTTP requests. The library would allow Fortran programmers to make all standard HTTP request...",
+          "student_name": "Rajkumar Dongre",
+          "code_url": "https://github.com/rajkumardongre/GSoC23-Final-Report-Rajkumar-Dongre",
+          "proposal_id": "J5OvxlFx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/i0udhZW2"
+        },
+        {
+          "title": "Optimizers in a deep learning framework",
+          "short_description": "This project aims to enhance the capabilities of neural-fortran, a parallel Fortran framework for deep learning, by implementing additional...",
+          "student_name": "Saurabh Suresh Powar",
+          "code_url": "https://gist.github.com/Spnetic-5/9d06fd264180693215757c811d0cf615",
+          "proposal_id": "MJC0i7a9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zVM00eKK"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/fortran-lang/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Graphics Library for Fortran",
+          "short_description": "This project aims to address the lack of a modern, platform-agnostic graphics library for Fortran by designing and implementing a graphics canvas API...",
+          "student_name": "Ezz el-dean Nabil",
+          "code_url": "https://gist.github.com/AnonMiraj/ab524953c8580ed6d34ad5545963b934",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tdNkVMi6/"
+        },
+        {
+          "title": "Implementation of LFortran intrinsic functions",
+          "short_description": "I propose to enhance LFortran so that it can compile all Fortran intrinsic functions. My primary focus will be on completing the missing intrinsic...",
+          "student_name": "Parth Mistry",
+          "code_url": "https://docs.google.com/document/d/1b3aTxEUsiL-zirk5Y-y1m8OOD8-LOFf_9HsqKEW7zhk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jT1KC9UX/"
+        },
+        {
+          "title": "LFortran Intrinsic Functions",
+          "short_description": "This project delves into the intricate landscape of intrinsic functions within LFortran, evaluating their current status and proposing strategic...",
+          "student_name": "Harshita Kalani",
+          "code_url": "https://gist.github.com/HarshitaKalani/bc29d5f2793165264d09c948a84c49b3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wiGOcfOQ/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/fortran-lang",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Enhancing OpenMP Support in LFortran",
+          "short_description": "This project aims to enhance OpenMP support in LFortran by developing a unified ASR node, that encapsulates all core and advanced OpenMP directives...",
+          "student_name": "adit4443ya",
+          "code_url": null,
+          "proposal_id": "ldqUubIm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cu5wDfGZ"
+        },
+        {
+          "title": "Compiling AoC-2024 and Stdlib using LFortran",
+          "short_description": "In the upcoming GSoC project, I will be compiling two code bases\u2014AoC-2024 and Stdlib\u2014using LFortran. These code bases can be compiled by any modern...",
+          "student_name": "AnshMehta",
+          "code_url": null,
+          "proposal_id": "zlGdmlt2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uhd1Mpkb"
+        },
+        {
+          "title": "Compile FPM with LFortran",
+          "short_description": "In order to make LFortran reach beta quality, it is essential to compile more benchmarked fortran codes. FPM(Fortran Package Manager) is one of the...",
+          "student_name": "Jinang Shah",
+          "code_url": null,
+          "proposal_id": "pUqVGRxh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gQy7gPby"
+        },
+        {
+          "title": "File System and Process Management Library (stdlib)",
+          "short_description": "This project aims to extend the community maintained Fortran standard library's system module to include more cross platform functionality related to...",
+          "student_name": "Suprit S Jahagirdar",
+          "code_url": null,
+          "proposal_id": "CSwyHC8D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xTdyYrMf"
+        },
+        {
+          "title": "Improved Fortran Interface Generation for PETSc",
+          "short_description": "PETSc, the Portable, Extensible Toolkit for Scientific Computation, is for the scalable (parallel) solution of scientific applications modeled by...",
+          "student_name": "Tapashree Pradhan",
+          "code_url": null,
+          "proposal_id": "xwEPXinc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jm7DF82F"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://fortran-lang.discourse.group/",
+  "contact_email": "mailto:ondrej@certik.us",
+  "mailing_list": "https://groups.io/g/fortran-lang",
+  "ideas_url": "https://github.com/fortran-lang/webpage/wiki/GSoC-2025-Project-ideas",
+  "guide_url": "https://github.com/fortran-lang/webpage/wiki/GSoC-2025-Contributor-Instructions",
+  "twitter_url": "https://twitter.com/fortranlang"
+}

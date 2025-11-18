@@ -1,0 +1,42 @@
+{
+  "name": "OpenCensus",
+  "url": "http://opencensus.io",
+  "image_url": "https://lh3.googleusercontent.com/DobUf9xiIyhEf9eJYMwAAQDgPdWfkzmPQEuGfWtVfEL_0yqzrANy4LN0bfKSOFJSVyNrLXrLTQtPbLQqNR9JV2xZhW-Ek5I",
+  "image_background_color": "#ffffff",
+  "category": "Infrastructure and cloud",
+  "topics": [
+    "monitoring",
+    "c++",
+    "tracing",
+    "php"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "go",
+    "ruby",
+    "node.js"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5351751314046976/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "OpenCensus.io conversion: using Markdown in a HUGO platform (SSG)",
+          "short_description": "Think back to the first website you built. Most developers start by creating a series of pages contained within individual HTML files. Each will call...",
+          "student_name": "ADAM GARZA",
+          "code_url": "https://adamgarza.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5676904564654080/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/census-instrumentation/GSoC",
+  "contact_email": "mailto:census-developers@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/census-developers",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/opencensusio",
+  "blog_url": "https://twitter.com/opencensusio"
+}

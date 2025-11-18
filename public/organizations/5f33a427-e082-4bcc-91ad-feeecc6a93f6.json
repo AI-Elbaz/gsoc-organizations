@@ -1,0 +1,47 @@
+{
+  "name": "GraphQL Foundation",
+  "url": "https://graphql.org",
+  "image_url": "https://lh3.googleusercontent.com/bz8lK4PHeuxEVW7wfn9vGjOsHJ5DMdOAVeafZ1yo0kro-tTYJgKPriLO6DtgybXnNQ6uUjaKBBVHZXH7rg6cvsrnJU4nnlw",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "api",
+    "data and databases",
+    "graphql"
+  ],
+  "technologies": [
+    "javascript",
+    "react",
+    "node.js",
+    "graphql"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6354766843609088/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "GraphiQL Plugins",
+          "short_description": "I've been using different technologies over the past few years such as PHP (Laravel), Nodejs, VueJS, React, and React Native. Also, I've been using...",
+          "student_name": "Mohammed-osama",
+          "code_url": "https://github.com/graphql/graphiql/pull/1558",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4741891028942848/"
+        },
+        {
+          "title": "Adding streaming support and error recovery to reference GraphQL parser",
+          "short_description": "The goal of this project is to bring error recovery and streaming support in the graphql reference parser while maintaining the code readability,...",
+          "student_name": "Naman K.",
+          "code_url": "https://gist.github.com/hereisnaman/e7708b4bdc82a1e35817625aaf280f81",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5777657423200256/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack-invite.graphql.org",
+  "contact_email": "mailto:info@graphql.org",
+  "mailing_list": "https://lists.foundation.graphql.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/graphql",
+  "blog_url": "https://foundation.graphql.org/news/"
+}

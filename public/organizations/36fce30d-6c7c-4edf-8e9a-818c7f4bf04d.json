@@ -1,0 +1,178 @@
+{
+  "name": "Learning Equality",
+  "url": "https://learningequality.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/learning-equality/iptmmzjiktknrg9p-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "distributed databases",
+    "offline",
+    "learning"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "django",
+    "vue.js"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5523941925322752/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Revolutionizing the Tasks API",
+          "short_description": "Kolibri has a Tasks API that runs time consuming tasks asynchronously outside of HTTP request / response cycle hence unblocking the HTTP connection...",
+          "student_name": "Vivek Agrawal",
+          "code_url": "https://blog.learningequality.org/contributions-to-kolibri-for-google-summer-of-code-2021-aeac44634c64",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4823549662986240/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/learning-equality/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Fixture Generation for Testing",
+          "short_description": "Kolibri lacks representable authentic testing data , also generating testing data utilities are run during unit test runtime making them not so...",
+          "student_name": "Bedo Khaled",
+          "code_url": "https://github.com/learningequality/kolibri/pull/9652",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SvWwlwgO/"
+        },
+        {
+          "title": "Improve Accessibility of PDF Renderer",
+          "short_description": "This project plans to implement a more accessible version of the current Kolibri PDF Renderer. It currently does not support some basic features of a...",
+          "student_name": "Alex Velez",
+          "code_url": "https://medium.com/@velezllaquealex/google-summer-of-code-2022-improve-accessibility-of-pdf-renderer-alex-velez-b87abf46a355",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bYOMxAIc/"
+        },
+        {
+          "title": "Optimizing Existing Real-Time Communication with Websockets",
+          "short_description": "Kolibri Studio is a content curation tool for Kolibri. Its main purpose is to provide an easy and convenient way to organize learning resources and...",
+          "student_name": "Prathamesh Desai",
+          "code_url": "https://medium.com/@prathameshd419/google-summer-of-code-2022-optimizing-existing-real-time-communication-with-websockets-5a2508cb232d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AsVsGFCq/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/learning-equality",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Kolibri Studio - AI-Powered Transcription Generation",
+          "short_description": "This project aims to enhance the accessibility of Kolibri Studio's resources for learners by implementing a feature that automatically generates and...",
+          "student_name": "Akash Verma",
+          "code_url": "https://medium.com/@akash5100/ai-driven-caption-generation-in-kolibri-studio-8270c0c2554a",
+          "proposal_id": "Beyu6jzg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tx5vUflI"
+        },
+        {
+          "title": "Adding a custom text color picker for Kolibri EPUB renderer",
+          "short_description": "Kolibri offers a well integrated EPUB renderer for its users with smooth responsiveness, control over the text size, and six color themes to choose...",
+          "student_name": "Akila Induranga Gamage",
+          "code_url": "https://github.com/Akila-I/gsoc-2023",
+          "proposal_id": "voKP2hsz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3V9w0tMx"
+        },
+        {
+          "title": "Facilitating H5P and SCORM import in Kolibri Studio",
+          "short_description": "This project tries to solve the problem of importing two new file formats called H5P and IMS Content Package (SCORM). These packages' metadata needs...",
+          "student_name": "Manav Aggarwal",
+          "code_url": "https://github.com/learningequality/studio/issues/4081",
+          "proposal_id": "uubaBL5P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ee06M2RH"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/learning-equality/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Integrate Bloom Library into Kolibri ecosystem",
+          "short_description": "The project aims to significantly enhance the educational resources available in Kolibri by integrating the Bloom Library's interactive books, which...",
+          "student_name": "Divyansh_Agarwal",
+          "code_url": "https://blog.learningequality.org/transforming-education-my-gsoc-2024-journey-with-learning-equality-04f252edb855",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hrVyhpsG/"
+        },
+        {
+          "title": "Distributed Error Reporting",
+          "short_description": "This project focuses on Distributed Error Reporting in Kolibri Learning Platform. Kolibri mostly focuses on offline access to education where...",
+          "student_name": "thesujai",
+          "code_url": "https://blog.learningequality.org/google-summer-of-code-2024-distributed-error-reporting-sujai-gupta-91312a1d286c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4lZAkzMm/"
+        },
+        {
+          "title": "Implement a Prototype of an Accessible Sortable Table",
+          "short_description": "The Kolibri Design System contains resources for designers and developers building Kolibri products. With inclusivity at the heart of Learning...",
+          "student_name": "Baby_Elias",
+          "code_url": "https://blog.learningequality.org/gsoc24-a-summer-tale-of-coding-with-learning-equality-b2a17c92978e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XhQkrvev/"
+        },
+        {
+          "title": "Integrating visual testing with Kolibri Design System\u2019s CI",
+          "short_description": "This project aims to integrate visual testing into the Kolibri Design System's (KDS) CI workflows to streamline the validation process for UI...",
+          "student_name": "Kshitij Thareja",
+          "code_url": "https://medium.com/learning-equality/gsoc-24-my-journey-as-a-contributor-at-learning-equality-4ed4c623b189",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ygxmOD0S/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/learning-equality",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Create Robust Windows App",
+          "short_description": "Kolibri's current Windows installer is outdated, difficult to maintain, relies on the unsupported IE11 engine, and lacks parity with the modern...",
+          "student_name": "Dimitrios Mylonas",
+          "code_url": null,
+          "proposal_id": "rdFncAa2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mvtTIkC0"
+        },
+        {
+          "title": "Legacy Compatible prototype of a Rich Text Editor",
+          "short_description": "This project replaces Kolibri Studio's editor with a TipTap/ProseMirror solution that maintains Markdown support while improving reliability,...",
+          "student_name": "Habiba Ayman",
+          "code_url": null,
+          "proposal_id": "KP74gf86",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SnDqa0ef"
+        },
+        {
+          "title": "Kolibri Community Library",
+          "short_description": "The goal of the project presented in this proposal is to create a community library that will enable content creators in the Kolibri ecosystem to...",
+          "student_name": "Jakub Kom\u00e1rek",
+          "code_url": null,
+          "proposal_id": "Np8Ew0rz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9nSTd6ca"
+        },
+        {
+          "title": "Create a new user onboarding experience for  Kolibri",
+          "short_description": "Kolibri currently lacks an in-app onboarding system, relying solely on external user documentation. This project aims to design and implement an...",
+          "student_name": "Shruti862",
+          "code_url": null,
+          "proposal_id": "zFCNrsgQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1UtqS4c1"
+        },
+        {
+          "title": "HTML5 Article Renderer",
+          "short_description": "This project aims to integrate a new resource type, HTML5 articles, into the Kolibri Ecosystem by developing a content renderer capable of displaying...",
+          "student_name": "Winny Chang",
+          "code_url": null,
+          "proposal_id": "6MLezZDK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/s4jiV249"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@learningequality.org",
+  "mailing_list": "https://community.learningequality.org/",
+  "ideas_url": "https://docs.google.com/document/d/e/2PACX-1vT49WKgbsAIUoJ0jJS8LTWWm7UTByM0Pw3qt0KgyU_BShB1oGtZBkrEWuannFsRMVvGd0QBytZt8blh/pub",
+  "guide_url": "https://learningequality.org/r/gsoc-contributor-guidelines",
+  "twitter_url": "https://twitter.com/learneq",
+  "blog_url": "https://blog.learningequality.org/"
+}

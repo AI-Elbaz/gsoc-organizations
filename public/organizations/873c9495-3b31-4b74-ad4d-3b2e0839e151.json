@@ -1,0 +1,1631 @@
+{
+  "name": "INCF",
+  "url": "https://www.incf.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "big data",
+    "data science",
+    "simulation",
+    "neuroscience",
+    "science",
+    "bio/neuro image processing",
+    "brain modeling",
+    "brain simulation",
+    "brain imaging",
+    "brain modelling",
+    "data visualization",
+    "neuroimage processing",
+    "neuroimaging",
+    "machine learning"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "c++",
+    "gpu",
+    "xml",
+    "c",
+    "cuda",
+    "jupyter",
+    "tensorflow"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6563422992859136/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Building cortical network models in NeuroML2 using procedural and declarative programming approaches",
+          "short_description": "There is a long history of neuronal simulator-specific modelling in the fields of theoretical neuroscience and neuroinformatics. As a result, most of...",
+          "student_name": "Rokas",
+          "code_url": "https://github.com/OpenSourceBrain/Thalamocortical/commits?author=RokasSt",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5650639363244032/"
+        },
+        {
+          "title": "Towards Support for Reverse Engineering of Neural Circuits and Non-Linear Dimensionality Reduction in Fovea and PyDSTool",
+          "short_description": "Computational models of neural circuitry are increasingly superseding single neuron models for understanding dynamic processes in the brain....",
+          "student_name": "mcneela",
+          "code_url": "https://github.com/mcneela/Retina",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5004625816059904/"
+        },
+        {
+          "title": "Optimization of neural network simulator via parallelisation",
+          "short_description": "SDDEKit is an algorithmic library written in c backing the neural network simulator of the Virtual Brain's project supporting the calculation of...",
+          "student_name": "Wenyan",
+          "code_url": "https://drive.google.com/open?id=0B50zvRRmvWq3SkRkSy1FVWhFOEk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5087689409822720/"
+        },
+        {
+          "title": "Importing and exporting simulator-independent model-descriptions with the Brian simulator",
+          "short_description": "Brian simulator becomes more and more popular in neuroscience community. At the same time Python is now some kind of state-of-the-art in the field,...",
+          "student_name": "dokato",
+          "code_url": "https://groups.google.com/forum/#!topic/brian-development/QAWrgILotho",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5282286861811712/"
+        },
+        {
+          "title": "Shailesh Tripathi- GSoC Project #9.2: Adding OpenCL support to GeNN",
+          "short_description": "GeNN uses the power of GPU parallelism to accelerate simulations. Currently GeNN only supports CUDA limiting its use to NVIDIA GPUs only. The...",
+          "student_name": "Shailesh Tripathi",
+          "code_url": "https://docs.google.com/spreadsheets/d/1YdSBwirFWGA7FVFRbrWYfJVOty-HtU6V3T6nRXkYtkY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4563229074259968/"
+        },
+        {
+          "title": "The Virtual Brain Project #2: Improving  Parameter Space Exploration Tool",
+          "short_description": "In the last decade simulation models have become more prevalent in a variety of application areas. Each of these models define a set of input...",
+          "student_name": "Dabyly",
+          "code_url": "https://docs.google.com/document/d/1fmPD8wmhpVc8nwD_EYCAZVU2Nl0EVkKddCJ_b26Rqyw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4585023617368064/"
+        },
+        {
+          "title": "Qt5 in PISAK.org, an open system for alternative communication",
+          "short_description": "The project is about replacing technology used by the PISAK program to the Qt5 framework, what will improve its overall quality and allow for easier...",
+          "student_name": "bj",
+          "code_url": "https://github.com/bjura/pisak2/commits/master?author=bjura",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4600262161334272/"
+        },
+        {
+          "title": "Image Search for Brain Maps",
+          "short_description": "The brain search feature is a useful tool for researchers since it allows them to find studies from other researchers showing similar results....",
+          "student_name": "Asier Erramuzpe",
+          "code_url": "https://gist.github.com/erramuzpe/ae40c61a3aa6bb370e027599c714d185",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4729307406532608/"
+        },
+        {
+          "title": "ZeroMQ-based distributed messaging system in the OpenBCI brain\u00ad-computer interface framework",
+          "short_description": "OpenBCI (https://github.com/BrainTech/openbci) is GPL-licensed framework for building brain-computer interfaces. It automates common tasks such as:...",
+          "student_name": "Alex Chrabrow",
+          "code_url": "https://github.com/mroja/openbci/tree/gsoc2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6062767245099008/"
+        },
+        {
+          "title": "Implementation of a HDF5 export/import to EEGBase",
+          "short_description": "The data produced by experiments of Electroencephalography (EEG) and Event\u00ad-related potentials (ERP) is stored in web portal of EEGBase, by...",
+          "student_name": "Ipsita",
+          "code_url": "https://gist.github.com/ila057/c60c70a152fb86e6f5f11230700dcd9c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6308893298786304/"
+        },
+        {
+          "title": "Modular Machine Learning and Classification Toolbox for ImageJ",
+          "short_description": "The major goal of our project is come up with new architecture of existing plugin. Our ultimate goal is to reduce the coupling and make it cohesive...",
+          "student_name": "Sumit Vohra",
+          "code_url": "https://sumit3203.github.io.",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5149819064549376/"
+        },
+        {
+          "title": "Modifying the current neuroshare to hdf5 converter to use the NIX format instead.",
+          "short_description": "I would be tweaking the current neuroshare converter so that any proprietary file that can be read with neuroshare could be converted to an open...",
+          "student_name": "Abhay Chaturvedi",
+          "code_url": "https://goseeky.wordpress.com/2016/08/14/gsoc-2016-with-incf/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5223898660470784/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6593178794721280/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Implementing support for numerical integration with GSL in the Brian simulator",
+          "short_description": "The current project aims to implement the option to carry out the numerical integration part in the Brian simulator with integrators defined in...",
+          "student_name": "Charlee Fletterman",
+          "code_url": "https://charleesf.github.io/gsoc/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6676966358908928/"
+        },
+        {
+          "title": "In-memory Compression for Neuroscience Applications: Blue-Brain Neuromapp Research & Implementation",
+          "short_description": "State of the art computational tools are in especially high demand in the field of Neuroscience. However, bottleneck exists in terms of how much data...",
+          "student_name": "Devin Bayly",
+          "code_url": "https://devinbayly.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6743691628642304/"
+        },
+        {
+          "title": "Adding MPI support to GeNN",
+          "short_description": "This proposal is for adding MPI support to GeNN. GeNN is known as a GPU-enhanced Neuronal Network simulation environment based on code generation for...",
+          "student_name": "Mengchi Zhang",
+          "code_url": "https://github.com/genn-team/genn/tree/MPI_support",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5271063575396352/"
+        },
+        {
+          "title": "Active Segmentation Toolbox for ImageJ",
+          "short_description": "The major goal of this project is to Extend the work of making plugin which was developed in last year.\nThis year we need to come up with some...",
+          "student_name": "Mukesh Gupta",
+          "code_url": "https://github.com/mukesh14149/GOOGLESUMMERCODE2016/commits/master?author=mukesh14149",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5293785697222656/"
+        },
+        {
+          "title": "model completion dashboard",
+          "short_description": "The OpenWorm project is building a simulation of the C. Elegans in an open science fashion. The model completion dashboard is a web-based...",
+          "student_name": "shubhsingh594",
+          "code_url": "https://github.com/shubhsingh594/modelcompdash/blob/fbc9e0e10a56b198169be96b412046601f00a0f5/gsoc%202017.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5582543730507776/"
+        },
+        {
+          "title": "Speeding up functional network analysis on fMRI data with distributed, in-memory computation using Apache Spark",
+          "short_description": "In order to study the fMRI images it is necessary to do a preprocessing , which consist of motion correction, slice timing and realignment, spatial...",
+          "student_name": "Aldo Camargo",
+          "code_url": "https://drive.google.com/drive/folders/0B70qTSHMUf6xQ1pIaWw3Tk9QUnc?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6206392830525440/"
+        },
+        {
+          "title": "GPU implementations for MOOSE",
+          "short_description": "Neuronal and multiscale simulations are computationally demanding, they require large numbers of very similar calculations. One of the core problems...",
+          "student_name": "Micky",
+          "code_url": "http://gsocmoose2017.blogspot.in/2017/08/parallelization-in-moose_25.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4514656752238592/"
+        },
+        {
+          "title": "Conversion of a large scale hippocampal network model to NeuroML",
+          "short_description": "I propose to convert to NeuroML, test and validate a recent, full scale, multicompartmental CA1 hippocampus model by M. Bezaire DOI:...",
+          "student_name": "Andr\u00e1s Ecker",
+          "code_url": "https://gist.github.com/andrisecker/aa7c2e300c127dd04bc9d9eca7811258",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4673827971792896/"
+        },
+        {
+          "title": "Integrating CBS Tools in the Nipy community",
+          "short_description": "CBS Tools are specialized Java-based image processing tools for ultra-high field MRI data. Making this potent software more easily accessible to...",
+          "student_name": "Julia Huntenburg",
+          "code_url": "https://juhuntenburg.github.io/gsoc2017/2017/08/25/final_report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4702934428286976/"
+        },
+        {
+          "title": "TVB-Modernize visualizers",
+          "short_description": "Some of the TVB visualisers are already old and need improvement. This project aims to update three of them, more specific the Wavelet Spectrogram...",
+          "student_name": "DanPop",
+          "code_url": "https://gist.github.com/danvladpop/c46831b90a32223c99f96afbb1f8d691",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4799755070734336/"
+        },
+        {
+          "title": "G-Node : odML Library and Editor",
+          "short_description": "The open metaData Markup Language (odML), is a standard and organized format for recording, maintaining, and exchanging metadata in an automated...",
+          "student_name": "Shubham Dighe",
+          "code_url": "https://gist.github.com/digaru19/d23ac93f78f7f008736d5752be34e824",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4831228591079424/"
+        },
+        {
+          "title": "Image processing with ImageJ (segmentation of high-resolution images)",
+          "short_description": "This is a project is about identifying and parameterizing the precursors of neuronal cells within early-stage embryos. We will co-register the names...",
+          "student_name": "Siddharth Yadav",
+          "code_url": "https://gist.github.com/geekSiddharth/b1febf1585c94aa7e3041fb7e5538763",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5824191207047168/"
+        },
+        {
+          "title": "Distributed EEG data storage and processing using Apache Hadoop and Spark",
+          "short_description": "Currently the human assistive system collects the EEG data, processes it and trains customized classifiers. With the increasing number of tested...",
+          "student_name": "Dorian Beganovic",
+          "code_url": "http://dorianbg.blogspot.com/2017/08/gsoc-2017-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5202249072508928/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6206122851565568/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Contextual Geometric Representations of Cultural Behavior",
+          "short_description": "The project is about turning a set of mathematical models based on the paper \u201cContextual Geometric Structures: modeling the fundamental components of...",
+          "student_name": "CHENG-HSUN HSUEH",
+          "code_url": "https://github.com/jimboH/CGS/blob/master/GSoC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6416997021646848/"
+        },
+        {
+          "title": "Implementation of Two Neural Mass Models on the Open Source Brain Platform",
+          "short_description": "Different computational models have been developed in neuroscience to simulate neural systems, however, these models often use different programming...",
+          "student_name": "Jessica Dafflon",
+          "code_url": "http://neuralensemble.blogspot.com/2018/08/neuroml2lems-is-moving-into-neural-mass.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6446944821968896/"
+        },
+        {
+          "title": "Importing NeuroML morphologies into Brian",
+          "short_description": "Brian is a free, open source simulator for spiking neural networks. It is written in the Python programming language and is available on multiple...",
+          "student_name": "kapilkd13",
+          "code_url": "https://gist.github.com/kapilkd13/dd6ea54af8091441832e536cd48bb758",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6587385420709888/"
+        },
+        {
+          "title": "Building high-resolution 3D models of brain vasculature",
+          "short_description": "In this project, we seek to develop 3D meshing and visualization techniques that are better adapted to the complexity of vascular structures.",
+          "student_name": "Laura Bilicz",
+          "code_url": "https://drive.google.com/open?id=1z3sw0qLPmtf1oC5eUV5OKwKcjmnnZ6RY",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6603083928829952/"
+        },
+        {
+          "title": "A PyNN interface to GeNN",
+          "short_description": "PyNN is a project written in python that aims at interfacing a handful of neural network simulators. A unified high level interface means that a...",
+          "student_name": "Anton Komissarov",
+          "code_url": "https://gist.github.com/braintimeException/109f1f43f1e920435444bb58bf3765e3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6695104005799936/"
+        },
+        {
+          "title": "Easy BIDS: Starter Kit for Brain Imaging Data Structure",
+          "short_description": "Neuroimaging scans can be costly in both time and money to acquire. This creates a barrier for many underfunded researchers without access to the...",
+          "student_name": "Patrick Park",
+          "code_url": "https://github.com/INCF/BIDS-Starter-Kit/blob/0c941110ddee3c9912079e68694698a4a03c0b48/reports/Google-2018-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5052346392379392/"
+        },
+        {
+          "title": "2.3 Monitor Sensors signal in 2D and 3D",
+          "short_description": "The project is about refactoring the current dual brain activity visualiser's 2D plots and adding new visual components to its 3D part to display...",
+          "student_name": "Xiangxiu Meng",
+          "code_url": "https://gist.github.com/kimonoki/11bf99839b6bea45c6d5059e77ead777",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5113503371231232/"
+        },
+        {
+          "title": "Modular Machine Learning and Classification Toolbox for ImageJ",
+          "short_description": "ACTIVE SEGMENTATION is an ImageJ plugin that provides a general-purpose environment that allows biologists and other domain experts to use...",
+          "student_name": "getsanjeev",
+          "code_url": "https://getsanjeev.github.io/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5279955365658624/"
+        },
+        {
+          "title": "MRI Defacing Detector",
+          "short_description": "In the global community for Magnetic Resonance Imaging (MRI) related research, datasets are often shared publicly due to its expensive acquisition...",
+          "student_name": "Wazeer Zulfikar",
+          "code_url": "https://github.com/wazeerzulfikar/Deface-Detector/releases/tag/gsoc-18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5287412167081984/"
+        },
+        {
+          "title": "Physics-based XML Model building for mosaic embryogenesis of Caenorhabditis elegans",
+          "short_description": "The Openworm foundation is building the world's first digital organism.(a worm matrix!) The DevoWorm project(under Openworm) is building a...",
+          "student_name": "Arnab Banerjee",
+          "code_url": "https://gist.github.com/arnab1896/87aa55c9353670dd4c00c81e932db983",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6234040675860480/"
+        },
+        {
+          "title": "Contextual Geometric Representations of Cultural Behavior",
+          "short_description": "The goal of this project is to create a platform that allows the user to run simulations with Contextual Geometric Structures. This model allows for...",
+          "student_name": "Sam",
+          "code_url": "https://github.com/Orthogonal-Research-Lab/CGS/tree/master/cgs-oop",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4750231279239168/"
+        },
+        {
+          "title": "Building a portable open pipeline to detect the hemodynamic response function at rest",
+          "short_description": "Most of the currently used data is task-based fMRI data i.e. the data acquired when the subject performs an explicit task (such as finger-tapping)....",
+          "student_name": "madhur.tandon",
+          "code_url": "https://gist.github.com/madhur-tandon/ab2b44856fe3ed7e1ac7b3963917ffb7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4811888353345536/"
+        },
+        {
+          "title": "Dynamic Signal Processing Workflow Designer",
+          "short_description": "INCF is using EEG event-related potential signal processing and machine learning methods for building assistive systems for motor impaired people....",
+          "student_name": "Joey Pinto",
+          "code_url": "http://www.zedacross.com/gsoc2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6017677403357184/"
+        },
+        {
+          "title": "Add support for Neurodata Without Borders 2.0 to Geppetto",
+          "short_description": "The release of a new NWB version makes it necessary the reintegration of this format into the awesome open-source in-browser neuroscientific...",
+          "student_name": "Afonso Pinto",
+          "code_url": "https://afonsobspinto.github.io//GSoC2018-NWB-Explorer/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4862896861347840/"
+        },
+        {
+          "title": "Building a Neural Network Animation tool using Python and Blender",
+          "short_description": "The aim of the project is to design and develop a software that converts description files of neural networks (e.g. NineML, NeuroML, SpineML) into a...",
+          "student_name": "Alona Sakhnenko",
+          "code_url": "https://github.com/genn-team/neuron_visualisation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5938751540822016/"
+        },
+        {
+          "title": "Packaging the virtual brain for the modern world",
+          "short_description": "This project is about packaging of the the virtual brain(tvb) to the scientific community, using the most used scientific software distributors such...",
+          "student_name": "pyc0d3r",
+          "code_url": "https://gist.github.com/umarbrowser/3ae5357216eb58238bce584bb8ba6d5a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6303188374257664/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5347624150892544/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "16.4 Open Data for OpenWorm",
+          "short_description": "OpenWorm is an attempt to build a biophysical simulation of the model organism C. elegans via assimilation of published data from a range of sources....",
+          "student_name": "Emily Thomas",
+          "code_url": "https://github.com/openworm/OpenData",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6461725128261632/"
+        },
+        {
+          "title": "Web-based GUI for deep learning continuous workflows",
+          "short_description": "This project is a continuous work for the GSoC2018 Dynamic Signal Processing Workflow Designer.\nThe previous existing project is a Web-based GUI to...",
+          "student_name": "Yijie Huang",
+          "code_url": "https://gist.github.com/yijie0727/b2b9d2964d2b81fd682398db330c161f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6471974446956544/"
+        },
+        {
+          "title": "Continuous Integration of Research Data",
+          "short_description": "A GIN micro-service which allows the users to design efficient workflows for their work - probably by automating Snakemake, and build the workflows...",
+          "student_name": "Mrinal Wahal",
+          "code_url": "https://github.com/mrinalwahal/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6619076489641984/"
+        },
+        {
+          "title": "Improve LORIS Automated Testing",
+          "short_description": "LORIS, or Longitudinal Online Research and Imaging System, is a research data platform (github.com/aces/LORIS) for neuroscience studies.  It is a...",
+          "student_name": "Alexandra Livadas",
+          "code_url": "https://alexandralivadas.github.io/pages/gsoc-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5714202444955648/"
+        },
+        {
+          "title": "Implementing automatic white matter parcellation in Nighres",
+          "short_description": "Nighres is an open-source Python package that enables high-resolution neuroimaging data to be easily and efficiently processed. Diffusion MRI is an...",
+          "student_name": "Leevi Kerkel\u00e4",
+          "code_url": "https://github.com/kerkelae/GSoC2019/blob/master/report.rst",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5476562709774336/"
+        },
+        {
+          "title": "Project: 4.3 The Virtual Brain (TVB) Demo Packages for clinical case studies reports",
+          "short_description": "The project is to provide a set of demo packages, including sample python code and user-friendly webpages to clinical researchers for the...",
+          "student_name": "Simone L.",
+          "code_url": "https://mlion0200.github.io/educase-tvb.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6173267474251776/"
+        },
+        {
+          "title": "Model Fitting",
+          "short_description": "Brian 2 is the new version of Brian software. In 2010 the ModelFitting toolbox was developed for the original version...",
+          "student_name": "Aleksandra Teska",
+          "code_url": "https://github.com/brian-team/brian2modelfitting/pull/2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5057868208799744/"
+        },
+        {
+          "title": "Modeling Neural Development with Braitenberg Vehicles",
+          "short_description": "This project is about building an embodied cognitive simulation, i.e. that in which robots we call vehicles have a body and a simple \"mind\",...",
+          "student_name": "Stefan Dvoretskii",
+          "code_url": "https://gist.github.com/stefanches7/88639248e8260784a7f7c3dfa1d2d6c2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6233682145181696/"
+        },
+        {
+          "title": "\"Future-Proofing\" Tedana",
+          "short_description": "For tedana to expand, more extensive test cases are needed. A new contributor could have introduced an unknown bug into the codebase, but without...",
+          "student_name": "Monica Yao",
+          "code_url": "https://whitakerlab.github.io/blog/Monica-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6245424317333504/"
+        },
+        {
+          "title": "Deep Learning in Spiking Neural Networks using GeNN",
+          "short_description": "Building a library that enables conversion of Tensorflow deep neural network models to corresponding Spiking Neural Network architectures, with...",
+          "student_name": "Ajay Subramanian",
+          "code_url": "https://ajaysub110.github.io/files/gsoc-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4559691529584640/"
+        },
+        {
+          "title": "Running FindSim experiments on cloud servers",
+          "short_description": "The project is about implementing the computing extensive FindSim program on a cloud server and building communication between the web server and the...",
+          "student_name": "Hou Chen",
+          "code_url": "https://github.com/surbhit21/GSoC-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4752794014187520/"
+        },
+        {
+          "title": "Semantic Image Processing for  Developmental Data Science.",
+          "short_description": "ImageJ is an OpenSource image processing tool written in Java which has been extremely helpful in the analysis of scientific images especially...",
+          "student_name": "Vinay Varma Nadimpalli",
+          "code_url": "https://nvinayvarma189.tumblr.com/post/187265128652/semantic-image-processing-for-developmental-data",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6512681610117120/"
+        },
+        {
+          "title": "Simulating bob_robotics models using Gazebo",
+          "short_description": "Brains on Board (http://brainsonboard.co.uk) is an inter-university project with the aim of developing an autonomous flying robot with the learning...",
+          "student_name": "Shinjan Mitra",
+          "code_url": "https://gist.github.com/shinjanxp/c185f2befc2802ee20136489ea4bcceb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6043031768137728/"
+        },
+        {
+          "title": "Maxima to Python Translator",
+          "short_description": "Maxima is a computer algebra system, which has been growing for the past 40 years.  However,  given the growing use of Python in Neuroscience, under...",
+          "student_name": "Lakshya A Agrawal",
+          "code_url": "https://gist.github.com/LakshyAAAgrawal/33eee2d33c4788764087eef1fa67269e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6054875543109632/"
+        },
+        {
+          "title": "Visualize a large Connectome in 3D using HTML5",
+          "short_description": "Data visualization plays a crucial role in TVB's neuroinformatics platform, and a Structural Connectivity (connectome) is a core datatype, modelling...",
+          "student_name": "Nakul Bharti",
+          "code_url": "https://gist.github.com/knakul853/ae19d276d55898e653a643f6d925ae98",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4929488750641152/"
+        },
+        {
+          "title": "Project 16.1: P2P File Sharing framework for PyOpenWorm.",
+          "short_description": "The PyOpenWorm data management tool aids in creating, storing, and sharing   information about Caenorhabditis elegans and about the evidence...",
+          "student_name": "Jaideep Seth",
+          "code_url": "https://jaideep-seth.github.io/bittorrent_gsoc19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4936435407257600/"
+        },
+        {
+          "title": "Producing publication-ready brain network analysis results and visualisations from the command line",
+          "short_description": "Many scientists around the world perform structural network analyses on the MRI data during neuroscience experiments or studies. Scona was designed...",
+          "student_name": "Ruslan Yermakov",
+          "code_url": "https://whitakerlab.github.io/blog/Ruslan-Final-Report-GSoC19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5905590751068160/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6550809786974208/",
+      "num_projects": 21,
+      "projects": [
+        {
+          "title": "IMPROVED MODEL DESCRIPTION FUNCTIONALITY IN BRIAN",
+          "short_description": "Brian is a spiking neural networks simulator, which provides desirable syntactic sugar and flexibility to allow a wide variety of models without...",
+          "student_name": "VIGNESWARAN C",
+          "code_url": "https://vigneswaran-chandrasekaran.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5644802944663552/"
+        },
+        {
+          "title": "Deep learning using geometric features",
+          "short_description": "ImageJ is an open source Java image processing and analysis library used extensively in biomedical sciences. Active Segmentation is a plugin...",
+          "student_name": "Joanna Stachera",
+          "code_url": "https://medium.com/@asiastachera/google-summer-of-code-2020-8ce1841d8256",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5667159725834240/"
+        },
+        {
+          "title": "XNAT Dashboards",
+          "short_description": "This project is about creating a responsive dashboard framework for extensive exploration, monitoring, and reviewing large neurological imaging...",
+          "student_name": "Mohammad Asif Hashmi",
+          "code_url": "https://xnat-dashboards.gitlab.io/xnat-dashboards/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5685130842079232/"
+        },
+        {
+          "title": "Pre-trained models for Developmental Neuroscience",
+          "short_description": "Deep neural networks are not yet being used (at scale) on microscopic images for research.  With the right model architecture and training...",
+          "student_name": "Mayukh Deb",
+          "code_url": "https://github.com/devoworm/GSoC-2020/blob/master/Pre-trained%20Models%20(DevLearning)/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5694589333143552/"
+        },
+        {
+          "title": "Improving personalized models of fMRI recordings including individual region-specific HRF in The Virtual Brain",
+          "short_description": "The Virtual Brain (TVB) is a neuroinformatics platform for the simulation of the dynamics of large-scale brain networks with biologically realistic...",
+          "student_name": "Amogh Johri",
+          "code_url": "https://gist.github.com/AmoghJohri/b6ed54baf931ce9318219e22ce2986fe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5701711261335552/"
+        },
+        {
+          "title": "MRI Registration using Deep Learning and Implementation of Thin-Plate Splines",
+          "short_description": "Image registration is the process of finding a transformation that aligns one image to another. DIPY currently supports several numerical...",
+          "student_name": "Sarath Chandra",
+          "code_url": "https://github.com/sarathknv/gsoc2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5722768445800448/"
+        },
+        {
+          "title": "LORIS: API development and documentation",
+          "short_description": "LORIS (Longitudinal Online Research and Imaging System) is a web-based data and project management software for neuroimaging research studies. It is...",
+          "student_name": "Simon Pelletier",
+          "code_url": "https://spell00.github.io/pages/gsoc-2020.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5725083064074240/"
+        },
+        {
+          "title": "Benchmarking modern SNN training algorithms on GeNN",
+          "short_description": "In this proposal, I outline how I plan to implement and benchmark five learning rules - reward-modulated STDP, triplet STDP, compeititve STDP,...",
+          "student_name": "ManviAgarwal",
+          "code_url": "https://github.com/agarwalmanvi/gennzoo",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5042996019462144/"
+        },
+        {
+          "title": "OpenWorm: OpenDevoCell Integration",
+          "short_description": "This project is about integrating the resources available at the OpenWorm and DevoWorm group. This project will focus on improving the data science...",
+          "student_name": "Ujjwalll",
+          "code_url": "https://gist.github.com/ujjwalll/638379d06de8dc004e4177309ae4fb8a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5086274962063360/"
+        },
+        {
+          "title": "TVB: Web GUI for reconstruction pipeline",
+          "short_description": "The project will focus on constructing a Web GUI for Reconstruction pipeline. The reconstruction pipeline takes RMN images as input and processes...",
+          "student_name": "Punit Batra",
+          "code_url": "https://gist.github.com/PUNITBATRA/d3a7404384855df87782ebeee3bac421",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5248990603378688/"
+        },
+        {
+          "title": "A reduced time-series feature library to efficiently characterize neural dynamics",
+          "short_description": "Feature extraction is the core aspect of pattern recognition. In the specific domain of NeuroImaging, researchers in the past have formulated...",
+          "student_name": "Imran Alam",
+          "code_url": "https://imraniac.github.io/gsoc-blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5375249924751360/"
+        },
+        {
+          "title": "LORIS data visualization proposal",
+          "short_description": "This proposal outlines the steps and experience needed for a javascript based data visualization tool for LORIS through the React framework. A method...",
+          "student_name": "Karim Hasbini",
+          "code_url": "https://h-karim.github.io/pages/gsoc2020.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5375289049219072/"
+        },
+        {
+          "title": "Unit Tests for Large-Scale Brain Network Dynamics",
+          "short_description": "The SciUnit framework was developed to help researchers create unit tests for scientific models. Currently, unit tests exist for models of single...",
+          "student_name": "Sorenza Bastiaens",
+          "code_url": "https://gist.github.com/sbastiaens/9de55ef027aec4f8ecffefa299d12377",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6222970000769024/"
+        },
+        {
+          "title": "Upgrade and Fix tvb-gdist C++ Library",
+          "short_description": "While running simulation on cortical surfaces we need to calculate geodesic distance as opposed to euclidean distance due to the shape of the...",
+          "student_name": "Ayan Banerjee7",
+          "code_url": "https://ayan-b.github.io/blog/GSoC-2020-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6251291015118848/"
+        },
+        {
+          "title": "Automated comparison of scientific methods for time-series analysis",
+          "short_description": "Time series analysis methods are regularly being developed and we don\u2019t have any resource at present that compares the newly developed method with...",
+          "student_name": "Salman Khan",
+          "code_url": "https://salmankhancodes.github.io/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4571183929884672/"
+        },
+        {
+          "title": "Conversion of large scale cortical models into PyNN/NeuroML",
+          "short_description": "The project Conversion of large scale cortical models into PyNN/NeuroML involves the conversion of published large scale network models into open,...",
+          "student_name": "Ronaldo Nunes",
+          "code_url": "https://github.com/OpenSourceBrain/JoglekarEtAl18/blob/master/GSoC2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4613840035119104/"
+        },
+        {
+          "title": "LORIS Automated Testing",
+          "short_description": "This project aims to improve the automated testing of the LORIS codebase. This will be achieved through writing both unit and integration tests, as...",
+          "student_name": "Alexandra Livadas",
+          "code_url": "https://alexandralivadas.github.io/pages/gsoc-2020.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4812299971330048/"
+        },
+        {
+          "title": "OSB: Conversion of public neurophysiology datasets to NeuroData Without Borders format",
+          "short_description": "Neuroscience data comes in multiple different data formats and structures. These differences provide a major technical barrier to sharing data...",
+          "student_name": "Vergil Haynes",
+          "code_url": "https://github.com/vrhaynes/NWBShowcase/blob/master/GSoC2020.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4823548826222592/"
+        },
+        {
+          "title": "Python-based electroencephalography (EEG) and deep learning workflow system",
+          "short_description": "The Workflow Designer is a prototype web-based application allowing drag-and-drop creating, editing, and running workflows from a predefined library...",
+          "student_name": "Ronak Doshi",
+          "code_url": "https://ronak66.github.io/EEG-Workflow-System/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4949440726564864/"
+        },
+        {
+          "title": "SciUnit Bifurcation analysis",
+          "short_description": "Extending SciUnit model testing to bifurcation models of spin-glass-like neuron network. I would propose to use model parameter optimization based on...",
+          "student_name": "S. Hussain Ather",
+          "code_url": "https://github.com/GriffithsLab/GSoC_2020_HA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5968855173693440/"
+        },
+        {
+          "title": "Cell Tracking Using Geometric Features",
+          "short_description": "The project aims to provide a robust mechanism for cell tracking using 2D raw image object.Through the use of Viterbi Dynamic Programming based...",
+          "student_name": "Raghavendra",
+          "code_url": "https://raghavendrapara.github.io/CellTracking/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5179835556560896/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6330511550578688/",
+      "num_projects": 21,
+      "projects": [
+        {
+          "title": "Adding more functionality to AnalySim: a data sharing and analysis platform",
+          "short_description": "AnalySim is a data sharing platform similar to GitHub, but specialized for scientific projects. It seeks to simplify the analysis and visualization...",
+          "student_name": "Nga Tran",
+          "code_url": "https://gist.github.com/ngatrann/99d226b7e9f4abbd30f7fb6255734078",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6607064226332672/"
+        },
+        {
+          "title": "SOVABIDS: A python package for the automatic conversion of MEG/EEG datasets that makes the most out of metadata",
+          "short_description": "BIDS is a standard for neuroimaging datasets that helps with data sharing and reusability; as a result it has been widely adopted by the community....",
+          "student_name": "Yorguin Mantilla Ramos",
+          "code_url": "https://gist.github.com/yjmantilla/7004f6ba1bf517c1321b458165aee62b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6615935850381312/"
+        },
+        {
+          "title": "A Django Platform for comparing scientific methods for analyzing neural time series analysis methods",
+          "short_description": "Time-series analysis is a broad, interdisciplinary field, and features for analyzing time-series datasets are ever-increasing. This has led to...",
+          "student_name": "Diptanshu Mittal",
+          "code_url": "https://diptanshumittal.github.io/GSoC-2021-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6667675442348032/"
+        },
+        {
+          "title": "Maxima Demo and Documentation Tool.",
+          "short_description": "The purpose of this project is to create functions which convert a wxMaxima worksheet to Texinfo. The functions to convert a worksheet will be...",
+          "student_name": "Aditya Wagh",
+          "code_url": "https://gist.github.com/adityawagh114/09dde04ed58dc15615b5d453a15f9474",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5654151677083648/"
+        },
+        {
+          "title": "Conversion of public neurophysiology datasets to NeuroData Without Borders format",
+          "short_description": "Neuroscientists have begun to publicly share more and more datasets, however there are still barriers to making these datasets easily reusable by the...",
+          "student_name": "Steph Prince",
+          "code_url": "https://github.com/OpenSourceBrain/GSoC_2021_OSB_NWB",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5688400283172864/"
+        },
+        {
+          "title": "Measure the Quality of CerebUnit Validation Tests",
+          "short_description": "This Project is about quantifying the quality of the Validation Tests (CerebTests), a part of CerebUnit Ecosystem for validation tests which needs to...",
+          "student_name": "Harsh Khilawala",
+          "code_url": "https://gsoc21-weekly-blog.readthedocs.io/en/latest/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5704145096409088/"
+        },
+        {
+          "title": "Improving Test Coverage and Implementing CI/CD in BrainBox",
+          "short_description": "The idea of the project is to extend the coverage of tests in the BrainBox project and also implement Continuous Integration and Continuous...",
+          "student_name": "Aditya R Rudra",
+          "code_url": "https://adityaofficial10.medium.com/my-gsoc-2021-final-code-submission-3f5d59ab42b8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5725071619915776/"
+        },
+        {
+          "title": "Eye Tracking",
+          "short_description": "Eye tracking has many applications from driver safety to improved accessibility for people with disabilities. There exist expensive and bulky...",
+          "student_name": "Dinesh Sathia Raj",
+          "code_url": "https://dssr2.github.io/gaze-track/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5725382971490304/"
+        },
+        {
+          "title": "LORIS Codebase Maintenance and Automated Testing",
+          "short_description": "LORIS is an open source data platform that stores data important for numerous ongoing neuroscience projects. These data include brain scans, genetic...",
+          "student_name": "Viet Hoang",
+          "code_url": "https://vietdhoang.github.io/google-summer-of-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5730851203055616/"
+        },
+        {
+          "title": "Population-specific tractography bundle atlas creation",
+          "short_description": "Understanding the inner wiring of the human brain is one of the most long-pursued goals of neuroscientists. In this journey, diffusion MRI (dMRI) and...",
+          "student_name": "David Romero Bascones",
+          "code_url": "https://gist.github.com/drombas/3ee0d93c7ec608597f02460167e2929a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5421892730617856/"
+        },
+        {
+          "title": "Upgrading DevoLearn",
+          "short_description": "DevoLearn is a python library that contains pre-trained Deep Learning models for the segmentation/analysis of microscopy images. It is specialized...",
+          "student_name": "Mainak Deb",
+          "code_url": "https://github.com/devoworm/GSoC-2021/tree/main/project-3.1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5024379213185024/"
+        },
+        {
+          "title": "Decentralized storage of versioned BIDS datasets with IPFS, datalad and Ceramic",
+          "short_description": "The objective of this project is to build a pipeline for decentralized (IPFS) storage of BIDS-compliant neuroimaging data, with support for version...",
+          "student_name": "kinshuk",
+          "code_url": "https://kinshukk.github.io/posts/gsoc-summary-and-future-thoughts/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5636375545643008/"
+        },
+        {
+          "title": "Re-creating the Leech Heartbeat Network Model Tutorial using the Neuron Simulator in Python and NeuroML",
+          "short_description": "The Calabrese Lab 8-cell Leech Tutorial that is described by Hill et al 2001 has been a staple for teaching computational neuroscience at Emory...",
+          "student_name": "Psyogi Soma",
+          "code_url": "https://github.com/RonCalabreseLab/Leech-8Cell-Tutorial-NeuroML",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4824295913553920/"
+        },
+        {
+          "title": "Input/Out Workflows for Active Segmentation Platform",
+          "short_description": "ImageJ is extensively used in major areas of biological and material sciences. Previously developed active segmentation platform as a plugin for...",
+          "student_name": "Piyumal Demotte",
+          "code_url": "https://medium.com/@piyumalanthony.16/google-summer-of-code-2021-a7da0ad2837e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6497480048377856/"
+        },
+        {
+          "title": "Analyzing stimulus prediction capabilities of neurons: predictive information estimation methods",
+          "short_description": "To guide behaviour, it has been proposed that neurons eventually learn to predict future states of sensory inputs. The project mentors have worked in...",
+          "student_name": "Shiven Tripathi",
+          "code_url": "https://github.com/ShivenTripathi/GSoC-INCF-HDNet/blob/main/FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4909605204787200/"
+        },
+        {
+          "title": "Times Series Classification of EEG Data with Sktime",
+          "short_description": "Electroencephalograms (EEG) and magnetoencephalography (MEG) are techniques for measuring, directly or indirectly, actual or relative changes in...",
+          "student_name": "Svea Marie Meyer",
+          "code_url": "https://svea.hashnode.dev/my-google-summer-of-code-with-sktime-neuroscience-meets-data-science",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5842568906014720/"
+        },
+        {
+          "title": "TVB for Jupyter and Collaboratory",
+          "short_description": "Make TVB Visualization Tools compatible with Jupyter Notebooks and Google Colaboratory",
+          "student_name": "Ishan Vatsaraj",
+          "code_url": "https://docs.google.com/document/d/1UjTqMz9tM6-B_fGL_TTIEiSppiIyhz91Mdfn6bsAUFY/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5997226786029568/"
+        },
+        {
+          "title": "SciUnit: integration with NetPyNE and other simulation environments",
+          "short_description": "(Neuro)scientific simulation environments: test-driven development?",
+          "student_name": "Evgeniia Karunus",
+          "code_url": "https://github.com/rgerkin/netpyneunit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6314884144300032/"
+        },
+        {
+          "title": "Building a Working Prototype of the AutSPACEs website",
+          "short_description": "AutSPACEs is a citizen science platform that aims to understand how sensory processing differences affect autistic people all around the world. It...",
+          "student_name": "Anoushka Ramesh",
+          "code_url": "https://github.com/alan-turing-institute/AutisticaCitizenScience/blob/master/applications/GSoC/AR-GSoC-final-report/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5137383292403712/"
+        },
+        {
+          "title": "A Python toolbox for computing high-order information in neuroimaging",
+          "short_description": "The functioning of complex systems (i.e. the brain, and many others) depends on the interaction between different units; crucially, the resulting...",
+          "student_name": "Pranav Mahajan",
+          "code_url": "https://github.com/PranavMahajan25/HOI_toolbox",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5204615401832448/"
+        },
+        {
+          "title": "Support of the simulation-based inference with the model fitting toolbox",
+          "short_description": "Unlike traditional inverse identification tools that rely on gradient and gradient-free methods, simulation-based inference has been established as...",
+          "student_name": "Ante Lojic Kapetanovic",
+          "code_url": "https://github.com/brian-team/brian2modelfitting/pull/64",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5208560966828032/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/incf/",
+      "num_projects": 35,
+      "projects": [
+        {
+          "title": "Converting existing scientific workflows to the new dataflow engine Pydra (Python)",
+          "short_description": "Scientific workflows often require sophisticated analyses that encompass an extensive collection of algorithms. In neuroimaging, Nipype (Python) is a...",
+          "student_name": "Yibei Chen",
+          "code_url": "https://gist.github.com/yibeichan/2c9879906dcc8836b78dce7d7acdaf4b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LE7kvNMh/"
+        },
+        {
+          "title": "Digital Microsphere",
+          "short_description": "In some organisms like axolotl, the surface of the embryo is transparent and thus allowing us to see the embryogenetic events taking place before the...",
+          "student_name": "Harikrishna Pillai",
+          "code_url": "https://github.com/Harikrishna-AL/GSoC_sub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/oyTOcQDB/"
+        },
+        {
+          "title": "Upgrading the source code for the EEG-Notebook Experiment Library",
+          "short_description": "Conducting Cognitive Neuroscience Experiments has always been limited to research-grade EEG devices that cost tens of thousands of dollars. Since the...",
+          "student_name": "Parv",
+          "code_url": "https://github.com/Parvfect/GSOC-eeg-notebooks",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2baQ46dm/"
+        },
+        {
+          "title": "23.1 An Open-Source Software Suite for EEG Artifact Annotation on Web Browsers",
+          "short_description": "Artifacts are parts of a measured signal generated from sources other than those of interest. For electroencephalography (EEG) data, artifacts from a...",
+          "student_name": "garrettmflynn",
+          "code_url": "https://github.com/garrettmflynn/GSOC22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WOkMdu9V/"
+        },
+        {
+          "title": "NEUROsim - Cortical Simulator",
+          "short_description": "Cerebral cortex is the outermost layer of the brain and is associated with highest mental capabilities like consciousness, emotion, reasoning,...",
+          "student_name": "rahulsonkar",
+          "code_url": "https://github.com/openworm/hodgkin_huxley_tutorial/tree/master/notebooks/GSoC_2022_Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pwkG9aso/"
+        },
+        {
+          "title": "INCF GSoC 2022 1.1. Implementation of White Matter Substrates in Disimpy",
+          "short_description": "Diffusion MRI is a non-invasive imaging technique which provides information about the cellular structure of the brain tissue at microscopic scale....",
+          "student_name": "Renata Cruz",
+          "code_url": "https://github.com/renata-cruz/GSoC.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PPAkNoIf/"
+        },
+        {
+          "title": "Conversion of a public neurophysiology dataset to Neurodata Without Borders (NWB) format",
+          "short_description": "The ever-growing body of data in Neuroscience, which has been enabled by the advancement of state-of-the-art techniques, calls forth collaborative...",
+          "student_name": "Anh",
+          "code_url": "https://github.com/OpenSourceBrain/DANDIArchiveShowcase/blob/main/GSoC_2022_report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1uaAL6Y7/"
+        },
+        {
+          "title": "Eye-tracker using deep learning with Python + TensorFlow/Pytorch",
+          "short_description": "Eye tracking has varieties of applications ranging across usability and user experience research, gaming, driving, and gaze-based interaction for...",
+          "student_name": "Prakanshul Saxena",
+          "code_url": "https://prakanshuls22.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PYTsPN0r/"
+        },
+        {
+          "title": "Efficient app-based measurement of visual functions in infants and young children",
+          "short_description": "Accurate visual function measurements (e.g., resolution acuity) are vital for assessing vision in clinical practice. It is especially crucial for...",
+          "student_name": "wizofe",
+          "code_url": "https://github.com/wizofe/ao-baby-tracker",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pgdhSG3m/"
+        },
+        {
+          "title": "22.1 GNNs as Developmental Networks",
+          "short_description": "I will seek to create GNNs that resemble actual biological networks found throughout development by analyzing time-series microscopy data. This...",
+          "student_name": "Watarungurunnn",
+          "code_url": "https://github.com/watarungurunnn/GSoC2022_submission/blob/f369a9ccf078e843749f6462c11f2e584e1c7133/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mntuSDf4/"
+        },
+        {
+          "title": "1.2 Improving GPU-accelerated Monte Carlo simulations in Disimpy",
+          "short_description": "Several attempts have been made in recent years to develop, collect and analyze data in the field of neuroscience. This proposal aims at helping...",
+          "student_name": "Joel Hurtado Moreno",
+          "code_url": "https://github.com/jhurtadomoreno/GSoC2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5UW9BtMn/"
+        },
+        {
+          "title": "DevoGraph: Modeling Cell Developmental Process of C. elegans using Graph Neural Network",
+          "short_description": "DevoGraph is an open-source framework that models cell developmental process as graphs, extracts and converts latent information into high-level...",
+          "student_name": "Jiahang Li",
+          "code_url": "https://github.com/LspongebobJH/DevoGraph",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VZt1B6Wn/"
+        },
+        {
+          "title": "21.1 A Collective Cognition Model for AI Ethics",
+          "short_description": "A Collective Cognition Model to serve as automated guidelines to open source communities. The model will project the activities, interrelationships,...",
+          "student_name": "Himanshu Chougule",
+          "code_url": "https://gist.github.com/himanshu-02/4c7a50718e27abcecade2766fc1bf218",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LKL5raf2/"
+        },
+        {
+          "title": "Eye-Tracker using Deep Learning with Python + TensorFlow/Pytorch",
+          "short_description": "Eye tracking can be used for a range of purposes, from improving accessibility for people with disabilities to improving driver safety. However,...",
+          "student_name": "Somnath Sharma",
+          "code_url": "https://s0mnaths.github.io/Gaze-Tracker/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jZT1muPe/"
+        },
+        {
+          "title": "Developing a tool to easily store data and study details",
+          "short_description": "The project aims to create a user-friendly GUI to select simulation results and convert them to a BIDS-compliant structure following the BEP034...",
+          "student_name": "Dinara Issagaliyeva",
+          "code_url": "https://dissagaliyeva.github.io/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fOfEvdYx/"
+        },
+        {
+          "title": "A GPU-accelerated Model of the Mouse Primary Visual Cortex",
+          "short_description": "PyGeNN is a Python package for simulating spiking neural networks using GPUs. For this project, I will construct and simulate a PyGeNN model of the...",
+          "student_name": "William Snider",
+          "code_url": "https://github.com/williamsnider/v1_project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TJsq52Ma/"
+        },
+        {
+          "title": "TVB Data Importer",
+          "short_description": "The Virtual Brain (TVB) is a brain stimulation platform. It offers tools for computing, simulating and analyzing functional and structural data of...",
+          "student_name": "Akash Upadhyay",
+          "code_url": "https://spectre-ak.github.io/webpages/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/6Wk7Byun/"
+        },
+        {
+          "title": "Improving Graphical Interface and User Experience for AnalySim",
+          "short_description": "I am planning to improve how AnalySim looks by simplifying pages to assure that it is both practical and easy for users to navigate through it. I...",
+          "student_name": "Ahkeelah Lindo",
+          "code_url": "https://docs.google.com/document/d/1VTJtKeqx65hc7QrigKBbneN-nYNYkiF0TgTmhWenHK8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qMZj4qAr/"
+        },
+        {
+          "title": "Ethical Regulators: Could they prove valuable for AI ethics?",
+          "short_description": "During Google Summer of Code 2022, I propose a project in which these feedback loops (recurrent relationships) and causal loops (reciprocal...",
+          "student_name": "SHussainAther",
+          "code_url": "https://github.com/OREL-group/GSoC/blob/main/Open%20Source%20Ethics/Ethical%20Regulators/blogpost.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/f0LdTGMn/"
+        },
+        {
+          "title": "Automatic reviewer matching using Natural Language Processing: Infrastructure for NBDT Journal",
+          "short_description": "Building recommendation engine for suggesting reviewers using Natural Language Processing and Huggingface library. I will be using the editors\u2019...",
+          "student_name": "Mrunal Prakash Gavali",
+          "code_url": "https://gli-mrunal.github.io/categories/gsoc-blogging/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MDgaQFlg/"
+        },
+        {
+          "title": "17.1: Adding BIDS Prov to new dataflow engine written in Python: Pydra",
+          "short_description": "This project aims to add brain imaging data structure (BIDS) provenance to a workflow engine written in Python called \u2018Pydra\u2019. The brain imaging data...",
+          "student_name": "RyanCali",
+          "code_url": "https://github.com/nipype/pydra/pulls?q=is%3A+is%3Apr+author%3Arcali21+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/U46zNrr6/"
+        },
+        {
+          "title": "Automatic Reviewer Matching Using Natural Language Processing: Infrastructure for NBDT Journal",
+          "short_description": "The peer-review process is one of the most crucial processes in science, yet the process can be burdensome and is not free of bias. As the research...",
+          "student_name": "Alan (Bangyan) Zhang",
+          "code_url": "https://github.com/nbdt-journal/automatic-reviewer-assignment",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/KjzBxpTc/"
+        },
+        {
+          "title": "Simulating multiscale models of the mouse visual cortex in NeuroML",
+          "short_description": "Computational models, based on detailed neuroanatomical and electrophysiological data, are heavily used as an aid for understanding the brain. An...",
+          "student_name": "Anuja Negi",
+          "code_url": "https://github.com/OpenSourceBrain/AllenInstituteNeuroML/blob/master/GSoC22.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4nXkenu9/"
+        },
+        {
+          "title": "Eye-tracker using deep learning with Python + TensorFlow/Pytorch",
+          "short_description": "Eye tracking has varieties of applications, ranging across usability and user experience research, gaming, driving, and gaze-based interaction for...",
+          "student_name": "Abhinav Venkatadri",
+          "code_url": "https://abhinavvenkatadri.github.io/Eye-tracking-GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Xj0jylu3/"
+        },
+        {
+          "title": "Contribute to LORIS: Development of modules and API",
+          "short_description": "This is a proposal to focus on general web development of LORIS modules and API, mentioning key deliverables such as familiarization with the LORIS...",
+          "student_name": "Satvik Singh",
+          "code_url": "https://satvik-tha-god.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XBmRDxpc/"
+        },
+        {
+          "title": "AnalySim",
+          "short_description": "Editing CSV/Displaying CSV files CSV file viewing and sorting for AnalySim datasets, that can be sorted and filtered. I will study how to create and...",
+          "student_name": "Joseph Ongchangco",
+          "code_url": "https://docs.google.com/spreadsheets/d/14rvyiRsgaHQgqq7GVw0ScuBHbxpiUBpfs2JrFWTiGRM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/F73MdsR5/"
+        },
+        {
+          "title": "13.1 Integration of automated model testing and parameter fitting for neuroscience applications",
+          "short_description": "Biologically detailed models are useful tools in neuroscience, and automated methods are now routinely applied to construct and validate such models...",
+          "student_name": "Martin Blazsek",
+          "code_url": "https://gist.github.com/blazma/d47dc510ab95e6445ed8ab74b51c3dd0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CTly5kTa/"
+        },
+        {
+          "title": "A Collective Cognition Model for AI Ethics",
+          "short_description": "The proposed project is an approach to the problems of sustainability and collective cognition within small open-source organizations, proceeding in...",
+          "student_name": "Brian McCorkle",
+          "code_url": "https://github.com/whatcoloris/opensourcedevcommunitymodel",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/D9hiJRSM/"
+        },
+        {
+          "title": "Creating Benchmark Datasets for Object Recognition with Event-based Cameras",
+          "short_description": "Event-based vision is a subfield of computer vision that deals with data from event-based cameras. Event cameras, also known as neuromorphic cameras,...",
+          "student_name": "Neelay Shah",
+          "code_url": "https://github.com/NeelayS/event_aug",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dSlJsb1g/"
+        },
+        {
+          "title": "9.1 Open source, cross simulator, large scale cortical models in NeuroML and PyNN",
+          "short_description": "NeuroML and PyNN are open, simulation independent formats that are used to convert large scale network models. Network models incorporating realistic...",
+          "student_name": "Shayan Shafquat",
+          "code_url": "https://github.com/OpenSourceBrain/BahlEtAl2012_ReducedL5PyrCell/tree/master/GSoC-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gXt6Wgk5/"
+        },
+        {
+          "title": "Developing a Latex to XML pipeline and exploring a standalone platform for NBDT Journal",
+          "short_description": "I am planning to develop a Latex to XML pipeline and adapt the final format to PMC requirements and integrate the pipeline with the current...",
+          "student_name": "Naresh Kumar B",
+          "code_url": "https://github.com/nbdt-journal/XML-pipeline",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nydN1vZi/"
+        },
+        {
+          "title": "A GUI for HNN-core with ipywidgets and the calculation and visualization of CSD signals",
+          "short_description": "GUI: In this part, we aim to build a new GUI for HNN, using the HNN core functions and open source practices, in the form of an ipywidget. Mimicking...",
+          "student_name": "Huzi Cheng",
+          "code_url": "https://github.com/jonescompneurolab/hnn-core",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FE4O7MZt/"
+        },
+        {
+          "title": "Modelling Axolotl Embryos (Proposal for Project Idea 22.2 Digital Microsphere)",
+          "short_description": "The main objective of this project is to generate a 3D model based on a set of 2D axolotl embryo images to aid as a research tool. The problem can be...",
+          "student_name": "Karan Lohaan",
+          "code_url": "https://github.com/devoworm/GSoC-2022/tree/main/Digital-Microsphere/Modeling%20Axolotl%20Embryos",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/utVHjMyi/"
+        },
+        {
+          "title": "Developing a LaTeX to XML Pipeline and Exploring a Standalone Platform for NBDT Journal",
+          "short_description": "The platinum open access overlay neuroscience journal - Neurons, Behavior, Data Analysis, and Theory \u2013 NBDT is ready for inclusion in PubMed Central...",
+          "student_name": "Amogh Johri",
+          "code_url": "https://github.com/nbdt-journal/XML-pipeline/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/iaPAidMZ/"
+        },
+        {
+          "title": "Automatic reviewer matching using Natural Language Processing: Infrastructure for NBDT Journal",
+          "short_description": "It often becomes taxing for editors to assign reviewers to a paper in journals, simply because of the vast number of potential reviewers, or even if...",
+          "student_name": "Varshita Kolipaka",
+          "code_url": "https://medium.com/@varshita2003/google-summer-of-code-blog-incf-nbdt-journal-d4403d3fe243",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YWXy0zcM/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/incf",
+      "num_projects": 22,
+      "projects": [
+        {
+          "title": "Image feature and classification database",
+          "short_description": "The Active Segmentation platform for ImageJ (ASP/IJ) was developed in the scope of GSOC 2016 - 2021. The plugin provides a general-purpose...",
+          "student_name": "Aaryan Gautam",
+          "code_url": "https://docs.google.com/document/d/1YUuhjBycdRBWdMOlEAMiEVBDS__dxhag_pi6UprBzTg/edit#heading=h.xa6g1iidtl1w",
+          "proposal_id": "o0hcXtFF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IuOyLNbG"
+        },
+        {
+          "title": "1.1 Integrate Zenodo API with The Virtual Brain",
+          "short_description": "The Virtual Brain (TVB) is a scientific simulation platform that provides all means to generate, manipulate and visualize connectivity and network...",
+          "student_name": "Abhijit Deo",
+          "code_url": "https://gist.github.com/abhi-glitchhg/5fc28c1bae62104f7cf507b453cd72a0",
+          "proposal_id": "wUjKZHPU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dtJuOy2s"
+        },
+        {
+          "title": "Idea 22.3 - Abhishek Tiwari - Code editor support for Brian model equations",
+          "short_description": "This project involves creating a VS Code extension that provides enhanced support for the Brian2 neural simulator. The extension aims to improve the...",
+          "student_name": "AbhishekTiwari",
+          "code_url": "https://github.com/brian-team/brian-code-editor",
+          "proposal_id": "sL4fTXtO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/s6SQkLzI"
+        },
+        {
+          "title": "Adding new workers and resource management to new dataflow engine written in Python: Pydra",
+          "short_description": "My proposal aims to extend Pydra's worker classes to handle a wider range of systems by utilizing PSI/J, which offers a unified API for various...",
+          "student_name": "Aditya Agarwal",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vR7ONsUkzGpxXYwnXdT4aMur9lYefrLzVhoLnlN_pFMb7X9jCzxN5lsr9TSdJeigf7RuZQNX7_Z3SGt/pub",
+          "proposal_id": "O7lGzOVC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/d8SQBLVj"
+        },
+        {
+          "title": "Technical Improvements to enhance the usability of The Turing Way chapters by different user groups",
+          "short_description": "The Turing Way is an open source, open collaboration and community-led handbook on data science. The book is hosted online in a browsable format....",
+          "student_name": "Arya A",
+          "code_url": "https://github.com/the-turing-way/the-turing-way/blob/main/communications/GSoC-applications/GSoC-2023/2023-GSoC-Final-Report-arya.md",
+          "proposal_id": "dcy6PIrj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DBBe5FSs"
+        },
+        {
+          "title": "Impact visualization portal for global neuro-informatics community",
+          "short_description": "The International Neuroinformatics Coordinating Facility (INCF) is a non-profit organization dedicated to advancing the field of neuroscience and...",
+          "student_name": "Atharva Purohit",
+          "code_url": "https://medium.com/p/b2fd132a9d25",
+          "proposal_id": "9PP8Y03d",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/02XIJIa9"
+        },
+        {
+          "title": "GSoC 2023 Project Idea 2.2 Generalize parameter optimization routines",
+          "short_description": "The Human Neocortical Neurosolver (HNN) is open-source, computational neural modeling software that allows us to examine the cellular- and...",
+          "student_name": "Carolina Fernandez",
+          "code_url": "https://github.com/jonescompneurolab/hnn-core/pull/652",
+          "proposal_id": "QEhbCZLJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6L4I0twl"
+        },
+        {
+          "title": "NWB File Compatibility Testing and Summary Generation via Docker",
+          "short_description": "The \"NWB File Compatibility Testing and Summary Generation via Docker\" project aims to streamline the process of testing NWB (Neurodata Without...",
+          "student_name": "Daksh Rathore",
+          "code_url": "https://gist.github.com/Daksh1603/744637f97ed86f108bcf8599973f5220",
+          "proposal_id": "Yzy55Clv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eFJx96d3"
+        },
+        {
+          "title": "Optimization of the computations of HOIs and integration in the Frites python package",
+          "short_description": "Activity patterns of neurons have so far been examined both singly and in pairs. Higher order interactions (HOIs), or non-pairwise interactions...",
+          "student_name": "Dishie",
+          "code_url": "https://dishie2498.github.io/gsoc/",
+          "proposal_id": "8rlk47yD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/z6hGpvLS"
+        },
+        {
+          "title": "Integration of Automated Model Testing and Parameter Fitting Tools for Neuroscience Applications.",
+          "short_description": "Biologically detailed models are essential tools in neuroscience, and automated methods are frequently used to build and validate such models based...",
+          "student_name": "Eslam Khaled Korany",
+          "code_url": "https://gist.github.com/eslam69/1d0931a6eb3412201126ed6b7c589973",
+          "proposal_id": "1HxwFyV2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eWZCYKjT"
+        },
+        {
+          "title": "3.1 D-GNNs: developing DevoGraph for computational developmental biology - Himanshu",
+          "short_description": "This project is about using Graph Neural Networks(GNNs) as a method to discover underlying connectivity to characterize a growing network that...",
+          "student_name": "Himanshu Chougule",
+          "code_url": "https://gist.github.com/himanshu-02/a0b49ea7a2fe9a81f0ef84974a0be346",
+          "proposal_id": "aIf0nziX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dE4pNOI1"
+        },
+        {
+          "title": "Replicating Auditory Steady-State Response (ASSR) in an auditory cortex model. Project idea 9.1",
+          "short_description": "ASSR refers to the cortical entrainment to frequency and phase of an auditory signal that is presented in a fixed \u201ctrain of clicks\u201d, in a gamma range...",
+          "student_name": "Irene Bernardi",
+          "code_url": "https://docs.google.com/document/d/1o1imsAHI2j4T9fcsCCfGbf7yZ4O572XQ73O3MPHVu1w/edit",
+          "proposal_id": "afJI4WMu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BYIomgGz"
+        },
+        {
+          "title": "A Social web tool to facilitate rating and commenting on research reports",
+          "short_description": "The currently available open-review portal helps in reviewing the research articles, By facilitating official reviewers to comment on the research...",
+          "student_name": "Jyothi Swaroop Reddy Bommareddy",
+          "code_url": "https://gist.github.com/JyothiSwaroopReddy07/89c56164a48a833e2bfdc8a5256c46d1",
+          "proposal_id": "Iw9dcdM0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CzYxI4FH"
+        },
+        {
+          "title": "Project 7.1: Working on Implementing CSV Data Browser and Querying Component",
+          "short_description": "We are trying to solve the difficulty of collaboration among multiple users working on large datasets, particularly in analyzing datasets with many...",
+          "student_name": "Kshitiz Sareen",
+          "code_url": "https://gsoc-blog-post.vercel.app/",
+          "proposal_id": "z1sFLJgL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IlkUDUhC"
+        },
+        {
+          "title": "7.2 Working on improving graphical interface and user experience on AnalySim",
+          "short_description": "To Remove Bootstrap from the application and substitute the design with pure SCSS.To finish implementing the CSS global variables and add component...",
+          "student_name": "PON RAJA PRABHU",
+          "code_url": "https://docs.google.com/document/d/1XZzwVxiQ8oPMMN7F5OHvZLf3W_sMOz7lYAWMeyITbV4/edit?usp=sharing",
+          "proposal_id": "sE5ug7lX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XE5ekcP6"
+        },
+        {
+          "title": "Exploring Open Source Sustainability via Agent based Modelling and Reinforcement learning",
+          "short_description": "The proposed project aims to address the sustainability challenges faced by open-source software projects by using an agent-based modelling and...",
+          "student_name": "R.V.Rajagopalan",
+          "code_url": "https://gist.github.com/rv602/9bd5c469e635075ffd27995514b5c24a",
+          "proposal_id": "rokXhax0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/F504B01a"
+        },
+        {
+          "title": "Develop IO Routines for HNN-core outputs",
+          "short_description": "The idea of the project is to develop IO routines adapted from HNN-core objects while maintaining backwards compatibility with HNN-GUI. The...",
+          "student_name": "Rajat Partani",
+          "code_url": "https://github.com/jonescompneurolab/hnn-core/pull/651",
+          "proposal_id": "OpuqDHUR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1ERkgBbV"
+        },
+        {
+          "title": "Improving LORIS data platform",
+          "short_description": "Deliverables - Improving existing LORIS Codebase and API features, Write test cases for code changes - handling and serving the data efficiently,...",
+          "student_name": "Sanjay Thiyagarajan",
+          "code_url": "https://sanjay-thiyagarajan.github.io/GSoC/",
+          "proposal_id": "bbC3vYtH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WZ4csMDW"
+        },
+        {
+          "title": "Efficient app-based measurement of visual functions in infants and young children",
+          "short_description": "The measurement of visual function in infants and young children is crucial for early detection and treatment of eye conditions that can lead to...",
+          "student_name": "Soham Mulye",
+          "code_url": "https://github.com/Shazam213/automated-preferential-looking#apl-automated-preferential-looking",
+          "proposal_id": "Q6e1UllY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NNz2NNsS"
+        },
+        {
+          "title": "Improving Automatic Reviewer Assignment using  Large Language Models For NBDT Journal",
+          "short_description": "Matching papers to reviewers based on topics is a crucial task for the Neurons, Behavior, Data Analysis, and Theory (NBDT) journal. However, the...",
+          "student_name": "Subhankar Panda",
+          "code_url": "https://medium.com/@neutrino334455/gsoc-2023-improving-automatic-reviewer-assignment-using-large-language-models-for-nbdt-journal-a-11e0068b7a0d",
+          "proposal_id": "5n3fnsOT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4PUfTQfh"
+        },
+        {
+          "title": "Advancements in 3D Cellular Microscopy Imaging Through Fine-Tuned CellSAM and DevoNet Models",
+          "short_description": "This project centers on the enhancement and integration of the CellSAM and DevoNet models to elevate the analysis of 3D microscopy images stored in...",
+          "student_name": "Sushmanth Reddy Mereddy",
+          "code_url": "https://gist.github.com/sushmanthreddy/618e642d2adfc6b58b6b5df0e9dbd3cd",
+          "proposal_id": "aqnAbJhg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ecYYjkHc"
+        },
+        {
+          "title": "4.2 Virtual Reality for Distributed Research (Orthogonal Research and Education Lab) (175 h)",
+          "short_description": "Virtual Reality for Distributed Research (VRDR) encompasses a VR showroom, immersive anatomy exploration, model organism studies, and a VR Morris...",
+          "student_name": "VRUSHALI NANDURKAR",
+          "code_url": "https://github.com/OREL-group/VRDR",
+          "proposal_id": "KStzlvTR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7YSJoZUH"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/incf/",
+      "num_projects": 27,
+      "projects": [
+        {
+          "title": "Implementation of SWC to NeuroML converter in PyNeuroML",
+          "short_description": "I am proposing a project for Google Summer of Code to develop an interactive SWC to NeuroML converter in Python. The converter will simplify the...",
+          "student_name": "Aditya18",
+          "code_url": "https://github.com/AdityaBITMESRA/GSOC2024_INCF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YYkK9vs6/"
+        },
+        {
+          "title": "Developmental Graph Neural Networks (D-GNNs) and Visualizations",
+          "short_description": "DevoGraph is an open-source GNN framework designed specifically for analyzing embryogenetic data. It utilizes Graph Neural Networks (GNNs) as a...",
+          "student_name": "Pakhi Banchalia",
+          "code_url": "https://github.com/DevoLearn/DevoGraph/tree/main/Growing-GNN",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TcBeD9Pl/"
+        },
+        {
+          "title": "Improving and Extending the User Interface of the Neuroptimus Parameter Optimization Software Tool",
+          "short_description": "Neuroptimus, an open-source parameter optimization software tailored for neuroscience applications, has been instrumental in advancing the...",
+          "student_name": "Eslam Khaled Korany",
+          "code_url": "https://gist.github.com/eslam69/6bf4bac85fd5413a75fc289280b78311",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/i7pWkjgM/"
+        },
+        {
+          "title": "Project 15.1 Analysim, INCF- implementing new features in project dashboard and notebook management.",
+          "short_description": "Project Deliverables \u2022 Implement a Project edit button, file and project rename functionality, fix edit project popup , allow editing list of...",
+          "student_name": "Uday Biswas",
+          "code_url": "https://docs.google.com/document/d/1Xb8uVSvLH4WJ-iaTcrmLQrSU30-QBpPHsFxYSNQjuRc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EAR4e6fL/"
+        },
+        {
+          "title": "Visualization and UI update for ASP/IJ",
+          "short_description": "The Active Segmentation Platform for ImageJ (ASP/IJ) aims to provide a general-purpose workbench that allows biologists and other domain experts to...",
+          "student_name": "Rikas Ilamdeen",
+          "code_url": "https://medium.com/@rikasilamdeen/google-summer-of-code-2024-eb6222e41965",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XNVzaM32/"
+        },
+        {
+          "title": "Implement batch simulation and optimization routines",
+          "short_description": "The Human Neocortical Neurosolver (HNN) is a computational tool that enables scientists to study brain responses at the cellular and circuit levels....",
+          "student_name": "Abdul Samad Siddiqui",
+          "code_url": "https://jonescompneurolab.github.io/hnn-core/stable/auto_examples/howto/plot_batch_simulate.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xkCjgyCl/"
+        },
+        {
+          "title": "Using markerless motion capture to drive music generation",
+          "short_description": "Gesture-based music generation has existed for some years now, thanks to software such as Wekinator. However, they use machine learning methods that...",
+          "student_name": "Louis Martinez",
+          "code_url": "https://gist.github.com/lmartinez2001/4865c512ee4e0515e14a7ce80759b1c2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AizxM6Fo/"
+        },
+        {
+          "title": "(Project Idea - 18.2)Improve-Brian's-markdown-exporter",
+          "short_description": "This proposal aims to improve the capability of markdown exporter package inorder to cover multicompartment model, and also to support generation of...",
+          "student_name": "Sparsh_Agrawal",
+          "code_url": "https://docs.google.com/document/d/1tC_T_22kebZ81ZRWuXDJkReW23Mcw1ii8HTuaIaFBvg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GeH4AJah/"
+        },
+        {
+          "title": "Package Brian's unit system",
+          "short_description": "The project aims to refactor the Brain's unit system into a standalone package. Additionally, it aims to incorporate additional functionalities from...",
+          "student_name": "Sorin Birchi",
+          "code_url": "https://github.com/SorinAlexB/GSoC24-QuantSI",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8H1ncQn4/"
+        },
+        {
+          "title": "21.1  HarmonyHub: A Web-Based Platform for Learning Variable-Pitch Musical Instruments",
+          "short_description": "This project aims to build HarmonyHub, a web platform for personalized and engaging learning experiences with variable-pitch instruments like wind...",
+          "student_name": "Keerthi Reddy Kambham",
+          "code_url": "https://gist.github.com/reddykkeerthi/39b65e742b36a1529abd9049c5d65672",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kJmRqWOV/"
+        },
+        {
+          "title": "A natural language interface for querying federated research data",
+          "short_description": "Neurobagel is a federated data ecosystem that allows researchers and other data users to find and consume research data that has to remain at their...",
+          "student_name": "Raya Chakravarty",
+          "code_url": "https://raya679.github.io/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/W7ATppvz/"
+        },
+        {
+          "title": "A Social web tool to facilitate rating and commenting on research reports",
+          "short_description": "SciCommons aims to revolutionize academic publishing by providing an open peer review platform. The current system faces challenges such as time...",
+          "student_name": "armaanalam",
+          "code_url": "https://gist.github.com/armanalam03/e78953c7c0739591d32767f1ae6d8b0b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yvnc5UQy/"
+        },
+        {
+          "title": "INCF GSoC 2024 Project 8.2 Proposal",
+          "short_description": "We aim to further enhance model development with NetPyNE\u2019s \u201cbatch\u201d subpackage by refactoring the code base for ease of use and scalability, then use...",
+          "student_name": "Jsprouse",
+          "code_url": "https://jsprouse0.github.io/GSoC-2024-Website/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LPJ4yoHt/"
+        },
+        {
+          "title": "14.1 INCF Impact Visualization Portal with ML and Data Analytics (175 h)",
+          "short_description": "The proposal focuses on prospective ideas that can be employed for enhancement of the existing INCF Impact Visualization Portal. It goes into depth,...",
+          "student_name": "SuGa_XD",
+          "code_url": "https://medium.com/@surajgajul20/gsoc-2024-incf-a476cf72a35d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MHOmHToz/"
+        },
+        {
+          "title": "HyperDevoGraph: Modeling C. elegans Development with Hypergraph Convolution Techniques",
+          "short_description": "This project studies the development of a tiny worm called Caenorhabditis elegans, focusing on how its cells grow and interact from its early stages....",
+          "student_name": "Mehul Arora",
+          "code_url": "https://github.com/mehular0ra/DevoGraph/tree/hyper-devograph/HyperDevoGraph",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/GwcvMyjX/"
+        },
+        {
+          "title": "Open Source Community Sustainability",
+          "short_description": "The \u2018Open Source Community Sustainability\u2019 project is about simulating open-source community interactions to encourage conditions leading to...",
+          "student_name": "Sarrah Bastawala",
+          "code_url": "https://sarrah-basta.github.io/blogs/2024/08/24/GSoC_'24_OREL_INCF_Project_Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XMUiHWHO/"
+        },
+        {
+          "title": "1.1 - Enhancing tvb-widgets by developing new widgets",
+          "short_description": "TheVirtualBrain (TVB) is the first integrative neuroinformatics platform for the modeling of full brain network dynamics. TVB simulator, written in...",
+          "student_name": "Priyaa",
+          "code_url": "https://peeplika.hashnode.dev/gsoc-2024-the-virtual-brain-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/X7U8jWIT/"
+        },
+        {
+          "title": "Scicommons: A social-web tool to facilitate rating and commenting on research reports",
+          "short_description": "The proposal aims to address the issue of the expensive and inaccessible research publishing industry by leveraging modern internet-based social...",
+          "student_name": "Dinakar",
+          "code_url": "https://docs.google.com/document/d/1JJ8Yj7108JgPHJd5AlM9Pn77QJ2YFClAoTfU56fSH6M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Mj4iyXH2/"
+        },
+        {
+          "title": "LORIS Data Platform Web Modules and API Development",
+          "short_description": "The project aims to enhance the LORIS web platform, a widely used tool in neuroimaging research with databases utilized by research teams in 22...",
+          "student_name": "Nada Ahmed Elmasry",
+          "code_url": "https://gist.github.com/NadaElmasry/60640a7e06938d9bd49c8d71d43a22f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BffgNUa9/"
+        },
+        {
+          "title": "Contribute to LORIS",
+          "short_description": "The proposal involves contributing to the LORIS codebase, a pivotal resource for neuroscience research. LORIS plays a crucial role in facilitating...",
+          "student_name": "Ayush Bhardwaj",
+          "code_url": "https://ay-bh.github.io/blog/gsoc-contributions-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iRV3vXaW/"
+        },
+        {
+          "title": "17.1 Semi-Automated Workflows for Physiological Signals",
+          "short_description": "This project entails the upgrade of the existing physiopy packages, peakdet and phys2denoise, for optimized interoperability and the development of...",
+          "student_name": "Georgios Kikas",
+          "code_url": "https://maestroque.github.io/posts/gsoc-physiopy/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QTi4Yu25/"
+        },
+        {
+          "title": "Incorporate new features into an advanced, cross-platform 3D viewer for NeuroML cells and networks",
+          "short_description": "The project is about incorporating new features into an existing 3D viewer which allows for visualisation of cells and networks using the NeuroML...",
+          "student_name": "Giannis D",
+          "code_url": "https://github.com/lej0hn/GSOC_2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qcwBcYay/"
+        },
+        {
+          "title": "8.1 Automated In-Silico Representation of Published Literature",
+          "short_description": "Project synopsis / summary: This project is dedicated to developing a set of automated tools and processes for extracting useful neuronal...",
+          "student_name": "Zequan Liu",
+          "code_url": "https://github.com/ZequanLIU/V1_AllenBrainInstitute/tree/main",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8qKxblbL/"
+        },
+        {
+          "title": "Efficient app-based measurement of visual functions in infants and young children",
+          "short_description": "Ensuring healthy vision in infants requires early detection of potential problems. Current Infant Visual Function Measurement Systems built in...",
+          "student_name": "Dhruvanshu Joshi",
+          "code_url": "https://gist.github.com/Dhruvanshu-Joshi/a0c700cf55ec29ee45e0cc638b83edc5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Tkk88oFl/"
+        },
+        {
+          "title": "Integration of inference based models to Neuroptimus",
+          "short_description": "With the advent of machine learning, statistical learning and modelling becoming more prevalent in today\u2019s world, we can estimate values for an...",
+          "student_name": "Tamogh Nekkanti",
+          "code_url": "https://github.com/Tamogh123/Gsoc-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/20lw8Wvf/"
+        },
+        {
+          "title": "Best of both worlds \u2013 let\u2019s cherish the features of parametric AND explicit knowledge retrieval",
+          "short_description": "The annotation of research data is essential to ensure its findability and reusability. High-quality data annotations require domain expertise, so...",
+          "student_name": "Barbara Strasser",
+          "code_url": "https://gist.github.com/barbarastrasser/fb6fac5a699f46176cff77cdd3e6c4b4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/10VNeaTJ/"
+        },
+        {
+          "title": "LLM-assisted tool to annotate research data with machine-understandable, semantic data dictionaries",
+          "short_description": "To participate in the Neurobagel query federation, datasets must conform to Neurobagel\u2019s data model, so annotating the datasets is necessary to...",
+          "student_name": "Tvisha Vedant.",
+          "code_url": "https://tvilight4.github.io/MyBlog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RbOlafUP/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/incf",
+      "num_projects": 27,
+      "projects": [
+        {
+          "title": "Conda packaging for GeNN",
+          "short_description": "GeNN is a C++ library that generates code for efficiently simulating Spiking Neural Networks (SNNs) using GPUs. In order to compile this generated...",
+          "student_name": "Agrim Patil",
+          "code_url": null,
+          "proposal_id": "1iPpZRow",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SfBDu4n2"
+        },
+        {
+          "title": "Studying Peripheral Physiological Modulation of Brain Activity (INCF #27)",
+          "short_description": "Traditionally, brain activity has been analyzed independently from peripheral physiological measurements like the electrocardiogram (ECG), but our...",
+          "student_name": "Alex Zhao",
+          "code_url": null,
+          "proposal_id": "kv253PMr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZiQox6Iu"
+        },
+        {
+          "title": "Python API for new cell types",
+          "short_description": "This project will involve refactoring the Human Neocortical Neurosolver (HNN-core) codebase to enable flexible development of neural circuits with...",
+          "student_name": "Chetan Kandpal",
+          "code_url": null,
+          "proposal_id": "3l9QywDJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/EpVSFMhb"
+        },
+        {
+          "title": "GestureCap: Using markerless motion capture and gesture recognition for music generation",
+          "short_description": "Last year, work on GestureCap focused on developing an Arduino-based latency measurement system and optimizing the pipeline for low-latency...",
+          "student_name": "Deepansh Goel",
+          "code_url": null,
+          "proposal_id": "OHmJ6d3T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lxOVr6GO"
+        },
+        {
+          "title": "Developing standardised biophysically detailed neuronal circuit models using NeuroML",
+          "short_description": "This project will convert somatosensory thalamocortical circuits model based on NetPyNE implementation into NeuroML standard formats and testing it...",
+          "student_name": "Hengye Zhu",
+          "code_url": null,
+          "proposal_id": "QFzv7DVd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3MM7t8J3"
+        },
+        {
+          "title": "Developing an ISPC Backend for GeNN to Enable CPU-Based SNN Simulations",
+          "short_description": "GeNN is a C++ library used for simulating Spiking Neural Networks through GPU-based code generation (CUDA/HIP). Currently, its accessibility is...",
+          "student_name": "Jash Vora",
+          "code_url": null,
+          "proposal_id": "E32R7Vyl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ilNUQGQl"
+        },
+        {
+          "title": "DevoTG: Dynamic Graph Neural Networks for Modeling C. elegans Development",
+          "short_description": "The nematode Caenorhabditis elegans serves as a pivotal model organism in developmental biology due to its well-defined cell lineage, compact genome,...",
+          "student_name": "JayaG",
+          "code_url": null,
+          "proposal_id": "K2WlAxao",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gP6abSHH"
+        },
+        {
+          "title": "3. HarmonyHub: Front-end interface refactoring and expansion  for multi-instrument support",
+          "short_description": "HarmonyHub is an open-source, modular web application designed to revolutionize music education by integrating modern technologies and pedagogical...",
+          "student_name": "Komal Bhalotia",
+          "code_url": null,
+          "proposal_id": "iKRPZGJz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KIO5vKBn"
+        },
+        {
+          "title": "MODELING NEURAL DEVELOPMENTAL PROGRAMS OF C. elegans USING GROWING HYPERGRAPH NEURAL NETWORKS",
+          "short_description": "This proposal outlines a novel computational framework for modeling neural developmental programs using Growing Hypergraph Neural Networks (Growing...",
+          "student_name": "Lalith Bharadwaj",
+          "code_url": null,
+          "proposal_id": "DbczNIHo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YRLq7bQE"
+        },
+        {
+          "title": "ActiveVision: a data and model portal for the study of goal-directed vision",
+          "short_description": "This project develops an open portal for goal-directed vision research, integrating eye-tracking datasets and machine learning models with tools for...",
+          "student_name": "Lihong Chen",
+          "code_url": null,
+          "proposal_id": "pEGH718t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZopxGpMS"
+        },
+        {
+          "title": "Develop Python API for Multi-Network Simulations in Human Neocortical Neurosolver (HNN)",
+          "short_description": "\u200bThe Human Neocortical Neurosolver (HNN) is an open-source neural modeling tool designed to help researchers and clinicians interpret human brain...",
+          "student_name": "Maira usman",
+          "code_url": null,
+          "proposal_id": "prf2xAlE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tOqXGb6K"
+        },
+        {
+          "title": "A Python Command Line Interface (CLI) for the CBRAIN Distributed Computing Platform",
+          "short_description": "The project will develop a Python-based CLI for CBRAIN using its Python API Client Swagger API, allowing advanced users to manage research data and...",
+          "student_name": "Md Asiful Alam",
+          "code_url": null,
+          "proposal_id": "F2VOxrUj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1An4Dp8N"
+        },
+        {
+          "title": "BreathState: an open-source Android/iOS and PC app for breathing and heart-rate synchronization",
+          "short_description": "The project will develop the first version of an app that uses Bluetooth to connect with heart-rate and respiration sensors, calculate metrics of...",
+          "student_name": "Michael Lewis",
+          "code_url": null,
+          "proposal_id": "hJWUlTAX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/P9nXg703"
+        },
+        {
+          "title": "#23 SciCommons : A Social-Web Tool For Scientific Discussion, Interaction, Rating and Peer Review",
+          "short_description": "SciCommons is an open-source platform aimed at improving the scientific peer review process through better user experience and web application...",
+          "student_name": "Mohd Faisal Ansari",
+          "code_url": null,
+          "proposal_id": "7bBLFG3Y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qGyE3iBz"
+        },
+        {
+          "title": "Transitioning from Simulation-Based Inference to Automatic MCMC for Virtual Brain Inference",
+          "short_description": "This project aims to replace Simulation-Based Inference (SBI) methods with Markov Chain Monte Carlo (MCMC) techniques for inference problems...",
+          "student_name": "Monica Paoletti",
+          "code_url": null,
+          "proposal_id": "KUn7IhBx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zCDQQX7p"
+        },
+        {
+          "title": "PROJECT #8: Brian Simulator ::  Replace Brian\u2019s just-in-time compilation mechanism",
+          "short_description": "This project aims to replace Brian\u2019s current just-in-time (JIT) compilation system, which relies on Cython. While functional, Cython introduces slow...",
+          "student_name": "Mrigesh_Thakur",
+          "code_url": null,
+          "proposal_id": "8c5r4d0K",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pHhJpEKr"
+        },
+        {
+          "title": "Brian2Wasm: simulations in the browser",
+          "short_description": "This project focuses on enhancing the overall workflow by improving the detection and configuration of the Emscripten toolchain. It aims to optimize...",
+          "student_name": "Palash Chitnavis",
+          "code_url": null,
+          "proposal_id": "WFBqt0tG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bzxZlEfN"
+        },
+        {
+          "title": "Harmony Hub: Using Generative AI for Adaptive Learning in Music",
+          "short_description": "While music educators strive to provide personalized learning paths, existing educational tools often lack the flexibility to adapt to diverse...",
+          "student_name": "PRIYANSHU2026",
+          "code_url": null,
+          "proposal_id": "Wup4UTtT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/e2mngo2U"
+        },
+        {
+          "title": "Automating BIDS Dataset Registration into the EBRAINS Knowledge Graph",
+          "short_description": "This project aims to build an automated workflow to register BIDS-compliant neuroimaging datasets from external repositories (e.g. Public nEUro) into...",
+          "student_name": "Renqing Cuomao",
+          "code_url": null,
+          "proposal_id": "qvH7ukMd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n3fNbjpO"
+        },
+        {
+          "title": "Parallel Filter Implementation for ASP/IJ",
+          "short_description": "The Active Segmentation Platform for ImageJ (ASP/IJ) aims to provide a general-purpose workbench that allows biologists and other domain experts to...",
+          "student_name": "Rikas Ilamdeen",
+          "code_url": null,
+          "proposal_id": "9jaqwFOr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Dbuw5Bsp"
+        },
+        {
+          "title": "[Project 20] Build an AI Agent for KnowledgeSpace using Retrieval-Augmented Generation (RAG)",
+          "short_description": "This project aims to develop an AI-powered agent for KnowledgeSpace\u2014a community-driven neuroscience resource\u2014using Retrieval-Augmented Generation...",
+          "student_name": "Swastik R",
+          "code_url": null,
+          "proposal_id": "9f3zlXLG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6fMVQPH7"
+        },
+        {
+          "title": "19. Contribute to LORIS",
+          "short_description": "LORIS is a comprehensive data management platform that supports diverse datasets in neuroscience research, including imaging, behavioural, clinical,...",
+          "student_name": "T Saket Hatwar",
+          "code_url": null,
+          "proposal_id": "930pnRdG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CEifUSW2"
+        },
+        {
+          "title": "Fullstack cloud deployment for NiiVue",
+          "short_description": "NiiVue is a versatile tool for visualizing and handling neuroimaging data, but insufficient documentation creates friction in using it in deploying...",
+          "student_name": "Thuy T. Dao",
+          "code_url": null,
+          "proposal_id": "xaEIJCnY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/h9cDmi0E"
+        },
+        {
+          "title": "Project 28 Analysim , Preparing for beta release by adding admin section, forking datasets etc.",
+          "short_description": "Project Deliverables \u2022 Admin Section : Implement an admin dashboard to manage users, projects, and datasets. Add moderation tools for handling...",
+          "student_name": "Uday Biswas",
+          "code_url": null,
+          "proposal_id": "UvDWxjtD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RofHkXYa"
+        },
+        {
+          "title": "Vidhi_Rohira_Proposal- Open_Source_Community_Stability",
+          "short_description": "This project aims to support the stability of open source communities by building AI agents that understand conversations, make decisions, and...",
+          "student_name": "Vidhi Rohira",
+          "code_url": null,
+          "proposal_id": "mcZkFBPa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5ar0UXAF"
+        },
+        {
+          "title": "Project27: An open-source toolkit for analyzing multimodal temporal dynamics of the heart-brain axis",
+          "short_description": "This project aims to develop an open-source toolkit for analyzing multimodal temporal dynamics of the heart-brain axis. The accessible software will...",
+          "student_name": "Yunmiao Wang",
+          "code_url": null,
+          "proposal_id": "pEDt3kh5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dHGOLftI"
+        },
+        {
+          "title": "EBrains :: Generating Realistic Cell Models from Experimental Data with Arbor and L2L (350h)",
+          "short_description": "This project aims to build a Python-based framework that automatically generates realistic, biophysically detailed neuron models from experimental...",
+          "student_name": "Zequan Liu",
+          "code_url": null,
+          "proposal_id": "b4gIipse",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gtYOWMMb"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://neurostars.org/",
+  "contact_email": "mailto:mathew@incf.org",
+  "mailing_list": "https://lists.incf.org/listinfo/neuroinfo",
+  "ideas_url": "https://docs.google.com/document/d/1T7U4nYFbVbZuIUw_2bB89YASj-ra26hRNtG2a20Gjlw/edit?tab=t.0",
+  "guide_url": "https://docs.google.com/document/d/16H8MlUl_0EbhL1IC4ddRZKYeMAd9JtAHCuxY5piZOGc/",
+  "twitter_url": "https://twitter.com/INCForg",
+  "blog_url": "https://www.incf.org/blogs-list"
+}

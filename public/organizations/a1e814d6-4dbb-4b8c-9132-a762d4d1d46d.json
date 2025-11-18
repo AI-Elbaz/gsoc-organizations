@@ -1,0 +1,424 @@
+{
+  "name": "MIT App Inventor",
+  "url": "http://appinventor.mit.edu",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/mit-app-inventor/8ppq0spvr3j3gx8q-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Development tools",
+  "topics": [
+    "education",
+    "educational technology",
+    "api",
+    "iot",
+    "blockchain",
+    "mobile apps",
+    "programming languages and development tools",
+    "mobile",
+    "web",
+    "apps",
+    "development",
+    "development tools",
+    "android",
+    "ios"
+  ],
+  "technologies": [
+    "android",
+    "java",
+    "html",
+    "javascript",
+    "gwt",
+    "google app engine",
+    "app",
+    "google web toolkit",
+    "junit",
+    "swift"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5954860486754304/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Proposed Summer Project",
+          "short_description": "The Component Development Kit as of now supports only Non UI components and lacks multiple language support. This proposal aims at upgrading the...",
+          "student_name": "quixotic",
+          "code_url": "https://ai2gsoc16.wordpress.com/gsocreport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5710923524210688/"
+        },
+        {
+          "title": "Searching Blocks in the Blocks Editor",
+          "short_description": "When working on bigger projects, it can be rather difficult to find blocks. A way of searching and focusing on certain blocks would be very useful.",
+          "student_name": "Abhijit Suresh",
+          "code_url": "http://abhijit-suresh.herokuapp.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5371245432406016/"
+        },
+        {
+          "title": "Mit App Inventor Android Research Tasks",
+          "short_description": "The main goal of the project is to investigate how Google Cardboard can be used and integrated with MIT App Inventor, then -  create some predefined...",
+          "student_name": "Kseniia",
+          "code_url": "https://drive.google.com/drive/folders/0B5JjJsCVVj5fQmRLR0dTZXRXb2c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6232237527793664/"
+        },
+        {
+          "title": "IoT: Raspberry Pi Integration with MIT App Inventor",
+          "short_description": "Mobile Applications and smart devices are becoming an ever more important and ubiquitous part of our everyday lives. Mobile phones represented the...",
+          "student_name": "Thilanka Munasinghe",
+          "code_url": "https://docs.google.com/document/d/1jfNO_d8im8NI_RrlsidU1p2KWQw2GjLPsIPH7aERujw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4758962813534208/"
+        },
+        {
+          "title": "Component Enhancement and Runtime Instantiation",
+          "short_description": "The Proposal focuses on the improvement of App Inventor in the following aspects: Component Enhancements and Runtime Instantiation. \nComponent...",
+          "student_name": "Ashik",
+          "code_url": "https://workreportblog.wordpress.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6298689261797376/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6712150730997760/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Visualization components for App Inventor",
+          "short_description": "A new component of App Inventor for users to display charts on Android device. I discussed the general idea as well as some details of implementation...",
+          "student_name": "Liancheng Jia",
+          "code_url": "https://github.com/kirliavc/blog/blob/master/gsoc17.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6571566519287808/"
+        },
+        {
+          "title": "Background-powered Components",
+          "short_description": "Components are the building blocks of app inventor. They can be visible i.e. they are part of UI interface or they can be non visible i.e they are...",
+          "student_name": "Joydeep Mitra",
+          "code_url": "https://github.com/JoyMitra/appinventor-sources/blob/joy_dev/My_GSOC_Contribution.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5007150451523584/"
+        },
+        {
+          "title": "Menu Options for App Inventor",
+          "short_description": "With this project, we will be able to provide one of the most sought out feature i.e menu options in applications developed from App Inventor. In...",
+          "student_name": "Vishwajeet Srivastava",
+          "code_url": "https://medium.com/@vishwajeetsrivastava/final-report-gsoc17-with-mit-app-inventor-475ceb47e118",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5300616976924672/"
+        },
+        {
+          "title": "IoT: Android Things Integration on the MIT App Inventor",
+          "short_description": "Internet of Things (IoT) is a fast growing field of where sensors are monitoring appliances, actuators, and machines, as well as controlling them...",
+          "student_name": "Thilanka Munasinghe",
+          "code_url": "http://thilankam.github.io/android-things/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5159698563072000/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5222565591646208/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implementing the Trash Can in MIT APP INVENTOR",
+          "short_description": "This is the new feature added in MIT APP INVENTOR which allows users not to permanently delete the project once they click the Delete button...",
+          "student_name": "Hemani Kaul",
+          "code_url": "https://github.com/HimaniKaul/blog/blob/master/GSOC_Contribution.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5697370736558080/"
+        },
+        {
+          "title": "RecyclerView Implementation",
+          "short_description": "A Recycler View component would be created which can display media along with text",
+          "student_name": "Vinay Vyas",
+          "code_url": "https://docs.google.com/document/d/1XsG29ZxBeDDHUeGODAViKNa3qcawRP42E_lRuxwF-f8/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5047367567409152/"
+        },
+        {
+          "title": "Implement Visualization Component",
+          "short_description": "Right now, MIT App Inventor is short of components that allow to visualize data using charts. This project aims to implement entirely new components...",
+          "student_name": "Evaldas Lato\u0161kinas",
+          "code_url": "https://github.com/mit-cml/appinventor-sources/pull/1776",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4934538826874880/"
+        },
+        {
+          "title": "Improvements in ListView",
+          "short_description": "This project aims to improvise ListView in App Inventor. It was one of the most demanded improvements from users.\nIdea - Adding custom layouts to...",
+          "student_name": "Ankriti Sachan",
+          "code_url": "https://docs.google.com/document/d/1mlFe2_av3sBuVl8_HUaEGk_lHsGqVlhOuokYmXJ0ZGA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5210963727351808/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6125092997693440/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Visible Component Extensions",
+          "short_description": "Currently, extensions are limited to just non-visible components. Due to this, extensions can't be dragged into the screen designer. To work around...",
+          "student_name": "Pavitra Golchha",
+          "code_url": "https://pavi2410.me/gsoc-2020-appinventor-project-vce/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5288616609185792/"
+        },
+        {
+          "title": "Add Different Preview Options To The Designer",
+          "short_description": "This project is related to Designer which will introduce new theme styles preview option in App Inventor when the Device Default option is clicked....",
+          "student_name": "Hemani Kaul",
+          "code_url": "https://github.com/mit-cml/appinventor-sources/pull/2227",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4663868351053824/"
+        },
+        {
+          "title": "Implement Menu Component and Sidebar",
+          "short_description": "As a part of my GSoC proposal, I plan to integrate a Menu component in the existing MIT App Inventor. Menus are a common user interface component...",
+          "student_name": "Sara Singhal",
+          "code_url": "https://github.com/mit-cml/appinventor-sources/pull/2299",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4739920645586944/"
+        },
+        {
+          "title": "Implement Tab Bar Layout",
+          "short_description": "This project aims to add a Tab Bar arrangement component to the existing App Inventor.  It is a better way for the users to organise their data and...",
+          "student_name": "Suyash Jain",
+          "code_url": "https://github.com/mit-cml/appinventor-sources/pull/2224",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6044439182573568/"
+        },
+        {
+          "title": "Enhancing the experience of App Inventor developers with Google Play",
+          "short_description": "Each operating system has its own \"packages\" that allow installing different applications to extend the features in the device. Android is not an...",
+          "student_name": "Diego Barreiro",
+          "code_url": "https://gsoc20-appinventor.barreiro.xyz/project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5789768257896448/"
+        },
+        {
+          "title": "Operation Options: Enumeration blocks for App Inventor",
+          "short_description": "App Inventor is a web application for building Android apps, which includes a block-based coding editor. The editor includes many blocks which accept...",
+          "student_name": "Beka Westberg",
+          "code_url": "http://bekawestberg.me/blog/gsoc-2020-fin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5941870531706880/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5354857417932800/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implement a CheckBox Group in App Inventor",
+          "short_description": "Currently, App Inventor does not have an element in the user interface similar to RadioGroup in android. As part of my GSoC proposal, I plan on...",
+          "student_name": "Hardik Thami",
+          "code_url": "https://docs.google.com/document/d/1RpUMSctfkh35wF3sRchscVJCLx-o_hAKQmKwxgl668E/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5067615206113280/"
+        },
+        {
+          "title": "A Modular Approach To The App Inventor Projects View",
+          "short_description": "Modernising and modularising the App Inventor Projects View by introducing shortcuts for project actions and integrating markup UI declarations with...",
+          "student_name": "Vishwas Adiga",
+          "code_url": "https://gsoc-21.vishwasadiga.me/final-submission-google-summer-of-code-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4677929702785024/"
+        },
+        {
+          "title": "Custom Font Typeface Support",
+          "short_description": "An approach to enhance the functionality of the MIT App Inventor by adding support for Custom Font Typeface that enhances the flexibility of...",
+          "student_name": "Preet Vadaliya",
+          "code_url": "https://preetvadaliya-ict18.gitbook.io/gsoc-21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6551545700679680/"
+        },
+        {
+          "title": "ANIMATION IMPROVEMENTS",
+          "short_description": "The animation portion of the MIT App Inventor, that includes the Canvas, ImageSprite and Ball components, currently has a lot of room for...",
+          "student_name": "Himanshu Garg",
+          "code_url": "https://gist.github.com/Himanshu2107/3387a8f92392c64b1d45108eeee80f97",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5758608838492160/"
+        },
+        {
+          "title": "Unified Color UI",
+          "short_description": "The color interface in App Inventor deals with multiple different formats, this leads to confusion for the user while switching from one part of App...",
+          "student_name": "Anuj Singhal",
+          "code_url": "https://docs.google.com/document/d/1ESng_A9BKOIIcWf47M8EIurtmUpjdxWKHxW37PR2MFE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5769952585318400/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/mit-app-inventor/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Autopublish AIA for Help/Support",
+          "short_description": "While developing apps using MIT App Inventor, students often need help. For this MIT App Inventor has a community where students can reach out for...",
+          "student_name": "Devarsh Mavani",
+          "code_url": "https://sites.google.com/view/devarsh-mavani-gsoc-22/home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/flrTLQub/"
+        },
+        {
+          "title": "Plugin for Selecting & Dragging & Doing Actions on Multiple Blocks",
+          "short_description": "This project is to enable the selection of multiple blocks at the same time and allow moving and doing actions on multiple blocks on Blockly. This...",
+          "student_name": "Songlin Jiang",
+          "code_url": "https://hollowmansblog.wordpress.com/2022/08/13/my-google-summer-of-code-2022-google-blockly-workspace-multiselect-plugin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9wF06HWE/"
+        },
+        {
+          "title": "Functional Operators in the Blocks Editor",
+          "short_description": "Functional programming is a programming paradigm where programs are constructed by composing pure functions, avoiding shared state, mutable data, and...",
+          "student_name": "SiyaoLi",
+          "code_url": "https://github.com/siyaoL1/GSoC2022/blob/work_summary/work_summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HBUJwOG6/"
+        },
+        {
+          "title": "Augmented Reality In App Inventor",
+          "short_description": "An approach to enhance the functionality of App Inventor by adding the support of augmented reality using Google's expertise AR-Core and OpenGL ES....",
+          "student_name": "Preet Pareshkumar Vadaliya",
+          "code_url": "https://github.com/mit-cml/appinventor-sources/pull/2727",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mn4Z5Bma/"
+        },
+        {
+          "title": "Implementing Teachable Machine",
+          "short_description": "An extension component to be implemented in MIT App Inventor which enables user to use the model that they trained in Teachable Machine in App...",
+          "student_name": "Yugal",
+          "code_url": "https://gist.github.com/Yugal41735/5c63a524f9cac6ff397b92bb97e143f3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AiVzorYn/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/mit-app-inventor",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Dynamic notification of whether a component is implemented in iOS",
+          "short_description": "The primary objective of this project is to enhance the user experience of MIT App Inventor by providing users with information about the...",
+          "student_name": "Aditya B N",
+          "code_url": "https://adirn26.github.io/Google-Summer-Of-Code-Submission/",
+          "proposal_id": "Wawud3CK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/j7UZETHS"
+        },
+        {
+          "title": "Project Properties Dialog",
+          "short_description": "Currently, the properties for the screen1 form contains a number of project project-wide properties such as App Name, Theme and many more. We want...",
+          "student_name": "Arin Modi",
+          "code_url": "https://medium.com/@arinmodi2306/work-product-google-summer-of-code-with-app-inventor-cf7471e16344",
+          "proposal_id": "mtq0H44E",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/njEu8xBZ"
+        },
+        {
+          "title": "Search integration with Blockly editor",
+          "short_description": "This GSOC project aims to integrate the Blockly work-space search plug into App Inventor and add App Inventor specific functions to it. Adding...",
+          "student_name": "Arya Anand",
+          "code_url": "https://gist.github.com/arduino-monkey/568b8fe0b2e3eca3aaaad8240288f3c7",
+          "proposal_id": "tliioo0S",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Cu9JGL33"
+        },
+        {
+          "title": "iOS versions of Android components",
+          "short_description": "Develop iOS versions of Android components for MIT App Inventor Implement the File component under Storage and ListView under User Interface for iOS....",
+          "student_name": "Dhruv Shrivastava",
+          "code_url": "https://docs.google.com/document/d/1FFm5hi8xJEcV05UpvbtjeD7LuzUfHJFfTI_L_vI8GP8/edit?usp=sharing",
+          "proposal_id": "QvgDXpJ2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aeUHF4rI"
+        },
+        {
+          "title": "iOS versions of Android components",
+          "short_description": "The project \"iOS versions of Android components\" aims to develop iOS counterparts of popular Android components that are widely used in mobile app...",
+          "student_name": "Kasy",
+          "code_url": "https://medium.com/@sophian.kashish/my-google-summer-of-code-contribution-journey-mit-app-inventor-c47e10584226",
+          "proposal_id": "ghjAcsBQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PRXU1B2l"
+        },
+        {
+          "title": "GWT Unit Testing",
+          "short_description": "The project aims to set up a code coverage metric with additional unit tests to test the GWT client code. We will be using Jacoco a as code coverage...",
+          "student_name": "Reshu Kumari",
+          "code_url": "https://reshukumari120.medium.com/google-summer-of-code-2023-mit-appinventor-reshu-kumari-38c0de6b9df4",
+          "proposal_id": "loMEqah0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/G4lhhRgz"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/mit-app-inventor/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Keyboard navigation",
+          "short_description": "App Inventor, a versatile tool for mobile app development, currently lacks consistent keyboard navigation and hotkey functionalities, presenting...",
+          "student_name": "Venkata Sai",
+          "code_url": "https://medium.com/@TheDVSV/google-summer-of-code-2024-mit-app-inventor-keyboard-navigation-9b02648aef69",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/91Aek5Gz/"
+        },
+        {
+          "title": "AI components for Android and iOS",
+          "short_description": "The main point is to create an abstract class in both Swift and Java, shared among all AI components, which will contain all the necessary functions...",
+          "student_name": "SimoneSantin",
+          "code_url": "https://gist.github.com/SimoneSantin/985cda8e33f884e93b13717fc20bdced",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9eagCGGs/"
+        },
+        {
+          "title": "AI components for iOS",
+          "short_description": "This proposal aims to enhance MIT App Inventor by developing artificial intelligence (AI) components for iOS platforms. By re-implementing existing...",
+          "student_name": "Sufeen Shaikh",
+          "code_url": "https://medium.com/@sufeenshaikh28/google-summer-of-code-2024-mit-appinventor-2be11fe52a0d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CTeiuCtc/"
+        },
+        {
+          "title": "Updating the Multi-select Plugin in Blockly and Cross-testing Other Plugins",
+          "short_description": "This project aims to enhance the multi-select plugin in the Blockly workspace by integrating the IDragger feature of Blockly 11. Currently, the...",
+          "student_name": "Chang Min Bark",
+          "code_url": "https://github.com/mit-cml/workspace-multiselect/issues/39",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9916Xzin/"
+        },
+        {
+          "title": "Adding mock previews to App Inventor extensions",
+          "short_description": "App Inventor 2 allows users to extend its functionality by using third-party extensions. Extensions are similar to built-in components, they can do...",
+          "student_name": "Shreyash Saitwal",
+          "code_url": "https://github.com/shreyashsaitwal/gsoc24?tab=readme-ov-file",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RFL60jSR/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/mit-app-inventor",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Responsive (Mobile phone Layout)",
+          "short_description": "App Inventor is becoming increasingly popular among users accessing the platform through mobile phones and handheld devices. In response to this...",
+          "student_name": "d1vyanshu-kumar",
+          "code_url": null,
+          "proposal_id": "PeyNyACe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mW5rZglq"
+        },
+        {
+          "title": "Color Choice Property Editor",
+          "short_description": "The current color editor in MIT App Inventor is outdated and lacks important features that could make color selection easier. This project aims to...",
+          "student_name": "iamwsumit",
+          "code_url": null,
+          "proposal_id": "rOWC9K0o",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VwBdhiBL"
+        },
+        {
+          "title": "iOS Implementation of Menu Component",
+          "short_description": "This proposal aims to implement the Menu, Sidebar, and Floating Action Button (FAB) components in iOS for MIT App Inventor, ensuring feature parity...",
+          "student_name": "Kasy",
+          "code_url": null,
+          "proposal_id": "Ph4lfD4c",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZsVxjdhC"
+        },
+        {
+          "title": "Assets Library: Enable Seamless Asset Management in App Inventor",
+          "short_description": "This GSoC proposal aims to create an Assets Library for MIT App Inventor, addressing the challenge of managing assets (images and sounds) across...",
+          "student_name": "Lakshya Shishir",
+          "code_url": null,
+          "proposal_id": "65MFu07Q",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CBQwWnFG"
+        },
+        {
+          "title": "Teachable-LLM: Trainable ChatBot Interface and AI Component",
+          "short_description": "Currently, MIT App Inventor users lack a straightforward way to incorporate Retrieval Augmented Generation (RAG) for context-specific tasks requiring...",
+          "student_name": "Tianyi Huang",
+          "code_url": null,
+          "proposal_id": "tfavDj7C",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nxTo05jc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://groups.google.com/forum/#!forum/app-inventor-open-source-dev",
+  "contact_email": "mailto:gsoc-2021@appinventor.mit.edu",
+  "mailing_list": "https://community.appinventor.mit.edu",
+  "ideas_url": "https://github.com/mit-cml/appinventor-sources/wiki/Google-Summer-of-Code-2025",
+  "guide_url": "https://github.com/mit-cml/appinventor-sources/wiki/Google-Summer-of-Code-2025",
+  "twitter_url": "https://twitter.com/mitappinventor",
+  "blog_url": "https://appinventor.mit.edu/explore/blog"
+}

@@ -1,0 +1,136 @@
+{
+  "name": "CHIPS Alliance",
+  "url": "https://chipsalliance.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/chips-alliance/6tfmap6dqunmfu0f-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "soc",
+    "IP cores",
+    "ASIC design",
+    "HDL",
+    "chiplets"
+  ],
+  "technologies": [
+    "fpga",
+    "chisel",
+    "risc-v",
+    "systemverilog",
+    "ASIC"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/chips-alliance/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Verible SystemVerilog Preprocessor",
+          "short_description": "The objective is to create a SystemVerilog preprocessor for Verible (which is a suite of SystemVerilog developer tools, including a parser,...",
+          "student_name": "Karim Tera",
+          "code_url": "https://github.com/chipsalliance/verible/pulls?q=author%3Akarimtera++",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ILpRcWKa/"
+        },
+        {
+          "title": "Improving the automatic layout generation of the mixed-signal temperature sensor block in OpenFASOC",
+          "short_description": "OpenFASOC is an open-source framework for autonomous generation of optimized integrated circuit blocks given user specifications. It is a growing...",
+          "student_name": "Lucca Silva",
+          "code_url": "https://luccareinehr.github.io/gsoc-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ruRDT3LT/"
+        },
+        {
+          "title": "Development of a smart CI workflow to test analog block functionality and performance in OpenFASOC",
+          "short_description": "OpenFASOC, an automated SOC generator, is enabling chip enthusiasts to develop circuits/macros with a software approach. Circuits must not only be...",
+          "student_name": "saicharan00112",
+          "code_url": "https://circuitsandchips.com/2022/10/24/openfasoc-continuous-integration/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/W2BvbA5Q/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/chips-alliance",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implement Zc RISC-V ISA Extension in Rocket Chip",
+          "short_description": "This project aims to add support for the RISC-V Code size reduction extension (Zcb, Zcmp, Zcmt) to Rocket Core and perform the architectural testing...",
+          "student_name": "Abdul Wadood",
+          "code_url": null,
+          "proposal_id": "MfdxHy04",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/g3jimDyF"
+        },
+        {
+          "title": "DSP hard block integration in F4PGA",
+          "short_description": "F4PGA is an open-source FPGA toolchain designed as a free alternative to proprietary computer-aided design tools like Xilinx\u2019s Vivado. Currently,...",
+          "student_name": "Abhishek_Anand",
+          "code_url": "https://gist.github.com/ad-astra-et-ultra/d5ac9599746301345fdb402823634565",
+          "proposal_id": "zwRfbMv7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mSq56goy"
+        },
+        {
+          "title": "1st CLasS (Custom Logic as a Service) for Local FPGA Deployment using F4PGA",
+          "short_description": "1st CLasS framework is an open-source project that deals with the deployment of a custom kernel on AWS EC2 instance cloud FPGAs with fully automated...",
+          "student_name": "Ali Sajjad",
+          "code_url": "https://medium.com/@alisajjad1705/open-source-fpga-world-a-road-to-1st-claas-f1dad0923db3",
+          "proposal_id": "271grN0f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ELNzdcr2"
+        },
+        {
+          "title": "Implementation of a Common Python Framework for OpenFASoC Generators",
+          "short_description": "OpenFASoC is a project focused on creating fully automated user specifications to GDS generation flow using open-source tools. OpenFASoC uses tools...",
+          "student_name": "Harsh Khandeparkar",
+          "code_url": "https://gist.github.com/harshkhandeparkar/bc1dfdcedcf70978414ec434d5356504",
+          "proposal_id": "eVQK0UO8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SNpK5h0F"
+        },
+        {
+          "title": "Makerchip Flows: A Suite of EDA Flow integrations for TL-Verilog ecosystem",
+          "short_description": "Makerchip Flows aims at developing EDA flows for TL-Verilog leveraging Edalize backend, for open source tools/flows like yosys, Openlane, F4PGA,...",
+          "student_name": "Shrihari",
+          "code_url": "https://blog.xlogic.in/makerchip-flows",
+          "proposal_id": "vMOWxXft",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/f2iyC3J6"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/chips-alliance/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Support Zvk in T1 (RISC-V Vector coprocessor)",
+          "short_description": "Our \"Support Zvk in T1\" project aims to upgrade the T1 processor by adding Zvk, a cryptographic feature from the RISC-V architecture, enhancing its...",
+          "student_name": "Syed Hassan Ul Haq",
+          "code_url": "https://github.com/chipsalliance/riscv-vector-tests/pull/46#issue-2477450183",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Pu321NTt/"
+        },
+        {
+          "title": "Create a GDS reader/writer in OpenROAD",
+          "short_description": "I, Muddassir Ali, a final-year Computer Systems Engineering undergraduate student from Pakistan, aim to contribute to the OpenROAD project by...",
+          "student_name": "Muddassir Ali Siddiqui",
+          "code_url": "https://github.com/Ali-975/GSoC_24-Final-Submission-Report/blob/main/Final_Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4GMmI4xi/"
+        },
+        {
+          "title": "Relational Framework for Prompt-based Automatic Layout Generation with Glayout",
+          "short_description": "The proposal seeks to build upon an existing relational framework that facilitates the generation of DRC-compliant analog layouts through...",
+          "student_name": "Chetanya Goyal",
+          "code_url": "https://gist.github.com/chetanyagoyal/061b1ecb159f833e5f797b22d8a4be7b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/49CwWpnf/"
+        },
+        {
+          "title": "GDS Reader/Writer in OpenROAD",
+          "short_description": "This Project adds GDS input and output features to OpenRoad. It would replace the current GDS manipulation scheme, which is through Klayout, and...",
+          "student_name": "Fangzhong (Barry) Lyu",
+          "code_url": "https://github.com/The-OpenROAD-Project/OpenROAD/pull/5555",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/pMwObwcu/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chipsalliance.slack.com/",
+  "contact_email": "",
+  "mailing_list": "https://github.com/chipsalliance/ideas/issues",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/CHIPSAlliance"
+}

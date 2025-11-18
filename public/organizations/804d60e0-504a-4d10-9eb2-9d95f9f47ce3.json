@@ -1,0 +1,50 @@
+{
+  "name": "Nightwatch.js",
+  "url": "https://nightwatchjs.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/nightwatchjs/slpwnkwtngatafl1-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "unit testing",
+    "Functional Testing",
+    "End-To-End Testing",
+    "Component testing",
+    "Native mobile app testing"
+  ],
+  "technologies": [
+    "javascript",
+    "selenium",
+    "node.js",
+    "typescript",
+    "WebDriver"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/nightwatchjs/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve Nightwatch v3 Element API",
+          "short_description": "This project is segmented into four primary categories: Adding Missing Capabilities, Fixing Issues and Enhancements and Adding Examples & Improving...",
+          "student_name": "aniketsinghrawat",
+          "code_url": "https://medium.com/@dikwickley/google-summer-of-code24-with-nightwatchjs-aniket-singh-rawat-bf8f5cea8618",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nL1y3FiX/"
+        },
+        {
+          "title": "Add improvements to @nightwatch/mobile-helper tool",
+          "short_description": "@nightwatch/mobile-helper is a tool that allows developers and testers to set up a fully functional Android Emulator environment in just a few...",
+          "student_name": "Priyansh Prajapati",
+          "code_url": "https://medium.com/@priyanshkp01/google-summer-of-code24-with-nightwatchjs-0360f5589ca8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HyTRg24M/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/SN8Da2X",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/nightwatchjs",
+  "blog_url": "https://nightwatchjs.org/blog/"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Open States",
+  "url": "https://openstates.org",
+  "image_url": "https://lh3.googleusercontent.com/NwcPOErW65aS1HhiyvCsBHwtxUKIjYW4MlE123d_66rwai20REjJkxDZP_BOjYSwnrY6oRDkBHqPJzdtvRIj9YlJ1bqkPw",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "web",
+    "government",
+    "journalism",
+    "civic",
+    "civic tech",
+    "scraping"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript",
+    "django",
+    "react",
+    "graphql"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5076494711783424/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Open Civic Data Admin Tools",
+          "short_description": "The new admin tools will identify the data quality issues in the database and allow Open States admins to know about the current status of quality of...",
+          "student_name": "Hitesh Garg",
+          "code_url": "https://gist.github.com/hiteshgarg14/7a8bc91dbe700edc10f91d173bbc1bc4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5077606705659904/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4806851430449152/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://openstates-slack.herokuapp.com/",
+  "contact_email": "mailto:contact@openstates.org",
+  "mailing_list": "https://groups.google.com/forum/#!forum/fifty-state-project",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/@openstates",
+  "blog_url": "https://blog.openstates.org"
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Neutralinojs",
+  "url": "https://neutralino.js.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/neutralinojs/thloxs47w1aa1uts-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "desktop",
+    "framework",
+    "cross-platform",
+    "Application Development"
+  ],
+  "technologies": [
+    "c",
+    "javascript",
+    "node.js",
+    "c++",
+    "typescript"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/neutralinojs/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Proposal for writing test suite for Neutralinojs CLI",
+          "short_description": "Neutralinojs's command-line interface is powered by a simple yet robust CLI tool \"neu\". neu helps to easily create, run, and build Neutralinojs...",
+          "student_name": "Sainath Rao",
+          "code_url": "https://github.com/neutralinojs/neutralinojs-cli/pull/166",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JHVbqMKj/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/neutralinojs/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "C++/JavaScript integration test system enhancements",
+          "short_description": "Neutralinojs has a test system but currently, it only checks for functional breakdowns. The test suite throws an error on a Windows CI Instance and...",
+          "student_name": "Sadaf Ahmed",
+          "code_url": "https://medium.com/@sadaf20043006/gsoc-2024-final-evaluation-report-neutralinojs-3d25f952d8c7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/K9OB14E5/"
+        },
+        {
+          "title": "NodeNeutralino",
+          "short_description": "This project aims to revamp the Neutralinojs ecosystem to enhance the experience for web developers creating native desktop apps. While the community...",
+          "student_name": "Viral Gupta",
+          "code_url": "https://medium.com/@guptaviral0/building-the-future-my-gsoc-2024-journey-8dabf7a87e45",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jznxtKv0/"
+        },
+        {
+          "title": "Make Neutralinojs compatible with older Windows versions",
+          "short_description": "Neutralinojs is tested on Windows 10 and 11, but it is not well-tested with older Windows versions. The goal of this idea is to update the...",
+          "student_name": "Bhuvan Ade",
+          "code_url": "https://github.com/neutralinojs/gsoc-old-windows-support",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tkjoOb63/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/cybpp4guTJ",
+  "contact_email": "neutralinojs@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/NeutralinoJs"
+}

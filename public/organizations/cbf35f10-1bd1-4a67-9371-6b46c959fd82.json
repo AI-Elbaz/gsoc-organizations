@@ -1,0 +1,308 @@
+{
+  "name": "PEcAn Project",
+  "url": "https://pecanproject.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/pecan-project/kijyzllr7r1g0ukz-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "data science",
+    "ecosystem models",
+    "scientific visualization",
+    "ecological forecasting",
+    "climate science",
+    "Ecological Forecasting,"
+  ],
+  "technologies": [
+    "c",
+    "postgresql",
+    "javascript",
+    "r",
+    "php",
+    "python",
+    "docker",
+    "singularity",
+    "kubernetes",
+    "api",
+    "geospatial"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4773366791667712/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Dockerization & New Instance Setup",
+          "short_description": "Currently the PEcAn stack is distributed using the VM\u2019s. The Aim is to replace the current VM distributions technique with the docker containers and...",
+          "student_name": "Aman Kumar",
+          "code_url": "http://amanskywalker.github.io/gsoc-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5070788713512960/"
+        },
+        {
+          "title": "Model Benchmarking in PEcAn",
+          "short_description": "PEcAn is an ecological modelling toolbox with the capability to automate, preserve, and repeat model runs. One functionality still in the early...",
+          "student_name": "Anne Thomas",
+          "code_url": "https://gist.github.com/annethomas/c603c13f12f17d10c6234b99d5354ae2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6195340537495552/"
+        },
+        {
+          "title": "Scientific Visualization Project for PEcAn",
+          "short_description": "The PEcAn (Predictive Ecosystem Analyser) project is an open source system for ecosystem modelling and forecasting. With huge amount of climatic and...",
+          "student_name": "Shubham Agarwal-1",
+          "code_url": "https://docs.google.com/document/d/1JKeePbZQMKwv651VjflBe4AZ3AK1ax0pAKoLHq4rfmw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5785439193530368/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5315984235692032/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve User Interface of the Data Ingest Workflow in PEcAn",
+          "short_description": "Ingesting data into PEcAn is currently a user-hostile process for researchers. To simplify this process, the PEcAn team would benefit from an...",
+          "student_name": "Liam Burke",
+          "code_url": "https://gist.github.com/LiamBurke24/a8a4e2e1a36446133bb9c308bb42c7f0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4770871415668736/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5919891029229568/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Meta-Data Upload Interface",
+          "short_description": "The aim of the project is to allow users to upload the data in form of files(.csv, data table, google sheets, etc.) to BETYdb. It will done by...",
+          "student_name": "Kumar_Saurabh",
+          "code_url": "https://gist.github.com/saurabh1969/3e464dd88d4ec845262287c785c04eeb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4658671282290688/"
+        },
+        {
+          "title": "GSoC 2019 Application Proposal",
+          "short_description": "The current visualization shiny apps of PEcAn 'Workflow Plot' and 'Global Sensitivity' is facing problems including instability and slow...",
+          "student_name": "shuang",
+          "code_url": "https://github.com/PecanProject/pecan/pull/2368",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6023142261129216/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4860868635918336/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Extension of PEcAn API",
+          "short_description": "In addition to the interactive PEcAn web interface, the PEcAn API package is built to allow users to build the PEcAn settings object via an R script...",
+          "student_name": "TEZAN SAHU",
+          "code_url": "https://medium.com/@tezansahu/gsoc-2020-extending-the-pecan-api-wrap-up-cc8e8c547ee6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5651640532598784/"
+        },
+        {
+          "title": "Metadata Upload  Interface",
+          "short_description": "The project aims at creating and developing a usable, self-explanatory and distinct frontend user interface for BETYdb-YABA application that will be...",
+          "student_name": "Prakher Prashank",
+          "code_url": "https://osf.io/v7f9t/wiki/GSOC%202020%20Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5514519943577600/"
+        },
+        {
+          "title": "Extending Remote data module by connecting Google Earth Engine and other Data sources.",
+          "short_description": "The existing data.remote module supports the downloading of MODIS and NLCD data. Through this project, I will extend the remote data module of PEcAn...",
+          "student_name": "Ayush Prasad",
+          "code_url": "https://gist.github.com/ayushprd/91ac3b60bdb5da9f1a4487285a8af7ba",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6247694684651520/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5117265531371520/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Testing Dashboard",
+          "short_description": "The Testing Dashboard project aims to develop an easy-to-read dashboard with features like a status board to check which inputs are working and which...",
+          "student_name": "Akhil Jha",
+          "code_url": "https://medium.com/@theakhiljha/gsoc-21-report-testing-dashboard-pecan-project-d434b19a608d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5381617144561664/"
+        },
+        {
+          "title": "PEcAn in CRAN",
+          "short_description": "Currently, PEcAn is not available in CRAN, this makes it harder to install on systems since it requires the user to download all code first and...",
+          "student_name": "Shashank-Singh",
+          "code_url": "https://medium.com/@shashanksingh819/gsoc-2021-pecan-in-cran-final-report-19ab082cf548",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5770136799150080/"
+        },
+        {
+          "title": "Adding ICOS and GEDI data streams to PEcAn",
+          "short_description": "In PEcAn, there are data processing pipelines that prepare data as model drivers, as well as constraints. Flux tower networks are one of the most...",
+          "student_name": "Ayush Prasad",
+          "code_url": "https://gist.github.com/ayushprd/07174bf2e1df13c0ed24d5dc206112ee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6004326333415424/"
+        },
+        {
+          "title": "Website Updates",
+          "short_description": "The project aims at creating and deploying a user friendly, interactive and accessible website for PEcAN Project. The following objectives will be...",
+          "student_name": "Eshan",
+          "code_url": "https://dev.to/eshantri/gsoc-21-report-webpage-updates-9c7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6329013378744320/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/pecan-project/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "PEcAn packages on CRAN",
+          "short_description": "PEcAn packages are not available on CRAN. To run PEcAn packages users have to download each package manually, which is quite a lengthy process and...",
+          "student_name": "Tanishq Jain",
+          "code_url": "https://medium.com/@tanishqjain010/gsoc-2022-pecan-in-cran-final-report-4ef45b55df75",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VHsxHvmU/"
+        },
+        {
+          "title": "Enhancing Meteorological Data Input Processing and Creating Agricultural Data Ingestion Pipelines",
+          "short_description": "In this project, I plan to extend PEcAn by building two data ingestion workflows that will improve the modelling capabilities of PEcAn. The first...",
+          "student_name": "Swarnalee Mazumder",
+          "code_url": "https://gist.github.com/swarnalee-m/96c0d7f3c1286fb97ca5eb9c5ae3b342",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/i5NhLn1p/"
+        },
+        {
+          "title": "Extend API / Distributed file sharing",
+          "short_description": "The project aims at improving and extending the current PEcAn REST API's by making it more robust and dynamic from the user's perspective. The...",
+          "student_name": "Nihar Sanda",
+          "code_url": "https://koolgax99.github.io/posts/gsoc-2022-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vN1P5m66/"
+        },
+        {
+          "title": "Continuous Integration / Workflow Hardening",
+          "short_description": "The Workflow Hardening of PEcAn project involves improving the existing integration testing framework by extending it to include a wider range of...",
+          "student_name": "Akhil Jha",
+          "code_url": "https://medium.com/@theakhiljha/gsoc-22-report-continuous-integration-workflow-hardening-pecan-project-967a3f08fb84",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/bSK9C7Gp/"
+        },
+        {
+          "title": "PEcAn Helm chart enhancements",
+          "short_description": "This project aims to enhance the helm charts of PEAn project, adding security at containers, pods, hosts, and image level. After completion of the...",
+          "student_name": "Sagar Utekar",
+          "code_url": "https://medium.com/@sagarutekar2366/gsoc-2022-pecan-helm-chart-enhancements-final-report-69ba2228b983",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h7I8ekwv/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/pecan-project",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improving Test Coverage for PEcAn Packages",
+          "short_description": "The short term goal is to improve unit test coverage for PEcAn base packages. The overall PEcAn ecosystem of packages (e.g, models and analysis...",
+          "student_name": "Meet M Agrawal",
+          "code_url": "https://docs.google.com/document/d/1U8SAll-lAnJo77BS6ri6_fCy-q6fD8vwVV2g0_aZh3o/edit?usp=sharing",
+          "proposal_id": "0UrYLWvd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ozz95eVk"
+        },
+        {
+          "title": "Rejuvenating the PEcAn SDA and forecasting Dashboard",
+          "short_description": "This project is primarily focused on creating an interactive display of the carbon cycle forecast and data assimilation system of PEcAn. The main...",
+          "student_name": "Nihar Sanda",
+          "code_url": "https://koolgax99.github.io/posts/gsoc-2023-final-report/",
+          "proposal_id": "P7vSfnSk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3I7TziS6"
+        },
+        {
+          "title": "GitHub Actions - Optimizing CI Pipeline and Utilizing the Whole Docker Stack for Testing",
+          "short_description": "Worked on optimising the CI pipeline, After reconfiguration and optimisation of the pipeline, I was successfully able to reduce the time taken for...",
+          "student_name": "Rohan Sasne",
+          "code_url": "https://medium.com/@rohansasne30/gsoc-23-report-github-actions-pecan-project-b5a7feace163",
+          "proposal_id": "HbFpXFzG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/etmBQV5Q"
+        },
+        {
+          "title": "PEcAn Packages to CRAN",
+          "short_description": "Currently, PEcAn packages are not available to download from CRAN, this makes it harder to install on systems since it requires the user to manually...",
+          "student_name": "Shashank-Singh",
+          "code_url": "https://medium.com/@shashanksingh819/gsoc-2023-pecan-packages-to-cran-final-report-c1d43c090a",
+          "proposal_id": "fl1n3amd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/icaSUgyg"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/pecan-project/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Optimize PEcAn for freestanding use of single packages",
+          "short_description": "The objective of this project is to enhance the PEcAn Project by optimizing its modules for standalone use. Despite PEcAn's robust framework and its...",
+          "student_name": "Abhinav Pandey",
+          "code_url": "https://dev.to/devrx/my-gsoc-experience-pecan-project-bi0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CI7SB4bJ/"
+        },
+        {
+          "title": "PEcAn Code Hardening by Integration Tests",
+          "short_description": "The project aims to enhance the reliability of PEcAn's integration tests by prioritizing packages associated with overall workflow bottlenecks. It...",
+          "student_name": "Meet M Agrawal",
+          "code_url": "https://medium.com/@meetagrawal09/google-summer-of-code-2024-final-report-f7efd59466c6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EG8UbPly/"
+        },
+        {
+          "title": "Machine Learning downscaling of PEcAn outputs",
+          "short_description": "This project aims to develop and integrate machine learning models capable of downscaling the carbon flux outputs from the Predictive Ecosystem...",
+          "student_name": "Sambhav Dixit",
+          "code_url": "https://medium.com/@indosambhav/revolutionizing-climate-modeling-my-gsoc-journey-with-pecan-3232f6b18da3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nK7l42Bl/"
+        },
+        {
+          "title": "Adopting Data Schema for Field Management Events",
+          "short_description": "This project aims to integrate the JSON data schema (management-event-schema) into the FieldActivity R Shiny application, enabling it to read...",
+          "student_name": "Pratik Pakhale",
+          "code_url": "https://github.com/PecanProject/fieldactivity/pull/79",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tsyopiTU/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/pecan-project",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Development of Data Preparation Workflows for Ensemble-Based Modeling",
+          "short_description": "This project focuses on developing modular data preparation workflows within the PEcAn ecosystem to support ecological modeling.It targets the...",
+          "student_name": "Akash B V",
+          "code_url": null,
+          "proposal_id": "1q6P0957",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rQV9ToRO"
+        },
+        {
+          "title": "Development of Notebook-based PEcAn Workflows",
+          "short_description": "This project aims to develop Quarto notebooks as an accessible yet flexible interface for running PEcAn workflows, bridging the gap between the...",
+          "student_name": "Aritra Dey",
+          "code_url": null,
+          "proposal_id": "95OVzSDe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cFQgJgsm"
+        },
+        {
+          "title": "GSoC 2025 Proposal: Global Sensitivity Analysis /  Uncertainty Partitioning in PEcAn",
+          "short_description": "This proposal aims to enhance PEcAn's ecological forecasting workflows by implementing Sobol' global sensitivity analysis for more accurate...",
+          "student_name": "Blesson Thomas",
+          "code_url": null,
+          "proposal_id": "JHRmO4km",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1Q4oXnAh"
+        },
+        {
+          "title": "Database and data improvements",
+          "short_description": "This project aims to decouple PEcAn\u2019s dependency on BETYdb\u2014a centralised PostgreSQL database used for storing trait data, yield data, and provenance...",
+          "student_name": "Harsh Agrawal70",
+          "code_url": null,
+          "proposal_id": "6PmAOiBW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AiNuxjxW"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/pecanproject/shared_invite/enQtMzkyODUyMjQyNTgzLWEzOTM1ZjhmYWUxNzYwYzkxMWVlODAyZWQwYjliYzA0MDA0MjE4YmMyOTFhMjYyMjYzN2FjODE4N2Y4YWFhZmQ",
+  "contact_email": "mailto:pecanproj@gmail.com",
+  "mailing_list": "http://pecanproject.github.io/contact.html",
+  "ideas_url": "https://pecanproject.github.io/gsoc_ideas",
+  "guide_url": "https://pecanproject.github.io/gsoc.html",
+  "twitter_url": "https://twitter.com/PEcAnProject"
+}

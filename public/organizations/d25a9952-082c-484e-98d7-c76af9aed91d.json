@@ -1,0 +1,1632 @@
+{
+  "name": "CERN-HSF",
+  "url": "http://hepsoftwarefoundation.org/activities/gsoc.html",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cern-hsf/cjus658sjzba5zhg-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "big data",
+    "physics",
+    "particle physics",
+    "high-energy physics",
+    "performance optimization",
+    "algorithmics",
+    "big data science",
+    "Performance Optimisation"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "machine learning",
+    "data analysis",
+    "parallel algorithms",
+    "parallelization",
+    "concurrency",
+    "container orchestration",
+    "artificial intelligence"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6360460286754816/",
+      "num_projects": 20,
+      "projects": [
+        {
+          "title": "Using Pseudo-random number repeatably in a fine-grain multithreaded simulation",
+          "short_description": "Particle transport Monte Carlo simulations are a key tool for High Energy Physics experiments, including the LHC experiments at CERN. All Monte Carlo...",
+          "student_name": "Dima Savin",
+          "code_url": "https://sd57.github.io/g4dprng/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6471566527299584/"
+        },
+        {
+          "title": "Jet Clustering Optimizations in Fads",
+          "short_description": "Fads is a fast detector simulation toolkit in Go used for High Energy Physics analyses. The current version is not very scalable and it takes up too...",
+          "student_name": "Bastian Wieck",
+          "code_url": "https://gist.github.com/Bastiantheone/03921bb8207c37e2e8306101e7e3bcaa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6624607083692032/"
+        },
+        {
+          "title": "Convolutional Deep Neural Networks on GPUs for Particle Physics Applications",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a machine learning toolkit for the ROOT scientific software framework. It contains a variety of...",
+          "student_name": "Saurav Shekhar",
+          "code_url": "https://sshekh.github.io/blog/gsoc/index",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5404527133982720/"
+        },
+        {
+          "title": "Optimisation of GeantV HPC workload balancing",
+          "short_description": "This is proposal for implementing suggested HPC aware infrastructure with workload balancer.",
+          "student_name": "Vitalii Drohan",
+          "code_url": "https://gist.github.com/dvush/a589e94874d0db71e218f117f96140ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5475198807572480/"
+        },
+        {
+          "title": "Big Data Tools for Physics Analysis",
+          "short_description": "Jupyter Notebook is an interactive computing environment that is used to create notebooks which contain code, output, plots, widgets and theory....",
+          "student_name": "Krishnan R",
+          "code_url": "https://github.com/krishnan-r/sparkmonitor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5045066422812672/"
+        },
+        {
+          "title": "New error control methods for integration of trajectories",
+          "short_description": "Track of a charged particle in a non-uniform electromagnetic field can be described by the first-order initial value problem (IVP). Robustness and...",
+          "student_name": "Dmitry Sorokin",
+          "code_url": "https://dmitrysorokin.github.io/GSoC2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5253859681239040/"
+        },
+        {
+          "title": "Assess ROOT's asynchronous data prefetching",
+          "short_description": "Assess the performance of ROOT's asynchronous data prefetching compared to standard prefetching mechanism for reading remote ROOT files.",
+          "student_name": "George Papadrosou",
+          "code_url": "https://gist.github.com/giorgosp/3e9779299aca9737d038130898ee79b8#file-readme-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5326115929325568/"
+        },
+        {
+          "title": "Deep Anomaly",
+          "short_description": "This project is aimed towards building a framework which monitors incoming ATLAS Computing Operations data for anomalies and then autonomously, acts...",
+          "student_name": "Vyom Sharma",
+          "code_url": "https://medium.com/towards-data-science/gsoc-2017-working-on-anomaly-detection-at-cern-hsf-49766ba6a812",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5341432319574016/"
+        },
+        {
+          "title": "Improvements in vectorization and parallelization of ROOT Math libraries",
+          "short_description": "ROOT is a data analysis software used by scientists all over the world; therefore, its efficiency is critical for the scientific community in general...",
+          "student_name": "Alejandro Garc\u00eda Montoro",
+          "code_url": "https://agarciamontoro.github.io/2017/08/25/gsoc-final-thoughts.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5350915607363584/"
+        },
+        {
+          "title": "Updating gopy to support Python3 and PyPy",
+          "short_description": "gopy is an excellent tool which generates (and compiles) a CPython extension module from a go package. And I hope more developers could make full use...",
+          "student_name": "Dong-hee Na",
+          "code_url": "https://github.com/corona10/GSoC2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5352263690223616/"
+        },
+        {
+          "title": "Efficient Python routines for analysis on massively multi-threaded platforms-Python bindings for the Hydra C++ library",
+          "short_description": "\u2018Effective Python routines for analysis on massively multi-threaded platforms-Python bindings for the Hydra C++ library'. The title of this project...",
+          "student_name": "Deepanshu Thakur",
+          "code_url": "https://github.com/MultithreadCorner/Hydra.Python/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6217497468469248/"
+        },
+        {
+          "title": "Machine Learning Project: Multi-target Regression for Particle Physics",
+          "short_description": "Toolkit for Multivariate Data Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software network, used...",
+          "student_name": "Brian Lui",
+          "code_url": "https://briancylui.github.io/falcon/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6223742887788544/"
+        },
+        {
+          "title": "Next generation of CMS data replication system",
+          "short_description": "The CMS (Compact Muon Solenoid) is a high-energy physics experiment at the LHC. The CMS PhEDEx(Physics Experiment Data Export) project is responsible...",
+          "student_name": "Rishi Shah",
+          "code_url": "https://docs.google.com/document/d/1QkyN-NsQcOPOrnyOJqn1ehXkJCM756KkKv3Dj0ltDls/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6256225993883648/"
+        },
+        {
+          "title": "Automatic code generation for fast inference in the CMS tracking software",
+          "short_description": "Extracting shape information from simulated CMS events\nUsing Tensorflow to train a DNN based on the shape of the hits, detector information and...",
+          "student_name": "Kunal_Singh_",
+          "code_url": "https://github.com/kunal-iitkgp/Inference",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4675205045682176/"
+        },
+        {
+          "title": "Convolutional Deep Neural Networks on GPUs for Particle Physics Applications",
+          "short_description": "The Convolutional Neural Networks (CNNs) are one special type of a deep learning neural networks with an enormous discriminative power for image...",
+          "student_name": "Vladimir Ilievski",
+          "code_url": "https://ilievskiv.github.io/2017/08/23/final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4801233076355072/"
+        },
+        {
+          "title": "Smart Data Structures in CUDA",
+          "short_description": "The CUDA language, used for programming NVIDIA GPUs, is not dynamic-data-structure friendly since it was designed for working with data structures of...",
+          "student_name": "Somesh Singh",
+          "code_url": "https://github.com/ssomesh/SALLOC/tree/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6549039684255744/"
+        },
+        {
+          "title": "Integration of TMVA and OpenML platform",
+          "short_description": "OpenML is an open source project that aims to create a novel ecosystem for machine learning experimentation. It is possible to integrate different...",
+          "student_name": "Sami Ullah",
+          "code_url": "https://docs.google.com/document/d/16Ccz0NPMKdVZ6QPSkB5NzQqz3O92OKPbsJJUGAiga1o/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6041482192486400/"
+        },
+        {
+          "title": "Electron-ion collision in Pythia8",
+          "short_description": "PYTHIA is used for generation of events in high-energy collisions. Originally developed in fortran until Pythia6.4, it was rewritten in C++ starting...",
+          "student_name": "vikas gupta",
+          "code_url": "https://vikasnt.github.io/pythia8/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4878223586361344/"
+        },
+        {
+          "title": "Convolutional Deep Neural Networks on GPUs for Particle Physics Applications",
+          "short_description": "In the last few years, deep learning has led to very good performance on a variety of problems, such as visual recognition, speech recognition and...",
+          "student_name": "ajatgd",
+          "code_url": "https://medium.com/@akshayvashistha1995/google-summer-of-code-summary-92ce7ca48d18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6326594738061312/"
+        },
+        {
+          "title": "Launching Wagon, a WebAssembly interpreter in Go",
+          "short_description": "WebAssembly (wasm) is a low level bytecode binary file format made for execution on the Web, designed as a compilation target for various programming...",
+          "student_name": "Vibhav Pant",
+          "code_url": "https://gist.github.com/vibhavp/f6041cf6e21c2b2285f4056b3230a2b8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5164191635734528/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4841240159846400/",
+      "num_projects": 26,
+      "projects": [
+        {
+          "title": "FALCON",
+          "short_description": "googledoc\nTimeline:\nBefore 5/22/2018:\nGet familiar with ROOT.\nGet in touch with community.\nHave a preliminary to-do list of possible optimizing...",
+          "student_name": "Hanlin Tang",
+          "code_url": "https://docs.google.com/document/d/1ih76CKmj2pA0aYA5LLG98v-4ejYpe_P1lPaF_jbhVX0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6373557118435328/"
+        },
+        {
+          "title": "Recurrent Neural Networks and LSTMs on GPUs for Particle Physics Applications",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a machine learning toolkit for the ROOT scientific software framework used in many particle physics data...",
+          "student_name": "Harshit Prasad",
+          "code_url": "https://medium.com/@harshit.prasad/gsoc-2018-final-work-report-of-lstm-networks-372894d63cf9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6458274811478016/"
+        },
+        {
+          "title": "CernVM-FS powered WebAssembly I/O",
+          "short_description": "The goal of this project is to build a JavaScript client for the CernVM filesystem implemented as a pluggable backend library for the Emscripten...",
+          "student_name": "Saurav Sachidanand",
+          "code_url": "https://github.com/cvmfs-contrib/cvmfs-emscripten",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6629992301592576/"
+        },
+        {
+          "title": "Generative Adversarial Networks for Particle Physics Applications",
+          "short_description": "Deep Learning Networks have proven to perform well for a wide range of problems, especially those requiring large labelled dataset to learn patterns....",
+          "student_name": "Anushree Rankawat",
+          "code_url": "https://medium.com/@anushreerankawat110/gsoc-2018-generative-adversarial-networks-in-tmva-554cda974584",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6692252550168576/"
+        },
+        {
+          "title": "CPU Race for Particle Hunting",
+          "short_description": "Investigate the viability of xtensor, a multi-dimensional array package which aims to bring the API feeling of NumPy to C++, in the ACTS...",
+          "student_name": "Antares",
+          "code_url": "https://gitlab.in2p3.fr/Antares/xtensor_experiments",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6739749788188672/"
+        },
+        {
+          "title": "Spark3D: Extend Apache Spark to support 3D Spatial Datasets",
+          "short_description": "A large amount of 3D data is generated in High Energy Physics & Astrophysics experiments. To process this data efficiently, one would need...",
+          "student_name": "Mayur Bhosale",
+          "code_url": "https://mayurdb.github.io/gsoc2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5678205671309312/"
+        },
+        {
+          "title": "DIANA-HEP: Analysis Functions:: Implementation and optimization of common particle physics analysis algorithms in a functional paradigm",
+          "short_description": "High Energy Particle physics experiments typically generate a large amount of data. To analyze them requires significant computing resources. This is...",
+          "student_name": "Jaydeep Nandi",
+          "code_url": "https://gitlab.com/Jayd_1234/GSoC_vectorized_proof_of_concepts/blob/master/markdown%20files/Introduction.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5721645104758784/"
+        },
+        {
+          "title": "Modular YAMPL",
+          "short_description": "Modular YAMPL\nThe project fundamentally consists in developing a flexible plugin system that allows YAMPL to selectively load essential components at...",
+          "student_name": "Ayoub Chouak",
+          "code_url": "http://chouak.me/2018-08-04-gsoc18-third-phase-closes/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5101807772631040/"
+        },
+        {
+          "title": "Improve multi-threading support for CERN\u2019s Allpix-Squared project using dependency graphs",
+          "short_description": "Allpix-Squared is a free and open-source simulation framework for silicon tracker and vertex detectors written in modern C++. Its goal is to...",
+          "student_name": "tmplt",
+          "code_url": "https://github.com/allpix-squared/allpix-squared/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5127307865882624/"
+        },
+        {
+          "title": "Development of the Deep Learning Optimization Algorithms in TMVA.",
+          "short_description": "The existing TMVA submodule has always used gradient descent to update the parameters and minimize the cost of the neural networks. More advanced...",
+          "student_name": "Ravi Kiran Selvam",
+          "code_url": "https://www.sravikiran.com/GSOC18/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5333821369090048/"
+        },
+        {
+          "title": "Petabyte-Scale Cloud Storage File Manager",
+          "short_description": "CERNBox is a cloud storage synchronisation service for CERN users: it allows syncing and sharing files on all major mobile and desktop platforms...",
+          "student_name": "Ivantha",
+          "code_url": "https://github.com/OshanIvantha/phoenix-docs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5334913901395968/"
+        },
+        {
+          "title": "Extend clad - The Automatic Differentiation",
+          "short_description": "CLAD is a Clang plugin that implements automatic differentiation. Automatic differentiation avoids usual disadvantages of symbolic and numerical...",
+          "student_name": "Aleksandr Efremov",
+          "code_url": "https://gist.github.com/efremale/8f52484e382c4a799b3739fa24af2b67",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6218216741273600/"
+        },
+        {
+          "title": "ROOT package manager",
+          "short_description": "ROOT is the data processing framework created at CERN - at the heart of the research on high-energy physics. Every day, thousands of physicists use...",
+          "student_name": "Ashwin Samudre",
+          "code_url": "https://kiryteo.github.io/2018-08-12-GSoC-2018-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6244789099954176/"
+        },
+        {
+          "title": "Large-scale computing backend for Jupyter notebooks - HTCondor batch job submission and monitoring using the Ganga toolkit",
+          "short_description": "Jupyter Notebook is an interactive computing environment that creates notebooks which contains computer code as well as rich text elements like...",
+          "student_name": "Aman Pratap Singh",
+          "code_url": "https://github.com/apsknight/gangaextension",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4671150864990208/"
+        },
+        {
+          "title": "Rucio : Billion-row scalable and flexible metadata",
+          "short_description": "Rucio produces large amounts of metadata for it\u2019s files and datasets which is stored in a central Rucio server. However there is a fixed set of...",
+          "student_name": "Asket Agarwal",
+          "code_url": "https://gist.github.com/asketagarwal/d32cfb4d582da57d929534fbb6601d23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4819316230848512/"
+        },
+        {
+          "title": "Variational Autoencoders on GPUs for particle physics applications",
+          "short_description": "Deep Learning relies heavily on a large number of linear operations. Data parallelism is a consequence of this property of Deep Learning.GPUs are...",
+          "student_name": "SiddharthaRao Kamalakara",
+          "code_url": "https://medium.com/@srk97/gsoc-2018-vaes-iii-summary-c18d0478111d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4830332285091840/"
+        },
+        {
+          "title": "Pure-Go XRootD client implementation",
+          "short_description": "This project aims at implementing a pure-Go BSD-3 client library for XRootD using Go builtin features for concurrency and scalability.",
+          "student_name": "Mikhail Ivchenko",
+          "code_url": "https://gist.github.com/EgorMatirov/66fe626b1f6849d511c21322445fc1e0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6484663090544640/"
+        },
+        {
+          "title": "HAhRD: DeepReconstruction",
+          "short_description": "One of the challenges faced in Particle Physics Experiment after the collision of particles in LHC is the reconstruction of the events.This includes...",
+          "student_name": "Abhinav Kumar",
+          "code_url": "https://github.com/BigBang0072/HAhRD/wiki/GSOC-18-Work-Summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6501701494243328/"
+        },
+        {
+          "title": "Convolutional Deep Neural Networks on GPUs for Particle Physics Applications",
+          "short_description": "The project's ultimate goal is to provide a GPU implementation for the existing Convolutional Neural Network package within root/tmva.  During my...",
+          "student_name": "Emmanouil Stergiadis",
+          "code_url": "https://gist.github.com/steremma/048549de16cc48610233c943ecf495b4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6556700429516800/"
+        },
+        {
+          "title": "Monitoring and traceability of jobs  using ElasticSearch - DIRAC",
+          "short_description": "The DIRAC Interware can handle hundreds of thousands of \u201cjobs\u201d daily. LHCb (the \u201cbeauty\u201d experiment at the LHC) is DIRAC\u2019s main user and developer....",
+          "student_name": "Yash Srivastava",
+          "code_url": "https://radonys.blogspot.com/2018/08/my-gsoc-experience-with-cern-hsf-summer.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5820528271032320/"
+        },
+        {
+          "title": "Open-Source Simulations for Gas Detector on Python",
+          "short_description": "Magboltz solves the Boltzmann transport equations with numerical integration in order to simulate the interactions of electrons in gas mixtures under...",
+          "student_name": "Mayank Modi",
+          "code_url": "https://fireballpoint1.github.io/GasSimulator/?shell#progress-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5855936115638272/"
+        },
+        {
+          "title": "GDML I/O for VecGeom Geometry Package",
+          "short_description": "VecGeom is the new geometry library developed within the high-energy physics community, aiming to replace the legacy geometry navigation...",
+          "student_name": "Dima Savin",
+          "code_url": "https://sd57.github.io/vgdmlio/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5984876603899904/"
+        },
+        {
+          "title": "Faster Matrix Algebra for ATLAS",
+          "short_description": "Eigen is a C++ template library for linear algebra that aims for high performance in combination of high reliablity and good compiler support. A lot...",
+          "student_name": "David Tellenbach",
+          "code_url": "https://gist.github.com/tellenbach/0b9723d9e740d280963503160777803b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6284595058180096/"
+        },
+        {
+          "title": "Optimize and Integrate Standalone Tracking Library (SixTrackLib)",
+          "short_description": "The project targets optimizing the data structures and source code of a standalone tracking library, SixTrackLib, written in C. The aim is to...",
+          "student_name": "Somesh Singh",
+          "code_url": "https://github.com/ssomesh/sixtracklib_gsoc18/tree/master/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5152248673861632/"
+        },
+        {
+          "title": "Distributed Big Data Analysis with TDataFrame",
+          "short_description": "The main objective of this project is to make it easier for researchers/developers to submit distributed jobs for analyzing datasets using TDataFrame...",
+          "student_name": "shravan97",
+          "code_url": "http://shravanmurali.com/PyRDF/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5169858777972736/"
+        },
+        {
+          "title": "Configuration of Lightweight Sites Components using Ansible",
+          "short_description": "Lightweight Sites is a project at CERN that enables the quick setup of new sites on the grid. Often, a lot of time is spent in setting up new sites...",
+          "student_name": "Tarang Mahapatra",
+          "code_url": "https://github.com/WLCG-Lightweight-Sites/wlcg_lightweight_sites_ansible_module/wiki/GSoC-2018-:-Final-Report-by-Tarang-Mahapatra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5213490679644160/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4534645092253696/",
+      "num_projects": 29,
+      "projects": [
+        {
+          "title": "CERN Awkward Array Project",
+          "short_description": "At CERN, the data from LHC collisions requires complex data types and functions to be processed. As a solution, the awkward-array library makes...",
+          "student_name": "Charles Escott",
+          "code_url": "https://drive.google.com/drive/folders/1klBhpreyA9LCRIG8L2BlJceZY-Uhqdju?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6412014505689088/"
+        },
+        {
+          "title": "Optimisation of the Ganga toolkit in terms of memory consumption and persistent storage.",
+          "short_description": "GANGA (Gaudi/Athena and Grid Alliance) is an interface used by scientists to interface with huge amount of computing power and storage available to...",
+          "student_name": "Ishan Rai",
+          "code_url": "https://ishanrai05.github.io/blog/2019-08-22-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6423086646165504/"
+        },
+        {
+          "title": "Proposal for Atlas Experiment - Hasan \u00d6zt\u00fcrk",
+          "short_description": "Athena framework is being upgraded to run in multithreaded environment and the aim of this project is to create a new Atlas performance monitoring...",
+          "student_name": "Hasan \u00d6zt\u00fcrk",
+          "code_url": "https://haozturk.github.io/home/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6581712404873216/"
+        },
+        {
+          "title": "Novel Applications of Zstandard (ZSTD) compression algorithm to ROOT",
+          "short_description": "This project aims to investigate application of ZSTD within the ROOT framework; benchmark it in comparison to the other algorithms; test it against...",
+          "student_name": "Alfonso",
+          "code_url": "https://gist.github.com/fylux/69079f3496d1afa150ed5b60566733e1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6721979325874176/"
+        },
+        {
+          "title": "Package manager for Jupyter Notebook / SWAN",
+          "short_description": "This proposal promises to develop a Jupyter notebook extension, that will allow the users to specify python modules (and their respective versions)...",
+          "student_name": "Akash Ravi",
+          "code_url": "https://akashravi.github.io/SWAN-Package-Manager/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5684214832300032/"
+        },
+        {
+          "title": "VectorFlow",
+          "short_description": "A C++ adapter API for integrating vectorized components in a scalar workflow.\nMany FLOP-intensive algorithms may profit from the vector pipelines of...",
+          "student_name": "Arturo Garza Rodriguez",
+          "code_url": "https://gist.github.com/agarzaro/6bcf2f8e75ef2a71204601d23c245b33",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5730913743273984/"
+        },
+        {
+          "title": "Tools for Understanding CMS Data Access",
+          "short_description": "Over the course of Run 2, from 2016 to 2018, the CMS detector produced an unparalleled amount of data, resulting in an intricate optimization problem...",
+          "student_name": "Jonathan Guiang",
+          "code_url": "https://jkguiang.github.io/tuda/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5441440799260672/"
+        },
+        {
+          "title": "Implement Event based Seeding and Multi-Threading",
+          "short_description": "Pursuing the goal of running Allpix-Squared simulation\u2019s events -independent by nature- in parallel, have led to the identification of performance...",
+          "student_name": "Mohamed Moanis Ali",
+          "code_url": "https://gitlab.cern.ch/allpix-squared/allpix-squared/merge_requests/227",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5124542089920512/"
+        },
+        {
+          "title": "Building a Python-based Analysis tool for AWAKE experiment",
+          "short_description": "Building a library that reads a large number of HDF files and builds a database. Add support for searching and loading multiple datasets,...",
+          "student_name": "Aman Singh Thakur",
+          "code_url": "https://medium.com/singh96aman/https-medium-com-singh96aman-gsoc-2019-cern-hsf-pyawake-153b1218ba25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5287700498743296/"
+        },
+        {
+          "title": "Kalman Filter in Rust",
+          "short_description": "The Kalman Filter is a method of iteratively predicting the future state of a system based on previous information. Not only is a Kalman Filter more...",
+          "student_name": "Brooks Karlik",
+          "code_url": "https://github.com/acts-trk/rust-kf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5579073160478720/"
+        },
+        {
+          "title": "Implementation and Optimisation in ACTS of algorithms exposed in TrackML challenge",
+          "short_description": "Porting and Analysis of top solution algorithms from the TrackML challenge to ACTS framework. The algorithms include the combinatorial Mikado...",
+          "student_name": "Sharad Chitlangia",
+          "code_url": "https://sharad24.github.io/trackml/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5610317520830464/"
+        },
+        {
+          "title": "SIMT to SPMD Translation",
+          "short_description": "High Level Trigger 1(HLT1) is the first and critical stage in software reconstruction of collisions at the LHCb experiment in the Large Hadron...",
+          "student_name": "Pradeep Kumar S",
+          "code_url": "https://github.com/schwarzschild-radius/spmdfy/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5637309913890816/"
+        },
+        {
+          "title": "Experiment independent display framework and data format",
+          "short_description": "Developing a new data format to represent event data, unifying the needs of the different experiments that will make use of it. Improvement on the...",
+          "student_name": "Emilio Cortina Labra",
+          "code_url": "https://emiliocortina.github.io/phoenix_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6207853369491456/"
+        },
+        {
+          "title": "Implement a GlobalModuleIndex in ROOT and Cling",
+          "short_description": "ROOT has several features which interact with libraries and require implicit header inclusion. These headers are often immutable, and reparsing is...",
+          "student_name": "Arpitha Raghunandan",
+          "code_url": "https://docs.google.com/document/d/1ryqNseURDZiL71anRMV0JL4DU7o9SrXG4nXZ4kj510Y/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6212391858077696/"
+        },
+        {
+          "title": "Generative Adversarial Networks for Particle Physics Applications",
+          "short_description": "The project aims implementation of GANs in the Machine Learning toolkit, TMVA of the ROOT framework would be immensely useful because of the advent,...",
+          "student_name": "Ashish Kshirsagar",
+          "code_url": "https://medium.com/@ashishkshirsagar10/cern-gsoc19-generative-adversarial-networks-for-particle-physics-applications-c3da13a3f44b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4504948144865280/"
+        },
+        {
+          "title": "Proposal for the Implementation of an HDF5 IO Layer for PODIO",
+          "short_description": "PODIO is a C++ library that allows the creation of event data models and efficient I/O code for HEP experiments. It does so by avoiding deep-object...",
+          "student_name": "Shrey Aryan",
+          "code_url": "https://github.com/AIDASoft/podio/blob/hdf5_writer/doc/HDF5.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4558314925457408/"
+        },
+        {
+          "title": "Python Components for the SIMPLE Grid Framework",
+          "short_description": "The SIMPLE Grid project is an extension of the SIMPLE Framework that combines popular configuration management technologies such as Puppet/Ansible...",
+          "student_name": "Sneha Sinha",
+          "code_url": "https://wlcg-lightweight-sites.github.io/gsoc_2019_python_components.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4648849883267072/"
+        },
+        {
+          "title": "Molr - Operational",
+          "short_description": "In the view of LHC Run 3, we want to extend the functionalities of Molr so that it will be ready to use in production to control various operational...",
+          "student_name": "Himanshu Sahu",
+          "code_url": "https://himanshusahu31.github.io/blog/gsoc-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4650709218230272/"
+        },
+        {
+          "title": "Rucio - Exascale Data Management",
+          "short_description": "Rucio is a data management system that provides the functionality to organize, manage and access a large amount of scientific data (in the order of...",
+          "student_name": "Ruturaj Gujar",
+          "code_url": "https://ruturaj123.github.io/gsoc/2019/08/19/GSoC-Work-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4699748483727360/"
+        },
+        {
+          "title": "Development of LSTM and GRU layers in TMVA",
+          "short_description": "This project is about development of Long Short Term Memory(LSTM) and Gated Recurrent Unit(GRU) layers in TMVA, both of which belong to a general...",
+          "student_name": "Surya S Dwivedi",
+          "code_url": "https://github.com/root-project/root/pull/3924",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4829175494475776/"
+        },
+        {
+          "title": "Monitoring DIRAC Components",
+          "short_description": "DIRAC is a highly-scalable software used for accessing distributed resources from various distributed systems. DIRAC\u2019s main contributor is LHCb and...",
+          "student_name": "Pujan Mehta",
+          "code_url": "https://pujanm.github.io/2019-08-19-gsoc-work-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6488258630909952/"
+        },
+        {
+          "title": "Real-time conditions data distribution for the Online data processing of the ALICE experiment",
+          "short_description": "ALICE (A Large Ion Collider Experiment) is a heavy-ion detector on the Large Hadron Collider (LHC) ring. It is designed to study the physics of...",
+          "student_name": "danieldo",
+          "code_url": "https://github.com/dosarudaniel/ReliableMulticastForALICE",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6498641026482176/"
+        },
+        {
+          "title": "CERNBox: Bring Your Own Application",
+          "short_description": "CERNBox provides cloud data storage to all CERN users to store, share and synchronize their data across all devices. It is integrated with variety of...",
+          "student_name": "Mohit Tyagi",
+          "code_url": "https://github.com/Mohitty/GSoC2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6551465701670912/"
+        },
+        {
+          "title": "Creation and usage of disposable Spark on Kubernetes cluster from SWAN notebook",
+          "short_description": "This project aims to develop a Jupyter notebook plugin which deploys Spark required services to a kubernetes cluster on OpenStack cloud at CERN....",
+          "student_name": "Sahil Jajodia",
+          "code_url": "https://github.com/sahiljajodia01/k8s-selection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6076428561416192/"
+        },
+        {
+          "title": "Testing framework for Jupyter notebooks",
+          "short_description": "SWAN (Service for Web-based ANalysis) is a cloud data analysis service developed and powered by CERN that provides Jupyter notebooks on demand. It is...",
+          "student_name": "Divya Rani",
+          "code_url": "https://github.com/Divya063/TestingFramework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4839789902168064/"
+        },
+        {
+          "title": "Create a user interface for Ganga that allows for the execution of tasks inside user specified virtual machines.",
+          "short_description": "Ganga is used to execute a user defined computational task on a distributed back-end. Through this project we let the users define the environment in...",
+          "student_name": "Inzamam Iqbal",
+          "code_url": "https://inzamamiqbal.blogspot.com/2019/08/google-summer-of-code-2019-inzamam.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4949605840584704/"
+        },
+        {
+          "title": "Distributed Computing Resources: aggregation, usage, monitoring",
+          "short_description": "DIRAC is an open source interware platform whose roles are submission of jobs, the management of the data produced, to the orchestration of the...",
+          "student_name": "Amarnath Karthi",
+          "code_url": "https://gist.github.com/97amarnathk/7aa601c4272ac6405cc550c6c0a8aa77",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5784571189133312/"
+        },
+        {
+          "title": "Alert Redistribution System for Fink : an Apache Spark based Broker for Astronomy",
+          "short_description": "A huge volume of data is generated every night by large astronomical telescopes around the world. A robust and scalable software infrastructure is...",
+          "student_name": "Abhishek Chauhan",
+          "code_url": "https://gist.github.com/cAbhi15/70619824a8a24dc70cf061a766788934",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5848657855774720/"
+        },
+        {
+          "title": "Generating Hessians and Jacobians via CLAD",
+          "short_description": "Clad is a C++ Clang compiler plugin that employs automatic differentiation to derive user-defined functions, performing source code transformations...",
+          "student_name": "Jack Qiu",
+          "code_url": "https://gist.github.com/540KJ/18e7452da0df7f5af584234bd1c308f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6004151392141312/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5668658770083840/",
+      "num_projects": 34,
+      "projects": [
+        {
+          "title": "Enable Modules on Windows",
+          "short_description": "ROOT has several features that interact with libraries and require implicit header inclusion. This can be triggered by reading or writing data on...",
+          "student_name": "Vaibhav Garg",
+          "code_url": "https://gist.github.com/gargvaibhav64/1fd2095e5229bd898a6edbb6a3830dc4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6406031539699712/"
+        },
+        {
+          "title": "Implementation of Gilbert-Johnson-Keerthi Algorithm for Convex Shapes in VecGeom",
+          "short_description": "The goal of this project is to implement the Gilbert-Johnson-Keerthi algorithm on convex objects in VecGeom along with a ray casting algorithm that...",
+          "student_name": "Andrei Mihailescu",
+          "code_url": "https://docs.google.com/document/d/1gSLThWUqDj5DUfIdCHBZZsam7a3EKSfqQD2jEQ2P73U/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6594413402259456/"
+        },
+        {
+          "title": "Manipulation of massive astronomical data using graphs",
+          "short_description": "AstroLab Software has developed Fink, an apache-spark based broker infrastructure, which is able to analyze this large stream of alerts data from the...",
+          "student_name": "Yash Datta",
+          "code_url": "https://gist.github.com/saucam/7f7d4291c56c8f9e0b7ac2345e30947c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6681318307397632/"
+        },
+        {
+          "title": "Phoenix - Experiment Independent Event Display",
+          "short_description": "Phoenix is a web-based, experiment independent event display framework in JavaScript for visualizing HEP experiment data from multiple experiments....",
+          "student_name": "Fawad",
+          "code_url": "http://9inpachi.github.io/reports/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5680564721418240/"
+        },
+        {
+          "title": "GeoModelExplorer: improving interactive 3D geometry visualization tool based on Qt3D",
+          "short_description": "Interactive visualization can provide intuitive insights for experiment setups and results in many domains, including High Energy Physics. Therefore,...",
+          "student_name": "Huajian Qiu",
+          "code_url": "https://github.com/HSF/Qt3DExaminerViewer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5749988472127488/"
+        },
+        {
+          "title": "Kubernetes operator for XRootD",
+          "short_description": "This project aims to develop a Kubernetes Operator for XRootD, along with its related documentation, in order to ease and fully automate deployment...",
+          "student_name": "Shivansh Saini",
+          "code_url": "https://shivanshs9.me/summers/gsoc/2020-cern-hsf-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5388572846194688/"
+        },
+        {
+          "title": "Reduce boost dependence in CMSSW",
+          "short_description": "This project has the goal to find and decrease boost dependencies in CMSSW. Modern C++ introduced a lot of new features that were only available...",
+          "student_name": "Lucas Camolezi",
+          "code_url": "https://github.com/cms-sw/cmssw/pulls?q=is%3Apr+is%3Aclosed+author%3Acamolezi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5397144158076928/"
+        },
+        {
+          "title": "Falcon: Fast Simulation using Deep Generative Models",
+          "short_description": "Prior to the HL-LHC operation, detector simulations undergo further developments in order to adapt to the increasing amounts of events. Current...",
+          "student_name": "Ali Hariri",
+          "code_url": "https://github.com/ahariri13/FALCON",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4965683756007424/"
+        },
+        {
+          "title": "Graph Neural Networks",
+          "short_description": "Graph neural networks is a powerful generalization of a whole class of neural (and not only neural) architectures on the data, organized in a graph....",
+          "student_name": "Stanislav Lukyanenko",
+          "code_url": "https://docs.google.com/document/d/1_ZSMS4NyRWAJHsfdPReiDncD3sBu0tGNGOfO-XPdJr8/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4998027577655296/"
+        },
+        {
+          "title": "Fast Merging of RNTuple Data Sets",
+          "short_description": "The RNTuple interface is an experimental I/O subsystem for the ROOT analysis framework. Preliminary benchmarks have demonstrated significant...",
+          "student_name": "Max Orok",
+          "code_url": "https://gist.github.com/mxxo/2a2ecbc92a62d3893b43d10459454ef1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5032727826399232/"
+        },
+        {
+          "title": "TMVA Interfaces - Pytorch",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework, used in...",
+          "student_name": "Anirudh Dagar",
+          "code_url": "https://github.com/root-project/root/pull/5757",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5085504384532480/"
+        },
+        {
+          "title": "(QMLHEP Proposal) Quple - Quantum Machine Learning Framework for High Energy Physics",
+          "short_description": "This project serves to implement a common framework for applying quantum machine learning algorithms to high energy physics analysis. A major focus...",
+          "student_name": "Chi Lung Cheng",
+          "code_url": "https://alkaidcheng.github.io/quple.github.io/docs/Quple_GSoC_report.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5091840300154880/"
+        },
+        {
+          "title": "Extend SkyhookDM programmable object storage with statistics, sort/aggregate or data compaction functions.",
+          "short_description": "SkyhookDM supports dynamic data management in the cloud by enabling data management tasks to be executed directly within the storage. It uses...",
+          "student_name": "aditigupta17",
+          "code_url": "https://github.com/uccross/skyhookdm-ceph/wiki/Google-Summer-of-Code-2020-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5382644348485632/"
+        },
+        {
+          "title": "Framework for Automating the Retrieval and Analysis of System Information of Grid sites in WLCG",
+          "short_description": "JAliEn introduces automatic containerization for jobs submitted to the WLCG. To fully utilize this feature, and to plan ahead for how new software...",
+          "student_name": "Kalana Wijethunga",
+          "code_url": "https://medium.com/@kalana.16/gsoc-2020-cern-hsf-framework-for-automating-the-retrieval-and-analysis-of-system-information-6a59bf5f036d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6250330150404096/"
+        },
+        {
+          "title": "Upgrading the Ganga user interface to use a relational database for persistent storage",
+          "short_description": "This project will replace the old xml-based metadata system with a database, which will be assisted by a caching mechanism that  will allow for a...",
+          "student_name": "Ratin Kumar",
+          "code_url": "https://github.com/ganga-devs/ganga/issues/1662",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6259599360917504/"
+        },
+        {
+          "title": "MCnet/Rivet - Speed and accuracy in the LHC's MC analysis tool",
+          "short_description": "Rivet is a software package for performing data analysis on simulated particle collision events like those in the Large Hadron Collider. This project...",
+          "student_name": "Aditya Kumar-2",
+          "code_url": "https://gist.github.com/adityaddy/87e3b60ecaee1907c19fb9d3ac8fa14e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4662564862033920/"
+        },
+        {
+          "title": "Cosmic-Ray Imaging Studies via Mission-Imagery from Space (CRISMIS)",
+          "short_description": "CRISMIS is an open-source, AI-based tool for the identification and classification of cosmic-ray artifacts in imaging data. Its purpose is to cater...",
+          "student_name": "Nidhi Hegde",
+          "code_url": "https://github.com/nidhihegde001/CRISMIS",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4795402060038144/"
+        },
+        {
+          "title": "Intelligent Alert Management System For HEP experiments",
+          "short_description": "This project aims to develop  an intelligent and reliable monitoring system for large distributed services to monitor their status and reduce...",
+          "student_name": "Rahul Indra",
+          "code_url": "https://indrarahul2013.github.io/2020/07/24/google-summer-of-code.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4827645050617856/"
+        },
+        {
+          "title": "MCnet/YODA",
+          "short_description": "Enhance a statistical toolkit for physics analysis interpretation.",
+          "student_name": "Nick Rozinsky",
+          "code_url": "https://gist.github.com/NickRoz1/98a6ef0bbf4e6b9d28d52906d0f96df1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6521364598489088/"
+        },
+        {
+          "title": "Implementation of Graphical User Interface for Ganga",
+          "short_description": "The idea of this project is to create an additional interface for users to interact with Ganga. The new responsive Graphical User Interface (GUI)...",
+          "student_name": "Varun Bankar",
+          "code_url": "https://gist.github.com/varunbankar/1d292808cd5de204602e68c5888145be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6539053387743232/"
+        },
+        {
+          "title": "CernVM-FS: Podman cvmfs integration",
+          "short_description": "It has been shown that only a small portion of all the files in a container image is necessary to run the image itself. This is even more accentuated...",
+          "student_name": "Mohit Tyagi",
+          "code_url": "https://github.com/Mohitty/GSoC2020-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6547926152642560/"
+        },
+        {
+          "title": "Pre-conditioners applied to ROOT compression algorithms",
+          "short_description": "This project aims to validate the possibility of using pre-conditioners in compressing ROOT file formats (TTree and RNTuple); to understand how we...",
+          "student_name": "Keisuke Kamahori",
+          "code_url": "https://kamahori.github.io/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4854834844401664/"
+        },
+        {
+          "title": "Native Desktop Application for Rucio",
+          "short_description": "Rucio is a data management framework which provides a multilevel organization, management, and access to large scale data generated during scientific...",
+          "student_name": "Vivek Nigam",
+          "code_url": "https://medium.com/@viveknigam3003/how-i-improved-scientific-data-management-during-gsoc-20-ffdf995266e6?source=friends_link&sk=003aeade0cba10632c24f7117a27907b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4873083892006912/"
+        },
+        {
+          "title": "Awkward Array GPU Kernels",
+          "short_description": "The goal of this project is to add a GPU backend to Awkward Array 1.x. With such a backend, the library would have a unique capability of processing...",
+          "student_name": "Anish Biswas",
+          "code_url": "https://indico.cern.ch/event/946427/#4-anish-biswas",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5762964205862912/"
+        },
+        {
+          "title": "Development of 3D CNN in TMVA",
+          "short_description": "This project is about the development of  3D CNN functionality in TMVA. I shall be developing both 3D convolution as well as 3D pooling layers. 3D...",
+          "student_name": "Surya S Dwivedi",
+          "code_url": "https://github.com/root-project/root/pull/6263",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5765608429322240/"
+        },
+        {
+          "title": "Building a Python-based framework for Unsupervised Deep Learning applications in strong lensing cosmology",
+          "short_description": "Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein\u2019s calculations back in...",
+          "student_name": "K Pranath Reddy",
+          "code_url": "https://github.com/DeepLense-Unsupervised/unsupervised-lensing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5812807469105152/"
+        },
+        {
+          "title": "Deep Learning Algorithms for Muon Momentum Estimation in the CMS Trigger System",
+          "short_description": "CMS is a general-purpose detector at LHC. During a run, it generates about 40 TB data per second. Since It is not feasible to readout and store such...",
+          "student_name": "Prateek Agnihotri",
+          "code_url": "https://github.com/PRATEEKKUMARAGNIHOTRI/CMS_muon_transverse_momentum_estimation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5949448733065216/"
+        },
+        {
+          "title": "Support for Rucio Users with Natural Language Processing",
+          "short_description": "The aim of the project is to use Natural Language Processing (NLP) to develop an intelligent bot able to provide satisfying answers to users and...",
+          "student_name": "Vasilis Mageirakos",
+          "code_url": "https://gist.github.com/mageirakos/8b470edb28a39b392943bcabf999d315",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5966219707940864/"
+        },
+        {
+          "title": "Local replica of JAliEn central services for research and development",
+          "short_description": "In preparation of LHC's next run, CERN has been developing JAliEn, a successor to their current grid computing middleware, AliEn. To ease development...",
+          "student_name": "drholmie",
+          "code_url": "https://medium.com/@animesh.leo/google-summer-of-code-2020-finale-4557564b9996",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5984973615529984/"
+        },
+        {
+          "title": "Workflow configuration import and validation for AliECS",
+          "short_description": "The data-driven workflow dumps generated by the DPL (O2 Data Processing Layer) cannot be directly imported into AliECS. These workflow templates are...",
+          "student_name": "Ayaan Zaidi",
+          "code_url": "https://obviy.us/blog/gsoc-part-2/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6311694998962176/"
+        },
+        {
+          "title": "Integration of Rucio in JupyterLab for SWAN",
+          "short_description": "CERN and the high energy physics community stores their data in various storage, with varying locations and medium (from object storage to magnetic...",
+          "student_name": "Muhammad Aditya Hilmy",
+          "code_url": "https://didithilmy.github.io/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6320550214893568/"
+        },
+        {
+          "title": "End-to-End Deep Learning Reconstruction for CMS Experiment",
+          "short_description": "Developing End-to-End Deep Learning Models and optimizing them for the Reconstruction of single particles, jets and event topologies of interest in...",
+          "student_name": "Shravan Chaudhari-1",
+          "code_url": "https://shra1-25.github.io/E2eDLrecReport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5187650517991424/"
+        },
+        {
+          "title": "Hist: histogramming for analysis powered by boost-histogram",
+          "short_description": "The Scikit-HEP project is a collection of several dozen packages intended to facilitate the use of Python in High Energy Physics. One of the major...",
+          "student_name": "Shuo Liu",
+          "code_url": "https://gist.github.com/LovelyBuggies/390fef467f319aefdcf95705390d7f78",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5208113386356736/"
+        },
+        {
+          "title": "Deep-compression for HEP data",
+          "short_description": "Storage is one of the main limiting factors to the recording of information from proton-proton collision events at the Large Hadron Collider at CERN....",
+          "student_name": "Honey Gupta",
+          "code_url": "https://drive.google.com/file/d/159QRCM8-c3FUy-y6c0-SHkgtbNJNr9H8/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5208521374695424/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6240588592054272/",
+      "num_projects": 25,
+      "projects": [
+        {
+          "title": "OpenForBC",
+          "short_description": "The goal of the project is to develop and test a suite of ready-to-run benchmarks to measure the performances of various partitioning options on...",
+          "student_name": "Aneesh Chawla",
+          "code_url": "https://drive.google.com/file/d/1TxD_QDafASffrOeSY7TD_LKyscx4VPGj/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6334460873670656/"
+        },
+        {
+          "title": "Add support for in-browser interactive averaging of physics results",
+          "short_description": "The Heavy Flavour AVeraging (HFLAV) group is responsible for collecting and combining measurements made at different High Energy Physics (HEP)...",
+          "student_name": "Harsh Prakash Gupta",
+          "code_url": "https://gitlab.cern.ch/hflav/b2charm-webpage/-/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6410808212324352/"
+        },
+        {
+          "title": "Accuracy and parallel computation in parton density calculation",
+          "short_description": "This project is about adding optimised and accurate high-order interpolators to the  LHAPDF C++ library. This is required for adding support for...",
+          "student_name": "Tushar Jain-2",
+          "code_url": "https://docs.google.com/document/d/132ibaH56hYjgkCIQZWKsCo89CIPSnyk_w4F1Ge8oyFo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6578748882681856/"
+        },
+        {
+          "title": "Add numerical differentiation support in Clad",
+          "short_description": "In mathematics and computer algebra, automatic differentiation (AD) is a set of techniques to numerically evaluate the derivative of a function...",
+          "student_name": "grimmmyshini",
+          "code_url": "https://gist.github.com/grimmmyshini/8226a8eeda5dfe0cf0a3ed2b845bf87e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6621494813130752/"
+        },
+        {
+          "title": "Upgrading the Ganga Graphical User Interface",
+          "short_description": "Ganga is a tool to run data analysis jobs along with managing associated data files easier. Ganga also allows for submission,...",
+          "student_name": "Gurudatta Patil",
+          "code_url": "https://gist.github.com/gurudattapatil/a71155c48faa2d06032b12b7d67a79f2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5672776735653888/"
+        },
+        {
+          "title": "Single precision support for GPU acceleration in VecGeom",
+          "short_description": "The project aims to implement single-precision floating-point support for GPU acceleration in the VecGeom library. This will be achieved by first...",
+          "student_name": "Martin Kosteln\u00edk",
+          "code_url": "https://docs.google.com/document/d/15BVInw-GI1uFrm-21aPmkw87dHq27_GXVpqmEtJUovE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5720904595668992/"
+        },
+        {
+          "title": "Implementing an application for visualizing the LHCb DAQ network",
+          "short_description": "The supercomputer that is currently constructed at the LHCb will allegedly be the largest real-time data acquisition system in the world in 2021 and...",
+          "student_name": "Anurag Akella",
+          "code_url": "https://anuragakella.github.io/gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5735048157855744/"
+        },
+        {
+          "title": "Portability for the Patatrack Pixel Track Reconstruction with Alpaka",
+          "short_description": "The Compact Muon Solenoid (CMS) experiment is one of the largest experiments at Large Hadron Collider (LHC) that has been built to search for new...",
+          "student_name": "Adrian-Antonio Petre",
+          "code_url": "https://github.com/antoniopetre/pixeltrack-standalone/blob/gsoc/gsoc-documentation.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5472555158208512/"
+        },
+        {
+          "title": "Add support for functor objects in clad",
+          "short_description": "This proposal aims to add support for directly differentiating functors and lambda\nexpressions and increase clad coverage and overcome its...",
+          "student_name": "parth-07",
+          "code_url": "https://gist.github.com/parth-07/a51a32bfa8b435f41e915b040149f7cd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5495594906288128/"
+        },
+        {
+          "title": "Deep autoencoders for ATLAS data compression",
+          "short_description": "Storage is one of the main limiting factors to the recording of information from proton-proton collision events at the Large Hadron Collider (LHC),...",
+          "student_name": "George Dialektakis",
+          "code_url": "https://github.com/Autoencoders-compression-anomaly/Deep-Autoencoders-Data-Compression-GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5047857987452928/"
+        },
+        {
+          "title": "Enhancing the Plotting Functionality in MCnet/Rivet",
+          "short_description": "Rivet is a tool used by particle physicists to test and develop Monte Carlo event generators, i.e., simulation of particle accelerator collisions....",
+          "student_name": "Simon Thor",
+          "code_url": "https://simonthor.github.io/GSoC-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5279618952593408/"
+        },
+        {
+          "title": "Logging, Unit Test Infrastructure and Precooked Sources for PRMON",
+          "short_description": "PRocess MONitor (PRMON) is a utility programme used by the Worldwide LHC Computing Grid (WLCG) to monitor the resource consumption and performance of...",
+          "student_name": "Anubhab Das",
+          "code_url": "https://gist.github.com/quantum-shift/39d10b22f7e6d8980cb7607a40bc8ac1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5312835692789760/"
+        },
+        {
+          "title": "CernVM-FS preload capability",
+          "short_description": "CernVM-FS (CVMFS) is a service for fast and reliable software distribution on a global scale. Data is organized in repositories. Files and metadata...",
+          "student_name": "Rohit Topi",
+          "code_url": "https://rohittopi.github.io/gsoc/gsoc21-project-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5539477996437504/"
+        },
+        {
+          "title": "TMVA Deep Learning Developments - Inference Code Generation for Batch Normalization",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework, used in...",
+          "student_name": "Aaradhya Saxena",
+          "code_url": "https://docs.google.com/document/d/1qtoglXoyIfsngJVpidsTegpQlybpxd6mFH6doP4myLo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5625061863587840/"
+        },
+        {
+          "title": "Utilize second order derivatives from Clad in ROOT",
+          "short_description": "In mathematics and computer algebra, automatic differentiation (AD) is a set of techniques to numerically evaluate the derivative of a function...",
+          "student_name": "Baidyanath Kundu",
+          "code_url": "https://gist.github.com/sudo-panda/5d5416c05821d1d47b85e4c3c6f5ca46",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5629838773190656/"
+        },
+        {
+          "title": "RooUnfold - Efficient deconvolution using state of the art algorithms",
+          "short_description": "This project aims to address obsolescence in the underlying RooUnfold implementation that would allow the RooUnfold package to act as a lightweight...",
+          "student_name": "Archit_Agrawal",
+          "code_url": "https://gist.github.com/nahimilega/80d678df491745e0fdb0e4b4e2456430",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6236887538204672/"
+        },
+        {
+          "title": "New protocols for exascale data management with Rucio",
+          "short_description": "Rucio is an open-source software framework that provides functionality to\nscientific collaborations to organize, manage, monitor, and access their...",
+          "student_name": "Rakshita Varadarajan",
+          "code_url": "https://gist.github.com/rak108/30ddf7396995312bb662e8cd8108a46b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6541159261798400/"
+        },
+        {
+          "title": "Upgrading the Ganga graphical user interface",
+          "short_description": "Ganga is an open source job management tool for processing and bookkeeping of intensive computational tasks on a wide set of distributed resources....",
+          "student_name": "Monalisha Ojha",
+          "code_url": "https://gist.github.com/monalisha31/42f3688fcfa8496bd3d24420c2229b3d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6567046975848448/"
+        },
+        {
+          "title": "Inference Code Generation for Recurrent Neural Networks",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework, used in...",
+          "student_name": "Ahmat Hamdan",
+          "code_url": "https://gist.github.com/axmat/fb100f10fc8d8e27a5e59706befd062b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6054106212335616/"
+        },
+        {
+          "title": "ROOT Storage of Deep Learning models in TMVA",
+          "short_description": "The Toolkit for Multivariate Data Analysis with ROOT (TMVA) provides a machine learning environment for the processing and evaluation of multivariate...",
+          "student_name": "Sanjiban Sengupta",
+          "code_url": "https://github.com/sanjibansg/GSoC21-RootStorage/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6076072721907712/"
+        },
+        {
+          "title": "Implementation of Physical Shape Function",
+          "short_description": "Zfit is a highly scalable and customizable model manipulation and fitting library. Using Tensorflow as its backend, it has been optimised for simple...",
+          "student_name": "Aman  Verma",
+          "code_url": "https://github.com/Aman027/GSOC-21-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4841753579880448/"
+        },
+        {
+          "title": "Rucio and CS3API to enable data management for the ScienceMesh cloud",
+          "short_description": "In recent years Sync and Share Services have become more relevant than ever in our day to day lives. The scientists at CERN  are not an exception to...",
+          "student_name": "Rahul Chauhan-1",
+          "code_url": "https://gist.github.com/dynamic-entropy/ce664532ab28f8a13b7cf8f68e2d0f2a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4859720166277120/"
+        },
+        {
+          "title": "RooFit Development - Intuitive Python bindings for RooFit",
+          "short_description": "RooFit is a C++ library for statistical data analysis and for modeling the expected distribution of observables measured in particle physics...",
+          "student_name": "Harshal Anil Shende",
+          "code_url": "https://github.com/Harshalzzzzzzz/Final_Report_GSoC-21",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6264092129492992/"
+        },
+        {
+          "title": "Modern Plotting Machinery for the Large Hadron Collider's Monte Carlo Event Analysis Tool",
+          "short_description": "The Rivet toolkit is a software package for performing data analysis on simulated particle collision events like those in the Large Hadron Collider...",
+          "student_name": "Matthew Filipovich",
+          "code_url": "https://matthewfilipovich.com/GSoC-2021-CERN/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5139248516169728/"
+        },
+        {
+          "title": "Runtime plugin ecosystem support for OCIS",
+          "short_description": "This project aims to add runtime pluggability to the Reva framework to enhance developer experience at AARNet, ownCloud and CERN. This would involve:...",
+          "student_name": "Jimil Desai",
+          "code_url": "https://github.com/jimil749/GSoC-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5151620706336768/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/cern-hsf/",
+      "num_projects": 21,
+      "projects": [
+        {
+          "title": "[IRIS-HEP] Uproot + Dask",
+          "short_description": "This project aims to create an API for users that can provide the data in ROOT files directly in a \u201cdelayed\u201d form that is supported by Dask. It will...",
+          "student_name": "Kush Kothari",
+          "code_url": "https://github.com/scikit-hep/uproot5/pulls?q=+is%3Apr+author%3Akkothari2001+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JF7I75hH/"
+        },
+        {
+          "title": "ROOT - Automatic conversion of data stored in TTree form to RNTuple",
+          "short_description": "TTree is the ROOT\u2019s legacy columnar storage that has been used to store more than 1 exabyte of high-energy physics data during the last 25 years....",
+          "student_name": "Zephyr",
+          "code_url": "https://github.com/luozf14/TTreeToRNTuple",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yhvtRC8Q/"
+        },
+        {
+          "title": "Acts GPU R&D - Optimization of GPU tracking pipeline",
+          "short_description": "Traccc is a demonstrator for GPU tracking algorithms. This project focuses on optimizing GPU utilization of traccc using CUDA Multi Process Service...",
+          "student_name": "Kavishka Attanayake",
+          "code_url": "https://chamodya-ka.github.io/blog/GSOC-2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SEravaYf/"
+        },
+        {
+          "title": "Implementation of a Python library that generalizes the CLUE clustering algorithm",
+          "short_description": "The CLUE algorithm is a clustering algorithm written by Rovere et al. in C++, which is used in High-Energy Physics to reconstruct particle showers by...",
+          "student_name": "SimoneBalducci",
+          "code_url": "https://github.com/SimonB00/clue",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h8Np6Hjm/"
+        },
+        {
+          "title": "ROOT - TMVA SOFIE Developments - Inference Code Generation for Deep Learning models",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework, used in...",
+          "student_name": "Neel Shah",
+          "code_url": "https://gist.github.com/Neel-Shah-29/ea1efde4dd5a51522f4aeb77b7e1fe12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vEuHzl6G/"
+        },
+        {
+          "title": "Add Initial Integration of Clad with Enzyme",
+          "short_description": "Clad is an open source plugin to the Clang compiler that detects from the parsed Abstract syntax tree, calls to differentiate a defined function,...",
+          "student_name": "Manish Kausik",
+          "code_url": "https://gist.github.com/Nirhar/0e2a2970629765182c91fa48a90bb988",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JQIwOjSz/"
+        },
+        {
+          "title": "ROOT - Machine Learning Developments - Batch Generator for training machine learning models",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework, used in...",
+          "student_name": "Sanchi Mittal",
+          "code_url": "https://github.com/tmvadnn/tmva-batch-generator/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0x5YD6Ig/"
+        },
+        {
+          "title": "Vectorized Linear Algebra Implementation for ACTS",
+          "short_description": "This project is for implementing a vectorized linear algebra backend. The current linear algebra implementation uses scalar instructions, but we can...",
+          "student_name": "Tirthankar Mazumder",
+          "code_url": "https://hepsoftwarefoundation.org/gsoc/blogs/2022/blog_Acts_TirthankarMazumder.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/H0ek5yGF/"
+        },
+        {
+          "title": "Symplectic Integrators",
+          "short_description": "The Geat4 toolkit lacks numerical integrators that preserve energy over the long course of simulations. Specifically, the g-2 physics experiment at...",
+          "student_name": "Divyansh Tiwari",
+          "code_url": "https://divyanshtiwari237.github.io/open_source/2022/09/08/gsoc-project-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YahUUBlV/"
+        },
+        {
+          "title": "A concurrency model for the monitoring in Ganga",
+          "short_description": "Ganga routinely handles a tremendous amount of computational tasks simultaneously and keeping track of their status is prone to lagging behind with...",
+          "student_name": "Giorgos Apostolopoulos",
+          "code_url": "https://gist.github.com/joj0s/4d09e4c4489f36e88c8c4f76a95ecb80",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fkDCJ5Ec/"
+        },
+        {
+          "title": "Geant4-FastSim - Memory footprint optimization for ML fast shower simulation",
+          "short_description": "Geant4 is a highly accurate and detailed simulation toolkit used for simulating the passage of particles through matter. Due to its strict precision...",
+          "student_name": "Priyam Mehta",
+          "code_url": "https://g4fastsim.web.cern.ch/docs/ML_Deployment_Kubeflow/Inference_Optimization_pipeline",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EDxEGz4q/"
+        },
+        {
+          "title": "Project Proposal Geant4-FastSim - ML pipeline optimization using Kubeflow",
+          "short_description": "This is the tentative proposal submission for the Geant4-FastSim - Building an ML pipeline for fast shower simulation. This proposal discusses a...",
+          "student_name": "Guneet Singh Kohli",
+          "code_url": "https://gitlab.cern.ch/fastsim/kubeflow/geant4-kubeflow-pipeline",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/49Vg7Sho/"
+        },
+        {
+          "title": "Interfacing PODIO to Julia",
+          "short_description": "Currently, two major languages are used in high-energy physics (HEP): C++ for numerically intensive code, where execution speed is critical, and...",
+          "student_name": "Soumil Baldota",
+          "code_url": "https://hepsoftwarefoundation.org/gsoc/blogs/2022/blog_PODIO_SoumilBaldota.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WGGtU8Pp/"
+        },
+        {
+          "title": "Geant4 - Performance Data Visualization using d3.js",
+          "short_description": "The project aims at monitoring performance and improving the data visuals used to represent the performance report for Geant4 which is a toolkit for...",
+          "student_name": "Harshil Jani",
+          "code_url": "https://gist.github.com/Harshil-Jani/c6778653973ccabcb397c170e56f6ddc#file-gsoc-report-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZypcqQVM/"
+        },
+        {
+          "title": "Optimize ROOT use of modules for large codebases",
+          "short_description": "ROOT is a data analysis framework designed to handle large amounts of data with high performance. This proposal aims at optimizing the performance of...",
+          "student_name": "Jun Zhang",
+          "code_url": "https://docs.google.com/document/d/1dk3XECWpW_gXezTgUQ4cJDTM2-UKltWLwQCVxLt8iWk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LcJL17UZ/"
+        },
+        {
+          "title": "Advanced Belle II Software Validation",
+          "short_description": "The international Belle II collaboration handles huge amounts of data from the Belle II detector, relying on custom software for simulation,...",
+          "student_name": "arul",
+          "code_url": "https://github.com/alexverus/hsf.github.io/blob/master/_gsocblogs/2022/blog_Belle2_ArulPrakash.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/C7QoeYiS/"
+        },
+        {
+          "title": "Rucio WebUI Revamp",
+          "short_description": "Rucio has proven its potential to be used for providing functionality to scientific collaborations to organize, manage, monitor, and access their...",
+          "student_name": "Nimish B",
+          "code_url": "https://bit.ly/nimish-gsoc-blog-rucio",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1ps6wuOz/"
+        },
+        {
+          "title": "TMVA Developments - Improve Python interface for TMVA",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework. The...",
+          "student_name": "Harshal Shende",
+          "code_url": "https://gist.github.com/Harshalzzzzzzz/b593db68f8d9e79407746f0c463206e5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/luKbKGoR/"
+        },
+        {
+          "title": "Electromagnetic Cluster Finding on GPUs",
+          "short_description": "The goal of this project is to re-implement the current clustering algorithms using SYCL for higher-throughput processing and handling future...",
+          "student_name": "Ujwal Kundur",
+          "code_url": "https://hepsoftwarefoundation.org/gsoc/blogs/2022/blog_ATHENA_UjwalKundur.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ShD0pC22/"
+        },
+        {
+          "title": "Revamped Testing Infrastructure for Phoenix",
+          "short_description": "This project aims to introduce a new testing strategy so that we encourage Behaviour-driven Development here, at Phoenix \u2014 the official web event...",
+          "student_name": "Mohammad Humayun Khan",
+          "code_url": "https://github.com/DamianArado/GSoC-2022-Phoenix/blob/main/SUMMARY.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/s6n3c0Zc/"
+        },
+        {
+          "title": "MadAnalysis 5 - Integration of theoretical uncertainty calculation with multi-weight integration",
+          "short_description": "The purpose of this project is to enable multi-weight calculations in the MadAnalysis 5 platform. The current implementation only uses the nominal...",
+          "student_name": "Kyle Fan",
+          "code_url": "https://github.com/MadAnalysis/madanalysis5/pull/125",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Nd2nB4BJ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/cern-hsf",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "Extend the Cppyy support in Numba",
+          "short_description": "Numba is a JIT compiler that translates a subset of Python and NumPy code into fast machine code. Cppyy is an automatic, run-time, Python-C++...",
+          "student_name": "Aaron Jomy",
+          "code_url": "https://maximusron.github.io/2022-09-23/GSoC-23-CERN",
+          "proposal_id": "QWfrZSAS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PFtlRi3L"
+        },
+        {
+          "title": "Deep Autoencoders for Scientific Data Compression",
+          "short_description": "Development and Deployment of a Lossy Compression Tool 'Baler' that uses deep autoencoders to flexibly compress scientific data. Use Baler to...",
+          "student_name": "Aman Singh Thakur",
+          "code_url": "https://zenodo.org/records/10073216",
+          "proposal_id": "MrXJnVPd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gnKb1DHZ"
+        },
+        {
+          "title": "MCnet/LHAPDF - Test Suite and Coverage for Parton Density Calculations",
+          "short_description": "The LHAPDF C++ library plays a crucial role in the Large Hadron Collider (LHC) programme by providing it with Parton Distribution Function (PDF) data...",
+          "student_name": "Arjun  Taneja",
+          "code_url": "https://gitlab.com/hepcedar/lhapdf/-/merge_requests?scope=all&state=all&author_username=ArjunBoi",
+          "proposal_id": "Q3VVKUTq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/v2AxsuIT"
+        },
+        {
+          "title": "Geant4-FastSim: Transformer-based architecture for fast shower simulation",
+          "short_description": "Calorimeter is one of the most important components of the Large Hadron Collider (LHC) experiments, detecting energy loss of particles after...",
+          "student_name": "Chenguang Guan",
+          "code_url": "https://gitlab.cern.ch/cguan/ml4fastsim/-/tree/autoregressive-dev?ref_type=heads",
+          "proposal_id": "CHegyXTu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mQ2n3AcZ"
+        },
+        {
+          "title": "Improve automatic differentiation of object-oriented paradigms using Clad",
+          "short_description": "I would like to apply for the Improve automatic differentiation of object-oriented paradigms using Clad project. This project is mainly focused on...",
+          "student_name": "Daemond Zhang",
+          "code_url": "https://docs.google.com/presentation/d/1l9cGNBloVSmt0u_Cyl1EBOu72orrBEdg/edit?usp=sharing&ouid=109152010533861457157&rtpof=true&sd=true",
+          "proposal_id": "sKFwbkVc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AFXlNwSz"
+        },
+        {
+          "title": "Extend and improve the CERNBox Notifications platform",
+          "short_description": "Reva is the core of the CERNBox service. It is a middleware framework, providing interoperability between storage and application providers using a...",
+          "student_name": "daniel-rey",
+          "code_url": "https://daniel-sparemblek.github.io/gsoc-2023/",
+          "proposal_id": "0kkyYbLp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zrPEE0Cg"
+        },
+        {
+          "title": "Belle II Event Display with Phoenix",
+          "short_description": "The proposed project aims to improve the accessibility and user experience of Belle II by developing a web application for event display. Currently,...",
+          "student_name": "Hieu Le Cong Minh",
+          "code_url": "https://gist.github.com/HieuLCM/c69359336d4fe6138cecd872bd5f5540",
+          "proposal_id": "QPjetVjH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2WYpamvj"
+        },
+        {
+          "title": "Graph Construction for Charged Particle Tracking using Point Cloud Networks",
+          "short_description": "Graph neural networks (GNNs) have shown great potential in solving the complex problem of charged particle tracking, which is an essential task in...",
+          "student_name": "Jian Park",
+          "code_url": "https://gist.github.com/jnpark3/f30662b6948cd7e1a346da76c8116daa",
+          "proposal_id": "4ET7OVxE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bL22MDFU"
+        },
+        {
+          "title": "Estimating the energy cost of scientific software",
+          "short_description": "The Large Hadron Collider (LHC) experiments generate massive datasets composed of billions of proton-proton collisions. The analysis of this data...",
+          "student_name": "Manas Pratim Biswas",
+          "code_url": null,
+          "proposal_id": "Om5oyoKX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Nks9akq7"
+        },
+        {
+          "title": "Leverage Spark Connect for interactive data analysis in Jupyter Notebooks",
+          "short_description": "CERN uses a service called Service for Web Analysis (SWAN) to perform analyses on scientific data, which is built on top of Jupyter notebook....",
+          "student_name": "Muhammad Aditya Hilmy",
+          "code_url": "https://didithilmy.github.io/gsoc2023",
+          "proposal_id": "k7MQ6aFC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2Z7UhtwJ"
+        },
+        {
+          "title": "ROOT - TMVA SOFIE Developments - Inference Code Generation for Deep Learning models",
+          "short_description": "Toolkit for Multivariate Analysis (TMVA) is a multi-purpose machine learning toolkit integrated into the ROOT scientific software framework, used in...",
+          "student_name": "Neel Shah",
+          "code_url": "https://gist.github.com/Neel-Shah-29/b2c22b07025c72496fe3dbe1fb0b1cbb",
+          "proposal_id": "LqBKqknP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xoPLgxys"
+        },
+        {
+          "title": "Enable cross-talk between Python and C++ kernels in xeus-clang-REPL by using Cppyy",
+          "short_description": "xeus-clang-REPL is a C++ kernel for Jupyter notebooks using clang-REPL as its C++ Interpreter. Cppyy is an automatic, run-time, Python-C++ bindings...",
+          "student_name": "Smit Shah",
+          "code_url": null,
+          "proposal_id": "jUqhIN5M",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GGwZBrTf"
+        },
+        {
+          "title": "Improving the sense of scale and navigation in high energy physics event visualization",
+          "short_description": "This project aims to improve the scale and navigation inside the Phoenix application which is basically an Angular-based web application written in...",
+          "student_name": "Somya Bansal",
+          "code_url": "https://github.com/Somya-Bansal159/GSoC-2023",
+          "proposal_id": "bks08EF4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lZhAZStY"
+        },
+        {
+          "title": "Real-time lossless data compression for the FASER experiment",
+          "short_description": "This project aims to add support for real-time lossless compression libraries and algorithms in the data acquisition system that is being used for...",
+          "student_name": "Sumalyo Datta",
+          "code_url": "https://gist.github.com/Sumalyo/1fbb17299c3dd3195cde10786409dd27",
+          "proposal_id": "J1dPoByw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6JxnmPQ0"
+        },
+        {
+          "title": "Implement vector mode in forward mode automatic differentiation in Clad",
+          "short_description": "In mathematics and computer algebra, automatic differentiation (AD) is a set of techniques to numerically evaluate the derivative of a function...",
+          "student_name": "Vaibhav Thakkar",
+          "code_url": "https://gist.github.com/vaithak/82125fa9618c81741dcecb88f0e76d4b",
+          "proposal_id": "UoBkLELx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Ro5V6AT1"
+        },
+        {
+          "title": "RooFit - Pythonic interaction with the RooWorkspace",
+          "short_description": "RooFit uses RooWorkSpace to manage its models. Currently, the syntax to interact with RooWorkspace is completely different from Python syntax, which...",
+          "student_name": "Yash Solanki",
+          "code_url": "https://yashnator.github.io/gsoc-submission",
+          "proposal_id": "cLD9QT1I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eBsTbcaN"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/cern-hsf/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Integrate a Large Language Model with the xeus-cpp Jupyter kernel",
+          "short_description": "Xeus-cpp, a Jupyter kernel for C++, is built upon the native implementation of the Jupyter protocol, xeus. This setup empowers users to interactively...",
+          "student_name": "Tharun A",
+          "code_url": "https://compiler-research.org/blogs/gsoc24_tharun_anandh_final_blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MpQ83ckH/"
+        },
+        {
+          "title": "Implement Differentiating of the Kokkos Framework in Clad",
+          "short_description": "The goal is to implement the differentiation of the Kokkos framework including the support of Kokkos functors, lambdas, methods such as parallel_for,...",
+          "student_name": "atell krasnopolsky",
+          "code_url": "https://gist.github.com/gojakuch/cb6df9940192abc23fdaf5f3f56aff86",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9hnfCx7g/"
+        },
+        {
+          "title": "MCnet/Rivet+YODA CI-based Multi-Arch Docker and Code Coverage",
+          "short_description": "This proposal aims to enhance the MCnet projects, Rivet and YODA, by automating the generation and deployment of Docker images across multiple...",
+          "student_name": "Abhiramsai",
+          "code_url": "https://gist.github.com/UncleWeeds/5fd3ac678405d4f1b1b6cb61f3d0939b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2ftQZYBL/"
+        },
+        {
+          "title": "Geant4-FastSim - Fast inference of Diffusion models",
+          "short_description": "Fast and accurate simulation of high-energy physics experiments is crucial for advancing our understanding of fundamental particles and forces in...",
+          "student_name": "Miko\u0142aj Pi\u00f3rczy\u0144ski",
+          "code_url": "https://gitlab.cern.ch/mpiorczy/diffusion4fastsim",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xq4BGRsM/"
+        },
+        {
+          "title": "SOFIE Developments - Inference Code Generation for Deep Learning models",
+          "short_description": "SOFIE aims to streamline the integration of deep learning models into the ROOT scientific software framework through efficient inference code...",
+          "student_name": "Vedant Mehra",
+          "code_url": "https://github.com/extint/gsoc24-blog/blob/main/Final-Evaluation-Gsoc.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6DDnly0z/"
+        },
+        {
+          "title": "Improving performance of BioDynaMo using ROOT C++ Modules",
+          "short_description": "BioDynaMo, a powerful agent-based simulation platform, utilizes ROOT for functionalities like statistical analysis, random number generation, and IO....",
+          "student_name": "Isaac Morales",
+          "code_url": "https://gist.github.com/imorlxs/d6a09ca535a94df296547f8a52c51b5d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SSN3Mol1/"
+        },
+        {
+          "title": "Any Collection in Data Model Explorer",
+          "short_description": "EDM4hep offers a powerful set of objects to describe event data from simulation to analysis. At any step of this chain, one can inspect the event...",
+          "student_name": "Braulio Rivas",
+          "code_url": "https://gist.github.com/brauliorivas/f1a4cb5dc84ee63182b8525ae0f581c5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9rDo0T9A/"
+        },
+        {
+          "title": "Superbuilds for ROOT",
+          "short_description": "ROOT is a framework for data processing, born at CERN, at the heart of the research on high-energy, molecular and laser physics, as well as in...",
+          "student_name": "psvirin",
+          "code_url": "https://github.com/pavlo-svirin/root/tree/superbuilds",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/7qwRtT1i/"
+        },
+        {
+          "title": "Julia interoperating with HEP C++ libraries",
+          "short_description": "ROOT is CERN's data analysis framework, which is widely used for HEP applications. Currently, the UnROOT package supports reading the ROOT files in...",
+          "student_name": "Yash Solanki",
+          "code_url": "https://yashnator.github.io/rootio-jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Qy0aJ5SQ/"
+        },
+        {
+          "title": "Containerization of CBACK backup system",
+          "short_description": "The project aims to enhance CERN Storage's backup orchestration system, CBACK, by introducing a Scheduler Agent to dynamically manage job agent...",
+          "student_name": "YashrajSingh",
+          "code_url": "https://gist.github.com/yrs147/bded65888902e45246ba34d9acda553a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uO9QhnX7/"
+        },
+        {
+          "title": "Add support for consteval and constexpr functions in clad",
+          "short_description": "Clad is a Clang library which allows automatic differentiation (AD) of functions. Clang provides the necessary facilities for code transformation....",
+          "student_name": "Mihail Mihov",
+          "code_url": "https://gist.github.com/MihailMihov/c5d4eddd2d14f5ec7b61abe2d66c9866",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AmHhalqN/"
+        },
+        {
+          "title": "CVMFS: Benchmarking of new FUSE features",
+          "short_description": "The project focuses on integration of FUSE-T kextless module for CVMFS on macOS. This initiative is motivated by the computational demands of...",
+          "student_name": "Yuriy Belikov",
+          "code_url": "https://gist.github.com/YBelikov/1052b42dd9b4244e7b8a6f6dd67545be",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QgW8LR3a/"
+        },
+        {
+          "title": "Lossless compression of raw data for the ATLAS experiment at CERN",
+          "short_description": "The goal of this project is to study the performance and effectiveness of various compression algorithms, specifically on ATLAS RAW data. The ATLAS...",
+          "student_name": "Ishan Darji",
+          "code_url": "https://github.com/Ish-D/AtlEventProcess",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2kr4E3Fh/"
+        },
+        {
+          "title": "Reverse-mode automatic differentiation of GPU kernels using Clad",
+          "short_description": "Nowadays, the rise of AI has shed light into the power of GPUs. The notion of General Purpose GPU Programming is becoming more and more popular and...",
+          "student_name": "Christina Koutsou",
+          "code_url": "https://gist.github.com/kchristin22/13119e994fb9bcae7f431b891c812de0#file-gsoc-cuda-kernels-autodiff-christina-koutsou-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6ek5ahwH/"
+        },
+        {
+          "title": "Incorporating a Large Language Model in Ganga to assist users",
+          "short_description": "Ganga is a tool for composing, running, and tracking computing jobs across a variety of backends and application types. Ganga primarily runs as a...",
+          "student_name": "Aryabhatta Dey",
+          "code_url": "https://github.com/ganga-devs/ganga-ai",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/0E5hVUFg/"
+        },
+        {
+          "title": "(MCnet/LHAPDF) Online dashboard and data-visualisation for parton density functions",
+          "short_description": "At the Large Hadron Collider (LHC), protons collide at the highest energies achieved by humanity, unravelling the particles within. To decode these...",
+          "student_name": "Arnab Mukherjee",
+          "code_url": "https://github.com/doorkn-b/GSoC-24-PDF-Dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/h0TLIWfe/"
+        },
+        {
+          "title": "Machine Learning in Julia for Calorimeter Showers",
+          "short_description": "The calorimeter, a key detector in Large Hadron Collider (LHC) experiments, measures the energy of particles interacting with detector materials....",
+          "student_name": "Daniel Regado",
+          "code_url": "https://gist.github.com/guiyrt/1402fcf43c0d55baeb3d4671004a47a0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2ivdEHkk/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/cern-hsf",
+      "num_projects": 26,
+      "projects": [
+        {
+          "title": "Support usage of Thrust API in Clad",
+          "short_description": "This project proposes to enhance Clad, a Clang-based automatic differentiation (AD) tool, with support for NVIDIA's Thrust library. By enabling...",
+          "student_name": "Abdelrhman Elrawy",
+          "code_url": null,
+          "proposal_id": "0N7LLnk6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pKQZ4KcQ"
+        },
+        {
+          "title": "Implementing Debugging Support for xeus-cpp",
+          "short_description": "This proposal outlines integrating debugging into the xeus-cpp kernel for Jupyter using LLDB and its Debug Adapter Protocol (lldb-dap). Modeled after...",
+          "student_name": "Abhinav B Kumar",
+          "code_url": null,
+          "proposal_id": "ITylGX94",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uEB2as1n"
+        },
+        {
+          "title": "Highly Granular Quantization for CICADA",
+          "short_description": "The project aims to enhance the CICADA anomaly detection system in the Compact Muon Solenoid (CMS) Level-1 Trigger (L1T) by integrating highly...",
+          "student_name": "Abhishikth Mallampalli",
+          "code_url": null,
+          "proposal_id": "ZtMEPDmX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/b1JQ9zmB"
+        },
+        {
+          "title": "Implement and improve an efficient, layered tape with prefetching capabilities",
+          "short_description": "Automatic Differentiation (AD) is a computational technique that enables efficient and precise evaluation of derivatives for functions expressed in...",
+          "student_name": "Aditi Milind Joshi",
+          "code_url": null,
+          "proposal_id": "EVnl2iGV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/PI3FsJoG"
+        },
+        {
+          "title": "Using ROOT in the field of genome sequencing",
+          "short_description": "This project will improve how we store and analyze DNA sequence data by using ROOT's newer RNTuple format. We'll work in two main steps: First, we'll...",
+          "student_name": "Aditya18",
+          "code_url": null,
+          "proposal_id": "g6ad9glW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DlfupPVR"
+        },
+        {
+          "title": "Integrating Support for Google XLS in hls4ml",
+          "short_description": "At the end of Moore\u2019s law, building domain-specific computer architectures is considered the next step in improving program efficiency. Hls4ml is an...",
+          "student_name": "Andrei Girjoaba",
+          "code_url": null,
+          "proposal_id": "sU1tNGVJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Mv9bV0rM"
+        },
+        {
+          "title": "Physics-Constrained Autoencoders: Intelligent Compression in High Energy Physics",
+          "short_description": "The Large Hadron Collider (LHC) hosts high-energy physics (HEP) experiments, such as ATLAS, which generate over 1 petabyte of data every second....",
+          "student_name": "Carter Capetz",
+          "code_url": null,
+          "proposal_id": "agAa2xpV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8p9T1Cnr"
+        },
+        {
+          "title": "Evaluating CVMFS for Machine Learning Model Distribution",
+          "short_description": "Physicists at the LHC need to perform ML inference on massive amounts of data. Currently, the bookkeeping of ML model files is an unsolved problem....",
+          "student_name": "jasonwu224",
+          "code_url": null,
+          "proposal_id": "6Xlmaf5u",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xAitvXdz"
+        },
+        {
+          "title": "Enable automatic differentiation of OpenMP programs with Clad",
+          "short_description": "This project aims to extend Clad, a Clang-based automatic differentiation tool for C++, to support OpenMP programs. By enabling Clad to parse and...",
+          "student_name": "Jiayang Li",
+          "code_url": null,
+          "proposal_id": "X01O6Wg2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XboSFIbL"
+        },
+        {
+          "title": "Background Enrichment augmented Anomaly Detection (BEAD)\u2013 Contrastive VAE & Transformer Architecture",
+          "short_description": "This project aims to enhance the BEAD framework for anomaly detection in high-energy physics by developing a new multi-stage architecture that...",
+          "student_name": "JohnKala",
+          "code_url": null,
+          "proposal_id": "nwNyBlkV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6RCE7sFt"
+        },
+        {
+          "title": "Benchmarking Sustainability of Classical & Quantum Algorithms for particle trajectory reconstruction",
+          "short_description": "The Large Hadron Collider (LHC) particle track reconstruction faces increasing computational demands, driving exploration into novel methods like...",
+          "student_name": "KaranSingh",
+          "code_url": null,
+          "proposal_id": "ptspTebl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kBQyVgrm"
+        },
+        {
+          "title": "Implementing a deprecation system for Ganga",
+          "short_description": "This project aims to introduce a structured, automated deprecation system for the Ganga project. Ganga currently lacks a formal process for phasing...",
+          "student_name": "Kossi GLOKPOR",
+          "code_url": null,
+          "proposal_id": "G1JjxL6e",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hIrlU5CX"
+        },
+        {
+          "title": "RNTuple in JSROOT",
+          "short_description": "This project addresses the lack of RNTuple support in JSROOT, a critical gap hindering browser-based visualization and analysis of high-energy...",
+          "student_name": "Kriti Mahajan",
+          "code_url": null,
+          "proposal_id": "MzazMujD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JJDvSbP6"
+        },
+        {
+          "title": "Extending support on custom kernels with virtme-ng",
+          "short_description": "The CernVM File System - CVMFS distributes LHC experiment software and conditions data to the LHC computing infrastructure. The client application is...",
+          "student_name": "Madlani Shivam",
+          "code_url": null,
+          "proposal_id": "7DTXdxrr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oh10qRfo"
+        },
+        {
+          "title": "Implement activity analysis for reverse-mode differentiation of (CUDA) GPU kernels",
+          "short_description": "GPUs and CUDA have revolutionized computing beyond graphics rendering, becoming essential in various fields due to their parallel processing...",
+          "student_name": "Maksym Andriichuk",
+          "code_url": null,
+          "proposal_id": "YrIukEYZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XSdlsEEe"
+        },
+        {
+          "title": "Rucio WebUI Revamp",
+          "short_description": "As a final-year Software Engineering student at Kyiv Polytechnic Institute, I propose transforming Rucio WebUI into a more powerful, intuitive, and...",
+          "student_name": "MytsV",
+          "code_url": null,
+          "proposal_id": "GFlBDJTV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IzibloUu"
+        },
+        {
+          "title": "Intelligent Log Analysis for the HSF Conditions Database",
+          "short_description": "The nopayloaddb tool works as an implementation of the conditions database reference for the HSF. The project is based upon Nginx, Django, and the...",
+          "student_name": "Osama Tahir",
+          "code_url": null,
+          "proposal_id": "jE3QNFwX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bD4yyXz6"
+        },
+        {
+          "title": "Improve automatic differentiation of object-oriented paradigms using Clad",
+          "short_description": "The project addresses a limitation in Clad, a Clang plugin for C++ automatic differentiation, which currently cannot fully support non-trivially...",
+          "student_name": "Petro Zarytski",
+          "code_url": null,
+          "proposal_id": "qbJAi82F",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/78v5Tl8E"
+        },
+        {
+          "title": "Integration of STL concurrency primitives into CLAD",
+          "short_description": "CLAD is a compiler plugin that enables automatic differentiation of C++ functions. It supports differentiation of user-defined structs, however it...",
+          "student_name": "pmozil",
+          "code_url": null,
+          "proposal_id": "vPtaBm11",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2CTNxjSY"
+        },
+        {
+          "title": "TMVA SOFIE - Enhancing Keras Parser and JAX/FLAX Integration",
+          "short_description": "The SOFIE (System for Optimized Fast Inference Code Emit) project is an initiative within the TMVA (Toolkit for Multivariate Data Analysis) framework...",
+          "student_name": "Prasanna Kasar",
+          "code_url": null,
+          "proposal_id": "cdBp3ctQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uAjGYhgX"
+        },
+        {
+          "title": "Enhancing LLM Training Efficiency with Clad for Automatic Differentiation in C++",
+          "short_description": "Training Large Language Models (LLMs) is computationally expensive, often bottlenecked by the performance limitations of Python-based frameworks....",
+          "student_name": "Rohan Timmaraju",
+          "code_url": null,
+          "proposal_id": "45EdWDLv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TqLF4fm0"
+        },
+        {
+          "title": "TMVA SOFIE - GPU Support for Machine Learning Inference",
+          "short_description": "ROOT's TMVA( Toolkit for Multi-Variate Analysis ) has SOFIE (System for Optimized Fast Inference code Emit) which offers a parser capable of...",
+          "student_name": "S.Akash",
+          "code_url": null,
+          "proposal_id": "EOzEmlCA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WbEjJL5j"
+        },
+        {
+          "title": "GreenML@CERN \u2013 A Comprehensive Framework for Energy-Efficient Scientific Machine Learning",
+          "short_description": "The project addresses the rising energy consumption of ML workloads in high-energy physics (HEP) at CERN. While models like Baler and ATLAS top...",
+          "student_name": "Sakshi Kumar",
+          "code_url": null,
+          "proposal_id": "tw7fG9a6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/r6G5rINJ"
+        },
+        {
+          "title": "Agent-Based Simulation of CAR-T Cell Therapy Using BioDynaMo",
+          "short_description": "This project aims to develop an agent-based simulation of CAR-T cell therapy using the BioDynaMo platform to better understand and optimize...",
+          "student_name": "Salvador de la Torre Gonzalez",
+          "code_url": null,
+          "proposal_id": "FPJrumUj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VycIbWat"
+        },
+        {
+          "title": "Data Representation Optimisation for Generative Model-based Fast Calorimeter Shower Simulation",
+          "short_description": "Summary: This project addresses a critical computational bottleneck in high-energy physics: the simulation of particle showers in calorimeters, which...",
+          "student_name": "Tarun_Tej_Nandi",
+          "code_url": null,
+          "proposal_id": "tTAqtHnt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/C9arRGA2"
+        },
+        {
+          "title": "Neural (De)compression for High Energy Physics",
+          "short_description": "In high-energy physics experiments such as those conducted at CERN's ATLAS project, the volume of data generated is immense, reaching up to 60...",
+          "student_name": "Yolanne",
+          "code_url": null,
+          "proposal_id": "JzLqI8jH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/W5UjfwMc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/HSF/HSF-GSoC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge",
+  "contact_email": "mailto:hsf-gsoc-admin@googlegroups.com",
+  "mailing_list": "https://hepsoftwarefoundation.org/activities/gsoc.html",
+  "ideas_url": "https://hepsoftwarefoundation.org/gsoc/2025/summary.html",
+  "guide_url": "https://hepsoftwarefoundation.org/activities/gsoc.html#for-students",
+  "twitter_url": "https://twitter.com/hepsoftfound"
+}

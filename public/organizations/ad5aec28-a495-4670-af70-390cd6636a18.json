@@ -1,0 +1,391 @@
+{
+  "name": "LabLua",
+  "url": "http://www.lua.inf.puc-rio.br",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/lablua/thpyrwywpx4z6p6s.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "programming languages",
+    "distributed systems",
+    "scripting",
+    "scripting languages",
+    "reactive programming",
+    "kernel scripting",
+    "compilers",
+    "reactive languages",
+    "statically-typed languages"
+  ],
+  "technologies": [
+    "lua",
+    "c\u00e9u",
+    "elasticsearch",
+    "luarocks",
+    "netbsd",
+    "lunatik",
+    "pallene",
+    "kernel"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4733835644239872/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Improve elasticsearch-lua tests and builds",
+          "short_description": "Elasticsearch is very good and scalable search engine. It provides a REST API accessed through JSON format. My project aims to improve the existing...",
+          "student_name": "Dhaval Kapil",
+          "code_url": "https://dhavalkapil.com/blogs/Elasticsearch-Lua-GSOC-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6359851743576064/"
+        },
+        {
+          "title": "Extending the online tutorial of C\u00e9u with Emscripten and SDL",
+          "short_description": "I want to extend the tutorial offered by LabLua for the Ceu language. As it is, when you write code on their website and press submit, the code is...",
+          "student_name": "VicentiuM",
+          "code_url": "https://github.com/VicentiuM/Ceu-Emscripten/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5719378301550592/"
+        },
+        {
+          "title": "Add class-based object-oriented programming to Typed Lua",
+          "short_description": "This project seeks to design and implement a class system for Typed Lua which will replace its current class definition style. It should feel like a...",
+          "student_name": "Kevin Clancy",
+          "code_url": "http://kevinclancy.github.io/2016/08/18/a-class-system-for-typed-lua.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5414114708946944/"
+        },
+        {
+          "title": "An automatic generator of WSDL documents to LuaSOAP",
+          "short_description": "A fully automatic generator of WSDL documents to LuaSOAP composed by a generation module and a parameter based script.  This will improve the LuaSOAP...",
+          "student_name": "Victor Dias",
+          "code_url": "https://docs.google.com/document/d/17hQuWujl7TU9izmKgsxkVkSFOaY7fm9mKW86yFLrMmc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5317443853484032/"
+        },
+        {
+          "title": "Improving the Quality of Error Messages in PEG Parsers",
+          "short_description": "Parsing Expression Grammars (PEGs) are an expressive formalism for designing and implementing top-down parsers with local backtracking. An issue that...",
+          "student_name": "MattG",
+          "code_url": "https://undecidabot.github.io/lpeglabel-gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4549674694344704/"
+        },
+        {
+          "title": "Typed Lua Core Typechecker",
+          "short_description": "The idea of this project is to use Haskell as another way of reasoning about the typing rules of Typed Lua. Project involves implementing parser and...",
+          "student_name": "dtomek",
+          "code_url": "https://github.com/tomkee/typed-lua-core",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6507407224078336/"
+        },
+        {
+          "title": "Next Generation of the LuaRocks test suite",
+          "short_description": "In this project we focus on package manager for Lua modules, LuaRocks. Our main goal is to increase quality of test suite, because it's implemented...",
+          "student_name": "roboo",
+          "code_url": "https://docs.google.com/document/d/1ewzvCv6glpX0cO90D0hQSG_rAqVizCpg-4E9nd-KlhA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5757487680585728/"
+        },
+        {
+          "title": "Admin Center, Elasticsearch integration for Sailor and Luagoogle",
+          "short_description": "The admin center would be pivotal in utilizing the autogen functions and a configuration file editor would make it easy for the end user to edit conf...",
+          "student_name": "rnikhil275",
+          "code_url": "https://github.com/sailorproject/sailor/pull/125",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6275718971392000/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5842237585883136/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Adapt CGILua SAPI launcher to explore all WSAPI features.",
+          "short_description": "Project proposed by LabLua",
+          "student_name": "Jo\u00e3o Dutra Bastos",
+          "code_url": "https://github.com/keplerproject/cgilua/pull/14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6696418936881152/"
+        },
+        {
+          "title": "Interrupt-based drivers and libraries for C\u00e9u-Arduino",
+          "short_description": "Developing interrupt-based drivers and libraries for Arduino chips and peripherals for the C\u00e9u-Arduino language, in order to replace current...",
+          "student_name": "Guilherme Simas",
+          "code_url": "https://github.com/fsantanna/ceu-arduino/pull/10",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5722829441990656/"
+        },
+        {
+          "title": "Editor Support for Typed Lua",
+          "short_description": "Lua is a powerful, efficient, lightweight and dynamically typed\nscripting language supporting a variety of different programming\nparadigms. Typed Lua...",
+          "student_name": "Marc Andr\u00e9 Tanner",
+          "code_url": "http://www.brain-dump.org/gsoc17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4554913883357184/"
+        },
+        {
+          "title": "Parser Generator",
+          "short_description": "I would like to implement the LPegLabel parser generator idea.",
+          "student_name": "Ben Vaitkevicius",
+          "code_url": "http://parsergen.blogspot.co.uk/2017/08/parser-generator-based-on-lpeglabel.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6543790697349120/"
+        },
+        {
+          "title": "Lua Client for Strava V3 API",
+          "short_description": "Strava is the social network for athletes. It\u2019s a global community of millions of runners, cyclists and triathletes.The Strava V3 API is a publicly...",
+          "student_name": "Akshaynath R",
+          "code_url": "https://akshaynathr.wordpress.com/2017/08/29/gsoc-2017-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5976989768876032/"
+        },
+        {
+          "title": "Porting Terra to Android Devices",
+          "short_description": "The main goal of the project is, which the title says, to port Terra to Android devices. \nOnce I already have Terra ported to android, my intention...",
+          "student_name": "Mauricio Pedro Vieira",
+          "code_url": "http://afbranco.github.io/Terra/terra-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6289975310024704/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6371057715904512/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Development of a RCU Binding for Lua tables",
+          "short_description": "Lunatik is a programming environment based on the Lua language for kernel scripting. By allowing kernel scripting, a user may create scripts in Lua...",
+          "student_name": "Caio Messias",
+          "code_url": "https://github.com/caioluiz/lunatik",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5736202426646528/"
+        },
+        {
+          "title": "C\u00e9u-Maker: easy-to-install, up-to-date integrated environment for C\u00e9u-Arduino and pico-C\u00e9u development",
+          "short_description": "The objective of my proposal is to provide an easy-to-install, up-to-date integrated environment for C\u00e9u-Arduino and pico-C\u00e9u development. C\u00e9u is a...",
+          "student_name": "Anny Chagas",
+          "code_url": "https://github.com/AnnyCaroline/ceu-maker-gsoc/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6131837097213952/"
+        },
+        {
+          "title": "Interrupt-based drivers in C\u00e9u-Arduino for microcontrollers",
+          "short_description": "The project consists of developing new interrupt-based drivers for microcontrollers, e.g.:\nADC\nSPI and I2C buses\nEEPROM\nReal-time clock\nSome...",
+          "student_name": "M Naveen Kumar",
+          "code_url": "https://github.com/mnaveenkumar2009/GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5008401494966272/"
+        },
+        {
+          "title": "Update Lua Bindings to LibGit2",
+          "short_description": "This project aims at updating lua bindings to libgit2 for the lua users to use libgit2 ( pure C implementation of the Git core methods ) API from...",
+          "student_name": "Satyendra  Kumar Banjare",
+          "code_url": "https://github.com/SatyendraBanjare/luagit2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4531376657268736/"
+        },
+        {
+          "title": "Develop Socket API for Lunatik",
+          "short_description": "Lunatik is a kernel-level Lua interpreter version for scripting the Linux kernel. For example, it allows users to filter packets using Lua scripts.\nI...",
+          "student_name": "Chengzhi Tan",
+          "code_url": "https://github.com/tcz717/lunatik/tree/gsoc-final/socket",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5993341447569408/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4943100659630080/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "The Apolo Library: Building Piping and bash syntax in a light-weight environment",
+          "short_description": "Lua is a tiny language that can do a lot. As a scripting language, it can be embedded into larger projects, used in IoT devices for its lightweight...",
+          "student_name": "Connor McPherson",
+          "code_url": "https://kingoftheconnors.gitlab.io/apolo/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6651359124783104/"
+        },
+        {
+          "title": "Google Cloud IoT Core Interface in Lua",
+          "short_description": "The project consists of developing an interface, in Lua, for the set of Cloud IoT Core APIs, through two REST resources:\n\ncloudiot methods, to...",
+          "student_name": "Gaurav Kumar-1",
+          "code_url": "https://uplua.github.io/jekyll/update/2019/08/26/Final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6751965915119616/"
+        },
+        {
+          "title": "An application for C\u00e9u-Arduino",
+          "short_description": "An application from Jingrui for C\u00e9u-Arduino, I'll do my best for that.",
+          "student_name": "Jingrui Li",
+          "code_url": "https://github.com/JingruiLea/GSoC_2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5352631210344448/"
+        },
+        {
+          "title": "XDPLua",
+          "short_description": "A version of the Linux Kernel's XDP framework which will support the execution of Lua scripts as well as eBPF programs",
+          "student_name": "Victor Nogueira",
+          "code_url": "https://victornogueirario.github.io/xdplua/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4793801338519552/"
+        },
+        {
+          "title": "C Header File Parser in Lua Using Clang AST",
+          "short_description": "Pallene, the statically typed sister language of Lua requires a Foreign Function Interface(FFI) to C. As a starting point, there is a need to create...",
+          "student_name": "Vishnu M",
+          "code_url": "https://vishnu-m.github.io/gsoc19-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5167963789852672/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6003184142647296/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Module Statement and Automatic Pallene to Lua Translator",
+          "short_description": "Pallene is a statically typed, ahead-of-time-compiled sister language to Lua, with a focus on performance. Programmers can use Pallene instead of C...",
+          "student_name": "Samuel Rowe",
+          "code_url": "http://www.lua.inf.puc-rio.br/gsoc/blog2020.html#pallene",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5667973756354560/"
+        },
+        {
+          "title": "Lua states management for Lunatik",
+          "short_description": "Currently, the creation and management of Lua States in Lunatik bindings are made by the binding itself, which can difficult the interoperability of...",
+          "student_name": "Matheus Silva Rodrigues",
+          "code_url": "https://matheusntg.github.io/lunatik-states-managment/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5748745045540864/"
+        },
+        {
+          "title": "Lua Hook on kTLS",
+          "short_description": "Lunatik is a kernel-level Lua interpreter version for scripting the Linux kernel. For example, it allows users to filter packets using Lua scripts....",
+          "student_name": "Xinzhe Wang",
+          "code_url": "https://luainkernel.github.io/ktls/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5442757247631360/"
+        },
+        {
+          "title": "Extending the support of C\u00e9u in the C\u00e9u-Arduino IDE",
+          "short_description": "This project will involve further modification of the Arduino IDE to support more features of the c\u00e9u language. This will include support for another...",
+          "student_name": "Maged Rifaat",
+          "code_url": "https://github.com/magedrifaat/Ceu-Arduino-IDE/blob/ceu-language-integration/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5127791961440256/"
+        },
+        {
+          "title": "Lazy Configuration validator for LuaFormatter",
+          "short_description": "Every Project's code seems good if it is in proper style. LuaFormatter is a code formatter which helps to style a code in Lua scripts which will also...",
+          "student_name": "Ankit Karan",
+          "code_url": "https://karanankit01.github.io/LuaFormatter-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4945537473708032/"
+        },
+        {
+          "title": "A Parser Generator with Automatic Error Recovery on LPeg(Label)",
+          "short_description": "The goal is to build a parser generator on top of the library LPegLabel that will automatically support error recovery and (optionally) white spaces...",
+          "student_name": "Gustavo Castellanos",
+          "code_url": "https://dev.to/_gusgustavo/my-final-report-for-the-gsoc-2020-167i",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5134133883305984/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5651367128989696/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Lua scripted watchpoints in LLDB",
+          "short_description": "Enable users to attach a script or Lua function to a watchpoint and execute it when the program flow hits it in LLDB and improve the whole...",
+          "student_name": "Shichu Yang",
+          "code_url": "https://gsoc2021.sigeryeung.tk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5541855462162432/"
+        },
+        {
+          "title": "Typed API for LuaRocks",
+          "short_description": "The goal of this project is to provide typed API for LuaRocks modules, specified using Teal, a typed dialect of Lua, which allows for typed...",
+          "student_name": "Deepak Singh Rathore",
+          "code_url": "https://github.com/Deepak123bharat/lablua-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6522415386984448/"
+        },
+        {
+          "title": "A Lua library for Freechains-P2P",
+          "short_description": "Freechains Lua API.\nThis is an API for the Freechains project written in the Lua programming language. The lua-sockets library is used to interface...",
+          "student_name": "Micah Kendall",
+          "code_url": "https://github.com/micahkendall/freechains-lua",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6287178954440704/"
+        },
+        {
+          "title": "Closures in Pallene",
+          "short_description": "Pallene is a statically typed sister of the Lua programming language.\nThis proposal aims to add support for Closures in Pallene.\nClosures are...",
+          "student_name": "Srijan Paul",
+          "code_url": "https://srijan-paul.github.io/blog/gsoc-2/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5201931584143360/"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/lablua/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Lunatik binding for Netfilter",
+          "short_description": "The goal of this project is to make a new tool that connects Netfilter with Lua, allowing people to create new Netfilter programs using Lua and...",
+          "student_name": "sheharyaar",
+          "code_url": "https://github.com/sheharyaar/google-summer-of-code-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BIJAPZjf/"
+        },
+        {
+          "title": "Adapt LuaSQL drivers to Lua 5.4",
+          "short_description": "The project aims to adapt the LuaSQL drivers, which provide an interface between Lua and various database management systems (DBMS), to work...",
+          "student_name": "Chaitanya Deshmukh",
+          "code_url": "https://gist.github.com/ChaitanyaD48/da0802dcbbaa4c7c89225c35f4fb8ada",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4oKWFiF3/"
+        },
+        {
+          "title": "Port LuaRocks to Teal",
+          "short_description": "LuaRocks is the package manager for the Lua language. It is written in pure Lua, making use of several optional libraries. The goal of this project...",
+          "student_name": "Victor Ilchev",
+          "code_url": "https://github.com/luarocks/luarocks/pull/1705",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jgtBpFe8/"
+        },
+        {
+          "title": "Improved debugging support for Pallene",
+          "short_description": "Pallene is a statically typed companion language to Lua, designed to write performance sensitive part of it. Pallene has a very similar syntax as...",
+          "student_name": "SD Asif Hossein",
+          "code_url": "http://www.lua.inf.puc-rio.br/gsoc/blog2024.html#pallene",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/L0tirNFw/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/lablua",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Ghost in the Macro: Dual-Parser Bicameral Macro System for Teal",
+          "short_description": "This project aims to create a robust, high-performance parser combined with an easy-to-use macro system for the Teal programming language. Leveraging...",
+          "student_name": "Amrit Bhogal",
+          "code_url": null,
+          "proposal_id": "1z351TdL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kiO8b1Ql"
+        },
+        {
+          "title": "GSoC\u201925 Proposal: Lunatik HID Framework Implementation",
+          "short_description": "This proposal introduces myself and outlines the work I will be doing during the Google Summer of Code 2025. My proposal aims to implement a HID...",
+          "student_name": "Jieming Zhou",
+          "code_url": null,
+          "proposal_id": "TPLL9619",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/afaakeLj"
+        },
+        {
+          "title": "luamodules/terminal.lua \ud83c\udf18",
+          "short_description": "The current terminal.lua library is much-needed for terminal application development in the Lua landscape. It has a strong foundation yet is still in...",
+          "student_name": "Nguy\u1ec5n V\u0129nh B\u1ea3o T\u00edn",
+          "code_url": null,
+          "proposal_id": "dYjHFv9n",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jukGu4Gx"
+        },
+        {
+          "title": "Lunatik package for Linux distros",
+          "short_description": "Lunatik enables scripting the Linux kernel with Lua, offering powerful customization\u2014especially for subsystems like networking. However, limited...",
+          "student_name": "Shivam Vashisth",
+          "code_url": null,
+          "proposal_id": "PU0YO7W3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/c6od44I5"
+        },
+        {
+          "title": "Documentation generator tool for Teal language",
+          "short_description": "The goal of this project is to create a documentation generator for the Teal programming language. The generator will extract information from types...",
+          "student_name": "uped",
+          "code_url": null,
+          "proposal_id": "VCJgBwjx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MCJkfE3P"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#lablua:matrix.org",
+  "contact_email": "mailto:lablua@inf.puc-rio.br",
+  "mailing_list": "https://groups.google.com/g/labluagsoc",
+  "ideas_url": "https://github.com/labluapucrio/gsoc",
+  "guide_url": "https://github.com/labluapucrio/gsoc/blob/main/apply.md",
+  "twitter_url": "https://twitter.com/labluapucrio"
+}

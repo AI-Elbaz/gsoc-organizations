@@ -1,0 +1,337 @@
+{
+  "name": "The Palisadoes Foundation",
+  "url": "https://www.palisadoes.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-palisadoes-foundation/d9zsxo0idjsl7kug-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "web development",
+    "cloud computing",
+    "social good",
+    "mobile apps",
+    "social impact",
+    "web",
+    "api",
+    "database",
+    "cloud",
+    "mobile",
+    "networking",
+    "ai"
+  ],
+  "technologies": [
+    "javascript",
+    "mongodb",
+    "node.js",
+    "flutter",
+    "graphql",
+    "typescript",
+    "python",
+    "postgresql"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4835102856577024/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improved UI design and Multilingual Support",
+          "short_description": "The primary goals are :\n\nImproved UI Design\nMultilingual Support\nDark Theme Support\n\nTalawa needs both UI and UX Improvements. \nThe current UX is...",
+          "student_name": "Utkarsh Shendge",
+          "code_url": "https://gist.github.com/utkarshshendge/d383c9527bcc065f408cb7964710e01d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5702582802055168/"
+        },
+        {
+          "title": "Talawa - Mobile App",
+          "short_description": "The project focuses on providing Event management and creating a Social Environment \n for small groups, churches, and other organizations.\nThe core...",
+          "student_name": "rutvik chandla",
+          "code_url": "https://github.com/PalisadoesFoundation/talawa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5298099525779456/"
+        },
+        {
+          "title": "GSoC\u2019 21: The Palisadoes Foundation",
+          "short_description": "Talawa is an open source project helping people with same interest to collaborate together. It deals with managing the members of the group via help...",
+          "student_name": "Ritik Kumar Srivastava",
+          "code_url": "https://gist.github.com/CyberWake/eedfbdff1822dc294f48d0c6c8b5cd03",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4749161534062592/"
+        },
+        {
+          "title": "The Multisite project",
+          "short_description": "A multisite will feature the admin panel of the talawa project. The accessibility of the admin to create, delete, completely block, read the flag...",
+          "student_name": "Yasharth Dubey",
+          "code_url": "https://docs.google.com/spreadsheets/d/1Y_GSl36z7oY857wFsOqy_2IvEGFqbJSX6AT8J9SW7Fg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6029484943212544/"
+        },
+        {
+          "title": "Multilingual Support in the App",
+          "short_description": "Talawa App already has the English language at the moment. As the app is being targeted to a broad audience so we need to support more language for...",
+          "student_name": "Sumitra Saksham",
+          "code_url": "https://gist.github.com/sumitra19jha/41d0afa34bd0eaec77016a8f42ca513a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5206338589687808/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-palisadoes-foundation/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Admin Web Portal: New Features Support and Spam Mitigation",
+          "short_description": "My idea for this GSoC period is basically about improving the UI/UX of the admin portal and making it according to the design standards that are...",
+          "student_name": "Asmit Kumar Sirohi",
+          "code_url": "https://docs.google.com/document/d/1KiEZaYkCz7olJ5OeUJKcmuRn1C0qiUJ4UaHvesbcmgc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hMUkWQlA/"
+        },
+        {
+          "title": "Talawa: Event and Venue Management",
+          "short_description": "This project aims to add event and venue management features to the Talawa app for community organizations. After completion of the project the...",
+          "student_name": "Priyanshu Gupta",
+          "code_url": "https://gist.github.com/guptapriyanshu7/2f2f705462e1060cd3596abc8d6f43fc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZjWVKUOh/"
+        },
+        {
+          "title": "API: Content Uploads Support and enhanced chat support",
+          "short_description": "The Talawa app as we know should support the chat functionality among users as well as the user and the organization.I have been working on the chat...",
+          "student_name": "NISHNATA DEBNATH",
+          "code_url": "https://github.com/nishnatadebnath/gsoc-work/tree/main",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/h4MynEKm/"
+        },
+        {
+          "title": "Multi-Tennancy",
+          "short_description": "Adding a database abstraction layer for better code maintenance, then using this new layer to add Multi-Tennancy support for the API using data...",
+          "student_name": "Ebrahim",
+          "code_url": "https://gist.github.com/ebrahim354/2b1f87ae240cbfb4d5f561b903cd7dab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/WhAudlF6/"
+        },
+        {
+          "title": "Improved Member Management",
+          "short_description": "Currently, the mobile app is in the development phase with zero releases, hence the main motive for this year would be to make the app...",
+          "student_name": "Md Noman Khan",
+          "code_url": "https://gist.github.com/noman2002/414d6ebabc9b32074d35dabf2cfb2c1a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PriO2jAd/"
+        },
+        {
+          "title": "Typescript Migration",
+          "short_description": "The project aims to completely migrate the codebase of talawa-api from javascript to typescript. The project will introduce a strong type system in...",
+          "student_name": "xoldyckk",
+          "code_url": "https://github.com/xoldyckk/talawa-api/tree/typescript-migration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/prrqTQ0w/"
+        },
+        {
+          "title": "Admin Web Portal: Plugin Architecture",
+          "short_description": "Dear Sir/Madam , The Following proposal describes my idea for the implementation of the plugin architecture for the talawa applications. Demo :...",
+          "student_name": "Kukade Siddhesh Bhupendra",
+          "code_url": "https://github.com/SiddheshKukade/Google-Summer-of-Code-2022-Work-Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zjlx9dIj/"
+        },
+        {
+          "title": "Automated Documentation",
+          "short_description": "Currently, Talawa has three major software components which are talawa, talawa-api and talawa-admin. Among these, talawa-admin is a web-based portal...",
+          "student_name": "anwersayeed",
+          "code_url": "https://gist.github.com/anwersayeed/efb892c3381e221f92495d3a58f83f5a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eKoTbW4r/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-palisadoes-foundation",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Admin: Improved People and Newsfeed Management",
+          "short_description": "In the Talawa Admin Newsfeed functionality ( for eg: CRUD operations ) are not implemented yet for the Talawa API, Talawa Admin. Along with it the...",
+          "student_name": "Aashima Wadhwa",
+          "code_url": "https://gist.github.com/aashimawadhwa/a0659228c380ff567f56299624a2804e",
+          "proposal_id": "pT5AqVE8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/a4jcWmYH"
+        },
+        {
+          "title": "Mobile App: Improved Member Management and News Feed",
+          "short_description": "Implement member management and implementation of the news feed to include different types of posts that can be used for Photo-intensive, and...",
+          "student_name": "Ayush0Chaudhary",
+          "code_url": "https://gist.github.com/Ayush0Chaudhary/bf6d3cc956ff3a403277ac9018619c72",
+          "proposal_id": "aFeI5xB0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JbDD1yPa"
+        },
+        {
+          "title": "Talawa Admin: Improved Event and Feedback Management",
+          "short_description": "Currently, both of the projects, Talawa-API and Talawa-Admin, provide support for basic functionality related to events (like creation, updation, and...",
+          "student_name": "Eshaan Aggarwal",
+          "code_url": "https://eshaanagg.netlify.app/blog/gsoc_2023/",
+          "proposal_id": "IyypOGLa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zv3N8psq"
+        },
+        {
+          "title": "API: IMPROVED BACKEND PERFORMANCE AND SECURITY",
+          "short_description": "The project aims to make the following changes to the talawa-api: Enforce a stricter, standard graphql-pattern to get rid of the current anti-pattern...",
+          "student_name": "Kanishka Bansode",
+          "code_url": "https://github.com/kb-0311/GSoC-2023-Final-Report#readme",
+          "proposal_id": "ulKRvB2Z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Q1VEwusQ"
+        },
+        {
+          "title": "Refactoring Plugins to WebSockets & Implementing Advertisement feature",
+          "short_description": "This proposal focuses on refactoring the current Plugin architecture in the Talawa project to reduce the computation power required to run/host the...",
+          "student_name": "Kukade Siddhesh Bhupendra",
+          "code_url": "https://github.com/SiddheshKukade/Google-Summer-of-Code-2023-Work-Product",
+          "proposal_id": "m0m80NEn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QD8ElW39"
+        },
+        {
+          "title": "API and Mobile App: E2E encryption and security improvement in Talawa and Talawa-API",
+          "short_description": "This proposal aims to implement E2E Encryption in the Talawa Ecosystem from the ground up. The initial aim will be to implement secure credential...",
+          "student_name": "literalEval",
+          "code_url": "https://literaleval.notion.site/GSoC-23-E2E-Encryption-98b3422c52da476cb3ffa367acd94b2c?pvs=4",
+          "proposal_id": "Y2p6yLvj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oNSiZ7o3"
+        },
+        {
+          "title": "Hybrid: Build User Portal For Talawa",
+          "short_description": "Currently, Talawa misses a web-app for regular users. Creating a User Portal for regular users, makes Talawa accessible to an even larger audience....",
+          "student_name": "Noble Mittal",
+          "code_url": "https://beingnoble03.hashnode.dev/gsoc23-project-report-for-talawa-user-portal",
+          "proposal_id": "lsTXpMDz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tBhcZ1oT"
+        },
+        {
+          "title": "Admin UI redesign",
+          "short_description": "The proposal suggests redesigning the UI of Talawa-Admin to make it more intuitive and user-friendly. The new design should be deployed incrementally...",
+          "student_name": "Rishav Jha",
+          "code_url": "https://github.com/rishav-jha-mech/GSoC-2023",
+          "proposal_id": "10ie92ik",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/FpVgaLtg"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-palisadoes-foundation/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Hybrid: Volunteer management, tracking & leaderboard- Talawa Admin & Talawa Mobile",
+          "short_description": "Talwa being a complete community management platform misses a system to record, verify, and manage volunteer hours/efforts. This project proposes to...",
+          "student_name": "Glen Dsouza",
+          "code_url": "https://gist.github.com/GlenDsza/1940a2cffc5631f08bf1828aa27721bd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/A27LfMGu/"
+        },
+        {
+          "title": "Enhancements for Talawa's Event Plugin and new management feature for Talawa App",
+          "short_description": "This project revolutionizes mobile event management for Talawa by introducing groundbreaking functionalities: volunteer management, venue...",
+          "student_name": "Parag Gupt@",
+          "code_url": "https://gist.github.com/Dante291/97704d0e154a33eff85565903d005a04",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EngEUDbm/"
+        },
+        {
+          "title": "Migration to postgreSQL and fixing code quality issues",
+          "short_description": "The primary aim of this proposal is to fix code quality issues in talawa-api, a project under The Palisadoes Foundation. One major requirement for...",
+          "student_name": "xoldyckk",
+          "code_url": "https://github.com/xoldd/talawa-api/tree/dev-postgres",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xjPeiv1d/"
+        },
+        {
+          "title": "Tag Management System",
+          "short_description": "At present, Talawa lacks a robust Tag Management System. While some of the basic CRUD functionalities for user-specific tags have been implemented in...",
+          "student_name": "Meetul Rathore",
+          "code_url": "https://github.com/meetulr/GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9GWfCSa3/"
+        },
+        {
+          "title": "Offline Capability Enhancement - Talawa Mobile",
+          "short_description": "The main objectives of the project idea are to make Talawa offline support robust, Introduce an efficient caching mechanism, and Integrate the chat...",
+          "student_name": "Shaik Mahammad Nabi Azad",
+          "code_url": "https://gist.github.com/Azad99-9/57350891a258f20ae3daa0606a167eda",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/UztycmP4/"
+        },
+        {
+          "title": "Self Hosted Chat and Notification",
+          "short_description": "The aim of the project is to develop a self hosted chat for Talawa which facilitates communication amongst users and notifications. Key deliverables...",
+          "student_name": "Disha Talreja",
+          "code_url": "https://gist.github.com/disha1202/d16b4bf87e6762ed8ffb640b3b82f41f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/UyT8Y8Ky/"
+        },
+        {
+          "title": "Improved File Uploads and Security",
+          "short_description": "The project aims to find a better solution for handling files uploaded from Talawa clients. It seeks to store files outside the code tree, access...",
+          "student_name": "Aman Singh Chandel",
+          "code_url": "https://gist.github.com/chandel-aman/5fa877d9ead0a4ffc390a4a812f6655d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9p4QYVj2/"
+        },
+        {
+          "title": "Event Attendance - Talawa Admin",
+          "short_description": "This project will transform Talawa's event management capabilities. Administrators will gain valuable data-driven insights, streamlined workflows,...",
+          "student_name": "Shekhar Patel",
+          "code_url": "https://medium.com/@rootsshikhar001/gsoc-2024-completion-report-d2ac35c19a7d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fJ18rrIJ/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-palisadoes-foundation",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Enhanced SwitchMap-NG Scalability",
+          "short_description": "SwitchMap-NG currently faces scalability challenges in distributed networks, including data loss due to unreliable connections and slow polling when...",
+          "student_name": "abbi4code",
+          "code_url": null,
+          "proposal_id": "37u7weYr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DxsDARQQ"
+        },
+        {
+          "title": "Enhanced SwitchMap-NG Web Features",
+          "short_description": "The existing SwitchMap-NG web UI relies on flask-table, which is outdated and limits improvements. The lack of visualization tools makes it difficult...",
+          "student_name": "Abhi Murali",
+          "code_url": null,
+          "proposal_id": "Y3MuolbP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lXkF8ycI"
+        },
+        {
+          "title": "Implementing Efficient Recurring Events and Solidifying Core Features",
+          "short_description": "This proposal addresses the implementation of a scalable recurring events system for Talawa, focusing on efficient data management and association...",
+          "student_name": "Divyanshu Gautam",
+          "code_url": null,
+          "proposal_id": "iqx9jEZQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/knuq1bth"
+        },
+        {
+          "title": "Microkernel Architecture for Drop-in Plugins",
+          "short_description": "This project introduces a microkernel-based drop-in plugin system that enables seamless integration of new features like payments, analytics, and AI...",
+          "student_name": "Jai Pannu",
+          "code_url": null,
+          "proposal_id": "Zb6o0FRQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/r0JYdqkQ"
+        },
+        {
+          "title": "Enhanced-notification",
+          "short_description": "Refactor the messaging and notification features of the Talawa Admin code base to reduce technical debt, enhance security, and introduce new features...",
+          "student_name": "Manish Biswal",
+          "code_url": null,
+          "proposal_id": "HhO57Ooo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UngUZLGi"
+        },
+        {
+          "title": "Improved Usability & Hardening - Talawa Mobile",
+          "short_description": "The Talawa Mobile App Refactor and Enhancement project addresses technical debt, usability issues, and security concerns to deliver an optimized user...",
+          "student_name": "Mohit Maulekhi",
+          "code_url": null,
+          "proposal_id": "omdjhSjy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cSr38uDj"
+        },
+        {
+          "title": "Talawa Enhanced Testing",
+          "short_description": "To enhance the testing infrastructure across the Talawa ecosystem by introducing a robust, automated, and scalable testing strategy. This project...",
+          "student_name": "Syed Ali Ul Hasan",
+          "code_url": null,
+          "proposal_id": "SB4kaaWm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dBNdnkCt"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.palisadoes.org/slack",
+  "contact_email": "mailto:info@palisadoes.org",
+  "mailing_list": "https://www.freelists.org/list/palisadoes",
+  "ideas_url": "https://developer.palisadoes.org/docs/internships/gsoc/gsoc-ideas",
+  "guide_url": "https://developer.palisadoes.org/docs/internships/gsoc/gsoc-introduction",
+  "twitter_url": "https://twitter.com/palisadoesorg",
+  "blog_url": "https://www.palisadoes.org/news/"
+}

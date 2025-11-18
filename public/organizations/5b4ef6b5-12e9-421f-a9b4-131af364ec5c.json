@@ -1,0 +1,46 @@
+{
+  "name": "Our World In Data",
+  "url": "https://ourworldindata.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/our-world-in-data/ghnijuxmyoccl6rt-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "open data",
+    "data visualisation",
+    "Data cataloging"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "d3",
+    "typescript",
+    "pandas"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/our-world-in-data/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Cartograms in Grapher",
+          "short_description": "Our World in Data (OWID) strives to make knowledge of global problems accessible and understandable through interactive geographical data...",
+          "student_name": "Adesh Nalpet Adimurthy",
+          "code_url": "https://github.com/owid/cartograms/tree/main/documentation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/e4CNvEMk/"
+        },
+        {
+          "title": "Adding annotated observations to World maps",
+          "short_description": "World maps serve as a key entryway for inexperienced and new users at Our World in Data. They are especially impactful in crafting a striking image...",
+          "student_name": "Karthik Krishna",
+          "code_url": "https://docs.google.com/document/d/1oNp2NCGrF0Iw_vHj4HcPB9Bb3MWKQm0E8s_d1rP9H9g/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9CQnV7Fs/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "gsoc@ourworldindata.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

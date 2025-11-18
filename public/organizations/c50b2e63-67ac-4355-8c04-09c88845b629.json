@@ -1,0 +1,698 @@
+{
+  "name": "Wikimedia Foundation",
+  "url": "http://wikimediafoundation.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/wikimedia-foundation-nd/2e6sdwa8tksr5sg2-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web",
+    "wiki",
+    "input methods",
+    "mediawiki",
+    "i18n",
+    "encyclopedia",
+    "education",
+    "wikipedia",
+    "wikimedia",
+    "semantic web"
+  ],
+  "technologies": [
+    "javascript",
+    "html",
+    "php",
+    "css",
+    "jquery",
+    "android",
+    "ruby on rails",
+    "reactjs",
+    "python",
+    "Phyton"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6644619081154560/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Accuracy Review of Wikipedia",
+          "short_description": "This project aims to provide editors with an easy mechanism to find and review inaccurate content in Wikipedia articles. The aim is to achieve this...",
+          "student_name": "prnk28",
+          "code_url": "https://priyankamandikal.github.io/posts/gsoc-2016-project-overview/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6337818024476672/"
+        },
+        {
+          "title": "Abhinand GSoC Proposal : Extension for page creating/editing notification",
+          "short_description": "This project aims in developing a MediaWiki extension that provides a much greater range of notification options related to page creation and editing.",
+          "student_name": "Abhinand",
+          "code_url": "https://www.mediawiki.org/wiki/Extension:EditNotify",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6346087715569664/"
+        },
+        {
+          "title": "Automated Testing and Integration of IFTTT support to Wikidata",
+          "short_description": "This project aims at integrating IFTTT (IF This Then That) feature to the Wikidata extension and extending RSS views and writing Unit tests for the...",
+          "student_name": "Alangi Derick (d3r1ck)",
+          "code_url": "https://github.com/wikimedia/ifttt/commits/gsoc?author=ch3nkula",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6173155689234432/"
+        },
+        {
+          "title": "List Of Contributors",
+          "short_description": "Listing of contributors to a project is an important feature that must be an integral part of an open source community. Listing of contributors comes...",
+          "student_name": "Devi Krishnan",
+          "code_url": "https://docs.google.com/document/d/1GD36m1zQtvYYmX6d0J8c_4bUkWqihHjfsQG1-qhqBYw/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5097815600529408/"
+        },
+        {
+          "title": "Improving static analysis tools for MediaWiki",
+          "short_description": "MdeiaWiki-CodeSniffer is a linting tool based on PHP_CodeSniffer. It helps MediaWiki to improve its code quality. This proposal aims to fix existing...",
+          "student_name": "Lethe",
+          "code_url": "https://docs.google.com/document/d/1whpf9g8ylRwHkzzDqByFRdY6pklqHd_92_v1eCDfeAM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5608332324765696/"
+        },
+        {
+          "title": "Port catimages.py to pywikibot-core",
+          "short_description": "The aim of the project is to bring to life the catimages.py script from pywikibot-compat. This involves heavy refactoring of the script to make it...",
+          "student_name": "AbdealiJK",
+          "code_url": "https://commons.wikimedia.org/wiki/User:AbdealiJK/file-metadata/GSoC2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4529397482651648/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6468952502829056/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Automatic editing suggestions and feedbacks for articles in Wiki Ed Dashboard",
+          "short_description": "The Wiki Ed Dashboard / Programs &amp; Events Dashboard is a Ruby on Rails + Javascript application that helps people organize groups of newcomers to...",
+          "student_name": "Keerthana S",
+          "code_url": "https://github.com/WikiEducationFoundation/WikiEduDashboard/commits/master?author=keer25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6671467458592768/"
+        },
+        {
+          "title": "Implement Thanks support in Pywikibot",
+          "short_description": "Pywikibot is a popular framework for writing MediaWiki bots. Thanks is an extension for MediaWiki wikis which is designed to allow users to send...",
+          "student_name": "Alexander Jones",
+          "code_url": "https://gist.github.com/happy5214/dff10388cb9684e3a1ff1acaa360c841",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6141212406841344/"
+        },
+        {
+          "title": "Glam2Commons (previously Single Image Batch Upload)",
+          "short_description": "The project aims to develop a tool which allows any Wikimedia Commons user to import images to Commons from the online repositories of a number of...",
+          "student_name": "Siddhartha Sarkar",
+          "code_url": "https://infobliss.github.io/gsoc2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6252744117583872/"
+        },
+        {
+          "title": "Add a \"hierarchy\" type to the Cargo extension",
+          "short_description": "This project aims to introduce hierarchy fields in Cargo MediaWiki extension. This project will enhance the capability of MediaWiki by enabling...",
+          "student_name": "Feroz Ahmad",
+          "code_url": "https://phabricator.wikimedia.org/T174294",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6108556965183488/"
+        },
+        {
+          "title": "Improvements to ProofreadPage Extension and Wikisource",
+          "short_description": "This project aims at the improvement and enhancement of the ProofreadPage Extension and Wikisource, through important bug fixes that are left as...",
+          "student_name": "Amrit Sreekumar",
+          "code_url": "https://amritsreekumar.wordpress.com/2017/08/28/final-work-product-of-gsoc17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4934556377415680/"
+        },
+        {
+          "title": "GSoC17 Proposal to provide enhanced usability for Wikimedia Programs & Events Dashboard managed by Wiki Education foundation.",
+          "short_description": "The Dashboard code runs 2 main projects:\n1) The Wiki Education Foundation Dashboard : The use case(scope) for this project is limited to higher...",
+          "student_name": "Sejal Khatri",
+          "code_url": "https://medium.com/@sejal.khatri5/gsoc-2017-project-overview-8421480081f0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5840103255572480/"
+        },
+        {
+          "title": "Adding custom features while Upgrading and updating Quiz extension",
+          "short_description": "Quiz extension is currently used on several WMF projects, such as Wikiversity but has lot of bugs and limited features for users.The project aims to...",
+          "student_name": "Harjot Singh Bhatia",
+          "code_url": "https://gist.github.com/hsb4995/2f47e62e520bdd9365a4eeb5cef9a283",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6281949895196672/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6035427630776320/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "[#1Lib1Ref] Build a \"worklist\" tool for campaigns and in-person editing events",
+          "short_description": "In this project, a tool will be developed that will basically enable people to collaborate during campaigns and in-person editing events. It'll act...",
+          "student_name": "Megha Sharma",
+          "code_url": "https://docs.google.com/document/d/1I3htDwicfIABW3gJWBNsLjPucqSFYFxn72euFSHtZXo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6374778164215808/"
+        },
+        {
+          "title": "Adding 'User' search filters to the existing filter menu",
+          "short_description": "The User filter\u2019s purpose is to display edits made by particular users. It will be added to the main filter panel. Desired features include the...",
+          "student_name": "Hagar Shilo",
+          "code_url": "https://gist.github.com/strayblues/8c22a4e3be7cbded4ab1808f8639d945",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6702185937108992/"
+        },
+        {
+          "title": "WikiEducation Dashboard Article Finder Tool",
+          "short_description": "The Wiki Education Dashboard/ Programs & Events Dashboard is a Web Application that helps people organize groups of newcomers to contribute to...",
+          "student_name": "psinghal20",
+          "code_url": "https://gist.github.com/psinghal20/626bd4bc617c70b4643ba799cac6a2d1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5701111537205248/"
+        },
+        {
+          "title": "Predict relevance of search results from historical clicks using a Neural Click Model",
+          "short_description": "Click models are algorithmic approaches which help in the \u200bunderstanding relevance of documents over a given query by modeling the search queries in...",
+          "student_name": "Karan Dhingra",
+          "code_url": "https://gerrit.wikimedia.org/r/#/c/search/MjoLniR/+/452655/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5289425231675392/"
+        },
+        {
+          "title": "[Wikimedia Commons app] Allow users to browse Commons from app",
+          "short_description": "About the project\nThis project is aimed at providing an option to browse/search the Wikimedia Commons using the app.\nWhy this feature is needed?\n...",
+          "student_name": "Ujjwal Agrawal",
+          "code_url": "https://phabricator.wikimedia.org/T188597#4490754",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5610278616039424/"
+        },
+        {
+          "title": "[GSoC proposal 2018] Emoji Twitter bot for Commons images from NYPL fork",
+          "short_description": "Wikimedia Commons is a Wikimedia Foundation project and an online repository of images videos and other media files. A Twitter bot is a type of bot...",
+          "student_name": "Perside Rosalie",
+          "code_url": "https://docs.google.com/document/d/1PXT7VLS85NoyB3rYQCVm6jv6JOfKFgm9Zy3bgw_zCmM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6516330689724416/"
+        },
+        {
+          "title": "Feedback on how pictures uploaded to Commons get used: statistics, barnstars, light gamification",
+          "short_description": "This project will be executed in two phases. First phase is sharing feedback about uploaded photos in the form of number of images used in...",
+          "student_name": "Tanvi Dadu",
+          "code_url": "https://www.mediawiki.org/wiki/User:Tanu_dadu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6040997398052864/"
+        },
+        {
+          "title": "Add a spreadsheet interface for modifying multiple pages to the Page Forms extension",
+          "short_description": "The Page Forms extension for MediaWiki is currently used to create and edit pages using an interface made up of forms that simplify the process. The...",
+          "student_name": "Yashdeep Thorat",
+          "code_url": "https://yashdeepthorat.com/2018/08/multipageedit-special-page-for-the-mediawiki-page-forms-extension---final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6057915609776128/"
+        },
+        {
+          "title": "Improve the Cargo Special:Drilldown page",
+          "short_description": "The Cargo extension's Special:Drilldown page shows a listing of each table, its contents, and a set of filters, for all the data in a wiki stored via...",
+          "student_name": "Nikhil-nk",
+          "code_url": "https://medium.com/@nikhilabcdenk/gsoc-2018-wikimedia-foundation-final-report-5766c49cb764",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4860153853640704/"
+        },
+        {
+          "title": "[Analytics] Improvements to Wikistats 2.0 front-end",
+          "short_description": "Wikistats is the public statistics website of the Wikimedia Foundation. Its main purpose is to add context and motivate our editor community by...",
+          "student_name": "Sahil Khokhar",
+          "code_url": "https://medium.com/@sahilkhokhar505/google-summer-of-code-2018-wikimedia-foundation-fab7a988afdc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4889884959440896/"
+        },
+        {
+          "title": "Improvements for the Toolforge 'webservice' command",
+          "short_description": "This project is about improving the webservice command used by toolforge to start and stop web services. It involves solving bugs and adding features...",
+          "student_name": "Neha Jha",
+          "code_url": "https://docs.google.com/document/d/1QHaebq6fjGQ7ANSU5pSiI4Jd_JJPkgYXJB_XytKxvOY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5878476506660864/"
+        },
+        {
+          "title": "Improve Data Explorer on query.wikidata.org",
+          "short_description": "The Wikidata Query Service allows users to run complex queries and ask intricate questions to Wikidata, a free, open and vast knowledge base. My...",
+          "student_name": "Prssanna Desai",
+          "code_url": "https://medium.com/@prssanna/gsoc-18-in-60-seconds-64c475f0d47a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5957416260730880/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6727339445059584/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Tool to Cut Videos in Commons",
+          "short_description": "VideoCutTool will help to trim videos on-the-fly in Wikimedia Commons. Currently, a video in Wikimedia Commons cannot be edited online. They have to...",
+          "student_name": "Gopa Vasanth",
+          "code_url": "https://gopavasanth.wordpress.com/2019/08/21/gsoc19-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6379537623941120/"
+        },
+        {
+          "title": "Create a subpage for statistics and charts related to a hashtag search",
+          "short_description": "There are various Wikimedia projects that are edited by volunteers around the world. Hashtag Search is a tool that allows users to search for uses of...",
+          "student_name": "AdityaJ",
+          "code_url": "https://medium.com/@adi2007jain/google-summer-of-code-2019-final-report-f20c5f3863b1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6634604323143680/"
+        },
+        {
+          "title": "GSoC 2019 Proposal: Page Forms - add an editable calendar interface",
+          "short_description": "The Forms made using the Page Forms extension for MediaWiki can be used to add and edit template calls in the pages. This project aims to add a...",
+          "student_name": "Priyanshu Varshney",
+          "code_url": "https://medium.com/@priyanshuvarshney/gsoc-phase-3-final-submission-report-3dabbafec971",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5668256679985152/"
+        },
+        {
+          "title": "Make notification counts update without page reload",
+          "short_description": "This project will involve:\n\nUpdating the notifications count via a polling mechanism. \nWriting the code and user preference to temporarily display...",
+          "student_name": "SHIVANSH BINDAL",
+          "code_url": "https://gist.github.com/shivanshbindal9/6c66380bf1dc4df820c9f0cf40e2816b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5493176582799360/"
+        },
+        {
+          "title": "GSoC Proposal: Develop code samples in Javascript and PHP for API Modules",
+          "short_description": "This project will be about developing the sample code in two or more programming languages to demonstrate the use of MediaWiki Action API modules. In...",
+          "student_name": "Jay Prakash",
+          "code_url": "https://www.techwithprakash.com/2019/08/gsoc-2019-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6174192418947072/"
+        },
+        {
+          "title": "Develop a tool for event organizers to track developer activity",
+          "short_description": "The project is to develop a tool to track the contributions of developers across the platforms like Gerrit, Phabricator and GitHub using the...",
+          "student_name": "Rammanoj Potla",
+          "code_url": "https://rammanojpotla.wordpress.com/gsoc19-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5000595373555712/"
+        },
+        {
+          "title": "Ujjwal Agrawal/ WikiEdu Dashboard Android App",
+          "short_description": "Wiki Edu Dashboard App is an Android client for the Wiki Education Dashboard API to support managing programs, including edit-a-thons, education...",
+          "student_name": "Ujjwal Agrawal",
+          "code_url": "https://medium.com/@ujjwalagrawal17/wikiedu-dashboard-android-app-google-summer-of-code-2019-f9adf8a69c86",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5353527734435840/"
+        },
+        {
+          "title": "Improve article recommendation pipeline",
+          "short_description": "The article recommendation pipeline consists of many parts. The project aims to improve article recommendation pipeline by solving the various issues...",
+          "student_name": "usmanmuhd",
+          "code_url": "https://usmanmuhd.com/posts/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4824600213454848/"
+        },
+        {
+          "title": "Proposal for Wikimedia Commons",
+          "short_description": "Add Structured Commons support to Commons Android app",
+          "student_name": "Vanshika Arora",
+          "code_url": "https://medium.com/@vanshikaa937/google-summer-of-code19-final-post-d78e601ea39d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6555136422313984/"
+        },
+        {
+          "title": "Improve the interface of Special:ViewData in the Cargo extension",
+          "short_description": "The Cargo extension (https://www.mediawiki.org/wiki/Extension:Cargo) defines a page, Special:ViewData, that serves two purposes: (1) to display...",
+          "student_name": "Ankita Mandal",
+          "code_url": "https://gerrit.wikimedia.org/r/#/c/mediawiki/extensions/Cargo/+/532246/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5780860337389568/"
+        },
+        {
+          "title": "Add Multi-Wiki Support to WikiEduDashboard",
+          "short_description": "WikiEduDashboard is a versatile tool to engage in peer-learning through editing and reviewing the Wiki Articles. Currently, the tracking of articles...",
+          "student_name": "Amit Joki",
+          "code_url": "https://amitjoki.github.io/GSoC-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5920429057769472/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5593787323121664/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Reduce Bundle Size",
+          "short_description": "The WikiEduDashboard's current bundle size is around 4.3 MB. That is a lot of code that's being downloaded and parsed on the client. The user...",
+          "student_name": "Amit A Joki",
+          "code_url": "https://amitjoki.github.io/GSoC-2020.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5752616992112640/"
+        },
+        {
+          "title": "Evaluate WebdriverIO replacements for our browser automation framework",
+          "short_description": "Currently all the frontend automation tests for MediaWiki are written in Javascript using WebDriverIO which uses Selenium under the hood. While...",
+          "student_name": "Soham Parekh",
+          "code_url": "https://www.sohamp.dev/blog/2020-08-24-wmf-gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4821624177557504/"
+        },
+        {
+          "title": "Improve Wiki Education Dashboard's Error Monitoring",
+          "short_description": "WikiEduDashboard pulls huge data related to a wide range of WikiMedia projects via MediaWiki API, across groups of editors. This scales upwards when...",
+          "student_name": "Shashwat Kathuria",
+          "code_url": "https://gist.github.com/shashwatkathuria/c291ae7d8881a1a6bc93d97a028948fe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6039075238182912/"
+        },
+        {
+          "title": "Media Data Verification Tool",
+          "short_description": "Since Wikimedia Commons introduced structured data to the files hosted on the site, users are encouraged to add structured data to the files....",
+          "student_name": "Gabriel Lee (gabrielchl)",
+          "code_url": "https://phabricator.wikimedia.org/T261179",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6048926215438336/"
+        },
+        {
+          "title": "Implement articlequality and draftquality model for ptwiki and apply insights to models for bs, uk, hi wikis",
+          "short_description": "The current automatic classification system in place for the ptwiki is very naive and simply checks a few if conditions and places articles...",
+          "student_name": "Chaitanya Mittal",
+          "code_url": "https://sites.google.com/view/chtnnh-gsoc20/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4875253420916736/"
+        },
+        {
+          "title": "Upgrade WebdriverIO to the latest version for all repositories",
+          "short_description": "MediaWiki uses WebdriverIO, an open-source test automation framework, as it\u2019s primary testing framework. WebdriverIO v6.0 was released just a few...",
+          "student_name": "Vidhi Mody",
+          "code_url": "https://vidhi-mody.netlify.app/blog/2020-08-26-gsocpedia-final-chapter/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4902488446074880/"
+        },
+        {
+          "title": "Remove use of jQuery UI from Page Forms.",
+          "short_description": "jQuery UI is formally deprecated among MediaWiki Developers, but Extension: Page Forms still uses it. So, it would be great to replace it with other...",
+          "student_name": "Amr El-Absy",
+          "code_url": "https://phabricator.wikimedia.org/T248505",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4949248325451776/"
+        },
+        {
+          "title": "Creating a page-list editing widget for the ProofreadPage extension",
+          "short_description": "Creating a widget in the ProofreadPage extension using the OOUI library that will help smooth out the experience for new users editing pagelists in...",
+          "student_name": "Sohom Datta",
+          "code_url": "https://www.mediawiki.org/wiki/User:Sohom_data/The_Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5848024825200640/"
+        },
+        {
+          "title": "Detecting reverts and tagging reverted edits",
+          "short_description": "In MediaWiki it is currently very hard to find and filter out edits that were later reverted (i.e. removed) from an article, it is also hard to...",
+          "student_name": "Ostrzyciel",
+          "code_url": "https://phabricator.wikimedia.org/T248775",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5929202257231872/"
+        },
+        {
+          "title": "Design and implement a tool to create overlays on pre-rendered offline maps for Internet In A Box",
+          "short_description": "The Internet In A Box is a platform to provide offline access to educational content like Wikipedia slices, medical knowledge, videos, books, maps to...",
+          "student_name": "Swapnil Sinha",
+          "code_url": "https://medium.com/@swaapniil/final-report-google-summer-of-code-2020-with-wikimedia-foundation-e69ff341960b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5945594301906944/"
+        },
+        {
+          "title": "Add leaderboard based on user's edits using Commons Android app",
+          "short_description": "The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons. Commons is not only the image...",
+          "student_name": "Madhur Gupta",
+          "code_url": "https://medium.com/@madhurgupta10/gsoc-2020-final-report-29f497c39d61?source=friends_link&sk=6506506db4572f1fe5a660b4acebde50",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5988343956897792/"
+        },
+        {
+          "title": "Supporting the \u2018maps\u2019 parameter in TemplateData Editor (GUI)",
+          "short_description": "Bringing the 'maps' parameter with its full functionality to the TemplateData GUI editor to make it easier for the average non-technical user to...",
+          "student_name": "Adham Khatean",
+          "code_url": "https://www.mediawiki.org/wiki/User:AdhamKhatean/Blogs/GSoC_2020_work_submission,_Wikimedia:_Support_%27maps%27_parameter_in_TemplateData_Editor_(GUI)",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6299550475616256/"
+        },
+        {
+          "title": "Improve the framework to transfer files over the LAN",
+          "short_description": "The transfer method in transfer.py is responsible for copying data from one host to another. This is a highly used function in DB management....",
+          "student_name": "Ajumal P A",
+          "code_url": "https://medium.com/@ajupazhamayil/gsoc-2020-final-report-wikimedia-transferpy-improvements-2f4fce77004a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5172312652906496/"
+        },
+        {
+          "title": "goodbot: a simple, friendly bot for Wikimedia Zulipchat",
+          "short_description": "goodbot is a help-chatbot intended for helping out new applicants of Wikimedia Outreach programs. The bot is designed to be accurate, modular,...",
+          "student_name": "QEDK",
+          "code_url": "https://medium.com/@ankittt/gsoc-2020-code-committed-lessons-learnt-812e36ae3d93",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5179802169901056/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5270263742070784/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Develop a web based monitoring dashboard to improve and monitor existing database backup inventory processes and improve long term maintainability of existing code",
+          "short_description": "The project aims to build a simple web dashboard/webapp that will display and monitor data and metadata from various database backups that are...",
+          "student_name": "Hari Krishna",
+          "code_url": "https://github.com/wikimedia/operations-software-bernard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6472092429582336/"
+        },
+        {
+          "title": "GSOC - Create cypress tests for wikipedia-preview",
+          "short_description": "The Wikipedia Preview acts as a medium that provides Wikipedia content in the form of contextual information to be available on 3rd party sites. It...",
+          "student_name": "Shailesh Kanojiya",
+          "code_url": "https://shaileshkanojiyaiitkgp.medium.com/final-report-wikimedia-foundation-4bde607ec06e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4976528043016192/"
+        },
+        {
+          "title": "Custom Picture Selector",
+          "short_description": "Currently, the image selection for the app is the default Android selector which lets you pick multiple images from the gallery or upload one using...",
+          "student_name": "Aditya Srivastav",
+          "code_url": "https://aditya-srivastav.medium.com/final-report-9046e1c5949",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5125450329751552/"
+        },
+        {
+          "title": "Add zoom and pan to the Wikisource Pagelist Widget",
+          "short_description": "The Wikisource Pagelist Widget is an OOUI based widget that streamlines the process of creating a pagelist for new (and existing) Wikisource users....",
+          "student_name": "Yash Agrawal",
+          "code_url": "https://medium.com/@yashagrawal4357/gsoc21-final-report-384ae9377e83",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5634499987111936/"
+        },
+        {
+          "title": "Develop a UserScript/Gadget tutorial on MediaWiki.org similar to Wikipedia:The_Wikipedia_Adventure",
+          "short_description": "User scripts are the JavaScript programs that provide Wikipedia users the ability to customize and change the behavior of their user account....",
+          "student_name": "Devyansh Chawla",
+          "code_url": "https://github.com/thedevyansh/the-userscript-tour",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6231670797107200/"
+        },
+        {
+          "title": "Add autocompletion to Page Forms spreadsheet-style display",
+          "short_description": "The Page Forms extension provides a spreadsheet-style editing display in two places-\n\nIn the page Special Pages: MultiPageEdit -\nUsing this user can...",
+          "student_name": "Yash Varshney",
+          "code_url": "https://phabricator.wikimedia.org/T278714",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6263283199246336/"
+        },
+        {
+          "title": "Update the front-page of Wikimedia projects",
+          "short_description": "In this project we want to get to the point where all the wikimedia portals use the same build system and resources. By Using (templates, scripts,...",
+          "student_name": "Bhaarat Kumar Khatri",
+          "code_url": "https://docs.google.com/document/d/1N_FXO1ZoZrE3HY0v6IORUZd_tOEDZ9r1o7YUzvisnWk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6519716436246528/"
+        },
+        {
+          "title": "Gamified Knowledge Base Completion Plugin for Wikibase/Wikidata",
+          "short_description": "Creation of a Knowledge base completion Plugin for Wikibase/Wikidata and a badge service for Wikibase/Wikidata",
+          "student_name": "Dhairya Khanna",
+          "code_url": "https://github.com/Dhairya3124/Wikidata-Complete-Gadget/blob/main/FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4925527655186432/"
+        },
+        {
+          "title": "Upgrade WebdriverIO to the latest version 7 for all repositories",
+          "short_description": "Project Summary\nTesting of software is important since it discovers defects/bugs before the delivery to the client, which guarantees the quality of...",
+          "student_name": "Sahil Grewal",
+          "code_url": "https://sahilgrewalhere2001.medium.com/the-offboarding-f8a81cb51275",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5823330438873088/"
+        },
+        {
+          "title": "Retraining models from ORES to be deployable on Lift Wing",
+          "short_description": "The Machine Learning team at the Wikimedia Foundation works with the aim of building ethical ML solutions to help Wikimedia communities and teams in...",
+          "student_name": "Anubhav Sharma-1",
+          "code_url": "https://github.com/anubhav-sharma13/Lift_wing_models",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5860658905612288/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/wikimedia-foundation/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Rewrite the Wikidata Infobox on Commons in Lua",
+          "short_description": "Wikimedia Commons is a multilingual project that hosts over 80 million freely licensed multimedia files, which are available for use on Wikipedia and...",
+          "student_name": "Lennard Hofmann",
+          "code_url": "https://commons.wikimedia.org/wiki/User:LennardHofmann/GSoC_2022/Report_5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BiE9CBjL/"
+        },
+        {
+          "title": "Command-line interface (CLI) for Canasta & Canasta Kubernetes Stack",
+          "short_description": "Command-line-interface for Canasta is designed to make the process of creating and maintaining a Canasta installation. Backing up and restoring the...",
+          "student_name": "Amal Paul",
+          "code_url": "https://amalpaul.hashnode.dev/gsoc22-canasta",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/upC5FdFC/"
+        },
+        {
+          "title": "Make it easier for contributors to choose pictures for upload on the Commons Android app",
+          "short_description": "1. At the bottom of the picker, there will be two buttons \"Upload\" to start the Upload Wizard with the selected pictures (replacing the already...",
+          "student_name": "Ayan Sarkar",
+          "code_url": "https://github.com/commons-app/apps-android-commons/pull/5035",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jVjoInw5/"
+        },
+        {
+          "title": "Extending the WikidataComplete plugin for enabling data donations, recommendations, and gamification",
+          "short_description": "Wikidata is one of the largest hosts of open data. Missing or new information needs to be added by community members. Otherwise, the knowledge base...",
+          "student_name": "Lalit Suthar",
+          "code_url": "https://sutharlalit-97.medium.com/gsocpedia-final-chapter-23fb411b6aef",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/s5A7vpos/"
+        },
+        {
+          "title": "Modernize JavaScript build process and dependencies for Wiki Education Dashboard",
+          "short_description": "Wiki Education Dashboard (the Rails app that powers Programs & Events Dashboard) is a complex web app for keeping track of contributions to Wikimedia...",
+          "student_name": "Shashwat",
+          "code_url": "https://gist.github.com/TheTrio/495c3e49218837969a8f0bb471ef8394",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1NHabNzp/"
+        },
+        {
+          "title": "Campaigns Retention Metrics Dashboard",
+          "short_description": "Campaigns are content/theme focused activities organized annually by collaborating with many volunteer communities and other government/private...",
+          "student_name": "Nivas",
+          "code_url": "https://github.com/Nivas10798/Campaigns-Retention-Dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QMaY4qFv/"
+        },
+        {
+          "title": "Edit Request Wizard",
+          "short_description": "This project aims at creating a step-by-step form to help beginners submit a Wikipedia edit request. An edit request is a request for someone to...",
+          "student_name": "AnkitGupta",
+          "code_url": "https://github.com/wikimedia-gadgets/Edit-Request-Wizard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/u0WNs8PY/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/wikimedia-foundation",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Wiki Education Dashboard: Refactoring and upgrading React",
+          "short_description": "This proposal aims to improve the dashboard's performance and overall code-quality by making a variety of changes to the frontend codebase. this...",
+          "student_name": "AmineH",
+          "code_url": "https://gist.github.com/Aminehassou/043ac4861cd0728c8ea53fe7fc3d45f5",
+          "proposal_id": "RgKsAwKM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NfzyC1AJ"
+        },
+        {
+          "title": "GSoC 2023 Proposal: Wiki farm support for Canasta",
+          "short_description": "Canasta is a Docker-based MediaWiki distribution that simplifies the process of setting up a full-featured MediaWiki instance on virtually any...",
+          "student_name": "Chenhao Liu",
+          "code_url": "https://github.com/CanastaWiki/Canasta/pull/295",
+          "proposal_id": "LCWNXO3z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9LkRgaCP"
+        },
+        {
+          "title": "End-to-end test coverage for Abstract Wikipedia's Wikifunctions",
+          "short_description": "The project idea emphasizes the importance of developing thorough tests that replicate important user journeys within the Wikifunctions platform....",
+          "student_name": "Nikhil Mahajan",
+          "code_url": "https://nik-55.github.io/GSoC-2023-Report/",
+          "proposal_id": "VMQD73ZP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eakHifi8"
+        },
+        {
+          "title": "VideoCutTool: Improve the functionality of VideoCutTool",
+          "short_description": "Proposed features to improve VideoCutTool's user experience on the Wikimedia website: 1) Cloud storage to save work, and resume editing from anywhere...",
+          "student_name": "PunithNayak",
+          "code_url": "https://www.mediawiki.org/wiki/User:Punith.nyk/The_Final_Report",
+          "proposal_id": "W4uLPd67",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aMCdJCoE"
+        },
+        {
+          "title": "Commons Android app: Make upload more reliable",
+          "short_description": "Wikimedia Commons is an Android app that enables users to upload and view pictures from their Android phone/tablet on the Commons server. This...",
+          "student_name": "Ritika Pahwa",
+          "code_url": "https://medium.com/@RitikaPahwa4444/commons-android-app-make-upload-more-reliable-cb99ac2893ff",
+          "proposal_id": "5B7AeKvm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/S9pg398q"
+        },
+        {
+          "title": "Adding a menu to Scribe-iOS application and expanding keyboard languages",
+          "short_description": "Scribe is a keyboard application for language learners. It sources its data from Wikidata. 1. Adding a menu to the application: - Currently, the...",
+          "student_name": "Saurabh Jamadagni",
+          "code_url": "https://saurabhjamadagni.hashnode.dev/gsoc-23-final-work-submission",
+          "proposal_id": "L0AkRw46",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Ai7B85Cp"
+        },
+        {
+          "title": "Improve Programs & Events Dashboard UX for Article Scoped Programs",
+          "short_description": "Wiki Education Dashboard is a complex web app for keeping track of contributions to Wikimedia projects. It's widely used by the global Wikimedia...",
+          "student_name": "Shashwat",
+          "code_url": "https://gist.github.com/TheTrio/6d1f60303259483f76558a3aa92e6dbc",
+          "proposal_id": "sOEv34mV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bYYS2TTa"
+        },
+        {
+          "title": "[GSOC 2023 - Proposal] Improve the functionality of VideoCutTool",
+          "short_description": "VideoCutTool is an open-source, online video editing tool, for videos uploaded on Wikimedia Commons. It is an easy, on-the-go tool, which supports...",
+          "student_name": "Varun Shrivastava",
+          "code_url": "https://varun-shrivastava.vercel.app/posts/gsoc-final-report/",
+          "proposal_id": "tf1Vypcl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YcNCDO3Q"
+        },
+        {
+          "title": "GSoC 2023 Proposal: Wikidocumentaries to import images from the web to Structured Data on Commons",
+          "short_description": "The project aims to establish a complete workflow for retrieving media related to a currently viewed topic in Wikidocumentaries from a given media...",
+          "student_name": "Zexi Gong",
+          "code_url": "https://www.mediawiki.org/wiki/User:Zexi.gong721/Final_Report",
+          "proposal_id": "SGmqoIlE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5pubQovx"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/wikimedia-foundation-nd/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improve InlineComments extension",
+          "short_description": "InlineComments (https://www.mediawiki.org/wiki/Extension:InlineComments) is a relatively new MediaWiki extension that provides a long-missing feature...",
+          "student_name": "Jayanth Vikash Saminathan",
+          "code_url": "https://www.mediawiki.org/wiki/User:JayanthVikash/GSoC/Reports/Final",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/UfEm7mJW/"
+        },
+        {
+          "title": "Migration towards Manifest V3",
+          "short_description": "Chrome is going to remove MV2 deprecated extensions by June 2024 . The purpose of this project is to successfully migrate towards Manifest V3 while...",
+          "student_name": "Kabir Singh",
+          "code_url": "https://medium.com/@kabirsingh12b/gsoc-2024-summary-with-the-wikimedia-foundation-a0a32b66c797",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/88IXaP0O/"
+        },
+        {
+          "title": "Improve searchability and filtering of PageTriage feed",
+          "short_description": "PageTriage is an MediaWiki extension that allows patrollers on the English Wikipedia to track, categorize and deal with problematic new pages. One of...",
+          "student_name": "Angel Sharma",
+          "code_url": "https://medium.com/@rockingpenny4/gsoc24-final-report-83fc9f5112b3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XvSpfTtQ/"
+        },
+        {
+          "title": "[Programs & Events Dashboard] Improve system for copying courses from one Dashboard to another",
+          "short_description": "This project aims to enhance the course copying feature present for copying courses across the servers. Currently, when courses are copied between...",
+          "student_name": "Pranjal Rajput",
+          "code_url": "https://gist.github.com/PR4NJ41/4c49463048eca4dcdf5373da7d588f6c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/t8CtR8IP/"
+        },
+        {
+          "title": "Improve upload queue management",
+          "short_description": "The proposal aims to enhance the Commons app by improving upload queue management and modernizing its interface. Tasks will include improving the...",
+          "student_name": "Kanahia",
+          "code_url": "https://medium.com/@kaushalkanahia/final-report-gsoc-with-the-wikimedia-foundation-summary-13b96b0f2699",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/07ZQ9y1B/"
+        },
+        {
+          "title": "Scribe-Data: Refactor into a Multi-Purpose Wikidata Language Pack CLI Tool",
+          "short_description": "The goal of this project is to transform the Scribe-Data tool into a versatile, multi-purpose Command Line Interface (CLI) tool. This tool will...",
+          "student_name": "mhmohona",
+          "code_url": "https://github.com/scribe-org/Scribe-Data/pulls/mhmohona",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AdgVWvrY/"
+        },
+        {
+          "title": "Improve the training module creation and update process [Programs & Events Dashboard]",
+          "short_description": "Within this dashboard, the current process of creating and updating training content poses significant challenges to users. Creating new modules...",
+          "student_name": "Om Chauhan",
+          "code_url": "https://docs.google.com/spreadsheets/d/1a_Ok3Ijz3eUDstKfSJm4pJ5fhVuJh0och4TSprU4d2c/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RQO5V72p/"
+        },
+        {
+          "title": "Scribe-iOS: Add multilingual translation and internationalized interfaces",
+          "short_description": "This project is centered on the Scribe keyboard app for iOS, which is a keyboard for language learners featuring translation and conjugation of...",
+          "student_name": "Jag-Marcel",
+          "code_url": "https://phabricator.wikimedia.org/T361431",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9Yk9oUZk/"
+        },
+        {
+          "title": "Lingua Libre v3.0 enhancement and migration",
+          "short_description": "The Lingua Libre v3.0 enhancement and migration project aim to revamp the legacy Lingua Libre website from a wikibase, blazegraph backend to a modern...",
+          "student_name": "Pushkar Bansal",
+          "code_url": "https://phabricator.wikimedia.org/T361440",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5Bn8VzhE/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wikimedia.zulipchat.com/#narrow/stream/419476-Gsoc24-Outreachy28",
+  "contact_email": "mailto:wikitech-l@lists.wikimedia.org",
+  "mailing_list": "https://lists.wikimedia.org/mailman/listinfo/wikitech-l",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/wikimediatech",
+  "blog_url": "https://techblog.wikimedia.org/"
+}

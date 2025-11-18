@@ -1,0 +1,156 @@
+{
+  "name": "Genome Assembly and Annotation",
+  "url": "https://www.ebi.ac.uk/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/genome-assembly-and-annotation/fbu2s36u7uatdgev-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "genomics",
+    "data science",
+    "cloud",
+    "deep learning",
+    "workflows",
+    "machine learning",
+    "big data",
+    "hpc"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "javascript",
+    "rust",
+    "pytorch",
+    "docker",
+    "nextflow"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5794597745197056/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Deep learning homology inference",
+          "short_description": "Many genes both within and across species share a common origin. Homologoy inference is concerned with disentangling the precise nature of this...",
+          "student_name": "Aidan Marshall",
+          "code_url": "https://github.com/AidanMar/GSoC-2021-compara-deep-learning",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5434276832608256/"
+        },
+        {
+          "title": "Extract important information from scientific papers",
+          "short_description": "Current limitations with the variant detection using wbtools (and entity extraction in Wormbases\u2019s AFP pipeline) is that it relies on regular...",
+          "student_name": "Rishab Mallick",
+          "code_url": "https://github.com/rishabgit/genomic-info-from-papers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5097312455491584/"
+        },
+        {
+          "title": "An orchestration system for MGnify running on distributed heterogeneous compute clusters",
+          "short_description": "MGnify is a freely available online service hosted by the European Bioinformatics Institute (EMBL-EBI). It helps researchers to do exploration and...",
+          "student_name": "Ank",
+          "code_url": "https://github.com/EBI-Metagenomics/orchestra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6226042074693632/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/genome-assembly-and-annotation/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Accessing Ensembl data with Presto and AWS Athena",
+          "short_description": "The goal of this project is to build a nextgen replacement for the BioMart tool that provides a way to download custom reports of genes, transcripts,...",
+          "student_name": "Rohit Shrivastava",
+          "code_url": "https://github.com/rohitxsh/ensembl_lakehouse_ui/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Uuk8xmzG/"
+        },
+        {
+          "title": "New FAANG backend with Elasticsearch and GraphQL",
+          "short_description": "Current limitations: The current Back End for the Functional Annotation of Animal Genomes project (FAANG) provides users with a public rest API to...",
+          "student_name": "Sunny Tarawade",
+          "code_url": "https://gist.github.com/sunnytarawade/342f7c99949bbe1077da48529117bb0e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rhDWo6D5/"
+        },
+        {
+          "title": "Using Machine Learning to Identify and Classify Repeat Features",
+          "short_description": "A number of tools exist for identifying repeat features, but it remains a problem that the DNA sequence of some genes can be identified as being a...",
+          "student_name": "Yantong",
+          "code_url": "https://github.com/EnsemblGSOC/Ensembl-Repeat-Identification",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eNOm24S7/"
+        },
+        {
+          "title": "Investigating and Implementing Compact Data Representation of Homology Relationship",
+          "short_description": "A key challenge surrounding modern bioinformatics is to manage and store the growing amount of biological data with both space efficiency and...",
+          "student_name": "KevinGao",
+          "code_url": "https://github.com/gaojunxuan/homology_storage_compara",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nidhwgvC/"
+        },
+        {
+          "title": "Extract important information  from scientific papers",
+          "short_description": "During GSoC 2021, BioBERT and RegEx/string matching technique based \u201cNamed Entity Recognition\u201d (NER) system was developed to recognize and extract...",
+          "student_name": "Malay Joshi",
+          "code_url": "https://github.com/malayjoshi13/GSoC2022_OligoFinder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5b96vIqa/"
+        },
+        {
+          "title": "GSoC 2022 Proposal - Extract text from tables in Scientific Papers by Kshitij Soni",
+          "short_description": "PyTesseract is really helpful, the first time I knew PyTesseract, I directly used it to detect some a short text and the result is satisfying. Then,...",
+          "student_name": "kshitijsoni",
+          "code_url": "https://github.com/kshitijsoni/GSoC-2022--Extraction-of-data-from-tables-in-Scientific-papers",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HKusZvP4/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/genome-assembly-and-annotation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Interactive Visualization for Comparative Metagenomics in MGnify",
+          "short_description": "The project aims to improve the visualisation tools for metagenomics data in the MGnify platform by identifying and using new technologies that can...",
+          "student_name": "Amartya Nambiar",
+          "code_url": "https://amartyanambiar.github.io/gsoc-blog/posts/Final_Report/",
+          "proposal_id": "FlLjEIdY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Kg1GYNtp"
+        },
+        {
+          "title": "Using Deep Learning to Identify Features of Protein-Coding Genes",
+          "short_description": "Accurate gene annotation in eukaryotes solely based on genomic data has been a significant obstacle in biology since the introduction of...",
+          "student_name": "Friederike Biermann",
+          "code_url": "https://github.com/Ensembl/gsoc-dl-protein-coding-genes",
+          "proposal_id": "UGarEtSz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/buBy0L0w"
+        },
+        {
+          "title": "Differentiating Real and Misaligned Introns with Machine Learning",
+          "short_description": "The advancement in the accuracy of long-read sequencing technology has allowed us to explore novel transcript variants of known genes. Preventing...",
+          "student_name": "Kenny Lam",
+          "code_url": "https://kennylam8.com/projects/gsoc-2023/",
+          "proposal_id": "fmeLZ9us",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BrtBAPoF"
+        },
+        {
+          "title": "A Nextflow Pipeline for Repeat Annotation",
+          "short_description": "My proposal is to develop a NextFlow pipeline that will efficiently and accurately perform repeat annotation and masking on large genome sequences...",
+          "student_name": "Purav Biyani",
+          "code_url": "https://docs.google.com/document/d/13o2FHhQOY1VaYZOa9rmceTd_MO1n6SmAn5rjJ8s5Onk/edit#heading=h.doruredts3f",
+          "proposal_id": "tfBLN5zc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aFLAmznr"
+        },
+        {
+          "title": "Expand the species search functionality for the ensembl beta website (Metazoa).",
+          "short_description": "The objective of this project is to create a standalone Elasticsearch tool that can handle taxonomic-related requests. This tool helps to expand the...",
+          "student_name": "Satya.Adda",
+          "code_url": "https://github.com/Asrst/taxon-search",
+          "proposal_id": "2IAHWUxN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/05i92ZEc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:helpdesk@ensembl.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ensembl",
+  "blog_url": "http://www.ensembl.info"
+}

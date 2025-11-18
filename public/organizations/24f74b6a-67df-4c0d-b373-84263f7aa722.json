@@ -1,0 +1,493 @@
+{
+  "name": "SageMath",
+  "url": "https://www.sagemath.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/sagemath/1tcj7svgwadc13cj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "mathematics",
+    "math",
+    "science",
+    "mathematical software",
+    "combinatorics",
+    "algorithms",
+    "toolbox",
+    "education",
+    "research"
+  ],
+  "technologies": [
+    "python",
+    "cython",
+    "javascript",
+    "c++",
+    "c",
+    "python 3"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5316387828400128/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Rank Metric Codes in Sage",
+          "short_description": "In this project, our goal is to extend the Coding Theory library in Sage by implementing\nbase classes for linear rank-metric codes and Gabidulin...",
+          "student_name": "arpitdm",
+          "code_url": "https://arpitdm.wordpress.com/2016/08/23/project-linear-rank-metric-codes-in-sage-gsoc-2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5721008107421696/"
+        },
+        {
+          "title": "Moduli Space of Dynamical Systems",
+          "short_description": "There is functionality for working with dynamical systems over projective space in Sage. However, one of the areas lacking in functionality is the...",
+          "student_name": "Rebecca Lauren Miller",
+          "code_url": "http://lifebynumber.org/life-by-blog/final-gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5344615427211264/"
+        },
+        {
+          "title": "Expand the generic algebraic curve functionality in Sage",
+          "short_description": "The aim of this project is to build on the functionality Sage has for algebraic curves. The primary topics for this expansion are intersection...",
+          "student_name": "gjorgenson",
+          "code_url": "https://grayjorgenson.wordpress.com/2016/08/23/gsoc-project-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4758095901229056/"
+        },
+        {
+          "title": "Extending Matroid Theory functionality",
+          "short_description": "The goal is to improve the functionality of the matroid package in terms of usefulness to researchers. In particular, we plan on the following.\nWe...",
+          "student_name": "Tara",
+          "code_url": "http://extendingmatroidfunctionality.blogspot.com",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6306447583346688/"
+        },
+        {
+          "title": "Modular Abelian Variety",
+          "short_description": "There are several key features missing in Sage for modular abelian varieties. The goal of this project is to implement as much as possible. I will...",
+          "student_name": "klui",
+          "code_url": "https://github.com/williamstein/sage_modabvar/commits/master?author=kevinywlui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5220187808727040/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5071296056524800/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implementing matroid classes and plotting improvements",
+          "short_description": "This project seeks to implement several common matroid classes in SageMath, along with algorithms for their display and relevant computations. The...",
+          "student_name": "Zachary Gershkoff",
+          "code_url": "https://picturesofmatroids.wordpress.com/2017/08/21/summer-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4988116498644992/"
+        },
+        {
+          "title": "Expanding the Functionality of Dynamical Systems",
+          "short_description": "As a member of the sage-dynamics community, researchers have compiled a wishlist for algorithms and functionality they would like added. I would like...",
+          "student_name": "Rebecca Lauren  Miller",
+          "code_url": "http://lifebynumber.org/life-by-blog/gsoc-final-post",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5032997027840000/"
+        },
+        {
+          "title": "Improvement of Complex Dynamics in Sage",
+          "short_description": "There are three major things that I would like to implement to improve the functionality of Sage in the area Complex Dynamics.  By the conclusion of...",
+          "student_name": "Ben Barros",
+          "code_url": "https://benbarros.wordpress.com/2017/08/29/gsoc-2017-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5608589620150272/"
+        },
+        {
+          "title": "Modular Decomposition of graphs and digraphs",
+          "short_description": "Modular decomposition of (di)graphs is a generalization of the concept of the decomposition of (di)graphs into connected components. Its current...",
+          "student_name": "Maria Ioanna Spyrakoy",
+          "code_url": "https://mariannaspyrakou.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4572723367903232/"
+        },
+        {
+          "title": "Linear-time Implementation of Modular Decomposition of Undirected and Directed Graphs",
+          "short_description": "This project is aimed at providing linear time implementation for modular decomposition of graphs and digraphs. Modular decomposition is...",
+          "student_name": "Lokesh Jain",
+          "code_url": "http://coolconceptz.blogspot.in/2017/08/gsoc-modular-decompositionundirected.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6539255211884544/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5677303661068288/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Databases and bounds of codes",
+          "short_description": "The following proposal detail some possible improvements of the coding theory component of SageMath. We aim to build databases of precomputed bounds...",
+          "student_name": "Filip Ion",
+          "code_url": "https://filipion.github.io/optimal-linear-codes/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6673452673007616/"
+        },
+        {
+          "title": "Rational Point on Varieties",
+          "short_description": "This project aims at implementing basic algorithms for finding rational points on varieties. Classically algebraic variety is defined as the set of...",
+          "student_name": "Raghukul Raman",
+          "code_url": "https://gist.github.com/raghukul01/60d5b0b2475d9d0524e25b2654a24c94",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6233744188899328/"
+        },
+        {
+          "title": "Addition of SPQR-tree to graph module",
+          "short_description": "In this project, our goal is to extend the graph theory library in Sage by implementing functionality to find triconnected subgraphs, which will...",
+          "student_name": "Sai Harsh Tondomker",
+          "code_url": "https://saiharsh.github.io/gsoc-spqrtree.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4666113942093824/"
+        },
+        {
+          "title": "Addition of SPQR-trees to the graph module of Sage Math",
+          "short_description": "The aim of the project is to code the linear time algorithm for partitioning a graph into 3-connected components and constructing the corresponding...",
+          "student_name": "Meghana M Reddy",
+          "code_url": "https://indoraptors.wordpress.com/gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4752576599818240/"
+        },
+        {
+          "title": "Checking graph isomorphism using the Weisfeiler-Lehman algorithm",
+          "short_description": "Currently SageMath checks for graph isomorphism through an internal package with a corresponding method, called isomorphic and contained in...",
+          "student_name": "Dario Asprone",
+          "code_url": "https://healty.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5145057824866304/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4925411685826560/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Enumeration of paths and improvements in the Graph Module",
+          "short_description": "This project aims to implement an iterator over k- shortest source to destination paths using improved versions of Yen\u2019s algorithm for simple paths....",
+          "student_name": "Rajat Mittal",
+          "code_url": "https://rajat1433.github.io/#/app/education",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5006225522032640/"
+        },
+        {
+          "title": "Improvements of the graph module",
+          "short_description": "This project consists of the following parts:\n\nCythonize current methods\nImprove graph traversals and add new ones",
+          "student_name": "Giapitzakis Tzintanos G.",
+          "code_url": "https://giorgosgiapis.github.io/GSoC19-Blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5080883747356672/"
+        },
+        {
+          "title": "Rank Metric McEliece Cryptosystem",
+          "short_description": "Implement necessary tools for rank metric McEliece cryptosystems. Namely finish work on rank metric and Gabidulin codes (tickets #21226 and #20970)....",
+          "student_name": "Marketa Slukova",
+          "code_url": "https://github.com/emes4/gsoc-finalreport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5563545326977024/"
+        },
+        {
+          "title": "Refactor RSK and implement new insertion rules",
+          "short_description": "The Robinson-Schensted-Knuth (RSK) correspondence is a generalization of the famous Robinson-Schensted (RS) correspondence and plays an important...",
+          "student_name": "Chaman Agrawal",
+          "code_url": "https://github.com/ChamanAgrawal/GSoC19_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4862615841406976/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6190385258299392/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Integration of Kenzo program with SimplicialSets",
+          "short_description": "In this project we pretend to continue with the integration of the Kenzo program and SageMath. Specifically, we propose to combine the functions and...",
+          "student_name": "Julian Cuevas-Rozo",
+          "code_url": "https://jcuevas-rozo.github.io/gsoc2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6677757880172544/"
+        },
+        {
+          "title": "Constructing a database of distance-regular graphs",
+          "short_description": "This project aims to construct a database of distance-regular graphs in SageMath.",
+          "student_name": "Ivo",
+          "code_url": "https://gist.github.com/Ivo-Maffei/f4f2ae18df3c592e1023c4cb118731f9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5586314080026624/"
+        },
+        {
+          "title": "Efficiently Counting Linear Extensions of Posets",
+          "short_description": "Linear extensions of partially ordered sets are fundamental in order theory and in algebraic combinatorics, holding high importance in the study of...",
+          "student_name": "Stefan Grosser",
+          "code_url": "https://trac.sagemath.org/ticket/29687",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6232997776326656/"
+        },
+        {
+          "title": "Berkovich Project Line",
+          "short_description": "The goal of this project is to implement the Berkovich projective line in Sage, along with dynamical systems acting the Berkovich projective line. If...",
+          "student_name": "Alexander Galarraga",
+          "code_url": "https://docs.google.com/spreadsheets/d/1XUMkuLx3TKEePtkzNRvL749FOjMUqf3V8eWB5CbiPAE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4951102811799552/"
+        },
+        {
+          "title": "Efficient methods for Diameter, radius and all eccentricities computations",
+          "short_description": "Currently, the algorithms for Radius, Diameter, and all eccentricities calculations in SageMath are too brute and hence too slow. They involve...",
+          "student_name": "Vipul Gupta",
+          "code_url": "https://vipul79321.github.io/Google-Summer-of-Code-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5793673255583744/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5180088957534208/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Implement Small Groups",
+          "short_description": "The goal of this project is to improve the conversation between Sage and GAP (the SmallGrp package). We want to create convenient ways for...",
+          "student_name": "Alexis Newton",
+          "code_url": "https://wiki.sagemath.org/interact/groups",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6446726352732160/"
+        },
+        {
+          "title": "G-invariants of the Orlik-Solomon and Orlik-Terao algebras",
+          "short_description": "For a finite-dimensional algebra A equipped with the action of a group G, the invariant algebra A^G has many useful interpretations in topology and...",
+          "student_name": "Trevor Karn",
+          "code_url": "https://trac.sagemath.org/ticket/31929",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5016233975480320/"
+        },
+        {
+          "title": "Add support for error terms with explicit constants to AsymptoticRing",
+          "short_description": "An asymptotic expression typically contains exact terms and O-terms, for example n3 + 2n2 + O(n). The basic framework for this asymptotic ring is...",
+          "student_name": "Thomas Hagelmayer",
+          "code_url": "https://gist.github.com/thhagelmayer/4ca31eae7abd5889f5822d3d70cf5c69",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5050342693142528/"
+        },
+        {
+          "title": "Lazy Formal Power Series",
+          "short_description": "A formal power series is a (potentially) infinite sequence of coefficients. It turns out to be practical to denote it as an infinite series, although...",
+          "student_name": "Tejasvi Chebrolu",
+          "code_url": "https://trac.sagemath.org/ticket/31651",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5077172414316544/"
+        },
+        {
+          "title": "Implementation of the graded ring of quasimodular forms",
+          "short_description": "The goal of this project is twofold: first, we wish to implement the graded ring of quasimodular forms and, second, we wish to implement the...",
+          "student_name": "David Ayotte",
+          "code_url": "https://davidayotte.github.io/posts/2021/08/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5259448846647296/"
+        },
+        {
+          "title": "Dynamics Algorithmic Improvements",
+          "short_description": "We aim to improve several computations in dynamics and also implement new features. Improvements include optimizing the automorphic group...",
+          "student_name": "Alexander Galarraga",
+          "code_url": "https://docs.google.com/spreadsheets/d/1taOMt-xbHix3Hb4D7V4nKWNM8cr5kwOE9eawCKtdGHo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4842048724664320/"
+        },
+        {
+          "title": "Rigorous integration and the Abel-Jacobi map",
+          "short_description": "Riemann surfaces are key objects in many areas of maths, from mathematical physics to algebraic and arithmetic geometry. As such there is...",
+          "student_name": "Linden Disney-Hogg",
+          "code_url": "https://github.com/DisneyHogg/Abel-Jacobi-in-SageMath",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5167043967451136/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/sagemath/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "2022 GSoC Implement piecewise functions of one or several variables Proposal",
+          "short_description": "In this project, we aim to implement piecewise function on the polyhedral complex for general purpose for SageMath. Generally, this project should...",
+          "student_name": "Nicole Li",
+          "code_url": "https://github.com/NicoleLiQi/GSoC2022/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0jtQAeNA/"
+        },
+        {
+          "title": "Improve Height Functionality",
+          "short_description": "The goals of this project are to fix and improve current implementations of height functionalities, and to implement the Arakelov-Zhang pairing of...",
+          "student_name": "Jing Guo",
+          "code_url": "https://guoj.org/sage-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wTY9HI6P/"
+        },
+        {
+          "title": "Edge connectivity and edge disjoint spanning trees in digraphs",
+          "short_description": "The current method used for finding edge disjoint spanning trees in directed graphs (digraphs) relies on mixed integer linear programming and it may...",
+          "student_name": "cgeorgia",
+          "code_url": "https://github.com/georgiachanning/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dK74KMqd/"
+        },
+        {
+          "title": "Edge connectivity and edge disjoint spanning trees in digraphs",
+          "short_description": "The current method used for finding edge disjoint spanning trees in directed graphs fails in some instances. The goal of this project is to implement...",
+          "student_name": "c1e0",
+          "code_url": "https://gist.github.com/enjeck/825653ba7687eecf16104db02a57cb53",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/J4J1ITUL/"
+        },
+        {
+          "title": "Rewrite exterior algebra, implement Groebner bases, and peelable tableaux for northwest diagrams",
+          "short_description": "An exterior algebra E is a mildly non-commutative algebra with fundamental applications in physics and geometry. The first goal of this project is to...",
+          "student_name": "Trevor Karn",
+          "code_url": "https://trac.sagemath.org/ticket/33988",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UpKWcuIO/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/sagemath",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Parameterizing invariant spaces",
+          "short_description": "I've been working on extending SageMath's capabilities to calculate parameterizations for invariant rings of matrix groups over finite fields. While...",
+          "student_name": "Bruno Edwards",
+          "code_url": "https://github.com/Bruno-TT/GSOC-writeup-public/blob/main/writeup.pdf",
+          "proposal_id": "Y9v3UkmH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6vgtw5XH"
+        },
+        {
+          "title": "Dynamical Systems with Multiple Functions",
+          "short_description": "Sage does not have support for dynamical semigroups, which are dynamical systems involving multiple functions. This project aims to create a class...",
+          "student_name": "Dang",
+          "code_url": "https://drive.google.com/file/d/1uesZJcV3PCd-v2j27cluIds2VpFGrYQe/view?usp=sharing",
+          "proposal_id": "4CgV1DoJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OCowCmCj"
+        },
+        {
+          "title": "Algorithms for Dynamical Systems",
+          "short_description": "The goals of this project is to implement two algorithmic improvements for Sage: 1) Improve current implementation of Krumm's algorithms for points...",
+          "student_name": "Jing Guo",
+          "code_url": "https://guoj.org/second-gsoc.html",
+          "proposal_id": "cqktOgw0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pOEctuOr"
+        },
+        {
+          "title": "Enhancements in linear algebra",
+          "short_description": "Sage incorporates state-of-the-art libraries for exact linear algebra computations, such as matrix multiplication, reduced echelon form, linear...",
+          "student_name": "Marie B",
+          "code_url": "https://marizee.github.io/GSoC-2023/",
+          "proposal_id": "878mnk3a",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0ieRwUMU"
+        },
+        {
+          "title": "Implementing functions from toric topology",
+          "short_description": "The aim of this project is to further expand Sage's library for topology, by implementing various functions from toric topology. Though this field...",
+          "student_name": "Ognjen Petrov",
+          "code_url": "https://github.com/sagemath/sage/issues/35640",
+          "proposal_id": "voa3ocuR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lo7rrkvs"
+        },
+        {
+          "title": "Enhanced optimization solver interfaces for Sage",
+          "short_description": "This project aims at improving the optimization capabilities of SageMath by connecting SageMath to interfaces to optimization solvers that are...",
+          "student_name": "Zhongling Xu",
+          "code_url": "https://docs.google.com/document/d/15RI1gI85ekOQeUJetFdlwS_Kmuc9m0jOjQc4_UdgLZg/edit?usp=sharing",
+          "proposal_id": "rOUf4pJV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tBkLOJ5z"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/sagemath/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "On Decompositions, Generation Methods and related concepts in the theory of Matching Covered Graphs",
+          "short_description": "Matchings and perfect matchings have received considerable attention in graph theory as well as in other related domains (such as, but not limited...",
+          "student_name": "Janmenjaya Panda",
+          "code_url": "https://janmenjayap.github.io/GSoC-2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iY5gx4Ls/"
+        },
+        {
+          "title": "Implementation of Tropical Polynomials and its Corresponding Tropical Hypersurfaces",
+          "short_description": "In tropical algebra, where addition resembles taking the maximum and multiplication is like regular addition, tropical polynomials come into play....",
+          "student_name": "Verrel Rievaldo Wijaya",
+          "code_url": "https://verreld7.github.io/bblog/posts/2024/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/j1yAryTd/"
+        },
+        {
+          "title": "Expanding SageMath\u2019s Dynamical systems capabilities",
+          "short_description": "I'm Nate Bolin a mathematics graduate student, and I'm working with my mentor Benjamin Hutz to Expand the Dynamical Systems capabilities of Sagemath....",
+          "student_name": "NateBolin",
+          "code_url": "https://github.com/sagemath/sage/issues/38014",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HFCrNTtn/"
+        },
+        {
+          "title": "Tensor operations in Sage using Python libraries as backends",
+          "short_description": "In SageMath, tensors are presently stored within the Components class as a dictionary, with each key representing indices and values indicating the...",
+          "student_name": "Aman Moon",
+          "code_url": "https://github.com/amanmoon/GSoC-Writeup/blob/master/Tensor%20Operations%20in%20Sage%20using%20Python%20libraries%20as%20backend.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4Re68qys/"
+        },
+        {
+          "title": "Improving combinatorial species",
+          "short_description": "Sage already has a working implementation of combinatorial species, but it is old, ad-hoc, and not entirely generic. This project aims to reimplement...",
+          "student_name": "Mainak Roy",
+          "code_url": "https://gist.github.com/Newtech66/d687884f15f334b82cddc167e89408c8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Gc29Z6yB/"
+        },
+        {
+          "title": "Direct Implementation of Chow Rings of Matroids",
+          "short_description": "This Google Summer of Code project aims to build a custom class in SageMath for the Chow rings of matroids by using a result which explicitly...",
+          "student_name": "Shriya Meenakshisundaram",
+          "code_url": "https://github.com/sagemath/sage/issues/37987",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kcmBd7yA/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/sagemath",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Classification of Maximal Exceptional Sequences on Smooth Fano Toric Varieties",
+          "short_description": "This project will enhance SageMath to systematically handle maximal exceptional sequences on smooth Fano toric varieties. We will add new Fano...",
+          "student_name": "Aolong Li",
+          "code_url": null,
+          "proposal_id": "WbR7qXMG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DacbFeo5"
+        },
+        {
+          "title": "Poincar\u00e9 normal form of Riemann matrices",
+          "short_description": "The project aims to compute the Poincar\u00e9 normal form of Riemann matrices in SageMath. This computation enables the decomposition of theta functions...",
+          "student_name": "Caleb Aryee",
+          "code_url": null,
+          "proposal_id": "v5Lz80Pp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jnvwvAbh"
+        },
+        {
+          "title": "On the Implementation of the O(|E|\u22c5\u221a|V|) Micali-Vazirani Algorithm",
+          "short_description": "Matchings and perfect matchings have received considerable attention in graph theory as well as in other related domains (such as, but not limited...",
+          "student_name": "Janmenjaya Panda",
+          "code_url": null,
+          "proposal_id": "3ABTqQvc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0BAiIfUe"
+        },
+        {
+          "title": "The Boson-Fermion Correspondence and Vertex Operators",
+          "short_description": "The boson-fermion correspondence is an isomorphism of two representations of the Heisenberg algebra. It can be stated as a way to construct a special...",
+          "student_name": "Joe McDonough",
+          "code_url": null,
+          "proposal_id": "SgO8QlA4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qZ75cron"
+        },
+        {
+          "title": "Functionalities for Krylov methods over exact fields",
+          "short_description": "This project aims to add Krylov subspace methods for matrices over exact fields: representation of the kernel, co-kernel of a matrix of univariate...",
+          "student_name": "Nicholas Bell",
+          "code_url": null,
+          "proposal_id": "ddRVJd8c",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BUMbi6Vs"
+        },
+        {
+          "title": "Paths and cycles enumeration methods in graphs",
+          "short_description": "This project focuses on enumeartion of k shotest simple paths. This problem has practical applications in various networks, such as road and...",
+          "student_name": "Yuta",
+          "code_url": null,
+          "proposal_id": "I6iCzD6j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cTcLUQcj"
+        },
+        {
+          "title": "Self Paired Hopf Algebra on Double Posets",
+          "short_description": "This project implements the combinatorial Hopf algebra of double posets. A double poset is a set with two partial orders, and their isomorphism...",
+          "student_name": "Yuxuan Sun",
+          "code_url": null,
+          "proposal_id": "BAC9ElkI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fSP7xErF"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://sagemath.zulipchat.com/",
+  "contact_email": "mailto:tcscrims@gmail.com",
+  "mailing_list": "https://groups.google.com/g/sage-gsoc",
+  "ideas_url": "https://wiki.sagemath.org/GSoC/2025",
+  "guide_url": "https://wiki.sagemath.org/GSoC/Contributors",
+  "twitter_url": "https://twitter.com/sagemath",
+  "blog_url": "http://planet.sagemath.org/"
+}

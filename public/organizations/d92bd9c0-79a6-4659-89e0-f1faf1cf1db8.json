@@ -1,0 +1,508 @@
+{
+  "name": "Scala Center",
+  "url": "https://scala-lang.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/scala-center/0umytpqshifjeevx-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming languages",
+    "functional programming",
+    "programming tools",
+    "compiler",
+    "programming-tools",
+    "functional-programming",
+    "programming-language",
+    "#compilers",
+    "#programming-tools",
+    "#functional-programming",
+    "#programming-languages",
+    "#education",
+    "education",
+    "tooling",
+    "web",
+    "gpu"
+  ],
+  "technologies": [
+    "jvm",
+    "scala",
+    "llvm",
+    "#scala",
+    "#scala_lang",
+    "#jvm",
+    "#llvm",
+    "#js",
+    "scala.js",
+    "scala native",
+    "functional programming"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5069813219065856/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Better off-heap collections for Scala",
+          "short_description": "Scala-offheap is an experimental project which provides type-safe off-heap memory management for Scala language. The goal of this project is to...",
+          "student_name": "Adam Wy\u0142uda",
+          "code_url": "https://github.com/adamwy/mutabilite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6587683249848320/"
+        },
+        {
+          "title": "Flexible Fast Parser Combinators",
+          "short_description": "The FarstParse library is a simple replacement for the original Scala Parser Combinators. It uses the same ideas and implements the same...",
+          "student_name": "vovapolu",
+          "code_url": "https://github.com/lihaoyi/fastparse/commits/master?author=vovapolu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6740066407809024/"
+        },
+        {
+          "title": "Working towards a fully featured version of CBT",
+          "short_description": "CBT is a build tool in its infancy with a lot of room for optimisation and enhancement. As such, development is still very fast moving. The goal of...",
+          "student_name": "M.Chav",
+          "code_url": "https://docs.google.com/document/d/1Ff-Hm14uwCF9q6t70xbv96leyoSMJcjOMmKW7qIPYNc/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5665294865399808/"
+        },
+        {
+          "title": "Dottydoc",
+          "short_description": "During the winter break I decided to give back to the Scala community. I re-built the entire documentation website and implemented a new search...",
+          "student_name": "Felix Mulder",
+          "code_url": "https://github.com/lampepfl/dotty/pull/1453",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5280919451598848/"
+        },
+        {
+          "title": "Java source code to Scala.js IR compiler",
+          "short_description": "As Scala.js is Scala compiled to JavaScript, it seems only fitting that it can also compile Java code. One of the things that make Scala so popular...",
+          "student_name": "Piotr Moczurad",
+          "code_url": "https://github.com/piotrMocz/scalajs-java/commits/master?author=piotrMocz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6064612738859008/"
+        },
+        {
+          "title": "Implementation of Coroutine-\u00adBased Utilities",
+          "short_description": "Scala Coroutines generalizes subroutines in a clean and composable way, but currently\nprovides little value to the average user who wants to use...",
+          "student_name": "Jess Smith",
+          "code_url": "http://kinchen.co/2016/gsoc-2016-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6091500039438336/"
+        },
+        {
+          "title": "Source Code Preserving AST",
+          "short_description": "The   goal   of   this   project   is   to   design   a   unifying   AST   which   helps   preserving   source \u00adcode  attributes   thereby   allowing...",
+          "student_name": "Akhilesh Srikanth",
+          "code_url": "https://github.com/akhileshs/scalameta/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5911282943262720/"
+        },
+        {
+          "title": "ENSIME Graphocalypse",
+          "short_description": "ENSIME is an IDE feature provider, available for most popular text editors. Currently, it uses regular relational database with a Lucene full-text...",
+          "student_name": "sugakandrey",
+          "code_url": "https://gist.github.com/sugakandrey/a31539f93a1694e2ab4a7d9a023e3b04",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5920696437833728/"
+        },
+        {
+          "title": "Ammonite - Better Scripts in Scala",
+          "short_description": "Ammonite is an improved Scala REPL supporting convenient and robust File System operations and Typesafe bash scripting coming over lot of sloppiness...",
+          "student_name": "coderabhishek",
+          "code_url": "https://github.com/lihaoyi/Ammonite/commits/master?author=coderabhishek",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5203877938855936/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6452441306365952/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Reimplement the JDK in Scala Native",
+          "short_description": "Scala Native is a new target for Scala. It uses llvm to compile Scala to native assembly code, instead of compiling it to JVM bytecode. However, as...",
+          "student_name": "Andrzej So\u0142tysik",
+          "code_url": "https://docs.google.com/document/d/1QbR64n12P7JhJ0MfzS1MSFh7XPEKBOHNoGfYTVTrcpk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5688607679447040/"
+        },
+        {
+          "title": "Slick bug and feature hunt",
+          "short_description": "This is a project to tackle as many issues as possible open in the Slick issue tracker with a priority on resolving long standing bugs and...",
+          "student_name": "Trevor Sibanda",
+          "code_url": "https://gist.github.com/trevorsibanda/f7b152c068fb748a4c679897c7212421",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5713811621281792/"
+        },
+        {
+          "title": "Implementation of concurrent java library for Scala Native",
+          "short_description": "Scala Native is the a new Scala compiler under development. This compiler will permit Scala users to compile directly Scala code to binary and use...",
+          "student_name": "R\u00e9mi Coudert",
+          "code_url": "https://korf74.github.io/projects/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4667298279325696/"
+        },
+        {
+          "title": "Auto-completion and type information in Scastie",
+          "short_description": "Scastie is an online Scala programming environment which, unfortunately, does not provide such common features as automatic code completion and ad...",
+          "student_name": "Dmitrii Petukhov",
+          "code_url": "https://dimart.github.io/gsoc17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4904902178373632/"
+        },
+        {
+          "title": "Case classes a la carte with scala.meta",
+          "short_description": "case classes are a very useful feature of the scala language, but can be limiting. For example, there is no way to modify the internal representation...",
+          "student_name": "Vladimir Polushin",
+          "code_url": "https://github.com/fommil/stalagmite/commits/master?author=vovapolu",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5793198186168320/"
+        },
+        {
+          "title": "Connecting potential contributors with Scala projects via Scaladex",
+          "short_description": "This project's main goal is to make it easy for potential contributors to use Scaladex to find Scala projects they can work on. This will involve...",
+          "student_name": "Michael Viveros",
+          "code_url": "http://www.scala-lang.org/blog/2017/08/28/gsoc-connecting-contributors-with-projects.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5858412969590784/"
+        },
+        {
+          "title": "Enforcing type safety in Dottydoc code examples",
+          "short_description": "This project aims to extend the Dotty documentation compiler (alias \"Dottydoc\") to make code examples found in comments type safe, with the purpose...",
+          "student_name": "Valthor Halldorsson",
+          "code_url": "https://vlthr.github.io/gsoc-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5866459456602112/"
+        },
+        {
+          "title": "CBT IntelliJ IDEA\u200e plugin",
+          "short_description": "Add an IntelliJ IDEA\u200e support for the CBT by writing a plugin or extending an exciting Scala plugin.",
+          "student_name": "Ilya Kirillov",
+          "code_url": "https://github.com/cvogt/cbt/blob/master/doc/intellij-gsoc.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6272763362803712/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5122715136557056/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Binding Generator for Scala Native",
+          "short_description": "Scala Native provides bindings for several C and POSIX APIs out of the box. To help complete and maintain the list of supported APIs as well as...",
+          "student_name": "Liudmila Kornilova",
+          "code_url": "https://github.com/kornilova-l/scala-native-bindgen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5738940401188864/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5492555210293248/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implement support for ScalaPy in Scala 3",
+          "short_description": "The name Scala comes from the word scalable, and true to that name, the Scala language is used to power busy websites and analyze huge data sets....",
+          "student_name": "Mykola Medynskyi",
+          "code_url": "https://gist.github.com/jlareck/7268918d28b0c6a0efebeafa11011e3c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5754233541885952/"
+        },
+        {
+          "title": "A Python - Scala integrated environment with Almond, Ammonite and ScalaPy",
+          "short_description": "The project aims to improve the integration between ScalaPy and Ammonite/Almond by providing a frictionless installation experience plus a number of...",
+          "student_name": "Trung Kien Dang",
+          "code_url": "https://gist.github.com/kiendang/e6c2fc41448fabba6f1e6ae34cf65c49",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5811696278437888/"
+        },
+        {
+          "title": "Cross compiling \u201cShapeless 2\u201d to \u201cScala 3\u201d",
+          "short_description": "The library shapeless is found everywhere in the Scala ecosystem, helping people do metaprogramming and typeclass derivation without using macros...",
+          "student_name": "Katrix",
+          "code_url": "https://github.com/milessabin/shapeless/pull/1200",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5941737385623552/"
+        },
+        {
+          "title": "Add synthetics and symbol information for semanticdb in Scala 3",
+          "short_description": "Semantic information is essential for rich IDE features such as go-to-implementation and rename.\nMetals utilizes semantic information extracted from...",
+          "student_name": "Rikito Taniguchi",
+          "code_url": "https://github.com/tanishiking/gsoc-2021/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6278701762740224/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/scala-center/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Porting of Scalafix ExplicitResultTypes rule to Scala 3",
+          "short_description": "The ExplicitResultTypes rule of the Scalafix linting tool is responsible for inferring and explicitly adding the types for \u201cval\u201d, \u201cvar\u201d and \u201cdef\u201d...",
+          "student_name": "Razvan Vacaru",
+          "code_url": "https://github.com/rvacaru/GsoC-2022-Scalafix",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gQ08FcXb/"
+        },
+        {
+          "title": "Proposal for Optimization of Scala Native linker",
+          "short_description": "Scala Native is an ahead-of-time and prevalent compiler for Scala. The traditional compilation is to compile Scala into Java Virtual Machine(JVM)...",
+          "student_name": "Liangyong Yu",
+          "code_url": "https://github.com/yuly16/Scala-Native-GSoC-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tadWDHMj/"
+        },
+        {
+          "title": "Semantic highlighting for Scala in VS Code",
+          "short_description": "This project implements the idea \u201cSemantic highlighting in VS Code\u201d * in the Scala Center. Summary of process is as follows. 1. Building the VS Code...",
+          "student_name": "Shintaro Sasaki",
+          "code_url": "https://github.com/scalameta/metals/pull/4444",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MvsaCtiQ/"
+        },
+        {
+          "title": "Doodle Explore",
+          "short_description": "Doodle is a generative art library. Using it, programmers can create artwork, statistical model visualizations, or other graphics. These graphics are...",
+          "student_name": "Mikail Khan",
+          "code_url": "https://static.mikail-khan.com/gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ikos1HKZ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/scala-center",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Unlocking the Full Potential of Scala Web Development with Scala 3",
+          "short_description": "This proposal aims to integrate Scala 3 support into the Scala Webapp Template, providing a more accessible, reliable, and powerful solution for...",
+          "student_name": "Akseli",
+          "code_url": "https://github.com/wiringbits/scala-webapp-template/commits?author=akseliristola",
+          "proposal_id": "AhmQAEH9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/mwBk3FnW"
+        },
+        {
+          "title": "Breaking the Thread Barrier: Boosting I/O Performance  with io_uring and FS2",
+          "short_description": "The current state of the asynchronous I/O on the JVM involves using separate selector threads to manage I/O events through system functions like...",
+          "student_name": "Antonio Jimenez",
+          "code_url": "https://github.com/armanbilge/fs2-io_uring/pull/78",
+          "proposal_id": "uKPT8cT6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RDa4p6HQ"
+        },
+        {
+          "title": "http4s Ember WebSocket Client",
+          "short_description": "The aim of this project is to implement an http4s Ember WebSocket client, a pure functional WebSocket client in Scala and integrate it with other...",
+          "student_name": "Dang Trung Hieu",
+          "code_url": "https://github.com/http4s/http4s/pull/7196",
+          "proposal_id": "1q0QkN6v",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/O5hVJAO1"
+        },
+        {
+          "title": "Scala Center GSoC Proposal: Data Visualization",
+          "short_description": "The Doodle library for compositional vector graphics can be further improved by adding support for coordinate planes, the grid, legend, labels and...",
+          "student_name": "Danylo Ostapchenko",
+          "code_url": "https://danielost.github.io/posts/gsoc23/",
+          "proposal_id": "f9Qre97H",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/LmQEiuJv"
+        },
+        {
+          "title": "Generation of 'async-shifted' version of high-order functions",
+          "short_description": "This proposal aims to solve the issue of using high-order functions with asynchronous functions when there is no platform support of continuations...",
+          "student_name": "Olena Kravchenko",
+          "code_url": "https://docs.google.com/document/d/1V5harGKumEVvD1975IV-YVEKzyTW1heACfMCg-TdROM/edit?usp=sharing",
+          "proposal_id": "KQ65O9Dt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yJra2Otu"
+        },
+        {
+          "title": "Enhancement of quote pattern matching in Scala 3",
+          "short_description": "Macro is a metaprogramming feature that allows programmers to analyze and synthesize code at compile-time. Scala 3 supports a powerful yet type-safe...",
+          "student_name": "Yuito Murase",
+          "code_url": "https://gist.github.com/zeptometer/ad414dda221a9f9f99e4135b6b5c1c3c",
+          "proposal_id": "TBisnxz3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HrgsKlyn"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/scala-center/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Fluent library for Files and Processes in Fs2",
+          "short_description": "FS2 is a key part of the Typelevel ecosystem for streaming I/O operations in Scala, offering powerful APIs that provide a wide range of functionality...",
+          "student_name": "Gaby",
+          "code_url": "https://gist.github.com/Hombre-x/77fccf136aa83b2d46063d04a0fdda32",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tAMQw1p1/"
+        },
+        {
+          "title": "Scala Sampler for Functional Soundscapes",
+          "short_description": "This proposal aims to develop a sampler instrument for the Sounds of Scala project. Sounds of Scala is a web audio and music library that runs on the...",
+          "student_name": "Johanna Odersky",
+          "code_url": "https://gist.github.com/ikukojohanna/5e23c4bd79e24c2aeb8454b2507981d1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6fFGNWW8/"
+        },
+        {
+          "title": "Scaldex- Display information from POM file -  GSoC 2024 Proposal",
+          "short_description": "The Scala ecosystem thrives on information accessibility, and Scaladex stands as a pivotal resource in this domain. However, the current scope of...",
+          "student_name": "Siddharth Ingle",
+          "code_url": "https://skingle.github.io/scaladex/doc/gsoc24/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4nuShODP/"
+        },
+        {
+          "title": "Scaladex: New Artifact Page",
+          "short_description": "My project aims to address the challenge of navigating and accessing artifacts within Scala projects on Scaladex. Currently, users face difficulty in...",
+          "student_name": "Ayush Koli",
+          "code_url": "https://ayushkoli772.github.io/blog/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AMrkEU3Z/"
+        },
+        {
+          "title": "Automatic assembling of effect monad",
+          "short_description": "Currently, dotty-cps-async does not support effect systems, hindering its further development. Additionally, there is no mechanism to automatically...",
+          "student_name": "Ivan Kyrylov",
+          "code_url": "https://telegra.ph/Automatic-assembling-of-effect-monad-08-25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JBmyhlcN/"
+        },
+        {
+          "title": "Going Feral on The Cloud",
+          "short_description": "This project involves extending the Feral library to support more cloud providers, specifically Google Cloud and Vercel, in addition to AWS Lambda,...",
+          "student_name": "Chingles2404",
+          "code_url": "https://gist.github.com/Chingles2404/a9ffdff91beb0440d6f09d9535868562",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NIbV6kPm/"
+        },
+        {
+          "title": "Doodle Canvas",
+          "short_description": "Doodle is a Scala library for 2D graphics, animation, data visualization, and creative coding. It supports JVM-based applications, utilizing Java2D...",
+          "student_name": "Siddharth Banga",
+          "code_url": "https://gsoc-report.visionofsid.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6tCjKxBz/"
+        },
+        {
+          "title": "Scaladoc search in Protosearch",
+          "short_description": "The problem I aim to solve is the inefficiency in searching for specific Scala code information, particularly within Scaladoc documentation....",
+          "student_name": "A S",
+          "code_url": "https://github.com/cozydev-pink/protosearch/pull/241",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jSLG7125/"
+        },
+        {
+          "title": "Scala CLI Source Code Generator Support",
+          "short_description": "A common feature that most build tools supports common source code generator such as Protobuf or Smithy. The idea of supporting code generator has...",
+          "student_name": "Rizky Maulana",
+          "code_url": "https://miggy.moe/gsoc24/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CkctbYJJ/"
+        },
+        {
+          "title": "Generate Scala Documentation website with Scaladoc",
+          "short_description": "This project aims to migrate the existing Scala documentation website from Jekyll to Scaladoc. This migration will provide a more streamlined,...",
+          "student_name": "sai-prasad-1",
+          "code_url": "https://github.com/scala/scala3/pull/21436",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/a2ia4s3Z/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/scala-center",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Enhancing Metals with Play Framework Support",
+          "short_description": "In Metals, the LSP implementation for Scala, there is currently no built-in support for Play Framework-specific files such as .scala.html templates...",
+          "student_name": "Abdullah Arif Jafri",
+          "code_url": null,
+          "proposal_id": "XEbkqEBt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zty5gv0n"
+        },
+        {
+          "title": "LLM4S - Support image, voice and other LLM modalites : A Proposal",
+          "short_description": "LLM4S aims to establish Scala as a premier language for building multimodal Large Language Model applications. This project extends the toolkit's...",
+          "student_name": "AnshumanAI",
+          "code_url": null,
+          "proposal_id": "lKj7aZN9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/eK6iAuUM"
+        },
+        {
+          "title": "Workflows4s : Web UI for Tracking & Debugging",
+          "short_description": "This project aims to create a dedicated web-based user interface for the workflows4s library to address the current lack of visual debugging tools....",
+          "student_name": "Atharva-Kanherkar",
+          "code_url": null,
+          "proposal_id": "xJtiZBv8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BPm3F7G8"
+        },
+        {
+          "title": "Cyfra: Support for basic GPU computations on data streams with fs2 integration",
+          "short_description": "Cyfra is a GPU runtime and a DSL that makes Scala a viable choice for GPU programming. Currently, the Scala ecosystem does not have an easy-to-use...",
+          "student_name": "Bora Bosna",
+          "code_url": null,
+          "proposal_id": "CVCK2AUK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lvFyMPh1"
+        },
+        {
+          "title": "LLM4S - Implement an agentic toolkit for Large Language Models",
+          "short_description": "LLM4S is building a Scala-native AI toolkit that leverages functional programming principles and strict compile-time checks to ensure the reliability...",
+          "student_name": "Elvan Konukseven",
+          "code_url": null,
+          "proposal_id": "tzaM7am8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DT8i5a1y"
+        },
+        {
+          "title": "Optimizing Retrieval-Augmented Generation Pipelines for Accurate and Efficient Q&A Systems",
+          "short_description": "This project aims to bring the power of Retrieval-Augmented Generation (RAG) into the Scala ecosystem by building a robust Scala interface to...",
+          "student_name": "GOPI TRINADH MADDIKUNTA",
+          "code_url": null,
+          "proposal_id": "k8ttdRcU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lzRwkExt"
+        },
+        {
+          "title": "ChatOps4s Prototype - MS Teams Backend",
+          "short_description": "This project focuses on building a seamless API integration between MS Teams and the ChatOps4s prototype through a clean, efficient interface. The...",
+          "student_name": "Liam Grossman",
+          "code_url": null,
+          "proposal_id": "09NFHhYd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iife3HTc"
+        },
+        {
+          "title": "A Pandas Experience",
+          "short_description": "This project aims to improve the way Scautable handles CSV files by making structured data parsing in Scala more robust, flexible, and user-friendly...",
+          "student_name": "Lidiia Zaparenko",
+          "code_url": null,
+          "proposal_id": "idYUsWzI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TRq5tgr9"
+        },
+        {
+          "title": "ChatOps4s Prototype",
+          "short_description": "Workflow4s Chat Toolkit: Unified Messaging for Scala Workflows This project addresses the growing need for seamless integration between business...",
+          "student_name": "master-hj",
+          "code_url": null,
+          "proposal_id": "mJlA33ys",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5zCBqWkE"
+        },
+        {
+          "title": "Creation of blueprints in Scalus",
+          "short_description": "Currently Scalus doesn't have a lot of non-trivial examples. In this project we will develop application examples (blueprints) for Scalus, which can...",
+          "student_name": "Nikita Zakharchuk",
+          "code_url": null,
+          "proposal_id": "0XJVWJWy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JJiv7gSd"
+        },
+        {
+          "title": "Cyfra: Real-time Rendering Pipeline",
+          "short_description": "Cyfra is a GPU runtime and domain-specific language that makes Scala a viable choice for GPU programming by abstracting the complexities of Vulkan....",
+          "student_name": "Rudra Beniwal",
+          "code_url": null,
+          "proposal_id": "tAcBNxS9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9Ul3o0jK"
+        },
+        {
+          "title": "Implementing Bitmap Convolutions for Doodle",
+          "short_description": "This project will add bitmap convolution support to Doodle, enabling powerful image processing effects like blurring, sharpening, edge detection, and...",
+          "student_name": "untainsYD",
+          "code_url": null,
+          "proposal_id": "4DKlIDro",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LuH487qS"
+        },
+        {
+          "title": "Scaladex: Support for Compiler Plugins",
+          "short_description": "Scaladex, the central index for open-source Scala libraries, currently does not have dedicated support for Scala compiler plugins\u2014special artifacts...",
+          "student_name": "Vidisha Gawas",
+          "code_url": null,
+          "proposal_id": "x5RUY9lW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/D71ZWImy"
+        },
+        {
+          "title": "LLM4S - Tracing Support",
+          "short_description": "The proposed solution introduces comprehensive tracing capabilities to the LLM4S toolkit by integrating OpenTelemetry (otel4s) for capturing detailed...",
+          "student_name": "Vishub",
+          "code_url": null,
+          "proposal_id": "BOPkaUZM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/K7yAKwnV"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/scala/scala",
+  "contact_email": "mailto:scala-gsoc@epfl.ch",
+  "mailing_list": "https://users.scala-lang.org/",
+  "ideas_url": "https://github.com/scalacenter/GoogleSummerOfCode",
+  "guide_url": "https://google.github.io/gsocguides/student/writing-a-proposal",
+  "twitter_url": "https://twitter.com/scala_lang/",
+  "blog_url": "https://www.scala-lang.org/blog/"
+}

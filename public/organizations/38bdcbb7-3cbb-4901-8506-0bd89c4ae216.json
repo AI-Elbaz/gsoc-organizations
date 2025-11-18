@@ -1,0 +1,132 @@
+{
+  "name": "MoveIt",
+  "url": "https://moveit.ros.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/moveit/zmatlwnrrfqcdsjo-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "motion planning",
+    "trajectory generation",
+    "kinematics"
+  ],
+  "technologies": [
+    "ros",
+    "c++",
+    "c",
+    "python 3",
+    "robotics",
+    "python",
+    "rust"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5486699158700032/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "MoveIt_Jog_Arm Improvements & Implementation in ROS2",
+          "short_description": "In this project, I will take a MoveIt package that allows a user to send end-effector velocity streaming commands to a robotic manipulator and port...",
+          "student_name": "Adam Pettinger",
+          "code_url": "https://github.com/AdamPettinger/GSoC-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4667773348741120/"
+        },
+        {
+          "title": "Cartesian motion planning with constraints in MoveIt",
+          "short_description": "Many industrial robot applications specify a Cartesian end-effector path, that could be under-constrained. The MoveIt\u2019s RobotState function,...",
+          "student_name": "Jeroen De Maeyer",
+          "code_url": "https://gist.github.com/JeroenDM/426e3a7e083049295bbcb660c9a98e63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6551293910319104/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5449155236855808/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Creation of a Benchmark Suite",
+          "short_description": "Hello MoveIt maintainers and potential mentors! I am Captain Yoshi and this summer will be the beginning of my first year as a PhD student with the...",
+          "student_name": "Captain Yoshi",
+          "code_url": "https://github.com/ros-planning/moveit/issues/2717",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6662801057120256/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/moveit/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Simultaneous Trajectory Execution",
+          "short_description": "MoveIt currently only supports the execution of one robot trajectory (although the trajectory can involve multiple planning groups, e.g. two arms)....",
+          "student_name": "Cristian C. Beltran-Hernandez",
+          "code_url": "https://github.com/ros-planning/moveit/issues/3156",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mpusZVc2/"
+        },
+        {
+          "title": "Creating Python Bindings for MoveIt 2",
+          "short_description": "In this project, I plan to develop Python bindings for the core functionalities of MoveIt 2. In the initial phase of this project, I am creating a...",
+          "student_name": "Peter David Fagan",
+          "code_url": "https://peterdavidfagan.com/gsoc_prs.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AICLMf2p/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/moveit",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improved Realtime Control with MoveIt Servo [MoveIt 2]",
+          "short_description": "The current MoveIt Servo has enabled users to utilize reactive control. However, in its current implementation MoveIt Servo only provides a ROS...",
+          "student_name": "ibrahiminfinite",
+          "code_url": "https://gist.github.com/ibrahiminfinite/0f60fcf0717ca87263c72c0fcf6bd3ff",
+          "proposal_id": "pErfhihp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WgY2PZu9"
+        },
+        {
+          "title": "Improved Realtime Control with MoveIt Servo [MoveIt 2]",
+          "short_description": "Problem: MoveIt Servo is a powerful tool for real-time robot control, but its current ROS-only interface limits its accessibility to C++...",
+          "student_name": "Mohamed Raessa",
+          "code_url": "https://gist.github.com/Robotawi/7e2150801977751aebf4eb442c2d1538",
+          "proposal_id": "BK7wC43p",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2FZAv9Y7"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/moveit/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "MuJoCo ROS/MoveIt integration",
+          "short_description": "The problem I'm addressing is the lack of simulator options in MoveIt. I propose to conduct a comparative analysis of available simulation backends...",
+          "student_name": "Sangtaek",
+          "code_url": "https://github.com/moveit/moveit.ros.org/pull/860",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tVGym4TK/"
+        },
+        {
+          "title": "Kinematic Trajectory Optimization based Motion Planning using Drake for Moveit!",
+          "short_description": "This document details a proposal to integrate the Kinematic Trajectory Optimization capabilities of Drake with Moveit! It proposes three projects...",
+          "student_name": "Aditya kami",
+          "code_url": "https://github.com/moveit/moveit_drake",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/U43331TS/"
+        },
+        {
+          "title": "Zenoh Support & Benchmarking",
+          "short_description": "Project aims to integrate rmw_zenoh middleware to MoveIt2 and benchmark its effects on MoveIt2 project in points of message latency, performance of...",
+          "student_name": "Cihat Kurtulu\u015f Alt\u0131parmak",
+          "code_url": "https://moveit.ros.org/moveit/gsoc/2024/08/19/GSoC-2024-Zenoh-Support-and-Benchmarking.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sOm8rgZf/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://moveit.ros.org/about/get_involved/",
+  "contact_email": "henningkayser@picknik.ai",
+  "mailing_list": "https://discourse.ros.org/c/moveit",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://moveit.ros.org/blog/"
+}

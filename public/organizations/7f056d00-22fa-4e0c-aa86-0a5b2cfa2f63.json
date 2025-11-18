@@ -1,0 +1,45 @@
+{
+  "name": "Hazelcast",
+  "url": "https://www.hazelcast.org/",
+  "image_url": "https://lh3.googleusercontent.com/r7ugemZ2fI22B5_6ngzQdhgYlXyv3B8xcTHwE9vTcnxWoIAvOei-dxIoS6R6ksClFX0O1jHknEbyEK89hpVFAhbT6mddZ-0",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "in memory data grid",
+    "data streaming",
+    "stream processing"
+  ],
+  "technologies": [
+    "java",
+    "distributed systems"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6487112334966784/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "RocksDB as a state backend for Jet",
+          "short_description": "The project aims to use RocksDB persistent storage as a state back-end for Jet batch processors that require large state and don't need cutting-edge...",
+          "student_name": "Mohamed Mandouh",
+          "code_url": "https://github.com/hazelcast/hazelcast-jet/pull/2257",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5441496909611008/"
+        },
+        {
+          "title": "Improved Telemetry of Hazelcast",
+          "short_description": "The telemetry (or Phone Home) is a hazelcast feature that lets us gather usage information about how the community uses the Hazelcast product....",
+          "student_name": "Anmol Chaddha",
+          "code_url": "https://gist.github.com/chanmol1999/d6bfaff4e52d5bfb499b9396bac9355f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5951522799616000/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/hazelcast/gsoc",
+  "contact_email": "",
+  "mailing_list": "https://summerofcode.withgoogle.com/dashboard/org-admin/org-profile/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/hazelcast",
+  "blog_url": "https://hazelcast.com/blog/"
+}

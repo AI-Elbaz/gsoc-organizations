@@ -1,0 +1,133 @@
+{
+  "name": "Alaska",
+  "url": "https://www.uaa.alaska.edu/research",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/alaska/uuu8lxevgc3jof9c.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "deep learning",
+    "neuroscience",
+    "radiology",
+    "heathcare",
+    "Polar Science"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "java",
+    "matlab",
+    "dicom"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/alaska/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Telehealth over L4S",
+          "short_description": "Healthcare is one of the most important needs of man. One of the biggest impediments to healthcare access in parts of the world with huge land mass...",
+          "student_name": "Kolawole",
+          "code_url": "https://github.com/KathiraveluLab/L4SBOA",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/g0nI3Rgc/"
+        },
+        {
+          "title": "Automated coastline extraction for erosion modeling in Alaska.",
+          "short_description": "Alaskan communities face the frontline impacts of climate change. Accurately predicting coastal changes is crucial for adaptation, but current...",
+          "student_name": "Rawan Mohammed Elframawy",
+          "code_url": "https://github.com/rawann31/GSoC2024-Report/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JokAsFio/"
+        },
+        {
+          "title": "Adaptive Software-Defined Wide Area Network framework for Telehealth Access (AWANTA)",
+          "short_description": "In remote regions (like Alaska) lacking nearby hospitals, accessing healthcare becomes increasingly challenging, underscoring the importance of...",
+          "student_name": "Sai Vamsi",
+          "code_url": "https://github.com/KathiraveluLab/AWANTA/tree/dev/modules/emulator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/0GUHhUhb/"
+        },
+        {
+          "title": "Forest Fire Tracking from Aerial Images and Measuring its Severity/Intensity.",
+          "short_description": "Forest fires in the boreal regions, particularly in Alaska, result in significant losses, ranging from loss of life to environmental degradation and...",
+          "student_name": "Vikas Rajpurohit",
+          "code_url": "https://github.com/Vikas-Rajpurohit/UAF-GSOC24-WildFire-Research",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aTdHTFqR/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/alaska",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Support for Logarithmic Number Systems in a Deep-Learning Framework",
+          "short_description": "This project aims to integrate Logarithmic Number Systems (LNS) into a deep-learning framework, offering an alternative to traditional floating-point...",
+          "student_name": "akrentz6",
+          "code_url": null,
+          "proposal_id": "M4o1WvbW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/syhxELgs"
+        },
+        {
+          "title": "Time and Ordering in Beehive",
+          "short_description": "This project intends to introduce time as a new fourth dimension for uploads, enabling a deeper understanding and analysis of the evolution of...",
+          "student_name": "Bagwan",
+          "code_url": null,
+          "proposal_id": "567tuvB2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/p7uybuUg"
+        },
+        {
+          "title": "Developing Distributed Algorithm for Metagenomic Error Correction and Assembly",
+          "short_description": "Metagenomic assembly is essential for understanding microbial communities, but existing tools often struggle with fragmented genomes, misclassified...",
+          "student_name": "Gauri Ket",
+          "code_url": null,
+          "proposal_id": "GaVT5Vua",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7MLG6Q1y"
+        },
+        {
+          "title": "Beehive:  Health Metrics Framework for Behavioral Health in Alaska.",
+          "short_description": "Beehive aims to be a scalable web application that enables users to capture, upload, and manage images seamlessly while ensuring automation,...",
+          "student_name": "IshaanxGupta",
+          "code_url": null,
+          "proposal_id": "h6qWQxN2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VEikwBq6"
+        },
+        {
+          "title": "Bio-Block: A Blockchain-based Data Repository and Payment Portal.",
+          "short_description": "The problem I am trying to solve is less monetary benefits received by the data owners. I am creating a decentralized solution where the data owner...",
+          "student_name": "Karthik Sathish",
+          "code_url": null,
+          "proposal_id": "Kk4UEmnf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0fukgxzJ"
+        },
+        {
+          "title": "AWANTA: A Virtual Router based on RIPE Atlas Internet Measurements",
+          "short_description": "The purpose of this project is to build AWANTA, a software virtual router that adapts Internet traffic routing in real time based on network...",
+          "student_name": "Mohamed Abdullah",
+          "code_url": null,
+          "proposal_id": "5zBuGw2D",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VAxzRsh8"
+        },
+        {
+          "title": "Automated Coastline Extraction for Erosion modeling in Alaska",
+          "short_description": "Alaskan coastlines are rapidly evolving due to the direct impacts of climate change. Rising sea levels, melting sea ice, and shifting environmental...",
+          "student_name": "Ritika133",
+          "code_url": null,
+          "proposal_id": "92vZvvGp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/BxxPW8Ec"
+        },
+        {
+          "title": "Making ZeroMQ A First Class Feature of Concore",
+          "short_description": "Closed-loop peripheral neuromodulation systems, essential for developing adaptive therapies like vagus nerve stimulation that can be modularly...",
+          "student_name": "Saksham Gera",
+          "code_url": null,
+          "proposal_id": "P88ZkrJs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SRg27gwq"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://github.com/uaanchorage/GSoC/discussions",
+  "ideas_url": "https://github.com/uaanchorage/GSoC",
+  "guide_url": "https://github.com/uaanchorage/GSoC/blob/main/CONTRIBUTOR-GUIDE.md",
+  "blog_url": "https://github.com/uaanchorage/GSoC/wiki"
+}

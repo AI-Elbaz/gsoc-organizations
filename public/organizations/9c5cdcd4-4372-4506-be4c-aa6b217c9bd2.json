@@ -1,0 +1,35 @@
+{
+  "name": "CVXPY",
+  "url": "http://www.cvxpy.org/",
+  "image_url": "https://lh3.googleusercontent.com/PKHrxxpKa9NMAQlmnpIgVLcxA7ftVdcgBMNhphDBiE4FNv5KXCCemvNhG4u64oR6SYj3Uezl4vxOuTZyHlkZc_2msDjx0A",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "optimization",
+    "dsl",
+    "convex optimization"
+  ],
+  "technologies": [
+    "python"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6020075270176768/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "A Centralized Library for Convex Optimization and Integration of CVXPY with ILOG CPLEX",
+          "short_description": "This project proposal formalizes my intention on helping CVXPY in creating and implementing a new library to centralize the shared functionality from...",
+          "student_name": "Fabio Vitor",
+          "code_url": "https://drive.google.com/open?id=0B49UhwSycqrMMzJtdkdSMUZIckk",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5154474272227328/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:cvxpy.project@gmail.com",
+  "mailing_list": "http://www.cvxpy.org/en/latest/community/index.html",
+  "ideas_url": "",
+  "guide_url": ""
+}

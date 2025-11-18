@@ -1,0 +1,106 @@
+{
+  "name": "Open Science Initiative for Perfusion Imaging",
+  "url": "https://osipi.ismrm.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-science-initiative-for-perfusion-imaging/bxlqptrs5g0ovtqz-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "artificial intelligence",
+    "data visualization",
+    "data analysis",
+    "medical imaging",
+    "reproducible science"
+  ],
+  "technologies": [
+    "python",
+    "github"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-science-initiative-for-perfusion-imaging/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Translate different preprocessing snippets into OSIPI\u2019s perfusion library using python",
+          "short_description": "OSIPI TF 2.2 is committed to advancing arterial spin labeling (ASL) perfusion imaging by fostering a collaborative environment among ASL researchers,...",
+          "student_name": "Yifan Shuai",
+          "code_url": "https://github.com/Trico01/pyasl/wiki/PyASL_GSoC'24-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xz92GQuc/"
+        },
+        {
+          "title": "Automatic \u2018ASL Parameters\u2019 Generator from DICOM/ BIDS Images",
+          "short_description": "I'll develop an automatic generator for \"ASL parameters\" from DICOM or nii/BIDS format images to enhance the reproducibility of scientific...",
+          "student_name": "Hanliang Xu",
+          "code_url": "https://github.com/Hanliang-Xu/Hanliang-Xu.github.io/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tCvIb4VX/"
+        },
+        {
+          "title": "Implement a data visualization dashboard for OSIPI TF2.4",
+          "short_description": "The current TF2.4 repository has dozens of IVIM fitting algorithms that users can select from their preferred algorithm. The project idea is to...",
+          "student_name": "Ahmed Basem",
+          "code_url": "https://gist.github.com/AhmedBasem20/76c37422dcbd7aab5922b96897188daf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/oEIHF855/"
+        },
+        {
+          "title": "Setting up a framework for large-scale development",
+          "short_description": "Project Overview: The OSIPI framework project aims to establish a robust structure for large-scale development, focusing on best practices for...",
+          "student_name": "Mohamed Nasser Hussein",
+          "code_url": "https://medium.com/@nassermohamed3222/my-google-summer-of-code-2024-journey-with-the-osipi-foundation-b4ad4d738e2d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2DW9kdMF/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-science-initiative-for-perfusion-imaging",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Methods section generator for ASL",
+          "short_description": "This project aims to develop a modular, open-source Python tool that automatically extracts acquisition parameters from ASL MRI datasets (DICOM,...",
+          "student_name": "Ibrahim Abdelazim",
+          "code_url": null,
+          "proposal_id": "znYqDwGN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/W5gaALuO"
+        },
+        {
+          "title": "OSIPI package \u2013 Blood-brain barrier module",
+          "short_description": "This project addresses the inverse problem of estimating physiological parameters that characterize the permeability of the blood-brain barrier (BBB)...",
+          "student_name": "Melissa Lange",
+          "code_url": null,
+          "proposal_id": "QGEVWNgz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yQOF7L0M"
+        },
+        {
+          "title": "Unify HTML Pages For OSIPI Output",
+          "short_description": "The OSIPI initiative has developed various open-source tools for quantitative MRI, particularly in perfusion imaging. However, the documentation for...",
+          "student_name": "Rohan Kumar Mahato",
+          "code_url": null,
+          "proposal_id": "lxe3aKJY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2IvjaN2w"
+        },
+        {
+          "title": "Building a Flexible ASL-MRI Toolbox: Making Brain Imaging Research More Reproducible and Accessible",
+          "short_description": "ASL-MRI (Arterial Spin Labeling) is a non-invasive brain imaging method that measures blood flow and is used in studies of Alzheimer\u2019s, stroke, and...",
+          "student_name": "Tongxin (Elo) Li",
+          "code_url": null,
+          "proposal_id": "WWTp4QUq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/J0rmZ4sz"
+        },
+        {
+          "title": "Dockerized Data Processing Pipeline for Medical Imaging",
+          "short_description": "This project aims to build a modular, containerized pipeline for medical image processing (e.g., IVIM analysis) with DICOM and NIfTI support. It will...",
+          "student_name": "Usman Akinyemi",
+          "code_url": null,
+          "proposal_id": "TeFkSiCt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/wBCitF8F"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/osipi/shared_invite/zt-3112fcp6p-yKIpC9r~N0vMJIBoSQA42w",
+  "contact_email": "mailto:ismrmosipi@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "https://docs.google.com/document/d/e/2PACX-1vSuYh57hsLUXbmrA5tozX4Ucne0sRXnmFt5xBA88gzDZJKZYD4-Bq04J9acer2d_i6NP6xhimmz4m5i/pub",
+  "guide_url": "https://docs.google.com/document/d/e/2PACX-1vSa8Nvl_Ays9ZL3nYO1UL4hSB9vG2QXfSzWcEaN4jnuWNRJ3Vj58YX0FWI02llw17JaC_jMquAmBoAk/pub",
+  "twitter_url": "https://twitter.com/OSIPI_ISMRM"
+}

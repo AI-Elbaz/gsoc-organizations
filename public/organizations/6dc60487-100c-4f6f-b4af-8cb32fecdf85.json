@@ -1,0 +1,44 @@
+{
+  "name": "React Native Elements",
+  "url": "https://reactnativeelements.com/",
+  "image_url": "https://lh3.googleusercontent.com/EkjSoqy4nR4_yDtErmtDSIgBSvzo_mNqeqcgFxhgZI7RTqtzXI8CpO6ZePd1MSf4BLe45CKPe_aAEJqAtDzRONW7oS8OYFhwkfPVQ2rMZPI",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "ui toolkit",
+    "design system"
+  ],
+  "technologies": [
+    "javascript",
+    "react",
+    "react native"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4838168020385792/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Migrating Hooks, Tests & APIs",
+          "short_description": "React has evolved a lot since the initial development of react-native elements. The library needs to update its codebase to adopt a new coding...",
+          "student_name": "Arpit Bhalla",
+          "code_url": "https://github.com/arpitBhalla/google-summer-of-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5492261474795520/"
+        },
+        {
+          "title": "Automatically generate docs from the components",
+          "short_description": "Currently, the process of generating the documentation is manual and it requires updating the docs every time there is a change in props. We can use...",
+          "student_name": "Khushal Agarwal",
+          "code_url": "https://github.com/khushal87/google-summer-of-code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6297998111277056/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://react-native-elements-slack.herokuapp.com/",
+  "contact_email": "",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/rn_training"
+}

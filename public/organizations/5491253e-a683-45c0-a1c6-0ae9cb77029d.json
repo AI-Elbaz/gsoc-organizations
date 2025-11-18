@@ -1,0 +1,143 @@
+{
+  "name": "Genes, Genomes and Variation",
+  "url": "http://www.ensembl.org",
+  "image_url": "https://lh3.googleusercontent.com/p8PJcwnPwpVUuuesrDQkQxj_TpubhtovFLmyAfwpbnWU28tgkvewYzdXqob_BY0Uh0_061o-IdAYODgEyjUZcthyncDrnw",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "databases",
+    "bioinformatics",
+    "web platform and services",
+    "data visualisation",
+    "web",
+    "genomics",
+    "data visualization",
+    "database",
+    "scientific visualization",
+    "data analysis"
+  ],
+  "technologies": [
+    "mysql",
+    "javascript",
+    "perl",
+    "python",
+    "rest"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6638327222501376/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Visualization of Genomic Sequence Graphs",
+          "short_description": "Recent scientific advances have lead to a huge increase in the amount of available genomic sequence information. In the past this sequence...",
+          "student_name": "Wolfgang Beyer",
+          "code_url": "https://github.com/wolfib/sequenceTubeMap",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5861745595777024/"
+        },
+        {
+          "title": "Graphical workflow editor for eHive using Blockly",
+          "short_description": "eHive is a system used to run computation pipelines in distributed environments. eHive workflows are currently being migrated to a Relax NG...",
+          "student_name": "Anuj Khandelwal",
+          "code_url": "https://github.com/Ensembl/XML-To-Blockly/commits/gh-pages?author=anujk14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5977064662368256/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5455879507804160/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Project Proposal Ensembl Track Database Mentors : Andy Yates, Stephen Trevanion",
+          "short_description": "Ensembl is a data warehousing and data sets project which helps to analyse advanced biological data. Simple this application displays a 1 dimensional...",
+          "student_name": "Chanaka De Silva",
+          "code_url": "https://github.com/EnsemblGSOC/chanaka-gsoc-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6753041504010240/"
+        },
+        {
+          "title": "Data file search API",
+          "short_description": "The Ensembl and Ensembl Genomes projects provide genomic data for over 40 thousands genomes. Considering even the increasing number of this data, it...",
+          "student_name": "Stefan Dvoretskii",
+          "code_url": "https://gist.github.com/stefanches7/79f167369b543ab9089dc03c26780bc3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4741862938116096/"
+        },
+        {
+          "title": "Strain Differential",
+          "short_description": "The objective of the project is to get a scrollable web view for gene variations after changing the reference strain of genome data in real time. The...",
+          "student_name": "Arpit Agarwal",
+          "code_url": "https://github.com/ravaan/GSoC-Strain_Differential",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6539939722297344/"
+        },
+        {
+          "title": "Enabling large file format support in Genoverse",
+          "short_description": "The motive is enable support for large binary file formats in Genoverse, a genome browser that is written in javascript. This project would involve...",
+          "student_name": "Sourabhreddy Medapati",
+          "code_url": "https://github.com/EnsemblGSOC/sourabhr-gsoc-2017/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5774476155289600/"
+        },
+        {
+          "title": "Gene Visualisation in Mixed Reality with Microsoft HoloLens.",
+          "short_description": "This project would involve building an application allowing genes to be visualised in \u2018mixed reality\u2019 with the Microsoft HoloLens. Mixed reality...",
+          "student_name": "Rachel Slater",
+          "code_url": "https://github.com/EnsemblGSOC/GeneticDataVisualisationInMixedReality_RachelSlater",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5936022491758592/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5477445075468288/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Transcript Comparisons",
+          "short_description": "In Comparative Genomics we compare an unknown gene with some other known genes, for better inference of biological properties of that unknown gene....",
+          "student_name": "Nabil Ibtehaz",
+          "code_url": "https://github.com/EnsemblGSOC/nabil-gsoc-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4976103340900352/"
+        },
+        {
+          "title": "Automated Processing of Primary Genome Analysis",
+          "short_description": "Develop an automated system that performs analyses on newly sequenced genomes.",
+          "student_name": "Tony Yang",
+          "code_url": "https://github.com/EnsemblGSOC/tony-gsoc-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5956232191934464/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4535509118877696/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Applying machine learning techniques to characterising and naming lncRNA genes",
+          "short_description": "Advances in RNA sequencing technologies have revealed the complexity of our genome. Long non-coding RNAs (lncRNAs) make up the majority of the...",
+          "student_name": "Srijan Verma",
+          "code_url": "https://github.com/EnsemblGSOC/srijan-gsoc-2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5451745902198784/"
+        },
+        {
+          "title": "Circular RNA analytics frontend",
+          "short_description": "The project aims to deliver a responsive web-based analytics dashboard, integrated to an in-house catalogue of circRNAs identified from multiple...",
+          "student_name": "Praduman Goyal",
+          "code_url": "https://medium.com/@goyal.praduman611/gsoc19-with-ensembl-final-submission-60390448a2b2?source=friends_link&sk=5b1b31011d8defb003e688c87c4c5785",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6244922426916864/"
+        },
+        {
+          "title": "Using Deep Learning Techniques To Enhance Orthology Calls",
+          "short_description": "Homology refers to the shared ancestry between a pair of structures, organisms or genes, in different taxa.\nCurrently, homology types are decided on...",
+          "student_name": "Harshit Gupta-1",
+          "code_url": "https://github.com/EnsemblGSOC/compara-deep-learning",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5953105168957440/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:helpdesk@ensembl.org",
+  "mailing_list": "http://lists.ensembl.org/mailman/listinfo/dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ensembl",
+  "blog_url": "http://www.ensembl.info/"
+}

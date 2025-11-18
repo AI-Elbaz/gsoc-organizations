@@ -1,0 +1,53 @@
+{
+  "name": "moja global",
+  "url": "https://moja.global",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/moja-global/jcd7uys3qjvi0guo-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "climate monitoring",
+    "nature based solutions",
+    "land system modelling"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c++",
+    "docker",
+    "Data-Science"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/moja-global/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "GCBM Simulation Editor for FLINT-UI",
+          "short_description": "This project entails the creation of a GCBM Simulation Editor for the FLINT-UI. Currently, all of the configurations for running the simulation are...",
+          "student_name": "Yash Kandalkar",
+          "code_url": "https://community.moja.global/blog/gsoc-gcbm-editor-status-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wYY0EsVx/"
+        },
+        {
+          "title": "MLOps for reproducible Science",
+          "short_description": "The goal of this project is to optimize the FLINT contributor's workflow by automating the complex difficult steps , providing user-friendly feedback...",
+          "student_name": "Radis Toumpalidis",
+          "code_url": "https://community.moja.global/blog/2022/09/11/GSoC-2022-final-report-Radis-Toumpalidis",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TJwx8kkS/"
+        },
+        {
+          "title": "Building UI library for moja global",
+          "short_description": "This project aims to build a faster, lightweight, user-friendly, mobile-friendly, and cross-browser-compatible UI library as a stand-alone dependency...",
+          "student_name": "Palak Sharma",
+          "code_url": "https://community.moja.global/blog/GSoC-2022-Palak-Sharma",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZqYBMwQd/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw",
+  "contact_email": "mentorship@moja.global",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

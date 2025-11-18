@@ -1,0 +1,163 @@
+{
+  "name": "Ruby Science Foundation",
+  "url": "http://sciruby.com/",
+  "image_url": "https://lh3.googleusercontent.com/kFvQCOeX0CvmrLWs59bRiZgH0-a4wehdUOrnsV51yktt5uvb1JA6rfr97xZx9g54wNAiCDnmQujpHIspp-9SdDqaWG37lkU",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "math",
+    "visualization",
+    "science",
+    "data",
+    "space",
+    "web",
+    "package management",
+    "hpc",
+    "compilers",
+    "artificial intelligence",
+    "data science",
+    "parallel algorithms",
+    "scientific computing",
+    "linear algebra",
+    "scientific visualization",
+    "data-science"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "ruby",
+    "jruby",
+    "c programming",
+    "web",
+    "gpu",
+    "science",
+    "data",
+    "cuda",
+    "machine learning",
+    "ai"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6193060446732288/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Categorical data support for Daru, Statsample and Statsample-glm",
+          "short_description": "In Data Science acquiring insight from data is what matters and any good data analysis tool must have the key functionalities required to extract...",
+          "student_name": "Lokesh Sharma",
+          "code_url": "http://lokeshh.github.io/blog/2016/08/18/gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5356167010189312/"
+        },
+        {
+          "title": "Create a Ruby Wrapper for NASA's SPICE Toolkit",
+          "short_description": "NASA's SPICE toolkit is a collection of subroutines and functions designed to interpret and perform numerical computations on archived data returned...",
+          "student_name": "gaurav_tamba",
+          "code_url": "http://gauravtamba.me/gsoc/2016/08/22/report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4588569918177280/"
+        },
+        {
+          "title": "Port Nmatrix to JRuby",
+          "short_description": "NMatrix for MRI has become a fairly well-established project. However with JRuby+Truffle+Graal becoming very fast compared to MRI, a lot of ruby...",
+          "student_name": "prasunanand",
+          "code_url": "http://www.prasunanand.com/jruby/2016/08/22/gsoc16-project-report-port-nmatrix-to-jruby.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4640058522992640/"
+        },
+        {
+          "title": "Ruby Wrappers for SymEngine",
+          "short_description": "The work proposed is to extend the already available, but limited SymEngine's Ruby interface. This project will greatly increase the computational...",
+          "student_name": "Rajith Vidanaarachchi",
+          "code_url": "https://rajithsays.wordpress.com/2016/08/19/gsoc-epilogue/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5816312089542656/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6710362682425344/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Make Daru more integratable with modern web frameworks of Ruby",
+          "short_description": "Daru is a Data Analysis Library in Ruby - whose user base would definitely increase by making it friendly enough to integrate with modern Ruby web...",
+          "student_name": "Athitya Kumar",
+          "code_url": "https://athityakumar.github.io/blog/posts/GSoC_2017_-_Final_Work_Submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5052986342506496/"
+        },
+        {
+          "title": "Make Daru more ready for integration with modern Web framework - GSoC 2017- Shekhar Prasad Rajak",
+          "short_description": "DaRu (Data Analysis in RUby) is a library for storage, analysis, manipulation and visualisation of data. Currently it is doing good job for...",
+          "student_name": "Shekhar Prasad Rajak",
+          "code_url": "http://shekharrajak.github.io/gsoc_2017_posts/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5267803426783232/"
+        },
+        {
+          "title": "Creating the fastest math libraries for Ruby by using the GPU through OpenCL and ArrayFire.",
+          "short_description": "Few people realise it, but even the modest computers today, including mobile phones, have powerful GPUs. And these GPUs can be used serially and in...",
+          "student_name": "prasunanand",
+          "code_url": "http://www.prasunanand.com/arrayfire/cuda/opencl/ruby/2017/08/28/gsoc17-project-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5200694831218688/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5688290254520320/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Advance features in daru-view",
+          "short_description": "Daru-view aims to create interactive plots and tables in Ruby using various adapters available like GoogleCharts, HighCharts, Nyaplot and DataTables....",
+          "student_name": "Prakriti Gupta",
+          "code_url": "https://32teethglitter.wordpress.com/2018/08/07/work-product-gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6176799834767360/"
+        },
+        {
+          "title": "NetworkX.rb",
+          "short_description": "NetworkX.rb is the library for analyzing graphs and complex networks. It is based on the popular python library NetworkX.",
+          "student_name": "Nilay Pochhi",
+          "code_url": "https://npochhi.github.io/npochhi/2018/08/13/GSoC-Completion/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5638186843766784/"
+        },
+        {
+          "title": "Rewriting matplotlib in a language-independent form and expose it to Ruby.",
+          "short_description": "A Linear Algebra Library and a plotting Library are the basic requirements for scientific software to be built on. With this project, we aim to...",
+          "student_name": "Pranav Garg",
+          "code_url": "https://github.com/pgtgrly/GRruby-extension",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4689594796736512/"
+        },
+        {
+          "title": "Ruby Matplotlib",
+          "short_description": "There exist several plotting libraries for Ruby, but none of them is as readily usable as either Matlab's plotting system or the Matlab-inspired...",
+          "student_name": "Arafat Dad Khan",
+          "code_url": "https://github.com/Arafatk/magick-rubyplot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4914153269493760/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6207728010133504/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adding Magick back-end support and iruby integration to Rubyplot.",
+          "short_description": "Rubyplot only supports GR back-end, my project is to extend this support to Magick back-end, adding plot function to Rubyplot and integration with...",
+          "student_name": "Alish Dipani",
+          "code_url": "https://alishdipani.github.io/gsoc2019/2019/08/22/Wrapping-up-GSoC-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6622714041729024/"
+        },
+        {
+          "title": "Improving NMatrix: Adding features to NMatrix core",
+          "short_description": "NMatrix is being re-implemented by SciRuby contributors here at https://github.com/prasunanand/nmatrix_reloaded. This re-implementation is having a...",
+          "student_name": "Udit Gulati",
+          "code_url": "https://uditgulati.github.io/blog/open-source/2019/08/25/gsoc-work-product.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5723662026539008/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://sciruby.com",
+  "contact_email": "mailto:sciruby-dev@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/sciruby-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/sciruby",
+  "blog_url": "http://sciruby.com/blog/"
+}

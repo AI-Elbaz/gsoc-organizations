@@ -1,0 +1,134 @@
+{
+  "name": "Rizin",
+  "url": "https://rizin.re",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/rizin/7ageygqfyv7wzlee-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "reverse engineering",
+    "computer security",
+    "debugging",
+    "emulation",
+    "disassembly"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "c++",
+    "qt",
+    "go"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5119563070439424/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Reworking Rizin's binary loading",
+          "short_description": "Currently, Rizin is able to load segments and sections as well as fetch all symbols and relocations and extract everything we need to analyse the...",
+          "student_name": "Alexis Ehret",
+          "code_url": "https://gist.github.com/08A/acf80d47562ad91cc9a05819039ce994",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6372408285462528/"
+        },
+        {
+          "title": "Support for CPU and Platform Profiles",
+          "short_description": "Rizin currently relies upon manually writing code for adding a new CPU or an IO port. This implementation is unfit as the vast and growing ecology of...",
+          "student_name": "Aswin C",
+          "code_url": "https://officialcjunior.github.io/blog/gsoc-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6125873907892224/"
+        },
+        {
+          "title": "Heap Viewer",
+          "short_description": "Currently, there are no heap-specific widgets in Cutter to get information about the heap while debugging a program. This project aims to solve this...",
+          "student_name": "Pulak Malhotra",
+          "code_url": "https://pulakiiit.github.io/posts/gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4646304013090816/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/rizin/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Automated Python Bindings",
+          "short_description": "Rizin's currently exposes its functionality through the rz-pipe command-based API. However, for more complex applications, direct access to the C API...",
+          "student_name": "wingdeans",
+          "code_url": "https://gist.github.com/wingdeans/8203a694beaa1ae3b2a40d2c8635375a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cUPgOrvY/"
+        },
+        {
+          "title": "RzIL uplifting migration",
+          "short_description": "Rizin had been using ESIL as its IL for analyzing the ISA of many architectures. RzIL was developed because ESIL was deemed to be not very...",
+          "student_name": "DMaroo",
+          "code_url": "https://dmaroo.github.io/gsocx86lifting",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/iHkY96U9/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/rizin",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Debug information handling improvements",
+          "short_description": "The proposal outlines a project to improve the debug information handling in Rizin, an open-source reverse engineering framework. The project aims to...",
+          "student_name": "billow",
+          "code_url": "https://github.com/rizinorg/rizin/pull/3703",
+          "proposal_id": "pOpWg4JW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/JGpphQHN"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/rizin/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Lifting RISC-V Instructions to the RzIL IR Language",
+          "short_description": "The aim of this project is to lift one of the last high priority instruction sets to RzIL, namely the RISC-V instruction set. This instruction set,...",
+          "student_name": "Mostafa-M-K",
+          "code_url": "https://github.com/moste00/riscv_disasm_from_sail",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jX5dWGou/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/rizin",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Thread safety improvement",
+          "short_description": "This project aims to improve the thread safety of the Rizin reverse engineering framework by eliminating global static variables and encapsulating...",
+          "student_name": "Ahmed Kamal Karim",
+          "code_url": null,
+          "proposal_id": "09CcibIe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aZEBUZrE"
+        },
+        {
+          "title": "Debugger improvements and portability",
+          "short_description": "Adding native debugger support for Linux x86, x64 and PPC64, and x86, x64 and AArch64 support for FreeBSD, OpenBSD and NetBSD along with automated...",
+          "student_name": "Taksh Patel",
+          "code_url": null,
+          "proposal_id": "DqDexjKK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ibmAy4NN"
+        },
+        {
+          "title": "Classes analysis for C++/Swift/ObjectiveC/Rust/Java",
+          "short_description": "Rizin is a famous reverse engineering tool that analyses binaries of various types and various architectures. As of now, the support for reverse...",
+          "student_name": "tushar3q34",
+          "code_url": null,
+          "proposal_id": "yaWVXpna",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cLuPEQYI"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://im.rizin.re",
+  "contact_email": "mailto:gsoc@rizin.re",
+  "mailing_list": "",
+  "ideas_url": "https://rizin.re/gsoc/2025/",
+  "guide_url": "https://rizin.re/gsoc/2024",
+  "twitter_url": "https://bsky.app/profile/rizin.re",
+  "blog_url": "https://rizin.re/posts/"
+}

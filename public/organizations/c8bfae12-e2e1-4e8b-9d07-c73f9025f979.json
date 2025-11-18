@@ -1,0 +1,56 @@
+{
+  "name": "Celluloid",
+  "url": "http://celluloid.io",
+  "image_url": "https://lh3.googleusercontent.com/nNo3XXt0aWSCoVfB7bZfj-MtQf6HcTMvtvqDfqv5Yws1B0SCH66JBgBp2OZCHf4VBU6dr-UYoAunl5hXxQvBTmtAonUjyQ",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "concurrency",
+    "parallel",
+    "evented",
+    "distributed",
+    "actor model"
+  ],
+  "technologies": [
+    "ruby",
+    "multi-threading",
+    "multi-core",
+    "zeromq",
+    "high-resolution timers"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4955769220890624/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Celluloid - Benchmarking and Performance Improvements",
+          "short_description": "Celluloid has gone through a lot of improvements since v0.13. This has somehow affected the performance. The aim of my project primarily is to create...",
+          "student_name": "Prathmesh Ranaut",
+          "code_url": "https://github.com/celluloid/GSoC/blob/master/reports/2016-performance.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6658547928530944/"
+        },
+        {
+          "title": "Celluloid - Adding new features to Reel",
+          "short_description": "Reel is Celluloid::IO native, evented server which serves as bare-bones for http and webSocket server providing functionality such as Connection...",
+          "student_name": "Pulkit Bhatia",
+          "code_url": "https://github.com/celluloid/GSoC/blob/master/reports/2016-reel_features.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5679493490409472/"
+        },
+        {
+          "title": "Extract ECell",
+          "short_description": "Prepare the existing ECell code for public release.",
+          "student_name": "benzrf",
+          "code_url": "https://github.com/celluloid/GSoC/blob/master/reports/2016-ecell_extraction.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5079450320371712/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/celluloid/GSoC/wiki/Communication#internet-relay-chat--irc-",
+  "contact_email": "mailto:gsoc@celluloid.network",
+  "mailing_list": "https://github.com/celluloid/GSoC/wiki/Communication#google-groups-mailing-list",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/celluloidrb"
+}

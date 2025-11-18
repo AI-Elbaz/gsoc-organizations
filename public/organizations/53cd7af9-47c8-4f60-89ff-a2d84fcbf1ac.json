@@ -1,0 +1,72 @@
+{
+  "name": "Samba",
+  "url": "https://www.samba.org/",
+  "image_url": "https://lh3.googleusercontent.com/_8-VaHi74y4qMQKPJseZX26TlSr0ecED2RK5LcgCoNWutVg5Uq0Xx8v43ePrx7xDUZaGGyJptv4OIOldc7yXSN57YotASv8VDrW-pEQL-qghIg",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "samba",
+    "networks",
+    "interoperability",
+    "networking",
+    "enterprise"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "smb",
+    "cifs"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5093706659004416/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "SAMBA libcli/dns participation",
+          "short_description": "Asynchronous DNS framework parser and libraries in C. Incorporates GSS-TSIG authentication protocol.",
+          "student_name": "Dimitrios Gravanis",
+          "code_url": "https://wiki.samba.org/index.php/SoC/2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4652559293743104/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4908878360215552/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improve smbcmp, the capture diff tool",
+          "short_description": "smbcmp is a simple CLI tool that uses Wireshark CLI version (tshark) to dump and diff traces. It currently uses the plain text output format of...",
+          "student_name": "Mairo Rufus",
+          "code_url": "https://rmpr.github.io/gsoc_2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5161634887106560/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5671203068444672/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Integrate Samba AD DC deployment and management with Cockpit",
+          "short_description": "The project is about designing and implementing a Samba AD management tool for performing operations typically done via the samba-tool command line...",
+          "student_name": "Hezekiah",
+          "code_url": "https://wiki.samba.org/index.php/GSOC_cockpit_samba_ad_dc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6024260486692864/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5673937584783360/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://www.samba.org/samba/irc.html",
+  "contact_email": "mailto:samba-technical@lists.samba.org",
+  "mailing_list": "https://www.samba.org/samba/archives.html",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://www.samba.org/samba/latest_news.html"
+}

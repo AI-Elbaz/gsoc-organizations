@@ -1,0 +1,844 @@
+{
+  "name": "OWASP Foundation",
+  "url": "https://owasp.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/owasp-foundation/haks8qbp0yvjvzge-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "security",
+    "secure development",
+    "appsec",
+    "application security",
+    "sdlc",
+    "cloud security",
+    "mobile security",
+    "information security",
+    "web application security",
+    "cyber security",
+    "cybersecurity",
+    "top 10",
+    "pentesting",
+    "web",
+    "cloud",
+    "DevSecOps"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "java",
+    "html",
+    "php",
+    "ruby",
+    "net",
+    "node.js",
+    ".net",
+    "c",
+    "c++",
+    "golang",
+    "ZAP",
+    "Juice Shop"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5895641477677056/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Extending language support and adding OWASP Top 10 challenges to Container Engine",
+          "short_description": "The project will implement the following features:\nExtended language support for container Engine: The current version of container engine can handle...",
+          "student_name": "Anirudh Anand",
+          "code_url": "https://github.com/a0xnirudh/hackademic/commits/a0xnirudh/docker?author=a0xnirudh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5679285452931072/"
+        },
+        {
+          "title": "Educational Plugin for Seraphimdroid",
+          "short_description": "Educating an amateur or an avid Android user with the threats they can face on their Droid and protecting it by building a Knowledge Base for...",
+          "student_name": "addiittya",
+          "code_url": "https://drive.google.com/drive/folders/0B-lUWKmJuey_Ql9kbjZNTUoyMk0?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6495064293376000/"
+        },
+        {
+          "title": "OWASP OWTF - Health Monitor",
+          "short_description": "OWASP OWTF is a great tool which automates the manual and non-creative work of penetration testing. It combines all required  tools and features but...",
+          "student_name": "DarKnight--",
+          "code_url": "https://docs.google.com/document/d/1UFQITQHzSWze5FdXxhfengckfDP1ZeOBdx0gGHdhbMY",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4891314378244096/"
+        },
+        {
+          "title": "OWASP ZSC - Shellcode for Windows and Code Obfuscation Modules",
+          "short_description": "OWASP ZSC tool currently does not support generation of Shellcodes for Windows and it also has only few obfuscation modules. The two primary goals of...",
+          "student_name": "Pratik",
+          "code_url": "http://pratikpatelp.blogspot.in/2016/08/gsoc-work-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5969824152813568/"
+        },
+        {
+          "title": "Machine Learning Trend Monitoring Analysis Engine for AppSensor",
+          "short_description": "Over the recent years, machine learning algorithms have been playing an important role in searching for patterns in data and developing innovative...",
+          "student_name": "Timothy Sum",
+          "code_url": "https://timothy22000.github.io/event/gsoc-work-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5197510381404160/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6340640489078784/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "OWASP Juice Shop : Frontend Technology Update",
+          "short_description": "Juice shop uses AngularJS for it's frontend along with Bootstrap. Keeping the application up to date with the latest technologies is important to...",
+          "student_name": "Aashish Singh",
+          "code_url": "https://gist.github.com/Aashish683/d5fb5fbe5ceba56276accc734ecfb4ad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6636660909408256/"
+        },
+        {
+          "title": "General Improvements and Bug Fixes for OWASP-Nettacker",
+          "short_description": "OWASP Nettacker is a project that automatically gathers information, scans network for vulnerabilities and eventually generates a report for...",
+          "student_name": "Shaddy Garg",
+          "code_url": "https://medium.com/@shaddygarg/google-summer-of-code-final-submission-12eb98993ba8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6698471998357504/"
+        },
+        {
+          "title": "WebSockets Active Scanning",
+          "short_description": "For my contribution to the ZAP I am going to implement an active web socket scan. Specifically, I will develop an extension for WebSocket add-on by...",
+          "student_name": "Emmanouil Kirtas",
+          "code_url": "https://github.com/zaproxy/zaproxy/wiki/GSoC2018WebSocketScanner",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5658519688708096/"
+        },
+        {
+          "title": "OWASP SKF - New user experience based on chat bots",
+          "short_description": "Security Knowledge Framework (SKF) is a tool that is used as a guide for building and verifying secure software.It can also be used to train...",
+          "student_name": "Priyanka Jain",
+          "code_url": "https://gist.github.com/Priya997/174747ac8741e73b168f4a7a2331f486",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5722939567636480/"
+        },
+        {
+          "title": "Owasp-Nettacker Enhancements",
+          "short_description": "OWASP-Nettacker currently is a project with less functionality compared to other network penetration testing tools like Nmap, Nessus. In this...",
+          "student_name": "Pradeep Jairamani",
+          "code_url": "https://docs.google.com/spreadsheets/d/1zeDXPZnSeCAZIbBy9R8cCNfVYL8gKT0Ocg-nSlFoh_g/edit#gid=1422232123",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6495701290713088/"
+        },
+        {
+          "title": "Authentication helper add-on for ZAP",
+          "short_description": "ZAP allows the penetration tester to set up authentication for the web application being tested. This allows ZAP to run tests from the point of an...",
+          "student_name": "M. Kajan",
+          "code_url": "https://github.com/zaproxy/zaproxy/wiki/GSoC2018AuthenticationhelperAddOn",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4936550718636032/"
+        },
+        {
+          "title": "Bug Logging Tool",
+          "short_description": "BLT lets anyone report issues they find on the internet. It gives points to users for reporting bugs .But it lacks mobile portability that is the app...",
+          "student_name": "S Rahul Badami-1",
+          "code_url": "https://docs.google.com/spreadsheets/d/1jI5VpPJyoKzhiyq4U1lsRLvX2QM_Py_Fo9IBQW7nZgU/edit#gid=1161341563",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5995016619032576/"
+        },
+        {
+          "title": "OWASP Juice Shop : Challenge Pack 2018",
+          "short_description": "This project will involve designing and implementing new vulnerable features and challenges around them which will successfully show how...",
+          "student_name": "Shoeb Patel",
+          "code_url": "https://blog.shoebpatel.me/2018/08/05/OWASP-Juice-Shop-Challenge-Pack-2018-GSoC-project-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6267528737193984/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5214459562295296/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Improving and building Lab challenges and write-ups:",
+          "short_description": "This project I will work on during the GSOC consists on building many new Lab challenges for web app pentesting and clear and easy-to-follow...",
+          "student_name": "Albertor",
+          "code_url": "https://gist.github.com/shayubit/6b019d73a526a372dcddefb696a1cb8c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6454742450962432/"
+        },
+        {
+          "title": "OWASP Risk Assessment Framework",
+          "short_description": "Building an API to stage the results of Static Application Security Testing (SAST) tools.",
+          "student_name": "Azhar Ahamed",
+          "code_url": "https://github.com/azharanees/GSOC19-OWASP-RAF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5673600424607744/"
+        },
+        {
+          "title": "OWASP OWTF-Web Interface Enhancements",
+          "short_description": "The current web interface of OWTF is non-functional and some of its pages are not yet implemented. This project is about implementing a full...",
+          "student_name": "Mohit Sharma",
+          "code_url": "https://medium.com/@ms892075/gsoc-19-owasp-owtf-web-interface-enhancements-f848dde711c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5496814134886400/"
+        },
+        {
+          "title": "Building a Web-based Honeypot & Reporting Threat Intelligence",
+          "short_description": "The objective is to build a web-based Honeypot project by identifying the emerging attacks against web applications and report them to the community,...",
+          "student_name": "Tulja Vamshi Kiran",
+          "code_url": "https://tulja.github.io/blogs/2019/08/18/gsocPost.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4676246607233024/"
+        },
+        {
+          "title": "OWASP Seraphimdroid",
+          "short_description": "OWASP Seraphimdroid has previously applied a system, based on permissions, which is able to distinguish malicious apps from non-malicious. But it...",
+          "student_name": "Junfan Huang",
+          "code_url": "https://docs.google.com/document/d/1WzNZed2Et8eRn7xLYvWI_Wb-FUqpKK88eBp7XNqt20I/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4765892590698496/"
+        },
+        {
+          "title": "OWASP Juice Shop: Feature Pack 2019",
+          "short_description": "This project aims at enhancing the Juice Shop application by drawing inspiration from modern e-commerce companies and incorporating sublime features...",
+          "student_name": "Arpit Agrawal",
+          "code_url": "https://agrawalarpit14.github.io/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6526397403627520/"
+        },
+        {
+          "title": "Writing Functional and Unit Tests For Defect-Dojo Tools and Modules",
+          "short_description": "OWASP DefectDojo is an open source vulnerability management tool and it's used as the backbone for security programs. It helps you keep proper record...",
+          "student_name": "propersam",
+          "code_url": "https://propersam.hashnode.dev/my-gsoc19-final-report-summary-of-my-contributions-to-defectdojo-project-cjzpiaz5f001byis1rkz087d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6074759496859648/"
+        },
+        {
+          "title": "WebSocket Scanning",
+          "short_description": "ZAP has good support for websockets, and allows them to be intercepted, changed and fuzzed. However, it doesn't\ncurrently support scanning, either...",
+          "student_name": "Manos Kirtas",
+          "code_url": "https://github.com/zaproxy/zaproxy/wiki/GSoC2019_WebSocketScanning",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4837009514823680/"
+        },
+        {
+          "title": "OWASP SKF \u2013 Enhancing user experience on chatbots",
+          "short_description": "Security Knowledge Framework (SKF) is intended to be a tool that is used as a guide for building and verifying secure software. It can also be used...",
+          "student_name": "HemantJ",
+          "code_url": "https://github.com/hemantj99/skfChatbot-Updates",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5811469680115712/"
+        },
+        {
+          "title": "Scan2.0 and Writing Unittests for OWASP-Defectdojo",
+          "short_description": "DefectDojo is a security tool that automates application security vulnerability management. DefectDojo streamlines the application security testing...",
+          "student_name": "Saurabh kumar",
+          "code_url": "http://dr3dd589.github.io/development/2019/08/06/GSoC-Final-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5861513296871424/"
+        },
+        {
+          "title": "OWASP Honeypot GSOC 2019",
+          "short_description": "OWASP Honeypot :\nThe idea is to: \n  -Test all the modules in the code (currently 4)and if there are bugs found to fix them.\n  -After testing the...",
+          "student_name": "DHIREN DEVINDER SERAI",
+          "code_url": "https://dhirensr.github.io/posts-output/august/20-august",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5210438885703680/"
+        },
+        {
+          "title": "Laying down base architecture",
+          "short_description": "Laying down a strong foundation & base architecture for Intrusion detection & prevention system (IDS/IPS), intelligent log monitoring, antivirus that...",
+          "student_name": "Abhishek Sharma",
+          "code_url": "https://github.com/abhisharma404/GSoC-19-OWASP-SecureTea/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5221357548208128/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5260035782868992/",
+      "num_projects": 12,
+      "projects": [
+        {
+          "title": "Adding new vulnerability modules",
+          "short_description": "This project I will work on during the GSOC consists on building many new vulnerability modules for web application pen-testing along with performing...",
+          "student_name": "Am4n Gupta",
+          "code_url": "https://medium.com/@amangupta566/google-summer-of-code-final-submission-4b5987caf5f9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6332659136987136/"
+        },
+        {
+          "title": "New Graphical User Interface",
+          "short_description": "A new graphical user interface for the Security Knowledge Framework web application with Angular 8 and Bootstrap.",
+          "student_name": "Akash M",
+          "code_url": "https://medium.com/@akashm398/a-journey-into-gsoc-2020-part-4-the-end-bdaed3cef861",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6584030151049216/"
+        },
+        {
+          "title": "Juice-Shop ChatBot and general fixes",
+          "short_description": "Making an NLP based responsive and challenge ready ChatBot for OWASP Juice-Shop, along with two unique challenges. Also do a thorough sweep of the...",
+          "student_name": "Mohit Sharma-2",
+          "code_url": "https://gist.github.com/Scar26/fabf5d9192c49d16fb19adb3cc9f457b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5660020047347712/"
+        },
+        {
+          "title": "Intelligent Intrusion Detection System",
+          "short_description": "Developing an Intelligent Intrusion Detection System using AI technologies for detection. It will be be a complete Python based application which...",
+          "student_name": "Ashish Malik",
+          "code_url": "https://ashishmalik.netlify.app/post/gsoc/final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5699259774533632/"
+        },
+        {
+          "title": "OWASP Python Honeypot",
+          "short_description": "Adding the following features to the OWASP Python Honeypot project:\n\nadd log explorer WebUI for a tabular view of the data stored in the database....",
+          "student_name": "Chakshu Gupta",
+          "code_url": "https://medium.com/@ChGDream/my-google-summer-of-code-2020-journey-with-owasp-b772c3e67c3f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5422026245799936/"
+        },
+        {
+          "title": "The Honeypot Project",
+          "short_description": "This project focuses on the honeypot project by the OWASP foundation. The goal of the Project is to identify emerging attacks against web...",
+          "student_name": "Chirag Bablani",
+          "code_url": "https://medium.com/owasp-gsoc-2020-the-honeypot-project/gsoc20-the-honeypot-project-with-owasp-35366f26abf2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5425812360134656/"
+        },
+        {
+          "title": "Bugheist",
+          "short_description": "Bugheist",
+          "student_name": "Rahul Badami",
+          "code_url": "https://docs.google.com/spreadsheets/d/1Dwy1QQw2JqXnEyEovaQp6O35y-HAGXuplRn9K2XJN3M/edit#gid=1161341563",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5105023802933248/"
+        },
+        {
+          "title": "Building A Standalone Scanner to enhance Risk Assessment Framework",
+          "short_description": "Building a Standalone Scanner for RAF to detect OWASP TOP 10 Vulnerabilities and building a plugin for IDE\u2019s",
+          "student_name": "Azhar Ahamed",
+          "code_url": "https://github.com/azharanees/GSOC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5591530720460800/"
+        },
+        {
+          "title": "Enhancements in OWASP PYTHON Honeypot",
+          "short_description": "The idea is to\n\nAdd a new Database honeypot module - as for now there are modules like ssh,ftp,https and ICS but no module for catching database...",
+          "student_name": "Dhiren Devinder Serai",
+          "code_url": "https://dhirensr.github.io/posts-output/august/27-august",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6212174868905984/"
+        },
+        {
+          "title": "OWASP OWTF - General Improvements",
+          "short_description": "The current version of the OWTF framework in spite of having all the features and functionalities to make it the tool of choice for Pentesters and...",
+          "student_name": "Ashrith N Shetty",
+          "code_url": "https://dev.to/ashrithshetty/gsoc-20-owasp-owtf-general-improvements-3kh1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6028388352917504/"
+        },
+        {
+          "title": "Add Support for GraphQL Security Testing in ZAP",
+          "short_description": "GraphQL Schemas can be very large and testing them can be a very time-consuming, manual process. Currently, there is a lack of tools that allow...",
+          "student_name": "Akshath Kothari",
+          "code_url": "https://www.zaproxy.org/blog/2020-08-28-introducing-the-graphql-add-on-for-zap/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5781284153982976/"
+        },
+        {
+          "title": "SecureTea",
+          "short_description": "One of my primary goals is to make securetea an industrially usable product. The major topics I am targeting are:\n\nUpdating GUI\nImproving IDS\nLogin...",
+          "student_name": "Kushal Majmundar",
+          "code_url": "https://github.com/kUSHAL0601/SecureTea-Project/blob/ci-cd/Final-Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6283551923765248/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5704942551040000/",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Bug Logging Tool",
+          "short_description": "Bugs or Issues are the vulnerabilities that you find on Websites or Applications when you expect some functionalities to occur but something else...",
+          "student_name": "ankit2001",
+          "code_url": "https://ankit.vercel.app/blogs/gsoc-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5459848799453184/"
+        },
+        {
+          "title": "Improvements In WebUI for Nettacker",
+          "short_description": "The current version of OWASP Nettacker needs some improvement in WebUI. I will make some changes to each page of the WebUI/API to make it look...",
+          "student_name": "gupt4j1",
+          "code_url": "https://medium.com/@amangupta566/google-summer-of-code21-final-submission-597d6f5db901",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5074200833818624/"
+        },
+        {
+          "title": "Improvise Python Honeypot",
+          "short_description": "Migrate database from mongodb to ElasticSearch to use grafana dashboard along with the python honeypot web interface. Make REST API's compatible with...",
+          "student_name": "Mrigank Anand",
+          "code_url": "https://mrigank-blog.vercel.app/blogs/final-evaluation-gsoc-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5093377393033216/"
+        },
+        {
+          "title": "Adding Out-of-band Application Testing (OAST) Support to ZAP",
+          "short_description": "OAST stands for Out-of-band Application Security Testing and is used to detect Out-Of-Band (OOB) vulnerabilities, which is not possible to do with a...",
+          "student_name": "ricekot",
+          "code_url": "https://www.zaproxy.org/blog/2021-08-23-oast-with-owasp-zap/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5121056410435584/"
+        },
+        {
+          "title": "Dark Web Exploration (for Cyber Threat Analysis) And Expansion of Data Sources",
+          "short_description": "Primary objective is to design a smart dark web crawler, capable of mapping the darkest crevices of the dark web. Secondary objectives are to expand...",
+          "student_name": "Kaushik Sivashankar",
+          "code_url": "https://gist.github.com/k4u5h1k/f01d8d277e223d39dfca9c1fee3b829c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5558182310576128/"
+        },
+        {
+          "title": "GSOC proposal for Nettacker",
+          "short_description": "Nettacker is tool which can scan and find vulnerability from the target. This have numerous modules, like recent Microsoft Exchange vulnerability...",
+          "student_name": "Divyansh Jain",
+          "code_url": "https://itsdivyanshjain.medium.com/contribution-to-owasp-nettacker-gsoc21-journey-6ec63acb1ca2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5587329166606336/"
+        },
+        {
+          "title": "Extending the features of the vulnerable code snippets",
+          "short_description": "In this project two new types of coding challenges for the vulnerable code snippets will be added, one for identifying the vulnerable lines in the...",
+          "student_name": "Ayas Behera",
+          "code_url": "https://gist.github.com/the-pro/81c42d1bfa05e1956b613c9df84a3d07",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6227200138805248/"
+        },
+        {
+          "title": "Building a Web Application Firewall that uses Machine Learning .",
+          "short_description": "The primary goal of my idea is to implement a WAF which uses Machine Learning to detect anomalies in web traffic.\nThe proposed idea\nSince the...",
+          "student_name": "Shaik Ajmal R",
+          "code_url": "https://github.com/pwned-17/GSoC-21-OWASP-SecureTea/blob/main/FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4712802589081600/"
+        },
+        {
+          "title": "SecureTea - Improvement in Features",
+          "short_description": "SecureTea Project provides a one-stop security solution for various devices, I would like to contribute the following features to the Project to make...",
+          "student_name": "Aman V. Singh",
+          "code_url": "https://gist.github.com/prince-7/ac7a8f8223825aa6ef5051ae37ebc54f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4757291168956416/"
+        },
+        {
+          "title": "Implement Retest Functionality",
+          "short_description": "ZAP is a great tool to detect vulnerabilities of different kinds in web applications and generate alerts accordingly. However, it currently lacks a...",
+          "student_name": "Pranav Saxena",
+          "code_url": "https://www.zaproxy.org/blog/2021-08-23-retest-with-zap/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6104725488926720/"
+        },
+        {
+          "title": "General Improvements",
+          "short_description": "My project mainly deals with all the small but essential enhancements which are stated in the GitHub issues section. These are what I have...",
+          "student_name": "EXTREMOPHILARUM",
+          "code_url": "https://extremophilarum.github.io/gsoc_final_submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5777487031697408/"
+        },
+        {
+          "title": "SKF support for interactive vulnerability fixing.",
+          "short_description": "To expand SFK labs impact I propose, inspired by the project authors, the addition of a component that allows the user to visualize the source code...",
+          "student_name": "Diego Porras",
+          "code_url": "https://github.com/dporr/skf-editor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5790333882859520/"
+        },
+        {
+          "title": "Login/Signup Implementation",
+          "short_description": "The current web application of OWTF has no login/signup implementation. Through this project, I want to work on developing the login and signup...",
+          "student_name": "amanpro30",
+          "code_url": "https://amanpro30.medium.com/google-summer-of-code21-final-submission-118b8c072316",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5988595747258368/"
+        },
+        {
+          "title": "DefectDojo Modern UI",
+          "short_description": "Modern User Experience For OWASP DefectDojo\nWith this proposal, I intend to shed light on the various areas which can be improved to better the user...",
+          "student_name": "Aniket Bhat",
+          "code_url": "https://github.com/DefectDojo/ui2-incubating",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6321558791913472/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/owasp-foundation/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "OWTF Web Interface Enhancement",
+          "short_description": "Create new user interface for the web application of OWASP OWTF, use SASS instead of CSS, remove the additional dependencies to make code more...",
+          "student_name": "Gaurav884",
+          "code_url": "https://docs.google.com/document/d/1-q5FCKSZpq68hRC79u-Q_P5c2o6aEQ1KZo4lJF2imxI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/aCExbUu9/"
+        },
+        {
+          "title": "Bug Logging Tool (BLT)",
+          "short_description": "This project aims to extend the existing BLT flutter app to be fully fledged to provide a seamless experience along with rewards to the users while...",
+          "student_name": "Aryan Ranjan",
+          "code_url": "https://gist.github.com/just-ary27/7f8e49a42d8ab9db895c4de82f4c419f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ShGlbTKv/"
+        },
+        {
+          "title": "Deep Learning for OWASP Maryam's NLP operations",
+          "short_description": "Implementing deep neural networks for Natural Language Processing (NLP) operations (clustering, topic extraction, and relevant search) on OWASP...",
+          "student_name": "Hatma Suryotrisongko",
+          "code_url": "https://gist.github.com/keamanansiber/fb87f236ebd231bb2b8293f427dea85a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ofbauTrx/"
+        },
+        {
+          "title": "ZAP add-on: Param Digger",
+          "short_description": "The Param Digger add-on is a parameter discovery tool that can be used to find hidden or unlinked parameters which can be potentially used for...",
+          "student_name": "Arkaprabha Chakraborty",
+          "code_url": "https://www.zaproxy.org/docs/desktop/addons/parameter-digger/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XDtc6Ero/"
+        },
+        {
+          "title": "update && upgrade OWASP PyGoat",
+          "short_description": "PyGoat is a platform for developers and testers to learn how to test applications and code securely. PyGoat is written in python and Django web...",
+          "student_name": "Rupak",
+          "code_url": "https://medium.com/@rupakbiswas2304/a376b0659433",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MhHmiD69/"
+        },
+        {
+          "title": "Python Honeypot Improvements",
+          "short_description": "Remove circular imports, integrate sentry into the project, integrate Prometheus in API's to view metrics in grafana, add a new panel in the UI to...",
+          "student_name": "Mrigank Anand",
+          "code_url": "https://medium.com/@mrigank.anand52/gsoc22-python-honeypot-owasp-bf2e54b4ca72",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BNhtyS1l/"
+        },
+        {
+          "title": "Juice Shop: Replacement for Protractor end-to-end & Frisby API test suite to Cypress",
+          "short_description": "Migration of the entire E2E test suite from the deprecated Protractor framework and the Frisby API test suite to the most widely used and community...",
+          "student_name": "ShubhamPalriwala",
+          "code_url": "https://medium.com/@shubhampalriwala/google-summer-of-code-journey-with-owasp-juice-shop-c1ca15c8e170",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2J1Xedwf/"
+        },
+        {
+          "title": "Improving SecureTea firewall, IDS, adding a persistent AntiVirus, remote monitoring and better GUI.",
+          "short_description": "OWSAP SecureTea requires a few updates to its features. These are - 1. Improvements in IDS and FireWall 2. Complete Web GUI and Remote Monitoring 3....",
+          "student_name": "DigvijayBhosale1729",
+          "code_url": "https://github.com/DigvijayBhosale1729/GSoC-22-OWASP-SecureTea-Final-Report/blob/main/FinalReport.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SeyZbhc4/"
+        },
+        {
+          "title": "Migration to Modern React with TypeScript & React Hooks",
+          "short_description": "The OWTF web application has not been updated in a while and is missing some of the modern React advancements. Through this project, I want to work...",
+          "student_name": "amanpro30",
+          "code_url": "https://github.com/owtf/owtf/pulls/amanpro30",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MPwtKjQ1/"
+        },
+        {
+          "title": "Reconstruction of DSOMM dashboard from scratch using Angular",
+          "short_description": "The OWASP DevSecOps Maturity Model is used to assess and present the devsecops maturity of an organization. It consists of an application and...",
+          "student_name": "Aryan Prasad",
+          "code_url": "https://github.com/wurstbrot/DevSecOps-MaturityModel/pull/149",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QfpbdCd7/"
+        },
+        {
+          "title": "SKF",
+          "short_description": "The idea is to create a Video Editor, a web-based application that takes markdown files, PDFs or any asset file as an input and separates those...",
+          "student_name": "Varendra007",
+          "code_url": "https://dev.to/varendra007/final-report-video-editor-application-gsoc22owasp-3oc3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EbdTUjTt/"
+        },
+        {
+          "title": "Nettacker",
+          "short_description": "Looking forward to add new modules and improvise the module structure, redesign reports which having different format support, moving Sqlalchemy to...",
+          "student_name": "Divyansh Jain",
+          "code_url": "https://itsdivyanshjain.medium.com/contribution-to-owasp-nettacker-gsoc22-journey-e94fe055331f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EAI1HT9v/"
+        },
+        {
+          "title": "Maryam: Deep Neural Networks for Clustering, Topic Modeling and Similar Document retrieval [Iris]",
+          "short_description": "To start with OWASP Maryam, it is a modular open-source framework based on OSINT (Open-source intelligence) designed specifically for robust data...",
+          "student_name": "Harsh Malani",
+          "code_url": "https://medium.com/@harsh13092001/embedding-myself-to-generate-custom-embeddings-model-gsoc22-f47cf1d599e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/km7C8pfu/"
+        },
+        {
+          "title": "Machine Learning Plugin Integration",
+          "short_description": "With the increase in use of technology and the internet, the risks associated with the internet are also increasing at a very high rate. Hence, it is...",
+          "student_name": "Deepshikha Sinha",
+          "code_url": "https://drive.google.com/file/d/13nhiEtFhK1ThmZaDQan_XSf3MoTUyA9G/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/g1kTwy03/"
+        },
+        {
+          "title": "Project Seaweed (CVE\u2019d)",
+          "short_description": "Whenever a new CVE is released, security solutions such as firewalls need to test if their product is able to detect the attack or lets it pass...",
+          "student_name": "Vandan Rohatgi",
+          "code_url": "https://github.com/coreruleset/project-seaweed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/REtcIxkX/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/owasp-foundation",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "ZAP: Browser Recorder",
+          "short_description": "This project aims to address the inconvenience users face when testing websites that require pre-task activities, such as logging in. The proposed...",
+          "student_name": "Aryan Gupta",
+          "code_url": "https://www.zaproxy.org/blog/2023-09-11-browser-recorder/",
+          "proposal_id": "CIc38mQi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lx6XL1Rd"
+        },
+        {
+          "title": "CRS #3: WAF Performance Testing Framework",
+          "short_description": "Performance evaluation is one of the concerns about using ModSecurity and Core Rule Sets. More specifically, people take different approaches to...",
+          "student_name": "Dexter Chang",
+          "code_url": "https://github.com/coreruleset/rules-performance-tests",
+          "proposal_id": "YnaI5DOl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/jdv2MaJR"
+        },
+        {
+          "title": "OWTF Typescript Migration and  Web Interface Enhancement.",
+          "short_description": "The proposal's objective is to complete the typescript migration of the OWTF, add new components to the front-end, fix errors in the authentication...",
+          "student_name": "Gaurav884",
+          "code_url": "https://docs.google.com/document/d/1TjXUXI2sF1VvtL1wZ_fkGAPZFpkZcpSmTAuQyS07Yfk/edit",
+          "proposal_id": "xqHk8Cim",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/onhHdvJ5"
+        },
+        {
+          "title": "Improving OWASP wrongsecrets infrastructure",
+          "short_description": "The wrongsecrets project is structured in two modes the standalone app and the CTF mode. Here we will focus on OWASP/wrongsecrets-ctf-party and how...",
+          "student_name": "Osama Magdy",
+          "code_url": "https://github.com/OWASP/wrongsecrets-ctf-party/pulls?q=is%3Apr+author%3Aosamamagdy",
+          "proposal_id": "uk13W5Fl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KJ0bkX96"
+        },
+        {
+          "title": "Companion Guide Tech Stack",
+          "short_description": "The problem here is to migrate from gitbook to some other tool which provides us with the feature of generating website from some easy to use markup...",
+          "student_name": "Parth Nanda",
+          "code_url": "https://gist.github.com/parthn2/cc90186e96f4bf3de082526a279c25c8",
+          "proposal_id": "qrboYYPo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/h2der3Mf"
+        },
+        {
+          "title": "Deployment Of OWTF",
+          "short_description": "I aim to deploy OWTF on AWS for easier use by users and to ease its development for developers. Also, I will improve its Docker installation, which I...",
+          "student_name": "ph1ne4s",
+          "code_url": "https://docs.google.com/document/d/1E8thWt7waCQ1ca8HMeo8RSOKebTNzlN7dgvnuFuCFas/edit?usp=sharing",
+          "proposal_id": "D32BWy1I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dgRHwWxt"
+        },
+        {
+          "title": "DSOMM",
+          "short_description": "1. Adding Filters in the Matrix View: Updating the YAML file, and adding the tags title in task-description. After this, adding chip style filter...",
+          "student_name": "Prakarsh Gupta",
+          "code_url": "https://gist.github.com/ptechofficial/23e423e8f50d8628b1f24046aebc0c4d",
+          "proposal_id": "yXgLigS3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yquTMcaq"
+        },
+        {
+          "title": "Hacking the Blockchain: Building Web3 Challenges for OWASP Juice Shop",
+          "short_description": "Juice Shop is an intentionally vulnerable web application designed for practicing security testing and improving security skills. Blockchain...",
+          "student_name": "Rishabh Keshan",
+          "code_url": "https://medium.com/@rishabhkeshan/google-summer-of-code-2023-building-web3-challenges-for-owasp-juice-shop-c821efcba161",
+          "proposal_id": "hxMLIg2k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/yabiWLkF"
+        },
+        {
+          "title": "Implementing RateLimit Plugin for Coraza WAF",
+          "short_description": "Rate limiting is a technique used by computer systems to control the rate of traffic sent or received by a particular entity (such as an application...",
+          "student_name": "Shivansh Verma",
+          "code_url": "https://gist.github.com/VermaShivansh/fc973a635f81c452acc6b922e735f49a",
+          "proposal_id": "8c12uCTI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cArjq2A4"
+        },
+        {
+          "title": "Bug Logging Tool",
+          "short_description": "The primary objective of this proposal is to: 1. Enhance the user interface for new designs in Tailwind, thereby optimizing the user experience. In...",
+          "student_name": "Swapnil Shinde",
+          "code_url": "https://gist.github.com/AtmegaBuzz/512a85827b5cc993e35c274dcbada669",
+          "proposal_id": "4pOQeDGj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/FrMdpNvR"
+        },
+        {
+          "title": "Postman Add-on for ZAP",
+          "short_description": "The aim of this project is to develop an add-on for the OWASP ZAP that enables the import of Postman collections into ZAP. Currently, ZAP supports...",
+          "student_name": "Vitika Soni",
+          "code_url": "https://www.zaproxy.org/blog/2023-09-25-postman-add-on/",
+          "proposal_id": "3XBRf7K1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OlBxaE5X"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/owasp-foundation/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Blockchain Crypto Development and Wielding the Power of AI",
+          "short_description": "\"Blockchain Crypto Development and Wielding the Power of AI\" is a Google Summer of Code 2024 project with OWASP-Foundations that aims to integrate...",
+          "student_name": "Sarthak0911",
+          "code_url": "https://medium.com/@sarthak5598sharma/gsoc-unveiled-how-i-conquered-the-challenges-and-whats-next-1b16919dbed6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6PxDapOA/"
+        },
+        {
+          "title": "Add a secureCodeBox CLI (scbctl)",
+          "short_description": "The SecureCodeBox (SCB) project provides a powerful framework for automated security testing. Users currently face challenges in quickly initiating...",
+          "student_name": "Thibaut Batale",
+          "code_url": "https://www.securecodebox.io/blog/2024/08/20/google-summer-of-code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vFuhwP9m/"
+        },
+        {
+          "title": "add threats by element for STRIDE/LINDDUN/PLOT4ai/CIA/DIE",
+          "short_description": "Reinstating automated threat suggestion per element was a feature in the threat dragon threat model designing system. Hence, upon migration to Vue.JS...",
+          "student_name": "Mohamed El-Bohy",
+          "code_url": "https://gist.github.com/mohamedselbohy/75529092385cdc0a8d7b158fbb89811e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IzYzpaUN/"
+        },
+        {
+          "title": "OWASP OWTF - Comprehensive Upgrade For Modern Web Penetration Testing",
+          "short_description": "The Offensive Web Testing Framework (OWTF) is a tool that allows penetration testers to quickly automate security tests that follows standards like...",
+          "student_name": "Vinh Pham Ngoc Thanh",
+          "code_url": "https://github.com/VinhPham2106/vinhchilling/blob/main/data/blog/project_blogs/gsoc24.mdx",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tN4HyoGJ/"
+        },
+        {
+          "title": "Implementing new Features to Bug Logging Tool (BLT)",
+          "short_description": "The goals of the Flutter implementation of BLT (Bug Logging Tool) are to enhance the user interface, provide visual representations and implement...",
+          "student_name": "Uttkarsh Raj",
+          "code_url": "https://uttkarsh.hashnode.dev/gsoc-2024-from-proposals-to-prs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OTxPIN2Y/"
+        },
+        {
+          "title": "Adding important functionality to Nettacker",
+          "short_description": "The proposal aims to add two new functionalities to the project Nettacker to increment the effectiveness of the tool and also enhance the user\u2019s...",
+          "student_name": "Akshay Behl",
+          "code_url": "https://medium.com/@akshaybehl231/diving-into-open-source-owasp-nettacker-gsoc24-e73114f37a11",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sdE4AONL/"
+        },
+        {
+          "title": "Enhancing OWASP's BLT with AI Capabilities",
+          "short_description": "In an era where cybersecurity threats evolve rapidly, the Open Web Application Security Project (OWASP) Bug Logging Tool (BLT) serves as a crucial...",
+          "student_name": "Jisan",
+          "code_url": "https://medium.com/@altafurrahaman3/gsoc-2024-journey-empowering-owasp-with-ai-and-enhancements-49d09b2e8a14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yWQfv8dp/"
+        },
+        {
+          "title": "Design & implement deployment architecture for OWTF",
+          "short_description": "The proposal's objective is to design and implement a deployment architecture for OWTF, with a particular focus on converting the monolithic...",
+          "student_name": "Pratham18",
+          "code_url": "https://docs.google.com/document/d/1xXAIP64PBozVpumm3HGI0KC-8q0YwjmLKS24qC7p6T0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4m4a3ZKE/"
+        },
+        {
+          "title": "Design & implement deployment architecture",
+          "short_description": "In the rapidly evolving world of software development, efficient and reliable deployment architecture is crucial. The goal of this project is to...",
+          "student_name": "Rahul-Surwade",
+          "code_url": "https://github.com/owtf/owtf/tree/develop/infra",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yOXhJVae/"
+        },
+        {
+          "title": "BLT Website Design Enhancement",
+          "short_description": "BLT website lags behind in modern design as compared to other websites. This proposal aims to enhance the current design of BLT website by completely...",
+          "student_name": "BishalDas",
+          "code_url": "https://bishaldas.hashnode.dev/gsoc-2024-a-summer-of-learning-coding-and-growth",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/AEKuCcIK/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/owasp-foundation",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Owasp Nest API and Schema Development",
+          "short_description": "The OWASP Nest API and Schema Development project aims to enhance OWASP Nest API infrastructure by migrating to Django Ninja for optimized REST API...",
+          "student_name": "abhayymishraa",
+          "code_url": null,
+          "proposal_id": "VbqTHGeB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vka6VICK"
+        },
+        {
+          "title": "Improving Recon Scan and Optimising Task Handling",
+          "short_description": "This project aims to improve the reconnaissance scan features of Nettacker while also addressing the issues caused by high parallelization....",
+          "student_name": "Achintya Jai",
+          "code_url": null,
+          "proposal_id": "Uj8esnfG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dPsZWqOg"
+        },
+        {
+          "title": "MultiJuicer as a CTF Platform",
+          "short_description": "MultiJuicer currently provides multi-instance Juice Shop deployments but lacks essential features for a dedicated CTF platform. The existing...",
+          "student_name": "Ayushraj Parihar",
+          "code_url": null,
+          "proposal_id": "Lgm5r0U6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/w06DWrdP"
+        },
+        {
+          "title": "OWASP NestBot as an AI agent/assistant",
+          "short_description": "OWASP's Nest bot currently relies on fixed commands, which is not able to answer general user questions or project related questions due to its...",
+          "student_name": "Dishant Miyani",
+          "code_url": null,
+          "proposal_id": "19SRjksZ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dfCvsOOU"
+        },
+        {
+          "title": "Pygoat v3: Architecture and Educational Experience Redefined",
+          "short_description": "This project enhances OWASP PyGoat, a vulnerable Django-based web app used to teach secure coding, by improving its architecture, usability, and...",
+          "student_name": "Garvita Kataria",
+          "code_url": null,
+          "proposal_id": "XnzqBWwO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YFAVTBLl"
+        },
+        {
+          "title": "Juice Shop side-project rennovation",
+          "short_description": "The Juice Shop CTF Tool, currently made with vanilla JavaScript, needs to be upgraded to TypeScript to align with the main project for easier...",
+          "student_name": "hxrshxz",
+          "code_url": null,
+          "proposal_id": "SSMTr3ix",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rzlkFqYj"
+        },
+        {
+          "title": "AI-Driven Blockchain Rewards System and Gamification (Ordinals and Solana)",
+          "short_description": "The OWASP Bug Logging Tool (BLT) is adopting a gamified, AI-powered blockchain rewards system to incentivize open-source security contributions. This...",
+          "student_name": "Krrish Sehgal",
+          "code_url": null,
+          "proposal_id": "2HKIDoJG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aa32KeGu"
+        },
+        {
+          "title": "BugSim(Bug Simulator and Learning)",
+          "short_description": "BugSim (Bug Simulator and Learning) is an advanced bug simulation platform integrated into OWASP BLT. It helps security researchers, ethical hackers,...",
+          "student_name": "Lucky Negi",
+          "code_url": null,
+          "proposal_id": "oVSlRV54",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DygR4afn"
+        },
+        {
+          "title": "OWTF MiTM Proxy Modernization",
+          "short_description": "OWTF's built-in MiTM proxy was developed nearly a decade ago and is currently outdated, limited in functionality, and hard to maintain. This project...",
+          "student_name": "Naveen Prakaasham Vairaprakasam",
+          "code_url": null,
+          "proposal_id": "L4LNXhDh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QSMKm9KO"
+        },
+        {
+          "title": "Optimizing OpenCRE: AI-Driven Gap Analysis, Frontend Enhancement and Graph Debugging for scalability",
+          "short_description": "This project enhances OpenCRE\u2019s cybersecurity compliance platform by addressing scalability, usability, and transparency gaps. The resource-intensive...",
+          "student_name": "Parth Sohaney",
+          "code_url": null,
+          "proposal_id": "YXUGlzUQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vp6emy5M"
+        },
+        {
+          "title": "Improve Kubernetes Deployment and Introduce Azure Support for OWTF",
+          "short_description": "OWASP OWTF supports use of terraform to deploy OWTF on AWS and manifests for Kubernetes. To improve its capabilities, I will introduce support of...",
+          "student_name": "RahulSurwade",
+          "code_url": null,
+          "proposal_id": "OLUBFuht",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LIP7GtyP"
+        },
+        {
+          "title": "OWASP Contribution Hub Development",
+          "short_description": "The Contribution Hub will be a platform that helps newcomers find mentors for open source projects. The system will let users log in with GitHub,...",
+          "student_name": "Rajgupta36",
+          "code_url": null,
+          "proposal_id": "qzdXxdjL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pZB3XGpa"
+        },
+        {
+          "title": "Organization Dashboard \u2013 Enhanced Vulnerability & Bug Management",
+          "short_description": "Security teams and open-source organizations often struggle with managing vulnerability reports, bug bounties, and contributor performance...",
+          "student_name": "Rinkit Adhana",
+          "code_url": null,
+          "proposal_id": "AiAaLGBY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2awtU4Oi"
+        },
+        {
+          "title": "AI-Powered Code Review & Smart Prioritization System for Maintainers",
+          "short_description": "This project aims to build an AI-powered GitHub assistant that helps open-source maintainers review code, detect security issues, and prioritize...",
+          "student_name": "Sahil Dhillon",
+          "code_url": null,
+          "proposal_id": "hcu6YlCu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tU5Ws4Nh"
+        },
+        {
+          "title": "Optimizing Graph Database Performance for Efficient Gap Analysis in OWASP OpenCRE",
+          "short_description": "The OpenCRE project enables connections between security standards (like NIST, OWASP, etc.) and security-relevant knowledge (like CWE, CAPEC)....",
+          "student_name": "Shasanka",
+          "code_url": null,
+          "proposal_id": "OpiU7UU1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KDpsEyhP"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://owasp.org/slack/invite",
+  "contact_email": "mailto:gsoc-admins@owasp.org",
+  "mailing_list": "https://groups.google.com/g/owasp-gsoc?pli=1",
+  "ideas_url": "https://owasp.org/www-community/initiatives/gsoc/gsoc2025ideas",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/owasp",
+  "blog_url": "https://owasp.org"
+}

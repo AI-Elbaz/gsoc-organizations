@@ -1,0 +1,75 @@
+{
+  "name": "GNU Mailman Project",
+  "url": "https://wiki.list.org/DEV/",
+  "image_url": "https://lh3.googleusercontent.com/8gOOwiVhQkzFSsRJb_BSDvA2qAkWZg2hQmakhdflDM130XndULaRDHLDkO08mP9djMmO-zFRAzxy09lrNdP4bwbCYG7IjVm5ovN5SB52etU",
+  "image_background_color": "#ffffff",
+  "category": "Social and communication",
+  "topics": [
+    "communication",
+    "mailing lists",
+    "email",
+    "web",
+    "mail"
+  ],
+  "technologies": [
+    "python",
+    "django",
+    "email",
+    "python 3",
+    "rest",
+    "restful api",
+    "sqlalchemy"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5729825406844928/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Proposal for project : Preset List Settings Template(aka Styles)",
+          "short_description": "This project will tackle the problems faced by the users while creating a new list or changing the settings of the existing lists. This project will...",
+          "student_name": "Harshit Bansal",
+          "code_url": "http://contributingtofoss.blogspot.in/2016/08/wrap-up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6460436924858368/"
+        },
+        {
+          "title": "Implement module to process ARC headers",
+          "short_description": "With the adoption of stricter email authentication policies to curb spam, intermediate mail handlers like mailing lists suffer potential problems of...",
+          "student_name": "adityadivekar",
+          "code_url": "http://summerofprotocols.blogspot.in/2016/08/authenticated-received-chain-protocol.html\r\n",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4980126248861696/"
+        },
+        {
+          "title": "Message Queue based Archiver",
+          "short_description": "As part of the project, I intend to develop a message queue based system pluggable to the Mailman core archiving interface(IArchiver) which will...",
+          "student_name": "Anirudh Dahiya",
+          "code_url": "http://codefullofsummer.blogspot.in/2016/08/gsoc-work-submission-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6197654182690816/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5170270925488128/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Add support for bounce processing in core",
+          "short_description": "This proposal\u2019s main goal is to add a concrete and fully functional form of implementation/procedure for processing of various messages and taking...",
+          "student_name": "berserker1",
+          "code_url": "https://berserker1.github.io/final-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5383297545273344/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5211080233582592/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202021#Contacting_uss",
+  "contact_email": "mailto:mailman-developers@python.org",
+  "mailing_list": "https://mail.python.org/mailman3/lists/mailman-developers@python.org",
+  "ideas_url": "",
+  "guide_url": ""
+}

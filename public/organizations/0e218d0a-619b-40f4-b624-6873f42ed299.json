@@ -1,0 +1,56 @@
+{
+  "name": "CBMI@UTHSC",
+  "url": "https://cbmi.lab.uthsc.edu/people-2/people/",
+  "image_url": "https://lh3.googleusercontent.com/UDjaIURrpVtpk7YnU7UdD7cJ12YQR7V1FP-g7QfxhuqwAB3aV4xRIixeKgR3OATLMVJwndX6r2ANXdiUsNJJS7NxvVs5tk0",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "machine learning",
+    "deep learning",
+    "web applications",
+    "sepsis prediction",
+    "sepsis detection"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "flask",
+    "tensorflow",
+    "reactjs"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6344880593305600/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Fever prediction model using high-frequency real-time sensor data",
+          "short_description": "Machine Learning has the ability to gain information, process it and give a well-defined output to the end-user. Machine Learning algorithms can...",
+          "student_name": "Aditya Singh-2",
+          "code_url": "https://github.com/cbmi-uthsc/feverPrediction",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6386161805688832/"
+        },
+        {
+          "title": "Deep learning model for sepsis prediction using high-frequency data",
+          "short_description": "Sepsis is a potentially life-threatening condition caused by the body's response to an infection. The body normally releases chemicals into the...",
+          "student_name": "Ronet Swaminathan",
+          "code_url": "https://github.com/cbmi-uthsc/sepsisPrediction",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5325493325266944/"
+        },
+        {
+          "title": "Integrating genomics and high-frequency physiologic data for sepsis detection",
+          "short_description": "In this project we intend to integrate publicly available -omic and clinical datasets using natural language processing techniques. Combining...",
+          "student_name": "Shayantan Banerjee",
+          "code_url": "https://docs.google.com/document/d/1zjSUkU-EBZzyDU8KSKyaSBsTRT8EOovo_lDXFQzBilI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5849064552267776/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:cbmiuthsc@gmail.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/cbmiuthsc-gsoc/new",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/cbmi_uthsc"
+}

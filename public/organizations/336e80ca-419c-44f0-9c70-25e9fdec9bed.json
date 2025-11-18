@@ -1,0 +1,276 @@
+{
+  "name": "Open Genome Informatics",
+  "url": "http://gmod.org/wiki/GSoC",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-genome-informatics/p6nhalhjwargwd5s-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "databases",
+    "bioinformatics",
+    "genome",
+    "computational biology",
+    "data visualisation",
+    "data mining",
+    "genomics",
+    "biology",
+    "data and databases",
+    "cloud",
+    "data discovery"
+  ],
+  "technologies": [
+    "python",
+    "java",
+    "node.js",
+    "gwt",
+    "html",
+    "javascript",
+    "neo4j",
+    "react",
+    "r-project",
+    "mysql",
+    "graph",
+    "angular"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5362834141609984/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Interactive visualisation framework for genome mutations in gene and protein networks",
+          "short_description": "I have wrote a set of thoughts expanding the original proposal \"Interactive visualisation framework for genome mutations in gene and protein...",
+          "student_name": "krassowski",
+          "code_url": "https://gist.github.com/krassowski/2dd02c4d7473251089521d810fe9d9ec",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6640774816989184/"
+        },
+        {
+          "title": "Using Go-Docker to enhance Galaxy functionalities",
+          "short_description": "Go-Docker is a cluster management tool using Docker as execution/isolation system. It can be seen like Sun Grid Engine/Torque/\u2026 Using Bioinformatics...",
+          "student_name": "Varun Shankar S",
+          "code_url": "https://github.com/varunshankar/galaxy-godocker",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5045382371344384/"
+        },
+        {
+          "title": "Work with the Dockstore Team and the GA4GH to Enable Cross Docker Repository Sharing",
+          "short_description": "With the development of software container technology, developers can manage and deploy their software effectively. The software can start up and run...",
+          "student_name": "ulim",
+          "code_url": "https://docs.google.com/document/d/1suJVO5VGXn3sFI3Rk88uU4vbLJHH5ZpTxUSzZDcfO8M/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5543076202283008/"
+        },
+        {
+          "title": "Lightweight chat plugin for the JBrowse genome browser",
+          "short_description": "This project will deliver a lightweight socializing plugin for JBrowse using OAuth2 and the Faye pub/sub framework. Users will be able to chat, share...",
+          "student_name": "Pubudu Dodangoda",
+          "code_url": "http://pubudusoc16.blogspot.com/2016/08/project-wrapup.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6486825203924992/"
+        },
+        {
+          "title": "Biological Graph Visualizations",
+          "short_description": "The proposed project deals with the development of two Drupal modules,  for storage and visualizations of Complex Biological Graph. Both the proposed...",
+          "student_name": "Samyadeep Basu",
+          "code_url": "http://samyadeep.weebly.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5902985066446848/"
+        },
+        {
+          "title": "Visualisation for BLAST results",
+          "short_description": "Build a Standalone library / tool to visualise the BLAST results. This tool will be build on Ruby as command line tool.\nTypes of visualisation\n...",
+          "student_name": "aniarya",
+          "code_url": "http://www.hiten.io/blog/articles/gsoc-16/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5151519871598592/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4997812655751168/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "InterMine Registry",
+          "short_description": "The InterMine Registry will allow users to obtain and search, by consuming a RESTful API, basic information about existing InterMine instances. This...",
+          "student_name": "Leonardo Kuffo",
+          "code_url": "https://github.com/intermine/intermine-registry",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6434386606030848/"
+        },
+        {
+          "title": "Development of a Statistical Framework to Identify Similar Nodes in InterMine",
+          "short_description": "InterMine is a large graph containing entities(Genes, Transcription Factors etc. ) with important relationships between them. The main aim of the...",
+          "student_name": "Samyadeep Basu",
+          "code_url": "https://samyadeepblog.wordpress.com/summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6703800509267968/"
+        },
+        {
+          "title": "Prototype a new RESTful API querying Neo4j database",
+          "short_description": "Description\nInterMine is an open source data warehouse which is used to store complex biological data. It is currently using PostgreSQL as the...",
+          "student_name": "yasharmaster",
+          "code_url": "https://gist.github.com/yasharmaster/cfa18e7bac00d7ed0a93d74f4946efc7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5484312191303680/"
+        },
+        {
+          "title": "Stand-alone Reactome server in a Docker image",
+          "short_description": "The goal of this project is to produce a Docker image that contains everything that an end-user needs to run Reactome on his/her own workstation....",
+          "student_name": "Ayushya Chitransh",
+          "code_url": "https://ayushyachitransh.wordpress.com/gsoc-2017-reactome-container/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5551066452066304/"
+        },
+        {
+          "title": "Expansion of functionality and creation of detailed and exciting bioinformatics R demos for InterMineR package",
+          "short_description": "InterMine constitutes a data warehouse framework, which provides the ability to access, retrieve and analyze rapidly a variety of biological data...",
+          "student_name": "Konstantinos Kyritsis",
+          "code_url": "https://intermineorg.wordpress.com/2017/08/18/interminer-package/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5554092793397248/"
+        },
+        {
+          "title": "iOS InterMine app",
+          "short_description": "InterMine has an Android application and is looking to make it available on iOS as well. Native iOS application will allow researchers to have access...",
+          "student_name": "Nadezda Yudina",
+          "code_url": "https://joystate.github.io/intermine-ios/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5801530422722560/"
+        },
+        {
+          "title": "Performance and user-centric upgrade to Afra",
+          "short_description": "The primary goal of the project is to upgrade Afra's annotation editing code, to provide it performance upgrade. Afra's annotation editor is built...",
+          "student_name": "aniarya82",
+          "code_url": "http://www.hiten.io/blog/articles/gsoc-17/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5965290546397184/"
+        },
+        {
+          "title": "Pan-Genome Module for the Genome Context Viewer",
+          "short_description": "With the number of sequenced and annotated genomes continuously increasing, there is a need for new algorithms and tools for comparative analyses...",
+          "student_name": "Alan Cleary",
+          "code_url": "https://docs.google.com/document/d/13lIITV_ND3Dj9pjvx5Q59045iSMOfF2BPZIKJQvy4RA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6280625434656768/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5089985813807104/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "JBrowse 2 - Ensembl VEP integration",
+          "short_description": "This project aims to integrate Ensembl VEP into the developing JBrowse 2. For this to happen, every component feature of this project must be...",
+          "student_name": "Andra Vasilache",
+          "code_url": "https://github.com/AndraVasilache/jbrowse-plugin-ensembl-vep",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5639826990170112/"
+        },
+        {
+          "title": "Query Reactome Data in R",
+          "short_description": "R has been extensively used in bioinformatics research. However, there is still no direct way to obtain Reactome\u2019s information in R. This project...",
+          "student_name": "Chi Lam Poon",
+          "code_url": "https://gist.github.com/chilampoon/3e517aa94c8c07fa42db2ea5dea0dc5b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6246717881581568/"
+        },
+        {
+          "title": "Phylogenetic tree viewer for JBrowse 2",
+          "short_description": "It is a Phylogenetic tree viewer for the JBrowse 2 in the most dynamic way possible. With the help of Reactjs, it will be much more efficient than...",
+          "student_name": "Shreya Srivastava",
+          "code_url": "https://github.com/n3m3sis00/phylo-react/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4772437842984960/"
+        },
+        {
+          "title": "GraphQL Interface For Querying Reactome Data",
+          "short_description": "Reactome currently uses a REST-based API that allows end-users to obtain specific data from a set of predefined end-points. To provide better...",
+          "student_name": "Pratik Lodha",
+          "code_url": "https://github.com/pratiklodha/graphql",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6523044064919552/"
+        },
+        {
+          "title": "Building functional and performant DataTable for WormBase",
+          "short_description": "WormBase is a comprehensive research knowledge base on the genetics, genomics\nand biology of C. elegans and related nematodes. Biologists access...",
+          "student_name": "Hitonari Sato",
+          "code_url": "https://docs.google.com/document/d/1KL4s2cAmee7AXvOjumW4QSjA1eVLyQah5cKnR3nleCw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5789267055345664/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5660767872876544/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Reactome Pathway Embeddings",
+          "short_description": "In the last several years, deep learning became widely used in various different fields, ranging from object detection and face recognition to speech...",
+          "student_name": "Lovro Vrcek",
+          "code_url": "https://github.com/reactome/reactome_gnn",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5753303614357504/"
+        },
+        {
+          "title": "Visualization Of Systems-Level Gene Annotation  (UI-Side)",
+          "short_description": "This GSoC project proposes to create the UI side of a network-based hierarchical viewer to visualize gene annotation at various levels of systems...",
+          "student_name": "Lokesh Rana",
+          "code_url": "https://gist.github.com/lokeshrana/f6f31df634e0ed2b28ea971e1c7f2efe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5403262068457472/"
+        },
+        {
+          "title": "Interactive viewer for systems-biology variant interpretation (Server-side)",
+          "short_description": "Genomic assays generate lists of genes or proteins statistically associated with a condition, such as being altered in disease. Genes need to be...",
+          "student_name": "Rishabh kohale",
+          "code_url": "https://gist.github.com/r-kohale9/d9e98ba75d8b09cc042c1c8ddfaa7a24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4975840344932352/"
+        },
+        {
+          "title": "Bioinformatics with Jupyter Notebooks",
+          "short_description": "For an open-source tool for bioinformatics like WormBase, it is essential to have thorough documentation of features and use cases. As part of this...",
+          "student_name": "Prajna",
+          "code_url": "https://gist.github.com/ph09/487959b0a0fa2db412d4d076ce536060",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5074537250553856/"
+        },
+        {
+          "title": "Authentication and Authorization Service for the Alliance of Genome Resources",
+          "short_description": "The Alliance of Genome Resources is a consortium of 6 model organism databases (MODs) and the Gene Ontology (GO) Consortium whose goal is to provide...",
+          "student_name": "Aoji Xie",
+          "code_url": "https://docs.google.com/document/d/18jYDOYAayytGEFLx4qT8CnvDaM4NcEPLB2MLVV0uD50/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4717036051103744/"
+        },
+        {
+          "title": "Single-Cell pathway annotation pipeline",
+          "short_description": "Single-Cell sequencing is a new methodology that provides high-resolution data to understand individual cells. Applied to RNA sequencing, it can...",
+          "student_name": "Joao Luiz",
+          "code_url": "https://github.com/reactome/descartes_rpa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6004582722830336/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open-genome-informatics/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Community Access Portal to Reactome Archive",
+          "short_description": "In Reactome, once the new data is released, preceding data will be archived in an AWS S3 bucket. Now they don't have a web interface for users to...",
+          "student_name": "Asanka",
+          "code_url": "https://github.com/Asanka25/GSOC2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0VT60ELS/"
+        },
+        {
+          "title": "Implementing and Visualizing MP-BioPath tool in the FI Viz Cytoscape Plugin",
+          "short_description": "This project entails the creation of the MP-BioPath tool into the FI Viz Cytoscape Plugin. Biological pathways model the set of actions that...",
+          "student_name": "ModeEric",
+          "code_url": "https://github.com/ModeEric/MPBiopathDiagram",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/je40nNhz/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/open-genome-informatics",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improved Continuous Integration for Reactome",
+          "short_description": "Currently, at the Ontario Institute of Cancer Research, Jenkins is being used to run the release pipelines and this project proposes moving the...",
+          "student_name": "sskrishn",
+          "code_url": "https://docs.google.com/document/d/1-XuX4gTXukKFAE-t_H5ZYC2auqsg7EO3Tq9jQIEACZs/edit",
+          "proposal_id": "Dl7u0BLN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/FNZtunYS"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://irc.lc/freenode/genomeinformatics/",
+  "contact_email": "mailto: help@gmod.org",
+  "mailing_list": "http://groups.google.com/group/genome-informatics",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/gmodproject",
+  "blog_url": "http://gmod.org/wiki/GMOD_News"
+}

@@ -1,0 +1,536 @@
+{
+  "name": "MetaBrainz Foundation Inc",
+  "url": "https://metabrainz.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/metabrainz-foundation-inc/m7lax42edddowwnl-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "music",
+    "metadata",
+    "big data",
+    "books",
+    "open data",
+    "community",
+    "data",
+    "databases",
+    "hosting",
+    "Music recommendation",
+    "music social network"
+  ],
+  "technologies": [
+    "python",
+    "postgresql",
+    "javascript",
+    "perl",
+    "postgres",
+    "bigquery",
+    "react",
+    "solr",
+    "spark",
+    "rust",
+    "machine learning"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4969202133762048/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Gamification of submission system",
+          "short_description": "I propose to implement one of the supplied ideas and create a gamification system that will encourage users to contribute content to the project and...",
+          "student_name": "Quora",
+          "code_url": "https://blog.musicbrainz.org/2016/08/21/bookbrainz-gsoc-gamification-system/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6379262042963968/"
+        },
+        {
+          "title": "ListenBrainz: A submission API compatible with Last.fm scrobblers",
+          "short_description": "A submission API compatible with Last.fm scrobblers\nRight now ListenBrainz has its own API documented at...",
+          "student_name": "armalcolite",
+          "code_url": "https://blog.musicbrainz.org/2016/08/23/gsoc-16-listenbrainz-fun/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6382388510720000/"
+        },
+        {
+          "title": "Show tag search results in Picard",
+          "short_description": "Currently Picard relies on web browser for searching tags manually. With this project, I aim to accomplish these two tasks:\n\nDisplay search results...",
+          "student_name": "rahulr",
+          "code_url": "https://blog.musicbrainz.org/2016/08/22/summer-of-code-16-with-picard/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5788515866509312/"
+        },
+        {
+          "title": "A Job Running Client for AcousticBrainz",
+          "short_description": "Allowing users to run jobs on their own machines and submit the result.",
+          "student_name": "Kartik Gupta",
+          "code_url": "https://community.metabrainz.org/t/my-gsoc-experience-with-acousticbrainz/115309",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6267449280299008/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5723792051535872/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Directly accessing MusicBrainz database in CritiqueBrainz",
+          "short_description": "Presently, CritiqueBrainz uses python-musicbrainzngs to show search results and fetch information of selected entities. python-musicbrainzngs then...",
+          "student_name": "Suyash Garg",
+          "code_url": "https://blog.musicbrainz.org/2017/08/28/gsoc-2017-directly-accessing-musicbrainz-db-in-critiquebrainz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5645658006487040/"
+        },
+        {
+          "title": "Add statistics and graphs to ListenBrainz",
+          "short_description": "ListenBrainz has recently undergone a big overhaul and is now getting ready to stream its data to Google BigQuery for analysis and statistics...",
+          "student_name": "Param Singh",
+          "code_url": "https://blog.musicbrainz.org/?p=6546",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5654870979772416/"
+        },
+        {
+          "title": "Search for Entities",
+          "short_description": "Search function for all entities (similar with the current edit search)",
+          "student_name": "Timo Martikainen",
+          "code_url": "http://users.utu.fi/ttmart/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6185857249705984/"
+        },
+        {
+          "title": "Picard v2.0",
+          "short_description": "Picard is going to be receiving a complete make-over code/feature/UI wise for v2.0. A part of the v2.0 plans is porting the existing code to...",
+          "student_name": "samj1912",
+          "code_url": "https://sambhavkothari.blogspot.in/2017/08/500-commits-of-summer-my-story-of-foss.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6524665476415488/"
+        },
+        {
+          "title": "Add Rating System in CritiqueBrainz",
+          "short_description": "Rating facility is a fundamental part of any review system. So, the idea of the project is to add the rating feature to the present review system in...",
+          "student_name": "psolanki",
+          "code_url": "https://blog.musicbrainz.org/?p=6428",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4845590961717248/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5222617418039296/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Developing infrastructure for importing data into BookBrainz",
+          "short_description": "This proposal is aimed at developing infrastructure for importing data into the BookBrainz database from third party sources, while at the same time...",
+          "student_name": "bukwurm",
+          "code_url": "https://blog.musicbrainz.org/2018/08/13/gsoc-2018-developing-infrastructure-for-importing-data-into-bookbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5663055174172672/"
+        },
+        {
+          "title": "A way to associate listens with MBIDs",
+          "short_description": "Currently Listenbrainz uses MSIDs (Messybrainz-ID) for retrieving useful user stats (e.g. user listens). Now ListenBrainz also plans to generate data...",
+          "student_name": "Kartikeya Sharma",
+          "code_url": "https://blog.musicbrainz.org/2018/08/12/gsoc-2018-a-way-to-associate-listens-with-mbids/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5690599873183744/"
+        },
+        {
+          "title": "React-based UI Component Library: A game-plan for user experience  design overhaul of MusicBrainz",
+          "short_description": "MusicBrainz is aiming for a user experience overhaul. To keep design and development in sync, by thousands of contributors over the years, we need a...",
+          "student_name": "Chhavi Shrivastava",
+          "code_url": "https://gist.github.com/chhavijustme/8feddbe5016365e2d6757a3605607fb9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5399260832989184/"
+        },
+        {
+          "title": "More detailed integration of AcousticBrainz with MusicBrainz",
+          "short_description": "A tight integration with MusicBrainz database would be very helpful in AcousticBrainz \nbecause it would allow us to better understand our data by...",
+          "student_name": "Rashi Sah",
+          "code_url": "https://blog.musicbrainz.org/2018/08/12/gsoc-2018-more-detailed-integration-of-acousticbrainz-with-musicbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5812643247947776/"
+        },
+        {
+          "title": "SpamBrainz - Fighting spam with machine learning",
+          "short_description": "MusicBrainz has recently been plagued by spam entries, most of them attempting to advertise other websites. SpamBrainz is the latest *Brainz project,...",
+          "student_name": "Leo Verto",
+          "code_url": "http://blog.musicbrainz.org/2018/08/13/gsoc-2018-spambrainz",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5185859745742848/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4667145252765696/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Music recommendation system: Collaborative filtering using Apache Spark",
+          "short_description": "ListenBrainz has recently shifted its statistics infrastructure from Google BigQuery to Apache Spark. Apart from delivering statistics/graphs to end...",
+          "student_name": "Vansika Pareek",
+          "code_url": "https://blog.metabrainz.org/2019/08/24/gsoc-2019-an-open-source-music-recommendation-engine/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6667636782399488/"
+        },
+        {
+          "title": "Bring back MusicBrainz for Android to Life",
+          "short_description": "MusicBrainz for Android was first created in 2010-11 as a part of GSoC. Since 2015, no updates have been made to the project. The app is currently...",
+          "student_name": "amCap1712",
+          "code_url": "https://github.com/amCap1712/musicbrainz-android/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5669714150293504/"
+        },
+        {
+          "title": "Edit Previews for non-release type Musicbrainz Entities",
+          "short_description": "Converting the current template toolkit setup to ReactJs and then adding edit previews for non-release entities in musicbrainz for something similar...",
+          "student_name": "Anirudh Jain",
+          "code_url": "https://blog.metabrainz.org/?p=7510",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5034268990898176/"
+        },
+        {
+          "title": "JSON Web API for BookBrainz",
+          "short_description": "The project is aimed to design and implement the JSON API to programmatically query the BookBrainz database. Since the existing backend of BookBrainz...",
+          "student_name": "Akhilesh Kumar",
+          "code_url": "https://blog.metabrainz.org/2019/08/25/gsoc-2019-json-web-api-for-bookbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5230095206187008/"
+        },
+        {
+          "title": "Recording Similarity Index for AcousticBrainz",
+          "short_description": "The AcousticBrainz database contains detailed high and low-level information for millions of audio recordings, all of which create an essential for...",
+          "student_name": "Aidan Lawford-Wickham",
+          "code_url": "https://blog.metabrainz.org/2019/08/26/gsoc-2019-recording-similarity-indexing-for-acousticbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5638226268651520/"
+        },
+        {
+          "title": "GSoC 2019: Support For Reviewing and Rating More Entities (CritiqueBrainz)",
+          "short_description": "Currently CritiqueBrainz\u2019 users can review release groups, events, and places. This will be expanded on by implementing reviews for other MusicBrainz...",
+          "student_name": "Shamroy Pellew",
+          "code_url": "http://blog.metabrainz.org/?p=7505",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4931315269369856/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5387896221073408/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "User Collections : BookBrainz",
+          "short_description": "Bookbrainz lacks a feature which allows a person to make a collection of entities (edition, edition-group, work, author, publisher) for his/her...",
+          "student_name": "Prabal Singh",
+          "code_url": "https://blog.metabrainz.org/2020/08/31/gsoc-2020-user-collection-for-bookbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5232577788510208/"
+        },
+        {
+          "title": "Designing Responsive UI and Completing Fragmented Features of MusicBrainz(Android)",
+          "short_description": "MusicBrainz for Android was first created in 2010-11. In the year 2019,the app went through a significant update as part of GsoC\u201919 .The complete...",
+          "student_name": "Somal Chakraborty",
+          "code_url": "https://docs.google.com/document/d/146MKH6MnfAi3pWHyHlan-Q_dD-nApe6kfiVZYuguxq4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5271845466537984/"
+        },
+        {
+          "title": "To make MusicBrainz for Android  stable and robust",
+          "short_description": "The project has been under constant development for almost a year now. In the past one year, the app has been reworked to compile with the current...",
+          "student_name": "lucifer",
+          "code_url": "https://gist.github.com/amCap1712/0141cfd1ba4191e2b9787aaef2165044",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5299235680944128/"
+        },
+        {
+          "title": "GSoC 2020: Add 'love/hate a recording' and 'delete a listen' support to ListenBrainz",
+          "short_description": "ListenBrainz currently only displays the list of listens imported into a user's profile and the basic stats about the artists that a user has...",
+          "student_name": "Shivam Kapila",
+          "code_url": "https://blog.metabrainz.org/2020/08/31/gsoc-2020-manage-your-listens-better-with-listenbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5349258863050752/"
+        },
+        {
+          "title": "Adding Statistics and Graphs for ListenBrainz Users and Community",
+          "short_description": "ListenBrainz now has a statistics infrastructure that collects and computes statistics from the listen data that has been stored in the database....",
+          "student_name": "Ishaan Shah",
+          "code_url": "https://blog.metabrainz.org/2020/08/30/gsoc-2020-adding-statistics-and-graphs-for-listenbrainz-users-and-community/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4823271230406656/"
+        },
+        {
+          "title": "Spam detection with online learning",
+          "short_description": "The idea of implementing a solution for spam i.e SpamBrainz started in 2017. Since then, there has been progress towards it by implementing a high...",
+          "student_name": "Rohit Dandamudi",
+          "code_url": "https://blog.metabrainz.org/2020/09/01/gsoc-2020-spam-detection-with-online-learning/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6499215183708160/"
+        },
+        {
+          "title": "AcousticBrainz - New machine learning infrastructure",
+          "short_description": "This project proposes the development of a module that uses Machine Learning to classify correctly the audio-based relative data which is extracted...",
+          "student_name": "Pantelis Tzamalis",
+          "code_url": "https://github.com/metabrainz/acousticbrainz-server/pull/385",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4841838843789312/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4875887060713472/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Musicbrainz Android App: Dawn of Showdown",
+          "short_description": "This project aims to continue on the development of the Musicbrainz Android App further, complete the Tagger implementation, introduce ListenBrainz...",
+          "student_name": "Akshat Tiwari",
+          "code_url": "https://blog.metabrainz.org/2021/08/23/gsoc21-musicbrainz-android-app-dawn-of-showdown/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5695568952688640/"
+        },
+        {
+          "title": "Pin Tracks & Review Tracks Through CritiqueBrainz",
+          "short_description": "This proposal consists of two projects:\nReview Tracks Through CritiqueBrainz: ListenBrainz should allow users to write short reviews for tracks,...",
+          "student_name": "jasondk",
+          "code_url": "https://blog.metabrainz.org/2021/08/23/gsoc-2021-pin-recordings-and-critiquebrainz-integration-in-listenbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5724229001019392/"
+        },
+        {
+          "title": "Implement \"Series\" entity for BookBrainz",
+          "short_description": "BookBrainz lacks a feature which allows a editor to create a series entity. A series is a sequence of separate works, authors, editions, edition...",
+          "student_name": "Akash Gupta",
+          "code_url": "https://blog.metabrainz.org/2021/08/23/gsoc-2021-series-entity-for-bookbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4890623227723776/"
+        },
+        {
+          "title": "Complete Rust binding for the MusicBrainz API",
+          "short_description": "MusicBrainz has client libraries for various programming languages such as C++, Python, Java, Go and more. However, we're still missing out on a...",
+          "student_name": "Ritiek Malhotra",
+          "code_url": "https://blog.metabrainz.org/2021/08/23/gsoc-2021-complete-rust-binding-for-the-musicbrainz-api/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5840693649473536/"
+        },
+        {
+          "title": "Push the URL relationship editor to the next level",
+          "short_description": "On MusicBrainz, URLs are external links attached to entities; relationships define their role and include metadata like date period, they provide...",
+          "student_name": "Yang Yang",
+          "code_url": "https://blog.metabrainz.org/2021/08/23/gsoc-2021-push-the-url-relationship-editor-to-the-next-level/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5984842684039168/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/metabrainz-foundation-inc/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Make Picard work in single instance mode",
+          "short_description": "Currently, running picard always spawns a new instance. It would be useful to pass the arguments to an already running instance (if exists). The best...",
+          "student_name": "skelly37",
+          "code_url": "https://blog.metabrainz.org/2022/09/11/my-google-summer-of-code-2022-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ItQ0NNLd/"
+        },
+        {
+          "title": "MusicBrainz Android App: Adding BrainzPlayer in Android App",
+          "short_description": "MusicBrainz Android app has got some nice features that showcase various Brainz abilities. Currently, the app lacks the Brainz Player feature, which...",
+          "student_name": "Ashutosh Aswal",
+          "code_url": "https://blog.metabrainz.org/?p=9707",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uTqnXR4t/"
+        },
+        {
+          "title": "CritiqueBrainz reviews for BookBrainz entities",
+          "short_description": "This project intends to expand CritiqueBrainz's infrastructure to include reviews and ratings for BookBrainz entities. Reviews increase the...",
+          "student_name": "Ansh Goyal",
+          "code_url": "https://blog.metabrainz.org/2022/09/08/gsoc22-critiquebrainz-reviews-for-bookbrainz-entities/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dTPa1VpE/"
+        },
+        {
+          "title": "Add Timezone support to ListenBrainz",
+          "short_description": "At current state of the product, listens on ListenBrainz are collected in the UTC instead of their local timestamp, without taking DST in to...",
+          "student_name": "Yuzie",
+          "code_url": "https://gist.github.com/YouzhiL/c6495a8757f8e34f99e494b48ff2c5e9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AkmWPTCo/"
+        },
+        {
+          "title": "Unified Creation Form",
+          "short_description": "Currently, User have to face complex workflow for simple use cases (such as \u201cadding a book\u201d) with lots of repetition of data. This project aims to...",
+          "student_name": "Shubh",
+          "code_url": "https://blog.metabrainz.org/2022/09/06/gsoc-2022-unified-form-editor-for-bookbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/g53Jlo6v/"
+        },
+        {
+          "title": "Clean Up The Music Listening Histories Dataset",
+          "short_description": "The Music Listening History Dataset is pretty damn impressive; It contains ~27 billion logs of real-world data from last.fm scrobbles distributed...",
+          "student_name": "Prathamesh Ghatole",
+          "code_url": "https://blog.metabrainz.org/?p=9785",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OARdCHQq/"
+        },
+        {
+          "title": "Send a track to another user as a personal recommendation",
+          "short_description": "This project aims to implement a feature in ListenBrainz, where you can personally recommend few select followers of yours, a recording, along with a...",
+          "student_name": "Shatabarto",
+          "code_url": "https://blog.metabrainz.org/?p=9690",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2iBCyfE1/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/metabrainz-foundation-inc",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Interactive Artist Similarity Graph",
+          "short_description": "Discovering new music can be quite an adventure and may lead to finding music which you will hear on repeat for a long time. Currently, ListenBrainz...",
+          "student_name": "Arshdeep",
+          "code_url": "https://blog.metabrainz.org/2023/08/28/gsoc-23-artist-similarity-graph/",
+          "proposal_id": "vl3rBC5c",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ToDA0xuV"
+        },
+        {
+          "title": "Feed Section in Android App",
+          "short_description": "ListenBrainz's website is an amazing platform that inculcates the idea of having a social media app revolving around music. The Feed-Section is one...",
+          "student_name": "Jasjeet Singh",
+          "code_url": "https://blog.metabrainz.org/2023/08/27/gsoc-2023-feed-section-in-listenbrainz-android/",
+          "proposal_id": "EdoTPfHt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CtVn2Vu8"
+        },
+        {
+          "title": "BookBrainz: Import Other Open Databases",
+          "short_description": "BookBrainz still has a relatively small community and contains less entities than other comparable databases. Therefore we want to provide a way to...",
+          "student_name": "kellnerd",
+          "code_url": "https://blog.metabrainz.org/2023/11/06/gsoc-2023-reviving-the-bookbrainz-importer-project/",
+          "proposal_id": "B8yBrBRy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5YSjIDh0"
+        },
+        {
+          "title": "Dataset Hoster Improvements",
+          "short_description": "The dataset hoster currently returns rows of database rows with no extra information. Over time, the results that are returned from a query have...",
+          "student_name": "pixelpenguin",
+          "code_url": "https://blog.metabrainz.org/2023/08/27/gsoc23-dataset-hoster-improvements/",
+          "proposal_id": "VyOMIUcj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rpHWY2LB"
+        },
+        {
+          "title": "Automate areas management in MusicBrainz",
+          "short_description": "MusicBrainz is a community-maintained database of music metadata that includes information about music artists, their releases, and related data such...",
+          "student_name": "Prathamesh Ghatole",
+          "code_url": "https://blog.metabrainz.org/?p=11035",
+          "proposal_id": "rtVKPICO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TsPwhRct"
+        },
+        {
+          "title": "Administration System - BookBrainz",
+          "short_description": "BookBrainz currently has no administration system, or any good way of giving users special privileges. This project involves devising and...",
+          "student_name": "Shivam Awasthi",
+          "code_url": "https://blog.metabrainz.org/2023/08/27/gsoc23-administration-system-for-bookbrainz/",
+          "proposal_id": "yJtZqWgv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/STzV7VWb"
+        },
+        {
+          "title": "Integrating Apple Music with ListenBrainz",
+          "short_description": "By linking their Apple Music account with ListenBrainz, individuals are able to use ListenBrainz to play their music selections. The integration into...",
+          "student_name": "vscode",
+          "code_url": "https://blog.metabrainz.org/2023/08/28/integration-of-apple-music-with-listenbrainz/",
+          "proposal_id": "pqk9WFiV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oUbUrDhV"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/metabrainz-foundation-inc/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Add Syndication Feeds to ListenBrainz",
+          "short_description": "This project aims to add syndication feed feature to ListenBrainz, specifically Atom feeds. Users will be able to subscribe to various feeds to...",
+          "student_name": "Eric Deng",
+          "code_url": "https://blog.metabrainz.org/2024/08/26/gsoc-2024-add-syndication-feeds-to-listenbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/k4Iq0Pnx/"
+        },
+        {
+          "title": "Email service with internationalisation and MJML-based formatting",
+          "short_description": "The MusicBrainz project sends thousands of emails every week, from password resets to edit notifications. However, the current email service is...",
+          "student_name": "Jade Ellis",
+          "code_url": "https://blog.metabrainz.org/2024/08/26/gsoc-2024-new-email-service-with-internationalization-and-mjml-based-markup/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KlrNabY4/"
+        },
+        {
+          "title": "GSoC 2024: Transferring Playlists Between SoundCloud, Apple Music and ListenBrainz",
+          "short_description": "ListenBrainz generates music recommendation playlists. These playlists can be listened to on ListenBrainz using BrainzPlayer if the user has...",
+          "student_name": "kubrimskii",
+          "code_url": "https://blog.metabrainz.org/2024/09/05/gsoc-2024-transferring-playlists-between-soundcloud-apple-music-and-listenbrainz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4TIDIyZY/"
+        },
+        {
+          "title": "Dashboard Page and Feed revamp in ListenBrainz iOS",
+          "short_description": "This project aims to seamlessly integrate all functionalities of the ListenBrainz website's Dashboard into the ListenBrainz iOS app. This integration...",
+          "student_name": "Gaurav Bhardwaj",
+          "code_url": "https://blog.metabrainz.org/2024/08/26/gsoc-2024-dashboard-page-and-feed-revamp-in-listenbrainz-ios/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5CyNBXhl/"
+        },
+        {
+          "title": "Artist, Album, User Pages in ListenBrainz Android App for all users",
+          "short_description": "Currently, the ListenBrainz website contains many features, such as User Pages, Album Pages, and Artist Pages, which offer a holistic experience to...",
+          "student_name": "Pranav Konidena",
+          "code_url": "https://blog.metabrainz.org/2024/08/26/gsoc-2024-artist-album-user-pages-in-listenbrainz-android-app-for-all-users/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kdeQBkfb/"
+        },
+        {
+          "title": "BookBrainz: Importing Entities With Relationships",
+          "short_description": "BookBrainz still has a relatively small community and contains less entities than other comparable databases. Therefore we want to provide a way to...",
+          "student_name": "kellnerd",
+          "code_url": "https://blog.metabrainz.org/?p=12258",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/447sDstM/"
+        },
+        {
+          "title": "Musicbrainz - Internet Archive integration: saving external URLs via Wayback Machine",
+          "short_description": "MusicBrainz database sees a lot of edits made on a daily basis. Tens of thousands of edits. That\u2019s a large number. With each edit, there\u2019s associated...",
+          "student_name": "Ashutosh Aswal",
+          "code_url": "https://blog.metabrainz.org/2024/10/07/gsoc-2024-musicbrainz-wayback-machine-melba/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tM1Jlyqf/"
+        },
+        {
+          "title": "Add cover art image processing options to Picard",
+          "short_description": "This project intends to allow Picard to post process cover art images obtained from the providers. There should be provider independent options to...",
+          "student_name": "twodoorcoupe",
+          "code_url": "https://blog.metabrainz.org/gsoc-2024-picard-image-processing/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/bgpS2htp/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/metabrainz-foundation-inc",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Centralized Notification System for MetaBrainz",
+          "short_description": "MetaBrainz contains multiple sub-projects which sends out standalone notifications. This project aims to centralize those by developing a shared...",
+          "student_name": "_Junaid_",
+          "code_url": null,
+          "proposal_id": "N6fb8LJM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nuN9P7s7"
+        },
+        {
+          "title": "Integrate music streaming from Funkwhale & Navidrome (Subsonic)",
+          "short_description": "Allow users to play music from their Funkwhale servers as well as Navidrome directly in BrainzPlayer, both are self hoisted music streaming platform....",
+          "student_name": "amanullah7",
+          "code_url": null,
+          "proposal_id": "8OXLH7MC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OYGdH3a8"
+        },
+        {
+          "title": "Onboarding Revamp in Listenbrainz-Android",
+          "short_description": "A smooth and intuitive onboarding experience is essential for any app, ensuring that users understand its features while maintaining trust and...",
+          "student_name": "Hemang Mishra",
+          "code_url": null,
+          "proposal_id": "euMEJ5JY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CIUdbKbi"
+        },
+        {
+          "title": "Development of Advanced User Statistics Visualizations",
+          "short_description": "The project aims to design and implement advanced interactive visualizations for ListenBrainz using Nivo for data visualization and integrating with...",
+          "student_name": "holycow23",
+          "code_url": null,
+          "proposal_id": "Ok0VTsjl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/npmpsC1i"
+        },
+        {
+          "title": "Matrix Archiver (libretto)",
+          "short_description": "The current logging system for Matrix communications at MeB relies on an unmaintained IRC-based bot (BrainzBot) that logs messages to a PostgreSQL...",
+          "student_name": "Jade Ellis",
+          "code_url": null,
+          "proposal_id": "ywLvBV3l",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7fQl4p8c"
+        },
+        {
+          "title": "Importing Listening History Files in Listenbrainz",
+          "short_description": "This project aims to develop a feature that enables users to import their listening history from various services, including ListenBrainz exports,...",
+          "student_name": "Suvid Singhal",
+          "code_url": null,
+          "proposal_id": "tYjIowUa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dawBqvjY"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://metabrainz.org/contact",
+  "contact_email": "mailto:suppport@metabrainz.org",
+  "mailing_list": "https://community.metabrainz.org/",
+  "ideas_url": "https://wiki.musicbrainz.org/Development/Summer_of_Code/2025",
+  "guide_url": "https://wiki.musicbrainz.org/Development/Summer_of_Code/2025",
+  "twitter_url": "metabrainz",
+  "blog_url": "https://blog.metabrainz.org"
+}

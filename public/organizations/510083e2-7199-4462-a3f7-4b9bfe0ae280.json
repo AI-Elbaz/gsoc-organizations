@@ -1,0 +1,309 @@
+{
+  "name": "Ceph Foundation",
+  "url": "https://ceph.io/en/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ceph/rvqqprqtyq0rfrcc-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "cloud",
+    "distributed systems",
+    "network storage",
+    "storage",
+    "cloud storage",
+    "software defined storage",
+    "Software-Defined-Storage"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "object-storage",
+    "javascript",
+    "shell script",
+    "jenkins",
+    "angular",
+    "typescript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5408317308403712/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "End-to-end Performance Visualization",
+          "short_description": "Abstract\nTracing support with annotation-based traces is a promising approach to allow developers to get a view into the performance behavior of Ceph...",
+          "student_name": "vear91",
+          "code_url": "http://vears91.github.io/babeltrace-zipkin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5689128981102592/"
+        },
+        {
+          "title": "Improve Ceph\u2019s Python Infrastructure",
+          "short_description": "This project aims to improve Ceph\u2019s Python infrastructure, making the codebase clean, modern, and maintainable. A major part of this improvement...",
+          "student_name": "Ani",
+          "code_url": "https://gist.github.com/onyb/e5c282d3368631f5d46d62b37bc0ef0d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5472707458105344/"
+        },
+        {
+          "title": "ON-THE-WIRE ENCRYPTION SUPPORT",
+          "short_description": "Ceph does a cryptographic handshake when establishing a connection in order to mutually authenticate the client and server, but the actual data is...",
+          "student_name": "Zhao Junwang",
+          "code_url": "https://gist.github.com/zhjwpku/1bc4202671ed06c799f0bf4739416429",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6068323590602752/"
+        },
+        {
+          "title": "Python 3 Support for Ceph",
+          "short_description": "Ceph is coded mostly in C++, however many of its high-level parts are written in Python. Currently they support only Python 2.6 and 2.7.\nThe purpose...",
+          "student_name": "Oleh Prypin",
+          "code_url": "https://gist.github.com/BlaXpirit/82dc8b81e4e94bdb4ee3d3ec436faa53#file-gsoc-2016-md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4926120524775424/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6399849700261888/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Implementation of RBD diff verification using a rolling checksum algorithm",
+          "short_description": "The main idea of the project is to provide an efficient algorithm for fast verification of the validity of RADOS block device diffs against an...",
+          "student_name": "Radoslav Georgiev",
+          "code_url": "https://github.com/ceph/ceph/pull/17321",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6243190499704832/"
+        },
+        {
+          "title": "ceph-mgr: Cluster Status Dashboard",
+          "short_description": "Under this project idea, I will be working on the development of a web-based application, Cluster Status Dashboard. This application fetches the...",
+          "student_name": "Saumay Agrawal",
+          "code_url": "https://medium.com/@saumay.agrawal/gsoc-17-work-product-142c2bf5a76b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6008616565866496/"
+        },
+        {
+          "title": "SMARTER REWEIGHT BY UTILISATION",
+          "short_description": "The project involves designing an evaluation model, for assessing the relative efficiency of various reweight_by_utilisation algorithms and attempts...",
+          "student_name": "Spandan Kumar Sahu",
+          "code_url": "https://spandankumarsahu.wordpress.com/2017/08/25/google-summer-of-code-work-product-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6121644267405312/"
+        },
+        {
+          "title": "File backend for Rados Gateway",
+          "short_description": "RGW, or Rados Gateway is a RESTful gateway that is one of the primary components of ceph, providing both S3 and SWIFT frontend as an interface for...",
+          "student_name": "Pranjal Agrawal",
+          "code_url": "https://gist.github.com/forumulator/cb5ee5f3ca08b9ba7ded4fe8948d5415",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6325122638020608/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6273779027673088/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Cloud Endpoints for bucket notification",
+          "short_description": "Bucket notifications are an important enabler for integration of Ceph Object Storage with other systems, enabling complex workflows for AI/ML,...",
+          "student_name": "Prateek Sachan",
+          "code_url": "https://github.com/ceph/ceph/pull/36062",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6712213986869248/"
+        },
+        {
+          "title": "Tracing RGW with jaeger",
+          "short_description": "Implementing tracing in Rados gateway to measure its accurate performance.",
+          "student_name": "Abhinav Singh",
+          "code_url": "https://github.com/ceph/ceph/pull/36878",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5386221183827968/"
+        },
+        {
+          "title": "Teuthology Scheduling Improvements",
+          "short_description": "Enhance scheduling in Ceph\u2019s testing framework, Teuthology, to enable ease of running\nlarge scale tests with reliable prioritizing of different tasks...",
+          "student_name": "Shraddha Agrawal",
+          "code_url": "https://shraddhaag.dev/posts/improving-teuthology-scheduling-gsoc-2020-with-ceph-foundation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5396341972271104/"
+        },
+        {
+          "title": "Ceph Dashboard UI Enhancement and Improved Community Branding",
+          "short_description": "Ceph Dashboard is the built-in web-based management application for the Ceph distributed storage project. It consists of a Python-based backend that...",
+          "student_name": "Ishan Rai",
+          "code_url": "https://ishanrai05.github.io/blog/2020-08-29-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6519627653316608/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6259684285087744/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "NEXT LEVEL AMQP",
+          "short_description": "Nowadays, Ceph supports Kafka, HTTP and AMQP(ver 0.9.1) endpoints natively from the Ceph Rados Gateway. However, to allow for a large variety of...",
+          "student_name": "Xu Wang",
+          "code_url": "https://gist.github.com/EFS86340/95e06c40e3ba0305451c350666dd7696",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5734731907334144/"
+        },
+        {
+          "title": "Implementing integration tests using Gherkin language",
+          "short_description": "The project idea is focused on creating integration test cases using Gherkin language to take care of creating laboratory environments using virtual...",
+          "student_name": "ArunagirinadanSudharshan",
+          "code_url": "https://sudhanaruna.github.io/ceph/gsoc/summer-coding/bdd/behave/2021/08/21/GSoC-2021-Ceph-Project-Work-Product-Submisson.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5121787091746816/"
+        },
+        {
+          "title": "Reporting Ceph issues from the Ceph-Dashboard",
+          "short_description": "This project aims to provide Ceph users with the ability to report issues directly from the Ceph-Dashboard UI and attach all the available...",
+          "student_name": "SS",
+          "code_url": "https://cypherean.github.io/blog/ceph-gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4622940968058880/"
+        },
+        {
+          "title": "RGW:S3 SDK Compatibility",
+          "short_description": "As it stands today, S3-tests uses a limited fraction of the Boto S3 functionality. By\ninstrumenting code coverage of Boto SDKs and s3-tests, gaps in...",
+          "student_name": "Saptarshi Majumder",
+          "code_url": "https://iraj465.github.io/2021-08-18-gsoc-2021-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4745467795079168/"
+        },
+        {
+          "title": "GOING NATS",
+          "short_description": "This project aims to add the NATS messaging system to the current list of CEPH\u2019s bucket notifications endpoints. Bucket notifications provide a...",
+          "student_name": "Matan",
+          "code_url": "https://matan-b.github.io/2021/08/13/google-summer-of-code-2021-with-Ceph/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4876455707672576/"
+        },
+        {
+          "title": "USING BALANCED_READS ON RGW CALLS TO RADOS",
+          "short_description": "Add a config and the ability to use balanced reads when RGW sends a RADOS op",
+          "student_name": "Zulai Wang",
+          "code_url": "https://pleiadesian.github.io/2021/08/21/GSoC-2021-project-Using-BALANCED-READS-on-RGW-Calls-to-RADOS/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5772203919933440/"
+        },
+        {
+          "title": "Visual Regression Testing of Ceph-Dashboard",
+          "short_description": "This project aims to implement Automated Visual Regression Testing alongside the current testing infrastructure to ensure robust testing coverage.",
+          "student_name": "Aaryan Porwal",
+          "code_url": "https://github.com/ceph/ceph/pulls?q=is%3Apr+author%3Aaaryanporwal+is%3Aclosed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5152801855897600/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/ceph/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Improving Dashboard Accessibility for Blind and Visually-Impaired Ceph Users",
+          "short_description": "Web accessibility ensures people with disabilities can navigate and use the web like every other person. Currently the level of compliance of ceph...",
+          "student_name": "Ngwa Sedrick Meh",
+          "code_url": "https://ceph.io/en/news/blog/2022/improving-dashboard-accessibility-for-blind-and-visually-impaired-ceph-users/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RA1hcxal/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/ceph",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Making Teuthology Friendly",
+          "short_description": "Teuthology commands, in general, require a bit of a learning curve and usually requires someone who's a veteran with teuthology to help out, this can...",
+          "student_name": "Devansh Singh",
+          "code_url": "https://gist.github.com/Devansh3712/1ef38690b94141c27437a3d1363e76c6",
+          "proposal_id": "8lefTpFT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qaRHjXNC"
+        },
+        {
+          "title": "Disk Fragmentation Simulator",
+          "short_description": "The goal of the simulator is to observe possible emerging patterns, and observe increasing costs as fragmentation progresses. It is to be a tool to...",
+          "student_name": "Tri Dao",
+          "code_url": "https://github.com/ceph/ceph/pulls?q=is%3Apr+Fragmentation+author%3APosrabi+",
+          "proposal_id": "9vktXx68",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pfQonMep"
+        },
+        {
+          "title": "Using Coverity Static Analysis Tool to Clean up Issues from the RGW Code",
+          "short_description": "Ceph is an open-source, distributed storage system that provides scalable object, block, and file storage. One of the key components of Ceph is the...",
+          "student_name": "Vedansh Bhartia",
+          "code_url": "https://gist.github.com/vedanshbhartia/52fe3c44ef70185e553793220a7b3a69",
+          "proposal_id": "dKmVxyU2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xH6uVLYA"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/ceph/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Tidy Up Song",
+          "short_description": "The Ceph project has a huge codebase, and it faces the risk of containing suboptimal code that could jeopardize storage reliability or induce...",
+          "student_name": "Suyash Dongre",
+          "code_url": "https://diagnostic-surf-23c.notion.site/Ceph-Tidy-Up-Song-GSoC-2024-21fe602568b24b6985af9284ca0fcb5c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/SG1yEXSM/"
+        },
+        {
+          "title": "Rados To Redis",
+          "short_description": "Persistent bucket notifications play a crucial role in the object storage landscape, serving as a cornerstone element. Specifically, they offer...",
+          "student_name": "rahulchauhan",
+          "code_url": "https://gist.github.com/dynamic-entropy/6b3c9cde352096cc860ad32e671117ee",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KaBwWCHA/"
+        },
+        {
+          "title": "Shaman Scheduling for Success",
+          "short_description": "In the current testing workflow, after pushing a branch to ceph-ci the developers can run integration tests using teuthology only after Ceph binaries...",
+          "student_name": "Devansh Singh",
+          "code_url": "https://gist.github.com/Devansh3712/b059b00ebc82c8c0a837c443f2fe14d8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EkPC6ZZW/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/ceph",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "The More The Merrier - Sharded Queues for Persisent Bucket Notifications in Rados GW",
+          "short_description": "In brief, this project deals with persistent bucket notifications, a feature first rolled out in Ceph Pacific, as a part of the Rados Gateway...",
+          "student_name": "Adarsh Ashokan",
+          "code_url": null,
+          "proposal_id": "8OegTUJc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ppcKvem6"
+        },
+        {
+          "title": "Enhancing Ceph Dashboard Usability: Advanced Notifications & NVMe-oF Management Workflow",
+          "short_description": "Proposal Summary: Ceph Dashboard is a web-based management and monitoring tool for Ceph, utilizing Angular/TypeScript for the frontend and Python for...",
+          "student_name": "Anikait Sehwag",
+          "code_url": null,
+          "proposal_id": "XOsUyX3H",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SnSh5sFr"
+        },
+        {
+          "title": "Normalization and Interpretation Enhancement of drivedb.h in smartmontools",
+          "short_description": "smartmontools (smartctl) is a widely used tool for collecting SMART metrics from storage devices (SATA, SAS, NVMe). However, its runtime metadata...",
+          "student_name": "Anusha Singh",
+          "code_url": null,
+          "proposal_id": "gnnHzMsb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pqUXYPjf"
+        },
+        {
+          "title": "PROPOSAL FOR TEUTHOLOGY ON PODMAN",
+          "short_description": "Currently, ceph-devstack runs a testnode container with only one OSD per node using a loop block created on the host system as a storage device. To...",
+          "student_name": "Parfait Detchenou",
+          "code_url": null,
+          "proposal_id": "sMwSPpGd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/VpxBIJmv"
+        },
+        {
+          "title": "Warm And Fuzzy",
+          "short_description": "RESTler is a REST API fuzzing tool designed to automatically test cloud services via their REST APIs to uncover security and reliability issues. The...",
+          "student_name": "Suyash Dongre",
+          "code_url": null,
+          "proposal_id": "vC0iTM70",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ESULZGqh"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://join.slack.com/t/ceph-storage/shared_invite/zt-1n8yigss2-yYg099VlTiGMCLIziG_h4Q",
+  "contact_email": "mailto:dev@ceph.io",
+  "mailing_list": "https://ceph.io/en/community/connect/",
+  "ideas_url": "https://ceph.io/en/developers/google-summer-of-code/",
+  "guide_url": "https://docs.ceph.com/en/latest/dev/developer_guide/",
+  "twitter_url": "https://twitter.com/ceph",
+  "blog_url": "https://ceph.io/en/news/blog/"
+}

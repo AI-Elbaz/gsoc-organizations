@@ -1,0 +1,69 @@
+{
+  "name": "Internet Systems Consortium",
+  "url": "https://isc.org",
+  "image_url": "https://lh3.googleusercontent.com/t4JetnWDV6gtqVJnb3C32_US8_31ZDGKBkkFido8yFFSApN01eMe-SrIAF9ZDvU6bZ2Pc7mLlP7VeTRQWv7i3IqfB9Hm6nc",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "networking",
+    "infrastructure",
+    "ipv6",
+    "stateful",
+    "internet",
+    "dhcp",
+    "dns"
+  ],
+  "technologies": [
+    "mysql",
+    "c",
+    "c++",
+    "rest",
+    "dhcp",
+    "cassandra",
+    "python",
+    "javascript",
+    "c99"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4744165577457664/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Kea Monitoring Dashboard",
+          "short_description": "The primary objective of this project is to develop a GUI dashboard for the Kea DHCP server software to function as a remote monitoring and...",
+          "student_name": "Jerin John",
+          "code_url": "https://github.com/isc-projects/kea-anterius",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5093363330056192/"
+        },
+        {
+          "title": "IPv6 Reconfiguration and Renumbering (Multiple IPv6 addresses/prefixes in a single IA)",
+          "short_description": "IPv6 re-configuration through DHCP is a server triggered mechanism for the clients to update their IPv6 addresses and prefixes. The server behavior...",
+          "student_name": "Mayya",
+          "code_url": "https://kea.isc.org/wiki/ReconfigureFeatureDesign",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6295758684815360/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6473524057735168/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Kea statistics enhancements",
+          "short_description": "Kea is currently able to report dozens of statistics. However, for each statistic there is only one specific value being reported. For certain types...",
+          "student_name": "Franciszek G\u00f3rski",
+          "code_url": "https://gitlab.isc.org/Franek12/kea/wikis/Google-Summer-of-Code-2019-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6444776231010304/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@isc.org",
+  "mailing_list": "https://lists.isc.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ISCdotORG",
+  "blog_url": "https://www.isc.org/community/blogs/"
+}

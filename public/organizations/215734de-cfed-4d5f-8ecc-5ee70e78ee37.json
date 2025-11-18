@@ -1,0 +1,179 @@
+{
+  "name": "ReactOS Foundation",
+  "url": "https://reactos.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/reactos-foundation/yell79w1st8tno4c-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "operating systems",
+    "desktop",
+    "kernel",
+    "drivers",
+    "windows",
+    "web services",
+    "applications",
+    "system programming"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "php",
+    "win32",
+    "nt"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5590036569391104/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "NTFS Driver Improvements for ReactOS",
+          "short_description": "ReactOS is an open source operating system that aims to be compatible with Windows. It specifically targets Windows Server 2003, but it still relies...",
+          "student_name": "coderTrevor",
+          "code_url": "https://reactos.org/blogs/ntfs-write-support-gsoc-work-summary-draft",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5534837112832000/"
+        },
+        {
+          "title": "Improve ReactOS USB stack.",
+          "short_description": "The aim of this project was to have more stable USB stack in ReactOS operating system and improve it to support Plug and Play. Implementation,...",
+          "student_name": "Vardan Mikayelyan",
+          "code_url": "https://reactos.org/blogs/gsoc-final-report-usb-project-0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5292465397432320/"
+        },
+        {
+          "title": "ATA/ATAPI drivers AHCI Support",
+          "short_description": "This project is a part of Google Summer of Code 2016 under the organization ReactOS. I proposed an idea of implementing storahci for windows 2003 and...",
+          "student_name": "amaneureka",
+          "code_url": "https://github.com/amaneureka/reactos/wiki/Storahci",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4620043438522368/"
+        },
+        {
+          "title": "Win32 Network Driver with lwIP 1.4.1",
+          "short_description": "Currently, ReactOS lacks a working, unified network stack. I will implement a unified UDP and TCP driver using lwIP 1.4.1.",
+          "student_name": "zhu48",
+          "code_url": "https://reactos.org/blogs/google-soc-lwip-conclusion",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4839388760506368/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6057879303880704/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Taskbar Shell Extensions for ReactOS",
+          "short_description": "The current shell in ReactOS lets user manage running applications, start other applications and manage files but nothing more. This idea is about...",
+          "student_name": "Shriraj Sawant",
+          "code_url": "https://reactos.org/blogs/gsoc%E2%80%9917-project-taskbar-shell-extensions-reactos-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6622884130717696/"
+        },
+        {
+          "title": "USBXHCI driver for USB 3.x controllers",
+          "short_description": "ReactOS currently ships with drivers for USB 1.x (OHCI/UHCI) and USB 2.x (EHCI) controllers only. More and more modern computers come with USB 3.x...",
+          "student_name": "Rama Teja Gampa",
+          "code_url": "https://reactos.org/blogs/gsoc-xhci-final-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5827081988472832/"
+        },
+        {
+          "title": "ReactOS App Manager",
+          "short_description": "This project is targeted to the end users. It will ease install process and help users getting free and open source software at one place.\nThe app...",
+          "student_name": "Alexander Shaposhnikov",
+          "code_url": "https://reactos.org/blogs/rapps-enchancements-gsoc-2017-edition-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5828834335129600/"
+        },
+        {
+          "title": "NTFS Driver Improvements for ReactOS",
+          "short_description": "NTFS is a modern, elegant filesystem with support for many advanced features, such as fault tolerance, access control lists, hard links, data...",
+          "student_name": "Trevor Thompson",
+          "code_url": "https://reactos.org/blogs/gsoc-ntfs-2017-work-summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5867762844958720/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6454703546171392/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Writing bootloader code for booting from BTRFS",
+          "short_description": "ReactOS has support for reading and writing to btrfs partitions, but bootloader does not support btrfs. I want to implement reading btrfs partitions...",
+          "student_name": "Victor Perevertkin",
+          "code_url": "https://www.reactos.org/blogs/gsoc-2018-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6237390213480448/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5356941075808256/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Developer Web Interface for ReactOS with Server-side JavaScript",
+          "short_description": "Developer Web Interface for ReactOS will be a single Interface which can address all developer needs from easily watching commits to triggering tests...",
+          "student_name": "Ayush Kumar Sinha",
+          "code_url": "https://github.com/reactos/developer-web-interface/tree/GSoC_2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6623578471006208/"
+        },
+        {
+          "title": "File Search",
+          "short_description": "File managers are important tools provided by graphical operating systems to aid users in managing their files. ReactOS has its own file explorer...",
+          "student_name": "Brock Mammen",
+          "code_url": "https://reactos.org/blogs/gsoc-2019-file-search-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5248519726694400/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5352970822090752/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "DETECT KERNEL INFORMATION DISCLOSURE BY BOCHSPWN-RELOADED",
+          "short_description": "The project aims to detect information disclosure in the kernel by integrating bochspwn-reloaded into ReactOS infrastructure. In addition, the...",
+          "student_name": "Khanh Nguyen Trung",
+          "code_url": "https://github.com/reactos/bochspwn-reloaded",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6340607376621568/"
+        },
+        {
+          "title": "Porting Syzkaller to ReactOS",
+          "short_description": "Syzkaller is an unsupervised coverage-guided kernel fuzzer by Google. The final deliverable for the project would be a new and unsupervised fuzzing...",
+          "student_name": "Suraj K Suresh",
+          "code_url": "https://github.com/reactos/syzkaller/tree/reactos",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5528633709428736/"
+        },
+        {
+          "title": "Application manager RAPPS",
+          "short_description": "Application manager RAPPS\nRAPPS is a lightweight GUI utility which downloads and installs various popular apps and redistributable packages in...",
+          "student_name": "He Yang",
+          "code_url": "https://reactos.org/blogs/gsoc-2020-rapps-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4645163432935424/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5679527786708992/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "ReactOS implement iernonce.dll for RunOnceEx",
+          "short_description": "ReactOS is able to launch commands, when the computer started next time, just for one single time using the RunOnce registry, just as what Windows...",
+          "student_name": "He Yang",
+          "code_url": "https://github.com/reactos/reactos/pull/3926",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6574508374228992/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/reactos-foundation/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#talk:reactos.org",
+  "contact_email": "mailto:ros-dev@reactos.org",
+  "mailing_list": "https://reactos.org/mailman/listinfo/ros-dev",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/reactos",
+  "blog_url": "https://reactos.org/news/"
+}

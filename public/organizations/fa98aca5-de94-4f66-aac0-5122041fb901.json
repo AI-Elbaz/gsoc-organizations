@@ -1,0 +1,63 @@
+{
+  "name": "Read the Docs",
+  "url": "https://readthedocs.org",
+  "image_url": "https://lh3.googleusercontent.com/dxmLB1HdWrLEFqmDRqfrowj1IT2LLhw33n4yI4HN7vJ0mSoW4O9kYdz3jOudzlf7XdDXtKS8Js2VDNDkzRuWNtdcNMnn5oAs",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "web",
+    "communications",
+    "docs",
+    "documentation"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "django",
+    "sphinx",
+    "elasticsearch",
+    "documentation"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5430613960032256/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Refactor & Improve search code",
+          "short_description": "This project is to improve the search functionality of Read the Docs so that the users of readthedocs can get relevant information from the search....",
+          "student_name": "Safwan Rahman",
+          "code_url": "https://medium.com/@safwan.rahman/gsoc-wrap-up-read-the-docs-search-improvement-62428097ece1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4656335308193792/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5033715393101824/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Search Update & In-Doc Search UI",
+          "short_description": "Searching is an important part of Read the Docs.\nThis project aims to implement new features on the existing search backend, which are as follows:\n...",
+          "student_name": "Vaibhav (dojutsu-user)",
+          "code_url": "https://gist.github.com/dojutsu-user/16e429173de35a5aced04b1f44f07321",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6376055881859072/"
+        },
+        {
+          "title": "Read the Docs Autobuild Docs for Pull Requests",
+          "short_description": "This project involves  automatically building docs for Pull Requests in GitHub repositories that Read the Docs users have. This will include modeling...",
+          "student_name": "Maksudul Haque(saadmk11)",
+          "code_url": "https://blog.readthedocs.com/building-docs-for-pull-requests/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6239099793440768/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://docs.readthedocs.io/en/latest/contribute.html?highlight=irc#get-in-touch",
+  "contact_email": "mailto:team@readthedocs.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/readthedocs",
+  "blog_url": "https://blog.readthedocs.com/"
+}

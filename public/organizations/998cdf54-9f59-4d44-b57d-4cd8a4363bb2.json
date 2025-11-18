@@ -1,0 +1,611 @@
+{
+  "name": "Open Technologies Alliance - GFOSS",
+  "url": "http://www.gfoss.eu",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open-technologies-alliance-gfoss/kiyijull8pfdypve-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Development tools",
+  "topics": [
+    "hardware",
+    "cloud",
+    "data",
+    "c++ tools",
+    "python",
+    "javascript",
+    "gtk",
+    "java jsp",
+    "programming languages",
+    "robotics",
+    "java",
+    "open education",
+    "c- c+",
+    "open hardware",
+    "perl",
+    "web",
+    "c++",
+    "nodered",
+    "Artificial Inteligence"
+  ],
+  "technologies": [
+    "python",
+    "mysql",
+    "java",
+    "php",
+    "virtuoso",
+    "c",
+    "c++",
+    "python 3",
+    "javascript",
+    "html",
+    "css",
+    "gtk",
+    "qt",
+    "arduino",
+    "perl",
+    "python deep learning frameworks",
+    "node.js",
+    "Machine Learning (ML)"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6266968780832768/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Diavgeia",
+          "short_description": "Diavgeia is the open governance initiative which forces greek public administrative units to publish their acts and decisions online.\nThis project...",
+          "student_name": "Themistoklis Beris",
+          "code_url": "https://github.com/eellak/gsoc17-diavgeia",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5408540915138560/"
+        },
+        {
+          "title": "Implementation of a New Re-encryption Mix-net for Zeus",
+          "short_description": "I'm interested in the implementation of a new mix-net for Zeus because the current mix-net is not very sufficient. The open source community would...",
+          "student_name": "vitsalis",
+          "code_url": "https://github.com/eellak/gsoc17module-zeus",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5469134313750528/"
+        },
+        {
+          "title": "Adding Greek support for the Open Source Font \u201cEczar\u201d",
+          "short_description": "I would like to contribute by adding Greek support for Eczar, including polytonic, for all 5 weights.\nEczar is designed by Vaibhav Singh, produced by...",
+          "student_name": "Emilios Theofanou",
+          "code_url": "https://github.com/eellak/gsoc17-Eczar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5618313426108416/"
+        },
+        {
+          "title": "DonationBox",
+          "short_description": "The main target of the project is to modernize the so called donation boxes, to keep pace in the new digital era.\nThis will achieve by implementing...",
+          "student_name": "Anastasios Lisgaras",
+          "code_url": "https://github.com/eellak/gsoc17-donationbox",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6032084267171840/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5472477677355008/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "GSoC Epoptes Proposal",
+          "short_description": "Epoptes, a computer lab management and monitoring tool, has been undermaintained for the last couple of years. It\u2019s currently powered by Python 2 and...",
+          "student_name": "Alkis Georgopoulos",
+          "code_url": "https://github.com/Epoptes/epoptes/pull/63",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5670794235478016/"
+        },
+        {
+          "title": "Addition of Greek language to Spacy.io",
+          "short_description": "I propose the addition of Greek language in spacy.io and the implementation of an extra feature of sentiment analysis for the Greek language.\nOn the...",
+          "student_name": "Ioannis Daras",
+          "code_url": "https://nlpbuddy.io/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5733636452122624/"
+        },
+        {
+          "title": "WSO2 Identity Server Userstore using Web Services to get claims",
+          "short_description": "WSO2 Identity and Access Management Server is open source popular identity and access management server throughout the world plus WSO2 Identity...",
+          "student_name": "Isuri Anuradha",
+          "code_url": "https://github.com/eellak/gsoc2018-wso2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5737739018305536/"
+        },
+        {
+          "title": "Software Components and IP management",
+          "short_description": "CLIO -- a system for maintaining software component information.\nCLIO is also a backronym for the system of maintaining Components, Licenses, IP and...",
+          "student_name": "Gopalakrishnan V",
+          "code_url": "https://gist.github.com/gopuvenkat/d8433e5ed78a67e0b114db69ce675235",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5079827203751936/"
+        },
+        {
+          "title": "Government Gazette text mining, cross linking, and codification Project - 3gm",
+          "short_description": "Government Gazette text mining, cross linking, and codification Project - 3gm\nAbout the project\nWelcome to Government Gazette text mining, cross...",
+          "student_name": "Marios Papachristou",
+          "code_url": "https://github.com/eellak/gsoc2018-3gm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5104033505214464/"
+        },
+        {
+          "title": "LibreOffice customization and creation of legal Templates for LibreOffice",
+          "short_description": "I would like to contribute by making a ready to use customized UI for the LibreOffice suite that achieves a familiar with MS Office 2013 environment...",
+          "student_name": "Christos Arvanitis",
+          "code_url": "https://gist.github.com/arvchristos/64a4c37bc9060e27ad82fb6258ad9dbf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5615296345800704/"
+        },
+        {
+          "title": "Government Gazette NER & Metadata Extraction",
+          "short_description": "Manual and ML modules in Python for NER and Metadata extraction of responsibility assignments (RespAs) to organizations of public administration...",
+          "student_name": "Chris Karageorg Kaneen",
+          "code_url": "https://github.com/eellak/gsoc2018-GG-extraction/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4524335863693312/"
+        },
+        {
+          "title": "Python PenTest Library (PyPen)",
+          "short_description": "Development of a Python library for penetration testers. The library will include a set of tools for performing the basic tasks for attacking a...",
+          "student_name": "Konstantinos Liosis",
+          "code_url": "https://gist.github.com/stikos/5228db0426a902e8833e7d73d67ec102",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4812851633979392/"
+        },
+        {
+          "title": "Adding Greek glyphs to the open  source font Arima Madurai",
+          "short_description": "This project aims to extend the collection of fonts supporting Greek script in the Google Fonts Catalog. Indeed, today 35 typefaces supporting Greek...",
+          "student_name": "Rosalie Wagner",
+          "code_url": "https://gist.github.com/RosaWagner/27b7cc3c0f4fc629ee3cbb08663ab484",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4941791518261248/"
+        },
+        {
+          "title": "Adding Greek language support to the open source fonts of the typeface Cantarell",
+          "short_description": "Cantarell is a humanist sans serif typeface optimized for on-screen reading. It was originally developed by Dave Crossland in the MA Typeface Design...",
+          "student_name": "Florian Fecher",
+          "code_url": "https://gist.github.com/grautesk/a8513e1b668be03238140b2cebfe18ac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5992787195461632/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6491213031538688/",
+      "num_projects": 13,
+      "projects": [
+        {
+          "title": "Anonymisation Through Data Encryption of Sensitive Data in ODT and Text Files in Greek Language",
+          "short_description": "The GDPR defines pseudonymization and the processing of personal data in such a way that the data can no longer be attributed to a specific data...",
+          "student_name": "Dimitris Katsiros",
+          "code_url": "https://gist.github.com/DimitrisKatsiros/cf6ad8e338a545a74306e0a52d2bfe26",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6385121886732288/"
+        },
+        {
+          "title": "Port Qt Quick Controls Calendar widget to Qt Quick Controls 2 module",
+          "short_description": "Brief Explanation\nQt is an open source cross platform framework facilitating GUI applications development, for mobile, desktop and embedded devices....",
+          "student_name": "Spyridon Stravoravdis",
+          "code_url": "https://gist.github.com/Spyros3000/4887d51c7a007781da6d91867449585c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6468540704489472/"
+        },
+        {
+          "title": "Replacement of LTSP",
+          "short_description": "LTSP (Linux Terminal Service Project) allows diskless workstations to be netbooted from a single server image, with centralized authentication and...",
+          "student_name": "alkisg",
+          "code_url": "https://github.com/ltsp/community/issues/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5643833700777984/"
+        },
+        {
+          "title": "Ajax based interface Cscout",
+          "short_description": "Create a modern dynamic interface for the CScout project",
+          "student_name": "Dimitrios Styliaras",
+          "code_url": "http://gist.github.com/dimstil/3a65a18b675235e367eeefee2e554ccb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5728066918154240/"
+        },
+        {
+          "title": "Greek Government Gazette text mining, cross-linking and codification - 3gm",
+          "short_description": "The Greek Government Gazette text mining project or 3gm, is an open-source automatic codification project using Natural Language Processing...",
+          "student_name": "Sotirios Papadiamantis",
+          "code_url": "https://gist.github.com/spapadiamantis/8ee78769975ffcb2a7a4d1a135a7a05f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5411143781187584/"
+        },
+        {
+          "title": "Round-trip integration between GitHub/GitLab issues and git-issue",
+          "short_description": "Git-issue is a minimalist issue management system based on git. It strives to be simple to use, decentralized, and in line with existing Unix...",
+          "student_name": "Vyron Drosos",
+          "code_url": "https://medium.com/@vyrondrosos/round-trip-integration-between-github-gitlab-and-git-issue-39d0ebe39dd1?sk=5b173812115e90ab05d17e2af8230f1f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5519807510740992/"
+        },
+        {
+          "title": "Upgrade UMLGraphs with Java's new doclet API",
+          "short_description": "Java and UML (Unified Modeling Language) are very strongly connected. As for the Java programming itself there are countless software and editors...",
+          "student_name": "EVANGELOS KARATARAKIS",
+          "code_url": "https://gist.github.com/ekaratarakis/326add7b585831a5aafc95508946a1a6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4545956492607488/"
+        },
+        {
+          "title": "Development of a Tool for Extracting Quantitative Text Profiles",
+          "short_description": "Text analysis is a fascinating field that attracts people from many scientific fields. As of today, text analysis is executed through powerful...",
+          "student_name": "Panagiotis Papantonakis",
+          "code_url": "https://gist.github.com/PanagiotisP/568c028e3ca53431aa852afe4cc7b2e9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4642505344155648/"
+        },
+        {
+          "title": "Development of a Greek open source Morphological dictionary and application of it to Greek spelling tools",
+          "short_description": "The goal of this project is the development of a Greek open source Morphological dictionary and integration of it into Greek spelling tools. Data...",
+          "student_name": "Konstantinos Agiannis",
+          "code_url": "https://gist.github.com/algorithm314/449e301c331c7d91a5116c0d00703a20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4653791662571520/"
+        },
+        {
+          "title": "The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options",
+          "short_description": "NextCloudPi (NCP) is a preinstalled and preconfigured Nextcloud, which can be used as cloud service to self host securely private data. NCP is open...",
+          "student_name": "Fani Dimou",
+          "code_url": "https://gist.github.com/FaniD/e3217375a38c161d7f426abfb3a84300",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4665244645851136/"
+        },
+        {
+          "title": "Creation of an online Greek mail dictation system, using Sphinx and personalized acoustic/language model training",
+          "short_description": "The purpose of the project is the implementation of an online Greek mail dictation system. In practice, the user will dictate the mail that wants to...",
+          "student_name": "Panagiotis Antoniadis",
+          "code_url": "https://gist.github.com/PanosAntoniadis/2a056cdbe4eb8556c30e33193e84d1b0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4683496042266624/"
+        },
+        {
+          "title": "Thesis Management System",
+          "short_description": "I propose the development of a web application that will support the whole lifecycle of a thesis creation, namely, a Thesis Management System(TMS)...",
+          "student_name": "Michail Chatzianastasis",
+          "code_url": "https://gist.github.com/MichailChatzianastasis/1768fcfcc72ad735bc42ab8456fd16d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4751403031986176/"
+        },
+        {
+          "title": "A DIY Robot kit for educators",
+          "short_description": "Hello, my name is Christos Chronis postgraduate student of Harokopio University of Athens in Informatics and Telematics department. I have a great...",
+          "student_name": "Christos Chronis",
+          "code_url": "https://gist.github.com/chronis10/9d069c56b3df9c92693ac8d24270a62a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4803830624026624/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "MediaCMS - modern, fully featured video and media CMS",
+          "short_description": "MediaCMS is a modern, fully-featured open-source video and media CMS. It is developed to meet the needs of modern web platforms for viewing and...",
+          "student_name": "Shubhank Saxena",
+          "code_url": "https://github.com/shubhank-saxena/GSoC-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6609119066193920/"
+        },
+        {
+          "title": "Sastix-CMS: A general purpose Java CMS in Spring Boot",
+          "short_description": "The Sastix-CMS is a CMS solution based on the robust Spring Boot framework. Up until now the CMS provided a REST API offering functionality for...",
+          "student_name": "Ilias Kyranas",
+          "code_url": "https://eellak.github.io/gsoc2021-sastixcms/docs/GSoC/gsoc2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4978905508741120/"
+        },
+        {
+          "title": "HA-Auto:  Node-RED Compatible DSL for Home Automation",
+          "short_description": "HA-Auto is a Domain Specific Language (DSL) based on the model interpretation paradigm, that enables users to program complex automation scenarios,...",
+          "student_name": "CedArctic",
+          "code_url": "https://github.com/eellak/gsoc2021-HA-Auto-Node-RED",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5111249221713920/"
+        },
+        {
+          "title": "DeepbotsZero",
+          "short_description": "Implement two humanoid environments for the deepbots framework, using KONDO's KHR-3HV and Nao as agents. Work on zero-shot learning and extending the...",
+          "student_name": "Nikolaos Kokkinis",
+          "code_url": "https://github.com/aidudezzz/deepbots/wiki/GSoC-2021:-Stable-Baseline-and-Ray-in-Deepots-(DeepbotsZero-project).",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6219277299875840/"
+        },
+        {
+          "title": "Development of a DIY robot kit for educators",
+          "short_description": "The goal of the project is to develop a low-cost DIY robot kit, including the designs, tutorials and use-case scenarios. The DIY robot kit should be...",
+          "student_name": "Georgios Giannakoulias",
+          "code_url": "https://gist.github.com/yiorgosynkl/914e75d0f9ae98bb31f4d8da66ec9908",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6235555762798592/"
+        },
+        {
+          "title": "sch-webapps: aggregator for web-based educational material",
+          "short_description": "Photodentro is the official repository of K12 educational material for Greece. It contains more than 15,000 learning objects or applications which...",
+          "student_name": "Artemis Georgopoulou",
+          "code_url": "https://github.com/eellak/gsoc2021-sch-webapps",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4514123039113216/"
+        },
+        {
+          "title": "hashesdb",
+          "short_description": "hashesDB will be a command line tool that will help users manage a database of hashes of files. It will provide several database-related...",
+          "student_name": "Georgios Kosmas",
+          "code_url": "https://github.com/eellak/gsoc2021-hashesDB/wiki/hashesdb-presentation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6101740251774976/"
+        },
+        {
+          "title": "Creation of a multi user audio first annotation tool",
+          "short_description": "An annotation tool helps people (without the need for specific knowledge) to mark a segment of an audio file (waveform), an image or text (and...",
+          "student_name": "Ioannis Sina",
+          "code_url": "https://github.com/eellak/gsoc2021-audio-annotation-tool/blob/main/docs/GSOC_FINAL_REPORT.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4908456837906432/"
+        },
+        {
+          "title": "Extending Deepbots to evolutionary algortihms",
+          "short_description": "Deepbots is a wrapper framework for the open-source robotics simulator Webots. It acts as a middleware between the simulator and Reinforcement...",
+          "student_name": "Vedant Shah",
+          "code_url": "https://github.com/aidudezzz/deepbots/wiki/GSoC-2021:-Evolutionary-Algorithms-in-Deepbots",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5155494397739008/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open-technologies-alliance-gfoss/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Flexbench",
+          "short_description": "It is a forked project from the http-traffic-simulator npm package, which was developed to provide simulated throttled http traffic for testing...",
+          "student_name": "Kanha Agrawal",
+          "code_url": "https://flexivian.github.io/flexbench/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/0vJmJgz4/"
+        },
+        {
+          "title": "First Year Student on Parallelised Flows",
+          "short_description": "The project idea is creating parallel working and reusable flows by using Node-Red's subflow-workflow features. This project requires a lot of...",
+          "student_name": "Berke",
+          "code_url": "https://flows.nodered.org/user/Fahrenheit3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mr5vN7K5/"
+        },
+        {
+          "title": "DIY Robot",
+          "short_description": "The project I want to focus on is developing a more compact version of DIY robot for younger students,opposed to the more modular design it currently...",
+          "student_name": "Danai Brilli",
+          "code_url": "https://gist.github.com/danaibrilli/5907d5b43d7a6e358526899bfe2b20e9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XJ5kKZQ1/"
+        },
+        {
+          "title": "Build Recorder",
+          "short_description": "The aim of the project is to create a monitor tool that will record information when building a project. Said information could include, among...",
+          "student_name": "Fotios Valasiadis",
+          "code_url": "https://github.com/fvalasiad/gsoc-2022-build-recorder-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gt4uN8hd/"
+        },
+        {
+          "title": "I/O infrastructure for Apothesis",
+          "short_description": "Apothesis is an open-source software that allows the simulation of thin film deposition processes via the Kinetic Monte Carlo method. Thin-film...",
+          "student_name": "Christina-Anna Gatsiou",
+          "code_url": "https://github.com/eellak/gsoc2022-apothesis/tree/christianna_input",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uA64Hl2A/"
+        },
+        {
+          "title": "Development of a backend management system for NodeRed instances",
+          "short_description": "NodeRed is a visual programming tool than can run on browsers. Project revolves around creation of an API that would facilitate deployment of...",
+          "student_name": "CrocHold",
+          "code_url": "https://github.com/eellak/gsoc2022--Nodered-backend-",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/z9yD2hv3/"
+        },
+        {
+          "title": "Label Buddy 2.0: Automated audio-tagging using transfer learning",
+          "short_description": "This project is an enhancement to the previous work that has been done. Its goal is to make annotation simple and easy while also providing a...",
+          "student_name": "Giannis Prokopiou",
+          "code_url": "https://github.com/eellak/gsoc2022-Label-buddy",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dBh2T0yh/"
+        },
+        {
+          "title": "Development of a DIY robot kit for educators",
+          "short_description": "The goal of the project is to extend the low-cost DIY robot kit for educators, including the designs, tutorials, and basic use-case scenarios. All of...",
+          "student_name": "Eleftheria Papagergiou",
+          "code_url": "https://gist.github.com/Eleftheria-99/e9cf5ce26405796adc740fc55a40b6e8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hZgV3TVm/"
+        },
+        {
+          "title": "Hephaestus: Testing the TypeScript compiler",
+          "short_description": "The 2010s decade marked a beginning for widespread compiler testing with the release of programs like Csmith, a C program generator that since its...",
+          "student_name": "Alex Papadopoulos",
+          "code_url": "https://github.com/alexisthedev/hephaestus/blob/main/GSOC.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/sSPlO4FN/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/open-technologies-alliance-gfoss",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Alexandria3k Extension",
+          "short_description": "The objective of this project is to expand the capabilities of Alexandria3k, an open-source Python package for bibliographic metadata management, to...",
+          "student_name": "Aggelos Margkas",
+          "code_url": "https://gist.github.com/AggelosMargkas/f8bccf4b86b565c766a997d422706ad7",
+          "proposal_id": "ZLlIZRut",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/72BG4Mi7"
+        },
+        {
+          "title": "Creating new Lattices for Apothesis",
+          "short_description": "The goal of this project is to enhance Apothesis, an open-source software that enables the simulation of thin film deposition processes, by adding...",
+          "student_name": "Christina-Anna Gatsiou",
+          "code_url": "https://github.com/nixeimar/Apothesis/tree/gsoc2023",
+          "proposal_id": "zkckpPKI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xLtiI8tX"
+        },
+        {
+          "title": "Development of a Robotic Education Platform for the DIY robot kit for educators",
+          "short_description": "This proposal aims to improve the scalability and maintainability of Fossbot robot software project by splitting the front-end and the back-end into...",
+          "student_name": "Dimitris Charitos",
+          "code_url": "https://gist.github.com/Niroth36/46664dee286e5ea223290f2b143bfcd5",
+          "proposal_id": "7jzIfoOO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HNtIlEkU"
+        },
+        {
+          "title": "DFlow: textual DSL for rapid Virtual Assistant development",
+          "short_description": "DFlow is a tool designed to simplify the process of creating conversational models for virtual assistants. It aims to solve the problem of manual...",
+          "student_name": "Haralabos Metaxas",
+          "code_url": "https://github.com/harabalos/dFlow/blob/main/gsoc.md",
+          "proposal_id": "asw5CBP3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bqFdm4xQ"
+        },
+        {
+          "title": "Development of a Web Based robotic simulator for the DIY robot kit for educators",
+          "short_description": "I propose to develop a comprehensive and accessible robot simulation system for the FOSSbot project, utilizing cutting-edge technologies and best...",
+          "student_name": "Manousos Linardakis",
+          "code_url": "https://gist.github.com/manouslinard/29b2decf4b88e6e0919c81c993969ba0",
+          "proposal_id": "RPSY2wnO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xsxF9klm"
+        },
+        {
+          "title": "Epoptes improvements",
+          "short_description": "Introduction Epoptes (\u0395\u03c0\u03cc\u03c0\u03c4\u03b7\u03c2 - a Greek word for overseer) is an open source computer lab management and monitoring tool. It allows for screen...",
+          "student_name": "Myrto Georgopoulou",
+          "code_url": "https://github.com/eltoukos/epoptes/",
+          "proposal_id": "Ho8Enczy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/4XlDrW31"
+        },
+        {
+          "title": "IoT Physics lab",
+          "short_description": "The project idea aims at making the code for the ESP8266 based NodeMCU, in order to make an IoT network of sensors and actuators for different...",
+          "student_name": "Thomas Kampouris",
+          "code_url": "https://github.com/tkampo/DIY-Physics-IoT/tree/patch-1/GSoC%202023",
+          "proposal_id": "rJgpedAN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/18LbT5uc"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/open-technologies-alliance-gfoss/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Development and Enhancement of the Cloud-Based FOSSBot Platform",
+          "short_description": "In pursuit of this objective, the project will focus on implementing advanced features and functionalities to enrich the learning experience for...",
+          "student_name": "Giorgos Iliopoulos",
+          "code_url": "https://gist.github.com/gioiliop7/d1586b5a870ffa41b6a5302cb5f6835a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uBCSiRhC/"
+        },
+        {
+          "title": "Enabling Apothesis to support atomic layer deposition and etching processes",
+          "short_description": "Creating a new process class and a file reader to read lattice heights from in Apothesis to support ALD/ALE process. There is an abstract process...",
+          "student_name": "PirateOfAndaman",
+          "code_url": "https://github.com/nixeimar/Apothesis/pull/41/files",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jJjRyXbY/"
+        },
+        {
+          "title": "Greeklish-to-Greek: Development of an open-source and state-of-the-art toolkit Project Proposal",
+          "short_description": "This project aims to create an open-source python toolkit that efficiently and accurately converts Greeklish text to Greek text. This will be...",
+          "student_name": "SpyrosBarbakos",
+          "code_url": "https://gist.github.com/5p1r05/91d1fb63f5cec19a818a81114cf2eb82",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/t2CRPI3r/"
+        },
+        {
+          "title": "EDGAR-crawler 2.0: Enhancing Information Extraction of Company Reports",
+          "short_description": "This project aims to expand the information extraction capabilities of the EDGAR-crawler, a project which allows users to download different types of...",
+          "student_name": "Fabian Billert",
+          "code_url": "https://gist.github.com/Bailefan/24b5c6f1c3372c82e1fc2e7ebfd04ba4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eWAGSo7f/"
+        },
+        {
+          "title": "Creating a Factory Pattern for Handling Lattices in Apothesis",
+          "short_description": "Apothesis is an open-source software tool for simulating and analyzing deposition processes through the use of the kinetic Monte Carlo method. This...",
+          "student_name": "Despina Kanakidou",
+          "code_url": "https://github.com/nixeimar/Apothesis/tree/gsoc2024_first_task",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YjhLyHmz/"
+        },
+        {
+          "title": "Open-Technologies-Alliance-Proposal-Yujun Liu",
+          "short_description": "This proposal was titled Enhancements for Flexbench: OpenAPI Integration and Anonymization using Machine Learning (ML). I am leveraging my skills to...",
+          "student_name": "Yujun Liu",
+          "code_url": "https://flexivian.github.io/flexbench/docs/GSoC/2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QW0rSsmj/"
+        },
+        {
+          "title": "MD Attractor",
+          "short_description": "The objective of this project is to create a web Application, for recommending song based on the Ego Network and Similarity Comparison formed using...",
+          "student_name": "Ayush Ray",
+          "code_url": "https://github.com/eellak/gsoc2024-md-attractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/B3IwAhMe/"
+        },
+        {
+          "title": "MyUni - Developing a versatile, accessible university WebApp",
+          "short_description": "The aim is to create a webapp that can be used by different universities and various functionalities/customizations can be added to the webapp for...",
+          "student_name": "sankalpie",
+          "code_url": "https://docs.google.com/document/d/1Qo8bOTuaMYosGyVra187MQ0jGEh0aoUVNeZv6z4cKSw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fvdGjyAs/"
+        },
+        {
+          "title": "DIY IoT Physics Experiments for education:  Enhancing Remote Learning and Experimentation",
+          "short_description": "This project is an extension of previous work in GSoC 2023. The existing version has many problems, such as a laboratory management tool and the need...",
+          "student_name": "Manu Dev",
+          "code_url": "https://github.com/manudev0004/GSoC2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3PEn2fSy/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/open-technologies-alliance-gfoss",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Analysis and System Design Proposal to myUni For GSOC 2025",
+          "short_description": "Problem Statement: The current MyUoM app for Greek universities is a central hub for students and faculty, but it's missing some key features. Right...",
+          "student_name": "Adil Kadival",
+          "code_url": null,
+          "proposal_id": "IV123trV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tz6ymx0o"
+        },
+        {
+          "title": "Enabling GlossAPI to interpret Greek characters",
+          "short_description": "This project addresses the lack of accessible, Greek high-quality datasets for training Large Language Models (LLMs). Although robust LLM frameworks...",
+          "student_name": "Dimitrios Athanasopoulos",
+          "code_url": null,
+          "proposal_id": "SoXbhxvs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WaioHmfG"
+        },
+        {
+          "title": "Flexible GovDoc Scanner - Eftihis Drakakis",
+          "short_description": "Greece\u2019s public business records, available through the GEMI portal, contain valuable information such as company names, founding dates, and key...",
+          "student_name": "Eftihis D",
+          "code_url": null,
+          "proposal_id": "guof8XAr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dKzwxQT9"
+        },
+        {
+          "title": "Extending the capabilities of OpenTRIM",
+          "short_description": "OpenTRIM is a C++ Monte Carlo simulation framework that models the interaction of ions with matter, tracking energy deposition and defect creation....",
+          "student_name": "Iridanos",
+          "code_url": null,
+          "proposal_id": "g8563JSa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/4sZ62NJY"
+        },
+        {
+          "title": "PersonalAIs: Generative AI Agent for Personalized Music Recommendations",
+          "short_description": "PersonalAIs: Generative AI Agent for Personalized Music Recommendations This project aims to enhance music streaming experiences by building an AI...",
+          "student_name": "Ke Ye",
+          "code_url": null,
+          "proposal_id": "wvyBf3Q0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/AyCEnJDE"
+        },
+        {
+          "title": "Exploring and Abstracting Triplestore  Alternatives - Maira Papadopoulou",
+          "short_description": "This project aims to develop a Python library that abstracts multiple RDF triplestore systems into a unified, developer-friendly interface. By...",
+          "student_name": "Maira Papadopoulou",
+          "code_url": null,
+          "proposal_id": "5fvnArJs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xCZ8a9MZ"
+        },
+        {
+          "title": "Identifying Transition Points in the ZGB Model Using Machine Learning",
+          "short_description": "The Ziff\u2013Gulari\u2013Barshad (ZGB) model describes how CO and O\u2082 molecules adsorb and react on a metal surface represented as a square lattice. CO...",
+          "student_name": "Om Swastik",
+          "code_url": null,
+          "proposal_id": "1hsA1Kh7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Hk2P4uiG"
+        },
+        {
+          "title": "Expanding HassIO Smart Home Capabilities via Low-Code Automation Development with SmAuto",
+          "short_description": "Smart home environments are increasingly popular, integrating a wide range of IoT devices to enhance user experience. However, the complexity of...",
+          "student_name": "Venetis",
+          "code_url": null,
+          "proposal_id": "aQVNAVJ0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QcCTOSbs"
+        },
+        {
+          "title": "Docker for Consul Democracy citizen participation platform",
+          "short_description": "Consul Democracy is a civic participation platform used by over 200 municipalities worldwide, each running their own decentralized installation....",
+          "student_name": "Veronika Rybak",
+          "code_url": null,
+          "proposal_id": "9E9nNxTn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dE3cQTn8"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.ellak.gr",
+  "contact_email": "mailto:info@eellak.gr",
+  "mailing_list": "https://lists.ellak.gr/gsoc-developers/listinfo.html",
+  "ideas_url": "https://ellak.gr/wiki/index.php?title=Google_Summer_of_Code_2025_proposed_ideas",
+  "guide_url": "https://ellak.gr/wiki/index.php?title=Google_Summer_of_Code_2025_proposed_ideas",
+  "twitter_url": "https://twitter.com/eellak",
+  "blog_url": "https://gfoss.eu/"
+}

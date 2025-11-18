@@ -1,0 +1,52 @@
+{
+  "name": "NixOS Foundation",
+  "url": "https://nixos.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/nixos-foundation/kvnnwp7viwupdsep.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "declarative",
+    "reproducible",
+    "InfrastrucutreAsCode"
+  ],
+  "technologies": [
+    "git",
+    "nix"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/nixos-foundation/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Nix Internals: Use std::filesystem::path for Path",
+          "short_description": "This document presents the framework for a GSOC'24 project aimed at improving Nix internals by leveraging std::filesystem where applicable,...",
+          "student_name": "siddhantCodes",
+          "code_url": "https://github.com/siddhantk232/nix_gsoc/blob/main/final_submission.org",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/cjYv6pZN/"
+        },
+        {
+          "title": "Nixpkgs networking library",
+          "short_description": "As part of GSoC campaign, I'd like to add a sort of networking library to nixpkgs. Most general-purpose programming languages support network...",
+          "student_name": "Yurii Shymon",
+          "code_url": "https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3Awoojiq+%22lib.network%22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fZjAmqMP/"
+        },
+        {
+          "title": "evanix: Nix Build Scheduler",
+          "short_description": "In evanix we explored making the scheduling of Nix builds more controllable. in particular, we look into implementing constraints such as \u2013max-builds...",
+          "student_name": "Sinan Mohd",
+          "code_url": "https://www.sinanmohd.com/blog/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DjjfWsvl/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://matrix.to/#/#community:nixos.org",
+  "contact_email": "",
+  "mailing_list": "https://discourse.nixos.org/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/nixos_org/",
+  "blog_url": "https://chaos.social/@nixos_org/"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Tokio",
+  "url": "https://tokio.rs",
+  "image_url": "https://lh3.googleusercontent.com/tc2ZKsdIMEMLaSli3YedP89ReiJyAsAakvW47gqZ-cW2MdnxI_1hyKH-vuw9BxYZTutH86kFKynVo4OuxgSBmh19fEsaIm8",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "concurrency",
+    "networking",
+    "windows",
+    "rust"
+  ],
+  "technologies": [
+    "rust",
+    "tokio_rs"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6043030627287040/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Tokio Console",
+          "short_description": "Tokio provides an instrumentation API using tracing as well as a number of instrumentation points built into Tokio itself and the Tokio ecosystem....",
+          "student_name": "MSleepyPanda",
+          "code_url": "https://github.com/tokio-rs/console",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5990259773407232/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/tokio-rs/gsoc",
+  "contact_email": "mailto:carl@buoyant.io",
+  "mailing_list": "https://tokio.rs/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/tokio_rs",
+  "blog_url": "https://tokio.rs/"
+}

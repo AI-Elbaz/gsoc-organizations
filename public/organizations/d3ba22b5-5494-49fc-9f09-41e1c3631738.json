@@ -1,0 +1,86 @@
+{
+  "name": "Developers Italia",
+  "url": "https://developers.italia.it/",
+  "image_url": "https://lh3.googleusercontent.com/cpRI0hsUYnvwREKwSUsiJsUs7izGn-Ym8XZmDrWLkF2A_RGZD4RYQOEf0qB0ZDbXnO6C4iG9ZLglK752WbjwbvB0K10_54k",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "open data",
+    "government",
+    "data-science",
+    "identity",
+    "web applications",
+    "open source",
+    "open government",
+    "public code"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "java",
+    "ruby",
+    "node.js",
+    "go",
+    "scala",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6208428913459200/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Refreshing DAF & easing developers\u2019 life",
+          "short_description": "As the proposal says, \u201cDAF [...] is not the most developer-friendly environment to set-up\u201d. \nAs a young developer, I deem DAF\u2019s complex structure...",
+          "student_name": "Lorenzo Soligo",
+          "code_url": "https://github.com/teamdigitale/daf-drone-setup/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4630133927313408/"
+        },
+        {
+          "title": "Datastories",
+          "short_description": "Italian Team Digitale is building the first \u201coperating system\u201d of a country. One of the technologies that it has implemented is the Data & Analytics...",
+          "student_name": "Costantino Carugno",
+          "code_url": "https://github.com/rugantio/GSoC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5133118755307520/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5926253033422848/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Complete the React Web Toolkit",
+          "short_description": "Among the projects followed by the Developers Italia community, there are few Kits to help web development phase, that are based on a shared design...",
+          "student_name": "Sanyam Dogra",
+          "code_url": "https://sanyamdogra.github.io/blog/GSoC-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5300408434556928/"
+        },
+        {
+          "title": "Creating plots based on DAF data",
+          "short_description": "This project involves the creation and refinement of a tool to create plots, using the Data & Analytics Framework APIs or graphql based on DAF data....",
+          "student_name": "Alessandro Vannoni",
+          "code_url": "https://medium.com/@alessandro.vannoni/my-gsoc-2019-with-developers-italia-50568a8fe2f5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5318876324167680/"
+        },
+        {
+          "title": "OpenAPI V3",
+          "short_description": "Interoperability ModelPort the gen-api-models tool to OpenAPI v3\nI spoke with Mentor/managers on Slack (Leonardo Favario and Roberto Polli) Which I...",
+          "student_name": "Aymen Naghmouchi",
+          "code_url": "https://medium.com/@aymennaghmouchi/my-experience-about-google-summer-of-code-2019-d73907a5d55b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6232664103714816/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://slack.developers.italia.it/",
+  "contact_email": "mailto:teamdigitale@governo.it",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/ITdigitalteam",
+  "blog_url": "https://medium.com/team-per-la-trasformazione-digitale/english/home"
+}

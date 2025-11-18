@@ -1,0 +1,259 @@
+{
+  "name": "Godot Engine",
+  "url": "https://godotengine.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/godot-engine/cggtfgpsfjd23pf0-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "virtual reality",
+    "rendering",
+    "game engine",
+    "gaming",
+    "game development",
+    "graphics",
+    "real time",
+    "cross-platform",
+    "game engines",
+    "programming"
+  ],
+  "technologies": [
+    "opengl",
+    "github",
+    "c++",
+    "cpp",
+    "crossplatform",
+    "gdscript",
+    "c",
+    "vulkan",
+    "c/c+",
+    "webassembly"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5406815277809664/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "WebRTC into Godot & Peer-to-Peer multiplayer the Godot way",
+          "short_description": "Godot's high-level multiplayer approach makes it uniquely easy to create client-host and true peer-to-peer (P2P) models of multiplayer gaming. ...",
+          "student_name": "Brandon Michael Makin",
+          "code_url": "https://gist.github.com/BrandonMakin/3ee48b4da19521307f5f5703a183a03d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6620865563197440/"
+        },
+        {
+          "title": "GearVR and Daydream Support",
+          "short_description": "This project involves improving the existing ARVR Server by adding support for the premium Mobile VR platforms.  The goal is to improve the existing...",
+          "student_name": "Paritosh Sharma",
+          "code_url": "https://paritosh97.github.io/gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5492488802402304/"
+        },
+        {
+          "title": "TSCN exporter for Blender",
+          "short_description": "Currently dedicated asset formats (such as collada  and glTF) is used as an exchange to import 3D asset from modeling software into Godot engine....",
+          "student_name": "Jiacheng Lu",
+          "code_url": "https://gist.github.com/Jason0214/4f2cb74f8659315bd254d94246958d28",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6178246299222016/"
+        },
+        {
+          "title": "MIDI support for Godot Engine",
+          "short_description": "The way I see MIDI working in godot would be to create another type of bus which handles MIDI data. It would probably work similarly to a sampler, by...",
+          "student_name": "Daniel Matarov",
+          "code_url": "https://github.com/DanielMatarov/Google-Summer-of-Code--Module-and-test-projects/tree/master/TSF",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5358763183702016/"
+        },
+        {
+          "title": "Adding support for video decoder modules using GDNative.",
+          "short_description": "Godot has support for video playback through VideoPlayer API, which while useful, is constrained to\nusing one of the two supported formats (Theora or...",
+          "student_name": "Anish Bhobe",
+          "code_url": "https://gist.github.com/KidRigger/0749d01dc0a7b850dd1483f901427774",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5792013848936448/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4692174627667968/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Asynchronous Cached File Access for Godot Engine",
+          "short_description": "This project aims to add a more flexible asynchronous file system cache server as an engine module. It will cache any IO operations, and provide more...",
+          "student_name": "Raghav Shankar",
+          "code_url": "https://github.com/WarpspeedSCP/godot-cacheserv",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5503096212422656/"
+        },
+        {
+          "title": "Static Analyzer for GDScript",
+          "short_description": "While making medium to large scale games in Godot, many small bugs start to creep in that cannot be caught by the compiler. These can only be dealt...",
+          "student_name": "Suhas Prasanna",
+          "code_url": "https://gist.github.com/psuhas77/c52373fa34a1b76bf87fc04778f0ae12",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5048292512104448/"
+        },
+        {
+          "title": "Motion Matching Implementation Using Kd trees",
+          "short_description": "Godot is an Open source Game engine which is getting really popular because of it's easy-to-use interface and wonderful community. It is a real game...",
+          "student_name": "DestinyGamer",
+          "code_url": "https://github.com/Aa20475/GSOC-DEVLOG/blob/master/final_sub.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5358867771293696/"
+        },
+        {
+          "title": "Interactive Music for Godot Engine",
+          "short_description": "The aim of this project is to add an interactive music feature to Godot, with similar functionalities to Wwise. Wwise itself cannot be used however,...",
+          "student_name": "Daniel Matarov",
+          "code_url": "https://github.com/DanielMatarov/Google-Summer-of-Code-2019-Submission/blob/master/GSOC%20final%20progress%20report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4547700517765120/"
+        },
+        {
+          "title": "Rewriting Godot's lightmapper",
+          "short_description": "My goal is to rewrite the current lightmapper used in Godot in order to add some quality improvements and eventually allow it to use the GPU to speed...",
+          "student_name": "jfons",
+          "code_url": "https://github.com/JFonS/gsoc2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4591256938741760/"
+        },
+        {
+          "title": "GDScript Language Server",
+          "short_description": "Integrated script editor in Godot lacks features found in editors like VS Code, Sublime, Emacs, etc. These editors are also more popular among...",
+          "student_name": "Ankit Priyarup",
+          "code_url": "https://gist.github.com/ankitpriyarup/a09b61afce8eacd1200de093e82f67b7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4680775784464384/"
+        },
+        {
+          "title": "Improvements to Visual Scripting System",
+          "short_description": "Visual Scripting Language is a part of Godot Engine that is fairly underdeveloped. But it still is a really powerful system which just needs to be...",
+          "student_name": "minraws",
+          "code_url": "https://gist.github.com/swarnimarun/23e727914afa511b33fcf1c3d44522e2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6065782478340096/"
+        },
+        {
+          "title": "Godot VCS Wide Integration",
+          "short_description": "Adding a Version Control API to Godot which supports working with multiple types of popular VCSs (both distributed and central). This API shall be...",
+          "student_name": "IronicallySerious",
+          "code_url": "https://gist.github.com/IronicallySerious/1ac3e3ae4a51e6f739c31dd7c46f2566",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6066990521778176/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4877284235804672/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Add and enhance inverse kinematics (IK) in Godot",
+          "short_description": "Project Abstract\nThis project would bring a number of new Inverse Kinematics (IK) solvers and improvements to the Godot Game Engine, affecting both...",
+          "student_name": "Noah Beard",
+          "code_url": "https://gist.github.com/TwistedTwigleg/3e4a8dabc6d5f64ba7ed49eb43de5ce9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6588671165202432/"
+        },
+        {
+          "title": "Visual Scripting Submodules",
+          "short_description": "Adding modularity to the Visual Scripting system for adding in-visualscript programmable submodules/nodes that can be used across the same or...",
+          "student_name": "Swarnim Arun",
+          "code_url": "https://gist.github.com/swarnimarun/06c223018b41e5dfd3012d0ff7e2c38e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6133041539317760/"
+        },
+        {
+          "title": "Version Control System Improvments",
+          "short_description": "To help users to collaborate and use version control tools easily, Godot 3.2 introduced the version control system. The initial project to integrate...",
+          "student_name": "Patel Meru",
+          "code_url": "https://gist.github.com/Janglee123/1c1e723e1a96df4b00c9a4eca6fceb27",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4767844878778368/"
+        },
+        {
+          "title": "GDScript documentation generation system",
+          "short_description": "GDScript is a high-level, dynamic typed python like language. It's one of the supported language of Godot Engine developed by it's community.\nThe...",
+          "student_name": "Thakee Nathees",
+          "code_url": "https://github.com/ThakeeNathees/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4920748767969280/"
+        },
+        {
+          "title": "Improvement in i18n for games",
+          "short_description": "The goal of this project is to improve internationalization (i18n) support in Godot. In particular, we wish to make the localization process simpler...",
+          "student_name": "Jia Jun CHAI",
+          "code_url": "https://github.com/SkyLucilfer/GSoC-2020/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5980734751244288/"
+        },
+        {
+          "title": "Custom Performance Monitors and Debugger Plugins in Godot Engine",
+          "short_description": "This project adds support for Custom Performance Monitors and Debugger Plugins to Godot. Just like built-in performance monitors, it tracks...",
+          "student_name": "Simpu",
+          "code_url": "https://gist.github.com/simpuid/80257ea6e1997a703096f782a4acf9de",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6300627941982208/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5744305389436928/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Command Palette",
+          "short_description": "This Project aims  to make Command Palette for Godot game engine that can execute some major editor actions available in editor menus. this project...",
+          "student_name": "Bhuvaneshwar Vemula",
+          "code_url": "https://gist.github.com/Bhu1-V/1602afac66cb7cc8a5835231e9da0968",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5660917559197696/"
+        },
+        {
+          "title": "Improvements to Godot Soft-body Dynamics",
+          "short_description": "Deformation is one of the most ubiquitous and recognizable physical phenomena: trees swaying in the breeze, a bouncing ball, someone poking the...",
+          "student_name": "Jeffrey Cochran",
+          "code_url": "https://gist.github.com/jeffrey-cochran/005deb150877318f8f11d033049740c9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6133291987501056/"
+        },
+        {
+          "title": "Auto-Arrangement of Nodes in GraphEdit, VisualScript and VisualShaders",
+          "short_description": "This project aims to add the feature that would automatically arrange the nodes in the canvas of GraphEdit/VisualScript/VisualShader, in a systematic...",
+          "student_name": "Umang Kalra",
+          "code_url": "https://gist.github.com/theoway/1c38965cfc954fb562e876576164e89a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4824052140605440/"
+        },
+        {
+          "title": "Add pseudo-localization to better spot untranslated strings and unexpected layout changes caused by long strings",
+          "short_description": "The project aims at implementing support for pseudo-localization in Godot. Pseudo-localization is an important tool for internationalization. It...",
+          "student_name": "Angad Kambli",
+          "code_url": "https://gist.github.com/angad-k/60a0d39882c5dff00e8b14183c96effb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4924604774088704/"
+        },
+        {
+          "title": "Implementing a DAP backend for debugging Godot projects",
+          "short_description": "This project aims to add a new debug backend to the editor, compliant with the DAP specification by Microsoft. This allows for more integrated...",
+          "student_name": "Ricardo Subtil",
+          "code_url": "https://gist.github.com/Ev1lbl0w/01067153db5608d48773719fa63ab2b8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5851817010790400/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/godot-engine/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Multi window code and shader editors",
+          "short_description": "Take advantage of multiple screens and window tiling with the Godot Editor! Make separate windows for the Script Editor and the Shader editors, using...",
+          "student_name": "trollodel",
+          "code_url": "https://gist.github.com/trollodel/fa95eb3abaa73b7d97d0f1cd06384e08",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4cIGjw9I/"
+        },
+        {
+          "title": "GPU Lightmapper Enhancements",
+          "short_description": "This project aims to implement a debug draw mode for texel density of lightmaps and enhance the GPU Lightmapper by adding support for soft shadows...",
+          "student_name": "techiepriyansh",
+          "code_url": "https://gist.github.com/techiepriyansh/074ff2631a96f73121d59d40ba8edd18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Spg694FC/"
+        },
+        {
+          "title": "Refactor and UX Updates of ColorPicker",
+          "short_description": "ColorPicker has RGB, HSV and Raw mode, but they never were properly separated, resulting in messy code. With OKHSL mode going to be added soon that...",
+          "student_name": "Vitika Soni",
+          "code_url": "https://gist.github.com/Vitika9/778d5f005eb2a00af35ef9d37e65422e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BzqiKO7c/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.godotengine.org",
+  "contact_email": "mailto:gsoc@godotengine.org",
+  "mailing_list": "https://github.com/godotengine/godot-proposals/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/godotengine",
+  "blog_url": "https://godotengine.org/news"
+}

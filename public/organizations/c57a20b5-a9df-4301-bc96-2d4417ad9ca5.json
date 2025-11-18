@@ -1,0 +1,104 @@
+{
+  "name": "Computational Science and Engineering at TU Wien",
+  "url": "http://www.iue.tuwien.ac.at/cse/",
+  "image_url": "https://lh3.googleusercontent.com/cSBhg7cusl86lHw3cIxt-RXh0oMqmru-6YP3vtxHawiT3iYpfnf_KtrGG2tYPgIndDeg9l3j9Rr_dbHeEhjaLw-EcQXEi7A",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "internet of things",
+    "simulation",
+    "science and enineering",
+    "mesh generation"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "c++",
+    "html",
+    "css"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5902411419877376/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Colibri OpenADR connector",
+          "short_description": "This is a brief overview of what I intend to do. I want to implement the standardized smart grid\nconnection \u201dOpenADR\u201d. What are the advantages to...",
+          "student_name": "Georg Faustmann",
+          "code_url": "https://github.com/dschachinger/colibri/commits/master?author=faustmann",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6463848471068672/"
+        },
+        {
+          "title": "Improving and Porting Carbon Footprint for Google Maps to Safari and Firefox",
+          "short_description": "With global warming on rise, there is an urgent need to cut down our carbon footprints. Recently my city, New Delhi made headlines being one of the...",
+          "student_name": "Chirag Arora",
+          "code_url": "https://github.com/OiWorld/CarbonFootprintGoogleMaps/commits/master?author=heychirag",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6580164238508032/"
+        },
+        {
+          "title": "Mind The Word",
+          "short_description": "In every web page visited, the extension randomly translates a few words into the target language specified by the user. Because the translated words...",
+          "student_name": "Rohan Katyal",
+          "code_url": "https://medium.com/@rohankatyal/https-medium-com-rohankatyal-eat-sleep-mindtheword-repeat-gsoc16-ec4249f38062#.891vzdic9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6708695966679040/"
+        },
+        {
+          "title": "Carbon Footprint for Google Maps Firefox Port",
+          "short_description": "During this project i would start with porting the basic implementation of the carbon dioxide calculation and would after that is complete create and...",
+          "student_name": "Kolpa",
+          "code_url": "https://github.com/OiWorld/CarbonFootprintGoogleMaps/commits/master?author=kolpa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5739656318550016/"
+        },
+        {
+          "title": "R/Privacy: Raising the quality and trust of data privacy software",
+          "short_description": "Data privacy has become one of the hot topics in society, but also in research. In the light of data available to the public or to researchers, data...",
+          "student_name": "Probhonjon Baruah",
+          "code_url": "https://drive.google.com/drive/folders/0B-E7Nkn1YWJXeTJCT285RXladWs?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5431294041260032/"
+        },
+        {
+          "title": "Enhancing Language Learning using Mind the Word",
+          "short_description": "The focus of my project is to make the process of learning a new language less intrusive for a user. This involves two primary changes to the...",
+          "student_name": "ankit_m",
+          "code_url": "http://ankit-m.github.io/2016/08/19/GSOC-Mind-the-Word-Ankit-Muchhala.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5454264331665408/"
+        },
+        {
+          "title": "Colibri \u2013 OBIX Connector",
+          "short_description": "The OBIX Connector is intended to connect the OASIS OBIX platform to Colibris semantic interface. The Colibri smart energy management system will be...",
+          "student_name": "goJoWe16",
+          "code_url": "https://github.com/dschachinger/colibri/commits/master?author=goJoWe16",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5257281025343488/"
+        },
+        {
+          "title": "Visualizing Tool for Probabilistic Classification data in WEKA, RapidMiner, KNIME and R",
+          "short_description": "Multi-Class Classification is a central task in data mining there are a variety of classifiers that compute scores of the samples to belong to the...",
+          "student_name": "Medha",
+          "code_url": "https://katehara.github.io/classilist-site/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5632687473688576/"
+        },
+        {
+          "title": "Colibri: MATLAB Simulink Connector",
+          "short_description": "Colibri provides a platform for smart building energy management. Semantics about the building, the building automation systems, other...",
+          "student_name": "PratyushTalreja",
+          "code_url": "https://github.com/dschachinger/colibri/commits/master?author=PratyushTalreja",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5637641986899968/"
+        },
+        {
+          "title": "Carbon Footprints",
+          "short_description": "The project aims at developing extensions for multiple browser which allows a user to use the extension for most of leading map services, the...",
+          "student_name": "PrateekGupta1509",
+          "code_url": "https://github.com/OiWorld/CarbonFootprintGoogleMaps/commits?author=PrateekGupta1509",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4860074396745728/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2016.html",
+  "contact_email": "mailto:cse-org@iue.tuwien.ac.at",
+  "mailing_list": "http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2016.html",
+  "ideas_url": "",
+  "guide_url": ""
+}

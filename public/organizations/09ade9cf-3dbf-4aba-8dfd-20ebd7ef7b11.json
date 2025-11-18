@@ -1,0 +1,30 @@
+{
+  "name": "GRR Rapid Response",
+  "url": "https://github.com/google/grr",
+  "image_url": "https://lh3.googleusercontent.com/9oAVm1kVBef_gKU4Cc0dJkkOZAnIEUdnP5oGij12Up5NBoA--ZrEOiqBt7QevgibIUqxFgK_OFehxfSqInwoHTWniY_s3GwPlFgoAPgqZwP_1w",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "computer security",
+    "digital forensics"
+  ],
+  "technologies": [
+    "python 3",
+    "angular",
+    "typescript",
+    "materialui",
+    "backend"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5763186065670144/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://grr-doc.readthedocs.io/en/latest/",
+  "contact_email": "mailto:grr-soc-2021@google.com",
+  "mailing_list": "https://grr-doc.readthedocs.io/en/latest/",
+  "ideas_url": "",
+  "guide_url": ""
+}

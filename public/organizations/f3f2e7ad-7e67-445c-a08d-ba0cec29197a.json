@@ -1,0 +1,33 @@
+{
+  "name": "Peragro",
+  "url": "http://www.peragro.org/",
+  "image_url": "https://lh3.googleusercontent.com/30U2sySIY1xqaIbEGgosUKnLzLYhOUaLkuKjCJhnjTgXD4bE86E5FOiHJqOV0nb3qUnmPTxVrw4D29pzgNToPKuS75AekeJ-",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "web",
+    "games",
+    "analyzing",
+    "transcoding",
+    "pipeline automation"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "django",
+    "blender",
+    "celery"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5191954035900416/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "http://www.peragro.org/#contact",
+  "contact_email": "mailto:info@peragro.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,251 @@
+{
+  "name": "The Rust Foundation",
+  "url": "https://www.rust-lang.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-rust-foundation/pplrhxvka7dufvsn.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming languages"
+  ],
+  "technologies": [
+    "python",
+    "rust"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-rust-foundation/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Improve Rust benchmark suite",
+          "short_description": "rustc-perf is composed of a data collector that collects rustc\u2019s comiple & runtime benchmarks and web application that visualize the collected data....",
+          "student_name": "Eitaro Kubotera",
+          "code_url": "https://gist.github.com/s7tya/96dc1cae4ca9e59841a95f0f48d023d6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MeyNanKI/"
+        },
+        {
+          "title": "Design and Implementation of a Faster Register Allocator For Cranelift",
+          "short_description": "The Rust compiler is notorious for needing to be faster at its job. Enormous effort has been put into solving this problem, but there is still room...",
+          "student_name": "Demilade Sonuga",
+          "code_url": "https://d-sonuga.netlify.app/gsoc/regalloc-iii/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zxxeGZMt/"
+        },
+        {
+          "title": "Move cargo shell completions to Rust",
+          "short_description": "Project Description: The existing completion functionality for cargo commands is achieved through the maintenance of a completion script. This script...",
+          "student_name": "shanmu",
+          "code_url": "https://hackmd.io/@PthRWaPvSmS_2Yu_GLbGpg/Hk-ficKpC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/jjnidpgn/"
+        },
+        {
+          "title": "Rewriting the Rewrite trait",
+          "short_description": "Rustfmt, the de facto standard tool for formatting Rust code, has been reported that it occasionally fails to format silently. One of the major...",
+          "student_name": "SeoYoung Lee",
+          "code_url": "https://ding-young.github.io/posts/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gHEu3vxc/"
+        },
+        {
+          "title": "Tokio async support in Miri",
+          "short_description": "Miri is a testing tool to check undefined behaviour in unsafe Rust. Currently, a significant portion of Tokio async program still cannot be...",
+          "student_name": "Tiffany Pek Yuan",
+          "code_url": "https://gist.github.com/tiif/3e08ba6e8cfb1d078e6155410108ae48",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rk1Ey4hN/"
+        },
+        {
+          "title": "Rewriting Esoteric, Error-Prone Makefile Tests Using Robust Rust Features",
+          "short_description": "tests/run-make contains a heaping collection - 349 to be precise - of Makefiles containing ancient and difficult to understand test scripts. As a...",
+          "student_name": "Julien Robert",
+          "code_url": "https://oneirical.github.io/gsocfinal/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/P5BC91Hr/"
+        },
+        {
+          "title": "Sandboxed and Deterministic Proc Macro using Wasm",
+          "short_description": "Add experimental support to rustc for building and running procedural macros as WebAssembly. Procedural Macro crates can opt in for being compiled to...",
+          "student_name": "Apurva Mishra",
+          "code_url": "https://github.com/mav3ri3k/rust/blob/gsoc24/gsoc24.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kXG0mZoj/"
+        },
+        {
+          "title": "Adding lint-level configuration to cargo-semver-checks",
+          "short_description": "cargo-semver-checks is an amazing tool in the Rust ecosystem that automatically detects violations in Semantic Versioning (semver) using lints....",
+          "student_name": "Max Carr",
+          "code_url": "https://blog.mcarr.one/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hADSyIDV/"
+        },
+        {
+          "title": "Rust to .NET compiler - add support for compiling & running cargo tests",
+          "short_description": "This proposal aims to extend the ability of `rustc_codegen_clr`, the Rust to .NET compiler backend, to run `cargo test`s. While the project is...",
+          "student_name": "Fractal Fir",
+          "code_url": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_0.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IIHP5ozV/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-rust-foundation",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Modernising the libc Crate",
+          "short_description": "The libc crate has been a core part of Rust since its early days, making breaking changes increasingly difficult over time. Redundant and legacy code...",
+          "student_name": "Abdul Muiz",
+          "code_url": null,
+          "proposal_id": "uXE1dZY2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/r3LkZkOy"
+        },
+        {
+          "title": "Add safety contracts",
+          "short_description": "There is ongoing work to instrument the Rust standard library with safety contracts. Based on a discussion by the Formal Verification Working Group...",
+          "student_name": "Dawid Lachowicz",
+          "code_url": null,
+          "proposal_id": "fkcac6gI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UYWEKUkd"
+        },
+        {
+          "title": "Bootstrap of rustc with rustc_codegen_gcc",
+          "short_description": "Currently, the new, experimental GCC based compiler backend for Rust(`rustc_codegeng_gcc`) is not able to build the Rust compiler. The goal of this...",
+          "student_name": "Fractal Fir",
+          "code_url": null,
+          "proposal_id": "i8ZQ8OIl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KmfCY0i6"
+        },
+        {
+          "title": "Make Rustup Concurrent",
+          "short_description": "Rustup is the official toolchain installer and version manager for the Rust programming language. The current implementation of Rustup processes...",
+          "student_name": "Francisco Gouveia",
+          "code_url": null,
+          "proposal_id": "zF6wjcjj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CpXV4kzH"
+        },
+        {
+          "title": "Prototype an alternative architecture for cargo fix using cargo check",
+          "short_description": "The current implementation of cargo fix is quite slow and makes extra calls to rustc slowing down the process. A simplified architecture would also...",
+          "student_name": "Glen Thalakottur",
+          "code_url": null,
+          "proposal_id": "Dxonkkz4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fBOCR2Sp"
+        },
+        {
+          "title": "Distributed and resource-efficient verification",
+          "short_description": "Reduce CI time in verify-rust-std repo by offloading proof verification to multiple Github Runner machines to run verification in parallel, and more...",
+          "student_name": "Jiping Zhou",
+          "code_url": null,
+          "proposal_id": "aTmqiED2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5677hd6S"
+        },
+        {
+          "title": "Make cargo-semver-checks faster",
+          "short_description": "cargo-semver-checks is a development tool that allows rust libraries to check whether a release breaks semver by running lints on the API. For...",
+          "student_name": "Joseph Chung",
+          "code_url": null,
+          "proposal_id": "BjZ1rpWu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qs2rDLG4"
+        },
+        {
+          "title": "Mapping the Maze of Rust's UI Test Suite with Established Continuous Integration Practices",
+          "short_description": "Despite `tests/ui`'s usefulness to maintainers, it acts as a barrier to new contributors - with how expansive it is, major pull requests can break...",
+          "student_name": "Julien Robert",
+          "code_url": null,
+          "proposal_id": "Vjb0T1sk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/KP02lKL4"
+        },
+        {
+          "title": "Improve Wild linker test suites",
+          "short_description": "This project aims to enhance the testing of the Wild linker by leveraging existing linker test suites, providing strong support for its development....",
+          "student_name": "Kei Akiyama",
+          "code_url": null,
+          "proposal_id": "Oxj4azl3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ps99Kaqk"
+        },
+        {
+          "title": "Parallel Macro Expansion",
+          "short_description": "A lot of work has been done to parallelize the Rust compiler frontend, with notable success in code generation and some post-HIR lowering stages....",
+          "student_name": "Lorrens Pantelis",
+          "code_url": null,
+          "proposal_id": "hsG6Nh5f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SBW3GMno"
+        },
+        {
+          "title": "Extend behavioural testing of std::arch intrinsics",
+          "short_description": "Rust's std::arch module houses vendor-specific intrinsics (low-level functions that typically correspond to single machine instructions) which are...",
+          "student_name": "Madhav Madhusoodanan",
+          "code_url": null,
+          "proposal_id": "rfAtzzAz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DeMQAjwi"
+        },
+        {
+          "title": "Prepare stable_mir crate for publishing",
+          "short_description": "StableMIR aims to provide a stable Rust compiler interface via a stable_mir crate on crates.io, shielding external tools from internal changes....",
+          "student_name": "Makai",
+          "code_url": null,
+          "proposal_id": "2pRTlIy6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3y9x5X8O"
+        },
+        {
+          "title": "Cargo: Build script delegation",
+          "short_description": "This project aims to overcome the limitations of the current Build Script system by allowing multiple, well-organised build scripts, that are...",
+          "student_name": "Naman Garg ( namanlp )",
+          "code_url": null,
+          "proposal_id": "lDLOfMGc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nUt4PdAA"
+        },
+        {
+          "title": "New proc-macro Server API for Rust-Analyzer",
+          "short_description": "Currently, Rust-analyzer expands procedural macros using a client/server architecture, where a separate proc-macro server process loads and executes...",
+          "student_name": "Neil Wang",
+          "code_url": null,
+          "proposal_id": "sv4x0dZx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/76ekEjd1"
+        },
+        {
+          "title": "ABI/Layout handling for the automatic differentiation feature",
+          "short_description": "The integration of automatic differentiation (autodiff) into the Rust compiler via Enzyme faces challenges due to ABI adjustments that alter function...",
+          "student_name": "Sa4dUs",
+          "code_url": null,
+          "proposal_id": "a6pq51Th",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/USQvru7i"
+        },
+        {
+          "title": "Implement merge functionality in bors",
+          "short_description": "Various Rust repositories under the rust-lang organization use a merge queue bot, bors, for testing and merging pull requests. This project aims to...",
+          "student_name": "Sakibul Islam",
+          "code_url": null,
+          "proposal_id": "5dB7oEle",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HlR12jqX"
+        },
+        {
+          "title": "Improve bootstrap",
+          "short_description": "This project aims to enhance the testability of Bootstrap and make it faster, the Rust build system, by improving its architecture, refining its...",
+          "student_name": "Shourya Sharma",
+          "code_url": null,
+          "proposal_id": "7Vv1Pm6B",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2KNHAlKz"
+        },
+        {
+          "title": "Enable Witness Generation in cargo-semver-checks",
+          "short_description": "The crate cargo-semver-checks provides feedback to user based on what possible breaking changes they may have made, which as per semantic versioning...",
+          "student_name": "Talyn Veugelers",
+          "code_url": null,
+          "proposal_id": "ac3wp2Fb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MMRSG9WU"
+        },
+        {
+          "title": "Prototype Cargo Plumbing Commands",
+          "short_description": "This project prototypes a new set of Cargo plumbing commands, aligned with Rust\u2019s 2025H1 project goals. Plumbing commands are lower-level, less...",
+          "student_name": "Vito Secona",
+          "code_url": null,
+          "proposal_id": "1DfblSyM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fTDzc0sk"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://rust-lang.zulipchat.com/#narrow/stream/421156-gsoc",
+  "ideas_url": "https://github.com/rust-lang/google-summer-of-code",
+  "guide_url": "https://github.com/rust-lang/google-summer-of-code/blob/main/gsoc/proposal-guide.md",
+  "twitter_url": "https://twitter.com/rustlang",
+  "blog_url": "https://blog.rust-lang.org/"
+}

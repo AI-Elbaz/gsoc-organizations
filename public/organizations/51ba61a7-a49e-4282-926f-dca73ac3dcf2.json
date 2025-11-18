@@ -1,0 +1,341 @@
+{
+  "name": "ScummVM",
+  "url": "https://www.scummvm.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/scummvm/bnok4srtehdy3fbj-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "games",
+    "game engines",
+    "software preservation",
+    "game",
+    "engines",
+    "software archeology"
+  ],
+  "technologies": [
+    "opengl",
+    "c++",
+    "assembly",
+    "sdl",
+    "c",
+    "lua",
+    "python",
+    "php"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5518719174311936/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Dungeon Master",
+          "short_description": "Dungeon Master, the grandfather of all dungeon crawlers, would be the very first RPG ported onto ScummVM and will enable for the fans, who grew up...",
+          "student_name": "WinterGrascph",
+          "code_url": "https://github.com/WinterGrascph/dm/commits/master?author=WinterGrascph",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5117213551886336/"
+        },
+        {
+          "title": "Add support for MacVenture games via WebVenture engine",
+          "short_description": "The ScummVM project currently does not support the original MacVenture games developed for the Macintosh 128k. However, there is already a modern...",
+          "student_name": "blorente",
+          "code_url": "https://gist.github.com/blorente/a8a66788aba35f14cf2d2338eb2bd069",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6559102792630272/"
+        },
+        {
+          "title": "Implement cloud storages support in ScummVM",
+          "short_description": "The idea is to implement cloud support in ScummVM. Users would be able to sync their save files and download game data from different cloud storage...",
+          "student_name": "Tkachov",
+          "code_url": "http://tkachov.ru/gsoc/post_work_product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6101705955475456/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6165044375060480/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Porting Mission Supernova",
+          "short_description": "\u201cMission Supernova\u201d is a science-fiction point \u2018n\u2019 click adventure, developed by Thomas and Steffen Dingel in 1994 for MS-DOS. You play as the chef...",
+          "student_name": "Joefish",
+          "code_url": "https://joefish-gsoc.blogspot.de/2017/08/summary-of-gsoc-2017.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4976553104506880/"
+        },
+        {
+          "title": "Sludge Engine",
+          "short_description": "SLUDGE is a 2D adventure game engine created during the development of the game \"Out Of Order\" by Hungry Software and my mission is to integrate this...",
+          "student_name": "Simei YIN",
+          "code_url": "http://yinsimei.wordpress.com/2017/08/28/gsoc-2017-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4640631095820288/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5712088936742912/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "ScummVM GSoC Application: Improve the Stark Engine",
+          "short_description": "Improve the Stark engine on ResidualVM to make the game menus and character\u2019s shadows working on the game The Longest Journey.",
+          "student_name": "Douglas Liu",
+          "code_url": "http://douglasingsoc.blogspot.com/2018/08/residualvm-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5081710949564416/"
+        },
+        {
+          "title": "Pink Panther Engine",
+          "short_description": "Reverse and implement game engine of Pink Panther : Passport to Peril and Pink Panther :  Hokus Pokus Pink\ngame for ScummVm. These games use the same...",
+          "student_name": "Andrii Prykhodko",
+          "code_url": "https://pantherengine.wordpress.com/2018/08/08/gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4575211630362624/"
+        },
+        {
+          "title": "Star Trek Engine",
+          "short_description": "This will be an implementation of the engine used by Star Trek: 25th Anniversary and Star Trek: Judgment Rites, two DOS games made by Interplay in...",
+          "student_name": "Matthew Stewart",
+          "code_url": "https://drenn1.github.io/gsoc-end/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5141628830351360/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5793284520148992/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Mission Supernova 2 engine",
+          "short_description": "An engine in C++ to run the Mission Supernova 2 game on ScummVM.",
+          "student_name": "Jarom\u00edr Wysoglad",
+          "code_url": "https://vyzigold-gsoc.blogspot.com/2019/08/google-summer-of-code-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6361385615753216/"
+        },
+        {
+          "title": "Hyperspace Delivery Boy",
+          "short_description": "This will be a game engine for the Pocket PC game Hyperspace Delivery Boy. It consists of a set of Lua extensions, which will be based on the Lua...",
+          "student_name": "Nipun Garg",
+          "code_url": "https://github.com/scummvm/scummvm/pull/1805",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6726829702905856/"
+        },
+        {
+          "title": "Game engine for Red Comrades 1 and Red Comrades 2",
+          "short_description": "Implement game engine developed by S.K.I.F targeting original versions of Red Comrades 1: Save The Galaxy (1998) and Red Comrades 2 : For the Great...",
+          "student_name": "whiterandrek",
+          "code_url": "https://pantherengine.wordpress.com/2019/08/25/gsoc-2019-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6130132832485376/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6265295930392576/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Porting Wintermute 3d engine to ResidualVM",
+          "short_description": "ScummVM contains a port of the Wintermute lite engine, which is only capable of 2d graphics. The original Wintermute engine also offered some 3d...",
+          "student_name": "Gunnar Birke",
+          "code_url": "https://gunnar.syzygia.de/index.php/2020/08/26/wrapping-it-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6408981007826944/"
+        },
+        {
+          "title": "Reaching Director 2 Support in ScummVM",
+          "short_description": "We will bring the ScummVM Director engine up to (MacroMind) Director 2 compatibility, with progress measured by Spaceship Warlock. Major tasks in...",
+          "student_name": "Nathanael Gentry",
+          "code_url": "https://gist.github.com/npjg/61c31ccdb870910e3a5d1ad666868801",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6138386793889792/"
+        },
+        {
+          "title": "Director Engine",
+          "short_description": "This project aims to improve ScummVM's existing Director engine so it can handle actual games, particularly Spaceship Warlock and The Journeyman...",
+          "student_name": "Dylan Servilla",
+          "code_url": "https://djsrv.github.io/scummvm/gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5249857515683840/"
+        },
+        {
+          "title": "Unicode and BiDi support for GUI && Move Detection features to the main executable",
+          "short_description": "This proposal is based on a combination of 2 project ideas & 3 tasks.\n1) ScummVM GUI is currently based on char size strings, so it relies on code...",
+          "student_name": "Aryan Rawlani",
+          "code_url": "https://drive.google.com/drive/folders/1hv-QgLHaOkhrysOjd-ZPtP0OOCCYk3Ff?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5353578392190976/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5723178982178816/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "GUI for Game Library Management",
+          "short_description": "Adding a graphical interface for game library management, where games are displayed with cover art thumbnails, with options for grouping and...",
+          "student_name": "Aashwin Vaish",
+          "code_url": "https://github.com/scummvm/scummvm/pull/3135",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6335581189046272/"
+        },
+        {
+          "title": "Enhance Accessibility of More ScummVM Engines by Text To Speech (TTS)",
+          "short_description": "TTS is an important accessibility function to compensate for gaming experience for those who have trouble reading text, yet the technology is not...",
+          "student_name": "Twan",
+          "code_url": "https://blogs.scummvm.org/twan/final-code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5700333245825024/"
+        },
+        {
+          "title": "Director Engine",
+          "short_description": "I'd like to continue my work on the Director engine from last summer, improving the engine so that it is production ready for some Director 2-4...",
+          "student_name": "D.J. Servilla",
+          "code_url": "https://blogs.scummvm.org/djsrv/2021/08/23/gsoc-2021-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5729310215766016/"
+        },
+        {
+          "title": "Macromedia Director",
+          "short_description": "Help to develop the Macromedia Director tool.",
+          "student_name": "Crane yang",
+          "code_url": "https://blogs.scummvm.org/sheep/2021/08/21/beginging-or-the-ending-gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5079579542159360/"
+        },
+        {
+          "title": "SAGA2 engine",
+          "short_description": "Create a new engine to support Faery Tale Adventure II: Halls of the Dead by The Dreamers Guild.",
+          "student_name": "a-yyg",
+          "code_url": "https://blogs.scummvm.org/ayyg/2021/08/18/saga2-gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4692828038365184/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/scummvm/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Implement an engine for The Immortal (Apple IIGS version)",
+          "short_description": "This project is to implement an engine for the game The Immortal. The implementation will be based on the Apple IIGS version of the game. To do this,...",
+          "student_name": "Michael Hayman",
+          "code_url": "https://blogs.scummvm.org/quote58/2022/09/26/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SlduaIQY/"
+        },
+        {
+          "title": "Integrating the HLP1 engine and Penumbra: Overture in ScummVM",
+          "short_description": "The goal of the project is to integrate the HLP1 engine and Penumbra: Overture in ScummVM. The deliverables for the project are the following:...",
+          "student_name": "grisenti",
+          "code_url": "https://blogs.scummvm.org/grisenti/2022/09/11/gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8yvXt3Uw/"
+        },
+        {
+          "title": "Finishing implementation of incomplete engines.",
+          "short_description": "ScummVM has several engines which aren\u2019t in a completed state. This project aims at finishing the implementation of some of these engines. The...",
+          "student_name": "Avijeet Maurya",
+          "code_url": "https://blogs.scummvm.org/stablesteady/2022/09/11/gsoc-2022-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/j8mr9W2C/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/scummvm",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Automated system for packaging freeware games with ScummVM",
+          "short_description": "This project aims to develop an automated system that simplifies the packaging of freeware games for various platforms (like google play, steam,...",
+          "student_name": "AnkushDutt",
+          "code_url": "https://blogs.scummvm.org/ankushdutt/2023/08/27/final-submission/",
+          "proposal_id": "v3V42zS7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HzM31ka6"
+        },
+        {
+          "title": "Increase Director 4 Compatibility by adding Full Support for Total Distortion & Journey Man Project",
+          "short_description": "The proposal outlines a plan to increase compatibility for two classic games, \"Total Distortion\" and \"The Journeyman Project,\" on the ScummVM...",
+          "student_name": "Harishankar Kumar",
+          "code_url": "https://blogs.scummvm.org/hsk/2023/08/22/gsoc-23-its-a-wrap/",
+          "proposal_id": "R8OKoPlQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vvsx36fu"
+        },
+        {
+          "title": "Porting the CRAB engine to SCUMMVM.",
+          "short_description": "The SCUMMVM project with its hundreds of engines can run a huge library of games. It welcomes the addition of new engines to further increase the...",
+          "student_name": "hax0kartik",
+          "code_url": "https://blogs.scummvm.org/hax0kartik/2023/08/26/gsoc-summary-and-final-report/",
+          "proposal_id": "HEG7jxRR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0o0ja1qw"
+        },
+        {
+          "title": "Optimize blending code for AGS games",
+          "short_description": "I will have a system set up to test the speed of the drawing/blending code in AGS games, and I will have optimized the code by some amount by the end...",
+          "student_name": "WyattRadkiewicz",
+          "code_url": "https://blogs.scummvm.org/eklipsed/2023/08/27/gsoc-23-final-report/",
+          "proposal_id": "GaOz4V5j",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RYExURAF"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/scummvm/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "GSOC 2024 Proposal: Implementation of a  Game Files Integrity Checking System for  ScummVM",
+          "short_description": "This proposal outlines a comprehensive plan to implement a system that enables end-users to verify the integrity of their game files against...",
+          "student_name": "InariInDream",
+          "code_url": "https://github.com/InariInDream/scummvm-sites/tree/integrity",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hmqbBm4Z/"
+        },
+        {
+          "title": "Add Keymapper support to multiple Engines",
+          "short_description": "ScummVM includes a global fully configurable keymapper, but this requires engines to be adapted to use it. Hence the goal of this project is to...",
+          "student_name": "Nabeel Shabbir",
+          "code_url": "https://blogs.scummvm.org/markhor/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6jt9oG68/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/scummvm",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Implementing minigame interface in qdEngine",
+          "short_description": "Last year, qdEngine was ported to ScummVM. However, not all games are supported yet. Games with advanced minigames are not playable, and some titles...",
+          "student_name": "Alikhan Balpykov",
+          "code_url": null,
+          "proposal_id": "YhwSskYV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9h8o85NL"
+        },
+        {
+          "title": "Add Keymapper to more games",
+          "short_description": "This project adds keymapper support to numerous ScummVM game engines, allowing players to customize controls for a better experience across different...",
+          "student_name": "Aun Noman",
+          "code_url": null,
+          "proposal_id": "pvxF9F29",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dI9Rr3YP"
+        },
+        {
+          "title": "Add Text-to-Speech Support to More Games",
+          "short_description": "Text-to-speech is a critical accessibility feature that is currently not present in many ScummVM engines. Adding text-to-speech to more engines can...",
+          "student_name": "ellm135",
+          "code_url": null,
+          "proposal_id": "Kbii2NzM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jLcJUtAS"
+        },
+        {
+          "title": "Expanding Director Engine compatibility in ScummVM",
+          "short_description": "The Macromedia Director engine is an incomplete engine in ScummVM. ScummVM has been working on it since 2020. It potentially adds a number of games...",
+          "student_name": "Malhar Badve",
+          "code_url": null,
+          "proposal_id": "uSbdsjiw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zLwn3ie5"
+        },
+        {
+          "title": "System for Checking Game Files Integrity",
+          "short_description": "This project aims to finalize the system for verifying the integrity of game files within ScummVM. It introduces a server-client architecture where...",
+          "student_name": "Shivang Nagta",
+          "code_url": null,
+          "proposal_id": "f7KtaOcd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YDOcc4ze"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/4cDsMNtcpG",
+  "contact_email": "mailto:admin@scummvm.org",
+  "mailing_list": "https://wiki.scummvm.org/index.php/Summer_of_Code/GSoC_Contact",
+  "ideas_url": "https://www.scummvm.org/gsoc-2025-ideas",
+  "guide_url": "https://wiki.scummvm.org/index.php/GSoC_Application",
+  "twitter_url": "https://twitter.com/scummvm",
+  "blog_url": "https://planet.scummvm.org/"
+}

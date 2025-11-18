@@ -1,0 +1,91 @@
+{
+  "name": "Stichting SU2",
+  "url": "https://su2foundation.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/stichting-su2/vexbqtmew7yd92hp-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "aerodynamics",
+    "Computational Fluid Dynamics",
+    "Multi-Disciplinary Optimization",
+    "Adjoint Design Optimization",
+    "Fluid Dynamics"
+  ],
+  "technologies": [
+    "python",
+    "c++"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/stichting-su2/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "GSOC 2024 Project Proposal for Extending Look-Up Table features for Thermodynamics and Chemistry.",
+          "short_description": "The main aim of this project is to link generic Python functions to SU2 to facilitate data-driven fluid modeling while simultaneously enabling...",
+          "student_name": "VaishnaviGupta",
+          "code_url": "https://github.com/VAISHNAVI04GUPTA/SU2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FAFE7OG5/"
+        },
+        {
+          "title": "Feasibility of GPU Acceleration in SU2",
+          "short_description": "The following project involves the GPU acceleration of Linear Algebra Computations in SU2. The approach is two pronged, making use of both NvBLAS and...",
+          "student_name": "Areen Raj",
+          "code_url": "https://github.com/areenraj/GSoC-24.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fwsudY93/"
+        },
+        {
+          "title": "SU2 GUI: Core functionality and user friendly installer",
+          "short_description": "The project aims to finalize core functionality regarding initialization of problems and visualization of results using Paraview within the SU2 GUI...",
+          "student_name": "Ujjawal Agrawal",
+          "code_url": "https://ujjawal179.github.io/gsoc24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Yhb3yIvX/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/stichting-su2",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Graphical User Interface-Coupling to Python Wrapper and JSON Validation",
+          "short_description": "This project improves the SU2 GUI by making it more user-friendly and efficient. It integrates the Python wrapper for smoother simulations, adds...",
+          "student_name": "_Urvi_07",
+          "code_url": null,
+          "proposal_id": "wBtpi06P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FDJkLtqS"
+        },
+        {
+          "title": "Using Data-Driven, Physics-Informed ML to Model Fluid Properties in CFD",
+          "short_description": "This project aims to enhance SU2's computational fluid dynamics (CFD) capabilities by optimizing the Neural Network implementation (MLPCpp) within...",
+          "student_name": "Divyaprakash",
+          "code_url": null,
+          "proposal_id": "bpiywDDc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iFt1m8Wx"
+        },
+        {
+          "title": "MAKE IT EASY TO ADD AND UPDATE UNIT TESTS",
+          "short_description": "This project aims to automate and expand SU2\u2019s testing and validation framework to ensure both numerical correctness and physical fidelity. By...",
+          "student_name": "Harsh@2004",
+          "code_url": null,
+          "proposal_id": "vpexce42",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/IA4T8Jy5"
+        },
+        {
+          "title": "Project 5: Continuation of GPU acceleration in SU2",
+          "short_description": "This project aims to enhance SU2\u2019s computational performance by creating a GPU-native sparse linear solver, building on the GSOC 2024 work that...",
+          "student_name": "Joseph Garni",
+          "code_url": null,
+          "proposal_id": "7TpGM9ex",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/050PI3n9"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://su2devteam.slack.com",
+  "contact_email": "",
+  "mailing_list": "https://www.cfd-online.com/Forums/su2/",
+  "ideas_url": "https://www.cfd-online.com/Forums/su2-news-announcements/259420-gsoc-2025-projects.html",
+  "guide_url": "https://www.cfd-online.com/Forums/su2-news-announcements/254365-gsoc-applications-how-apply.html",
+  "blog_url": "https://www.cfd-online.com/Forums/su2/"
+}

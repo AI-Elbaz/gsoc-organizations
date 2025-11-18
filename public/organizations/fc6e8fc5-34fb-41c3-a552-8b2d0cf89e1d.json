@@ -1,0 +1,54 @@
+{
+  "name": "Open3D team",
+  "url": "http://www.open3d.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/open3d-team/yhzlqgd1qkcypvrw-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "3D machine learning",
+    "3D data processing",
+    "3D visualization",
+    "physically based rendering"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "cuda",
+    "tensorflow",
+    "pytorch"
+  ],
+  "years": {
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/open3d-team/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Open3D visualization on cloud notebooks",
+          "short_description": "Open3D is an open-source library that supports the rapid development of software that deals with 3D data. The Open3D frontend exposes a set of...",
+          "student_name": "fanxiaolin",
+          "code_url": "https://github.com/isl-org/Open3D/pull/5418",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/a01Kzs28/"
+        },
+        {
+          "title": "Geometry processing algorithms for tensor-based geometry",
+          "short_description": "The proposal aims to enhance the functionality of Open3D tensor-based geometry processing algorithms. First of all, functions related to surface...",
+          "student_name": "Zhengyu",
+          "code_url": "https://github.com/ZhengyuDiao/GSoC2022-Open3D",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uDb1lTU7/"
+        },
+        {
+          "title": "Open3D-ML 3D Object detection model (PV-RCNN++)",
+          "short_description": "The objective of the project is to implement a new state-of-the-art 3D Object detection model (PV-RCNN++) in PyTorch and TensorFlow and train it on...",
+          "student_name": "Narayanan E.R.",
+          "code_url": "https://github.com/isl-org/Open3D-ML/pull/556",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZXypCRIl/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "sameer.sheorey@ivcl.org",
+  "mailing_list": "https://github.com/isl-org/Open3D/discussions/categories/gsoc",
+  "ideas_url": "",
+  "guide_url": ""
+}

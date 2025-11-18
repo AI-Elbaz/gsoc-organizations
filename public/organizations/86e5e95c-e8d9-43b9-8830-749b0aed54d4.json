@@ -1,0 +1,331 @@
+{
+  "name": "The ns-3 Network Simulator Project",
+  "url": "https://www.nsnam.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-ns-3-network-simulator-project/0zmaec44y4jcfuj2-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "networking",
+    "simulation",
+    "computer networking",
+    "research and development",
+    "network simulation",
+    "research",
+    "emulation",
+    "network analysis"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "c",
+    "python 3",
+    "django"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5226418732531712/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "ns-3 App Store",
+          "short_description": "The ns-3 App Store project aims to support modularization of the ns-3 codebase and federation of development activities. Once this project is...",
+          "student_name": "Abhijith Anilkumar",
+          "code_url": "https://gitpitch.com/abhijithanilkumar/ns-3-AppStore",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6606597614731264/"
+        },
+        {
+          "title": "Mobile IPv6 Implementation with LTE Support",
+          "short_description": "MIPv6 is the base standard from the IETF for IP based mobility management in wireless networks. The next generation mobility management schemes are...",
+          "student_name": "Manoj Kumar Rana",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2017MobileIp#Final_Report_for_Google",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5437524965064704/"
+        },
+        {
+          "title": "Framework for TCP Prague simulations in ns-3",
+          "short_description": "Recently, there has been a lot of interest in the research community (IRTF / IETF) towards parallely implementing and standardizing a new TCP...",
+          "student_name": "Shravya K.S.",
+          "code_url": "https://tcp-prague-framework-gsoc-2017.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5373072538337280/"
+        },
+        {
+          "title": "Implementation of Token Bucket Filter and Heavy-Hitter Filter in ns-3",
+          "short_description": "In PSNs, sometimes it is not possible to distinguish and manipulate different kinds of network flows. For example, we may want to give priority to...",
+          "student_name": "tssurya",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2017TBFAndHHF#GSoC_Wrap_Up_and_Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5936345956483072/"
+        },
+        {
+          "title": "Enabling LTE CA handover to secondary cell",
+          "short_description": "The goal of my project is implementation of handover to secondary cell in LTE with Carrier Aggregation.\nTo make it possible I plan to:\n\nImprove...",
+          "student_name": "ilabdsf",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2017Lte#Project_summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5130326087041024/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6608136823635968/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Merging and Improvement of LTE and Wi-Fi Coexistence Module",
+          "short_description": "The LTE and Wi-Fi Coexistence module has been quite popular with ns-3 users. But currently, it is detached from the upstream ns-3-dev and missing...",
+          "student_name": "muh.iqbal.cr",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2018Coexistence#GSoC_2018_Wrap_Up_and_Final_Evaluations",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5717242897498112/"
+        },
+        {
+          "title": "Implementation of AccECN and ECN++ in ns-3",
+          "short_description": "Reducing Internet Transport Latency is an interesting research topic and has gained significant attention in the recent past. Some of the promising...",
+          "student_name": "WenYing Dai",
+          "code_url": "https://ecnpp-accecn-gsoc-2018.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5009854200545280/"
+        },
+        {
+          "title": "A simulation execution manager for ns-3",
+          "short_description": "The envisioned solution consists in the creation of a python library that can\n   start, manage and collect results from multiple simulation runs. In...",
+          "student_name": "Davide Magrin",
+          "code_url": "http://magr.in/sem/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5554849244512256/"
+        },
+        {
+          "title": "Trust-based routing protocols framework",
+          "short_description": "ns-3 contains different routing modules, both for IPv4 and for IPv6. None of them is trust-based. Given the increasing interest on trust-based...",
+          "student_name": "Jude",
+          "code_url": "https://medium.com/@jude.niroshan11/gsoc-2018-trust-based-routing-protocols-framework-in-ns-3-dffeee692c24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5765955477045248/"
+        },
+        {
+          "title": "Direct Code Execution upgrade",
+          "short_description": "Direct Code Execution is a framework for ns-3. It allows the users to execute Linux kernel and Linux userspace networking applications inside ns-3...",
+          "student_name": "Sourabh Jain",
+          "code_url": "https://ns-3-dce-gsoc-2018.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5971732796014592/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5495934539005952/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Flow Performance Optimization for Data Center Networks in NS-3",
+          "short_description": "Flow Completion Time (FCT) has been the core metric to optimize via scheduling, congestion control, load balancing in Data Center Networks (DCN). As...",
+          "student_name": "Liangcheng Yu",
+          "code_url": "https://gitlab.com/liangcheng-yu/ns-3-dev",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5438335672123392/"
+        },
+        {
+          "title": "Improving the ns-3 AppStore and linking with bake",
+          "short_description": "The project aims to extend the functionalities of the existing AppStore and primarily linking it with the bake build system, so as to support more...",
+          "student_name": "Mishal Shah",
+          "code_url": "https://mishal23.github.io/gsoc19-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4544832284917760/"
+        },
+        {
+          "title": "TCP Testing and Alignment",
+          "short_description": "This project aims at alignment and testing of ns-3 implementation of TCP with Linux kernel. Through rigorous testing various features of TCP like...",
+          "student_name": "Apoorva Bhargava",
+          "code_url": "https://ns-3-tcp-validation.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5993036872417280/"
+        },
+        {
+          "title": "Integration of the 3GPP TR 38.901 channel model in the ns-3 spectrum module",
+          "short_description": "In recent years, ns-3 has been widely used for the simulation of wireless networks, because it features several built-in and external modules...",
+          "student_name": "Tommaso Zugno",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2019ThreeGPPChannel#Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5175006479253504/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5105708816662528/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "SCE AQMs and TCP along with CNQ-CodelAF and LFQ",
+          "short_description": "Phase 1:\n1) Add L4S to ns-3 FqCoDel:  ECT(1) traffic gets marked at CE_threshold,\nECT(0) is marked at the normal CoDel threshold.  For now, avoid the...",
+          "student_name": "Bhaskar Kataria",
+          "code_url": "https://bhaskar792.github.io/GSoC-2020-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6657232399237120/"
+        },
+        {
+          "title": "NetDevice up/down consistency and event chain",
+          "short_description": "There is some inconsitency among the working of NetDevices and IP Interfaces. Ideally when a NetDevice changes it state, it should get reflected in...",
+          "student_name": "Ananthakrishnan S",
+          "code_url": "https://ananthu-dev.github.io/net-device-consistency-gsoc-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5502409377316864/"
+        },
+        {
+          "title": "TCP Prague model for ns-3",
+          "short_description": "Scalable congestion controls such as DCTCP improve performance over Reno and Cubic, which perform badly in high-speed networks (because of their slow...",
+          "student_name": "Deepak K",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2020Prague",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5605945972883456/"
+        },
+        {
+          "title": "App Store improvements",
+          "short_description": "Project aims to develop a CI/CD server and add necessary updates to ns-3 AppStore to check if apps/modules available in AppStore build and pass test...",
+          "student_name": "Shivamani Patil",
+          "code_url": "https://shivamanipatil.github.io/gsoc-2020-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4852224477364224/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6270070723969024/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "IPv6 Nix-Vector Routing",
+          "short_description": "The project aims to implement IPv6 Nix-Vector Routing with minimal code duplication from IPv4 Nix-Vector Routing.\nns-3 has an implementation of...",
+          "student_name": "Ameya Deshpande",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2021NixVectorFinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4999974001049600/"
+        },
+        {
+          "title": "Direct Code Execution Modernization",
+          "short_description": "DCE currently makes use of net-next-nuse to extend the Linux kernel internals like the networking stack to host applications but over the years the...",
+          "student_name": "Parth Pratim Chatterjee",
+          "code_url": "https://ns-3-dce-linux-upgrade.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6549367481171968/"
+        },
+        {
+          "title": "Add logging support to Simulation Execution Manager (SEM)",
+          "short_description": "The project aims to add support for ns-3\u2019s built-in logging to SEM, also allowing the user to visualize the logs on an interactive dashboard. The...",
+          "student_name": "Akshit Patel",
+          "code_url": "https://akshitpatel01.github.io/GSoC-2021-Report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5787760157261824/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-ns-3-network-simulator-project/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "\u201cPerfect\u201d ARP and NDP",
+          "short_description": "The project aims to implement a \u201cPerfect\u201d version of ARP and NDP which produce caches that contain all needed IP address\u2013MAC address mapping. ARP and...",
+          "student_name": "Zhiheng",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2022NeighborCacheFinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DdUT09pZ/"
+        },
+        {
+          "title": "A simplified channel and beamforming model for ns-3",
+          "short_description": "Currently, ns-3 provides the TR 38.901 channel model as the default option for sampling MIMO wireless channels which take into account the presence...",
+          "student_name": "Matteo Pagin",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2022Channel#Project_Overview",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uxXqy83g/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-ns-3-network-simulator-project",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "IUNS-3 5G NR: Improving the Usability of ns-3's 5G NR Module",
+          "short_description": "IUNS-3 5G NR is a GSoC '23 medium-size project proposal that offers a general purpose introductory scenario to dive into the 5G New Radio world,...",
+          "student_name": "ggrieco",
+          "code_url": "https://www.nsnam.org/wiki/GSOC20235GUsabilityFinalReport",
+          "proposal_id": "NdWVI08L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/oeDFknbT"
+        },
+        {
+          "title": "ns3-ai enhancements",
+          "short_description": "The proposed project aims to enhance the ns3-ai module, which provides interfaces between ns-3 and Python-based ML frameworks using shared memory,...",
+          "student_name": "Mu Yuan Shen",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2023ns3-aiFinalReport",
+          "proposal_id": "Vw78tMR0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/A4KZ7dxo"
+        },
+        {
+          "title": "Dynamic device registration for NetAnim simulation animations",
+          "short_description": "NetAnim is a tool used to visualize a node's movement and messages between node's. The current NetAnim module implementation has one severe...",
+          "student_name": "Raghuram Kannan",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2023NetAnimFinalReport",
+          "proposal_id": "EtfFk5b7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/EpacH0ct"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/the-ns-3-network-simulator-project/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "DHCPv6",
+          "short_description": "The project aims to implement DHCP for IPv6 (DHCPv6), which is used in IPv6 networks for address configuration on devices, and allows for central...",
+          "student_name": "Kavya Bhat",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2024DHCPv6FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/X6Wbehcn/"
+        },
+        {
+          "title": "Enhancement of RL Approach Accessibility in NR",
+          "short_description": "In wireless networking, research utilizing reinforcement learning is on the rise. In response, ns-3 has introduced additional modules like ns3-gym...",
+          "student_name": "mye280c37",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2024RLUsability5GFinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vPuZgTe1/"
+        },
+        {
+          "title": "5G NR Module Benchmark and Analysis for Distinct Channel Models",
+          "short_description": "What I aim for the \u201c5G NR module benchmark analysis for distinct channel models\u201d project is to complete it in the available time (175 hours) and...",
+          "student_name": "Jo\u00e3o Albuquerque",
+          "code_url": "https://www.nsnam.org/wiki/GSOC2024Channels5GFinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OdtVEGnj/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-ns-3-network-simulator-project",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "ICMP socket and generate/handle ICMP messages (host/net unreachable)",
+          "short_description": "In the current implementation of ns-3, there is no implementation of a dedicated socket for sending ICMP packets. Thus, it is difficult to accurately...",
+          "student_name": "Aditya Ruhela",
+          "code_url": null,
+          "proposal_id": "5eukrvaJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/K7AZ4Yh2"
+        },
+        {
+          "title": "6LoWPAN Neighbor Discovery Protocol",
+          "short_description": "The 6LoWPAN-ND (RFCs 4944, 6775, and 8505) is a replacement for IPv6 DAD and NDP for 6LoWPAN networks, and it is important to ensure address...",
+          "student_name": "Boh Jie Qi",
+          "code_url": null,
+          "proposal_id": "GwNPtExR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/DCsjRKRt"
+        },
+        {
+          "title": "Upgrade the AQM Evaluation Suite for ns-3",
+          "short_description": "The AQM Evaluation Suite is an automated framework based on RFC 7928 that simplifies simulation setup, topology creation, traffic generation,...",
+          "student_name": "David Lin",
+          "code_url": null,
+          "proposal_id": "36B3x0Ra",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/d7sZPqy6"
+        },
+        {
+          "title": "IPv6 Global Routing",
+          "short_description": "The aim of this project is to extend the functionality of GlobalRouting to Ipv6, while maintaining minimal code duplication. Global Routing is based...",
+          "student_name": "Shashwat Patni",
+          "code_url": null,
+          "proposal_id": "coXzNk2y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/wdNG4pyV"
+        },
+        {
+          "title": "NTN Helper and a LEO example for 5G NR",
+          "short_description": "Creation of Mobility and Orbit models for LEO Satellites along with a NTN Helper for GEO and LEO Satellites, and an example using the helper...",
+          "student_name": "Thiago Miyazaki",
+          "code_url": null,
+          "proposal_id": "c229W0Wu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Z1PZUHaC"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://ns-3.zulipchat.com",
+  "contact_email": "mailto:ns-developers@isi.edu",
+  "mailing_list": "https://groups.google.com/g/ns-developers",
+  "ideas_url": "https://www.nsnam.org/wiki/GSOC2025Projects",
+  "guide_url": "https://www.nsnam.org/wiki/GSOC2025ContributorGuide"
+}

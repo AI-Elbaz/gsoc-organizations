@@ -1,0 +1,631 @@
+{
+  "name": "BRL-CAD",
+  "url": "https://opencax.github.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/brl-cad/4ec07aqdfrvygfed-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "visualization",
+    "geometry",
+    "cad",
+    "3d",
+    "ray tracing",
+    "graphics user interface",
+    "software visualization",
+    "performance",
+    "2d/3d graphics",
+    "solid geometry",
+    "cad/cam/cae",
+    "data visualization",
+    "3d cad geometry",
+    "solid modeling",
+    "real-time computer graphics",
+    "high performance computing",
+    "high-performance computing",
+    "conversion standards",
+    "deep neural net rendering"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "opengl",
+    "opencl",
+    "tcl",
+    "javascript",
+    "qt",
+    "tcl/tk",
+    "scripting"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6087583029264384/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "LibreCAD 3 Scriptable User Interface Creation",
+          "short_description": "This project will add to LibreCAD 3 an user interface allowing end-users to create and manipulate elements in the document without having to write a...",
+          "student_name": "Feragon",
+          "code_url": "https://gsoc16.feragon.net/?d=2016/08/23/17/56/12-final-code-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5442058571481088/"
+        },
+        {
+          "title": "The FreeCAD Plugin Installer",
+          "short_description": "My main idea is to implement a plugin manager for FreeCAD that will be used to install/remove/update plugins and other unofficial...",
+          "student_name": "mandeep7",
+          "code_url": "https://github.com/mandeeps708/PluginManager",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5462279277510656/"
+        },
+        {
+          "title": "Online Geometry Viewer",
+          "short_description": "OGV has the ambition to become something of an Instagram for 3D models. It includes features like profiles, likes, comments, followers. But the code...",
+          "student_name": "gjeet",
+          "code_url": "http://gauravjeetsingh.github.io/2016/08/23/final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5228426898178048/"
+        },
+        {
+          "title": "Plate Mode NURBS raytracing",
+          "short_description": "In Constructive Solid Geometry (CSG) system, the modeling process is usually represented as boolean operations of some basic primitives such as...",
+          "student_name": "boj",
+          "code_url": "http://bojianwu.github.io/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5381249082327040/"
+        },
+        {
+          "title": "Automatic Polygonal Mesh Healing",
+          "short_description": "The aim is to provide features that will be useful in automatic polygonal healing of a mesh, which BRL-CAD essentially represents as a bag of...",
+          "student_name": "Rakshika Bagavathy",
+          "code_url": "https://tandoorichickblog.wordpress.com/2016/08/23/gsoc16workproduct/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4553385546088448/"
+        },
+        {
+          "title": "LibreCAD V3 Beziers and File I/O Support",
+          "short_description": "LibreCAD V3 Beziers and File I/O Support project involves further development of the LibreCAD v3 Kernel and LibreCAD Software itself.\nLibreCAD at the...",
+          "student_name": "Gaganjyot",
+          "code_url": "https://github.com/librecad/librecad_3/commits/master?author=gaganjyot",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4568741127913472/"
+        },
+        {
+          "title": "BRL-CAD Web Infrastructure Update",
+          "short_description": "This project aims to update current web infrastructure of BRL-CAD organisation. Specifically: creating new main web site at \u2018brlcad.org\u2019 as a central...",
+          "student_name": "sniok",
+          "code_url": "https://gist.github.com/sniok/fb6a1bcf4cf78303a874fa2389739764",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4574276803887104/"
+        },
+        {
+          "title": "GPGPU Support for Boolean Evaluation Used in Ray Tracing",
+          "short_description": "BRL-CAD  uses Constructive Solid Geometry (CSG) to create complex objects by combining two or more primitives, with the help of Boolean operators. I...",
+          "student_name": "ParamHanji",
+          "code_url": "https://catchchaos.wordpress.com/2016/08/21/gsoc-wrap-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4727606599483392/"
+        },
+        {
+          "title": "User Interface for Customizing Models",
+          "short_description": "This project intends to define user interface to Customize Model interactively instead of modifying them manually.  It will make the user able to...",
+          "student_name": "Amarjeet Kapoor",
+          "code_url": "https://github.com/openscad/openscad/pull/1751",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4808295478984704/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5302987798872064/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "GPU Boolean Evaluation for CSG Ray-Tracing",
+          "short_description": "In BRL-CAD, some work has been done in order to optimize the ray-tracing process, with ray-intersection calculations implemented in OpenCL for...",
+          "student_name": "Marco Domingues",
+          "code_url": "https://github.com/MarcoSDomingues/GSoC17",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5407004390588416/"
+        },
+        {
+          "title": "Annotations: Implement support for 2D annotations, labels that can be added to geometry",
+          "short_description": "The aim of the project is to enhance the representation of the wire frame views by adding annotations to the sketch.",
+          "student_name": "gabbar1947",
+          "code_url": "https://brlcad.org/wiki/User:Gabbar1947/GSOC17/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5125146893352960/"
+        },
+        {
+          "title": "Elmer-Integration",
+          "short_description": "This proposal targets the \u201cElmer-Integration\u201d project outlined in the \u201cGoogle Summer of Code\u201d article on the wiki...",
+          "student_name": "Markus Hovorka",
+          "code_url": "https://forum.freecadweb.org/viewtopic.php?f=18&t=22576&p=188021#p188021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4528647608205312/"
+        },
+        {
+          "title": "Rebar Addon for FreeCAD",
+          "short_description": "The current rebar functionality in FreeCAD is very limited by its UI and creating a reinforcement system using it is quite tedious. Currently, the...",
+          "student_name": "Amritpal Singh",
+          "code_url": "https://github.com/amrit3701/FreeCAD-Reinforcement",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6536382147198976/"
+        },
+        {
+          "title": "Implement 3MF read/write",
+          "short_description": "Project Goal:\nImplement support for the 3MF file format in Slic3r and allow conversion into (AMF,  OBJ,  STL).\n3MF is generally smaller than other...",
+          "student_name": "Ahmed Samir Hamed-1",
+          "code_url": "https://github.com/alexrj/Slic3r/pull/4046",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6555262823432192/"
+        },
+        {
+          "title": "LibreCAD 3 plugins system",
+          "short_description": "This proposal is made to improve the current LibreCAD 3 plugin system, by adding new features like custom entities or read and write files, to allow...",
+          "student_name": "Florian Rom\u00e9o",
+          "code_url": "https://gsoc17.feragon.net/?d=2017/08/21/16/20/35-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5947790702149632/"
+        },
+        {
+          "title": "Part Design Workbench Refinement",
+          "short_description": "By adding complete functional test coverage to Part Design, bugs can be systematically eliminated. The Attachment Editor and Boolean Operation tools...",
+          "student_name": "Kurt Kremitzki",
+          "code_url": "https://kkremitzki.github.io/blog/gsoc-week-12-final-work-product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5950309432033280/"
+        },
+        {
+          "title": "Online Geometry Viewer Update",
+          "short_description": "This project aims to improve Online Geometry Viewer in different ways: UI update, code quality and improved model importing.",
+          "student_name": "Oleksandr Dubenko",
+          "code_url": "https://gist.github.com/sniok/5f3ade53508609ad50913b13a05d3ee5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6003003848916992/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5078956801785856/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Slic3r - Rotating Face to Bottom",
+          "short_description": "The primary goal of this project would be to implement a solution to issue #3047. This issue is basically about implementing a way for users to...",
+          "student_name": "Benjamin Landers",
+          "code_url": "https://gist.github.com/TheThirdOne/11c1c28f988eff272bba9879dd8395f9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5657276564111360/"
+        },
+        {
+          "title": "Improving raytracing performance by improving libbu",
+          "short_description": "Improve parts of BRL-CAD's raytracer by removing unnecessary work and using better-suited data structures.",
+          "student_name": "caen",
+          "code_url": "https://cezarelnazli.github.io/final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5394466307309568/"
+        },
+        {
+          "title": "Python BRL-CAD",
+          "short_description": "Project aims to wrap BRL-CAD geometry primitives in python using ctypesgen and extending support to use python BRL-CAD on multiple operating systems....",
+          "student_name": "Jaipal Singh",
+          "code_url": "https://github.com/Killthebug/python-brlcad/blob/master/GSoC_18_Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5572572091514880/"
+        },
+        {
+          "title": "OpenCL GPGPU Raytracing",
+          "short_description": "BRL-CAD objects are made from about two dozen primitives, ray-tracing of which can be quickly realised in a GPU owing to its parallel architecture....",
+          "student_name": "Sreyansh Kumhar Jain",
+          "code_url": "https://github.com/sreyanshjainrkl/GSoC-18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4651006126194688/"
+        },
+        {
+          "title": "Overlap Tool - Cross platform compatibility",
+          "short_description": "The project aims to bring cross platform compatibility to the existing overlap tool which currently uses a shell script that works only for Linux. By...",
+          "student_name": "Saran Narayan",
+          "code_url": "https://brlcad.org/wiki/User:Sharan.nyn/GSoC18/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4694628364189696/"
+        },
+        {
+          "title": "FreeCAD Configuration Management Project",
+          "short_description": "FreeCAD is a general purpose 3D computer-aided engineering & design program available for Windows, Mac, and Linux, and as a result it has a huge...",
+          "student_name": "Kurt Kremitzki",
+          "code_url": "https://kkremitzki.github.io/blog/google-summer-of-code-2018-with-freecad/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6094118224658432/"
+        },
+        {
+          "title": "Add exec option to search",
+          "short_description": "BRL-CAD's MGED search needs an -exec option - like the find command in UNIX - but that would mean low level library functions accessing the...",
+          "student_name": "pronaip",
+          "code_url": "https://gitlab.com/raingloom/brlcad/blob/gsoc-presentable/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5780975648768000/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6089800153563136/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "FreeCAD Configuration Management Proposal",
+          "short_description": "FreeCAD is a powerful tool with worldwide usage but suffers a shortage of developers. This proposal aims to encourage new developers to adopt FreeCAD...",
+          "student_name": "Zach",
+          "code_url": "https://docs.google.com/document/d/1KDdqSJ7ThTGkhdS6tdX2K5HTkEHG4KXzO6KDjs8aXiQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5231080817295360/"
+        },
+        {
+          "title": "Imporve DXF Import and Export Proposal",
+          "short_description": "This is my proposal to the project, improve DXF import and export for OpenSCAD. It includes a breif introduction of myself, project description and...",
+          "student_name": "Xuwei Tan",
+          "code_url": "https://github.com/openscad/openscad/issues/3044",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5342640797646848/"
+        },
+        {
+          "title": "Implement more annotation support: labels, notes, and dimensions #28",
+          "short_description": "The project will aim to enhance the existing annotation capability and add another type of annotations like dimensions , labels and single or...",
+          "student_name": "Ali Haydar",
+          "code_url": "https://brlcad.org/wiki/User:Ali_Haydar/GSOC19/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5563472027320320/"
+        },
+        {
+          "title": "FEM Workbench Testing",
+          "short_description": "Improve the quality and reliability of the FEM Workbench of FreeCAD by introducing a extensive and consistent testing approach and developing a test...",
+          "student_name": "Markus Hovorka",
+          "code_url": "https://ceeli.github.io/gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5592483390554112/"
+        },
+        {
+          "title": "Improvement of OpenSCAD Text-Editor Features",
+          "short_description": "As modern OpenSCAD usage has advanced, it now makes more extensive use of libraries consisting of many files, and the editor features have not kept...",
+          "student_name": "Romit Kumar",
+          "code_url": "https://github.com/openscad/openscad/issues/3047",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5632651350769664/"
+        },
+        {
+          "title": "LibreCAD 3 OpenGL Rendering",
+          "short_description": "LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. It allows industrial designers and graphics enthusiast to create CAD...",
+          "student_name": "Kartik Kumar",
+          "code_url": "https://blog.librecad.org/tag/google-summer-of-code-gsoc-2019/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4578575024390144/"
+        },
+        {
+          "title": "BCF Support in BIM WB - FreeCAD",
+          "short_description": "Collaboration is ingrained into human nature, without it we, as a species, wouldn\u2019t be able to build astonishing buildings like we have today....",
+          "student_name": "Patrick Podest",
+          "code_url": "https://github.com/podestplatz/BCF-plugin-FreeCAD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4786423121575936/"
+        },
+        {
+          "title": "Automate Reinforcement Process in FreeCAD",
+          "short_description": "This project is to automate Reinforcement process by using Rebar Addon in FreeCAD. The idea is to create UI on top of the current implementation to...",
+          "student_name": "Suraj",
+          "code_url": "https://github.com/amrit3701/FreeCAD-Reinforcement/tree/gsoc19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6553209726828544/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6396282903461888/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "New Geometry Editor",
+          "short_description": "BRL-CAD has 2 geometry editor applications, MGED and Archer. They have been created a long time ago with the technology available at that time. The...",
+          "student_name": "Sadeep Weerasinghe",
+          "code_url": "https://github.com/sadeepdarshana/arbalest",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6695991492739072/"
+        },
+        {
+          "title": "OpenScad GUI & Text Editor\u2019s Interactivity Enhancements",
+          "short_description": "OpenSCAD is a FOSS which belongs to the CAD software category. It allow users to describe the CAD model using codes/scripts, and using those scripts;...",
+          "student_name": "Hrishabh Sharma",
+          "code_url": "https://github.com/openscad/openscad/issues/3422",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5672575780257792/"
+        },
+        {
+          "title": "LibreCAD v3 GUI Revamp",
+          "short_description": "LibreCAD 3 is the new version of LibreCAD currently under development. LibreCAD 3 uses Lua for GUI initialization, management, plugins and for the...",
+          "student_name": "Akhil Nair",
+          "code_url": "https://blog.librecad.org/2020/08/librecad-3-gui-revamp-gsoc-2020-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5442218967433216/"
+        },
+        {
+          "title": "OpenCL GPGPU Raytracing",
+          "short_description": "This project is to introduce a GPGPU pipeline into BRL-CAD using OpenCL for existing primitives and parallelize them for faster computation.",
+          "student_name": "Rishabh Suthar",
+          "code_url": "https://brlcad.org/wiki/User:Rishabhsuthar32/GSoC20/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4995652997611520/"
+        },
+        {
+          "title": "FEM Examples Extension in FreeCAD",
+          "short_description": "This project is to expand the list of Finite Element Method (FEM) examples currently present in FreeCAD by adding more examples. The target will be...",
+          "student_name": "Sudhanshu Dubey",
+          "code_url": "https://gist.github.com/Sudhanshu-Dubey14/00e1566922f3b5d6e3d01dfd26a08e59",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5077596712206336/"
+        },
+        {
+          "title": "Persistent Caching for OpenSCAD",
+          "short_description": "OpenSCAD is an open-source 3D modeling software. It uses two main modeling techniques namely, Constructive Solid Geometry (CSG) and extrusion of 2D...",
+          "student_name": "Bharath Chandra",
+          "code_url": "https://github.com/openscad/openscad/issues/3417",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5302019759276032/"
+        },
+        {
+          "title": "Extended functionality of Rebar Addon",
+          "short_description": "This Project is to create rebar shape cut list, bar bending schedule, export to BVBS format and automatic drawing of a structural element after...",
+          "student_name": "Suraj Dadral",
+          "code_url": "https://gist.github.com/SurajDadral/eba781a3d32e670ad276cd716c3bb7de",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6207752898084864/"
+        },
+        {
+          "title": "A better IPython and Jupyter Notebook Integration for FreeCAD",
+          "short_description": "Currently, FreeCAD's IPython and Jupyter Notebook integration can only provide visualization by running the entire FreeCAD GUI alongside the...",
+          "student_name": "Marcus Ding",
+          "code_url": "https://github.com/kryptokommunist/Jupyter_FreeCAD",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5172821841412096/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5647022668906496/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Adding the Ability To BCF Libraries to connect to BCF API's.",
+          "short_description": "Integrating existing BCF libraries with the API's so as to perform reading and writing of files .",
+          "student_name": "Singh Prabhat",
+          "code_url": "https://github.com/TestPrab/GSOC_2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5686707529187328/"
+        },
+        {
+          "title": "Open Geometry Viewer(OGV)",
+          "short_description": "Open Geometry Viewer is a web-based application to view 3D CAD models on browsers. Users are able to host the model online and comment on others...",
+          "student_name": "Amanjot Singh",
+          "code_url": "https://dev.to/theamanjs/final-report-on-google-summer-of-code-2021-2870",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5425876514111488/"
+        },
+        {
+          "title": "Generator for offline documentation",
+          "short_description": "The current documentation for OpenSCAD is available online at WikiBooks for easy access, which also facilitates user edits for improvisation of the...",
+          "student_name": "Abhishek Rawat",
+          "code_url": "https://github.com/openscad/openscad/issues/3862",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5458820121231360/"
+        },
+        {
+          "title": "Automate Reinforcement Process of Slab and Footing in FreeCAD",
+          "short_description": "This project is to automate reinforcement process of slab and footing by using the Reinforcement Workbench in FreeCAD.",
+          "student_name": "Shiv Charan Sharma",
+          "code_url": "https://gist.github.com/ShivCharanSharma/eee201b28df2338fae09c3808362ee73",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4965033401909248/"
+        },
+        {
+          "title": "Add IDS validation with BCF output to IfcOpenShell",
+          "short_description": "BuildingSMART organisation is currently working and about to publish new IDS (Information Delivery Specifications) which in simple terms is a...",
+          "student_name": "Artur Tomczak",
+          "code_url": "http://blog.ifcopenshell.org/2021/08/idspy-toolkit-as-result-of-google.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6269651092242432/"
+        },
+        {
+          "title": "Implement UNDO and transactional changes",
+          "short_description": "I would like to implement the undo function into libged. This will be a significant feature addition to BRL-CAD, giving designers the option to...",
+          "student_name": "Vikram Atreyapurapu",
+          "code_url": "https://brlcad.org/wiki/User:Vikram_Atreya/GSoC21/Project_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5166360262344704/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/brl-cad/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "OpenSCAD 3D Viewport Graphical Enhancements",
+          "short_description": "The project would allow the 3D viewport to support custom shaders for the render mode (F6). This requires retrieving the necessary uniforms and other...",
+          "student_name": "Joseph Black",
+          "code_url": "https://github.com/openscad/openscad/pull/4330",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/erQ53gJD/"
+        },
+        {
+          "title": "BRL-CAD Project Site",
+          "short_description": "This project is being proposed to redesign and update the official site for BRL-CAD, which will add more details to the site related to the...",
+          "student_name": "Divyanshu Garg",
+          "code_url": "https://github.com/divyanshugarg36/brl-cad-web",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GW3ONedb/"
+        },
+        {
+          "title": "New BRL-CAD GUI",
+          "short_description": "Arbalest, a modern geometry editor for BRL-CAD is an improvement over the existing editors MGED and Archer which is developed during the '80s and...",
+          "student_name": "Himanshu Sekhar Nayak",
+          "code_url": "https://brlcad.org/wiki/User:H1manshu/GSoC2022/Project_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/KwnENs7p/"
+        },
+        {
+          "title": "Test-Driven Development for BRL-CAD NURBS/Brep Boolean Operation",
+          "short_description": "Currently, BRL-CAD has implemented a series of NURBS and Brep operations, and in some cases it works well. But there are many cases to be tested,...",
+          "student_name": "Gregory Li",
+          "code_url": "https://brlcad.org/wiki/User:GregoryLi/GSoC2022/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cByAw9KE/"
+        },
+        {
+          "title": "Create a new KiCad importer for LTSpice.",
+          "short_description": "KiCad is an open-source EDA software. Which is used globally. It is hence important to ensure that KiCad is compatible with all other EDA software...",
+          "student_name": "Chetan Subhash Shinde",
+          "code_url": "https://medium.com/@chetanshinde2001/brl-cad-kicad-gsoc22-create-a-new-kicad-importer-for-ltspice-794a54650b7a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/48Bxrljx/"
+        },
+        {
+          "title": "LibreCAD 3 automatic releases",
+          "short_description": "Right now to install and use LibreCAD3 on your computer you have to get all the dependencies and build it yourself from the source code in the Github...",
+          "student_name": "Cristian Bezerdic Stoica",
+          "code_url": "https://blog.librecad.org/2022/09/future-automatic-releases-in-librecad3-final-report-gsoc-2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/d2yDsuz1/"
+        },
+        {
+          "title": "Create visual programming nodes for generating BIM data with IfcSverchok",
+          "short_description": "Industry Foundation Class (IFC) is the leading open data format for the built environment, based on the ISO 16739-1:2018 standard. It\u2019s the...",
+          "student_name": "Martina Jakubowska",
+          "code_url": "https://github.com/IfcOpenShell/IfcOpenShell/pull/2576",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/b5KjThFT/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/brl-cad",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "VDB Rendering for BRL-CAD",
+          "short_description": "VDB is a volumetric, sparse and hierarchical data structure which can be used for volumetric rendering, simulation and computational solid geometry...",
+          "student_name": "Caio Brito",
+          "code_url": "https://brlcad.org/wiki/User:Caio/GSoC2023/FinalReport",
+          "proposal_id": "mxChKBB4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/X9kIPCbP"
+        },
+        {
+          "title": "NURBS Editing Support in BRL-CAD",
+          "short_description": "NURBS is a basic function for BRL-CAD and BRL-CAD has support for some functions based on brep using openNURBS library. Beyond basic operations such...",
+          "student_name": "Gregory Li",
+          "code_url": "https://brlcad.org/wiki/User:GregoryLi/GSoC2023/DevLog",
+          "proposal_id": "rUabHKfU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7PHbj8dM"
+        },
+        {
+          "title": "OpenSCAD OpenGL Modernization",
+          "short_description": "The project would undertake the necessary code restructuring to facilitate OpenSCAD's transition to rendering with modern OpenGL. An important early...",
+          "student_name": "Joseph Black",
+          "code_url": "https://github.com/openscad/openscad/pull/4752",
+          "proposal_id": "eLM3t8so",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/87gAMrBX"
+        },
+        {
+          "title": "Interface to interact with Brickschema",
+          "short_description": "While Industry Foundation Classes (IFC)\u2014the leading international standard for exchanging building data\u2014offers generic descriptions for smart...",
+          "student_name": "Riley Wong",
+          "code_url": "https://gist.github.com/rileywong311/c5dd453740ac7e80107398032698b081",
+          "proposal_id": "4gpUXfME",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bSgYCNuV"
+        },
+        {
+          "title": "Updating Appleseed: Python 3 and Dependencies",
+          "short_description": "The goal of this project is to update the Python codebase for Appleseed from Python 2 to Python 3 and update the PyQT code and GUI to PyQT6. This...",
+          "student_name": "Sai Abhiram Alluri",
+          "code_url": "https://brlcad.org/wiki/User:Abhiram/GSoC2023/Report",
+          "proposal_id": "8CAVEbIP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CZitD7g2"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/brl-cad/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Optimizing convex hull algorithm",
+          "short_description": "To optimize the current convex hull algorithm to improve robustness and efficiency. The current implementation (quickhull) has cases which it cannot...",
+          "student_name": "Kushal_Shah",
+          "code_url": "https://drive.google.com/file/d/1u6WuAq0zZ5U48oRBmTi1bplga0G3soe-/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Gq3A0YrD/"
+        },
+        {
+          "title": "Rendering with Neural Intersection Functions",
+          "short_description": "Ray tracing involves computationally expensive calculations and geometry with varying degrees of complexity. According to Fujieda et. al[1], a novel...",
+          "student_name": "Jin Ke",
+          "code_url": "https://docs.google.com/document/d/1-mp9u9IhesOGkq6bs2UvucQAj-iNafe-nx8Xr3rK3a0/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/y7ARV2pO/"
+        },
+        {
+          "title": "Develop further the new GUI for BRL-CAD!",
+          "short_description": "The proposal aims to enhance the BRL-CAD experience through a new GUI. Leveraging my software development background, including projects like Website...",
+          "student_name": "ViditJain04",
+          "code_url": "https://medium.com/@viditpatwa04/gsoc-2024-final-submission-84e1dedd7d71",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/vjRD7Bgp/"
+        },
+        {
+          "title": "Neural rendering",
+          "short_description": "The proposed project aims to further investigate the potential of neural networks in accelerating the process of ray tracing for 3D rendering....",
+          "student_name": "Matteo Balice",
+          "code_url": "https://medium.com/@matteobalice02/neural-rendering-google-summer-of-code-24-24f05ac074a5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/P1LbdFqc/"
+        },
+        {
+          "title": "OpenSCAD Library Manager",
+          "short_description": "Over the years, a vast collection of OpenSCAD libraries has been developed by the community. These libraries provide pre-written functions and...",
+          "student_name": "Mohammad Abdussalam",
+          "code_url": "https://github.com/openscad/openscad/issues/5268",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lnSRboG6/"
+        },
+        {
+          "title": "Implementation of a g-k converter and Improvements to the existing k-g converter",
+          "short_description": "The ability to convert BRL-CAD database files to other formats is an important feature, especially being able to convert the BRL-CAD geometry into a...",
+          "student_name": "Ali Haydar",
+          "code_url": "https://alihaider93.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/y7LyLUtV/"
+        },
+        {
+          "title": "Web-based UI integration with Blender",
+          "short_description": "This project aims to overcome Blender's limitations with spreadsheets and other functionalities. The goal is to have a web interface running...",
+          "student_name": "Ziad Ibrahim",
+          "code_url": "https://github.com/Ziad-I/GSOC-24-Web-UI-Integration-for-Bonsai/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6xi6NP33/"
+        },
+        {
+          "title": "IfcOpenShell: IfcTester WebApp",
+          "short_description": "The proposal outlines the development of an enhanced web application, IfcTester, for managing Building Information Modeling (BIM) project exchange...",
+          "student_name": "Kshitij Roodkee",
+          "code_url": "https://github.com/horizenight/Gsoc24-IfcTester-WebApp",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/HrPevjGn/"
+        },
+        {
+          "title": "Scripts to generate light simulation input files from 3D models (Issue #85)",
+          "short_description": "1. Python scripts for IFC to OBJ conversion and text file generation: Objective: Develop Python scripts that take an input 3D IFC model and generate...",
+          "student_name": "chiragsingh1711",
+          "code_url": "https://github.com/chiragsingh1711/gsoc-2024-Issue-85/blob/main/gsoc-2024-final-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EUZGDpVd/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/brl-cad",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improving the k-File to BRL-CAD Converter & proposal for BRL-CAD database to k-File converter.",
+          "short_description": "This project is intended to improve the interoperability between LS\u2011DYNA and BRL\u2011CAD by enhancing the existing k\u2011g converter and by implementing a...",
+          "student_name": "Andrea Braghin",
+          "code_url": null,
+          "proposal_id": "MqwC7E60",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nbISmgHl"
+        },
+        {
+          "title": "New BRL-CAD GUI",
+          "short_description": "This project aims to improve Arbalest and MOOSE in the following ways: [1] Expand the MOOSE module CommandString to support and expose the entire...",
+          "student_name": "Lorenzo Pegorari",
+          "code_url": null,
+          "proposal_id": "1vXUwuc9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/25f08iuM"
+        },
+        {
+          "title": "Web Application to create and check BIM project exchange requirements for IfcOpenShell",
+          "short_description": "Information Delivery Specification (IDS) is a standard for defining information requirements in a computer interpretable form, written in XML....",
+          "student_name": "Sayan Jyoti Das",
+          "code_url": null,
+          "proposal_id": "r3JGISyx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/888lO1F8"
+        },
+        {
+          "title": "BRL-CAD OGV Migration",
+          "short_description": "This project proposes a complete rewrite of BRL-CAD's existing OGV, which currently uses Meteor.js, an older framework no longer actively maintained....",
+          "student_name": "Simarjot",
+          "code_url": null,
+          "proposal_id": "buAwoXIN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/tp9RLaEx"
+        },
+        {
+          "title": "Development and Build Support for Native Windows",
+          "short_description": "OpenSCAD currently supports Windows development/build setup through 2 key ways: MSYS2 and MXE. A MSVC based build has instructions circa 2012, but...",
+          "student_name": "Sparsh N",
+          "code_url": null,
+          "proposal_id": "NXeaQrRY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MPJPiTJb"
+        },
+        {
+          "title": "Enhance 3D mesh offset for manifold",
+          "short_description": "Current manifold uses Minkowski Sum to implement Offset operation, which is a general method but claims to be ineffective in most research. By...",
+          "student_name": "Trzeth",
+          "code_url": null,
+          "proposal_id": "BhPoGR5T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/LNlkt0XJ"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://web.libera.chat/?channel=#openscad",
+  "contact_email": "mailto:devs@brlcad.org",
+  "mailing_list": "https://sourceforge.net/p/ifcopenshell/discussion/",
+  "ideas_url": "https://github.com/opencax/GSoC/issues?q=is%3Aissue+is%3Aopen+label%3A%22GSoC+2025%22",
+  "guide_url": "https://opencax.github.io/gsoc_checklist.html",
+  "twitter_url": "http://twitter.com/BRL_CAD",
+  "blog_url": "https://www.facebook.com/brlcad/"
+}

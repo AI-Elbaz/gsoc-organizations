@@ -1,0 +1,51 @@
+{
+  "name": "Inria Foundation",
+  "url": "https://www.sofa-framework.org/",
+  "image_url": "https://lh3.googleusercontent.com/WNKjpoMWeQuBHnHS8Yi3sORVKFSRGg4OlTtL7cUX4lXsFJkACbH82ZF0L9jHVvkFYG3n3JXk3mvPtbhEuJIEo8JpDgeUaSoX",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "real-time",
+    "scientific computing",
+    "physics",
+    "medical simulation",
+    "medical research"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "qt",
+    "asm",
+    "webassembly",
+    "communication protocol"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6603344982310912/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Communication Plugin Improvement",
+          "short_description": "The purpose of this project is to improve the communication plugin by adding more protocols in it such as VRPN, serial bus communication, and also...",
+          "student_name": "Rupesh Harode",
+          "code_url": "https://gist.github.com/firedranzer/d1bd41fd55a12be8b0777d3aec48ca2e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5266077789454336/"
+        },
+        {
+          "title": "Proposal for GSoC",
+          "short_description": "The objective of this project is to create an open-source plugin for SOFA building an interface with the open-source library Pulse. This engine...",
+          "student_name": "Manan-1",
+          "code_url": "https://medium.com/@jn.manan25/developer-at-google-summer-of-code-18-with-inria-foundation-sofa-and-pulse-da09100504d1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6328905430466560/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:consortium@sofa-framework.org",
+  "mailing_list": "https://www.sofa-framework.org/community/get-involved/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/SofaFramework",
+  "blog_url": "https://www.sofa-framework.org/community/forum/"
+}

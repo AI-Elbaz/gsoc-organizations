@@ -1,0 +1,166 @@
+{
+  "name": "Xapian Search Engine Library",
+  "url": "https://xapian.org/",
+  "image_url": "https://lh3.googleusercontent.com/QXpt9FkvyIQdMujj953yvmn3QVDdc1AHiD_zEQ149IzojkxNszscsJyF_oEa664SMOY0xjPWYX2CI4EKqIRvATdOAgwZTw",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "machine learning",
+    "search",
+    "information retrieval",
+    "linguistics",
+    "integration",
+    "indexing"
+  ],
+  "technologies": [
+    "android",
+    "c++",
+    "golang",
+    "unicode",
+    "swig",
+    "linux"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5814122998398976/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Learning to Rank Stabilisation",
+          "short_description": "The project aims to provide an end to end system for Learning to Rank (Letor) functionality in Xapian, which could be included in the next stable...",
+          "student_name": "ayshtmr",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2016/LetorStabilisation/Code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6427220989968384/"
+        },
+        {
+          "title": "R bindings for Xapian",
+          "short_description": "R is one of the best available programming languages for computational statistics, data visualization and data science. The goal of this project is...",
+          "student_name": "Amanda Jayanetti",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2016/R/RXapian",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5647778378153984/"
+        },
+        {
+          "title": "Clustering of Search Results",
+          "short_description": "The current clustering functionality implemented in Xapian uses hierarchical clustering and though it provides fairly good results for low...",
+          "student_name": "Richhiey",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2016/Clustering/product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4670134971006976/"
+        },
+        {
+          "title": "Support for HHVM",
+          "short_description": "HHVM is an open-source virtual machine designed for executing programs written in Hack and PHP. Rather than directly interpret or compile PHP code...",
+          "student_name": "ng420",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2016/HHVM/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6005008524902400/"
+        },
+        {
+          "title": "Weighting Schemes",
+          "short_description": "Primarily, the idea is to improve existing weighting schemes in Xapian. There are other weighting schemes which can potentially be employed but they...",
+          "student_name": "Vivek Pal",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2016/Weighting/Code",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5132639732236288/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6189339662876672/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Learning to Rank Stablization",
+          "short_description": "The Main Objective of this project is to create a Learning to Rank system which will eventually be integrated in Xapian. This project can be broken...",
+          "student_name": "Ayush Pandey-1",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2017/LetorStabilisation/ProjectReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6389689552470016/"
+        },
+        {
+          "title": "Learning to Rank Click Data Mining",
+          "short_description": "Click logs provide a highly valuable source of relevance information. Compared to editorial labels, clicks are much cheaper to obtain and always...",
+          "student_name": "Vivek Pal",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2017/LetorClickstream/WorkProduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6678438458949632/"
+        },
+        {
+          "title": "PHP Bindings Improvement",
+          "short_description": "PHP7 the new version, is considered to be a major release after the release of PHP5 in 2004. Currently PHP7 Binding for Xapian is based heavily on...",
+          "student_name": "Nihal N",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2017/PHP7/ProjectReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5895643356725248/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5404190113267712/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Diversification of Search Results",
+          "short_description": "A user of a general web search engine may use ambiguous queries such as \"java\", which could mean the programming language or the island. It is...",
+          "student_name": "Uppinder Chugh",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2018/Diversification/WorkProduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6441426460082176/"
+        },
+        {
+          "title": "Math Aware Search for Xapian",
+          "short_description": "Searching for mathematical information in documents facilitates learning.  Students can search for unfamiliar math equations. A researcher can look...",
+          "student_name": "Guruprasad Hegde",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2018/Maths/Work%20Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4515784718024704/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5711561895706624/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Learning to Rank Stabilisation",
+          "short_description": "This project revolves around making the xapian-letor and xapian-evaluation module releasable. It includes writing extensive tests for various...",
+          "student_name": "Vaibhav Kansagara",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2019/LTR/Work%20Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5649441904656384/"
+        },
+        {
+          "title": "Text-Extraction Libraries",
+          "short_description": "Currently Omega uses external filters to extract text from a wide range of file formats. However, it is possible to improve it replacing this filter...",
+          "student_name": "Bruno Baruffaldi",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2019/TextExtraction",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5085906023743488/"
+        },
+        {
+          "title": "Speed up Xapian's testsuite",
+          "short_description": "Currently the xapian tests run one after the other. Since most machines these days use more than 1 processor, the tests can be sped up by running...",
+          "student_name": "Tanmay Sachan",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2019/Testsuite/WorkProduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6565200738648064/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4524333319323648/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "NEW WEIGHTING SCHEMES",
+          "short_description": "Xapian currently supports Tf-Idf weighting scheme. It has some normalisations (described by SMART) already implemented. More normalisations can be...",
+          "student_name": "Dipanshu Garg",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2020/WeightingSchemes/Work%20Product",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6240766902403072/"
+        },
+        {
+          "title": "Text-Extraction Libraries",
+          "short_description": "Project: Text-Extraction Libraries\nCurrently, Omega has support for various file formats such as .htm, .html, .pdf, .csv etc. This project will focus...",
+          "student_name": "Parth Kapadia",
+          "code_url": "https://trac.xapian.org/wiki/GSoC2020/TextExtraction/WorkProduct",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6004446863032320/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://trac.xapian.org/wiki/GSoC_IRC",
+  "contact_email": "",
+  "mailing_list": "https://trac.xapian.org/wiki/GSoC_Mailing_List",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/xapian"
+}

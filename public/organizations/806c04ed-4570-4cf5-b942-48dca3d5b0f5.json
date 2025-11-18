@@ -1,0 +1,391 @@
+{
+  "name": "Drupal Association",
+  "url": "https://drupal.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/drupal-association/kfbn4ws0uftixkho-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web development",
+    "content management",
+    "cms",
+    "object-oriented",
+    "web",
+    "javascript",
+    "sql",
+    "php",
+    "symfony",
+    "drupal 8",
+    "web application",
+    "backend",
+    "martech",
+    "mobile-apps",
+    "object oriented programming",
+    "apps",
+    "cloud",
+    "DXP",
+    "Massive community",
+    "Inclusive"
+  ],
+  "technologies": [
+    "javascript",
+    "html5",
+    "sql",
+    "php",
+    "symfony",
+    "drupal 8",
+    "web",
+    "web development",
+    "content management system",
+    "cms",
+    "object-oriented",
+    "mysql",
+    "html"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4644948074823680/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Solving content conflicts with merge algorithms in Drupal 8",
+          "short_description": "With the introduction of Multi-version module in Drupal 8 we suddenly have a very powerful content revision API that can handle branching and...",
+          "student_name": "Rakesh Verma",
+          "code_url": "http://rakeshverma.in/final-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5655297389494272/"
+        },
+        {
+          "title": "Add Password-based Public-key Encryption to Drupal 8",
+          "short_description": "The goal of this project is to provide a role-based data encryption feature for securely storing highly sensitive data in Drupal 8. Accordingly,...",
+          "student_name": "Muhammad Talha Paracha",
+          "code_url": "https://github.com/talhaparacha/pubkey_encrypt/commits/gsoc2016?author=talhaparacha",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5398018513698816/"
+        },
+        {
+          "title": "CKEditor plugins for TMGMT",
+          "short_description": "The Translation Management Tool (TMGMT) module is an extension to support editors, publishers, translators and project managers during their process...",
+          "student_name": "sasanikolic",
+          "code_url": "https://github.com/sasanikolic90/tmgmt_ckeditor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6157951773442048/"
+        },
+        {
+          "title": "Social API",
+          "short_description": "The Social API will harmonize social networking functionality in Drupal, providing an extensible module that allows site administrators and...",
+          "student_name": "gvso",
+          "code_url": "https://docs.google.com/spreadsheets/d/1J8SpsmozQsIWstOh6UIe00FOKy1opnGExvLfLK6P5MA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6182373494358016/"
+        },
+        {
+          "title": "Integrate Google Cloud Vision API to Drupal 8",
+          "short_description": "Google Cloud Vision API bring to picture the automated content analysis of the images. The API can not only detect objects ranging from animals to...",
+          "student_name": "ajalan065",
+          "code_url": "http://arpitjalandrupal.blogspot.in/2016/08/gsoc-2016-work-product-of-google-vision.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5307612941778944/"
+        },
+        {
+          "title": "Drupal 8 media solution module",
+          "short_description": "The aim of the project is to provide an overall Drupal 8 media module which would bundle the components and configurations of the existing...",
+          "student_name": "Vijay Nandwani",
+          "code_url": "https://gist.github.com/isthegeek/4f1b8f39e36f99ca052ffaf2211c4d5a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4781665473789952/"
+        },
+        {
+          "title": "Port Mailhandler to Drupal 8",
+          "short_description": "The Drupal 8 version of Mailhandler is based on Inmail module and takes mail (usually from an IMAP mailbox) and imports it as whatever type of...",
+          "student_name": "Milos Bovan",
+          "code_url": "https://github.com/fantastic91/mailhandler",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6513712504504320/"
+        },
+        {
+          "title": "Porting Comment alter module to Drupal 8",
+          "short_description": "Comment alter allows changing values of a fields on a node through comments. The module allows selecting any field of the content type to be altered...",
+          "student_name": "anchal29",
+          "code_url": "https://anchal29.github.io/blog/2016/08/21/GSoC-16-Porting-Comment-Alter-Module.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6288931096100864/"
+        },
+        {
+          "title": "Port Google Login Authenticator To Drupal 8",
+          "short_description": "The Google Login Authenticator Module adds an extra layer of security to the Drupal login architecture.\nThe plugin no longer works in Drupal 8...",
+          "student_name": "therealssj",
+          "code_url": "https://github.com/therealssj/GSoC2016-Final-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5131691081334784/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6388224565968896/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Complete porting of Examples for Developers Sub-modules to D8",
+          "short_description": "I propose to port Examples for developers sub-modules from Drupal 7 to Drupal 8. The function of Examples for Developers is that it would provide...",
+          "student_name": "Abhishek Lal B",
+          "code_url": "https://www.drupal.org/node/2904882",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5123052157272064/"
+        },
+        {
+          "title": "Creating a great geospatial experience in Drupal 8 by porting and enhancing the Search_Api_Location module",
+          "short_description": "Search_API_Location module provides the geospatial search experience to Drupal. Geo-spatial search mainly refers to searching data that is associated...",
+          "student_name": "Dibyajyoti Panda",
+          "code_url": "http://dbjpanda.me/projects/gsoc-drupal-geospatial-search",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5615936295927808/"
+        },
+        {
+          "title": "A Module for client-side File encryption",
+          "short_description": "Objective : This project will involve building a complete module for Drupal 8 site to make it a zero-knowledge system using front-end JS encryption...",
+          "student_name": "Tameesh Biswas",
+          "code_url": "https://www.drupal.org/node/2904242",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6262315720638464/"
+        },
+        {
+          "title": "Client-side public-key encryption module for Drupal 8",
+          "short_description": "The goal of this project is to provide a Drupal 8 module for client-side encryption using elliptic curve cryptography. Module will implement...",
+          "student_name": "Marcin Czarnecki",
+          "code_url": "https://www.drupal.org/node/2901707",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4835815616151552/"
+        },
+        {
+          "title": "Adding support for Theleague oauth and new implementers for social auth and social post",
+          "short_description": "Theleague is Oauth2.0 client library allows integration with any OAuth provider that conforms to the OAuth 2.0 standard, theleague provide a...",
+          "student_name": "Himanshu Dixit",
+          "code_url": "https://docs.google.com/spreadsheets/d/19MbptdDmhONHJLlR3vN_N18lTub-6PEtvGDAZ0zE5e0/edit#gid=0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5887429768642560/"
+        },
+        {
+          "title": "GSoC 2017 Project: Port \"Vote up/down\" module to Drupal 8",
+          "short_description": "Introduction\nThe project is about porting the 'vote up/down' module from Drupal 7 to Drupal 8.\nModule info\nVote up/down is a module which can be...",
+          "student_name": "Sudhanshu Gautam",
+          "code_url": "http://sudhanshug.com/blog/gsoc/2017/wrapup",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5211526201868288/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5920501889236992/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Developing \u201cAffiliates Connects\u201d module for Drupal 8",
+          "short_description": "The \u201cAffiliates Connects\u201d module provides an interface to easily integrate with affiliate APIs or product advertising APIs provided by different...",
+          "student_name": "Ankit Jain",
+          "code_url": "http://ankitjain28.me/gsoc-2018-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4769424951214080/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4872193886912512/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Web Thing API Implementation for drupal module.",
+          "short_description": "\"The goal of the Web of Things is to extend the web of pages into a web of things by giving connected devices URLs on the World Wide Web. This will...",
+          "student_name": "Xianwen Long",
+          "code_url": "https://www.drupal.org/project/wotapi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5235485708910592/"
+        },
+        {
+          "title": "Complete Porting of Icon API to Drupal 8",
+          "short_description": "Introduction\nThis project is about porting the Icon API module from Drupal 7 to Drupal 8.\nAbout Icon API\nThe \u201cIcon API\u201d module provides the...",
+          "student_name": "Mohd Malik Naik",
+          "code_url": "https://www.drupal.org/node/3075891",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4598684933685248/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5836893377265664/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Commerce Fraud",
+          "short_description": "This project will aim to port Commerce fraud module to Drupal 8/9 with candidate level release.\nThis would include updating the current module with...",
+          "student_name": "Vishal Chaudhary",
+          "code_url": "https://www.drupal.org/project/commerce_fraud",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5167440717152256/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/drupal-association/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Decoupled menu's for Drupal",
+          "short_description": "I would like to be a part of drupal.org in GSOC. The project Decoupled menus for Drupal. Which is the concept of making Drupal combined with New...",
+          "student_name": "Vairamuthu M",
+          "code_url": "https://www.drupal.org/project/gdwc/issues/3282762",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/TbEfG95X/"
+        },
+        {
+          "title": "FramOS Graphing and reporting",
+          "short_description": "The goal of the project is to investigate reporting and graphing tools and develop proof of concept examples that could be used as starting point by...",
+          "student_name": "Yash Goel",
+          "code_url": "https://medium.com/@yg17381/gsoc-2022-work-report-eae249faef73",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dl40DRGx/"
+        },
+        {
+          "title": "Social Auth (SSO) Ecosystem Modernization",
+          "short_description": "Modernize (i.e., re-architect and largely refactor) the current \"Social API\" core module and most highly used SSO provider modules. The newer API...",
+          "student_name": "Simran",
+          "code_url": "https://github.com/67simran/GSOC-2022/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/OT2uo8EB/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/drupal-association",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Enviromage",
+          "short_description": "Welcome to Enviromage, a powerful Drupal module designed to unleash the full potential of your website's performance and configuration management....",
+          "student_name": "Ahmed Aziz ABBASSI",
+          "code_url": "https://gist.github.com/aziz-712/f6a2dffa3bdfa773b914ef0f9c2f9f2c",
+          "proposal_id": "hRJx5EvH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GJZM0Obv"
+        },
+        {
+          "title": "GSOC LMS Portal for Drupal",
+          "short_description": "The \"GSOC LMS Portal for Drupal\" project aims to develop a comprehensive learning management system with Drupal for GSOC students. This system will...",
+          "student_name": "Kunal Sangtiani",
+          "code_url": "https://www.drupal.org/project/gsoc/issues/3383666",
+          "proposal_id": "cVJ5VFPg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vkHsC85z"
+        },
+        {
+          "title": "Chatbot Interface for Drupal Documentation and Contributor Onboarding",
+          "short_description": "Developed the Drupal-Chatbot Module, delving deep into the Drupal ecosystem to create a module and block from scratch. This collaborative effort with...",
+          "student_name": "Royal Simpson Pinto",
+          "code_url": "https://medium.com/@royalpinto007/work-report-google-summer-of-code-2023-journey-with-drupal-146e91dd88fc",
+          "proposal_id": "chVjz1lQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/V6n2jJa5"
+        },
+        {
+          "title": "Refactoring Staggering Drupal CSS Codebase",
+          "short_description": "The Drupal CSS Modernization Initiative aims to upgrade Drupal's core CSS codebase using modern CSS techniques. Given the many files of CSS within...",
+          "student_name": "stanzin norzang",
+          "code_url": "https://stanzin7.github.io/myPortfolio/bondPeriod",
+          "proposal_id": "lmLq1p6v",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/furG843S"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/drupal-association/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Integration of AI-powered Chatbots for Drupal.org",
+          "short_description": "This proposal aims to enhance user experience on Drupal.org by integrating AI-powered chatbots. The project will focus on solving the problem of...",
+          "student_name": "Krish Gaur",
+          "code_url": "https://gist.github.com/KrishGaur1354/8671ea3e87b4a7a7c7a7ecdd16c2f6ce",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eKKITjdJ/"
+        },
+        {
+          "title": "Enhance Simplenews module",
+          "short_description": "This project aims to enhance Simplenews newsletter module for Drupal 10, enhancing functionalities from existing modules while prioritizing...",
+          "student_name": "Aditi Upadhyay",
+          "code_url": "https://docs.google.com/document/d/1Jt3eft9BATEQXHsecmV8er0aCVF6gsi_ZkySfZoyXTM/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/P4GuMwxr/"
+        },
+        {
+          "title": "Supabase Authentication for Drupal",
+          "short_description": "In Drupal, there's a module for Firebase authentication, but it's not open source. To make things more inclusive and open, we're adding Supabase...",
+          "student_name": "Md. Sahil",
+          "code_url": "https://medium.com/@md61421/final-work-report-for-gsoc-2024-supabase-authentication-for-drupal-da21e0b81bd3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RmXNkqH1/"
+        },
+        {
+          "title": "ECA and Workflow Virtual Assistant: GenAI Orchestration in Drupal 10",
+          "short_description": "This project aims at building a visual AI Feedback Assistant that integrates to the ECA and BPMN modules to streamline the automation workflows, that...",
+          "student_name": "ompiepy",
+          "code_url": "https://www.drupal.org/sandbox/ompiepy/3485212",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Ud9UBTWL/"
+        },
+        {
+          "title": "Enhancing Drupal's SEO by AI Automation and Optimization",
+          "short_description": "The AI-driven SEO automation module for Drupal, initiative aims to expand and extend the capabilities of existing tools such as Content AI and...",
+          "student_name": "stanzin norzang",
+          "code_url": "https://medium.com/@snorzang65/google-summer-of-code-drupal-7b06e2ff5c25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Jc3UfWka/"
+        },
+        {
+          "title": "Localization Client",
+          "short_description": "The Localization Client project's mission to streamline in-context translation aligns with my belief that technology should be accessible to...",
+          "student_name": "Azhar Khan",
+          "code_url": "https://azhardotcoder.medium.com/work-report-my-google-summer-of-code-experience-with-drupal-96e022d323a6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/r4KRmkzt/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/drupal-association",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Entity Display Manager Module",
+          "short_description": "The Entity Display Manager module aims to simplify how entity displays are handled in Drupal. Currently, managing view modes and form displays across...",
+          "student_name": "Chinmayi D S",
+          "code_url": null,
+          "proposal_id": "OsVF96dD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ykLQlcjx"
+        },
+        {
+          "title": "Integration of Augmentor AI plugin with DALL\u00b7E 3 OPEN AI model",
+          "short_description": "This proposal aims to integrate OpenAI's dall\u00b7e 3 model into Augmentor's plugin framework, simplifying content creation by allowing the generation of...",
+          "student_name": "Furo",
+          "code_url": null,
+          "proposal_id": "9e6AcCS6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GMSbojWG"
+        },
+        {
+          "title": "AI-Powered Unified Accessibility Compliance Suite for Drupal - GSoC 2025 Proposal",
+          "short_description": "This project proposes an AI-powered accessibility auditing and remediation toolkit tailored for Drupal environments. It integrates automated...",
+          "student_name": "Ned9776",
+          "code_url": null,
+          "proposal_id": "4WbiBZXE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XafQwRPZ"
+        },
+        {
+          "title": "Assisting Modules in Drupal 11 Compatibility",
+          "short_description": "This project focuses on upgrading high-impact modules in Drupal to be fully compatible with the upcoming Drupal 11 release. The work includes...",
+          "student_name": "RAJAS SAMSE",
+          "code_url": null,
+          "proposal_id": "VZvQ3nAy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Rmosgrai"
+        },
+        {
+          "title": "Vector Search Integration for Drupal: FAISS & Elasticsearch",
+          "short_description": "This project aims to bring AI-powered semantic search to Drupal by integrating FAISS and Elasticsearch as pluggable vector search backends. FAISS...",
+          "student_name": "Rigzin Yangdol",
+          "code_url": null,
+          "proposal_id": "XKgYbYkL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0117Q39b"
+        },
+        {
+          "title": "Appwrite Integration Module for Drupal: Secure BaaS Integration for Modern Web Workflows",
+          "short_description": "This project aims to develop a robust, secure, and extensible Drupal module that integrates with Appwrite, an open-source backend-as-a-service...",
+          "student_name": "Ritesh_Kumar_Singh",
+          "code_url": null,
+          "proposal_id": "D2TbqNLU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5QrB2MPf"
+        },
+        {
+          "title": "AI-Powered Media Caption Generator",
+          "short_description": "The AI-Powered Media Caption Generator is a smart Drupal module designed to automatically generate engaging and customizable captions for uploaded...",
+          "student_name": "Soham Lad",
+          "code_url": null,
+          "proposal_id": "Q3EhoM22",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/irxh4wgB"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://www.drupal.org/community/contributor-guide/reference-information/talk/tools/slack",
+  "contact_email": "mailto:lechleider.matthew@gmail.com",
+  "mailing_list": "https://groups.drupal.org/google-summer-code",
+  "ideas_url": "https://www.drupal.org/project/gsoc",
+  "guide_url": "https://www.drupal.org/community/contributor-guide/reference-information/google-summer-of-code/for-gsoc-students-where-to",
+  "twitter_url": "https://twitter.com/drupal",
+  "blog_url": "https://www.drupal.org/planet"
+}

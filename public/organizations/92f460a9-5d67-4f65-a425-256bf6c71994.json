@@ -1,0 +1,117 @@
+{
+  "name": "Zendalona",
+  "url": "https://zendalona.com/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/zendalona/tqduj6nsxnnw3vpy-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "accessibility",
+    "braille",
+    "gaming",
+    "AGI"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "gtk",
+    "qt"
+  ],
+  "years": {
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/zendalona/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "ZenMatics",
+          "short_description": "The proposal aims to develop an innovative, accessible mobile application to address the specific challenges faced by visually impaired students in...",
+          "student_name": "Ayush Prasad",
+          "code_url": "https://github.com/ayush27prasad/MathMantra-v1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dNOYctqw/"
+        },
+        {
+          "title": "Maths-Tutor QT Version and Enhancement",
+          "short_description": "I propose to update the Math-Tutor App by leveraging Qt to design a more modern and elegant interface which would result in a heightened user...",
+          "student_name": "Ronak kumbhat",
+          "code_url": "https://docs.google.com/document/d/14eOcAiAV1u7L2UIBHnunXJiAsYKZZBGZ/edit#heading=h.gjdgxs",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Q0ctBiAh/"
+        },
+        {
+          "title": "User Query Management Software",
+          "short_description": "The project aims to enhance the open-source ticketing system Trudesk by integrating critical accessibility features and advanced functionalities. The...",
+          "student_name": "Anima Regem",
+          "code_url": "https://blog.animaregem.me/posts/the-gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/IMXwpDEG/"
+        },
+        {
+          "title": "Liblouis table editor",
+          "short_description": "Aim to develop a GUI application for the task of table creation and editing of Liblouis tables. This task is currently tedious and time consuming and...",
+          "student_name": "Jriyyya",
+          "code_url": "https://github.com/jriyyya/liblouis-table-editor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/nk99BJtU/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/zendalona",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Accessibility in the Ubuntu Installer for Visually Impaired Users - Support Accessible-Coconut 24.04",
+          "short_description": "This project aims to make the Ubuntu Desktop Provision installer fully accessible to visually impaired users by addressing key accessibility issues...",
+          "student_name": "Akshay Waghmare",
+          "code_url": null,
+          "proposal_id": "DQwExLHp",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WRFeuRPW"
+        },
+        {
+          "title": "AI-Powered Agent to provide support for Zendalona products",
+          "short_description": "I will build an accessible AI support agent for Zendalona product.. This project addresses a critical gap in accessibility support by creating a...",
+          "student_name": "Ashish Baghel",
+          "code_url": null,
+          "proposal_id": "3wfUCgu7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GMl3b6RZ"
+        },
+        {
+          "title": "Accessible-Bluff Bot",
+          "short_description": "In the current accessible bluff game, users often have to wait for other players to take their turn, which can be tedious and boring. To solve this,...",
+          "student_name": "Faisal Majeed",
+          "code_url": null,
+          "proposal_id": "21yUtJzG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5PRtUndn"
+        },
+        {
+          "title": "Linux-Intelligence-OCR-Solution(LIOS) - Enhancement",
+          "short_description": "Summary: The goal of this project is to improve the Linux-Intelligent OCR Solution (LIOS), an open-source tool for text extraction from images,...",
+          "student_name": "Nihal_Rodge",
+          "code_url": null,
+          "proposal_id": "6NbyfqXq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/17ibgYz9"
+        },
+        {
+          "title": "Liblouis table editor - Enhancement",
+          "short_description": "Liblouis Table Editor, a tool that helps users create and edit braille translation tables used by screen readers and braille devices. Editing these...",
+          "student_name": "SahilRakhaiya05",
+          "code_url": null,
+          "proposal_id": "PaTuP05Z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/1id80PNv"
+        },
+        {
+          "title": "Maths-Mantra Enhancement",
+          "short_description": "This project aims to enhance Maths-Mantra, an educational app designed for visually impaired primary school students (up to Grade 5), by addressing...",
+          "student_name": "SHADIL AM",
+          "code_url": null,
+          "proposal_id": "cXlttnyA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SL9ZcwNI"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://telegram.me/zendalona_gsoc",
+  "contact_email": "mailto:zendalona@gmail.com",
+  "mailing_list": "https://groups.google.com/g/zendalona_gsoc_2024",
+  "ideas_url": "https://docs.google.com/document/d/1HshVGE-oQq_xx09zG2LfqfVYWRhyrASteXzabCV9eIQ/edit?usp=sharing",
+  "guide_url": "https://zendalona.com/gsoc/",
+  "blog_url": "https://groups.google.com/g/zendalona_gsoc_2024"
+}

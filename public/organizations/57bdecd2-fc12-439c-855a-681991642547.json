@@ -1,0 +1,47 @@
+{
+  "name": "BioGears",
+  "url": "https://www.biogearsengine.com/",
+  "image_url": "https://lh3.googleusercontent.com/hQcH8RXDHGNt9yIvx1BnCI7Gi_cxgOngcq-6zwKRzwwhLmLypv-qb6w997bYmx485y0a46FheMwaEE8RYGMq9A5Tc2E-VA",
+  "image_background_color": "#000000",
+  "category": "Science and medicine",
+  "topics": [
+    "computational biology",
+    "mathematical software",
+    "physiology",
+    "pharmacological modeling"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "cmake",
+    "c++11"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6683736474648576/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Website Porter",
+          "short_description": "There is a need for creation of such a website that is Python Extensible as the new models are needed to be added for plotting which are not...",
+          "student_name": "Shashank Jain",
+          "code_url": "https://shashankjain12.github.io/GSoC2020-BioGears/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5512390679986176/"
+        },
+        {
+          "title": "A Clinically Relevant Multi-Case Model of Naloxone Reversal of Fentanyl-Induced Respiratory Depression",
+          "short_description": "Up until the recent COVID-19 pandemic the greatest social/medical crisis in the United States has been the opioid epidemic, taking 128 lives a day...",
+          "student_name": "Rishi Das",
+          "code_url": "https://rishisdas.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4647269141315584/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/BioGearsEngine/core/wiki/Getting-access-to-our-IRC-development-channel",
+  "contact_email": "mailto:abaird@ara.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

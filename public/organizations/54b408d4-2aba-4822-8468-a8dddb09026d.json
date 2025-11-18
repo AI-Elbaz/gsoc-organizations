@@ -1,0 +1,654 @@
+{
+  "name": "OpenAstronomy",
+  "url": "https://openastronomy.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/openastronomy/3wvadxwxjc2arepg-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "visualization",
+    "science",
+    "astronomy",
+    "solar physics",
+    "atomic physics",
+    "data science",
+    "visualisation",
+    "astrophysics",
+    "orbital mechanics",
+    "high-energy astrophysics",
+    "high energy astrophysics",
+    "cloud infrastructure",
+    "image processing",
+    "data analysis"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "julia",
+    "numpy",
+    "qt",
+    "c++",
+    "numba",
+    "javascript",
+    "spark",
+    "css"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5193799529660416/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Real Time Data Access and Visualisation tools.",
+          "short_description": "Developing viz tools for SunPy.",
+          "student_name": "Sudarshan Konge",
+          "code_url": "https://github.com/sudk1896/sunpy/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6658051994025984/"
+        },
+        {
+          "title": "Astropy: Bridge sherpa and astropy fitting",
+          "short_description": "Both astropy and Sherpa (https://github.com/sherpa/sherpa/) provide modeling and fitting capabilities; however, Sherpa\u2019s features are way more...",
+          "student_name": "nocturnalastro",
+          "code_url": "http://myopensauceadventure.blogspot.co.uk/2016/08/dessert.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6728735747211264/"
+        },
+        {
+          "title": "Improvements to the SunPy Database",
+          "short_description": "The SunPy database module enables users to manage files on a disk, or a network hosted database. Users can find files by using physical parameters...",
+          "student_name": "Punyaslok Pattnaik",
+          "code_url": "https://github.com/Punyaslok/sunpy/pull/1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5092662445080576/"
+        },
+        {
+          "title": "Implementing AIA response function in Sunpy",
+          "short_description": "Solar physics uses the CHIANTI atomic physics database to obtain properties about various elements and ionisation states. By using observed elemental...",
+          "student_name": "TDWilkinson",
+          "code_url": "https://github.com/sunpy/sunpy/pull/1837",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5602520831361024/"
+        },
+        {
+          "title": "Implement PSF photometry for fitting several overlapping objects at once",
+          "short_description": "Aperture photometry assumes that the background varies in a linear fashion in the aperture\u2019s vicinity. However, in a dense star cluster the...",
+          "student_name": "Z\u00e9 Vin\u00edcius",
+          "code_url": "http://mirca.github.io/gsoc-astropy-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6262816889634816/"
+        },
+        {
+          "title": "Scheduling capabilities for Astroplan",
+          "short_description": "The project aims to build upon the Astropy-affiliated package Astroplan to provide scheduling functionality for individual observations and...",
+          "student_name": "Kvyh",
+          "code_url": "http://kvyhastroplan.blogspot.com/2016/08/cleaning-up-and-documenting.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4806240471351296/"
+        },
+        {
+          "title": "Image processing and source detection in Gammapy",
+          "short_description": "Gammapy is a Python package for professional gamma-ray astronomers to analyse data from space-based gamma-ray telescopes (like Fermi-LAT) as well as...",
+          "student_name": "Olga Vorokh",
+          "code_url": "https://github.com/search?p=1&q=author%3AOlgaVorokh+created%3A%222016-02-10+..+2016-08-23%22&ref=searchresults&type=Issues&utf8=%E2%9C%93",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6097787066253312/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6563063020912640/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Casacore Testing",
+          "short_description": "This project aims to improve python-casacore infrastructure, making the codebase cleaner, modern, maintainable and adding more unit tests.",
+          "student_name": "Shibasis Patel",
+          "code_url": "http://www.techievirus.com/Gsoc-Final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6393703333625856/"
+        },
+        {
+          "title": "Drms module for JSOC Downloads",
+          "short_description": "The SunPy JSOC Client is a very rudimentary client to JSOC's export data CGI. The drms module provides a more complete implementation of the DRMS...",
+          "student_name": "nitinkgp23",
+          "code_url": "https://medium.com/@nitinkgp23/gsoc-coming-to-an-end-d20afa843940",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5644701705175040/"
+        },
+        {
+          "title": "HiPS client for Python",
+          "short_description": "Design and create a Python client for Hierarchical Progressive Surveys (HiPS). The package will enable users to view astronomical figures in an...",
+          "student_name": "Adeel Ahmad",
+          "code_url": "https://adl1995.github.io/gsoc-final-evaluation-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5440053895495680/"
+        },
+        {
+          "title": "SunPy Website Improvements",
+          "short_description": "SunPy website is a platform that introduces the SunPy open-source software package for solar physics based on Python. Its main elements are an about...",
+          "student_name": "Duygu Ke\u015fkek",
+          "code_url": "https://duygukeskek.github.io/SunPy_Website_Improvements/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6126231292477440/"
+        },
+        {
+          "title": "Sun, Right now!",
+          "short_description": "The Sun releases large amounts of magnetic energy in the form of X-rays, EUV (Extreme ultraviolet), radio waves and high energy particles regularly....",
+          "student_name": "Punyaslok Pattnaik",
+          "code_url": "https://github.com/Punyaslok/sunrightnow/pull/2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4506490677231616/"
+        },
+        {
+          "title": "Astropy : A mixin protocol for seamless interoperability",
+          "short_description": "Astropy has emerged as an integration of several independent packages (PyFits, asciitable), each responsible for an individual task in the storage,...",
+          "student_name": "Aarya Patil",
+          "code_url": "https://aaryapatil.wordpress.com/2017/08/28/a-mixin-protocol-for-seamless-interoperability/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4778482366152704/"
+        },
+        {
+          "title": "Porting the IDL Astronomy User's Library to Julia",
+          "short_description": "Hello. As a part of Google Summer Code of 2017, the main task that I intend to take up is to increase the number of the functions present in the...",
+          "student_name": "Kumar Prasun (KP)",
+          "code_url": "https://medium.com/@prasunk2/and-so-the-curtain-falls-on-this-gsoc-journey-69f1e4d0e4ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4935757223428096/"
+        },
+        {
+          "title": "IRIS Data Class",
+          "short_description": "The project will enable users to use IRIS class objects IRISRaster and IRISSji and its tools to calibrate, visualise and analyse different IRIS data....",
+          "student_name": "Ankit Baruah",
+          "code_url": "https://medium.com/@ankit_b/gsoc-2017-fce66e75341",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6313559243882496/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6600717804503040/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Integrating Physical Units into HelioPy",
+          "short_description": "HelioPy is a Python package which lets the user import space physics data from various sources and converts them into an easy-to-read and manipulates...",
+          "student_name": "Yatharth Rai",
+          "code_url": "https://medium.com/@yatharthrai16/heliopy-final-blog-post-cd4e9cf3ebe1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6448924936110080/"
+        },
+        {
+          "title": "Incorporating FITS Region, CRTF I/O and improving Regions.",
+          "short_description": "Astropy's regions package is being developed to handle description and manipulation of astronomical regions on sky and pixel coordinates.The current...",
+          "student_name": "Sushobhana Patra",
+          "code_url": "https://medium.com/@sushobhanapatra/gsoc-final-report-dd9a3dc0d1d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5108140769017856/"
+        },
+        {
+          "title": "Porting Essential ERFA Functions to Julia",
+          "short_description": "The JuliaAstro organization equips astronomers with tools developed in Julia language that they can include in their daily workflow and do impactful...",
+          "student_name": "Prakhar Srivastava",
+          "code_url": "http://prsr.me/GSoC-Wrap-Up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5373821473259520/"
+        },
+        {
+          "title": "Phase-resolved oscillations",
+          "short_description": "Quasi-periodic oscillations are the \u201cheart-beat\u201d of black holes and neutron stars: oscillations with changing phase and frequency, probably due to...",
+          "student_name": "Swapnil Sharma",
+          "code_url": "https://docs.google.com/document/d/1iR8DjAmaSPK9cuwuAYePXLuir_aDJjhNBrqYGF8qwdg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4580171982045184/"
+        },
+        {
+          "title": "Transition to astropy time",
+          "short_description": "SunPy uses python datetime module for handling almost all time related things. datetime is not the best choice for astronomy related projects due to...",
+          "student_name": "Vishnunarayan K I",
+          "code_url": "https://medium.com/@appukuttancr/the-end-of-gsoc-261e9afa66ac",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6500738213609472/"
+        },
+        {
+          "title": "Improving propagators and perturbations account in Poliastro",
+          "short_description": "The project is aimed at improvement of currently implemented Poliastro propagators (cure long-time propagation problems, measure performance, use...",
+          "student_name": "Nikita Astrakhantsev",
+          "code_url": "https://blog.poliastro.space/2018/08/05/2018-08-05-google-summer-of-code-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6040133975408640/"
+        },
+        {
+          "title": "Implement a new Plasma metaclass in PlasmaPy",
+          "short_description": "PlasmaPy is an open-source Python package and aims to provide a set of common functionality used in plasma physics. Currently it implements a Plasma...",
+          "student_name": "Ritiek Malhotra",
+          "code_url": "https://gist.github.com/ritiek/505b696436182a4b3da027787c831edc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5159989614215168/"
+        },
+        {
+          "title": "Learn Astropy",
+          "short_description": "Learn Astropy is a website for the Astropy Learn ecosystem which consolidates Astropy documentation and associated examples, Astropy tutorials, and...",
+          "student_name": "Manan Agarwal",
+          "code_url": "https://medium.com/@manan_agarwal/gsoc-diaries-4-02-wrapping-up-66346255bc6c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5184722451824640/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5152196847468544/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Sunkit-Image",
+          "short_description": "This project aims at developing various image processing algorithms and manipulation routines to sunkit-image, an affiliated python package of Sunpy....",
+          "student_name": "Vatsalya Chaubey",
+          "code_url": "https://gist.github.com/vatch123/d81e04dbf1f613eaf425965f3bbf6364",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6683198925307904/"
+        },
+        {
+          "title": "Implement an automated model optimization framework in CTLearn",
+          "short_description": "CTLearn is a Python package for using deep learning to perform analysis tasks on data from imaging atmospheric Cherenkov telescopes (IACTs). These...",
+          "student_name": "Juan Redondo Pizarro",
+          "code_url": "https://github.com/ctlearn-project/ctlearn_optimizer/pull/3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5672735995330560/"
+        },
+        {
+          "title": "Remote Data for SunPy",
+          "short_description": "Some functionality in SunPy or in affiliated packages is going to need access to data files on remote (HTTP) servers. Examples of this include data...",
+          "student_name": "Vishnunarayan K I",
+          "code_url": "https://medium.com/@appukuttancr/gsoc-the-end-1e6153c49a7d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5709992840134656/"
+        },
+        {
+          "title": "Developing \u201ctelescopy\u201d: A Simple API for Retrieving Signal-to-Noise Estimates of an Arbitrary Astronomical Observation",
+          "short_description": "To make a convincing proposal in observational astronomy, you must demonstrate to a telescope\u2019s proposal committee that your target can indeed be...",
+          "student_name": "Tiffany Jansen",
+          "code_url": "https://astrotiff.home.blog/2019/08/25/final-gsoc-post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5742737184260096/"
+        },
+        {
+          "title": "Add Time-dependent Instrument Response Function to IRISpy",
+          "short_description": "This project is about adding a very practical functionality to the IRISpy package which is built on top of Sunpy\u2019s ndcube package. IRISpy provides...",
+          "student_name": "Kris Stern",
+          "code_url": "https://github.com/sunpy/irispy/pull/119",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6094580905148416/"
+        },
+        {
+          "title": "Improving poliastro Earth capabilities",
+          "short_description": "Author and organisation\n\nName: Jorge Mart\u00ednez Garrido\nOrganisation: poliastro - Open Astronomy\n\nApplication\nImproving poliastro Earth capabilities...",
+          "student_name": "Jorge Mart\u00ednez Garrido",
+          "code_url": "https://blog.poliastro.space/2019/08/20/2019-08-20-new-features-after-gsoc19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4887352839766016/"
+        },
+        {
+          "title": "CZML Extractor for poliastro",
+          "short_description": "Poliastro aims to be an open source library for aiding Astrodynamics and Orbital Mechanics. However, a lack of interactive visualization tools is...",
+          "student_name": "Eleftheria",
+          "code_url": "https://blog.poliastro.space/2019/08/19/2019-08-19-czml-extractor-an-overview.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4930418745278464/"
+        },
+        {
+          "title": "Supporting APE14 in NDCube",
+          "short_description": "This project proposes to add the support for APE14 in NDCube, which is a SunPy-affiliated project. In order to support both FITS-WCS and gWCS and...",
+          "student_name": "yashrsharma44",
+          "code_url": "https://medium.com/@yashrsharma44/google-summer-of-code-2019-final-report-openastronomy-ndcube-65068b8571d8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5877302938828800/"
+        },
+        {
+          "title": "Visualization of astronomical images in Julia: A fresh Approach",
+          "short_description": "JuliaAstro organization provides astronomers with the tools to work with the Julia language.\nOne of the latest packages is AstroImages.jl, which aims...",
+          "student_name": "Rohit-Kumar",
+          "code_url": "https://aquatiko.github.io/blog/2019-08/final-report-gsoc19-the-curtain-falls/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5135227968552960/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4577601315667968/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Metadata searches using Fido",
+          "short_description": "Federated internet data obtainer (Fido) is a very powerful query and fetch interface when it comes to its flexibility and versatility with different...",
+          "student_name": "Abhijeet Manhas",
+          "code_url": "https://github.com/abhijeetmanhas/abhijeetmanhas/blob/master/GSoC2020-Fido-WorkProduct.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6373058639560704/"
+        },
+        {
+          "title": "Accelerate Synthetic Spectra Calculations using CUDA",
+          "short_description": "The presence and concentration of molecules in a gas can be measured by comparing absorption and emission experimental spectra to synthetic spectra....",
+          "student_name": "Pankaj Mishra",
+          "code_url": "https://github.com/radis/radis/pull/117",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5717508822138880/"
+        },
+        {
+          "title": "EinsteinPy: Null geodesics for Schwarzschild and Kerr Geometries",
+          "short_description": "Null geodesics refer to the path, that massless particles, such as photons, follow in 4-dimensional spacetime. Accurate numerical computation of...",
+          "student_name": "Jyotirmaya Shivottam",
+          "code_url": "https://github.com/einsteinpy/GSoC-2020/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5743602493292544/"
+        },
+        {
+          "title": "Enable ROOT input",
+          "short_description": "Most of the data from IACTs currently in operation comes in ROOT format. Enabling ROOT input in CTLearn will open its doors to existing IACT...",
+          "student_name": "SahilYadav",
+          "code_url": "https://medium.com/@sahilyadav27",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5281162190127104/"
+        },
+        {
+          "title": "A lightning-fast stingray: Parallelizing stingray operations to analyze larger-than-memory datasets",
+          "short_description": "stingray is a python framework that assists astronomers in spectral-timing(time-series) analysis of X-ray observations from Black Holes, Pulsars etc....",
+          "student_name": "Amogh Desai",
+          "code_url": "https://github.com/theand9/stingray/blob/gsoc2020_final_report/GSoC%20-%202020%20Final%20Project%20Report%20stingray%20Amogh%20Desai_%20A%20lightning%20fast%20stingray.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5558602951032832/"
+        },
+        {
+          "title": "Spark Cluster Management Dashboard",
+          "short_description": "Apache Spark which is used by people at Astronomy Commons enables large scale distributed computing via creating local and remote clusters. \nBut the...",
+          "student_name": "Biswarup Banerjee",
+          "code_url": "https://github.com/astronomy-commons/sparkmanager",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6228999061110784/"
+        },
+        {
+          "title": "glue-solar",
+          "short_description": "The objective of this project is to provide a foundation for interactively exploring and quickly analyzing large datasets (100Gb or larger) in solar...",
+          "student_name": "Kris Stern",
+          "code_url": "https://medium.com/@krisastern/gsoc-2020-glue-solar-project-3-2-eb6b2bccce85",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6025721211781120/"
+        },
+        {
+          "title": "Solar Weather Forecasting using Linear Algebra",
+          "short_description": "The goal of this project is to develop a model for forecasting the likelihood that an Active Region on the sun would produce a solar flare in the...",
+          "student_name": "Raahul Singh",
+          "code_url": "https://gist.github.com/Raahul-Singh/907e5af7c568a94cbb313200f034916f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4893913812303872/"
+        },
+        {
+          "title": "CCD Reduction Package",
+          "short_description": "Over the years Julia has become a successful language for science and numerical computing. However, there are no current packages for performing CCD...",
+          "student_name": "Siddharth Lal",
+          "code_url": "https://github.com/JuliaAstro/CCDReduction.jl/commits?author=siddharthlal25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5771063339778048/"
+        },
+        {
+          "title": "Designing a Specialized Orbit \u200band Implementing Geometries for Surveillance and Reconnaissance Capabilities",
+          "short_description": "The main objective of the proposal is to add the features to develop a Specialized Orbit and to incorporate a library of Surveillance and Recognition...",
+          "student_name": "Meuge",
+          "code_url": "https://blog.poliastro.space/2020/08/31/2020-08-31-This-is-an-end-of-an-era/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5795527741931520/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6276607395758080/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Add a CDS-ASCII writer to astropy",
+          "short_description": "Astropy is a massive Python library providing methods and general purpose tools for processing and analysis of data generated in astronomy and...",
+          "student_name": "Suyog Garg",
+          "code_url": "https://suyog20.blogspot.com/2021/08/astropygsoc-blog-post-65-week-10-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5365547692195840/"
+        },
+        {
+          "title": "Adding Support for Resampling Data with NDCube",
+          "short_description": "ndcube is a package that lets users combine multi-dimensional astronomical data with their corresponding real-world physical coordinates. WCS...",
+          "student_name": "Adwait Bhope",
+          "code_url": "https://adwaitbhope.medium.com/google-summer-of-code-work-product-submission-b35a6c6cba33",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4594065231839232/"
+        },
+        {
+          "title": "Automatic Lineshape Engine",
+          "short_description": "Radis is a fast line-by-line code used to synthesize high-resolution infrared molecular spectra and a post-processing library to analyze spectral...",
+          "student_name": "Anand Kumar",
+          "code_url": "https://github.com/radis/radis/projects/5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6093171255148544/"
+        },
+        {
+          "title": "Integrating Multitaper Periodogram into Stingray",
+          "short_description": "Time series analysis has become a fundamental ingredient in modern-day astronomical studies. A common approach for characterizing the properties of...",
+          "student_name": "Dhruv Vats",
+          "code_url": "https://dhruv9vats.github.io/gsoc-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4864586733322240/"
+        },
+        {
+          "title": "3D Plotting",
+          "short_description": "SunPy allows visualization of spatially-aware data by means of Map objects. These objects have extensive 2D visualization capabilities for plotting...",
+          "student_name": "Jeffrey Paul",
+          "code_url": "https://jeffrey-paul2000.medium.com/gsoc-2021-final-report-87f74dd364df",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4879804070887424/"
+        },
+        {
+          "title": "Modern Statistical Modeling in Stingray",
+          "short_description": "The statistical inference of properties of astronomical objects can be done using parametric modelling of Fourier products and light curves including...",
+          "student_name": "Rashmi Raj",
+          "code_url": "https://raj-rashmi741.medium.com/google-summer-of-code-final-evaluation-578c0088bcbd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5944567097982976/"
+        },
+        {
+          "title": "Reduce Memory Usage - Radis",
+          "short_description": "RADIS is a fast line-by-line code for synthesizing and fitting infrared absorption and emission spectra such as encountered in laboratory plasmas or...",
+          "student_name": "Gagan Aryan",
+          "code_url": "https://github.com/radis/radis/projects/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6007392973619200/"
+        },
+        {
+          "title": "Astrometry - Gnuastro",
+          "short_description": "Astrometry is of fundamental importance in processing astronomical data. It involves the precise measurement of the coordinates of celestial bodies....",
+          "student_name": "Nat\u00e1li Anzanello",
+          "code_url": "https://ndanzanello.wordpress.com/2021/08/21/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6311790828322816/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/openastronomy/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "[SunPy] HelioViewer Python API Wrapper",
+          "short_description": "The Helioviewer Project is developing a suite of technologies that allow users around the world to visualize, browse and access these heterogeneous...",
+          "student_name": "Akash Verma",
+          "code_url": "https://medium.com/@akash5100/google-summer-of-code-2022-building-testing-and-wrapping-helioviewer-api-in-a-python-package-f51ba6566f71",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HXCZO14B/"
+        },
+        {
+          "title": "Bayesian Excess Variance (Bexvar) in Stingray",
+          "short_description": "Stingray is a python package that provides a common platform for time series analysis of X-ray data to the astronomy community. One important aspect...",
+          "student_name": "Mihir Tripathi",
+          "code_url": "https://mihirtripathi97.github.io/GSoC-22/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rG1XqJqK/"
+        },
+        {
+          "title": "Non-Air Diluent",
+          "short_description": "Radis is a line-by-line code for creating high-resolution infrared molecular spectra, as well as a post-processing library for analyzing spectral...",
+          "student_name": "Supriya_Kumari",
+          "code_url": "https://github.com/radis/radis/projects/7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/u0MSV3iB/"
+        },
+        {
+          "title": "Spectral Timing in Julia",
+          "short_description": "Time series analysis of astronomical data provides various tools to test advanced physical theories. This project seeks to implement a basic set of...",
+          "student_name": "Aman Pandey",
+          "code_url": "https://medium.com/@aman_p/gsoc-blog-4-final-submission-1c27a20f13a2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/M1uhkggE/"
+        },
+        {
+          "title": "Radis App Improvement",
+          "short_description": "RADIS app is a web app for high-resolution infrared molecular spectra using RADIS. The goal of this project is to provide an easy-to-use UI instead...",
+          "student_name": "Arunava Basu",
+          "code_url": "https://github.com/suzil/radis-app/projects/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/zeRQC6zF/"
+        },
+        {
+          "title": "Performance Tweaks in RADIS",
+          "short_description": "RADIS is a fast, line-by-line code for the computation of molecular absorption and emission spectra. It is built around the HITRAN, HITEMP, and CDSD...",
+          "student_name": "Sagar Chotalia",
+          "code_url": "https://github.com/radis/radis/projects/8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PBwWxVhk/"
+        },
+        {
+          "title": "Gnuastro Library in Python",
+          "short_description": "Gnuastro is primarily written in C because astronomical datasets are large and thus need to be efficient with few dependencies. Therefore, its most...",
+          "student_name": "Jash Shah",
+          "code_url": "https://jash-shah.github.io/Blogs/2022/07/20/Final-GSoC-Submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8xPSxHSE/"
+        },
+        {
+          "title": "[RADIS] Spectrum Fitting Improvement",
+          "short_description": "RADIS is a fast line-by-line code featuring synthesis, processing and analysis of high-resolution infrared absorption and emission molecular spectra,...",
+          "student_name": "Tran Huu Nhat Huy",
+          "code_url": "https://github.com/radis/radis/projects/6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/BSZuXNeN/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/openastronomy",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Scraper Redesign",
+          "short_description": "The Scraper class in SunPy retrieves solar data from web sources using efficient file organization. The current implementation uses regex for the...",
+          "student_name": "Akshit Tyagi",
+          "code_url": "https://gist.github.com/exitflynn/3a8db95de7208456464db8c8b71b9b1d",
+          "proposal_id": "okUQ9HFX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/2Gxxa7qS"
+        },
+        {
+          "title": "Quasi Periodic Oscillation detection using Gaussian Processes",
+          "short_description": "Some of the most extreme and mysterious events in the universe like neutron star mergers, black hole accretions, and gamma-ray bursts are studied by...",
+          "student_name": "Gaurav17Joshi",
+          "code_url": "https://gaurav17joshi.github.io/contrast/project-report/",
+          "proposal_id": "RQvWqkhv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SXhGaPQt"
+        },
+        {
+          "title": "Gnuastro Python Library and Cuda Integration",
+          "short_description": "Gnuastro is mainly written in the C, so are Python and Numpy. Utilising this fact, pyGnuastro uses Python wrappers to access the base C library while...",
+          "student_name": "Labib Asari",
+          "code_url": "https://labeeb-7z.github.io/Blogs/2023/08/22/Final-Report.html",
+          "proposal_id": "2UpBkwUs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pwivQF02"
+        },
+        {
+          "title": "Common API for large molecular databases",
+          "short_description": "RADIS can handle different databases such as HITRAN, HITEMP, EXOMOL, GEISA, etc. Another open-source code, called EXOJAX, exchanged portions of code...",
+          "student_name": "menasrac",
+          "code_url": "https://medium.com/@menasrac/the-end-of-my-google-summer-of-code-journey-8d31f989f0e6?source=friends_link&sk=2a32424a4ae65c56591f4c182b5cc82d",
+          "proposal_id": "cN92tWq3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rKho4M6m"
+        },
+        {
+          "title": "Out of Core Calculations to reduce memory uses[RADIS]",
+          "short_description": "RADIS is a fast line-by-line code for synthesizing and fitting infrared absorption and emission spectra, such as encountered in laboratory plasmas or...",
+          "student_name": "Somesh Verma",
+          "code_url": "https://medium.com/@1someshverma/gsoc23-openastronomy-radis-implementing-out-of-core-calculations-c67a3863c0d6",
+          "proposal_id": "dBbl65rT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pnYY9W0j"
+        },
+        {
+          "title": "Astronomy using Unevenly Sampled Data",
+          "short_description": "Stingray is a python package that provides X-ray spectral timing analysis tools to the community of astronomers around the world. X-ray data may not...",
+          "student_name": "Sri Guru Datta Pisupati",
+          "code_url": "https://pupperemeritus.github.io/gsoc_blog/projectreport/",
+          "proposal_id": "Hs1DGS5u",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/C8Rwdz3J"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/openastronomy/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "OpenCL Integration with GNUAstro",
+          "short_description": "GNU Astronomy Utilities (Gnuastro) is an astronomical data processing package containing a dynamically linked library as well as command-line...",
+          "student_name": "Warren Jacinto",
+          "code_url": "https://deadspheroid.github.io/my-blog/post/FinalReport/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ehBYTrDa/"
+        },
+        {
+          "title": "A Quicklook Dashboard for X-ray Astronomy with Stingray",
+          "short_description": "This proposal outlines the development of an innovative dashboard utilizing the Stingray library for X-ray astronomy analysis. The Quicklook...",
+          "student_name": "Kartik Mandar",
+          "code_url": "https://www.kartikmandar.com/gsoc-2024/stingray-explorer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rba4Di99/"
+        },
+        {
+          "title": "[SUNPY] Enhancing Metadata Support for SOAR in sunpy-soar",
+          "short_description": "The project aims to enhance the metadata support in sunpy-soar, enabling better searching and filtering of solar data in the Solar Orbiter Archive...",
+          "student_name": "Nucleon",
+          "code_url": "https://medium.com/@manitsingh018/during-gsoc-2024-i-made-several-key-contributions-to-the-sunpy-soar-project-6fe71e4df084",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eJMtHgDq/"
+        },
+        {
+          "title": "[SunPy] Serialization of NDCube classes to ASDF",
+          "short_description": "This proposal aims to enable the storage and retrieval of NDCube objects using the ASDF file format. Currently, ndcube lacks native support for...",
+          "student_name": "PiyushSharma",
+          "code_url": "https://viciouseagle03.github.io/post/gsoc-pr_merged/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gH1PCN1H/"
+        },
+        {
+          "title": "Common API for large molecular databases",
+          "short_description": "Adding support for calculating and analysing spectra from atomic databases to RADIS and building a user-friendly Common API with ExoJAX for...",
+          "student_name": "kemvore",
+          "code_url": "https://code29563.github.io/A-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qdMcDOud/"
+        },
+        {
+          "title": "Astronomical Data Enhancement with DL",
+          "short_description": "In an era where astronomical discovery is more vibrant than ever, the significant role of data cannot be overstated. However, the diversity and...",
+          "student_name": "Lucas Martin Garcia",
+          "code_url": "https://github.com/OpenAstronomy/rnn-lightcurve-gapfill",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CR12H6Wf/"
+        },
+        {
+          "title": "[SUNPY] Improved solar feature and event representation",
+          "short_description": "Sunpy provides access to solar features and events held by the Heliophysics Event Knowledgebase (HEK). Features and events include type, physical...",
+          "student_name": "Ahmed Hossam Mohamed",
+          "code_url": "https://github.com/sunpy/sunpy/pull/7619",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uu0dMUN2/"
+        },
+        {
+          "title": "[SunPy] Improve sunkit-image",
+          "short_description": "The sunkit-image package provides a comprehensive suite of tools for processing solar images, tailored to the specific requirements of solar...",
+          "student_name": "Jayraj Dulange",
+          "code_url": "https://gist.github.com/Deus1704/c534d7452e4247765376e234a33149ca",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/v6Px1LFT/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/openastronomy",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Electronic spectra for RADIS",
+          "short_description": "This project will extend RADIS to calculate electronic spectra, enabling analysis of high-temperature phenomena in plasmas, flames, and exoplanet...",
+          "student_name": "Darshan Patil",
+          "code_url": null,
+          "proposal_id": "XZKy7plx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/P7UQlBwc"
+        },
+        {
+          "title": "Time Series Analysis in Stingray.jl",
+          "short_description": "This project aims to enhance Stingray.jl, the Julia-based implementation of the Stingray library, to advance X-ray timing analysis in high-energy...",
+          "student_name": "Kashish Shrivastav",
+          "code_url": null,
+          "proposal_id": "IfDjxgAi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/bDXTorET"
+        },
+        {
+          "title": "Interactive Database for X-ray observations",
+          "short_description": "The project aims to create an interactive database for X-ray observations, enabling on-the-fly visualization of data products generated with the...",
+          "student_name": "MOHAMMAD ADNAN",
+          "code_url": null,
+          "proposal_id": "mddnlYxD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j5YJQN6s"
+        },
+        {
+          "title": "[RADIS] Optimizing Radis app",
+          "short_description": "The RADIS app is a web application designed for high-resolution infrared molecular spectra using RADIS. Instead of requiring users to write code,...",
+          "student_name": "Mohy Elden Khalid",
+          "code_url": null,
+          "proposal_id": "HVgjDmRn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iYVASbTw"
+        },
+        {
+          "title": "Fast Parsing of Large Databases and Execution Bottlenecks",
+          "short_description": "The RADIS code was developed for the characterization of plasmas, flames and atmospheres. High-temperature spectral calculations are required to...",
+          "student_name": "Pratham Hole",
+          "code_url": null,
+          "proposal_id": "YccBzIme",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/va1YConE"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://openastronomy.element.io/#/room/#openastronomy:openastronomy.org",
+  "contact_email": "mailto:openastronomy.organization@gmail.com",
+  "mailing_list": "https://community.openastronomy.org/",
+  "ideas_url": "https://openastronomy.org/gsoc/gsoc2025/#/projects",
+  "guide_url": "https://openastronomy.org/gsoc/student_guidelines.html",
+  "twitter_url": "https://astrodon.social/@OpenAstronomy",
+  "blog_url": "https://openastronomy.org/Universe_OA/"
+}

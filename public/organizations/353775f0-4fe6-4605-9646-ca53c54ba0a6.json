@@ -1,0 +1,313 @@
+{
+  "name": "CircuitVerse.org",
+  "url": "http://circuitverse.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/circuitverseorg/rxan5pn96f3m4yfu-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "education",
+    "web",
+    "simulations",
+    "pedagogy",
+    "digital logic design",
+    "simulation"
+  ],
+  "technologies": [
+    "postgresql",
+    "javascript",
+    "bootstrap",
+    "rails",
+    "html5 canvas",
+    "html5",
+    "canvas",
+    "machine learning",
+    "internationalization",
+    "vue",
+    "ruby"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6563824134520832/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Community Platform Improvements",
+          "short_description": "Improving the overall platform with the aim to increase the user-base. Involves several feature additions including featured circuits and search...",
+          "student_name": "Ankit Kataria",
+          "code_url": "https://github.com/CircuitVerse/CircuitVerse/wiki/Ankit-Kataria-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4994349065043968/"
+        },
+        {
+          "title": "Interactive Book",
+          "short_description": "The aim of this project is to create an online interactive guide for digital logic design. The primary goal is to develop an open source book with...",
+          "student_name": "Aman Singla",
+          "code_url": "https://gist.github.com/Amansingla97/1d91f8a5a17a40c55ac127c7a4cc4108",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5293060282384384/"
+        },
+        {
+          "title": "Adding Features to Subcircuits",
+          "short_description": "The CircuitVerse site provides simulation for digital design circuits on the web. For large-scale projects, users need to use some circuits inside of...",
+          "student_name": "Abdalla mohamed Abounar",
+          "code_url": "https://github.com/CircuitVerse/CircuitVerse/wiki/Abdullah-Mohamed-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4589246894047232/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5373782455222272/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "CircuitVerse Platform Improvements",
+          "short_description": "My GSoC'20 Project targets to achieve the following :\n\nCrafting UI designs and Redeveloping all CircuitVerse's web application frontend screens.\nTo...",
+          "student_name": "Aayush Gupta",
+          "code_url": "https://blog.circuitverse.org/posts/aayush_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6407062096969728/"
+        },
+        {
+          "title": "Enhancing  Simulator User Interface",
+          "short_description": "I have always been passionate about projects which are related to web & designing, which is undoubtedly the primary motivation for me to work with...",
+          "student_name": "Samiran Konwar",
+          "code_url": "https://blog.circuitverse.org/posts/project_4_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6427919666118656/"
+        },
+        {
+          "title": "Mobile App",
+          "short_description": "This project is divided into two parts, building an API over the already built ruby app and building a new cross platform mobile app for...",
+          "student_name": "Nitish Aggarwal",
+          "code_url": "https://blog.circuitverse.org/posts/gsoc_2020_mobile_app_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5493708310446080/"
+        },
+        {
+          "title": "Refactor simulator code and Desktop App",
+          "short_description": "My proposal has 3 parts\nMaking a Separate Repository and Refactoring Simulator Code:  The first part is refactoring of the simulator code base. For...",
+          "student_name": "Shubhankar Sharma",
+          "code_url": "https://blog.circuitverse.org/posts/shubh_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6075340633407488/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6293580166987776/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Project Recommendation System",
+          "short_description": "The goal of this project is to make a simple and light recommendation system that helps in recommending similar circuits to the users in the most...",
+          "student_name": "DEVANSH DIXIT",
+          "code_url": "https://blog.circuitverse.org/posts/devash_recommendation_system_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5719188152254464/"
+        },
+        {
+          "title": "Compatibility for Touch Devices",
+          "short_description": "Currently, the website just supports desktop is doesn't have compatibility for touch devices.\nThe following features are going to integrate \n1.Adding...",
+          "student_name": "Abhishek Zade",
+          "code_url": "https://blog.circuitverse.org/posts/abhishezade_finalreport_gsoc21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5739434628087808/"
+        },
+        {
+          "title": "Interactive Book Integration for Mobile App",
+          "short_description": "CircuitVerse's Interactive Book is a very helpful learning resource for everyone and expanding it to CircuitVerse's Mobile App will make it a real...",
+          "student_name": "Manjot Sidhu",
+          "code_url": "https://blog.circuitverse.org/posts/2021/interactive-book-integration-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5345349132091392/"
+        },
+        {
+          "title": "Refactoring Testbench and Automated Testing",
+          "short_description": "The Testbench is an important part of digital logic design. Testing circuits manually can be a big hassle especially for professors grading...",
+          "student_name": "Ruturaj Mohite",
+          "code_url": "https://blog.circuitverse.org/posts/ruturaj_gsoc_2021_testbench_final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5572919953981440/"
+        },
+        {
+          "title": "Integration of CircuitVerse with LMS Platforms",
+          "short_description": "CircuitVerse is an online circuit simulator that can be used as an online classroom companion for circuit simulation related needs of teachers and...",
+          "student_name": "AYAN BISWAS",
+          "code_url": "https://blog.circuitverse.org/posts/ayan-biswas-gsoc-21-final-report-lms-integration",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6230924546539520/"
+        },
+        {
+          "title": "Internationalization of CircuitVerse Platforms",
+          "short_description": "My aim during GSoC'2021 is to create I18n infrastructure for CircuitVerse so that CircuitVerse platforms can be internationalized into global...",
+          "student_name": "Pavan Joshi",
+          "code_url": "https://blog.circuitverse.org/posts/2021/i18n-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4643388636266496/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/circuitverseorg/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "New Frontend Framework for Simulator UI",
+          "short_description": "New Frontend Framework for Simulator UI The project focuses on replacing JqueryUI with a modern frontend framework. I have divided the coding time...",
+          "student_name": "Devjit Choudhury",
+          "code_url": "https://blog.circuitverse.org/posts/devjitchoudhury_gsoc22_phase2_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1IZGKjn2/"
+        },
+        {
+          "title": "Mobile App Enhancements",
+          "short_description": "The project aims to embed the simulator in the mobile app. Further below mentioned features to be completed: 1. Search circuits 2. Search in the...",
+          "student_name": "Aman .",
+          "code_url": "https://blog.circuitverse.org/posts/aman_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hqRt0eFZ/"
+        },
+        {
+          "title": "CircuitVerse Simulator Improvements",
+          "short_description": "The project aims to improve the CircuitVerse simulator and finish some pending work in the CircuitVerse desktop app. One of the primary goals of the...",
+          "student_name": "Pulkit Gupta",
+          "code_url": "https://blog.circuitverse.org/posts/pulkitgupta_gsoc_2022_final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/E4C2Qp3R/"
+        },
+        {
+          "title": "CircuitVerse Platform Improvements",
+          "short_description": "This project aims to implement new features and improvements for the CircuitVerse Platform(Mobile and Web) for a better user experience. CircuitVerse...",
+          "student_name": "Vedant Jain",
+          "code_url": "https://blog.circuitverse.org/posts/vedant_jain_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fzWZkAN8/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/circuitverseorg",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Completing Vue.js Simulator: Integration and Transition to TypeScript",
+          "short_description": "This project focuses on finishing up development of Vue.js circuit simulator, alongside converting the existing JavaScript codebase to TypeScript,...",
+          "student_name": "Arnab Das",
+          "code_url": "https://blog.circuitverse.org/posts/arnab_das_gsoc_final_report/",
+          "proposal_id": "EnK1eN6B",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eg17qD6w"
+        },
+        {
+          "title": "Simulator Stability Improvements",
+          "short_description": "The Simulator Stability Improvements project is focused on enhancing the stability and reliability of simulation environments. The project aims to...",
+          "student_name": "Prerna Sharma",
+          "code_url": "https://blog.circuitverse.org/posts/prerna-gsoc23-final-report/",
+          "proposal_id": "pAFlvcZh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/M6IuWv4f"
+        },
+        {
+          "title": "Improve the development experience",
+          "short_description": "This project is dedicated to streamlining and enhancing the CircuitVerse development experience. Our primary objective is to simplify the setup of...",
+          "student_name": "Tanmoy Sarkar",
+          "code_url": "https://blog.circuitverse.org/posts/tanmoy_sarkar_final_report/",
+          "proposal_id": "GVEKpJdz",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HREzTBkH"
+        },
+        {
+          "title": "Improve deployment infrastructure & experience with 12 factor",
+          "short_description": "The 12 Factor Application project is a methodology for building and deploying scalable, maintainable, and suitable software applications. The project...",
+          "student_name": "Vaibhav Upreti",
+          "code_url": "https://blog.circuitverse.org/posts/vaibhavupreti-gsoc23-final-report",
+          "proposal_id": "tdttx6A6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/r2R8ARJ9"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/circuitverseorg/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Simulator Version Control",
+          "short_description": "CircuitVerse has a legacy simulator that is built on outdated technologies. With the introduction of the new Vue simulator, circuits created on the...",
+          "student_name": "Aryann Dwivedi",
+          "code_url": "https://blog.circuitverse.org/posts/aryann-dwivedi-2024-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6hvwat1f/"
+        },
+        {
+          "title": "CircuitVerse Forum Revamp",
+          "short_description": "This proposal aims to improve the CircuitVerse forum. Currently, we are using the simple_discussion gem to manage the forum. It lacks various...",
+          "student_name": "Vaishnav Deore",
+          "code_url": "https://blog.circuitverse.org/posts/waishnav_deore_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ocOsOfB4/"
+        },
+        {
+          "title": "Enhancing CircuitVerse User Experience",
+          "short_description": "The project aims to enhance the user experience of CircuitVerse organisation by creating a more intuitive and engaging interface suitable for both...",
+          "student_name": "Aman Asrani",
+          "code_url": "https://blog.circuitverse.org/posts/aman_asrani_gsoc24_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/h3QKa7eD/"
+        },
+        {
+          "title": "CircuitVerse Practice Section",
+          "short_description": "The proposal aims to address the need for a comprehensive practice section within CircuitVerse, enhancing learning and engagement in digital logic...",
+          "student_name": "Jaydip Dey",
+          "code_url": "https://blog.circuitverse.org/posts/jaydip_dey_final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YJfwEYzY/"
+        },
+        {
+          "title": "Development of Vue Simulator",
+          "short_description": "The Project aims to finish up the development of the Vue simulator for production deployment and replace the current simulator in CircuitVerse. The...",
+          "student_name": "Niladri Adhikary",
+          "code_url": "https://blog.circuitverse.org/posts/niladri_adhikary_final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZzPe11H4/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/circuitverseorg",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Project 1: Circuit Management & Performance Enhancement",
+          "short_description": "In this proposal, I aim to enhance CircuitVerse's user experience and performance by solving key usability and efficiency issues. I'll implement a...",
+          "student_name": "Aditya Umesh Singh",
+          "code_url": null,
+          "proposal_id": "ybMebbui",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jLQVUDdz"
+        },
+        {
+          "title": "Development of Desktop Application and Completion of Vue Simulator",
+          "short_description": "The project aims to complete the development of the Tauri Desktop Application. This project will finally mark the completion of the Vue-simulator and...",
+          "student_name": "Harsh Ashok Rao",
+          "code_url": null,
+          "proposal_id": "ilK11UqE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/RLcXZOiF"
+        },
+        {
+          "title": "Migrate to View Components & Improve Search Experience",
+          "short_description": "This proposal aims to significantly enhance CircuitVerse's user experience and technical foundation by migrating core UI elements to reusable View...",
+          "student_name": "Harsh Bhadu",
+          "code_url": null,
+          "proposal_id": "BVPjFMOY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8dgkuzjy"
+        },
+        {
+          "title": "Open Hardware Component Library",
+          "short_description": "This project aims to improve CircuitVerse by adding new components that are useful for learning about real hardware, such as shift registers (SISO,...",
+          "student_name": "Nihal Rajpal",
+          "code_url": null,
+          "proposal_id": "axzByKdo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cIgWR2eT"
+        },
+        {
+          "title": "Enhanced Verilog Support & Stability",
+          "short_description": "The Verilog feature in CircuitVerse has been a great experimental addition till now. It has allowed users to write, experiment, and test their...",
+          "student_name": "Vivek Kumar Ray",
+          "code_url": null,
+          "proposal_id": "mYtiN4sT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9cZjeC5m"
+        },
+        {
+          "title": "Proposal_CiruitVerse_FlutterUpgrade",
+          "short_description": "The CircuitVerse mobile app faces performance bottlenecks (UI jank, slow rendering), inconsistent UX (broken project cards, poor navigation), and...",
+          "student_name": "Yashvant",
+          "code_url": null,
+          "proposal_id": "n5ZggUXS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rcsyFcHL"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://circuitverse.org/slack",
+  "contact_email": "mailto:support@circuitverse.org",
+  "mailing_list": "https://github.com/CircuitVerse/CircuitVerse/discussions",
+  "ideas_url": "https://github.com/CircuitVerse/CircuitVerse/wiki/GSoC'25-Project-List",
+  "guide_url": "https://docs.google.com/document/d/1oeYPAuqWxeC79d-R5I9uFJywQJv4ooO4obF4pwifyTY/edit",
+  "twitter_url": "https://twitter.com/circuitverse?lang=en",
+  "blog_url": "https://blog.circuitverse.org/"
+}

@@ -1,0 +1,207 @@
+{
+  "name": "The Tor Project",
+  "url": "https://www.torproject.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/the-tor-project/1w40vc9lqddvbfoa-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "security",
+    "privacy",
+    "research",
+    "anonymity",
+    "anti-censorship",
+    "counter-censorship",
+    "free-speech",
+    "Human Rights",
+    "Surveillance"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "javascript",
+    "golang",
+    "browser extensions",
+    "c++",
+    "rust",
+    "web"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6183886396588032/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "CONIKS for Tor Messenger",
+          "short_description": "This project consists of two parts: a CONIKS server for key verification and a CONIKS client which integrates with the Tor Messenger client. The...",
+          "student_name": "Vu Huy",
+          "code_url": "https://docs.google.com/document/d/1oZdgrF0ovcq61QuH7vVqNUv7SNQd7fg3GaGW8HnpEWE/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5478985358114816/"
+        },
+        {
+          "title": "Ahmia search engine for hidden services",
+          "short_description": "Ahmia is a working search engine that indexes, searches, and catalogs content published on Tor Hidden Services. Furthermore, it is an environment to...",
+          "student_name": "zma",
+          "code_url": "https://zma0.dreamwidth.org/306.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4519911913160704/"
+        },
+        {
+          "title": "Orfox",
+          "short_description": "Orfox, Tor browser for Android, requires a few updates that would help it move from beta to a release.\nI hope to achieve this this summer!\nSome of...",
+          "student_name": "amoghbl1",
+          "code_url": "https://github.com/amoghbl1/tor-browser/commits?author=amoghbl1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4698651272151040/"
+        },
+        {
+          "title": "Tails Server",
+          "short_description": "The Tails Server should provide a user-friendly way to start onion services that facilitate group collaboration, communication, and data sharing. See...",
+          "student_name": "segfault",
+          "code_url": "https://lists.torproject.org/pipermail/tor-dev/2016-August/011316.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5783137762148352/"
+        },
+        {
+          "title": "Fingerprint Central",
+          "short_description": "The capabilities of browser fingerprinting as a tool to track users online has been demonstrated by Panopticlick and other research papers since...",
+          "student_name": "Pierre Laperdrix",
+          "code_url": "https://github.com/plaperdr/fp-central",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5915605559410688/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5273949793419264/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "anon-connection-wizard",
+          "short_description": "The anon-connection-wizard is a Python-clone of the Tor Launcher which aims at providing Tor users with a graphical instruction on configuring the...",
+          "student_name": "iry",
+          "code_url": "https://forums.whonix.org/t/graphical-gui-whonix-setup-wizard-anon-connection-wizard-technical-discussion/650/303",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5417890790506496/"
+        },
+        {
+          "title": "Improving Ahmia - Hidden Service Search",
+          "short_description": "Ahmia is a search engine that indexes, searches, and catalogs content published on Tor Hidden Services. Furthermore, it is a medium to share...",
+          "student_name": "Pushkar Pathak",
+          "code_url": "https://gist.github.com/mdhash/2bc637ff15545fa58366ee0bb1d93680",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6171539573571584/"
+        },
+        {
+          "title": "Crash Reporter for Tor Browser",
+          "short_description": "Crash Reporter will be helping developers to improve Tor Browser, find bugs and crash reasons easier, that would make Tor Browser more stable and...",
+          "student_name": "Nur-Magomed Dzhamiev",
+          "code_url": "https://nmago.github.io/GSoC-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6102453011349504/"
+        },
+        {
+          "title": "Improving unMessage's Code Quality",
+          "short_description": "unMessage is a privacy\nenhanced instant messenger that uses its own end-to-end encrypted\nprotocol to maintain conversations, not depending on...",
+          "student_name": "dau",
+          "code_url": "https://gist.github.com/felipedau/86045f6ca7e11c81b4373af9d3db811e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5136415813795840/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/the-tor-project/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Tor Weather: Improving the Tor network",
+          "short_description": "The Tor Project aims at providing anonymous communication. This requires the internet traffic to be directed through relays, which are operated by...",
+          "student_name": "Sarthik Gupta",
+          "code_url": "https://gitlab.torproject.org/sarthikg/tor-weather/-/wikis/home",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/UElieGno/"
+        },
+        {
+          "title": "Tor Project: OONI Probe Network Experiments",
+          "short_description": "The project aims to expand the functionality and reach of the OONI probe tool by introducing TLS middlebox and port-filtering experiments. This will...",
+          "student_name": "Mehul Gulati",
+          "code_url": "https://github.com/ooni/probe/issues/2272",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GAEEQk5w/"
+        },
+        {
+          "title": "Tor Project: OONI Explorer & Design System Improvements",
+          "short_description": "The goal of this is to improve the OONI Explorer. The improvements will include things like modernizing the codebase, improving the UI and UX of the...",
+          "student_name": "Vaibhav Dangra",
+          "code_url": "https://github.com/ooni/design-system/tree/dev",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EMOQ4Zai/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/the-tor-project",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "The Tor Network Status API",
+          "short_description": "In an effort to improve current resource utilisation and optimisation, the Tor team is developing a new version of their pipeline (v2.0). This update...",
+          "student_name": "Mattia Righetti",
+          "code_url": "https://mattrighetti.com/2023/09/26/network-status-apis.html",
+          "proposal_id": "TAVmoVz3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/9Jt0KtWV"
+        },
+        {
+          "title": "eRPC : An efficient Relay Partition Checker",
+          "short_description": "Within a Tor Network, there are different computers which we term as \"Relay\" which creates a circuit(path) in a Tor Network, so that the user can...",
+          "student_name": "Rishad Baniya",
+          "code_url": "https://gitlab.torproject.org/rishadbaniya/erpc",
+          "proposal_id": "QNOrspXx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1EXXf3b5"
+        },
+        {
+          "title": "Arti API exploration to build example tools",
+          "short_description": "Some programs should be created and curated using Arti to illustrate to other developers how they can use its APIs and to also find bugs. This...",
+          "student_name": "Saksham Mittal",
+          "code_url": "https://gotlou.srht.site/gsoc-final.html",
+          "proposal_id": "xqfqMV4A",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/UXQdBvLj"
+        },
+        {
+          "title": "Tor\u2019s SnowFlake: Revitalising Snowflake's Landing Page for a Better User Experience",
+          "short_description": "Snowflake is a pluggable transport that helps users bypass censorship and access the Tor network. It uses webRTC technology to create a peer-to-peer...",
+          "student_name": "SoniAshish",
+          "code_url": "https://gist.github.com/ashishsoniii/d139cd9b427d340342ef1ff04fae8960",
+          "proposal_id": "62Q8081I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zQRvTgia"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/the-tor-project",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Rewrite of the Tor Metrics Library in Rust",
+          "short_description": "The goal of this project is to rewrite the current Java-based Tor Metrics Library in Rust. This library is a crucial component for parsing and...",
+          "student_name": "Axyom",
+          "code_url": null,
+          "proposal_id": "XIpWFYmP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dlQVNFec"
+        },
+        {
+          "title": "The Tor Project: Onion Service Support Tooling for Arti",
+          "short_description": "My proposal involves expanding Arti's state management subcommands: hss and hsc (very limited in functionalities at the moment). These new features...",
+          "student_name": "Omar Gorni",
+          "code_url": null,
+          "proposal_id": "hrQuEdHf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lFvAwMfD"
+        },
+        {
+          "title": "The Tor Project - Network Health: Enhancing eRPC - Network Partition Analysis and Visualization",
+          "short_description": "The Tor network's anonymity guarantee depends heavily on the connectivity between relays. Partitioning in the network can significantly compromise...",
+          "student_name": "Shivam Vats",
+          "code_url": null,
+          "proposal_id": "GxNa3CWi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hKZzP0GA"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://support.torproject.org/get-in-touch/#irc-help",
+  "contact_email": "mailto:gsoc@torproject.org",
+  "mailing_list": "https://forum.torproject.net/",
+  "ideas_url": "https://gitlab.torproject.org/tpo/team/-/wikis/GSoC",
+  "guide_url": "https://gitlab.torproject.org/tpo/team/-/wikis/How-To-Apply-to-Google-Summer-of-Code",
+  "twitter_url": "https://mastodon.social/@torproject",
+  "blog_url": "https://blog.torproject.org/"
+}

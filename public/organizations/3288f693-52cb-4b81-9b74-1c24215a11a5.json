@@ -1,0 +1,414 @@
+{
+  "name": "UC OSPO",
+  "url": "https://ucsc-ospo.github.io/osre25/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/center-for-research-in-open-source-software-cross/ndbkr7fqcqp4nguq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "hardware",
+    "data science",
+    "reproducibility",
+    "storage systems",
+    "data management",
+    "education",
+    "bioinformatics",
+    "AI/ML"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "visualization",
+    "VLSI",
+    "ros/gazebo",
+    "javascript",
+    "machine learning"
+  ],
+  "years": {
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/uc-ospo",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "OSAVC : Technical Documentation",
+          "short_description": "The OSAVC documentation project for GSoC 2023 aims to create comprehensive documentation for a new user of the OSAVC controller. The project will...",
+          "student_name": "Aniruddha Thakre",
+          "code_url": "https://uccross.github.io/open-source-autonomous-vehicle-controller/",
+          "proposal_id": "LDX5ct7v",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xAHWdWNV"
+        },
+        {
+          "title": "High Fidelity simulation using Unreal engine",
+          "short_description": "Existing frameworks for simulation autonomous vehicles use a gazebo simulator with ROS, which limits the development to only Python and C++...",
+          "student_name": "damodardatta",
+          "code_url": "https://damodardatta.github.io/blog/2023/report_gsoc2023/",
+          "proposal_id": "eweGu8cS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/hVIFSHa7"
+        },
+        {
+          "title": "[ScaleBugs] ScaleBugs: Reproducible Scalability Bugs",
+          "short_description": "Scalable systems lay essential foundations of the modern information industry. HPC data centers tend to have hundreds to thousands of nodes in their...",
+          "student_name": "Goodness Ay",
+          "code_url": "https://docs.google.com/document/d/16CoooUcUrmb7V7f5lqAemy8Aio12A_Yb6dc-mHwjUEE/edit?usp=sharing",
+          "proposal_id": "FKraRVdA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pBo3OM0n"
+        },
+        {
+          "title": "Update OpenROAD Documentation and Tutorials",
+          "short_description": "This project aims to review and update missing documentation and tutorials in OpenROAD-flow-scripts. A key focus will be on increasing ease-of-setup...",
+          "student_name": "Jack Luar",
+          "code_url": "https://docs.google.com/document/d/1m-IMRiGGdPluaSobX7j1jUtzfKBNwdUu4bFIfBq75XA/edit?usp=sharing",
+          "proposal_id": "LnWYgeq4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/PO7wgKkw"
+        },
+        {
+          "title": "[PolyPhy] Interactive Exploration of High-dimensional Datasets with PolyPhy and Polyglot",
+          "short_description": "PolyPhy is an interpretability tool which identifies network structures in both 2 and 3-dimensional data using the novel MCPM algorithm. Users can...",
+          "student_name": "Kiran Deol",
+          "code_url": "https://github.com/kirandeol/PolyGlot_GSoC_Final_Work_Submission",
+          "proposal_id": "OL2Uhfp6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GOnlyhmO"
+        },
+        {
+          "title": "Advancing Reproducible Science through Open Source Laboratory Protocols as Software",
+          "short_description": "The project aims to develop a Python-to-Python conversor for LabOP-written Laboratory protocols to be executed by Hamilton Machines using PyHamilton...",
+          "student_name": "Luiza Zucchi Hesketh",
+          "code_url": "https://gist.github.com/LuHesketh/d5138b28c75ae5ec79648e8ebac6d7fd",
+          "proposal_id": "neHxx5PN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/nrezQTSy"
+        },
+        {
+          "title": "OpenRAM Layout verses Schematic (LVS) visualization",
+          "short_description": "This project aims to develop a comprehensive Python-based graphical user interface (GUI) with a robust backend system to effectively analyze,...",
+          "student_name": "Mahnoor_Ismail",
+          "code_url": "https://mahnoorismail011.medium.com/the-lvs-visualizer-your-ultimate-circuit-design-companion-2dc5cbc7caa2",
+          "proposal_id": "7b7YXRFy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/f9rIZ3dm"
+        },
+        {
+          "title": "Efficient Communication with Key/Value Storage Devices",
+          "short_description": "The project involves implementing io_uring based communication backend for network based key-value store. The current implementation in the KTLI...",
+          "student_name": "Manank Patel",
+          "code_url": "https://ucsc-ospo.github.io/report/osre23/ucsc/kvstore/20230825-manank/",
+          "proposal_id": "Ofyo0Hae",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7WPESTT0"
+        },
+        {
+          "title": "[SUSOSP] Increasing the Reach of Open Source among High-Schoolers and Teenagers",
+          "short_description": "Contributing to an open-source project offers novices the opportunity to join a community of practitioners, build a technical portfolio, gain...",
+          "student_name": "Nandini Saagar",
+          "code_url": "https://gist.github.com/Nandinisaagar/2e97ec06204adbe70e66bc4d9e8d8f8f",
+          "proposal_id": "IjPckdkH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/URv3ovZT"
+        },
+        {
+          "title": "[PolyPhy] Polyphorm / PolyPhy - PolyPhy infrastructure engineering and practices",
+          "short_description": "This proposal aims to enhance the infrastructure of PolyPhy by developing new architecture and maintaining existing codebases. The project will...",
+          "student_name": "Prashant Jha",
+          "code_url": "https://docs.google.com/document/d/12ukDTJ5jv9fUjNwoRGZvp92vTTUXKI82fx3obwlFN8s/edit",
+          "proposal_id": "F5RS0pzL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lyUInSPD"
+        },
+        {
+          "title": "Tensor Execution engine on GPU",
+          "short_description": "My project proposal aims to optimize the FasTensor tensor computing library to work efficiently on GPUs to enable efficient tensor contraction while...",
+          "student_name": "Rishabh Ballabh Singh",
+          "code_url": "https://bitbucket.org/rishabhballabh/fasttensor/src/master/",
+          "proposal_id": "tNzQit1T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/1fYINR6E"
+        },
+        {
+          "title": "Enhancing and Validating LiveHD's Power Modeling Flow",
+          "short_description": "The primary goal of this project is to enhance and validate LiveHD's power modeling flow, a critical feature for estimating power consumption in...",
+          "student_name": "Shahzaibkashif",
+          "code_url": "https://medium.com/@shahzaibceo/decoding-power-analysis-livehd-vs-sta-in-vlsi-design-11a756c921c1",
+          "proposal_id": "LAMSL8np",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ua987TH3"
+        },
+        {
+          "title": "ScaleBugs: Reproducible Scalability Bugs",
+          "short_description": "High-performance computing (HPC) data centers tend to have hundreds to thousands of nodes in their clusters. The use of \u201cextreme-scale\u201d distributed...",
+          "student_name": "Zahra Nabila",
+          "code_url": "https://docs.google.com/document/d/1CS6qakeO63ZcAtZqTFCesazY4FJ73DOk3-1nBh-JYMw/edit?usp=sharing",
+          "proposal_id": "nMcS8oN1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gRTEbm7c"
+        },
+        {
+          "title": "DirtViz 2.0 - A web-based dataviz tool for sensor networks",
+          "short_description": "DirtViz 2.0 is a proposed project that aims to enhance the capabilities of DirtViz 1.0, a data visualization tool for sensor networks. The new...",
+          "student_name": "Zhouyixian Li",
+          "code_url": "https://github.com/jlab-sensing/DirtViz/tree/reformat-charts",
+          "proposal_id": "sSDQ6372",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wCyITjfo"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/uc-ospo/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "[PolyPhy] Unveiling Medicine Patterns: 3D Clustering with Polyphy/Polyglot",
+          "short_description": "Polyglot, a web application revolutionizing data exploration, offers dynamic 3D visualizations. Imagine zooming and rotating through a complex...",
+          "student_name": "Ayush_Sharma_",
+          "code_url": "https://docs.google.com/document/d/1TgbRXLLYLmrKy5iMW2Q-t2niLzQMfQLQmopAD0gs4bw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DzttCJw1/"
+        },
+        {
+          "title": "LLM Assistant for OpenROAD - Model Architecture and Prototype",
+          "short_description": "This project aims to build a conversational assistant designed around OpenROAD to answer user queries. The goal is to build a complete pipeline that...",
+          "student_name": "Palaniappan R",
+          "code_url": "https://github.com/The-OpenROAD-Project/ORAssistant",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/DSo6kvA5/"
+        },
+        {
+          "title": "Benchmark Suite for Explaining failures in autograding - AI Explainability Accountability",
+          "short_description": "The project aims to address a common challenge faced by both beginner and advanced programmers: understanding and learning from mistakes in code...",
+          "student_name": "Shaburu",
+          "code_url": "https://github.com/edulinq/autograder-py",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hMNxeu1b/"
+        },
+        {
+          "title": "Enhancing h5bench with HDF5 Compression Capability",
+          "short_description": "The problem I am trying to solve is to implement multiple data compression algorithms in h5bench core access patterns through HDF5 filters. This...",
+          "student_name": "Henry Zhou",
+          "code_url": "https://github.com/skyFzz/h5bench/tree/compression-feature",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/n0H28Z40/"
+        },
+        {
+          "title": "StatWrap: Automated Reproducibility Checklists Generation",
+          "short_description": "StatWrap is a free, open-source tool to document research projects. It inventories research assets like code files, data files, and manuscripts,...",
+          "student_name": "Adi Akhilesh Singh",
+          "code_url": "https://github.com/StatTag/StatWrap/tree/gsoc24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YnQC8YyE/"
+        },
+        {
+          "title": "Hardware Hierarchical Dynamical Systems",
+          "short_description": "In hardware compilers, scalability issues often arise due to inefficient tree data structures. To tackle this challenge, the proposed project aims to...",
+          "student_name": "UjjwalShekhar",
+          "code_url": "https://gist.github.com/ujjwal-shekhar/46f872ca5b194a014cc6f16b0825261a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ggfpoLfF/"
+        },
+        {
+          "title": "Enhancing Usability and Expandability of the Open Sensing Platform",
+          "short_description": "This proposal aims to improve an outdoor sensor platform by focusing on usability and expandability. To achieve this, the project will integrate a...",
+          "student_name": "Ahmed Falah",
+          "code_url": "https://github.com/jlab-sensing/ENTS-node-firmware/pull/143",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/QAXhjvwE/"
+        },
+        {
+          "title": "BenchmarkST: Cross-Platform, Multi-Species Spatial Transcriptomics Gene Imputation Benchmarking",
+          "short_description": "Benchmarking is designed to tackle the issue of incomplete data in the field of spatial transcriptomics. The project aims to develop a benchmarking...",
+          "student_name": "Qianru Zhang",
+          "code_url": "https://docs.google.com/document/d/1mXvh296d-nYklyKJC8qPfUPu5kolXFQQIQ4hy0aRkz4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/WHnUWgTG/"
+        },
+        {
+          "title": "Drishti: Visualization and Analysis of AI-based Applications",
+          "short_description": "The increasing adoption of AI/ML applications has led to new I/O access patterns and bottlenecks that differ from traditional scientific...",
+          "student_name": "Joel Tony",
+          "code_url": "https://github.com/hpc-io/drishti-io/pull/25",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/H7OzlMb6/"
+        },
+        {
+          "title": "Streamlining PolyPhy\u2019s Web Portal with CMS and Multi-Platform Connectivity",
+          "short_description": "PolyPhy is an advanced toolkit utilizing the Monte Carlo Physarum Machine (MCPM) algorithm for reconstructing networks from sparse 2D or 3D data. The...",
+          "student_name": "Mohit Goyal",
+          "code_url": "https://docs.google.com/document/d/1BCG6Y-6Usz0hMo11OM5TZY5B8hKTD43wgXSq2s5OcK4/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/m4b29QQg/"
+        },
+        {
+          "title": "Causeway / Improving the Core Infrastructure and Experience , Mentor David Lee",
+          "short_description": "The proposed project aims to enhance the platform by integrating logging and analytics features, implementing a learning dashboard, potentially...",
+          "student_name": "Rishi Mondal",
+          "code_url": "https://gsoc-causeway.vercel.app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wTxAXxEz/"
+        },
+        {
+          "title": "LiveHD: Benchmarking LLMs that Generate Verilog/Chisel Modules From Natural Language",
+          "short_description": "Recently, research has been made into the process in which we could tune an existing generalized LLM (such as ChatGPT 3.5, 4) for the purposes of...",
+          "student_name": "Ashwin Bardhwaj",
+          "code_url": "https://docs.google.com/spreadsheets/d/1ix1eFSVhW4GqwQMrHpeDEprL65i2YQSM/edit?gid=2026771728#gid=2026771728",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1hd3HYX9/"
+        },
+        {
+          "title": "Stream processing support for FasTensor library.",
+          "short_description": "I will implement stream processing support for FasTensor library. Stream processing enables online processing of live data as it arrives on the File...",
+          "student_name": "Aditya N.",
+          "code_url": "https://github.com/aditya-narayan5/GSoC24-Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RMdOjkNk/"
+        },
+        {
+          "title": "Trustworthy Large Language Models (LLMs) and Agents",
+          "short_description": "LLM hallucinations have been tackled using various techniques, including modern retrieval methods such as Retrieval-Augmented Generation (RAGs)....",
+          "student_name": "Nikhil Wani",
+          "code_url": "https://trustworthy-superintelligence.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/9WBTC535/"
+        },
+        {
+          "title": "LLM assistant for OpenROAD - Data Engineering and testing",
+          "short_description": "This proposal provides a detailed overview of the development of an LLM-based conversational assistant with domain-specific knowledge about the...",
+          "student_name": "Aviral Kaintura",
+          "code_url": "https://github.com/The-OpenROAD-Project/ORAssistant",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/J8uAFNCu/"
+        },
+        {
+          "title": "Heterogeneous Graph Neural Networks for I/O Performance Bottleneck Diagnosis",
+          "short_description": "This proposal aims to address the challenge of I/O bottlenecks in High-Performance Computing (HPC) systems by developing a Graph Neural Network (GNN)...",
+          "student_name": "Mahdi Banisharifdehkordi",
+          "code_url": "https://github.com/BanisharifM/GNN_4_IO",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LqVFJiCE/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/uc-ospo",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Implement Web Extensions & System Settings Integration to Peersky Browser",
+          "short_description": "The Peersky browser currently lacks a unified system for managing both user-installed WebExtensions and core browser preferences. This project will...",
+          "student_name": "6cobi",
+          "code_url": null,
+          "proposal_id": "zOAXT1ll",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uG3PzQyV"
+        },
+        {
+          "title": "LINQS: Autograder",
+          "short_description": "This project aims to develop a system that detects whether code was written by a student or generated by AI tools like ChatGPT or GitHub Copilot....",
+          "student_name": "Anvi",
+          "code_url": null,
+          "proposal_id": "tX7xfav4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jxBUpvoM"
+        },
+        {
+          "title": "Rectilinear Floorplans in OpenROAD",
+          "short_description": "This proposal aims to add support for rectilinear floorplans in OpenROAD, an open-source EDA tool used for digital chip design. Currently, OpenROAD...",
+          "student_name": "Chaitanya Gambali",
+          "code_url": null,
+          "proposal_id": "w6JKxkzM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mcv3Hbgk"
+        },
+        {
+          "title": "LLMSeqRec: LLM Enhanced Contextual Sequential Recommender",
+          "short_description": "In today's world sequential recommendation systems are used in various domains-- from life sciences to e-commerce and business. For example, within...",
+          "student_name": "connorlee",
+          "code_url": null,
+          "proposal_id": "G5W37pEG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TGUFCzZy"
+        },
+        {
+          "title": "ENTS : Web portal for large-scale sensor networks",
+          "short_description": "The Environmental NeTworked Sensor (ENTS) platform is an open-source web portal designed for collecting, visualizing, and analyzing data from...",
+          "student_name": "Devansh Kukreja",
+          "code_url": null,
+          "proposal_id": "qkn7NHv8",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OPlG0KHV"
+        },
+        {
+          "title": "Improving AI Data Pipelines in AIDRIN: A Privacy-Centric and Multimodal Expansion",
+          "short_description": "AIDRIN (AI Data Readiness INspector) is an open-source tool designed to assess the quality, fairness, and readiness of datasets before they are used...",
+          "student_name": "Harish Balaji",
+          "code_url": null,
+          "proposal_id": "e7Z8oZjP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/X4FJR5x9"
+        },
+        {
+          "title": "Brahma / Allocentric WebXR Interfaces",
+          "short_description": "This project aims to explore and develop allocentric interfaces for WebXR, focusing on enhancing user interaction in virtual reality environments....",
+          "student_name": "Kajal Jotwani",
+          "code_url": null,
+          "proposal_id": "jJtSFQJN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Czdoqv0c"
+        },
+        {
+          "title": "Intelligent Observability for Seam: A GenAI Approach",
+          "short_description": "Operating complex scientific workloads on the National Research Platform (NRP) via the Seam interface presents monitoring challenges; identifying...",
+          "student_name": "Manish K Reddy",
+          "code_url": null,
+          "proposal_id": "10LDl5Bc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/fPp1JXbl"
+        },
+        {
+          "title": "Proposal for Disentangled Generation and Editing of Pathology Images",
+          "short_description": "My proposal is to create and control computer-generated images of breast cancer tissues. I'll spend my first four weeks building basic models called...",
+          "student_name": "Mingyuan Shao",
+          "code_url": null,
+          "proposal_id": "HOKYlehT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cn7fmk7a"
+        },
+        {
+          "title": "UC Open Source Repository Browser [UC ORB]",
+          "short_description": "The University of California Open Source Repository Browser (UC ORB) is a discovery platform that maps and categorizes open source projects across...",
+          "student_name": "Param Arora",
+          "code_url": null,
+          "proposal_id": "FWTwI0uM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XZ9zEll1"
+        },
+        {
+          "title": "Building a Billion-Scale Vector Embeddings Dataset for Real-World ANN Benchmarking",
+          "short_description": "To benchmark vector search algorithms (aka ANN algorithms), existing datasets fail to represent actual real-world workloads. Current benchmarks...",
+          "student_name": "Prathamesh Devadiga",
+          "code_url": null,
+          "proposal_id": "h3sRmmWP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GcstSGAO"
+        },
+        {
+          "title": "Smart Batching Using CXL For Large Language Models",
+          "short_description": "Our project addresses the challenge of high memory usage and slow performance in large language models, which happens mainly because of the huge...",
+          "student_name": "Rushil Nagpal",
+          "code_url": null,
+          "proposal_id": "YyPqqBeQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/uz2qQ8sN"
+        },
+        {
+          "title": "Interfacing Scenic to New Simulators",
+          "short_description": "This proposal aims to integrate Scenic\u2014a probabilistic programming language for scenario specification\u2014with Robosuite, a simulation framework for...",
+          "student_name": "Sahil Mandi",
+          "code_url": null,
+          "proposal_id": "x0EmQ9Gw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ePG8e6ZN"
+        },
+        {
+          "title": "WildberryEye Proposal",
+          "short_description": "WildBerryEye leverages edge computing (Raspberry Pi) and object detection (YOLO) to monitor pollinators like bees and hummingbirds. My project...",
+          "student_name": "Sophie Tao",
+          "code_url": null,
+          "proposal_id": "bzPuW7O1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/jnriJNbw"
+        },
+        {
+          "title": "Optimizing and Benchmarking GPU Collective Communication of PyLops-MPI with NCCL",
+          "short_description": "PyLops is a Python package with a simple yet flexible interface for solving linear inverse problems. Previous GSoC-sponsored projects laid the...",
+          "student_name": "tharitt",
+          "code_url": null,
+          "proposal_id": "ackdpNyS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/C2XSZp2E"
+        },
+        {
+          "title": "Global CarbonCast \u2013 Expanding Real-Time Carbon Intensity Forecasting and Visualization",
+          "short_description": "This proposal aims to broaden the geographical scope and enhance the functionality of CarbonCast, a tool dedicated to forecasting and visualizing the...",
+          "student_name": "Tobin Sia",
+          "code_url": null,
+          "proposal_id": "BBw31TmX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7yvAix3k"
+        },
+        {
+          "title": "RAG-ST: Retrieval-Augmented Generation for Spatial Transcriptomics",
+          "short_description": "Spatial transcriptomics (ST) is a powerful and emerging technology that captures gene expression profileswith spatial resolution, providing...",
+          "student_name": "Zeyu Zou",
+          "code_url": null,
+          "proposal_id": "pwS1IvGi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/m3s8fWxd"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://osre2024.slack.com/home",
+  "contact_email": "mailto:ospo-info-group@ucsc.edu",
+  "mailing_list": "",
+  "ideas_url": "https://ucsc-ospo.github.io/osre25/#projects",
+  "guide_url": "https://ucsc-ospo.github.io/osre25/#forstudents",
+  "twitter_url": "https://twitter.com/UC_OSPO",
+  "blog_url": "https://ucsc-ospo.github.io/#blog"
+}

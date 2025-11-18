@@ -1,0 +1,290 @@
+{
+  "name": "Inkscape",
+  "url": "https://inkscape.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/inkscape/qiomrjtmocpmomjf-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "web",
+    "graphics",
+    "geometry",
+    "standards",
+    "vector graphics",
+    "design"
+  ],
+  "technologies": [
+    "python",
+    "c++",
+    "css",
+    "svg",
+    "gtk+",
+    "c++11",
+    "gtk",
+    "c",
+    "python 3"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5665370564198400/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Better data structure for selections",
+          "short_description": "The main goal is designing new approach to untie selection object from user interface. Actual code base on legacy C code from SodiPodi and should be...",
+          "student_name": "Adrian Boguszewski",
+          "code_url": "http://bazaar.launchpad.net/~adrianboguszewski/inkscape/adrian/changes/14984?start_revid=14984",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5726533045977088/"
+        },
+        {
+          "title": "Better CSS Style Sheet Support",
+          "short_description": "This project aims to enhance the support of CSS style sheets in Inkscape.\nThe style values stored in the style attributes of the object are not...",
+          "student_name": "Kamalpreet Kaur",
+          "code_url": "http://kamalpreetgrewal.com/gsoc-2016-work-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5444506165968896/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5404830063394816/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Better CSS Style Sheet Support",
+          "short_description": "Inkscape has basic support for CSS style sheet. Currently it can read and parse internal sheet. Aim of project is to extend its support by adding...",
+          "student_name": "Vishal (DiehumbleX)",
+          "code_url": "https://gitlab.com/diehumbleX/inkscape/tree/master/GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6239022099726336/"
+        },
+        {
+          "title": "SVG 2 Text Support",
+          "short_description": "Inkscape currently has a non-compliant flowed text feature (based on SVG 1.2 which was never adopted) that needs to be made compatible with both SVG2...",
+          "student_name": "Alexandru-Daniel Roman",
+          "code_url": "https://gitlab.com/AlexRoman/inkscape/blob/master/README",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6083005399433216/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6036062346412032/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5818074534510592/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "JavaScript Polyfills",
+          "short_description": "I believe improving JS polyfills is an important project becasue it can offer a major part of the use base features they need and, maybe, influence...",
+          "student_name": "Valentin Ionita",
+          "code_url": "https://gitlab.com/vanntile/inkscape-gsoc-application",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5511570182897664/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4527035860385792/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "GDL refactoring & new dialog system",
+          "short_description": "I propose Gnome Docking Library (GDL) refactoring. This would mean creating a multipane widget that docks different dialogs into \"notebooks\", each...",
+          "student_name": "vanntile",
+          "code_url": "https://gitlab.com/inkscape/inkscape/-/merge_requests/2159",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4532822624174080/"
+        },
+        {
+          "title": "Command palette, Command Stack and Macros",
+          "short_description": "Inkscape comes with a plethora of features out of the box, and functionality can be extended even more by using various extensions. These features...",
+          "student_name": "Abhay Raj Singh",
+          "code_url": "https://gitlab.com/rathod-sahaab/gsoc-2020-inkscape/-/blob/master/GSoC%20Progress%20Report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6037740912640000/"
+        },
+        {
+          "title": "Path Library Improvement",
+          "short_description": "Inkscape relies on two libraries for its geometry related operations. One is lib2geom which was designed specially for Inkscape and the other is...",
+          "student_name": "moazin",
+          "code_url": "https://gitlab.com/moazin/inkscape-gsoc-2020-proposal/-/blob/master/gsoc-final-work.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5898337749827584/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5656327346454528/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "On-canvas interactive boolean operations",
+          "short_description": "A feature allowing users to break intersecting into non-overlapping parts, union or delete the resulted parts.",
+          "student_name": "Osama Ahmad",
+          "code_url": "https://gitlab.com/inkscape/inkscape/-/merge_requests/3357",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5473372577726464/"
+        },
+        {
+          "title": "Upgrade Django-based Website",
+          "short_description": "The current Django-based website for Inkscape uses Django 1.11 whose support ended in 2020. I plan to upgrade the Django version to 2.x so that...",
+          "student_name": "Ishaan Arora",
+          "code_url": "https://pulsar17.me/2021/08/gsoc-work",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5491156258914304/"
+        },
+        {
+          "title": "On Canvas Marker Editing",
+          "short_description": "While markers are a nifty feature of Inkscape, their usability is heavily impaired by their limited interface. Currently, a marker\u2019s position, size,...",
+          "student_name": "Rachana Podaralla",
+          "code_url": "https://gitlab.com/podarallarachana/gsoc-inkscape-2021/-/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5240879656206336/"
+        },
+        {
+          "title": "Verbs to Gio::Actions",
+          "short_description": "Inkscape has widespread GUI integration. Often the same function is called needlessly multiple times. The biggest problem is  that most Verbs require...",
+          "student_name": "SUSHANT A.A.",
+          "code_url": "https://wiki.inkscape.org/wiki/index.php?title=GSoC_2021_Verbs_to_Gio::Actions",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4846462910857216/"
+        },
+        {
+          "title": "On-Canvas Alignment Guides",
+          "short_description": "I propose to add OnCanvas Alignment Guides to Inkscape. When enabled, while moving objects around the selection will snap to temporary Horizontal or...",
+          "student_name": "Parth Pant",
+          "code_url": "https://gitlab.com/inkscape/inkscape/-/merge_requests/3294",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5895585042792448/"
+        },
+        {
+          "title": "Improvement in Export Options",
+          "short_description": "Inkscape is a vector editing software and svgs are a very important part of it. Currently inkscape offers many export options (to be precise \u201csaving...",
+          "student_name": "Anshudhar Kumar Singh",
+          "code_url": "https://gist.github.com/SlayerAnsh/bc932d86c8f846b9c2042a0255231563",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5205455034384384/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/inkscape/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Font Selection Improvements",
+          "short_description": "The \u201cFont Selection Improvement\u201d project aims to simplify the selection, and customization of fonts under the Text and Font dialog, reduce the time...",
+          "student_name": "Vaibhav Malik",
+          "code_url": "https://vaibhavmalik.hashnode.dev/gsoc-2022-font-selection-improvements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/PrGVjiXp/"
+        },
+        {
+          "title": "Tab Structure",
+          "short_description": "Inkscape has great tools and features for designers, but problems arise when users use multiple files which creates multiple windows. For users, it...",
+          "student_name": "SUSHANT A.A.",
+          "code_url": "https://wiki.inkscape.org/wiki/GSoC_2022_Tab_Structure",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/O3vqQRkr/"
+        },
+        {
+          "title": "Integrating Tesseract OCR into Inkscape",
+          "short_description": "Inkscape is a vector editing software and on many occasions, we need to get the text from the current document, or even from a foreign document. My...",
+          "student_name": "BasharAhmed",
+          "code_url": "https://gist.github.com/Bashar-Ahmed/95d8a8b266fb17e6445e920c07fd0c1c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/LcbNVGrj/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/inkscape",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Customizable Appearance of Canvas Controls",
+          "short_description": "The proposed project aims to improve the visual appearance of canvas controls like nodes and handles, which are currently very unappealing and...",
+          "student_name": "sanidhyas3s",
+          "code_url": "https://inkscape.org/%2Amembership/blog/customizable-canvas-controls/",
+          "proposal_id": "l98fC2jw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/t7Xn0iW6"
+        },
+        {
+          "title": "GTK4 Migrations",
+          "short_description": "The GTK4 migration is one of the major refactoring projects on Inkscape\u2019s roadmap. Besides migrating to a newer and more actively developed GUI...",
+          "student_name": "Vaibhav Malik",
+          "code_url": "https://vaibhavmalik.hashnode.dev/gsoc-2023-journey-gtk4-migrations",
+          "proposal_id": "1O34RVaa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/P8MnvcRk"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/inkscape/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "A Node Based Filter Editor for Inkscape",
+          "short_description": "Inkscape's current Filter Editor limits the user experience for creating Filters significantly, due to it's non-intuitive nature, and poor structing....",
+          "student_name": "Ravi Arora",
+          "code_url": "https://gitlab.com/inkscape/inkscape/-/merge_requests/6578",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yvk2ZxIj/"
+        },
+        {
+          "title": "Add support for the afdesign format",
+          "short_description": "The proposed project aims to implement import support for the afdesign format. This new functionality will make Inkscape more versatile and...",
+          "student_name": "ManpreetXSingh",
+          "code_url": "https://manpreetsingh.hashnode.dev/gsoc-report-inkaf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/sR7nHXTJ/"
+        },
+        {
+          "title": "Improving UX of Node and Bezier Tool",
+          "short_description": "This project would improve the workflow of editing of geometry of paths. Combining strengths of Pen tool and Node tool with modifiers and new...",
+          "student_name": "SKIPPR",
+          "code_url": "https://skippr.hashnode.dev/gsoc-2024-journey",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/S22SNeiv/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/inkscape",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "On-Canvas Spell Checking",
+          "short_description": "Inkscape currently lacks an intuitive, user-friendly way to perform spell checking within text elements on the canvas. This project aims to integrate...",
+          "student_name": "Aarav Oswal",
+          "code_url": null,
+          "proposal_id": "0s3d9Bk4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xREAi1JS"
+        },
+        {
+          "title": "UI-Free Inkscape",
+          "short_description": "In many automated environments like servers, containers etc., a full graphical stack isn\u2019t necessary and this increases resource usage, complicates...",
+          "student_name": "aayush01x",
+          "code_url": null,
+          "proposal_id": "a3FZJaj2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ctNAgymM"
+        },
+        {
+          "title": "Improved Support for Adobe Illustrator File Format",
+          "short_description": "Inkscape\u2019s support for Adobe Illustrator (.ai) files is limited, especially for files that include raster images, masks, filters, and other advanced...",
+          "student_name": "Anunay",
+          "code_url": null,
+          "proposal_id": "YrS6WfsO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/WtDx0f9Q"
+        },
+        {
+          "title": "Recolor Art Work",
+          "short_description": "Recolor Artwork in Inkscape : Inkscape currently lacks an easy and intuitive way to modify colors within a selected artwork. This project aims to...",
+          "student_name": "Fatma Omara",
+          "code_url": null,
+          "proposal_id": "1Yvmedvv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YzCjdsDT"
+        },
+        {
+          "title": "Interval Arithmetic Enhanced Geometric Processing for lib2geom",
+          "short_description": "This project aims to enhance the accuracy and reliability of geometric intersection routines in Inkscape\u2019s lib2geom library by refactoring them with...",
+          "student_name": "Muhammad Rafay Irfan",
+          "code_url": null,
+          "proposal_id": "WIj7LJup",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/YMPjD3oZ"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://chat.inkscape.org",
+  "contact_email": "mailto:inkscape-devel@lists.inkscape.org",
+  "mailing_list": "https://lists.inkscape.org/postorius/lists/inkscape-devel.lists.inkscape.org/",
+  "ideas_url": "https://gitlab.com/inkscape/inkscape/-/blob/master/doc/gsoc/summerofcode.md",
+  "guide_url": "https://gitlab.com/inkscape/inkscape/-/blob/master/doc/gsoc/summerofcode.md",
+  "twitter_url": "https://twitter.com/inkscape",
+  "blog_url": "https://mastodon.art/@inkscape/"
+}

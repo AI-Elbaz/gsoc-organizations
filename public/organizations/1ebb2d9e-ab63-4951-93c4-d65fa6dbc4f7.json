@@ -1,0 +1,915 @@
+{
+  "name": "CNCF",
+  "url": "https://cncf.io",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/cncf/jmxijrttlucfutel-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Data",
+  "topics": [
+    "monitoring",
+    "cloud",
+    "tracing",
+    "logging",
+    "cloud native",
+    "container",
+    "containers",
+    "web",
+    "devops",
+    "kubernetes",
+    "service mesh",
+    "cloud computing",
+    "observability"
+  ],
+  "technologies": [
+    "prometheus",
+    "go",
+    "kubernetes",
+    "fluentd",
+    "grpc",
+    "golang",
+    "docker",
+    "rust",
+    "cloud",
+    "service mesh",
+    "OpenTelemetry",
+    "envoy"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6018829461225472/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improve Third Party Resources",
+          "short_description": "ThirdPartyResources are already available but the implementation has languished with multiple outstanding capabilities that are missing. They did not...",
+          "student_name": "Nikhita Raghunath",
+          "code_url": "https://github.com/nikhita/gsoc-meta-k8s",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5736684469616640/"
+        },
+        {
+          "title": "instrument OpenTracing with go-restful web framework",
+          "short_description": "go-restful\uff08https://github.com/emicklei/go-restful\uff09is a widely-used library for building REST-style Web Services using Google Go. With powerful...",
+          "student_name": "MINGQIANG LIANG",
+          "code_url": "https://github.com/opentracing-contrib/go-restful",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5449224187543552/"
+        },
+        {
+          "title": "Create and implement a Data model to standardize Kubernetes logs",
+          "short_description": "This project aims to build and implement a Data model for logs in a large kubernetes cluster to process, correlate and query to make the...",
+          "student_name": "Amit Kumar Jaiswal",
+          "code_url": "https://github.com/amitkumarj441/gsoc17-cncf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5112703567790080/"
+        },
+        {
+          "title": "dnstap Middleware",
+          "short_description": "The project\nThe goal is to capture the DNS data within a CoreDNS middleware and write it to a \"dnstap log file\" (prehaps over the network)\nSteps\nI...",
+          "student_name": "Antoine D.",
+          "code_url": "https://drive.google.com/file/d/0B6nvUsp4JxeCenByOXpuSm5tMGc/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5269744752001024/"
+        },
+        {
+          "title": "Develop a set of Jupyter Notebooks for the Kubernetes Python Client + Kubernetes Python Client update",
+          "short_description": "The Kubernetes python client is a Kubernetes incubator project. The python client makes it possible to access Kubernetes with python. Jupyter...",
+          "student_name": "Konrad Djimeli",
+          "code_url": "https://docs.google.com/document/d/1hkzasAlzqpRQAIZTChELLFsce4-HyQvnypQOjCjYlPE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6048005979373568/"
+        },
+        {
+          "title": "Integrate Unikernel Runtime",
+          "short_description": "The main idea of this proposal is Why and How we integrate unikernel as a runtime into kubernetes/frakti project, so that kubernetes could use...",
+          "student_name": "Hao Zhang",
+          "code_url": "https://gist.github.com/Crazykev/bd9d0fbb7d41aa8c12cbd2c450cfa319",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5962288766910464/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4800404952973312/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Integrate Containerd with Katacontainers",
+          "short_description": "The project aims at creating a containerd-kata runtime plugin for containerd to integrate it with katacontainers. The integration enables containerd...",
+          "student_name": "Jian Liu",
+          "code_url": "https://docs.google.com/document/d/1rB-RqaRTelqH8mGeR_6uKlElxCJ06TW28scYKNtgsPI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6403629539917824/"
+        },
+        {
+          "title": "Building a testing & benchmarking environment for Prometheus",
+          "short_description": "My project aims to benchmark Prometheus & test Prometheus\u2019s Kubernetes & Consul Service Discovery in an automated & real-time environment.\nThis will...",
+          "student_name": "Harsh_Agarwal",
+          "code_url": "https://sipian.github.io/blogs/google-summer-of-code-with-prometheus.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6728419798679552/"
+        },
+        {
+          "title": "Add Network File System (NFS) as a Rook storage backend",
+          "short_description": "Rook is an open source orchestrator for distributed storage systems running in kubernetes, currently in alpha state and has focused initially on...",
+          "student_name": "Rohan Gupta",
+          "code_url": "https://github.com/rohan47/gsoc2018-cncf-rook/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5713541642321920/"
+        },
+        {
+          "title": "Extending Envoy's fuzzing coverage",
+          "short_description": "Envoy is getting fuzz testing support. The coverage is limited. This project focuses on extending the fuzz coverage including proto, data plane, H2...",
+          "student_name": "Anirudh M",
+          "code_url": "http://www.anirudhm.com/blog/gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5597459212402688/"
+        },
+        {
+          "title": "Composite Label Indices & Alerts rule testing",
+          "short_description": "Alerting is an important feature in monitoring when it comes to maintaining site reliability, and Prometheus is being used widely for this. Hence it...",
+          "student_name": "Ganesh Vernekar",
+          "code_url": "https://ganeshvernekar.com/gsoc-2018/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4516877250330624/"
+        },
+        {
+          "title": "Conditional Name Server Identifier - CoreDNS",
+          "short_description": "In distributed TensorFlow, identifying the nodes without domain name collision is a big challenge. CoreDNS supports DNS Name Server Identifier (NSID)...",
+          "student_name": "Jiacheng Xu",
+          "code_url": "https://github.com/jiachengxu/idetcd",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4869116712189952/"
+        },
+        {
+          "title": "Storage API for Aggregated API Servers",
+          "short_description": "Kubernetes offers two ways to  extend the core API, by using the CustomResourceDefinitons or by setting up an aggregated API server. This ensures...",
+          "student_name": "Marko Mudrini\u0107",
+          "code_url": "https://github.com/xmudrii/etcdproxy-controller",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5952269212188672/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6034778267058176/",
+      "num_projects": 15,
+      "projects": [
+        {
+          "title": "Add support for the OCI runtime spec by implementing a runc stage2",
+          "short_description": "rkt implements the App Container Executor specification of the appc Container Specification and uses systemd unit properties to implement its...",
+          "student_name": "Alejandro Germain",
+          "code_url": "https://apg258.github.io/gsoc/2019/08/16/gsoc-2019.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6333611203100672/"
+        },
+        {
+          "title": "Kubernetes with hardware devices topology awareness at node level",
+          "short_description": "We would like to propose a improvement on current Kubernetes topology manager to become aware of generic hardware device topology at node level, so...",
+          "student_name": "Junjun LI",
+          "code_url": "https://github.com/k8s-gpu-allocator/GSoC2019",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6336863634194432/"
+        },
+        {
+          "title": "Falco engine performance analysis and optimization",
+          "short_description": "The outcome of this project has been the development of a tracing framework that allows to measure and monitor some Falco internal metrics (counter...",
+          "student_name": "Mattia Lavacca",
+          "code_url": "https://github.com/mLavacca/falco-tracing-framework",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6404259405365248/"
+        },
+        {
+          "title": "Prometheus - Optimize queries using regex matchers for set lookups & Postings compression",
+          "short_description": "A common use case for regex matchers is to use them to query all series matching a set of label values, e.g. up{instance=~\"foo|bar|baz\"}. Grafana's...",
+          "student_name": "Zhiqi WANG",
+          "code_url": "https://docs.google.com/document/d/1pMWbiZrnVQmwg9KtyJo6sepTH6wdPnLe1DiZRC2WI0w/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5513478607994880/"
+        },
+        {
+          "title": "Implement volume snapshotting support into the external Manila provisioner",
+          "short_description": "OpenStack Manila manages shared file-systems across the cloud. Being able to create and access them with ease from the container world is showing to...",
+          "student_name": "R\u00f3bert Va\u0161ek",
+          "code_url": "https://gist.github.com/gman0/ab1c40a7b6e6ae52d610cbfeabdf0bfa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5574535259095040/"
+        },
+        {
+          "title": "IPTables Integration with  OPEN POLICY AGENT(OPA)",
+          "short_description": "This project involves designing the layout of IPTable rules using OPA's policy language Rego, implementing the algorithms that generate IPTables from...",
+          "student_name": "Urvil Patel",
+          "code_url": "https://github.com/open-policy-agent/contrib/tree/master/opa-iptables",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6201904034480128/"
+        },
+        {
+          "title": "Multi-mesh performance benchmark tool",
+          "short_description": "Benchmarks continuously strive to improve performance standards in order to stay relevant in the market and playing important role for having better...",
+          "student_name": "Shahriyar Mammadov",
+          "code_url": "https://medium.com/@sahriyarm/google-summer-of-code-2019-final-report-cncf-meshery-80a4693fe292",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6211205507579904/"
+        },
+        {
+          "title": "Extending Prombench and adding rule formatting for Prometheus",
+          "short_description": "Prombench the benchmarking tool for Prometheus will be extended to support even more tests, newer components, metrics which will help both developers...",
+          "student_name": "Hrishikesh Barman",
+          "code_url": "https://geekodour.xyz/post/gsoc19/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4610665543630848/"
+        },
+        {
+          "title": "Proposal for Auto-tune RocksDB",
+          "short_description": "Using machine learning method to tune database configurations automatically",
+          "student_name": "Yuanli Wang",
+          "code_url": "https://github.com/pentium3/AutoTiKV",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4737753357484032/"
+        },
+        {
+          "title": "Support Source IP Based Query Block/Allow in CoreDNS",
+          "short_description": "When CoreDNS serves DNS queries publicly or inside Kubernetes clusters, the source IP of the incoming DNS query is an important identity. For...",
+          "student_name": "An Xiao",
+          "code_url": "https://github.com/ihac/acl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4786589752885248/"
+        },
+        {
+          "title": "Add Plugin Mechanism to the Dashboard",
+          "short_description": "This project aims to introduce a plugin mechanism to the Kubernetes Dashboard. It shall deal with defining the plugin framework architecture, it\u2019s...",
+          "student_name": "Ajat Prabha",
+          "code_url": "https://ajatprabha.github.io/gsoc-meta-k8s/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6552345297551360/"
+        },
+        {
+          "title": "Run GPU sharing workloads with Kubernetes + Kubeflow",
+          "short_description": "GPUSharing is an open source project which could share GPU  by leveraging Kubernetes scheduling and Device Plugin extensibility.I would like to...",
+          "student_name": "Jianbo Ma",
+          "code_url": "https://github.com/Sakuralbj/CNCF-GSoC/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5857894333939712/"
+        },
+        {
+          "title": "Add Support for Custom Resource Definitions to the Dashboard",
+          "short_description": "The Kubernetes dashboard previously supported Third Party Resources (TPR), but these were replaced in Kubernetes by Custom Resource Definitions...",
+          "student_name": "Elijah Oyekunle",
+          "code_url": "https://github.com/eloyekunle/gsoc-2019-meta-k8s",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5962909421666304/"
+        },
+        {
+          "title": "Enable multiple network interfaces for Rook storage providers",
+          "short_description": "This project aims to create new API to enable multiple network interface for Rook storage providers. Currently, Rook providers only choice is to use...",
+          "student_name": "Giovan Isa Musthofa",
+          "code_url": "https://github.com/giovanism/gsoc-2019-rook/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5963949340622848/"
+        },
+        {
+          "title": "GitHub integrated benchmarking tool for Prometheus TSDB",
+          "short_description": "It is better to discover performance problems sooner than later, but this is even more important if we are talking about a database. The newly...",
+          "student_name": "Vladimir Masarik",
+          "code_url": "https://medium.com/@masarik.vladimir7/report-google-summer-of-code-2019-866d1fc5a71e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5218130282938368/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5861737481371648/",
+      "num_projects": 17,
+      "projects": [
+        {
+          "title": "Cloud Storage",
+          "short_description": "A cloud computing is a set of huge networks and computing nodes, where enormous amount of data flow takes place. An efficient performance is needed...",
+          "student_name": "Furqan Munir",
+          "code_url": "https://docs.google.com/document/d/1-7DlMNlindlwx54cehqqGZAgqdJCmLyl9mWOWkI4-9I/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5649719642030080/"
+        },
+        {
+          "title": "Versioned rawKV",
+          "short_description": "Versioned key-value data management interface for TiKV",
+          "student_name": "Hyungsuk Kang",
+          "code_url": "https://docs.google.com/document/d/17SWUDDbky0m2M_pz8NOjRGtoa2-USVcL4qO57HD1f6s/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5106163948978176/"
+        },
+        {
+          "title": "Anomaly Detection of the CoreDNS Server through Machine Learning",
+          "short_description": "This project aims to try and detect anomalies that occur in a CoreDNS server using a machine learning\nmodel developed in Keras. This project would...",
+          "student_name": "Chanakya Ekbote",
+          "code_url": "https://mlbridge.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5314202803109888/"
+        },
+        {
+          "title": "Cloud Native KV-service",
+          "short_description": "To create a Cloud Native TiKV implementation which utilises a Cloud Platform's remote provisions to augment the current local only storage back-end...",
+          "student_name": "Devdutt Shenoi",
+          "code_url": "https://dev.to/devduttshenoi/a-summer-of-code-with-tikv-1gck",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6217776412229632/"
+        },
+        {
+          "title": "Develop local cluster provider for test-infa/prombench and extending test-infra",
+          "short_description": "This project aims is to work on the following issues:\n\nDevelop local cluster provider (KIND)\nDeployment of Prombench on EKS and local cluster\nResolve...",
+          "student_name": "Raj Babu Das",
+          "code_url": "https://github.com/rajdas98/gsoc-2020-cncf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4546170073907200/"
+        },
+        {
+          "title": "Selectively disable Indexing of labels",
+          "short_description": "Prometheus is one of the standard-bearing open-source solutions for monitoring and observability. As a Prometheus-as-a-Service platform, Cortex fills...",
+          "student_name": "JayBatra",
+          "code_url": "https://github.com/jaybatra26/GSOC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4753176323948544/"
+        },
+        {
+          "title": "Port runlib into in-toto golang",
+          "short_description": "in-toto is a project for protecting supply chain integrity. The project is a sister project of the TUF project and both are there for tightening the...",
+          "student_name": "Christian Rebischke",
+          "code_url": "https://shibumi.dev/posts/google-summer-of-code-2020/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4805808296034304/"
+        },
+        {
+          "title": "Rewrite NFS Operator to use controller-runtime",
+          "short_description": "This project aims to implement controller-runtime for Rook nfs-operator and addresses several issues along with it. Currently, Rook nfs-operator only...",
+          "student_name": "Ahmad Nurus Shobah",
+          "code_url": "https://github.com/prksu/gsoc-2020-cncf-rook",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6494144572162048/"
+        },
+        {
+          "title": "Per Series Metric Retention - Thanos",
+          "short_description": "Thanos is allowing storing metrics for long, if not unlimited time. Currently however there is no fine-granular process of retaining only some...",
+          "student_name": "Harshitha Chowdary Thota",
+          "code_url": "https://docs.google.com/document/d/1YHrGNxQJipvED8AOp2jpNYTWc-KMW3d28n909xC4uPc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4839342998028288/"
+        },
+        {
+          "title": "Kubernetes Multitenancy Working Group: Benchmarks",
+          "short_description": "The Kubernetes Multi-Tenancy Working Group is chartered with exploring and defining multi-tenancy models for Kubernetes. The Multi Tenancy Benchmarks...",
+          "student_name": "Anuj Sharma",
+          "code_url": "https://github.com/phoenixking25/gsoc-meta-k8s",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4881505114914816/"
+        },
+        {
+          "title": "Cluster Addons: Package all things!",
+          "short_description": "Cluster Addons are resources that are considered inherently part of the Kubernetes cluster as they help extend the functionality of the cluster. Over...",
+          "student_name": "Somtochi Onyekwere",
+          "code_url": "https://github.com/SomtochiAma/gsoc-2020-meta-k8s",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5788464768876544/"
+        },
+        {
+          "title": "Prometheus - Running prombench on EKS and update dashboards",
+          "short_description": "Prombench is the automated E2E testing and benchmarking for Prometheus.\nPrombench uses Kubernetes to benchmark Prometheus using various scalable...",
+          "student_name": "Drumil Patel",
+          "code_url": "https://medium.com/@weastel/gsoc-2020-prometheus-cncf-cc38ecfc9482",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5847606468542464/"
+        },
+        {
+          "title": "Distributed Load Testing of Envoy Data Planes",
+          "short_description": "Many performance benchmarks are limited to single instance load generation (single pod load generator). This limits the amount of traffic that can be...",
+          "student_name": "Kush Trivedi",
+          "code_url": "https://gist.github.com/kushthedude/3233ee0422ad1471aae097c305ebda23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5873005697171456/"
+        },
+        {
+          "title": "SMI Conformance Tool",
+          "short_description": "Currently, there exists no software solution for checking whether a service mesh implements Service Mesh Interface or not.\nThis causes the following...",
+          "student_name": "Naveen Jain",
+          "code_url": "https://layer5.io/blog/community/SMI-conformance-testing-with-meshery",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6269818933608448/"
+        },
+        {
+          "title": "Prometheus: Extending promtool for formatting PromQL expressions and YAML structure in rules files",
+          "short_description": "Prometheus is a monitoring tool that monitors the specified targets, scrapes the system and application metrics at regular intervals, evaluates rules...",
+          "student_name": "Harkishen Singh",
+          "code_url": "https://github.com/prometheus/prometheus/pull/7779",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6306606905556992/"
+        },
+        {
+          "title": "Enriching and Extending Thanos UIs with React for Awesome User Experience",
+          "short_description": "So far Thanos has successfully used pieces of old Prometheus UI with some improvements. However, since Prometheus now moved all UI pages to React, it...",
+          "student_name": "Prem Saraswat",
+          "code_url": "https://gist.github.com/prmsrswt/751e0d2894b8f8d8264ce70250162694",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5128917242871808/"
+        },
+        {
+          "title": "Do resource delivery around Kubernetes",
+          "short_description": "Resource Provision: Use CRD Operator to invoke the cloud resource and create the resource object.\nResource Binding: Use Service binding to do the...",
+          "student_name": "Wangqian Qian",
+          "code_url": "https://docs.google.com/document/d/1x0JypxP1QcyLkpKxkwUegMskG4Y9anqfpeH4_8Tt-mE/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5206759230144512/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5144170817126400/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "TiKV: High-performance Data Import Tool",
+          "short_description": "Lightning is a tool used to import large amounts of data into TiDB. In addition to the logic of preparation and improving performance, the main logic...",
+          "student_name": "Bingchang Chen",
+          "code_url": "https://github.com/tikv/tikv/issues/9778",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6350710110683136/"
+        },
+        {
+          "title": "CNCF - CNB - Jenkins Plugins",
+          "short_description": "Cloud Native Buildpacks' primary function is to turn source code into a runnable image and because of that it's natural for it to be used within...",
+          "student_name": "Fatih ATES",
+          "code_url": "https://gist.github.com/fatiiates/20d6dc3c98add0e8e0428496cef00663",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6383215228485632/"
+        },
+        {
+          "title": "TLA+ Spec for Async Commit",
+          "short_description": "The goal of this project is to offer a formal verification using TLA+ for TiKV\u2019s new \u201cAsync Commit\u201d transaction model, which brings us more...",
+          "student_name": "Zhuoran He",
+          "code_url": "https://gist.github.com/zhuo1angT/aeb48e10d4437e076bfdd5a505ec94cc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5653055118245888/"
+        },
+        {
+          "title": "Make it easy to install and verify the installation of cert-manager",
+          "short_description": "cert-manager can be installed using Helm or with regular Kubernetes manifests, but when using regular manifests it is difficult to customize the...",
+          "student_name": "Tim Ramlot",
+          "code_url": "https://gist.github.com/inteon/9dce2403c6946e423c9076b90b195c62",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5686178510012416/"
+        },
+        {
+          "title": "SMI Support for Multi-Cluster Operations",
+          "short_description": "Currently, SMI doesn\u2019t provide connectivity over multiple Kubernetes clusters. It is becoming common for users of a service mesh to have more than...",
+          "student_name": "Piyush Singariya",
+          "code_url": "https://github.com/piyushsingariya/gsoc2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5689363899351040/"
+        },
+        {
+          "title": "[Litmus Portal] Authentication Module Refactor and OAuth Implementation",
+          "short_description": "The Authentication server of the litmus portal (which resides in the litmus-portal folder of the main litmus repository) is written in golang, uses...",
+          "student_name": "Hemanth Krishna",
+          "code_url": "https://www.cncf.io/blog/2021/08/19/__trashed-2/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5723107746119680/"
+        },
+        {
+          "title": "Improve the usability of cert-manager on multiple cloud providers",
+          "short_description": "cert-manager is a Kubernetes add-on used extensively to automate the management and issuance of certificates from various issuers.\nThis project aims...",
+          "student_name": "Arsh Sharma",
+          "code_url": "https://gist.github.com/RinkiyaKeDad/307f54b54fd6ae2aede3ccfd2c7032fa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4983164438577152/"
+        },
+        {
+          "title": "Cloud Native Buildpacks [CNCF] Project: Automatic Buildpack Registry Action Updates",
+          "short_description": "Buildpacks are pluggable tools that can be used to transform the source code to OCI compliant images (Docker images) that can run on any cloud. It is...",
+          "student_name": "Mritunjay Sharma",
+          "code_url": "https://mritunjaysharma394.medium.com/summary-of-gsoc21-with-cloud-native-buildpacks-611f1239b12e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5631466431578112/"
+        },
+        {
+          "title": "web-based simulator for scheduler behaviour (Project: Kubernetes)",
+          "short_description": "In real Kubernetes, we cannot know the results of scheduling in detail without reading the logs, which usually requires privileged access to the...",
+          "student_name": "Kensei Nakada",
+          "code_url": "https://github.com/kubernetes-sigs/kube-scheduler-simulator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6209298580897792/"
+        },
+        {
+          "title": "Buildpacks Lifecycle Prepare Phase",
+          "short_description": "Buildpacks are a kind of framework for preparing a container environment for your apps. Lifecycle is a particular workload that needs to run one by...",
+          "student_name": "Halil \u0130brahim Ceylan",
+          "code_url": "https://github.com/haliliceylan/GSOC-2021-CNCF-Buildpacks-Journey",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6047538402033664/"
+        },
+        {
+          "title": "Adaptive Load Control and Distributed Load Testing of Envoy Data Planes",
+          "short_description": "Users configuring their Envoy-based data planes don't know how to find the optimal Envoy configuration given their workload's resiliency and...",
+          "student_name": "Dhruv P",
+          "code_url": "https://github.com/dhruv0000/GSoC2021/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4923784972206080/"
+        },
+        {
+          "title": "Merge Crossplane/OAM-Runtime with KubeVela by specify version",
+          "short_description": "Open Application Model [OAM] is a runtime-agnostic specification for defining cloud native applications and enabling building app-centric platforms...",
+          "student_name": "Yeshuai Cui",
+          "code_url": "https://docs.google.com/spreadsheets/d/13Upxx4Awq6ugue_jrw1yrddV7x5BF1FZBFe8geMppNA/edit#gid=0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4932644952866816/"
+        },
+        {
+          "title": "Develop in-toto-rs (Rust) for integration with rebuilderd",
+          "short_description": "Description: rebuilderd is a verification system for binary packages. It repeats the build process of a package in an identical environment and...",
+          "student_name": "Qijia \u201cJoy\u201d Liu",
+          "code_url": "https://coda.io/@joy/2021-gsoc-story",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5981808222535680/"
+        },
+        {
+          "title": "OpenEBS: Update mount-points and capacity of Block Devices without restarting NDM",
+          "short_description": "The Node Disk Manager (NDM) daemonset runs on every node in the Kubernetes cluster, discovers and monitors various storage devices connected to the...",
+          "student_name": "Z0marlin",
+          "code_url": "https://gist.github.com/z0marlin/84c5c53d82d2972c90dd8fe50ebc6f99",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6293801156476928/"
+        },
+        {
+          "title": "Automated, Granular TLS client support in Thanos",
+          "short_description": "Thanos Querier component supports basic TLS configuration for internal gRPC communication. This works great for basic use cases but it still requires...",
+          "student_name": "Naman Lakhwani",
+          "code_url": "https://github.com/Namanl2001/me/blob/master/content/posts/202108-google-summer-of-code-2021.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6304273729585152/"
+        },
+        {
+          "title": "Smart automation for project documentation and website",
+          "short_description": "This project aims to build and implement mdox, a documentation automation CLI tool, which can keep project documentation completely up-to-date by...",
+          "student_name": "Saswata Mukherjee",
+          "code_url": "https://github.com/bwplotka/mdox",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5145457193385984/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/cncf/",
+      "num_projects": 16,
+      "projects": [
+        {
+          "title": "in-toto: DSSE Implementation",
+          "short_description": "in-toto framework generates metadata files that are represented as signature wrapper or envelope. in-toto current signature wrapper requires...",
+          "student_name": "Pradyumna Krishna",
+          "code_url": "https://onpy.in/posts/gsoc-22/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ZdFFBdFT/"
+        },
+        {
+          "title": "Normalize TiKV Java client for TiSpark",
+          "short_description": "TiSpark maintains a com.pingcap.tikv/tikv-client module. It is a fork of the current official tikv-client legacy version. The difference from the...",
+          "student_name": "ZiJian Ren",
+          "code_url": "https://github.com/pingcap/tispark/pull/2491",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4AOvJGmH/"
+        },
+        {
+          "title": "Implement WASI and wasmedge_process host functions on Windows",
+          "short_description": "WebAssembly has become extremely popular among the developer community lately. It offers near native performance in a browser and is meant to not be...",
+          "student_name": "Abhinandan Udupa",
+          "code_url": "https://github.com/WasmEdge/WasmEdge/issues/1477",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/YRfj0fIn/"
+        },
+        {
+          "title": "RPC cross different namespaces through unix socket",
+          "short_description": "The chaos-daemon component of Chaos Mesh manages many subprocesses to inject faults into other containers(Linux namespaces), and we need to...",
+          "student_name": "shouxunsun",
+          "code_url": "https://github.com/chaos-mesh/chaos-mesh/issues/3437",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dFZyvm9F/"
+        },
+        {
+          "title": "Standardize Cache Flag options for pack CLI",
+          "short_description": "Introduce a new variadic flag to the Pack CLI that enables configuring different cache types geared towards app developers or operators that are...",
+          "student_name": "Nitish Gupta",
+          "code_url": "https://medium.com/@imnitish.ng/gsoc-2022-with-cncf-final-report-4bb2522d462a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/69nLAdPo/"
+        },
+        {
+          "title": "A Grafana Dashboard Plugin to Observe Controller Metrics",
+          "short_description": "This project aims to provide unified Grafana dashboards to visualize K8s controller/operator status based on Kubebuilder. In general, users have to...",
+          "student_name": "Tianyi(Tony)",
+          "code_url": "https://thouse.vercel.app/works/kb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ea988u8M/"
+        },
+        {
+          "title": "Add SLSA provenance support to in-toto-rs and rebuilderd",
+          "short_description": "Rebuilderd is a verification system for binary packages. It repeates the build process of a package in an identical environment and verifies that the...",
+          "student_name": "Lenery Chen",
+          "code_url": "https://github.com/in-toto/in-toto-rs/issues/35",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/EPuhVLxp/"
+        },
+        {
+          "title": "New Golang plugin to help Operator authors skill up",
+          "short_description": "This proposal defines a new plugin that allows users to get the scaffold with the required code to have a project that will deploy and manage an...",
+          "student_name": "Nikhil Sharma",
+          "code_url": "https://docs.google.com/document/d/e/2PACX-1vRvu8wjBTWorgL9vtEYa_uj0g_STUSJKSJ6yCwdB7uXR9cYmpYor5lFJwQI9sKnKo2Tkwb2U6IJ4SVB/pub",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/kRFUZGhU/"
+        },
+        {
+          "title": "Single binary deployment outside kubernetes environment.",
+          "short_description": "Chaos Mesh supports injecting errors into the physical machine through PhysicalMachineChaos. However, deploying it outside the Kubernetes cluster is...",
+          "student_name": "Basit Hasan",
+          "code_url": "https://github.com/chaos-mesh/chaos-mesh/issues/3746",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/yKOpuIZh/"
+        },
+        {
+          "title": "Tooling to deploy and cross-configure cert-manager with external dependencies by Terraform",
+          "short_description": "Design and create Terraform modules framework that is benefit to extension and reusability to easily install and configure cert-manager, associated...",
+          "student_name": "Zhe Cheng",
+          "code_url": "https://gist.github.com/lonelyCZ/803a7ad65e3396a8e0ff4060b0731b1d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/DaL4hA2U/"
+        },
+        {
+          "title": "KubeArmor Observability and Policy Discovery Helper Tool",
+          "short_description": "Running Kubernetes should be done with the utmost security in mind. KubeArmor provides a policy based system to increase the quality of security in a...",
+          "student_name": "Nathaniel Jason",
+          "code_url": "https://docs.google.com/spreadsheets/d/1l-WZiklEYrh_gReJgLVEavl11x2CQt8vivJURKgV1RE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/rmHL0Mcl/"
+        },
+        {
+          "title": "CNCF Cluster: Performance Benchmarking",
+          "short_description": "The Service Mesh Performance standard captures and characterizes infrastructure capacity, service mesh configuration, and workload metadata. When we...",
+          "student_name": "Aaditya Narayan Subedy",
+          "code_url": "https://github.com/asubedy/GSoC-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GRLPhiag/"
+        },
+        {
+          "title": "CoreDNS: Add ACME protocol support for certificate management into TLS plugin",
+          "short_description": "When using CoreDNS to serve DNS traffic over TLS/HTTPS certificates have to be managed (created and renewed) manually. The goal of my project is to...",
+          "student_name": "Marius Kimmina",
+          "code_url": "https://github.com/mariuskimmina/coredns-tlsplus",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/R8SxC38F/"
+        },
+        {
+          "title": "Implementing TAP(TUF Augmentation Proposal) 14 for python\u2019s reference implementation",
+          "short_description": "Implementing version management for TUF\u2019s python reference implementation. The implementation does not currently have a way to migrate TUF...",
+          "student_name": "Abhisman Sarkar",
+          "code_url": "https://github.com/abs007/GSoC-2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/k9PsrJcs/"
+        },
+        {
+          "title": "in-toto:  Add provenance extension to Jenkins plugin",
+          "short_description": "In-toto is a framework designed to protect software supply chain integrity. It provides security against attackers who can get control of a step in...",
+          "student_name": "Lakshya Gupta",
+          "code_url": "https://github.com/lakshya8066/Blogs/blob/main/GSoC-2022.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/mR4u5su7/"
+        },
+        {
+          "title": "Expand Service Mesh Patterns catalog",
+          "short_description": "Create a centralized catalog of Patterns, WebAssembly filters and eBPF programs which let's the user import, edit and deploy patterns.The Service...",
+          "student_name": "Yash Kamboj",
+          "code_url": "https://github.com/meshery/meshery/tree/meshery-ui-restructuring",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/JUonri8T/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/cncf",
+      "num_projects": 14,
+      "projects": [
+        {
+          "title": "Support OpenMetrics _created timestamp in Prometheus",
+          "short_description": "The proposal consists in treating the time series creation time as another metadata. We propose a few incremental improvements that can be released...",
+          "student_name": "Arthur Sens",
+          "code_url": "https://www.arthursens.dev/posts/created-timestamps",
+          "proposal_id": "E48XhUFa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/pmQsJm1C"
+        },
+        {
+          "title": "Add Support for SQL Database Storage in CurveBS",
+          "short_description": "CurveBS currently use etcd as metadata storage but etcd has limited scalability, and the amount of metadata that can be stored is limited.So i plan...",
+          "student_name": "Bokai Jia",
+          "code_url": "https://github.com/bit-dance/GSoC_Final_Report",
+          "proposal_id": "ScDiLVhf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/uEZfWgBc"
+        },
+        {
+          "title": "Enhancements for Dockerfiles",
+          "short_description": "Build out samples and workflows showing how to use Dockerfiles in harmony with a cloud native buildpacks platform. Need to update the pack...",
+          "student_name": "Darshan Kumar",
+          "code_url": "https://github.com/buildpacks/pack/pull/1791",
+          "proposal_id": "2jEBM1sG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OL9wVCop"
+        },
+        {
+          "title": "Dataplane migration for Apache Kafka communications: Leveraging Java19\u2019s Project Loom.",
+          "short_description": "Overview: In the current scenario, the Knative Eventing Kafka Broker's data-plane communication with Apache Kafka for consuming and producing records...",
+          "student_name": "Debasish Biswas",
+          "code_url": "https://gist.github.com/debasishbsws/5b32514a96c3c516d12e40b26ae019ea",
+          "proposal_id": "32EhuB0J",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BHsUqzLn"
+        },
+        {
+          "title": "Kubebuilder phase 2 plugin",
+          "short_description": "The introduction of external plugin extends the functionality of the Kubebuilder CLI tool by allowing users to create and use custom plugins. These...",
+          "student_name": "Eileen Yu",
+          "code_url": "https://github.com/Eileen-Yu/Eileen-Yu/blob/main/stories/Empowering%20Kubebuilder%3A%20My%20GSoC%202023%20Journey%20with%20Phase%202%20Plugin.md",
+          "proposal_id": "phjike3f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/N5cWUVl7"
+        },
+        {
+          "title": "Jaeger: Make ClickHouse a core storage backend",
+          "short_description": "This project aims at leveraging the current community jaeger-clickhouse storage plugin and making ClickHouse one of the core storage backend for...",
+          "student_name": "Ha Anh Vu",
+          "code_url": "https://docs.google.com/document/d/18OlFF7u0C9Fn25If_M6gEWHghJ1GNtWIL9I1vUrq9HQ/edit?usp=sharing",
+          "proposal_id": "T3clxfRe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/rydbL7aP"
+        },
+        {
+          "title": "GitHub Actions for KubeArmor",
+          "short_description": "Our goal is to create a Github Action from KubeArmor, which will be used by other Github projects. This Github Action, using KubeArmor, will be used...",
+          "student_name": "Haiyu Zuo",
+          "code_url": "https://github.com/zhy76/GSoC-2023-CNCF-Report",
+          "proposal_id": "AxyimrmD",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0EWL96Fd"
+        },
+        {
+          "title": "Conmon-rs support for podman",
+          "short_description": "Running containers with podman using conmon-rs as the container monitor. This requires additional features to be implemented in conmon-rs and an...",
+          "student_name": "mgjm",
+          "code_url": "https://link.mgjm.de/gsoc-2023",
+          "proposal_id": "p6udpQcU",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/xwEB63cl"
+        },
+        {
+          "title": "Streamlined OpenFeature Enhancement Proposal Process",
+          "short_description": "Streamlining the OFEP process for enhancing community engagement through automation scripts by doing almost everything they can, from creating...",
+          "student_name": "none_24",
+          "code_url": "https://docs.google.com/document/d/1qQI2xe5bJfYz_sXodBi2iqPyYKNJaRtJTNnc1wBy0rk/edit?usp=sharing",
+          "proposal_id": "NUKj6v6O",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/BuyO59lV"
+        },
+        {
+          "title": "Timeframe for Metrics",
+          "short_description": "Currently, the Metrics Controller in the Keptn Lifecycle Toolkit only allows querying a single value per metric. This project will enable users to...",
+          "student_name": "Rakshit Gondwal",
+          "code_url": "https://github.com/rakshitgondwal/gsoc-2023/blob/main/README.md",
+          "proposal_id": "G4MKYKuJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/e7z3n3kH"
+        },
+        {
+          "title": "Falco: Web IDE for Security Rules with WebAssembly",
+          "short_description": "This project aims to improve Falco's capabilities by adding WebAssembly as a new officially-supported compilation target. The objective is to create...",
+          "student_name": "Rohith Raju",
+          "code_url": "https://github.com/Rohith-Raju/Gsoc-2023",
+          "proposal_id": "YHV6IoyS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/urIdU9OC"
+        },
+        {
+          "title": "Kubectl plugin for Armada",
+          "short_description": "The proposal deals with the problem of the creation of a kubectl plugin for Armada, the creation of the desired plugin will allow users to...",
+          "student_name": "Shivang Shandilya",
+          "code_url": "https://github.com/ShivangShandilya/GSoC-2023",
+          "proposal_id": "UZU64Upd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tQdgYCVe"
+        },
+        {
+          "title": "Prototyping Support for Content Addressable Systems like IPFS in TUF",
+          "short_description": "The TUF specification provides explicit guidelines for how artifacts should be hashed and later verified to guarantee their integrity. However,...",
+          "student_name": "Shubham Nazare",
+          "code_url": "https://gist.github.com/shubham4443/dcbdf72d3311f4e709fbe02a89d0b8c9",
+          "proposal_id": "KDKv1yZY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vT5PhNL0"
+        },
+        {
+          "title": "IDE Plugins for editing vela applications",
+          "short_description": "One possible way to use the Kubernetes API to connect to the KubeVela Control Plane in the background and fetch the required information like...",
+          "student_name": "Swastik Gour",
+          "code_url": "https://gist.github.com/swastik959/913bdca221f6f4c5283c4104846d834b",
+          "proposal_id": "JOAe9Ocr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ne8pFt1F"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/cncf/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Kubernetes Gateway API: Design and develop notification mechanism for ingress2gateway.",
+          "short_description": "Ingress2gateway is a tool to help users migrate and convert Ingress, and implementation-specific configurations to Gateway API. As we add more...",
+          "student_name": "Devaansh Kumar",
+          "code_url": "https://gist.github.com/Devaansh-Kumar/4778e5bb3c61d4c16a20202b5f77aac7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OI4PBxPR/"
+        },
+        {
+          "title": "Move out of gogo/protobuf to protobuf with vtproto implementation",
+          "short_description": "We propose transitioning from the deprecated gogo/protobuf to Vitess's vtproto as part of an effort to modernize Prometheus's codebase. The migration...",
+          "student_name": "tonyli233",
+          "code_url": "https://github.com/prometheus/prometheus/pull/14904",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/s9tV51nw/"
+        },
+        {
+          "title": "Building a KubeArmor Extension for Rancher Manager",
+          "short_description": "This project aims to create a user-friendly way to manage essential KubeArmor security functions from within the Rancher Manager interface. This will...",
+          "student_name": "Krish Aryan",
+          "code_url": "https://github.com/kubearmor/rancherui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XjxF687O/"
+        },
+        {
+          "title": "Improving WASM Support in Knative Functions",
+          "short_description": "In a single Knative Functions command, we aim to abstract the entire process of building serverless functions using WebAssembly (WASM)\u2014from compiling...",
+          "student_name": "Zoey_Hong",
+          "code_url": "https://gist.github.com/iam-zoey/d8cf00ee7bf130b20c288ffb30804938",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mlXZWw0L/"
+        },
+        {
+          "title": "Open Cluster Management: Scheduling AI workload in multi-clusters",
+          "short_description": "Enhance Open Cluster Management (OCM) to efficiently schedule AI workloads across multiple Kubernetes clusters by optimizing the use of GPU/TPU...",
+          "student_name": "Zhe Shen",
+          "code_url": "https://github.com/z1ens/GSoC-2024_CNCF_Final_Report.git",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Em6whXe4/"
+        },
+        {
+          "title": "Implementing Coredump for Post-Mortem Debugging in WebAssembly",
+          "short_description": "This project aims to implement wasm-coredump, to enhance the debugging capabilities of WebAssembly by implementing a coredump feature for post-mortem...",
+          "student_name": "Siddharth Tewari",
+          "code_url": "https://github.com/WasmEdge/WasmEdge/pull/3521",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/yHmXWpEL/"
+        },
+        {
+          "title": "KubeArmor: Automating Benchmarking Workflow",
+          "short_description": "The project aims to develop an automated benchmarking system for KubeArmor to enhance the efficiency and repeatability of performance evaluations. By...",
+          "student_name": "Shubh Gaur",
+          "code_url": "https://gist.github.com/sratslla/0cb5f82a6d5b31bdf2206a2ad916c037",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aQ2NgLoN/"
+        },
+        {
+          "title": "Service Mesh Performance",
+          "short_description": "The Objective of this project is to develop IDE plugins that can enhance the developer experience while working with Service Mesh Performance...",
+          "student_name": "ShlokMishra",
+          "code_url": "https://github.com/meshery/meshery/pulls?q=is%3Apr+author%3AJougan-0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/feKg4GCh/"
+        },
+        {
+          "title": "CNCF GOSST Collaboration - Enhancing Security Across CNCF Ecosystem",
+          "short_description": "The Cloud Native Computing Foundation (CNCF) hosts a diverse ecosystem of cloud-native projects. Ensuring the security of these projects is paramount...",
+          "student_name": "Harshita Sao",
+          "code_url": "https://docs.google.com/document/d/1-mRsPKzXPQBeDRsAGjzpMqdEfm6W4IsaX-L3DTOVfSI/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/58vdBYb3/"
+        },
+        {
+          "title": "Falco: Upgrading event-generator and automating Falco performance testing",
+          "short_description": "This project aims to upgrading the event-generator to improve its testing and bench-marking capabilities, its reliability, and its consistency, and...",
+          "student_name": "GLVS Kiriti",
+          "code_url": "https://github.com/GLVSKiriti/GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/CmNUKI2a/"
+        },
+        {
+          "title": "Prometheus: Continued support for created timestamps",
+          "short_description": "This project aims to advance the support for _created lines, or Created Timestamps, in Prometheus. Building on the groundwork laid during GSoC 2023...",
+          "student_name": "Manik Rana",
+          "code_url": "https://docs.google.com/document/d/1FufFdOX2z_8NqX1Jofi4gzx77JA2pRq49iR6OHUi0zE/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OldSbeUU/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/cncf",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Real-Time Policy Evaluation in Meshery UI using OPA WebAssembly",
+          "short_description": "Abstract: This proposal outlines a plan to enhance Meshery's relationship evaluation capabilities by implementing client-side policy evaluation using...",
+          "student_name": "Aabid Ali",
+          "code_url": null,
+          "proposal_id": "lsBrNb6O",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2aGkn4JN"
+        },
+        {
+          "title": "Automating Benchmarking of KubeStellar Data-Plane for AI Workloads",
+          "short_description": "Problem: KubeStellar (KS) lacks an automated system to measure and visualize data-plane performance (e.g., sync latencies) under AI workloads, making...",
+          "student_name": "Asmit Kumar Rai",
+          "code_url": null,
+          "proposal_id": "ne9hctjG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6P4Ds9En"
+        },
+        {
+          "title": "Allow Kubewarden Policies to be Written using JavaScript",
+          "short_description": "Kubewarden is a universal policy engine for Kubernetes enabling policy-as-code. It allows users to define and enforce policies for their Kubernetes...",
+          "student_name": "Esosa Ohangbon",
+          "code_url": null,
+          "proposal_id": "tRkLWfUo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SFABJqNk"
+        },
+        {
+          "title": "Virtual filesystem security for WasmEdge plug-ins with exporting WASI APIs - Proposal",
+          "short_description": "This project aims to enhance the security of WasmEdge plug-ins by exporting key WASI APIs, thereby ensuring a robust and secure virtual filesystem...",
+          "student_name": "grorge",
+          "code_url": null,
+          "proposal_id": "817rVbuv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/N7m7gDib"
+        },
+        {
+          "title": "Knative: Functions AI Agent Callbacks",
+          "short_description": "This project aims to integrate AI agents with Knative Functions by developing tools for an MCP server that allows agents to dynamically create and...",
+          "student_name": "Kapil Sareen",
+          "code_url": null,
+          "proposal_id": "JdkGYb6z",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/llt9vHfu"
+        },
+        {
+          "title": "Simplified SPM deployment with ElasticSearch/OpenSearch for Jaeger",
+          "short_description": "Jaeger\u2019s Service Performance Management (SPM) currently requires a complex setup with a separate processor and Prometheus storage to compute RED...",
+          "student_name": "Minh Nguyen Dang",
+          "code_url": null,
+          "proposal_id": "7ctlcY5h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ZTLyi8dO"
+        },
+        {
+          "title": "Generic High-Performance Caching Library for etcd",
+          "short_description": "etcd is the \u201csource-of-truth\u201d database behind Kubernetes and many other cloud-native systems, but heavy LIST and WATCH traffic can slow it down....",
+          "student_name": "Peter Chang",
+          "code_url": null,
+          "proposal_id": "uvQr1JFf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/9A3Z5dv1"
+        },
+        {
+          "title": "Privacy-preserving and efficient AI model training across multi-cluster",
+          "short_description": "This project aims to enable AI training in a multi-cluster environment while ensuring data privacy through federated learning. In a multi-cluster...",
+          "student_name": "Shichao",
+          "code_url": null,
+          "proposal_id": "XwdBY62e",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mUzLWY6T"
+        },
+        {
+          "title": "Enhancements for RAG Chatbot for Vitess",
+          "short_description": "The current Vitess RAG chatbot which uses documentation, Slack discussions, and GitHub issues data, has low accuracy. This project aims to improve...",
+          "student_name": "sreehariX",
+          "code_url": null,
+          "proposal_id": "ojQI5YLr",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/FdTZdTRr"
+        },
+        {
+          "title": "Lima: Support for Virtual Machine Plugin Subsystem",
+          "short_description": "Lima(LInux MAchines) is a tool that helps to run Linux Virtual Machines on macOS and other hosts, with a focus on running containers on them with...",
+          "student_name": "unsuman_",
+          "code_url": null,
+          "proposal_id": "NmzkIsqi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/0L1g1OFW"
+        },
+        {
+          "title": "Kubebuilder: Automating Operator Maintenance - Driving Better Results with Less Overhead",
+          "short_description": "This project aims to create a GitHub Action similar to Dependabot for Kubebuilder, automating the process of regenerating scaffolds and preserving...",
+          "student_name": "Vitor Floriano",
+          "code_url": null,
+          "proposal_id": "UUryDq23",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j6huoI3v"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://slack.cncf.io",
+  "contact_email": "mailto:soc@cncf.io",
+  "mailing_list": "https://github.com/cncf/mentoring/discussions",
+  "ideas_url": "https://github.com/cncf/mentoring/blob/main/programs/summerofcode/2025.md",
+  "guide_url": "https://github.com/cncf/mentoring",
+  "twitter_url": "https://twitter.com/cloudnativefdn",
+  "blog_url": "https://www.cncf.io/newsroom/blog/"
+}

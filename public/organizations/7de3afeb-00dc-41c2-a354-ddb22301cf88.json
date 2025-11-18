@@ -1,0 +1,223 @@
+{
+  "name": "Dart",
+  "url": "https://dart.dev",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/dart/hsghljw4m6popf0x-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "mobile-apps",
+    "mobile apps",
+    "programming languages"
+  ],
+  "technologies": [
+    "flutter",
+    "dart",
+    "programming-language"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5806784012353536/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Generating Dart FFI bindings from C header Files",
+          "short_description": "Writing dart FFI bindings is cumbersome and prone to human error, especially across different versions. A tool that will generate dart bindings...",
+          "student_name": "Prerak Mann",
+          "code_url": "https://gist.github.com/mannprerak2/e4530e6566b35cb94f8f1b340970973a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6706610564497408/"
+        },
+        {
+          "title": "Multiple format support for intl_translation",
+          "short_description": "This project aims to implement multiple translation formats inside the intl_translation dart package. The main goals are to support the most used...",
+          "student_name": "JamesBlasco",
+          "code_url": "https://github.com/jamesblasco/intl_translation_format",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5725930045046784/"
+        },
+        {
+          "title": "Programmatic YAML Modification Package",
+          "short_description": "YAML is a human-friendly data serialization language often used in configuration files. The appeal of YAML as a configuration language can be linked...",
+          "student_name": "Garett Tok Ern Liang",
+          "code_url": "https://gist.github.com/walnutdust/05eab32720c759d0bf45e4f5d4299622",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4885965740441600/"
+        },
+        {
+          "title": "Platform Channel Sample App",
+          "short_description": "The samples repo in the flutter is a place where every Flutter enthusiast can find flutter examples on various topics from animation to state...",
+          "student_name": "Ayush Bherwani",
+          "code_url": "https://medium.com/flutter/platform-channel-examples-7edeaeba4a66",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6297877619408896/"
+        },
+        {
+          "title": "Flutter Testing Sample App",
+          "short_description": "The main aim of the project is to provide a sample application with testing techniques following the best practices for testing in Flutter. I would...",
+          "student_name": "Abdullah Deshmukh",
+          "code_url": "https://link.medium.com/KXwEMi3Wl9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5220474939768832/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6522063568764928/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Flutter Desktop Tool",
+          "short_description": "The main aim of the project is to build a desktop tool that demonstrates how to build desktop apps using Flutter and at the same time be of some use...",
+          "student_name": "Abdullah Deshmukh",
+          "code_url": "https://link.medium.com/Pd5G19IUVib",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5085568169410560/"
+        },
+        {
+          "title": "Building a Cronet-based HTTP package in Dart",
+          "short_description": "In this project, We\u2019ll create an HTTP library that uses cronet (Chromium\u2019s network stack) under the hood providing better performance, access to...",
+          "student_name": "Soumyadip Mondal",
+          "code_url": "https://unsuitable001.medium.com/package-cronet-an-http-dart-flutter-package-with-dart-ffi-84f9b69c8a24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5284908305481728/"
+        },
+        {
+          "title": "SPDX license detection package",
+          "short_description": "According to Wikipedia there are over 180,000 open-source projects and 1400 unique open-source licenses. Not every license offers the same set of...",
+          "student_name": "BHARAT BIRADAR",
+          "code_url": "https://github.com/dart-lang/pana/pull/950",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4840312115036160/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/dart/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Compatibility Analysis: Detecting Semantic Version Violations",
+          "short_description": "This project aims to summarise the public API of a given Dart library by harnessing existing static analysis capabilities of the analyzer package,...",
+          "student_name": "Arseny Uskov",
+          "code_url": "https://arseny.uk/posts/gsoc2022/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GAEvDkrP/"
+        },
+        {
+          "title": "JNI Interop for Dart",
+          "short_description": "This project aims to develop a JNI interop package, which allows to access Java APIs (on Both Android and JVM) from Dart code, and a wrapper...",
+          "student_name": "Mahesh Hegde",
+          "code_url": "https://gist.github.com/mahesh-hegde/8ab32fb2f7522458e9d196690b102b3a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/cfMyek57/"
+        },
+        {
+          "title": "Flutter Community Admin Dashboard",
+          "short_description": "The Flutter Community provides several packages to the community and pub. dev that all differ in regards to maintenance requirements. The Flutter...",
+          "student_name": "Abdelrahman Amer",
+          "code_url": "https://github.com/fluttercommunity/admin_dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/3VtQj1eI/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/dart",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Build a Dart HTTP client using Java APIs",
+          "short_description": "Create a new HTTP client for the Dart programming language that conforms to the package:http Client interface and uses native Java HTTP APIs through...",
+          "student_name": "Alex James",
+          "code_url": "https://github.com/alex-james-dev/gsoc-2023-report",
+          "proposal_id": "jexxNeUl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/NKUQqmSA"
+        },
+        {
+          "title": "Refactor Plus packages to utilize new Dart 3 language features - Kavan Desai",
+          "short_description": "As the Dart community has the latest Dart 3 alpha release version, the flutter community's plus plugin needs to get upgraded with the Dart 3 new...",
+          "student_name": "Kavan Devangbhai Desai",
+          "code_url": "https://github.com/KAVAN-DESAI/Google_Summer_of_Code-2023-Dart/blob/main/README.md",
+          "proposal_id": "CZMMmxqg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cyvgP38Y"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/dart/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Testing documentation comments",
+          "short_description": "This project aims to create the dartdoc_test package, which is designed to enhance the quality of Dart code samples. By analyzing and testing code...",
+          "student_name": "Takuma Ichikawa",
+          "code_url": "https://github.com/google/dart-neats/tree/d91af605f4543fc5a460cabf05552a0f3cf60b1f/dartdoc_test",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/wFwfXWYb/"
+        },
+        {
+          "title": "Swift/ObjC compatibility tool",
+          "short_description": "Dart can interact with Swift modules annotated with @objc annotation. If a user wants to interact with an unannotated Swift module (that they don\u2019t...",
+          "student_name": "Mohammad3id",
+          "code_url": "https://medium.com/@mohammad.mossad.eid/swift2objc-more-convenient-swift-dart-interoperability-b152dd5bed13",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KaYsNNLP/"
+        },
+        {
+          "title": "FFIgenpad",
+          "short_description": "A web interface in which you paste a C header in a textbox on the left, and it outputs dart:ffi bindings generated by package:ffigen in a textbox on...",
+          "student_name": "TheComputerM",
+          "code_url": "https://github.com/dart-lang/native/pull/1390",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/NDTqal0i/"
+        },
+        {
+          "title": "Creating an HTTP Client using Dart Bindings from OkHttp",
+          "short_description": "A Flutter plugin that integrates the OkHttp package (https://square.github.io/okhttp/) using the Dart Bindings from the package:jnigen and implements...",
+          "student_name": "Anikate De",
+          "code_url": "https://github.com/Anikate-De/gsoc-2024-project-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Z3ITwjVk/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/dart",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Test Generation using LLM",
+          "short_description": "This project aims to automate test generation for Dart code using Large Language Models (LLMs). It will integrate package:coverage, static code...",
+          "student_name": "Amr Ahmed",
+          "code_url": null,
+          "proposal_id": "Cqu8usMo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Qt2Y3P9X"
+        },
+        {
+          "title": "Dart TUI framework",
+          "short_description": "This project aims to develop a Text-based User Interface (TUI) framework for Dart, addressing the lack of a structured way to build interactive...",
+          "student_name": "Gedion Ezra",
+          "code_url": null,
+          "proposal_id": "3On2mFUT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QBEII4E2"
+        },
+        {
+          "title": "Secure Paste Custom Actions on iOS",
+          "short_description": "Secure Paste Custom Actions on iOS aims to resolve a major limitation in Flutter apps on iOS by enabling developers to add custom actions to the...",
+          "student_name": "Jing Shao",
+          "code_url": null,
+          "proposal_id": "JvI21hQE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lYoMRl7z"
+        },
+        {
+          "title": "Translate Java/Kotlin tutorial snippets into JNIgen-compatible Dart code using a LLM",
+          "short_description": "JNIgen enables the generation of Dart bindings for Java/Kotlin libraries, but writing equivalent Dart code to interact with these bindings remains...",
+          "student_name": "Marshelino_Maged",
+          "code_url": null,
+          "proposal_id": "zY9rxT3t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8F8TuxpG"
+        },
+        {
+          "title": "Generate JS Interop Bindings for TypeScript Declaration Files",
+          "short_description": "This project proposal is for the web_generator tool to parse TypeScript Type Declaration Files and generate valid Dart JS Interop code to call the...",
+          "student_name": "nikechukwu",
+          "code_url": null,
+          "proposal_id": "Xc0od2DR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/UQTIqgC9"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "",
+  "mailing_list": "https://groups.google.com/g/dart-gsoc",
+  "ideas_url": "https://github.com/dart-lang/sdk/blob/main/docs/gsoc/Dart-GSoC-2025-Project-Ideas.md",
+  "guide_url": "https://github.com/dart-lang/sdk/blob/main/docs/gsoc/Dart-GSoC-2025-Project-Ideas.md",
+  "twitter_url": "https://twitter.com/dart_lang",
+  "blog_url": "https://medium.com/dartlang"
+}

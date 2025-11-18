@@ -1,0 +1,78 @@
+{
+  "name": "MediaPipe",
+  "url": "https://mediapipe.dev",
+  "image_url": "https://lh3.googleusercontent.com/WRv3Ylxmbfpn_uG9BwUj5j3d6OqT3yavzflhOzFU1peN48OM9hGctXhKup2C1ansJiCm23WZ5pUe6oeUtn6Mn-OTpefqbTrATQfp9YpTAbHD",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "machine learning",
+    "computer vision",
+    "deep learning",
+    "real-time",
+    "ml-inference"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "android",
+    "c++",
+    "ios"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5917807371354112/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "MediaPipe Holistic in Unity",
+          "short_description": "In this project, I will be building a unity plugin that runs the MediaPipe Holistic model to do animation of a rigged 3D model as shown on this link....",
+          "student_name": "Pulkit Midha",
+          "code_url": "https://docs.google.com/document/d/14tj3YmT7rFY-IlOM0wDRcUVSG8pXQ7AzQyZVU3N7prs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5425226162110464/"
+        },
+        {
+          "title": "MediaPipe Cross-Platform Solution",
+          "short_description": "Creating a new cross-platform solution API from an open-sourced ML model so that developers can use the API to integrate an off-the-shelf MediaPipe...",
+          "student_name": "Aniket Ray",
+          "code_url": "https://blog.aniketiq.me/series/gsoc-mediapipe",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4725917103947776/"
+        },
+        {
+          "title": "Arabic Sign Language Recognition",
+          "short_description": "People with special-needs face a variety of different challenges and barriers that isolate them from their surroundings. Nowadays, several assistive...",
+          "student_name": "Ahmed Moorsy",
+          "code_url": "",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5757601702215680/"
+        },
+        {
+          "title": "Inference Latency Estimator with Ensemble of Regression Models",
+          "short_description": "Build a offline TFLite GPU inference latency estimator with ensemble of regression models",
+          "student_name": "Jiyeon Lee",
+          "code_url": "https://jiyeoon.github.io/GSOC_Log/about.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5928655183675392/"
+        },
+        {
+          "title": "Build an open-source realtime web video effects app",
+          "short_description": "MediaPipe fills the gap of handling the implementation of models for different systems and allows the developers to focus more on experimentation...",
+          "student_name": "Pinku Deb Nath",
+          "code_url": "https://prantoran.me/2021/08/22/gsoc-mediapipe-video-effects-app",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6265148423012352/"
+        },
+        {
+          "title": "Efficient Realistic Image Manipulation",
+          "short_description": "In our work, we aim to research, implement and integrate a method that is capable of real-time manipulation of faces on mobile devices like changing...",
+          "student_name": "Daniil Pakhomov",
+          "code_url": "https://segmentation-in-style.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5160229028757504/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://app.slack.com/client/T012J2XNN4B/C01QRC74YE6/thread/C01QRC74YE6-1617375202.000600",
+  "contact_email": "mailto:mediapipe+gsoc@google.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/mediapipe",
+  "blog_url": "https://developers.googleblog.com/search/label/MediaPipe"
+}

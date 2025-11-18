@@ -1,0 +1,560 @@
+{
+  "name": "Blender Foundation",
+  "url": "https://www.blender.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/blender-foundation/vdfgx9yyygdjjvym-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "games",
+    "3d",
+    "rendering",
+    "animation",
+    "tools",
+    "graphics",
+    "vfx",
+    "modeling",
+    "simulation",
+    "virtual reality",
+    "artist tools",
+    "3d tools",
+    "3d animation"
+  ],
+  "technologies": [
+    "c",
+    "python",
+    "opengl",
+    "c++",
+    "opencl",
+    "vulkan"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6317853942743040/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Layer Manager",
+          "short_description": "An improved layer management system that adds industry standard features for organizing display of scene content Blender. This includes the ability...",
+          "student_name": "Severin",
+          "code_url": "https://wiki.blender.org/index.php/User:Julianeisel/GSoC-2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6406819358441472/"
+        },
+        {
+          "title": "Blender Mantaflow Integration: Single Code Fluid Solver",
+          "short_description": "Liquids and smoke are both fluids and share properties. It therefore makes sense to have one single fluid solver in Blender which handles all fluid...",
+          "student_name": "sebbas",
+          "code_url": "https://wiki.blender.org/index.php/User:Sebbas/GSoC_2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6446945761492992/"
+        },
+        {
+          "title": "Multi-view Reconstruction with Witness Camera for Blender",
+          "short_description": "The estimation of camera motion plays an important role in visual effects (VFX) industry, which enables the interaction between the virtual and the...",
+          "student_name": "tianwei37",
+          "code_url": "http://hlzz.github.io/blender3/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6588179184353280/"
+        },
+        {
+          "title": "Improvements for Bezier Curves",
+          "short_description": "Most architectural and engineering projects nowadays involve a strong part of surface modeling. To do this kind of modeling objects like Bezier or...",
+          "student_name": "Jo\u00e3o Ara\u00fajo",
+          "code_url": "https://wiki.blender.org/index.php/User:Genio84/gsoc2016/reports#Final_reports",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5039885886947328/"
+        },
+        {
+          "title": "Implementing a Denoising Filter in Cycles",
+          "short_description": "The goal of this project is to implement an optional denoising step in Cycles, which would be executed between the actual pathtracing and the...",
+          "student_name": "Lukas Stockner",
+          "code_url": "https://wiki.blender.org/index.php/User:Lukasstockner97/GSoC_2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4588777955655680/"
+        },
+        {
+          "title": "UV Tools",
+          "short_description": "As someone who uses Blender as his main tool on a daily basis I know just how cabale Blenders UV Editor is ...But I also know about its shortcomings...",
+          "student_name": "SaphireS",
+          "code_url": "https://wiki.blender.org/index.php/User:SaphireS/gsoc2016/finalreport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6041636006002688/"
+        },
+        {
+          "title": "P-BVH enhanced vertex painting",
+          "short_description": "Vertex painting is an essential part of 3D animation, especially in Blender. Often used in skin weighting, vertex painting provides an intuitive way...",
+          "student_name": "Nathan Vollmer",
+          "code_url": "https://developer.blender.org/D2150",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5900898517647360/"
+        },
+        {
+          "title": "Cycles: Texture system improvements and better user feedback",
+          "short_description": "This project is about improving Cycles' texture system on CPU and GPU, by removing limitations and making it more memory efficient. Furthermore the...",
+          "student_name": "DingTo",
+          "code_url": "https://wiki.blender.org/index.php/User:DingTo/GSoC_2016/User_Documentation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5211918117634048/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6461479528169472/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improvement of Vertex Painting",
+          "short_description": "Currently the vertex painting lacks the features like vertex masking, don\u2019t have many blend options, color choice is only limited to rgb and not to...",
+          "student_name": "Darshan Kadu",
+          "code_url": "https://wiki.blender.org/index.php/User:Darshan/GSoC2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6715177072328704/"
+        },
+        {
+          "title": "Sculpting Tool Improvements",
+          "short_description": "Improve the sculpting tools by adding a silhouette brush and other minor improvements to the toolset. Giving the sculptor the freedom to add and...",
+          "student_name": "Sebastian Witt",
+          "code_url": "https://wiki.blender.org/index.php/User:Witt/GSoC2017/Reports/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5680240546283520/"
+        },
+        {
+          "title": "Normals Editing Tools",
+          "short_description": "A Normal Editing mode to facilitate editing of vertex normals with toolset to provide users an ability to manipulate normals of a mesh. This is...",
+          "student_name": "Rohan Rathi",
+          "code_url": "https://wiki.blender.org/index.php/User:RohanRathi/GSoC_2017/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6126827219189760/"
+        },
+        {
+          "title": "Fluid guiding and secondary particle systems",
+          "short_description": "In this project I would like to improve the existing Mantaflow integration by adding support for secondary particles and by implementing a novel...",
+          "student_name": "sebbas",
+          "code_url": "https://wiki.blender.org/index.php/User:Sebbas/GSoC_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4771511365795840/"
+        },
+        {
+          "title": "Python Package Manager",
+          "short_description": "This project will add a package manager to Blender\u2019s current addon system with the goal of providing functionality similar to that found in Atom (the...",
+          "student_name": "gandalf3",
+          "code_url": "https://wiki.blender.org/index.php/User:Gandalf3/GSoC_2017/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4882716659023872/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6251240207941632/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Bevel Improvements",
+          "short_description": "The bevel modifier is widely used in modelling to chamfer edges and smoothen them out. Bevels are used to correct the shading of mesh, so as to make...",
+          "student_name": "Rohan Rathi",
+          "code_url": "https://wiki.blender.org/wiki//User:Rohanrathi/GSoC_2018/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6389001955049472/"
+        },
+        {
+          "title": "Blender NPR Line Rendering Improvement",
+          "short_description": "To improve blender's NPR line rendering for stylized image generation, such as manga-styled animation. The main target is to greatly improve the...",
+          "student_name": "Yiming Wu",
+          "code_url": "http://www.wellobserve.com/#!NPR/2018Summer/Conclusion.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6219263236898816/"
+        },
+        {
+          "title": "Many Light Sampling",
+          "short_description": "This project will implement the following paper, \"Importance Sampling of Many Lights with Adaptive Tree Splitting\" by Alejandro Conty and Christopher...",
+          "student_name": "Erik Englesson",
+          "code_url": "https://wiki.blender.org/wiki/User:Erikenglesson/GSoC_2018/Reports/WorkProduct/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5921713137123328/"
+        },
+        {
+          "title": "Further Development for Cycles' Volume Rendering",
+          "short_description": "Traditionally, solid objects are represented as meshes: a set of vertices, edges, and faces. This interpretation of real-life objects into 3D space...",
+          "student_name": "Geraldine Chua",
+          "code_url": "https://wiki.blender.org/wiki/User:Gskchua/GSoC2018/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6266351580610560/"
+        },
+        {
+          "title": "Implementing a Hair Shader for Cycles",
+          "short_description": "Realistic hair or fur is essential when creating a plausible virtual world. In feature animation, this is often used to define the signature look of...",
+          "student_name": "L. E. Segovia (amyspark)",
+          "code_url": "https://developer.blender.org/T54796#525053",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6280192850919424/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4524507157495808/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Bevel Custom Profiles",
+          "short_description": "The bevel modifier is extremely powerful, but there is constantly a list of requested improvements that could expand its use case and speed up the...",
+          "student_name": "Hans Goudey",
+          "code_url": "https://wiki.blender.org/wiki/User:HooglyBoogly/GSoC2019/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6426308341399552/"
+        },
+        {
+          "title": "Cloth Simulator Improvement",
+          "short_description": "Blender has had a cloth simulator for quite a while now. It is based on a system that now needs\nmajor changes.\nA lot of research has been done in...",
+          "student_name": "Ish Hitesh Bosamiya",
+          "code_url": "https://wiki.blender.org/wiki/User:Ishbosamiya/GSoC2019/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5399232209485824/"
+        },
+        {
+          "title": "Outliner Improvements",
+          "short_description": "With an increased focus on the outliner in Blender 2.8x, many improvements could be implemented to increase the outliner's usability. Synced...",
+          "student_name": "Nathan Craddock",
+          "code_url": "https://wiki.blender.org/wiki/User:Zachman/GSoC2019/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5416561530109952/"
+        },
+        {
+          "title": "Improve Cycles/EEVEE For Procedural Content Creation",
+          "short_description": "The project hopes to refactor and add Cycles/EEVEE nodes to improve the workflow of technical/shading artists. This is done by providing; more...",
+          "student_name": "Omar Ahmad",
+          "code_url": "https://developer.blender.org/T68823",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5037979842641920/"
+        },
+        {
+          "title": "Continued development on LANPR engine for Blender",
+          "short_description": "LANPR is a fast and accurate 3D NPR feature line rendering engine developed for Blender 2.8 NPR branch. This project is aimed to complete the...",
+          "student_name": "Yiming Wu",
+          "code_url": "https://wiki.blender.org/wiki/User:Yiming/GSoC2019/Summary",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4618006666149888/"
+        },
+        {
+          "title": "Core Support of Virtual Reality Headsets through OpenXR",
+          "short_description": "Implementation of core features needed for XR (virtual, augmented and mixed reality) headsets via the new OpenXR specification (currently in...",
+          "student_name": "Julian Eisel",
+          "code_url": "https://wiki.blender.org/wiki/User:Severin/GSoC-2019/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6310655743754240/"
+        },
+        {
+          "title": "Intel Embree BVH for GPU",
+          "short_description": "Nobody likes waiting for hours whilst blender is busy rendering. Cycle, one of the render engine of blender, is a heavy user of ray-tracing. The...",
+          "student_name": "Quentin MATILLAT",
+          "code_url": "https://wiki.blender.org/wiki/User:Qmatillat/GSoC2019/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5190984076361728/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4852657564418048/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Production Ready Many Light Sampling",
+          "short_description": "This project will continue development on the Many Light Sampling project from GSoC 2018. It will add support for importance sampling of more...",
+          "student_name": "Sam Kottler",
+          "code_url": "https://wiki.blender.org/wiki/User:Samkottler/GSoC2020/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5734927665987584/"
+        },
+        {
+          "title": "Continued Improvements to the Outliner",
+          "short_description": "This will be a continuation of the previous summer\u2019s Outliner Improvements project. With selection now syncing between the outliner and other...",
+          "student_name": "Nathan Craddock",
+          "code_url": "https://wiki.blender.org/wiki/User:Zachman/GSoC2020/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5735262606327808/"
+        },
+        {
+          "title": "Editing Grease Pencil Strokes Using Curves",
+          "short_description": "Since the Blender 2.8 update, that introduced the Grease Pencil object type, there are a couple of primitives that can be added in the Grease Pencil...",
+          "student_name": "Falk David",
+          "code_url": "https://wiki.blender.org/wiki/User:Filedescriptor/GSoC_2020/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5468513495416832/"
+        },
+        {
+          "title": "Custom Menus",
+          "short_description": "The project goal is to add an editor menu for the quick favourites in the preferences and to give the possibilities to create more personal menu and...",
+          "student_name": "Alexia Legrand",
+          "code_url": "https://wiki.blender.org/wiki/User:Tempo/GSoC2020/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6149264033447936/"
+        },
+        {
+          "title": "Regression Testing Frameworks",
+          "short_description": "Testing is a nice-to-have tool/utility for developers to check for breaks in early stages of development cycle which is less expensive. Automated...",
+          "student_name": "Himanshi Kalra",
+          "code_url": "https://wiki.blender.org/wiki/User:HimanshiKalra/Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6220442009862144/"
+        },
+        {
+          "title": "Info Editor Improvements",
+          "short_description": "Show logs and debugs in info editor. Add UI features to make it comfortable to work with logs such as filtering, searching, enable/disable on the fly.",
+          "student_name": "Mateusz Grzeli\u0144ski",
+          "code_url": "https://wiki.blender.org/wiki/User:Grzelins/GSoC2020/Report#Details",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4669455767961600/"
+        },
+        {
+          "title": "Volumetric Soft Body Simulation",
+          "short_description": "Elastic deformation is an essential component of animation pipelines. Volumetric soft body simulation can be used to capture the complex details of...",
+          "student_name": "Matt Overby",
+          "code_url": "https://wiki.blender.org/wiki/User:Mattoverby/GSoC2020/mattoverby_final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4736546747449344/"
+        },
+        {
+          "title": "Liquid Simulation Display Options",
+          "short_description": "The goal of this project is to make the viewport more informative by adding options to visualise liquid simulation grids and improving existing fluid...",
+          "student_name": "Sriharsha Kotcharlakot",
+          "code_url": "https://wiki.blender.org/wiki/User:Sriharsha/GSoC2020/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6016737583038464/"
+        },
+        {
+          "title": "Improving IO performance for big files",
+          "short_description": "Among the 3D formats available, some are simple in theory, yet effective for a lot of different use cases and supported by a multitude of software in...",
+          "student_name": "Ankit Meel",
+          "code_url": "https://wiki.blender.org/wiki/User:Ankitm/GSoC_2020/Final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6002923122720768/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5672605809377280/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Curve Improvements",
+          "short_description": "Curves in blender have been subject to a number of user requests for improvement from several different aspects. One such request was a new tool that...",
+          "student_name": "Dilith Jayakody",
+          "code_url": "https://wiki.blender.org/wiki/User:Dilithjay/GSoC_2021/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5706701138821120/"
+        },
+        {
+          "title": "Regression Testing of Geometry Nodes",
+          "short_description": "Following the spirit of Everything Nodes in Blender, the project aims at developing a Testing Framework in place for the Geometry Nodes.  Geometry...",
+          "student_name": "Himanshi Kalra",
+          "code_url": "https://wiki.blender.org/wiki/User:HimanshiKalra/GSoC21/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4576362584604672/"
+        },
+        {
+          "title": "Blender - UV editor improvements",
+          "short_description": "This project aims at improving certain existing UV editor tools and also adding some new features to better support workflows involving UDIM...",
+          "student_name": "Siddhartha Jejurkar",
+          "code_url": "https://wiki.blender.org/wiki/User:Sidd017/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4730589390831616/"
+        },
+        {
+          "title": "Porting popular modifiers to Geometry Nodes",
+          "short_description": "For a long time, the modifier system was the main way to procedurally generate and modify 3D data in Blender. While modifiers can be stacked to...",
+          "student_name": "Fabian Schempp",
+          "code_url": "https://wiki.blender.org/wiki/User:Fabian_Schempp/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4830866575982592/"
+        },
+        {
+          "title": "Continued Development on Adaptive Cloth Simulator for Blender",
+          "short_description": "My GSoC project in 2019, on the Adaptive Cloth Simulator, was an exploration in adding support for parametric on-the-fly remeshing for Blender's...",
+          "student_name": "Ish Bosamiya",
+          "code_url": "https://wiki.blender.org/wiki/User:Ishbosamiya/GSoC2021/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6044661042380800/"
+        },
+        {
+          "title": "Video Sequence Editor Improvements - Individual strip previews and modification indicators",
+          "short_description": "The project focuses on the strips (video and image/sequence) in the video sequencer. The main goal is to add a preview of the clip in the...",
+          "student_name": "Aditya Jeppu",
+          "code_url": "https://wiki.blender.org/wiki/User:Quantimoney/GSoC2021/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4859236512694272/"
+        },
+        {
+          "title": "Blender Knife Tool Improvements",
+          "short_description": "This proposal aims to bring a selection of much needed improvements to the knife tool in Blender which will better the modelling workflow of the...",
+          "student_name": "Cian Jinks",
+          "code_url": "https://wiki.blender.org/wiki/User:HobbesOS/GSOC2021/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5906109021290496/"
+        },
+        {
+          "title": "Display simulation data for rigid bodies and cloth",
+          "short_description": "The project is about displaying data about the simulations in the view-port so that users and developers can easily understand what is going on. Data...",
+          "student_name": "Soumya",
+          "code_url": "https://wiki.blender.org/wiki/User:Forest/Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6325176798543872/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/blender-foundation/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "3D Text Usability Improvements",
+          "short_description": "The need for more easy-to-use features to edit text has been felt with the increased use of 3D text in blender. This project aims at enhancing the...",
+          "student_name": "yashdabhade",
+          "code_url": "https://wiki.blender.org/wiki/User:YashDabhade/GSoC2022/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/sGAaFNqJ/"
+        },
+        {
+          "title": "Integrating Many Lights Sampling into Cycles X",
+          "short_description": "The Many Lights Sampling project has been a long-standing project over the course of Blender\u2019s development. It is meant to improve Cycles render...",
+          "student_name": "Jebbly",
+          "code_url": "https://wiki.blender.org/wiki/User:JeffreyLiu/GSoC2022/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Yxzsywh0/"
+        },
+        {
+          "title": "Soft Bodies Simulation using Extended Position-Based Dynamics (XPBD)",
+          "short_description": "We are surrounded by deformable objects that can\u2019t be accurately simulated in Blender yet. It is proposed in this project to build a new solver that...",
+          "student_name": "Aarnav Dhanuka",
+          "code_url": "https://wiki.blender.org/wiki/User:AarnavDhanuka/GSoC2022/FinalReport",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/f4HjtVlV/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/blender-foundation",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Node preview in the shader editor",
+          "short_description": "The node previews in the shader editor had been removed when Eevee replaced the Internal render engine. This project \u2019s aim is to bring it back....",
+          "student_name": "Colin Marmond",
+          "code_url": "https://wiki.blender.org/wiki/User:ColinMarmond/GSoC_2023/Final_Report",
+          "proposal_id": "PjrYvxTx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/XE2KH2vE"
+        },
+        {
+          "title": "Improve Distributed Rendering & Task Execution under Flamenco.",
+          "short_description": "Summary from Official Website description: Last year Flamenco had a major release. It is more popular than ever, but still missing certain key...",
+          "student_name": "Eveline Anderson",
+          "code_url": "https://projects.blender.org/Evelinealy/Final_Report",
+          "proposal_id": "jCOYXTDl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/qXHThOYm"
+        },
+        {
+          "title": "Improve Waveform drawing speed",
+          "short_description": "Blender supports video editing through its video sequence editor. While the editor allows users to load videos and audio files, computing the audio...",
+          "student_name": "Lucas Tadeu Teixeira",
+          "code_url": "https://www.lucastadeu.com/p/improving-waveform-drawing-speed",
+          "proposal_id": "XHqnFWLa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tYsdcgpI"
+        },
+        {
+          "title": "UV Editor Improvements",
+          "short_description": "The goal of this project is to implement user-suggested improvements to the UV Editor tools in order to help users create UV maps more easily. The...",
+          "student_name": "MelissaGoon",
+          "code_url": "https://devtalk.blender.org/t/gsoc-2023-uv-editor-improvements/29329/14?u=melissa_goon",
+          "proposal_id": "0onXExhJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GiNuS5Qn"
+        },
+        {
+          "title": "Outliner Tree Element Refactoring",
+          "short_description": "This project aims to port the remaining tree elements to the new object-oriented design of the Outliner codebase. The project will involve creating...",
+          "student_name": "shinbay",
+          "code_url": "https://devtalk.blender.org/t/gsoc-2023-outliner-tree-refactoring/29355/14?u=shinbay",
+          "proposal_id": "cdzSHCnq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/GkBeWVCw"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/blender-foundation/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improvements to the Blender macOS User Interface Experience",
+          "short_description": "In recent years, Blender support for macOS specific features has drastically improved. With the introduction of the Metal Viewport, features such as...",
+          "student_name": "Jonas Holzman",
+          "code_url": "https://devtalk.blender.org/t/gsoc-2024-improvements-to-the-blender-macos-user-interface-experience-weekly-reports/34505/23",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FhlG8K5p/"
+        },
+        {
+          "title": "Geometry Nodes: File Import Nodes",
+          "short_description": "In Blender, geometry nodes provide the user with a visual scripting interface to manipulate 3D geometry, allowing the creation of custom modifiers...",
+          "student_name": "CodeBlaze",
+          "code_url": "https://devtalk.blender.org/t/gsoc-2024-geometry-nodes-file-import-nodes/34482/18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/OoGEKFsC/"
+        },
+        {
+          "title": "Sample Sound Node",
+          "short_description": "This project adds a Sample Sound node that retrieves audio from sound files, and provides their frequency response over time for use in Geometry...",
+          "student_name": "Lleu Yang",
+          "code_url": "https://devtalk.blender.org/t/gsoc-2024-sample-sound-node/34489/14",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eTB9qq4E/"
+        },
+        {
+          "title": "Sprucing Up the Sequencer",
+          "short_description": "Blender's video sequence editor currently contains a number of \"papercuts\", or isolated frustrations that can degrade the overall experience and...",
+          "student_name": "John Kiril Swenson",
+          "code_url": "https://kirilswenson.netlify.app/posts/blender-vse",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/n7IBAnRA/"
+        },
+        {
+          "title": "Improve Distributed Rendering & Task Execution",
+          "short_description": "The objective of this project is to enhance the distributed rendering and task execution capabilities within Blender through several key...",
+          "student_name": "David Zhang 2002",
+          "code_url": "https://devtalk.blender.org/t/gsoc-2024-improve-distributed-rendering-task-execution/34566",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/cMXuvkFW/"
+        },
+        {
+          "title": "UV stitch Tool Improvements",
+          "short_description": "The project focuses on enhancing UV mapping workflows by introducing a user-friendly weld-seams utility for efficient UV island merging, drawing...",
+          "student_name": "Anishb00",
+          "code_url": "https://drive.google.com/file/d/1K8Mzu1d5t4DA9jKVH57SYrfXlpE6Z5GB/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fNBMiMs1/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/blender-foundation",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Improving Sampling in the Compositor",
+          "short_description": "The goal of this project is to improve the compositor's sampling situation. This includes exposing the interpolation option to all nodes reliant on...",
+          "student_name": "Benjamin Beilharz",
+          "code_url": null,
+          "proposal_id": "39OVu1Bq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NbWXDomc"
+        },
+        {
+          "title": "Improving Regression Test Coverage for the Compositor",
+          "short_description": "This project will improve compositor regression testing by adding tests to expand code coverage. The compositor is being actively developed, so...",
+          "student_name": "Ian Yoo",
+          "code_url": null,
+          "proposal_id": "OHyWhdA1",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NvO9JBt7"
+        },
+        {
+          "title": "Compositor: Glare Node Enhancement",
+          "short_description": "This project aims to enhance Blender\u2019s Glare node by addressing UX and technical limitations, improving usability, and performance. By resolving...",
+          "student_name": "Mohamed-Hassan",
+          "code_url": null,
+          "proposal_id": "CobBXsKq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/t1j0P0IB"
+        },
+        {
+          "title": "Optimizing Mesh and Multires Sculpting Performance in Blender",
+          "short_description": "The goal of this project is to improve the performance of Blender\u2019s sculpting system, particularly when working with high-resolution meshes....",
+          "student_name": "Namit Bhutani",
+          "code_url": null,
+          "proposal_id": "CxW5bmIR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kSM1BuKa"
+        },
+        {
+          "title": "Create Keyframes in VSE Preview",
+          "short_description": "This project seeks to introduce the functionality of creating keyframes directly in the VSE preview by using the \u201cI\u201d or \u201cK\u201d key, adhering to the same...",
+          "student_name": "Ram\u00f3n_1",
+          "code_url": null,
+          "proposal_id": "9e1hcb2f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Tr1Cr4Ta"
+        },
+        {
+          "title": "Edit-Mesh Mirror Improvements",
+          "short_description": "This project addresses Blender\u2019s edit-mode mirror limitations by enhancing its functionality to support multiple axes and operators. It will enable...",
+          "student_name": "Tariq",
+          "code_url": null,
+          "proposal_id": "gIGDzAJx",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NRPXeA2r"
+        },
+        {
+          "title": "Pitch Correction for Sound Playback in Sequencer",
+          "short_description": "The goal of this project is to integrate pitch-correction into Blender's video sequence editor (VSE). While the editor supports retiming video and...",
+          "student_name": "TheKaceFiles",
+          "code_url": null,
+          "proposal_id": "xDJ7Wz8F",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pJUULEjM"
+        },
+        {
+          "title": "Adding handy features and  UI improvements to Flamenco",
+          "short_description": "Flamenco, whose target audience is small studios of artists and Blender users, could benefit by adding features that enhance the user-friendliness...",
+          "student_name": "Vivian Leung (vivz753)",
+          "code_url": null,
+          "proposal_id": "kn6HpcoJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oxlTyZNy"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://blender.chat/channel/gsoc-2025",
+  "contact_email": "mailto:foundation@blender.org",
+  "mailing_list": "https://devtalk.blender.org/c/contributing-to-blender/summer-of-code/15",
+  "ideas_url": "https://developer.blender.org/docs/programs/gsoc/ideas/",
+  "guide_url": "https://developer.blender.org/docs/programs/gsoc/",
+  "twitter_url": "https://twitter.com/blender",
+  "blog_url": "https://devtalk.blender.org/c/contributing-to-blender/summer-of-code/15"
+}

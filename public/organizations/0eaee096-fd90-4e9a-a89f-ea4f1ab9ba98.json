@@ -1,0 +1,225 @@
+{
+  "name": "checkstyle",
+  "url": "https://checkstyle.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/checkstyle/e8ubktvaft8eljli-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "static code analysis\u200e",
+    "code review tool",
+    "coding standards",
+    "coding conventions",
+    "artificial-intelligence"
+  ],
+  "technologies": [
+    "java",
+    "antlr",
+    "xpath",
+    "artificial-intelligence"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5883569398349824/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Practice What You Preach",
+          "short_description": "Quality of source code can be examined by many different tools, Checkstyle is one of them, but not the only one. Source code of such tools need to be...",
+          "student_name": "Valeria Vasylieva",
+          "code_url": "https://gist.github.com/Nimfadora/78f5351fe353ad02a9d61d798b107be4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5045639666728960/"
+        },
+        {
+          "title": "Multi-thread mode for Java files processing",
+          "short_description": "This paper contains proposal for the \"Multi-thread mode for Java files processing\" project.\nCurrently, checkstyle processes all files in a single...",
+          "student_name": "Andrew Kuchev",
+          "code_url": "https://soon.github.io/projects/gsoc/2017/index.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6534440821981184/"
+        },
+        {
+          "title": "Flexible Suppression model",
+          "short_description": "Flexible Suppression model",
+          "student_name": "Timur Tibeyev",
+          "code_url": "https://gist.github.com/timurt/e59c076e243dce6d901d73cd67adea4c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4921362237882368/"
+        },
+        {
+          "title": "Coverage of Documentation Comments Style Guide and performance optimization of Javadoc parser",
+          "short_description": "First, all the existing ANTLR issues are to be cleared out. Bottlenecks in javadoc grammar must be identified so that javadoc parsing could be sped...",
+          "student_name": "ps",
+          "code_url": "https://gsoc-ps.netlify.com/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5760007215775744/"
+        },
+        {
+          "title": "Regression Testing Tool and HTML Report Generator for Pull Request",
+          "short_description": "We need to create an automation tool to do regression testing based on proposed patch (Pull Request). To complete that, we are required to achieve...",
+          "student_name": "Liangchen Luo",
+          "code_url": "https://docs.google.com/document/d/1gOdpkTxLFjbYLV0cPAnwwKZWJ0jCcwIuIuF1jAddsAA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5790131042648064/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4788704964509696/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Metadata Files for all Modules",
+          "short_description": "The Problem\nAll IDE/Quality Systems plugins, build tools need to use Checkstyle module metadata for their functioning. But as of now they have to...",
+          "student_name": "Gaurab Dasgupta",
+          "code_url": "https://gist.github.com/gaurabdg/74b70bfffe73cc4be8120f9dbbac449c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5666049107689472/"
+        },
+        {
+          "title": "Patch Suppression",
+          "short_description": "We need to implement new filter/suppression module to to let existing code be as is and validate only new code, which will make introducing...",
+          "student_name": "Ganghui Hu",
+          "code_url": "https://gist.github.com/HuGanghui/6a8ee1ee63dfe700835b5e52fc63f314",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5680989956734976/"
+        },
+        {
+          "title": "ANTLR grammar for Java 14 features",
+          "short_description": "While Java 12, 13 and 14 brought some much-anticipated features, Checkstyle users have had to ignore warnings about this code since we don\u2019t support...",
+          "student_name": "Nick Mancuso",
+          "code_url": "https://github.com/search?q=is%3Apr+author%3Anmancus1+archived%3Afalse+checkstyle",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4999687213416448/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4766383010742272/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adaptation of Behavior Driven Development Ideas for Testing of Source Code and Validation Algorithms",
+          "short_description": "This project has three components:\n\nBehaviour Driven Development testing notions and ideas upon being weaved into Checkstyle\u2019s existing test driven...",
+          "student_name": "Shashwat Jaiswal",
+          "code_url": "https://github.com/checkstyle/checkstyle/projects/10",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6232508215066624/"
+        },
+        {
+          "title": "Upgrade Java Grammar from ANTLR2 to ANTLR4",
+          "short_description": "Checkstyle needs to have a new Java grammar that is based on ANTLR4.  Support for ANTLR2 (the version that Checkstyle currently uses) ended in 2007;...",
+          "student_name": "Nicholas Mancuso",
+          "code_url": "https://github.com/search?q=is%3Amerged+is%3Apr+author%3Anmancus1+archived%3Afalse&type=",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6315831721459712/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/checkstyle/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Practice What You Preach",
+          "short_description": "Checkstyle focuses on code quality but it isn't the only tool to do so. There are a lot of static analysis tools for Java language, Checkstlye is one...",
+          "student_name": "Vyom Yadav",
+          "code_url": "https://gist.github.com/Vyom-Yadav/a61273a6eb40bcf136f1d0c559e9b6ab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VA7vChDJ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/checkstyle",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Pitest Resolution",
+          "short_description": "Checkstyle has recently introduced lots of new mutators To the mutation testing suite by the tool pitest. PIT is a state-of-the-art mutation testing...",
+          "student_name": "KevinPatel",
+          "code_url": "https://gist.github.com/Kevin222004/98f531c36a2c4a07a75585bf38bbd02e",
+          "proposal_id": "w234nc2G",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/cSPoHlPW"
+        },
+        {
+          "title": "Automated Documentation Generation",
+          "short_description": "The goal of this project is to automate the generation of documentation for checkstyle modules - checks and filters. To achieve that, multiple Doxia...",
+          "student_name": "Stoyan",
+          "code_url": "https://checkstyle.org/checks.html",
+          "proposal_id": "kkDs0l9u",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/IOtzfIPj"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/checkstyle/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Refine Google Style Guide Implementation",
+          "short_description": "The project focuses on updating the existing Google Style Guide Implementation based on latest version of Google's Java Style Guide. It includes...",
+          "student_name": "Mauryan Kansara",
+          "code_url": "https://zopsss.github.io/gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PXCAPK07/"
+        },
+        {
+          "title": "Automated Regression Testing Tool for Checkstyle",
+          "short_description": "The project aims to create an automated regression testing tool for Checkstyle that streamlines the process of validating pull requests. This tool...",
+          "student_name": "Piyush Kumar Sadangi",
+          "code_url": "https://relentless-pursuit.github.io/gsoc-report-2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ioiWhxDX/"
+        },
+        {
+          "title": "Java 21 Language Features Support",
+          "short_description": "Developers are enthusiastic about leveraging Java's latest language features, which offer more powerful, declarative, and expressive code; these...",
+          "student_name": "Mohamed Mahfouz",
+          "code_url": "https://mahfouz72.github.io/gsoc-report/2024/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3MCeND8h/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/checkstyle",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Upgrade dependencies to use latest version of libraries and use their features",
+          "short_description": "Currently, Checkstyle relies on JDK 11, while the broader ecosystem has transitioned to JDK 21. This project aims to incrementally upgrade...",
+          "student_name": "Amit Kumar Deoghoria",
+          "code_url": null,
+          "proposal_id": "bVzGDXJN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/7UvHzVA6"
+        },
+        {
+          "title": "Auto-Fix Module",
+          "short_description": "Checkstyle is widely used to detect code style violations, but many of its formatting-related issues are trivial and time-consuming to fix manually....",
+          "student_name": "Anmol202005",
+          "code_url": null,
+          "proposal_id": "42wB2ae0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cBlWxUSv"
+        },
+        {
+          "title": "New ANTLR Grammar for Javadoc Comments",
+          "short_description": "The need for a new Javadoc parser has been raised repeatedly, particularly in response to persistent performance bottlenecks and maintainability...",
+          "student_name": "Mohamed Mahfouz",
+          "code_url": null,
+          "proposal_id": "P7yyrOjb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/6e8Gnzz0"
+        },
+        {
+          "title": "Improve Modules used in Google Style",
+          "short_description": "During GSoC'24, a huge effort was made to improve Checkstyle's Google config coverage and updated our implementation of google style guide to the...",
+          "student_name": "Mohit Attry",
+          "code_url": null,
+          "proposal_id": "JEaedN7T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gSiof4Ti"
+        },
+        {
+          "title": "Automated Website Generation for Checkstyle",
+          "short_description": "I will develop the automated website generation mechanism for our open source by updating the facilitating tools and libraries to the latest...",
+          "student_name": "SteLeo1602",
+          "code_url": null,
+          "proposal_id": "AXfw3KCh",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/w7K8P64Y"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.gg/FsUsYC2ura",
+  "contact_email": "mailto:checkstyle@googlegroups.com",
+  "mailing_list": "https://groups.google.com/g/checkstyle-devel",
+  "ideas_url": "https://github.com/checkstyle/checkstyle/wiki/Checkstyle-GSoC-2025-Project-Ideas",
+  "guide_url": "https://github.com/checkstyle/checkstyle/blob/master/.github/GSOC.md",
+  "twitter_url": "https://x.com/checkstyle_java",
+  "blog_url": "https://groups.google.com/g/checkstyle-devel"
+}

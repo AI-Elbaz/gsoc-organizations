@@ -1,0 +1,42 @@
+{
+  "name": "MapAction",
+  "url": "https://mapaction.org/about-us/",
+  "image_url": "https://lh3.googleusercontent.com/MpkPZV1TvcvM6J2Nt7bd63yGfdHcEeFeIsBNX0nl7SU3e1Cx19ADySgpC2ugpGO5kxgg9jI09BkBbrP5iDmo9EtC66drxdPg6jYTrYewG7of",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "humanitarian",
+    "maps",
+    "geospatial",
+    "data processing",
+    "google cloud"
+  ],
+  "technologies": [
+    "python",
+    "data analysis",
+    "gis",
+    "apache airflow",
+    "visualization"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4875496487124992/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Extend Data Pipelines to cover more data products",
+          "short_description": "MapAction\u2019s mission is to provide people dealing with humanitarian emergencies with supportive maps as quickly as possible. Currently most of such...",
+          "student_name": "Egor Zverev",
+          "code_url": "https://github.com/mapaction/pipeline_mvp/wiki/GSOC-2021-Overview",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4857837561315328/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@mapaction.org",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "blog_url": "https://mapaction.org/blog/"
+}

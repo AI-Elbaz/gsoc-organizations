@@ -1,0 +1,84 @@
+{
+  "name": "SymbiFlow",
+  "url": "https://symbiflow.github.io/",
+  "image_url": "https://lh3.googleusercontent.com/CvqeGxSl_fS_m75Z_2u_XWVw4JRQRmUDdQ-iL9VyMEnvPQJPbalrvLZcopVRsdK-ESlMAsM4kR_HW8xZgphjZ2YS8OSZssvXu1mMOSb9INA",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "electronic design tools",
+    "programming languages and development tools",
+    "fpga",
+    "programming languages",
+    "development tools",
+    "open hardware"
+  ],
+  "technologies": [
+    "verilog",
+    "fpga",
+    "xilinx",
+    "python",
+    "c",
+    "c++"
+  ],
+  "years": {
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6469457059250176/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Optimization of VPR File Formats",
+          "short_description": "I propose replacing VPR\u2019s XML reader for the architecture file with a schema-generated one. Furthermore, I propose replacing current rr_graph,...",
+          "student_name": "Fahrican Ko\u015far",
+          "code_url": "https://docs.google.com/document/d/1SZm44g-9Bo-xD2lDfXcxb8bpzYjewGyK7bVyOYj5Gqs/edit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5441201438720000/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5628676583981056/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Upgrading VTR flow scripts to Python3 and adding new functionality",
+          "short_description": "The VTR (Verilog-to-routing) project provides an academic open-source CAD flow for FPGAs, combining tools for Synthesis and Logic Optimization...",
+          "student_name": "Shad Torrie",
+          "code_url": "https://docs.google.com/spreadsheets/d/1kTbLwmYdDf0ODxJKlR5rC2zMvPAFGkPV3ksjyIoZQHs/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6228610299461632/"
+        },
+        {
+          "title": "Support for Partial Reconfiguration Regions in SymbiFlow",
+          "short_description": "SymbiFlow does not currently support partial reconfiguration regions.  Partial reconfiguration regions are crucial to ongoing FPGA research including...",
+          "student_name": "Andrew Butt",
+          "code_url": "https://andrewb1999gsoc.blogspot.com/2020/08/gsoc-final-code-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5766524633088000/"
+        },
+        {
+          "title": "FPGA Routing Management and Optimization",
+          "short_description": "I will focus on the Vehicle-to-Routing (VTR) component of the SymbiFlow project. Specifically, I will work on improving the existing electronic...",
+          "student_name": "Bingran Hu",
+          "code_url": "https://gsocbill2020.wordpress.com/2020/08/26/gsoc2020-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5150851674406912/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4577761535983616/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Capturing an abstracted model of Xilinx Artix7 using VTR",
+          "short_description": "Symbiflow has already produced a model of Xilinx's Artix7 in VTR, but it only limited to single chip description.\nThe aim of this project is to...",
+          "student_name": "Arash Ahmadian",
+          "code_url": "https://docs.google.com/document/d/1h1sHjNC2Mz2Ik3ZZTuzzA7HLJjrHAUxxRWpbHu3cwm0/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6548570026541056/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://webchat.freenode.net/?channels=symbiflow",
+  "contact_email": "",
+  "mailing_list": "https://lists.librecores.org/listinfo/symbiflow",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/symbiflow"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bench-Routes",
+  "url": "https://bench-routes.netlify.com",
+  "image_url": "https://lh3.googleusercontent.com/rK-G1cM-h1_eP-_oRcT45I6kjX8h1QdMh2LPbvCZB9aNzHk5JH8UCGY4KcbiDaMEwH8SCrqguzlUz5O5e1CDHEXjxgi3kOusoNHplzSEPgA",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "monitoring",
+    "web",
+    "devops",
+    "time-series"
+  ],
+  "technologies": [
+    "react",
+    "golang",
+    "docker"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5764622900002816/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Revamping the UI",
+          "short_description": "This project aims at re-implementing the UI for Bench-routes with a user-interface that occupies lesser space and is more compact to look at. Also,...",
+          "student_name": "Rudraksh Aggarwal",
+          "code_url": "https://medium.com/@rudrakshaggarwal/gsoc-2021-revamping-the-ui-bench-routes-934172742a4c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5644536553930752/"
+        },
+        {
+          "title": "Enhanced alerting and scheduling in Bench-routes",
+          "short_description": "The project comprises of three major ideas Renewing configuartion, Revamping the design pattern and adding Scheduler and Writing Querier package &...",
+          "student_name": "Tushar Guha Neogi",
+          "code_url": "https://gist.github.com/Tushar3099/9cef95d1a5e78a0a69d3e385de390e32",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5260300558794752/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/bench-routes/community",
+  "contact_email": "mailto:benchroutes@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/BenchRoutes"
+}

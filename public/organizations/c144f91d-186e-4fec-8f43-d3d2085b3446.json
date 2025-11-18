@@ -1,0 +1,276 @@
+{
+  "name": "Swift",
+  "url": "https://swift.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/swift/moutmu5fv3rozvrz-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "compilers",
+    "programming languages",
+    "programming",
+    "developer tools",
+    "debugging",
+    "programming languages and development tools",
+    "package management",
+    "programming libraries",
+    "cross-platform",
+    "Packages",
+    "Server development",
+    "Standard Libraries"
+  ],
+  "technologies": [
+    "llvm",
+    "c++",
+    "cmake",
+    "swift",
+    "ios",
+    "programming languages",
+    "compilers",
+    "server"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5146674678726656/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6407128493850624/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Integrating libSyntax with the Rest of the Compiler Pipeline",
+          "short_description": "Over the last couple of years, the Swift compiler has gained a new library called libSyntax. Its purpose is to represent the syntax of Swift source...",
+          "student_name": "Jan Svoboda",
+          "code_url": "https://docs.google.com/document/d/1aRQ4v91gzIgsiqC6Cqo1MBtqm8Q_rsDWcqbz7A9HfVY/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5925163453906944/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/4543471290941440/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Localization of Compiler Diagnostic Messages",
+          "short_description": "Diagnostics play a vital role in a programming language experience. It\u2019s vital for developer productivity that the compiler can produce proper...",
+          "student_name": "Hassan ElDesouky",
+          "code_url": "https://docs.google.com/document/d/1RlkVI2B0hpKAXsNQN3b4_kVYdSwXNl-2yH6poVu02q4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6639952672063488/"
+        },
+        {
+          "title": "LTO support for Swift",
+          "short_description": "Swift supports multiple levels of optimizations per single module. This project aims to achieve LTO support for Swift at LLVM level and at Swift\u2019s...",
+          "student_name": "kateinoigakukun",
+          "code_url": "https://docs.google.com/document/d/10Zhus-95thtlGuIVSFlCyhuuHUnDG-8nDnWepFbiXck/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5093814072508416/"
+        },
+        {
+          "title": "Improving Swift\u2019s Debugger experience on Linux",
+          "short_description": "Debuggers are essential tools in aiding developers to do their work more efficiently. They are inherently tied to the target  operating system, and...",
+          "student_name": "Augusto Noronha",
+          "code_url": "https://forums.swift.org/t/google-summer-of-code-final-report/39893",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4877023215878144/"
+        },
+        {
+          "title": "Swift (Server) Tracing",
+          "short_description": "Libraries for Logging and Metrics, embraced by the Serverside Swift Work Group, have enabled many Swift projects to simplify their code bases by...",
+          "student_name": "slashmo",
+          "code_url": "https://forums.swift.org/t/current-state-of-swift-tracing/39830",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6305735463403520/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4908645044715520/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "SwiftPM support for Swift scripts",
+          "short_description": "This proposal aims to bring scripting support to SwiftPM. The goal for GSoC is some kind of proof-of-concept and is expected to be the foundation of...",
+          "student_name": "Yongrong Chen",
+          "code_url": "https://github.com/stevapple/gsoc-2021-writeups",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6406944385925120/"
+        },
+        {
+          "title": "Inlay type hints for SourceKit-LSP",
+          "short_description": "Inlay hints take advantage of Swift's powerful type inference by visualizing inferred types throughout a Swift program in the editor. This makes it...",
+          "student_name": "Fredrik Wieczerkowski",
+          "code_url": "https://gist.github.com/fwcd/20199db534ba3c9f1be59abba69cb249",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4721958352060416/"
+        },
+        {
+          "title": "Shared Storage for Property Wrappers",
+          "short_description": "Property Wrappers are responsible for wrapping common getting and setting boilerplate and also for storing any auxiliary helpers. Often, these...",
+          "student_name": "Isabel Lima",
+          "code_url": "https://forums.swift.org/t/gsoc-shared-storage-for-property-wrappers-and-expanded-parameters/51355",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4862276208689152/"
+        },
+        {
+          "title": "A \"Bite-Sized\" BitArray",
+          "short_description": "View the final API Review here: https://forums.swift.org/t/bit-array-and-bit-set-api-review-the-end-of-a-gsoc-project/51396",
+          "student_name": "Mahanaz Atiqullah",
+          "code_url": "https://forums.swift.org/t/bit-array-and-bit-set-api-review-the-end-of-a-gsoc-review/51396",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4876271292514304/"
+        },
+        {
+          "title": "Alive for SIL",
+          "short_description": "The Alive for SIL project aims to build a tool that will find errors in optimizations performed by the Swift compiler.\nSIL (a.k.a. Swift Intermediate...",
+          "student_name": "Justin Fargnoli",
+          "code_url": "https://gist.github.com/justinfargnoli/cea6de8cf889c0fa0a1bdaf9ff9fd414",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5984156026142720/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/swift/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Improving the Debug Output Of The Type Inference Algorithm",
+          "short_description": "Swift\u2019s type inference algorithm allows us to write source code without explicit type notations. It is implemented using a type checker that breaks...",
+          "student_name": "Amritpan Kaur",
+          "code_url": "https://github.com/apple/swift/pull/59971",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lTuJeWjs/"
+        },
+        {
+          "title": "Interactive mode for swift CLI tool ArgumentParser",
+          "short_description": "For this project, we would design and implement an interactive mode for command-line tools built using ArgumentParser that prompts for any required...",
+          "student_name": "Kth",
+          "code_url": "https://github.com/apple/swift-argument-parser/issues/449",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ynUKk8wd/"
+        },
+        {
+          "title": "Quick navigation in DocC Render",
+          "short_description": "DocC Render is an open-sourced project that let us visualize `.doccarchive` on the web, it renders the compiled Swift codebase documentation in a...",
+          "student_name": "Sof\u00eda Rodr\u00edguez",
+          "code_url": "https://forums.swift.org/t/pitch-quick-navigation-in-docc-render/59550",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/R3HQnNal/"
+        },
+        {
+          "title": "Bootstrapping SwiftSyntaxBuilder",
+          "short_description": "Providing excellent tooling for Swift often involves operating on Swift syntax trees directly. The swift-syntax library serves this purpose by...",
+          "student_name": "Fredrik Wieczerkowski",
+          "code_url": "https://gist.github.com/fwcd/b70cc91a27a4d00baf869785a3bf8a6d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2a55KowT/"
+        },
+        {
+          "title": "Kafka Client Package for Swift",
+          "short_description": "Apache Kafka is a distributed event streaming platform that is very widely used to process and store data. This project aims to create a Swift...",
+          "student_name": "Felix Schlegel",
+          "code_url": "https://github.com/swift-server/swift-kafka-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/5nq3GuxI/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/swift",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Key Path inference and diagnostic improvements",
+          "short_description": "SE-0249 introduced key path expressions as functions to the Swift language, to allow Swift users to write a more concise \\Root.value in place of the...",
+          "student_name": "Amritpan Kaur",
+          "code_url": "https://github.com/apple/swift/pull/67297",
+          "proposal_id": "WDww7XAC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/w2oMo4BC"
+        },
+        {
+          "title": "Swift native implementation of a Memcached Client using SwiftNIO for the networking stack.",
+          "short_description": "I will be developing a native Swift Memcached client using SwiftNIO to address the need for an efficient and user-friendly caching solution in Swift...",
+          "student_name": "dkz",
+          "code_url": "https://forums.swift.org/t/gsoc-2023-swift-memcache-gsoc-project-kickoff/64932",
+          "proposal_id": "IZAethTf",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wdnBvz3G"
+        },
+        {
+          "title": "Implement Incremental Re-Parsing in SwiftParser",
+          "short_description": "Considering the performance, instead of reparsing the entire file every time, we could speed up the parsing procedure with the information provided...",
+          "student_name": "Ziyang Huang",
+          "code_url": "https://gist.github.com/StevenWong12/8a5fd948f0b4957267a69140b188ab6e",
+          "proposal_id": "Mc4j7Ihk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/youSUzrO"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/swift/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Write a Swift code generator to support the creation of SAM deployment descriptor",
+          "short_description": "Deploying AWS Lambda functions using AWS SAM (Serverless Application Model) requires manual creation of a deployment descriptor, posing challenges...",
+          "student_name": "Esraa Eid",
+          "code_url": "https://esraaeiid.github.io/posts/GSoC-Write-a-Swift-code-generator-to-support-the-creation-of-SAM-deployment-descriptor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KSQWXrJU/"
+        },
+        {
+          "title": "Expansion of Swift Macros in Visual Studio Code",
+          "short_description": "\u201cImplementing a Code Action in Visual Studio Code to show the expansion of a Swift Macro in a peeked editor\u201d. Swift Macros allow the generation of...",
+          "student_name": "Lokesh T R",
+          "code_url": "https://forums.swift.org/t/gsoc-2024-expansion-of-swift-macros-in-visual-studio-code-detailed-post-lokesh-t-r-alex-hoppen-adam-fowler/74163",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zQNf7ztP/"
+        },
+        {
+          "title": "Lexical scopes for swift-syntax",
+          "short_description": "This proposal describes how we can implement Lexical scopes library for swift-syntax. The library would describe what declarations are available in...",
+          "student_name": "Jakub Florek",
+          "code_url": "https://www.jakubflorek.com/posts/gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/EPNFLBXw/"
+        },
+        {
+          "title": "Swift-etcd: A Native Client for Seamless Integration with etcd Servers",
+          "short_description": "Developing a native Swift-etcd client aims to seamlessly integrate etcd, a distributed Swift key-value store into Swift applications. This project...",
+          "student_name": "AyushiTiwari",
+          "code_url": "https://github.com/swift-server/swift-etcd-client-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qn0MgoxJ/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/swift",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improve the display of documentation during code completion in SourceKit-LSP",
+          "short_description": "Currently, SourceKit-LSP only shows the first line of the documentation for code completion items. Furthermore, it doesn\u2019t support the Language...",
+          "student_name": "Ahmed Elrefaey",
+          "code_url": null,
+          "proposal_id": "kB2joC94",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/CgWk0OF5"
+        },
+        {
+          "title": "JNI mode for swift-java\u2019s source jextract tool",
+          "short_description": "The swift-java interoperability library provides the jextract-swift tool, which extracts Java sources that are used to call Swift code from Java....",
+          "student_name": "Mads Odgaard",
+          "code_url": null,
+          "proposal_id": "ykQ4dntF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/oIpmPLvm"
+        },
+        {
+          "title": "Swiftly Integration in VS Code",
+          "short_description": "This project aims to integrate Swiftly with the Swift Extension for VSCode. It should allow users to install Swiftly and Swift toolchains in the...",
+          "student_name": "Priyambada Roul",
+          "code_url": null,
+          "proposal_id": "dr7ZM4V0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OnmTLTo3"
+        },
+        {
+          "title": "Improved Console Output for Swift Testing",
+          "short_description": "This project aims to enhance the console output experience for the Swift Testing framework. The goal is to design and implement a new reporting...",
+          "student_name": "Tien Quoc Bui",
+          "code_url": null,
+          "proposal_id": "vT3Af5wb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/cdZEDJcL"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:core-team@swift.org",
+  "mailing_list": "https://forums.swift.org",
+  "ideas_url": "https://www.swift.org/gsoc2025/",
+  "guide_url": "https://www.swift.org/contributing/",
+  "twitter_url": "https://twitter.com/SwiftLang",
+  "blog_url": "https://swift.org/blog/"
+}

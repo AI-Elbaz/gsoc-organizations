@@ -1,0 +1,98 @@
+{
+  "name": "Mono Project",
+  "url": "http://www.mono-project.com/",
+  "image_url": "https://lh3.googleusercontent.com/Wnx2UKIIjXTvvrIgRrPHvnIbw6WXjSbBGOleTchd-Kv0D9gbrdmf21-x9IpyXYONEza_KVi1TkwcIiyUpn8kOQV2wD3PGmo",
+  "image_background_color": "#222",
+  "category": "Programming languages",
+  "topics": [
+    "web development",
+    "programming tools",
+    "ide",
+    "mobile development",
+    "compiler"
+  ],
+  "technologies": [
+    "c",
+    "c#",
+    ".net",
+    "f#"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/4814565460148224/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Import Some Synchronization Primitives from CoreRT into Mono",
+          "short_description": "The goal is to replace Mono's BCL implementation of System.Threading.EventWaitHandle, System.Threading.Mutex and\nSystem.Threading.Semaphore...",
+          "student_name": "Alexander Efremov",
+          "code_url": "https://github.com/mono/mono/pull/5054#issue-236569175",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6462738356240384/"
+        },
+        {
+          "title": "A ccache tool for managed languages",
+          "short_description": "When you think about it ccache is a simple feature, however we shouldn't underestimate it's power. This tool is very handy for improving waiting time...",
+          "student_name": "Daniel Calancea",
+          "code_url": "https://gist.github.com/dcalance/1c00325484abbff4e4dfcf422d12d0f4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6644152808767488/"
+        },
+        {
+          "title": "Lambda support in debugger expression evaluator",
+          "short_description": "I\u2019d like to add a lambda support in Immediate Pad. There are roughly 2 tasks:\n\u00a0Task1. Compile lambda expression locally using Roslyn API along with...",
+          "student_name": "Haruka Matsumoto",
+          "code_url": "https://docs.google.com/document/d/1OFOPZu8uDrZPxyrVuw7QADznypkX1sOIvTG4OmcAmW4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4995744360562688/"
+        },
+        {
+          "title": "CppSharp / Maintenance & Improvement tasks",
+          "short_description": "CppSharp is a tool and set of libraries which allows programmers to use C/C++ libraries with high-level programming languages (such as C#). It is a...",
+          "student_name": "Mohit Mohta",
+          "code_url": "https://gist.github.com/mohtamohit/0f25af3fdc6633af8d51d19f5281f99f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4836388860067840/"
+        },
+        {
+          "title": "Import System.IO.Pipes.PipeStream from CoreFX",
+          "short_description": "Mono is a open source development platform based on the .Net Framework and allows developers to build cross-platform applications. Mono's .NET...",
+          "student_name": "GEORGIOS ATHANASOPOULOS",
+          "code_url": "https://gist.github.com/Geotha/cdf874466248e4230439923ea24bb4d0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4850405351620608/"
+        },
+        {
+          "title": "CppSharp / Maintenance & Improvement tasks",
+          "short_description": "An introduction to myself to the Mono team and a planning about the CppSharp / Maintenance &amp; Improvement tasks\nproject. I tried to explain the...",
+          "student_name": "Kimon Topouzidis",
+          "code_url": "https://gist.github.com/ktopouzi/4eea6da89b1277c451d4358a55510298",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4950860073271296/"
+        },
+        {
+          "title": "Overhaul MonoDevelop C/C++ Addin",
+          "short_description": "Addin system of MonoDevelop/Xamarin Studio (http://www.monodevelop.com/download) is very flexible and allow the developers to add or extend any...",
+          "student_name": "Anubhav",
+          "code_url": "http://monosoc.blogspot.com/2017/08/student-post-monodevelop-cc-extension.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5874545135190016/"
+        },
+        {
+          "title": "Clang Sanitizers",
+          "short_description": "Unlike proposed, I will evaluate Clang's ThreadSanitizer as well as the AddressSanitizer as these two sanitizers seem more pressing to the Mono...",
+          "student_name": "Armin Hasitzka",
+          "code_url": "http://www.mono-project.com/community/google-summer-of-code/reports/2017/clang-sanitizers/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5976305258463232/"
+        },
+        {
+          "title": "QtSharp - Mono/.NET bindings for Qt",
+          "short_description": "I would like to complete the QtSharp project which aims to provide Mono/.NET bindings for Qt.",
+          "student_name": "Dimitar Dobrev",
+          "code_url": "https://gist.github.com/ddobrev/7f75b5685f652c091a13643bcbe5ec9e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6266305476820992/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://www.mono-project.com/community/help/irc/",
+  "contact_email": "mailto:soc@xamarin.com",
+  "mailing_list": "https://lists.dot.net/mailman/listinfo/mono-list",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/monosoc",
+  "blog_url": "https://monosoc.blogspot.com"
+}

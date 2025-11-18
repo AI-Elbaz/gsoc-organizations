@@ -1,0 +1,165 @@
+{
+  "name": "XWiki",
+  "url": "https://www.xwiki.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/xwiki/ea9akuy6esnffmuk-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "web development",
+    "web platform and services",
+    "wiki",
+    "platform",
+    "extensions",
+    "web applications",
+    "structured data"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "html5",
+    "css3",
+    "velocity",
+    "css"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4955274762780672/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6636322546515968/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "More extension repositories",
+          "short_description": "So far it was possible inside XWiki to import extensions and artifacts from two types of repositories: XWiki Reposiory and Maven Repository. The aim...",
+          "student_name": "Krzysztof P\u0142achno",
+          "code_url": "http://dev.xwiki.org/xwiki/bin/view/GoogleSummerOfCode/Moreextensionrepositories2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4986328450072576/"
+        },
+        {
+          "title": "DokuWiki importer",
+          "short_description": "OpenWiki has been developing the filter stream framework, to allow for converting from some input streams to any/multiple output target streams....",
+          "student_name": "slayerjain",
+          "code_url": "http://dev.xwiki.org/xwiki/bin/view/GoogleSummerOfCode/DokuWikiimporter2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6081202855346176/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6278111670829056/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "XWiki Blockly Editor Proposal",
+          "short_description": "This is a proposal to work on the project that adds the Google Blockly editor to XWiki and will facilitate users who're inexperienced at coding to do...",
+          "student_name": "Vivek Iyer",
+          "code_url": "https://extensions.xwiki.org/xwiki/bin/view/Extension/Blockly%20Editor/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5717994718101504/"
+        },
+        {
+          "title": "Finish and improve Android XWiki authenticator and contact synchronization",
+          "short_description": "Draft from XWiki GSoC template",
+          "student_name": "Ovsyannikov Alexey",
+          "code_url": "https://www.xwiki.org/xwiki/bin/view/Blog/My%20GSoC%202018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5435548541911040/"
+        },
+        {
+          "title": "Improve DokuWiki importer",
+          "short_description": "Xwiki has pre-existing filter streams converter extension, based on the filter stream framework that allows conversion of different input syntax to...",
+          "student_name": "Neha Gupta",
+          "code_url": "https://www.xwiki.org/xwiki/bin/view/Blog/My%20GSOC%20adventure%20with%20XWiki%20and%20Dokuwiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6229933412057088/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6134473047932928/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Map Application",
+          "short_description": "This project is about the development of interactive maps in XWiki. Creation of an application within XWiki that will allow users to generate...",
+          "student_name": "Fawad Ali",
+          "code_url": "https://gist.github.com/9inpachi/b02fd831de7d79a7f3823634019470c4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6419557139349504/"
+        },
+        {
+          "title": "WXikie_DivyansnshJain",
+          "short_description": "This is the proposal with respect to the task I'll be pursuing in the GSOC 2019. In this document I've briefly explained about the task I'll be doing...",
+          "student_name": "jaindiv26",
+          "code_url": "https://www.xwiki.org/xwiki/bin/view/Blog/My%20GSOC19%20Experience./",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5275824041754624/"
+        },
+        {
+          "title": "Helm chart for XWiki",
+          "short_description": "To develop official helm chart of xwiki so that it can be seamlessly deployed to Kubernetes. The chart should be configurable and highly available.",
+          "student_name": "Ashish Sharma-1",
+          "code_url": "https://www.xwiki.org/xwiki/bin/view/Blog/My%20GSOC%20journey%20with%20xwiki/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4721878353051648/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6726059115937792/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "GitHub Importer",
+          "short_description": "GitHub Importer is an XWiki Extension which imports GitHub pages and wikis into XWiki.\nThe extension provides the following features:\n\nAbility to...",
+          "student_name": "Haxsen",
+          "code_url": "https://dev.xwiki.org/xwiki/bin/view/GoogleSummerOfCode/GitHubImporter2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4840319801098240/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5665151457427456/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Elastic Compute Cloud-based Amazon Machine Image for XWiki",
+          "short_description": "The aim of the project is to increase the number of active installs in XWiki by providing the end-users with the flexibility to use Cloud Computing...",
+          "student_name": "Sanchita Singh",
+          "code_url": "https://gist.github.com/sanchita141011/2377d7c0b8973ca8b24fb5e51a3de0fb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6490773557608448/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/xwiki/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Snap Package for XWiki",
+          "short_description": "Project Description: The goal of this project is to create a snap package of the XWiki . As snaps are self-contained packages that work across a...",
+          "student_name": "Vedant_Pol",
+          "code_url": "https://github.com/VedantPol/GSoC_2022_Report_XWiki/blob/main/GSoC_2022_Vedant_Pol.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fxFT6AGX/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/xwiki",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Interactive Link Visualizer for XWiki",
+          "short_description": "The project aims to develop an interactive link visualizer application for XWiki which shows the end-users a network-graph of pages present in a wiki...",
+          "student_name": "Rajat Khanduri",
+          "code_url": "https://www.xwiki.org/xwiki/bin/view/Blog/RajatGSoCExperience",
+          "proposal_id": "jXY7IzOa",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SDsRPpLf"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://dev.xwiki.org/xwiki/bin/view/Community/Chat",
+  "contact_email": "mailto:committers@xwiki.org",
+  "mailing_list": "https://dev.xwiki.org/xwiki/bin/view/Community/Discuss",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/xwikiorg",
+  "blog_url": "https://dev.xwiki.org/xwiki/bin/view/Community/Discuss#HForum"
+}

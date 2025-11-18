@@ -1,0 +1,42 @@
+{
+  "name": "The Qt Project",
+  "url": "http://wiki.qt.io/",
+  "image_url": "https://lh3.googleusercontent.com/3rlqQG2e3Fuqd1T5a-jTW8-yuI06AE8ilPiN3bUEF1q-1TeCpsMk3rUKbZoz1_sKP1JgJ-lWlr5Yma9mZz1DOtc0LbCcqQ",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "graphics",
+    "gis",
+    "maps",
+    "declarative language"
+  ],
+  "technologies": [
+    "opengl",
+    "qt",
+    "qml",
+    "c++11",
+    "cpp"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6475167723159552/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Add GeoJSON interoperability to QtLocation",
+          "short_description": "The goal of this project is to make QtLocation interoperable with GeoJSON (https://tools.ietf.org/html/rfc7946). This translates into adding support...",
+          "student_name": "Julian Sherollari",
+          "code_url": "https://codereview.qt-project.org/#/q/owner:%22Julian+Sherollari%22+,n,z",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5180918117433344/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.qt.io/IRC",
+  "contact_email": "",
+  "mailing_list": "http://lists.qt-project.org/mailman/listinfo/development",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/qtproject",
+  "blog_url": "http://blog.qt.io/"
+}

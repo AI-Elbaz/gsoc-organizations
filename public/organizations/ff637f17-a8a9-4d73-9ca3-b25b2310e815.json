@@ -1,0 +1,187 @@
+{
+  "name": "Beam Community",
+  "url": "http://beamcommunity.github.io",
+  "image_url": "https://lh3.googleusercontent.com/3NTyFksUJY1s5wfOoxtTI_ky6T1sLQtQsXFwPKtQ6eCsTBu4sEaUSh6QSbeSATr20rZYKwqrEoUkgFhXEmcXznn8rvST0Os",
+  "image_background_color": "#3567b4",
+  "category": "Programming languages",
+  "topics": [
+    "real time",
+    "cloud",
+    "messaging",
+    "scalability",
+    "database",
+    "realtime",
+    "communication system",
+    "clustering",
+    "iot",
+    "instant messaging",
+    "distributed computing",
+    "distributed databases"
+  ],
+  "technologies": [
+    "xmpp",
+    "erlang",
+    "elixir",
+    "beam",
+    "mqtt",
+    "lisp"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6384003686858752/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Implementing op-based CRDTs in Lasp",
+          "short_description": "Conflict-free Replicated Data Types (CRDTs) make the design of eventually consistent systems non ad-hoc and anomaly-free by formalizing the...",
+          "student_name": "g_unis",
+          "code_url": "https://gist.github.com/gyounes/de1709f254e84812713079d34786afc8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6443343760326656/"
+        },
+        {
+          "title": "Privileged Entity Support to Write Powerful External Components for ejabberd",
+          "short_description": "Writing XMPP components is a good way to enhance the functionality of XMPP servers like ejabberd.  Jabber Component Protocol (XEP-0114) is used today...",
+          "student_name": "AnnaMuharram",
+          "code_url": "https://gist.github.com/Amuhar/e319ba56ba52bf62f1f5ad29b03c7b74",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6611252822409216/"
+        },
+        {
+          "title": "Implement an elixir backend for indexing and extending the database",
+          "short_description": "Barrel is a distributed database built on top of Erlang and CouchDB. There are provisions in Barrel to extend the database with user defined modules...",
+          "student_name": "sivsushruth",
+          "code_url": "https://github.com/sivsushruth/gsoc/wiki/GSoC-report-for--Barrel-BEAM-Community",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6734232231608320/"
+        },
+        {
+          "title": "Implementation of Real-time Statistics in Zotonic",
+          "short_description": "Implement a module which will help give insight into the traffic of a Zotonic server/site through visualization of the stats in real-time. The system...",
+          "student_name": "tex",
+          "code_url": "https://github.com/tahteche/zotonic/commits/mod_admin_statistics?author=tahteche",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5266916516036608/"
+        },
+        {
+          "title": "Distributed Intermediate Tree Elimination in Lasp",
+          "short_description": "Lasp computations are formed using a small subset of a functional language. In functional languages, it is very common to see intermediate lists\u2014and,...",
+          "student_name": "Borja",
+          "code_url": "https://ergl.github.io/gsoc2016.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5343745964769280/"
+        },
+        {
+          "title": "Improve ejabberd configuration and extensibility with configuration DSL",
+          "short_description": "This project aims to improve the ejabberd configuration, extensions and plugins writing using the Elixir programming language and its DSL...",
+          "student_name": "Gabriel Gatu",
+          "code_url": "https://gist.github.com/gabrielgatu/7aae9fa01f6640946324e33aad2e609c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6013787169619968/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5344914732744704/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "A code formatter for Elixir",
+          "short_description": "By leaving tedious formatting to the machine, code formatters provide a substantial increase in engineering productivity and a consistent style...",
+          "student_name": "alexjiao",
+          "code_url": "https://github.com/uohzxela/ex_format",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6463694657552384/"
+        },
+        {
+          "title": "Ejabberd support for \"let's encrypt\" ACME protocol",
+          "short_description": "The Automatic Certificate Management Environment (ACME) protocol is a communications protocol for automating interactions between certificate...",
+          "student_name": "Konstantinos Kallas",
+          "code_url": "https://github.com/processone/ejabberd/pull/1959",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6727670863757312/"
+        },
+        {
+          "title": "ETS support for Erlang Lab",
+          "short_description": "Erlang Lab (https://github.com/erlanglab) is an Open Source project aimed at analysing the performance of Erlang and Elixir systems. The project...",
+          "student_name": "Kacper Mentel",
+          "code_url": "https://github.com/mkacper/erlangpl/wiki/GSOC-Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5300436051427328/"
+        },
+        {
+          "title": "Implementing a Real World Application in the Lasp Programming Language",
+          "short_description": "The nature of distributed systems and their fault model is chaotic: replicas can fail temporarily or just stop working, and the complexity of adding...",
+          "student_name": "goncalotomas",
+          "code_url": "https://gist.github.com/goncalotomas/a1ac942dc6fbb4a21b1203b7d251baf3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4917747754467328/"
+        },
+        {
+          "title": "Server-to-Server Stream Management Support for ejabberd",
+          "short_description": "Reliability is essential for communication using XMPP. Although basic XMPP is not reliable in some situations. One of these situations is losing...",
+          "student_name": "Anna Mukharram",
+          "code_url": "https://gist.github.com/Amuhar/d238f4cc3974d8f946cbe9d0ef035175",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5766531002662912/"
+        },
+        {
+          "title": "Implementation of a RabbitMQ Plugin for BarrelDB",
+          "short_description": "All changes in the Barrel databases and indexes (updates, creations and deletions) can be retrieved in Barrel using the HTTP API. There are many...",
+          "student_name": "Tah Teche Tende",
+          "code_url": "https://medium.com/@tahteche/google-summer-of-code-2017-wrap-up-48d2268b0cd0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5826739599048704/"
+        },
+        {
+          "title": "Port Zotonic Shell Scripts to Erlang EScript.",
+          "short_description": "Currently Zotonc uses shell scripts for the command line functionality e.g starting Zotonic, installing modules, etc.\nThese command line scripts are...",
+          "student_name": "Mbeh",
+          "code_url": "https://docs.google.com/spreadsheets/d/1p9tYUJ3_JmTD1xbZ6fl6d-1foZ0iVR1CvcmsoxZKqMA/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5926176681885696/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5082029850886144/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improving Riak testing suites using Common Test and Intercepts",
+          "short_description": "Riak KV is an open source database with a strong focus on low latency, reliability and fault tolerance. Like any well tested computer system,...",
+          "student_name": "Gon\u00e7alo Tom\u00e1s",
+          "code_url": "https://gist.github.com/goncalotomas/3a821cca8bf07b8a159abba4df72ca89",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5536566172712960/"
+        },
+        {
+          "title": "Tensorflex: Tensorflow bindings for the Elixir programming language",
+          "short_description": "Currently, there is a lack of machine learning tools and frameworks for Elixir. With the number of programmers learning/using machine learning only...",
+          "student_name": "Anshuman Chhabra",
+          "code_url": "https://github.com/anshuman23/tensorflex",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5361302180462592/"
+        },
+        {
+          "title": "Create an Elixir client for BarrelDB",
+          "short_description": "Make a BarrelDB client in idiomatic Elixir with its tests and documentation.\nThe project scope depending on the progress done may also involve:\n...",
+          "student_name": "Jakub Janarek",
+          "code_url": "https://docs.google.com/document/d/1FALaT9tAzQueKY67aUU2J_qFb0WV6fIe9Ca4-EbdMFQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6228633513361408/"
+        },
+        {
+          "title": "Monitoring performance of Elixir packages with ElixirBench",
+          "short_description": "ElixirBench platform is a proof of concept that already showed its value, the key deliverable is to bring it up and running for nightly performance...",
+          "student_name": "Tallys Martins",
+          "code_url": "https://gist.github.com/tallysmartins/83bbe000cbc385e8b651e650248e8192",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4837414216400896/"
+        },
+        {
+          "title": "Elixir Idea #1: Typespecs to StreamData generators",
+          "short_description": "Project Description\nStreamData is a library that adds\ndata generation and property-based testing to Elixir. The goal of this project\nis to read @type...",
+          "student_name": "njichev",
+          "code_url": "https://github.com/njichev/type-generators",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4875067859140608/"
+        },
+        {
+          "title": "Add dialyzer task to Elixir",
+          "short_description": "Dialyzer is a discrepancy analyzer that ships as part of the Erlang VM. There are two projects that adds Dialyzer support to Elixir applications:...",
+          "student_name": "Gabriel Gatu",
+          "code_url": "https://github.com/gabrielgatu/mix-dialyzer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5817190813007872/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "http://beamcommunity.github.io",
+  "contact_email": "mailto:contact@process-one.net",
+  "mailing_list": "https://groups.google.com/d/forum/beam-community",
+  "ideas_url": "",
+  "guide_url": ""
+}

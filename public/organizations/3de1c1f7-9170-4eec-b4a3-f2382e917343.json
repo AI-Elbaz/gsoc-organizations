@@ -1,0 +1,98 @@
+{
+  "name": "Physical Web Project",
+  "url": "http://physical-web-project.github.io/",
+  "image_url": "https://lh3.googleusercontent.com/4louIdBvWdQ5Jz_c-9lYN8p0OjZKSZ6DJoCPgBlqdyRI5UjJ8PmrYew-CWgjBlIJm_8NJnlv0Wsn6zvHvp4WASe07-0UCg",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "web apps",
+    "internet of things",
+    "mobile",
+    "beacons"
+  ],
+  "technologies": [
+    "python",
+    "arduino",
+    "internet of things",
+    "beacons",
+    "beacon",
+    "web bluetooth",
+    "physical web",
+    "bluetooth"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5971566567358464/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Bring Your Own Pois +  Android Controller Upgrade",
+          "short_description": "Liquid Galaxy needs a bluetooth scanner which will interact with Physical Web (PW) Beacon. Once the scanner has found this PW  beacon it will...",
+          "student_name": "Ivan Josa",
+          "code_url": "https://github.com/LiquidGalaxyLAB/Liquid-Galaxy-POIs-Controller/blob/master/GSOC16.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5694641034756096/"
+        },
+        {
+          "title": "IBRI - Interactive Beacon Rescue Interface",
+          "short_description": "This project is proposing of a civil security solution using physical web as main technology and drones (uav) to find missing people. The way to find...",
+          "student_name": "Mois\u00e9s Lodeiro",
+          "code_url": "https://github.com/LiquidGalaxyLAB/IBRI/blob/master/GSOC16.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6184460043157504/"
+        },
+        {
+          "title": "Smart Coffee Machine with proximity pairing",
+          "short_description": "This project aims to demonstrate the new capabilities of the Bluetooth Web API and Physical Web to easily connect and configure a smart device, using...",
+          "student_name": "Alexis Duque",
+          "code_url": "https://github.com/alexisduque/pw-coffee-machine",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4574579330646016/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6491731667189760/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Smartphone Auto Settings Project",
+          "short_description": "The primary principle of the project is to allow the user the ability to switch to any setting on his/her phone based on location (identified by...",
+          "student_name": "Savidu Dias",
+          "code_url": "https://github.com/Savidude/smartphone-auto-settings",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6640033398259712/"
+        },
+        {
+          "title": "My meteorological station",
+          "short_description": "My meteorological station is a project that consists of building a homemade meteorological station using physical web beacon and raspberry pi.\nThe...",
+          "student_name": "Gerard Farr\u00e9 Gomez",
+          "code_url": "https://github.com/gerard87/my-meteorological-station/blob/master/docs/GSOC17.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6696000311787520/"
+        },
+        {
+          "title": "Physical Web Museum Backend",
+          "short_description": "The aim of this project is to implement a backend for museums &amp; exhibits that utilizes Physical Web technology. The backend will allow visitors...",
+          "student_name": "Mohammad Kayali",
+          "code_url": "https://kayali.io/blog/gsoc-part-2/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4972384704528384/"
+        },
+        {
+          "title": "Geographical Memories",
+          "short_description": "Geographical Memories is a social platform to share travelling memories. By using Physical Web users are able to showcase their thoughts about...",
+          "student_name": "Gerard Rovira S\u00e1nchez",
+          "code_url": "https://github.com/zurfyx/memories/wiki/GSoC-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6203506612502528/"
+        },
+        {
+          "title": "Hospital Routing using Physical Web Beacons",
+          "short_description": "This project aims at building a solution wherein a user can easily navigate inside hospitals using an application in his/her smartphone. The...",
+          "student_name": "Vipin Raj KP",
+          "code_url": "https://github.com/vipinraj/pw-hospital-routing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4861610652860416/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:physicalwebproject@gmail.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

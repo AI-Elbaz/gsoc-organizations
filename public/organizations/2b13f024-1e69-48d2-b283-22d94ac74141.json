@@ -1,0 +1,559 @@
+{
+  "name": "Apertium",
+  "url": "https://apertium.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/apertium/bonpbccfuafpa634-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "natural language processing",
+    "machine translation",
+    "computer-aided translation",
+    "morphological analysis",
+    "human language technologies",
+    "lesser-resourced languages",
+    "language technology",
+    "grammar",
+    "less-resourced languages",
+    "less-resources languages"
+  ],
+  "technologies": [
+    "python",
+    "perl",
+    "c++",
+    "xml",
+    "finite-state technologies",
+    "nlp",
+    "fsts",
+    "bash",
+    "javascript"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5377487227846656/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Apertium website improvements",
+          "short_description": "New features provide benefits both to Apertium users and Apertium team.\nApertium website users will get the improved tool which provides a new...",
+          "student_name": "Kira",
+          "code_url": "http://wiki.apertium.org/wiki/GSOC%2716_Kira%27s_results._Apertium_website_improvements",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5652720409116672/"
+        },
+        {
+          "title": "Investigation of new ways to combining Constraint-grammar and apertium-tagger & a new averaged perception based tagger",
+          "short_description": "Many less resourced languages don\u2019t have a tagged corpus or only have a small amount of poorly tagged material. In such cases unsupervised learning...",
+          "student_name": "frankier",
+          "code_url": "http://wiki.apertium.org/wiki/Frankier/GSOC_2016_submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5669287574372352/"
+        },
+        {
+          "title": "Sardu, abbarra vivu!",
+          "short_description": "The project I intend to carry out is the creation of a MT engine for the language pair Italian-Sardinian based on the Apertium platform. As pointed...",
+          "student_name": "gianfro",
+          "code_url": "https://apertium.projectjj.com/gsoc2016/gfro3d.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6136890327564288/"
+        },
+        {
+          "title": "Kurmanji (Kurdish)-English MT",
+          "short_description": "I propose to work on the Kurmanji-English language pair, with the aim of improving it to the state of the art level, in terms of coverage and...",
+          "student_name": "mgokirmak",
+          "code_url": "http://wiki.apertium.org/wiki/Kurmanji_and_English/Final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5069737520267264/"
+        },
+        {
+          "title": "Project: Adopting a language pair",
+          "short_description": "Currently the pol-rus language pair is in the beginning state (in the incubator). There are very few words in the bilingual dictionary and no rules....",
+          "student_name": "Maria Sheyanova",
+          "code_url": "http://wiki.apertium.org/wiki/Polish_and_Russian/Project_description#Description_of_the_main_package_components",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5122107398684672/"
+        },
+        {
+          "title": "Adopt an unreleased Kazakh-English language pair",
+          "short_description": "These days the translating text automatically by using machine translation is very important, because it helps people from whole world to understand...",
+          "student_name": "Aidana",
+          "code_url": "http://wiki.apertium.org/wiki/User:Aidana/Proposal/Working_plan#Report_of_GSoC_project",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4744168530247680/"
+        },
+        {
+          "title": "Lint For Apertium",
+          "short_description": "My draft proposal for the Lint for Apertium project.",
+          "student_name": "Jaipal",
+          "code_url": "https://gitlab.com/jpsinghgoud/apertium-lint/commits/master",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4902239969738752/"
+        },
+        {
+          "title": "Automatic Blank Handling",
+          "short_description": "Our current format handling is brittle, requiring transfer rules to explicitly deal with blanks, and some times inevitably outputting them in the...",
+          "student_name": "Junaid Ali",
+          "code_url": "https://apertium.projectjj.com/gsoc2016/junzayy.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5791376851599360/"
+        },
+        {
+          "title": "Machine Translation for Sicilian-Spanish Language Pair",
+          "short_description": "The project goal is to create a machine translation package for Sicilian-Spanish language pair on the base of Apertium\u2019s machine translation system....",
+          "student_name": "Uliana Sentsova",
+          "code_url": "http://wiki.apertium.org/wiki/Siciliano_y_castellano/Informe_final",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5883995808071680/"
+        },
+        {
+          "title": "New Belarusian-Russian language pair",
+          "short_description": "I propose to create Belarusian-Russian language pair.",
+          "student_name": "kvld",
+          "code_url": "http://wiki.apertium.org/wiki/Belarusian_and_Russian/Final_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5954603862458368/"
+        },
+        {
+          "title": "Apertium Weighted Transfer Rules",
+          "short_description": "The idea of the task is to implement a mechanism of resolving transfer rule conflicts using previously obtained rule weights. The tool for obtaining...",
+          "student_name": "tiefling-cat",
+          "code_url": "http://wiki.apertium.org/wiki/Weighted_transfer_rules_at_GSoC_2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5976116011466752/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6618812501721088/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "UD-annotatrix",
+          "short_description": "The aim of my project is to create an easy-to-use, quick and interactive interface tool for UD annotation based on the existing Apertium project. The...",
+          "student_name": "maryszmary",
+          "code_url": "http://wiki.apertium.org/wiki/UD_annotatrix/UD_annotatrix_at_GSoC_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5408319187451904/"
+        },
+        {
+          "title": "Implementing a shallow syntactic function labeller",
+          "short_description": "In many pairs it is useful to know in addition to the morphological tags of a word, syntactic function tags in order to make an adequate translation....",
+          "student_name": "Anna Kondratjeva",
+          "code_url": "http://wiki.apertium.org/wiki/Shallow_syntactic_function_labeller",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5054841768378368/"
+        },
+        {
+          "title": "Automatic blank handeling",
+          "short_description": "Our current handling of formatting/markup (HTML, odt, docx, latex) is brittle, requiring transfer rules to explicitly deal with blanks (e.g. markup),...",
+          "student_name": "Vinay Singh",
+          "code_url": "http://wiki.apertium.org/wiki/User:SilentFlame/updatedPipeline",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5549278403493888/"
+        },
+        {
+          "title": "Development of the Czech to Russian Language Pair",
+          "short_description": "I plan to assist in the development of the Czech to Russian language pair in order to bring the Czech to Russian translation capabilities to release...",
+          "student_name": "lylax47",
+          "code_url": "https://apertium.projectjj.com/gsoc2017/lylax47.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4620540983640064/"
+        },
+        {
+          "title": "Improvements to the Apertium Website Interface",
+          "short_description": "Apertium is a free/open-source platform for rule-based machine translation and language technology which is aimed providing support for...",
+          "student_name": "mono",
+          "code_url": "http://wiki.apertium.org/wiki/User:Mono/GSoC_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4620792373444608/"
+        },
+        {
+          "title": "Crimean Tatar-Turkish MT",
+          "short_description": "Creating a new rule based translation pair between Crimean Tatar and Turkish. This involves disambiguation, transfer and lexical selection.",
+          "student_name": "Memduh G\u00f6k\u0131rmak",
+          "code_url": "http://wiki.apertium.org/wiki/Crimean_Tatar_and_Turkish/GSoC_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4632948204634112/"
+        },
+        {
+          "title": "Discontiguous Multiwords",
+          "short_description": "Discontiguous multiwords are multi-word expressions that are separated by something in the middle (e.g. \"take the garbage out\") . Apertium currently...",
+          "student_name": "Irene Tang",
+          "code_url": "http://wiki.apertium.org/wiki/Lsx_module/report2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4690909727817728/"
+        },
+        {
+          "title": "Chukchi morphological analyser using HFST",
+          "short_description": "Chukchi is a language with rich and complicated morphology and incorporation.\nBy now morphological parsers using regular expressions were not able to...",
+          "student_name": "Vasilisa Andriyanets",
+          "code_url": "https://github.com/BasilisAndr/chkchn",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4736366453719040/"
+        },
+        {
+          "title": "\u201cProposal apertium cat-srd and ita-srd\u201d",
+          "short_description": "Catalan to Sardinian (apertium-cat-srd):\nThe project has already started and currently the bidix is in the Staging section. The Catalan language is...",
+          "student_name": "Gianfranco Fronteddu",
+          "code_url": "http://wiki.apertium.org/wiki/Apertium_cat-srd_and_ita-srd/GSoC_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6499295909904384/"
+        },
+        {
+          "title": "Adopting English-Catalan language pair to bring it close to state-of-the-art quality",
+          "short_description": "Apertium currently has an English-Catalan language pair in trunk, but there is a lot of room for improvement. One of the existing problems is the use...",
+          "student_name": "Marc Riera Irigoyen",
+          "code_url": "http://wiki.apertium.org/wiki/English_and_Catalan/GSOC_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5930868531003392/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5754587369701376/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "Fra-oci/oci-fra translator",
+          "short_description": "I intend to work on a French-Occitan translation pair in order to provide a new translator, which will be useful first to the Occitan community but...",
+          "student_name": "Claude Balaguer",
+          "code_url": "http://wiki.apertium.org/wiki/User:Capsot/GSOC_2018_Occitan_French",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5664530495438848/"
+        },
+        {
+          "title": "Adoption of Guarani - Spanish pair",
+          "short_description": "Guarani is one of the most widely spread indigenous languages of southern South America. It is spoken by 6 million people in Paraguay (where it is...",
+          "student_name": "Anastasia Kuznetsova",
+          "code_url": "http://wiki.apertium.org/wiki/User:Anakuznetsova/GSOC_2018_Guarani_Spanish",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5434804640153600/"
+        },
+        {
+          "title": "Kannada-Marathi language translation",
+          "short_description": "I am adding a new language pair (Kannda-Marathi) to Apertium.",
+          "student_name": "Vidyadheesha D N",
+          "code_url": "http://wiki.apertium.org/wiki/Apertium-kan-mar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6243685763121152/"
+        },
+        {
+          "title": "Apertium translation pair for Kazakh and Sakha",
+          "short_description": "I would like to develop Apertium translation pair for Kazakh and Sakha languages. It would benefit society in whole by keeping diversity supporting...",
+          "student_name": "Sardana Ivanova",
+          "code_url": "http://wiki.apertium.org/wiki/Kazakh_and_Sakha/GSoC2018_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4877442304966656/"
+        },
+        {
+          "title": "Bilingual dictionary enrichment via graph completion",
+          "short_description": "Graph representation is very promising because it represents a philosophical model of a metalanguage knowledge. Knowing several languages, I know...",
+          "student_name": "Evgenii Glazunov",
+          "code_url": "https://github.com/dkbrz/GSoC_2018_final",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4905772915884032/"
+        },
+        {
+          "title": "Adopting the unreleased Romanian-Catalan pair and upgrading other pairs to the monolingual module system",
+          "short_description": "Currently there are no machine translation systems offering direct translation between Romanian and Catalan available to the general public. English...",
+          "student_name": "Marc Riera Irigoyen",
+          "code_url": "http://wiki.apertium.org/wiki/Romanian_and_Catalan/GSOC_2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4939485456367616/"
+        },
+        {
+          "title": "Uyghur-Turkish MT",
+          "short_description": "An MT for the closely related Turkic languages, Uyghur of the Karluk branch and Turkish of the Oghuz branch.",
+          "student_name": "O\u011fuz",
+          "code_url": "http://wiki.apertium.org/wiki/Uighur_and_Turkish/GSoC2018_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5988796768190464/"
+        },
+        {
+          "title": "Improving language pairs by mining MediaWiki Content Translation postedits",
+          "short_description": "The purpose of this proposal is to create a toolbox for automatic improvement of lexical component of a language pair. This toolbox might become a...",
+          "student_name": "Anna Kondratjeva",
+          "code_url": "http://wiki.apertium.org/wiki/Automatic_postediting_at_GSoC_2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5991569840668672/"
+        },
+        {
+          "title": "Tatar and Bashkir: developing a language pair",
+          "short_description": "The tat-bak language pair already exists in Apertium, but is now in the nursery state. The aim of my project is to develop this language pair,  fill...",
+          "student_name": "Anna Zueva",
+          "code_url": "http://wiki.apertium.org/wiki/Tatar_and_Bashkir/GSOC_2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5173252473225216/"
+        },
+        {
+          "title": "Extend lttoolbox to have the power of HFST",
+          "short_description": "The aim of this project is to implement the support for morphographemics and weights in the lttoolbox transducer. The proposal focuses on extending...",
+          "student_name": "Abinash Senapati",
+          "code_url": "http://wiki.apertium.org/wiki/User:Techievena/GSoC_2018_Work_Product_Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5193083880734720/"
+        },
+        {
+          "title": "UD-Annotatrix",
+          "short_description": "This project aims to extend the functionality of the UD Annotatrix tool.  This tool allows researchers to annotate universal dependency trees right...",
+          "student_name": "kmurphy4",
+          "code_url": "https://gist.github.com/keggsmurph21/4cce74eb0542373417b2e0366ab9394d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5199294671880192/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5281228587008000/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Recursive Transfer",
+          "short_description": "Build a GLR parser-generator as an alternative to the current chunking system to better support long-distance phrasal reordering.",
+          "student_name": "Daniel Swanson",
+          "code_url": "https://github.com/apertium/apertium-recursive",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6746718069063680/"
+        },
+        {
+          "title": "Anaphora Resolution",
+          "short_description": "Anaphora resolution is the problem of resolving references to earlier items in the discourse. This most commonly appears as pronoun resolution where...",
+          "student_name": "Tanmai Khanna",
+          "code_url": "http://wiki.apertium.org/wiki/User:Khannatanmai/GSoC2019Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5434868157120512/"
+        },
+        {
+          "title": "Develop a releasable Uzbek-Qaraqalpaq translation pair",
+          "short_description": "In this project I am going to create a new translation pair between Uzbek and Qaraqalpaq.  There is no other single translator between these two...",
+          "student_name": "Sharapat Kalabaev",
+          "code_url": "http://wiki.apertium.org/wiki/User:Qareken/GSoC2019Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6137485212516352/"
+        },
+        {
+          "title": "Improve/Extend weighted transfer rules module",
+          "short_description": "Ambiguous patterns are ones that more than one transfer rule could be applied to. Apertium resolves this ambiguity by applying the left-to-right...",
+          "student_name": "Aboelhamd Aly",
+          "code_url": "https://github.com/aboelhamd/Weighted-transfer-rules-module",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5067352637440000/"
+        },
+        {
+          "title": "Turkic MT improvements",
+          "short_description": "Refining four Turkic MTs: uig-tur, kyr-tur, uzb-tur and tat-tur",
+          "student_name": "O\u011fuz",
+          "code_url": "http://wiki.apertium.org/wiki/Turkic_MT_Improvements_GSoC2019_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5106764196872192/"
+        },
+        {
+          "title": "Python API/library for Apertium",
+          "short_description": "Apertium is a free/open-source rule-based machine translation platform implemented in C++. Right now, the project is calling Apertium binaries as...",
+          "student_name": "vaydheesh",
+          "code_url": "http://wiki.apertium.org/wiki/User:Vaydheesh/GSoC2019Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5239196560654336/"
+        },
+        {
+          "title": "English-Lingala language pair",
+          "short_description": "An \u2018English-Lingala\u2019 language pair using Apertium rule-based machine translation system.",
+          "student_name": "Eden-Grace Muamba",
+          "code_url": "http://wiki.apertium.org/wiki/User:Eden/GSoC2019Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4582884889853952/"
+        },
+        {
+          "title": "Unsupervised weighting of automata",
+          "short_description": "Finite state automata/ transducers are currently used in lots of application including machine translation.\nOne of the most challenging parts of...",
+          "student_name": "Amr Keleg",
+          "code_url": "https://github.com/apertium/apertium-weighting-tools",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5982561396850688/"
+        },
+        {
+          "title": "Improvement of Annotatrix project",
+          "short_description": "Bug fixes and feature implementations for Annotatrix tool",
+          "student_name": "Alyaxey Yaskevich",
+          "code_url": "https://gist.github.com/yaskevich/237f4900e34902c8ceba0c7a3af00cb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5173615497052160/"
+        },
+        {
+          "title": "Improving the Catalan-Italian and Catalan-Portuguese language pairs",
+          "short_description": "In this project there are two major goals: 1) improving the existing translators from Italian to Catalan, from Portuguese to Catalan and from Catalan...",
+          "student_name": "H\u00e8ctor Al\u00f2s Font",
+          "code_url": "https://apertium.projectjj.com/gsoc2019/hectoralos.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5184755836911616/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6269334810263552/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Bilingual Dictionary Discovery via Graph Exploration",
+          "short_description": "A crucial step in developing a language pair is writing its bilingual dictionary, which maps a lemma X in language A to a lemma Y in language B if X...",
+          "student_name": "Shashwat Goel",
+          "code_url": "https://github.com/shash42/ApertiumBidixGen",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6579391720587264/"
+        },
+        {
+          "title": "Adopt an unreleased language pair : Hindi-Punjabi",
+          "short_description": "I plan on developing the Hindi-Punjabi language pair in both directions i.e. hin-pan and pan-hin. This'll involve improving the monolingual...",
+          "student_name": "Priyank Modi",
+          "code_url": "https://wiki.apertium.org/wiki/User:Pmodi/GSOC_2020_proposal:_Hindi-Punjabi/progress",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6209442061746176/"
+        },
+        {
+          "title": "State-of-the-art Morphological Analayser for Uzbek language and improved language pairs uz-kk, uz-ky, uz-tr.",
+          "short_description": "Creating the State-of-the-art HFST-based Morphological Analayser for Uzbek language, contributing on the Karakapak and Uyghur Morphological...",
+          "student_name": "Elmurod Kuriyozov",
+          "code_url": "https://wiki.apertium.org/wiki/User:Elmurod1202/GSoC2020_Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6213388935364608/"
+        },
+        {
+          "title": "Adopting the French-Arpitan language pair",
+          "short_description": "I propose to create a bidirectional French-Arpitan translator. Arpitan (often called Franco-Proven\u00e7al) is an endangered and heavily under-resourced...",
+          "student_name": "H\u00e8ctor Al\u00f2s Font",
+          "code_url": "https://apertium.projectjj.com/gsoc2020/hectoralos.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6217740206997504/"
+        },
+        {
+          "title": "Adopting an unreleased language pair of Uzb-> Kaa",
+          "short_description": "In this project I am going to create a new language pair uzb-kaa. Last year I have helped with translations to GSoC 2019 student,as I am native...",
+          "student_name": "Amirniyaz Mambetniyazov",
+          "code_url": "https://apertium.projectjj.com/gsoc2020/MambetniyazovAmir.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4815970624864256/"
+        },
+        {
+          "title": "Extending Ve\u2019rdd for Apertium Needs",
+          "short_description": "This proposal is targeted to the task named \"A Web Interface to expanding dictionary lemmas integrate with GitLab/GitHub\". As I have already...",
+          "student_name": "Khalid Alnajjar",
+          "code_url": "https://www.khalidalnajjar.com/verdd-dictionary-editing-tool/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4927046397984768/"
+        },
+        {
+          "title": "Modifying the apertium stream format and solving the markup reordering problem using wordbound blanks",
+          "short_description": "Markup handling has been a problem in Apertium for a long time. It was done using superblanks that encapsulate markup information inside them during...",
+          "student_name": "Tanmai Khanna",
+          "code_url": "https://wiki.apertium.org/wiki/User:Khannatanmai/GSoC2020_Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5160743990722560/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5702681049432064/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Adopting the Hindi-Bengali language pair (unreleased language pair).",
+          "short_description": "In this project, I aim to create a hin-ben repository in Apertium that also includes the task of creating/expanding the transfer rules, creating the...",
+          "student_name": "Gourab Chakraborty",
+          "code_url": "https://apertium.projectjj.com/gsoc2021/gourab337.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6423608859033600/"
+        },
+        {
+          "title": "Apertium Browser Plugin",
+          "short_description": "My project has been to develop the Apertium Browser Plugin.\nThe previous Geriaoueg plugin is out of date, with the official link given in the wiki...",
+          "student_name": "Omkar Prabhune",
+          "code_url": "https://gist.github.com/OverPoweredDev/8bb198c15af03e78b809199fc0b3ccc6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5646788425416704/"
+        },
+        {
+          "title": "Adopt an unreleased language pair, Hindi-Bhojpuri",
+          "short_description": "I plan on developing the Bhojpur-Hindi language pair in both directions i.e. bho-hin and hin-bho.  This will involve building a monolingual...",
+          "student_name": "Anuradha Pandey",
+          "code_url": "https://apertium.projectjj.com/gsoc2021/pandeyanuradha.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5623885411647488/"
+        },
+        {
+          "title": "Implementing new language pair: Kazakh - Uzbek",
+          "short_description": "Having seen the benefits of the open-source Rule-Based Machine Translation platform - Apertium as an alternative to other free/commercial online...",
+          "student_name": "Kamush",
+          "code_url": "https://github.com/kamush901/apertium-kaz-uzb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6186906601127936/"
+        },
+        {
+          "title": "Ideas for Google Summer of Code/Morphological analyser",
+          "short_description": "\u2022 Creating a high-accuracy morphological analyser for Ibo by contributing to the currently existing one;\n  \u2022 Increasing WER on the eng-ibo pair...",
+          "student_name": "Okonkwo Ifeanyichukwu",
+          "code_url": "https://wiki.apertium.org/wiki/User:Ifeanyi/GSoC2021_Final_Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6102427949858816/"
+        },
+        {
+          "title": "User friendly lexical training",
+          "short_description": "The procedure for lexical selection training is a bit messy, with various scripts involved that require lots of manual tweaking, and many third party...",
+          "student_name": "naan_dhaan",
+          "code_url": "https://github.com/vivekvardhanadepu/apertium-lexical-training",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5769288543109120/"
+        },
+        {
+          "title": "Unipertium",
+          "short_description": "3 mostly unrelated smaller projects that all happen to start with \"uni\": UNIcode, UNIt testing, and UNIversal dependencies transfer (the latter being...",
+          "student_name": "Daniel Swanson",
+          "code_url": "https://apertium.projectjj.com/gsoc2021/mr-martian.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5875785646211072/"
+        },
+        {
+          "title": "A morphological analyzer for Bagvalal",
+          "short_description": "Bagvalal is an endangered typologically rare Caucasian language from the Nakh-Daghestanian family. Its conservation and study are constrained by the...",
+          "student_name": "Daniil Ignatiev",
+          "code_url": "https://wiki.apertium.org/wiki/User:Ruthenian8/GSOC_2021_progress_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5945059475718144/"
+        },
+        {
+          "title": "Finnish, Olonets-Karelian and Karelian lexicon development",
+          "short_description": "The three languages that this application targets are closely related Balto-Finnic languages spoken in geographical proximity to one another. Finnish...",
+          "student_name": "Timo Rantakaulio",
+          "code_url": "https://timo.rantakaulio.github.io/gsoc2021.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6266611396247552/"
+        },
+        {
+          "title": "Develop a prototype MT system for a strategic language pair uzb->kaa",
+          "short_description": "In this project I'm going to continue developing translation pair Uzb-Kaa languages. In the list of different pairs of Turkic languages, I analyzed...",
+          "student_name": "Azamat Akimniyazov",
+          "code_url": "https://apertium.projectjj.com/gsoc2021/Zigfruid.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5185890921480192/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/apertium",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Internationalization of Apertium Tools",
+          "short_description": "This project aims to internationalize Apertium tools so that they can be localized easily to other languages, which makes usage of Apertium tools...",
+          "student_name": "Ahmed Siam",
+          "code_url": "https://ahmedsiam.com/gsoc-2023-report-internationalization-of-apertium-tools",
+          "proposal_id": "4LDm73yo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/0lVWglOx"
+        },
+        {
+          "title": "Leveraging Morphological Data from Linguistic Software Tools for Computational Resource Generation",
+          "short_description": "This proposal aims to leverage the language documentation data compiled by linguists in popular fieldwork software tools for extraction of...",
+          "student_name": "Alex O'Neil",
+          "code_url": "https://apertium.projectjj.com/gsoc2023/aconeil.html",
+          "proposal_id": "Lu4aEAa7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RhokBhsw"
+        },
+        {
+          "title": "Tokenization for spaceless orthographies in Japanese",
+          "short_description": "Investigating the suitable tokenizer for east/south Asian languages which usually do not use spaces and implementing it. Besides, improving...",
+          "student_name": "Eiji Miyamoto",
+          "code_url": "https://docs.google.com/document/d/1yxQH6hk-_fjIM9U0fx14OcezMwBUcIlM2WC-AM8O5Y8/edit?usp=sharing",
+          "proposal_id": "1pEy4sF0",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/dkiuHPRc"
+        },
+        {
+          "title": "Develop a morphological analyser",
+          "short_description": "I will be working on creating a morphological dictionary for Kumaoni language and then use it for implementing a morphological analyzer. There are...",
+          "student_name": "Natasha Singh",
+          "code_url": "https://docs.google.com/document/d/1dBNZUT_qHMM1y3gSf8GvZUh4wBSUIrl4k4PvvOaV3Y8/edit#heading=h.wdi8pv1ki3o1",
+          "proposal_id": "iAIZmU2h",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ivKtj51T"
+        },
+        {
+          "title": "Develop a language pair for Highland Puebla Nahuatl (azz) and Western Sierra Puebla Nahuatl (nhi)",
+          "short_description": "My idea is to develop a language pair for Highland Puebla Nahuatl (`azz`) and Western Sierra Puebla Nahuatl (`nhi`). Both are endangered variants of...",
+          "student_name": "Robert Pugh",
+          "code_url": "https://github.com/apertium/apertium-azz-nhi",
+          "proposal_id": "pHFJkzWR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/tREcCymk"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/apertium/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Dictionary Induction from Parallel Corpora",
+          "short_description": "The aim is to construct bidirectional dictionaries for a language pair, given a pair of parallel corpora - i.e., the same content in two different...",
+          "student_name": "Chaitanya Gambali",
+          "code_url": "https://github.com/gs-chaitanya/retratosv2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/C1NBt9vM/"
+        },
+        {
+          "title": "Capitalization Handling Module for es-pt",
+          "short_description": "This project aims to add the Capitalization Handling Module for the es-pt language pair, as well as to create more rules expanding the tool. After...",
+          "student_name": "Pedro Manicardi",
+          "code_url": "https://gist.github.com/PedroManicardi/12f6a58035f5b7ee9307c872453902f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/PT6XzpgA/"
+        },
+        {
+          "title": "Spell-Checking Interface for Apertium's Web Tools",
+          "short_description": "Developing a spell-checking interface for Apertium's web tools to enhance user experience and accessibility. The project aims to update the existing...",
+          "student_name": "Hari Krishna Reddy",
+          "code_url": "https://gist.github.com/satti-hari-krishna-reddy/ce373976d09dd4ac2e48df0547e171cc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/G8zS5pjT/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://wiki.apertium.org/wiki/IRC",
+  "contact_email": "mailto:apertium-contact@lists.sourceforge.net",
+  "mailing_list": "apertium-stuff@lists.sourceforge.net",
+  "ideas_url": "",
+  "guide_url": ""
+}

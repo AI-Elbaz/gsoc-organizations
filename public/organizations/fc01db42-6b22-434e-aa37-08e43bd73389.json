@@ -1,0 +1,161 @@
+{
+  "name": "Kodi",
+  "url": "https://kodi.tv",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/kodi/drlohv8g8h6wfxvo-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "audio",
+    "media center",
+    "video player",
+    "media management",
+    "video",
+    "home theater",
+    "games",
+    "media",
+    "tv"
+  ],
+  "technologies": [
+    "python",
+    "xml",
+    "c++11",
+    "git",
+    "drupal",
+    "mysql",
+    "c",
+    "c++",
+    "github",
+    "ffmpeg",
+    "sqlite",
+    "opengl"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5704018827411456/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "RetroPlayer Improvements",
+          "short_description": "Implement and improve features like shader support and multiplayer.\nFix currently known issues of RetroPlayer\nBrainstorm new features for RetroPlayer",
+          "student_name": "vel0city",
+          "code_url": "https://velocityra.github.io/gsoc-2017/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6395644658843648/"
+        },
+        {
+          "title": "Add Python3 Support",
+          "short_description": "Kodi codebase is written in C++ which is dynamically converted to Python through SWIG and Groovy. In this project Python 3 support is to be added for...",
+          "student_name": "Arpit Nandwani",
+          "code_url": "https://forum.kodi.tv/showthread.php?tid=310136&pid=2637648#pid2637648",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4955302948503552/"
+        },
+        {
+          "title": "Wayland support",
+          "short_description": "Wayland is a set of protocols for communication between applications and compositors that is expected to replace Xorg in the Linux graphics stack in...",
+          "student_name": "Philipp Kerling",
+          "code_url": "https://forum.kodi.tv/showthread.php?tid=309254&pid=2636174#pid2636174",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5773724267577344/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5991099608858624/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Intro/Outro Detection",
+          "short_description": "The goal of this project is to build a tool which can help the users to detect the intros/outros of their TV show files. Using this tool, user can...",
+          "student_name": "Mohit_Agarwal",
+          "code_url": "https://docs.google.com/document/d/1AXIyxK6p3m_IQBWOgBDXxaUFi_457pSblPUQti9uEpo/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6413629029089280/"
+        },
+        {
+          "title": "Static code analysis in Kodi's addon-check tool",
+          "short_description": "One of the major features of Kodi is that it is very extensible. Anyone can create a new addon adding/modifying any functionality that they want. The...",
+          "student_name": "Mehtab Zafar",
+          "code_url": "https://docs.google.com/document/d/1rLDqPOeHQEg0D-gaVsHUTJIQq20QTLyGGDuaL3qgUnQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5036628556906496/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4913612756353024/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "OpenGL back-end for RetroPlayer\u2019s shaders",
+          "short_description": "The purpose of the project is to allow users to apply various shader presets from libretro's shaders repository, to any game, through Kodi's...",
+          "student_name": "Konstantinos Andrianos",
+          "code_url": "https://github.com/KostasAndrianos/RetroPlayerShaders-GSoC19-Summary/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5722676415430656/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6555254004383744/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "A new web interface",
+          "short_description": "The purpose of this project is to replace the current web interface, chorus2, which is written in Coffeescript. In order to maintain active...",
+          "student_name": "Alexander Ionkov",
+          "code_url": "https://github.com/xbmc/elm-chorus",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6352912357261312/"
+        },
+        {
+          "title": "Bitrate switch for inputstream.adaptive binary addon for Kodi",
+          "short_description": "Inputstream.adaptive is written in C++ and handles 3 bitstreams: \nHTTP Live Streaming (HLS)\nDynamic Adaptive Streaming over HTTP (DASH)\nSmooth...",
+          "student_name": "Mohd Tahir",
+          "code_url": "https://github.com/spyderboy92/GSoC20-Kodi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5742216057716736/"
+        },
+        {
+          "title": "Saved game manager for RetroPlayer",
+          "short_description": "My project for the summer of 2020 was to create a save state manager for RetroPlayer. As a stretch goal, I had to implement automatic saved game...",
+          "student_name": "NIKOLA SIAKAS",
+          "code_url": "https://nikossiak.github.io/blog/gsoc2020.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5101942029680640/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5186500538400768/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Achievement in RetroPlayer",
+          "short_description": "This project aims to add a feature of native Achievements in Kodi's RetroPlayer using Kodi's UI system. After addition of this feature, users can...",
+          "student_name": "Shardul Semwal",
+          "code_url": "https://medium.com/@semwalshardul/google-summer-of-code21-final-report-faa6fec2a862",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5719506852249600/"
+        },
+        {
+          "title": "Finish the new web interface",
+          "short_description": "The web interface of Kodi was originally written in Coffeescript and had to be re-written in Elm for maintenance purposes. Till now a basic layout of...",
+          "student_name": "Priyanshu Jain",
+          "code_url": "https://gist.github.com/priyanshu0405/0923ce91c99985da2c5a82136d9495f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6200100740661248/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/kodi/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Finish the new web interface",
+          "short_description": "Chorus 2 is the default Web Interface for Kodi. It has been implemented on Coffeescript, Backbone, Marionette, etc. Kodi now has a project in...",
+          "student_name": "Mohd. Shaheer",
+          "code_url": "https://gist.github.com/developingright/dabf5dfd5e8ec569c0245e39c4a8a425",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hISezqtw/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://web.libera.chat/#kodi",
+  "contact_email": "contact@kodi.tv",
+  "mailing_list": "https://forum.kodi.tv/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/kodiTv",
+  "blog_url": "https://kodi.tv/blog"
+}

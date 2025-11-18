@@ -1,0 +1,63 @@
+{
+  "name": "GitHub",
+  "url": "https://github.com/github",
+  "image_url": "https://lh3.googleusercontent.com/TG-4_pSPGaXiAcliIBTLJ7JphpkTPXW73Gku4V0bdiCLfCIL14swJT1xIzlTYvOffnJHu_ycGTCuHUGnGpVKnrDtvZ28wX8",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "collaboration",
+    "version control",
+    "git",
+    "editor"
+  ],
+  "technologies": [
+    "ruby",
+    "node.js",
+    "git",
+    "atom",
+    "c#"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5632763172487168/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "GUI/Administrative interface for Jekyll",
+          "short_description": "Wide usage of CMS applications like Wordpress proved that once a site is setup, ordinary users can maintain, populate and extend the site through a...",
+          "student_name": "mertkahyaoglu",
+          "code_url": "https://github.com/jekyll/jekyll-admin/pulls?q=is%3Apr+author%3Amertkahyaoglu+is%3Aclosed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6704160481214464/"
+        },
+        {
+          "title": "Enhancements for GitHub Classroom",
+          "short_description": "In this project, I will work on improving the existing GitHub Classroom based on the current user feedback, such as building dashboards for teachers...",
+          "student_name": "cyhsutw",
+          "code_url": "https://gist.github.com/cyhsutw/0d5df3151337c044edcac66073ea0ec3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5491949985333248/"
+        },
+        {
+          "title": "Add support for lookup by repository ID throughout GitHub APIs",
+          "short_description": "The GitHub API supports looking up repositories by owner and name, but a secondary API exists which supports looking up repositories by their numeric...",
+          "student_name": "Dampir",
+          "code_url": "https://github.com/octokit/octokit.net/issues/1120#issuecomment-224547350",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5626090403921920/"
+        },
+        {
+          "title": "Enhanced User Management for GitHub Classroom",
+          "short_description": "Classroom for GitHub is a Ruby on Rails application designed to automate repository creation and access control, making it easy for teachers to...",
+          "student_name": "Peixuan Ding",
+          "code_url": "https://gist.github.com/dinever/848ac259967c850f18b994b7b3038feb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4920090390691840/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/github/mentorships",
+  "contact_email": "mailto:opensource@github.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/github",
+  "blog_url": "https://github.com/blog"
+}

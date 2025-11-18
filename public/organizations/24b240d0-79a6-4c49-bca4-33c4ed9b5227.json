@@ -1,0 +1,402 @@
+{
+  "name": "FOSSology",
+  "url": "https://fossology.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/fossology/bqfblnvpsqnfg5bh-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "compliance",
+    "open source",
+    "licensing",
+    "spdx",
+    "license compliance",
+    "license-scan",
+    "oss licensing",
+    "oss compliance",
+    "oss licencing",
+    "license management",
+    "automation",
+    "nlp",
+    "compliance automation"
+  ],
+  "technologies": [
+    "linux",
+    "postgresql",
+    "c",
+    "c++",
+    "php",
+    "lamp",
+    "jquery",
+    "bash",
+    "python",
+    "javascript",
+    "twig",
+    "reactjs",
+    "go"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5988565108391936/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "New/ Improved License Scanner",
+          "short_description": "Software License compliance is very important for any business/ OSS(open source software) nowadays which creates a need for more accurate license...",
+          "student_name": "amanjain5221",
+          "code_url": "https://github.com/fossology/atarashi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5703702744662016/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4832912116023296/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Integration of Software Heritage in FOSSology",
+          "short_description": "FOSSology is a open source license compliance software system and toolkit. As a toolkit a user can run license, copyright and export control scans...",
+          "student_name": "Sandip Kumar Bhuyan",
+          "code_url": "https://sandipbhuyan.com/updates/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6455667395657728/"
+        },
+        {
+          "title": "Spasht Agent",
+          "short_description": "Clearly Defined is a collection metadata of licences, copyrights and the source codes. Clearly Defined clarifies data on open source components, and...",
+          "student_name": "Vivek_Kumar",
+          "code_url": "https://github.com/vivekaindia/fossology/wiki/GSoC-Final-Report:-Agent-Spasht",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5527519191629824/"
+        },
+        {
+          "title": "Continuation of Atarashi OSS",
+          "short_description": "Atarashi scans for license statements in open source software, focusing on text statistics. Designed to work stand-alone and with FOSSology. Right...",
+          "student_name": "HastagAB",
+          "code_url": "https://github.com/hastagAB/GSoC-19",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6052136226390016/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6163301563629568/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Refurbishing Atarashi",
+          "short_description": "Atarashi scans for license statements in open source software, focusing on text statistics. Designed to work stand-alone and with Fossology. It...",
+          "student_name": "Kaushlendra Pratap Singh",
+          "code_url": "https://github.com/Kaushl2208/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5727053447430144/"
+        },
+        {
+          "title": "Dashboard ( Python, influxDB, Grafana )",
+          "short_description": "FOSSology generates a large set of data that can be exported to the time-series Influx database and visualized with the help of a grafana dashboard....",
+          "student_name": "Darshan Kansagara",
+          "code_url": "https://github.com/darshank15/GSoC_2020_FOSSOlogy/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5228020761100288/"
+        },
+        {
+          "title": "Accelerating  Atarashi",
+          "short_description": "Currently, Atarashi has 4 active agents types that use 9 different types of algorithms to find the similarity between license statements. According...",
+          "student_name": "HastagAB",
+          "code_url": "https://github.com/hastagAB/GSoC-2020",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4859076292378624/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5641437164601344/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Migration of UI into React.js",
+          "short_description": "The UI Migration project is an effort focused on generating the new component-based architecture with the integration of the APIs. To make the...",
+          "student_name": "Shruti Agarwal",
+          "code_url": "https://medium.com/@shruti-ag/gsoc21-with-fossology-fd97cd2a3924",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6677638625624064/"
+        },
+        {
+          "title": "New Build System and improving CI/CD workflow",
+          "short_description": "Build System\nFOSSology\u2019s build system is based on multilevel makefiles that work together to provide a build infrastructure for the project. Although...",
+          "student_name": "Avinal",
+          "code_url": "https://gsoc.avinal.space/posts/report/final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5660262408912896/"
+        },
+        {
+          "title": "Adding React library to new UI",
+          "short_description": "FOSSology frontend is built using the Symfony framework of PHP. It needs to get revamped to make it faster for development, more adaptive to newer...",
+          "student_name": "Aman Dwivedi",
+          "code_url": "https://github.com/pulls?q=is%3Apr+org%3Afossology+author%3AAman-Codes+sort%3Aupdated-desc+is%3Aclosed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5701142176071680/"
+        },
+        {
+          "title": "Copyright False Positive Detection Using ML",
+          "short_description": "Fossology's copyright detection agent uses a rule-based approach to detect copyright statements but the agent is showing a lot of False Positives...",
+          "student_name": "Kaushlendra Pratap Singh",
+          "code_url": "https://github.com/Kaushl2208/GSoC2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5092933132353536/"
+        },
+        {
+          "title": "ATARASHI - MINERVA",
+          "short_description": "Dynamic Time Warping (DTW) will be included as one of the agents in similarity matching.\nNLP Library - SpaCy will be used in various agents for...",
+          "student_name": "sayshreya",
+          "code_url": "https://github.com/SinghShreya05/GSoC-2021",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5342410434936832/"
+        },
+        {
+          "title": "Making FOSSology architecture microservice friendly",
+          "short_description": "FOSSology is designed in modular fashion but it certainly does not follow micro-service architecture. If there is a change in an agent's logic, the...",
+          "student_name": "Omar  AbdelSamea",
+          "code_url": "https://github.com/OmarAbdelSamea/fossology/wiki",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4661860250419200/"
+        },
+        {
+          "title": "Integrating ScanCode Toolkit",
+          "short_description": "Project Information\nNomos and Monk are the two leading scanners FOSSology uses for license detection and Copyright for scanning copyright,url,emails...",
+          "student_name": "Sarita Singh",
+          "code_url": "https://itssingh.github.io/gsoc-blog/final-evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4682906395475968/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/fossology/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Adopting REUSE standards in FOSSology",
+          "short_description": "Copyright and licensing is difficult, especially when reusing software from different projects that are released under various different licenses....",
+          "student_name": "Rohit_Pandey",
+          "code_url": "https://medium.com/@rohit-pandey/gsoc-2022-final-report-bf1e34440bce",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xyZ7I14N/"
+        },
+        {
+          "title": "FossologyUI Overhaul and  REST API Improvements",
+          "short_description": "Working on to improve the current UI of the FOSSology project and bring it to completion. Fixing the known issues of the REST API and exposing new...",
+          "student_name": "Soham Banerjee",
+          "code_url": "https://github.com/soham4abc/GSOC22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/NMgsk1bT/"
+        },
+        {
+          "title": "REST API and UI improvements for FOSSologyUI",
+          "short_description": "The goal is to take the FOSSologyUI project to completion and finally sync all the features with the fossology old UI. There would also be...",
+          "student_name": "krishna9304",
+          "code_url": "https://gist.github.com/krishna9304/3571728fa42a2a1e4b1d2938cd5eed4e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/o03BpJn1/"
+        },
+        {
+          "title": "Improve  Minerva  OSS  Dataset  and implement models for Atarashi",
+          "short_description": "To implement some of machine/deep learning models on Minerva OSS Dataset from FOSSology and integrate it to atarashi as an agent. Models that are...",
+          "student_name": "Sushant Kumar",
+          "code_url": "https://github.com/its-sushant/GSoC-22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/gsITMRsG/"
+        },
+        {
+          "title": "REST API and UI improvements",
+          "short_description": "Ideation and implementation of the new design patterns and features to be added to the FOSSology system. Fix bugs of the existing APIs which are not...",
+          "student_name": "DUSHIMIMANA Samuel",
+          "code_url": "https://github.com/dushimsam/GSoC-22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/GeYAxA7Q/"
+        },
+        {
+          "title": "Introduce concept of project in FOSSology",
+          "short_description": "I would like to participate in the project \u201cIntroduce concept of project in FOSSology\u201d which can be founded in the idea list. The \u201cproject\u201d is...",
+          "student_name": "fwhdzh",
+          "code_url": "https://fossology.github.io/gsoc/docs/2022/project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lfS6IRrZ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/fossology",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Reducing Fossology's false positive copyrights",
+          "short_description": "This project\u2019s goal is to improve the accuracy of Fossology\u2019s copyright detection system using machine learning. This functionality was originally...",
+          "student_name": "Abdelrahman Jamal",
+          "code_url": "https://github.com/Hero2323/GSoC-2023",
+          "proposal_id": "iIc51ji6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/bAs5hkHh"
+        },
+        {
+          "title": "REST API improvements",
+          "short_description": "Fossology is focusing on the development of a new UI framework, which requires adequate support from REST APIs. However, the current state of...",
+          "student_name": "DUSHIMIMANA Samuel",
+          "code_url": "https://github.com/dushimsam/GSoC-23",
+          "proposal_id": "SZrqWUic",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/lGWKqBe6"
+        },
+        {
+          "title": "License as a Service",
+          "short_description": "It provides a convenient and effective way for organizations to manage their use of open-source licenses. With the growing popularity of open-source...",
+          "student_name": "K-vya",
+          "code_url": "https://fossology.github.io/gsoc/docs/2023/laas/finalevaluation",
+          "proposal_id": "Vf9kchQy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/g9Oh9JTt"
+        },
+        {
+          "title": "REST API Completion and improvement",
+          "short_description": "Developing the remaining REST APIs that are required to expose the database for the new FossologyUI. This proposal also focuses on implementing test...",
+          "student_name": "Soham Banerjee",
+          "code_url": "https://github.com/soham4abc/GSOC23",
+          "proposal_id": "CmoYmlQb",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/7bIMZdQi"
+        },
+        {
+          "title": "Support CycloneDX report",
+          "short_description": "Currently, FOSSology generates SBOM in SPDX format, which allows for integration with various tools. However, CycloneDX is another popular format for...",
+          "student_name": "Sushant Kumar",
+          "code_url": "https://github.com/its-sushant/GSoC-23",
+          "proposal_id": "UvFIIyn5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DrUld2iF"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/fossology/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Support SPDX 3.0 Reports",
+          "short_description": "Incorporating SPDX v3.0 compatibility and broadening support for Core, Software, and Licensing profiles, along with the ability to generate reports...",
+          "student_name": "Abhishek_Kumar011",
+          "code_url": "https://github.com/abhi-kumar17871/GSoC-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5T0iub0X/"
+        },
+        {
+          "title": "REST API Improvements.",
+          "short_description": "This proposal aims to address the need for improving and upgrading APIs on FOSSology to version 2 by identifying areas for enhancement, fixing...",
+          "student_name": "NIYONSENGA Valens",
+          "code_url": "https://github.com/valens200/GSoC-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/0oTx6AYV/"
+        },
+        {
+          "title": "REST API Improvements",
+          "short_description": "In recent years, FOSSology's REST APIs have expanded significantly, enhancing user accessibility, flexibility, and automation. However, the...",
+          "student_name": "Divij Sharma",
+          "code_url": "https://github.com/dvjsharma/GSoC-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/mRBxa9jt/"
+        },
+        {
+          "title": "OVERHAULING SCHEDULER DESIGN",
+          "short_description": "To address the challenges identified with the FOSSology scheduler, particularly the limitations stemming from its programming language (C) and its...",
+          "student_name": "Aaditya Singh",
+          "code_url": "https://docs.google.com/document/d/1xBVwKjn3AjuAp8EqPfiISVr9gSHiUUfbc-2Ux7muKe4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/FKEKsiP4/"
+        },
+        {
+          "title": "SPDX license expression support",
+          "short_description": "This project aims to support the detection and reporting of SPDX License Expressions. Currently, FOSSology uses regular expressions, full-text match,...",
+          "student_name": "Akash Sah",
+          "code_url": "https://github.com/Akashsah2003/GSoC-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3TCAw8EI/"
+        },
+        {
+          "title": "AI-Powered Software License Identification",
+          "short_description": "One of Fossology's primary features is extracting licenses and license text from files. Traditional methods like text comparison, regular...",
+          "student_name": "Abdelrahman Jamal",
+          "code_url": "https://github.com/Hero2323/GSoC-24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6RIfpdn6/"
+        },
+        {
+          "title": "Improving Fossology CI Scanner",
+          "short_description": "To be able to easily and continuously scan packages with fossology checks in CI pipelines, a docker image (fossology/fossology:scanner) capable of...",
+          "student_name": "Rajul Jha",
+          "code_url": "https://rajuljha.github.io/posts/gsoc-24-project-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/by86kI7T/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/fossology",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Enhancing Debian Packaging for FOSSology",
+          "short_description": "This project aims to improve the Debian packaging process for FOSSology, an open-source license compliance tool. Currently, FOSSology relies on CPack...",
+          "student_name": "Ahmed-Gamal",
+          "code_url": null,
+          "proposal_id": "MxWGJCxd",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/x53xJCC2"
+        },
+        {
+          "title": "Data Pipeline For Safaa",
+          "short_description": "Currently in Safaa Project data was manually curated And we see that most of the things are manual here. This project will concentrate on creating a...",
+          "student_name": "Anuk",
+          "code_url": null,
+          "proposal_id": "alfVXho5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mlPA9FVj"
+        },
+        {
+          "title": "LicenseDB Platform Improvements",
+          "short_description": "The goal of this project is to enhance the LicenseDB platform by integrating several important features including advanced database migrations,...",
+          "student_name": "Chayan_Das",
+          "code_url": null,
+          "proposal_id": "bMxldsPE",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/vphnpwAh"
+        },
+        {
+          "title": "FOSSology UX and UI Redesign",
+          "short_description": "This project aims to redesign the FOSSology interface with a user-centered design approach that enhances usability and accessibility. The redesign...",
+          "student_name": "Devanshi Sachan",
+          "code_url": null,
+          "proposal_id": "vZGiEH2T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gX6omKmk"
+        },
+        {
+          "title": "Support text phrases and bulk based scanning for MONK a like agent",
+          "short_description": "Standard license scanning tools often overlook custom or organization-specific texts, leaving critical gaps in compliance. This project enhances...",
+          "student_name": "Harshit Gandhi",
+          "code_url": null,
+          "proposal_id": "Y9Llh838",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/897MRrjD"
+        },
+        {
+          "title": "Complete microservices  infrastructure for  FOSSology",
+          "short_description": "This project aims to complete the microservices infrastructure for FOSSology by continuing the work from GSoC 2021, with a goal to fully deploy...",
+          "student_name": "M.Salman",
+          "code_url": null,
+          "proposal_id": "7DYrZrbk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MjOyiOj7"
+        },
+        {
+          "title": "Integrating OSS Review Toolkit with FOSSology",
+          "short_description": "The OSS Review Toolkit (ORT) is a robust solution designed to identify and analyze the dependencies within a software project. FOSSology, on the...",
+          "student_name": "Prakash Mishra",
+          "code_url": null,
+          "proposal_id": "qqwc7aXM",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/zaei2pGq"
+        },
+        {
+          "title": "Enhance Atarashi's ability",
+          "short_description": "Atarashi is a modern, information-retrieval-based license scanner. Unlike traditional rule-based approaches, Atarashi leverages statistical...",
+          "student_name": "Rajul Jha",
+          "code_url": null,
+          "proposal_id": "uS1bUq0O",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Lbnvb90g"
+        },
+        {
+          "title": "Completion of UI using React.js",
+          "short_description": "This project aims to complete and modernize the React-based UI of FOSSology by aligning it with the updated REST API v2 and current frontend best...",
+          "student_name": "Tiyasa Kundu",
+          "code_url": null,
+          "proposal_id": "zWU8PbfQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QJCf0exh"
+        },
+        {
+          "title": "Reuse of clearing decisions using reports from OSSelot project.",
+          "short_description": "In this project, I am going to add improvements to FOSSology by making the Scancode integration faster and more stable using multithreading. I will...",
+          "student_name": "Vaibhav_Sahu",
+          "code_url": null,
+          "proposal_id": "MqOxPVht",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ER9UmRSf"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://fossology.slack.com/",
+  "contact_email": "mailto:fossology@fossology.org",
+  "mailing_list": "fossology-devel@fossology.org",
+  "ideas_url": "https://fossology.github.io/gsoc/docs/2025/GSoC-projects",
+  "guide_url": "",
+  "blog_url": "https://fossology.org"
+}

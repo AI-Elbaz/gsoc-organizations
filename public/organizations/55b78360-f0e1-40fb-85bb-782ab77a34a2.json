@@ -1,0 +1,691 @@
+{
+  "name": "CCExtractor Development",
+  "url": "https://www.ccextractor.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ccextractor-development/xjqt8fksfnyqyqrd-360.png",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "database",
+    "video",
+    "subtitles",
+    "media analysis",
+    "decoder",
+    "media",
+    "television",
+    "movies",
+    "accesibility",
+    "language",
+    "ai",
+    "vision",
+    "accessibility",
+    "tv",
+    "linux",
+    "bittorrent",
+    "mobile",
+    "peer to peer",
+    "vr"
+  ],
+  "technologies": [
+    "c",
+    "linux",
+    "video",
+    "ffmpeg",
+    "subtitles",
+    "python",
+    "raspberry pi",
+    "visual studio",
+    "node.js",
+    "arduino",
+    "c#",
+    "javascript",
+    "cloud",
+    "ai",
+    "rust",
+    "flutter",
+    "ml"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5133509194678272/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Hardsubx - Extraction of burned in subtitles from videos",
+          "short_description": "I want to add the capability of extracting burned in (hard) subtitles from videos to CCExtractor. As of now, CCExtractor works by only extracting...",
+          "student_name": "Abhinav Shukla",
+          "code_url": "https://abhinavshukla95.wordpress.com/2016/08/18/google-summer-of-code-work-product-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6126684411527168/"
+        },
+        {
+          "title": "DVD Subtitles, CEA-708 completion and Example programs",
+          "short_description": "Currently CCExtractor has support for DVD Closed Caption. New DVDs contain DVD subtitles instead of the older DVD Closed Captions. This project aims...",
+          "student_name": "Rishabh Garg",
+          "code_url": "http://www.ccextractor.org/doku.php?id=public:gsoc:google_summer_of_code_16_rishabh_garg",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5348332989841408/"
+        },
+        {
+          "title": "Downloading subtitles from various Internet TV services.",
+          "short_description": "The project deals with downloading of subtitles from popular online TV Services like Netflix, BBC, Amazon, Hulu. The project aims to perform this...",
+          "student_name": "abhivinj",
+          "code_url": "http://www.ccextractor.org/doku.php?id=public:gsoc:google_summer_of_code_16_abhishek_vinjamoori",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6200591940321280/"
+        },
+        {
+          "title": "Repository and Services for it",
+          "short_description": "Describes how I'd improve/implement repository, notification and metadata services for it",
+          "student_name": "kuchumovri",
+          "code_url": "http://new.ccextractor.org/doku.php?id=public:gsoc:real-time_repository_ruslan_kuchumov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4640927985434624/"
+        },
+        {
+          "title": "News Shot Classification and Analysis",
+          "short_description": "My aim is to classify and analyze different types of news shots which are encountered in the news broadcast videos that Red Hen processes everyday....",
+          "student_name": "Shruti Gullapuram",
+          "code_url": "https://shrutigullapuram.wordpress.com/2016/08/22/gsoc-work-product-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4670630905511936/"
+        },
+        {
+          "title": "Improving GitHub CI",
+          "short_description": "Improve GitHub CI by automating it and unify submission of new samples through the existing platform.",
+          "student_name": "canihavesomecoffee",
+          "code_url": "https://canihavesome.coffee/gsoc2016",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4866498594078720/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5267426006532096/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Enable automated testing on windows and other general sample platform improvements",
+          "short_description": "The sample platform has been a good way to test regression tests, but still lacks windows support. It needs some improvements that are listed on...",
+          "student_name": "Satyam Mittal",
+          "code_url": "https://www.ccextractor.org/public:gsoc:gsoc2017:google_summer_of_code_2017_satyam_mittal",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6430829030932480/"
+        },
+        {
+          "title": "Python Bindings for CCextractor proposal by Diptanshu Jamgade",
+          "short_description": "I have written this proposal for the Python Bindings Project. I have detailed out to maximum possibilities. However, in case of lack of clarity we...",
+          "student_name": "Diptanshu Jamgade",
+          "code_url": "https://www.ccextractor.org/public:gsoc:gsoc2017:python_extension_module_for_ccextractor_diptanshu_jamgade_gsoc_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6478163597066240/"
+        },
+        {
+          "title": "TV Commercial Classification and Optimization of Visual Recognition Pipeline for News Videos (For Red Hen)",
+          "short_description": "Red Hen has an existing visual feature based classification and labeling system for news videos, but TV commercials are not considered by the...",
+          "student_name": "Abhinav Shukla",
+          "code_url": "http://abhinavshukla95.wordpress.com/2017/08/27/google-summer-of-code-2017-work-product-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5299316407140352/"
+        },
+        {
+          "title": "Extraction of Highlights of a sports video",
+          "short_description": "Under this project, a new independent software is going to be developed from scratch, which will be able to model a video input into a time series of...",
+          "student_name": "Siddharth Jindal",
+          "code_url": "https://github.com/siddharthjindal1997/ExCCitement_extractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5593812650950656/"
+        },
+        {
+          "title": "Cross Platform GUI for CCExtractor",
+          "short_description": "Cross Platform GUI for CCExtractor using Nuklear library. Since, Nuklear library doesn't incur additional dependency and  draws its own widgets, the...",
+          "student_name": "Mayank_Gupta",
+          "code_url": "https://gist.github.com/techfreakworm/f9d30c0c7f5dc62178413a69619f49f8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4578714847281152/"
+        },
+        {
+          "title": "CCAligner - Word by Word Subtitle Synchronization.",
+          "short_description": "CCAligner\nWord by Word Subtitle Synchronization Tool\nThe usual subtitle files (such as SubRips) have line by line synchronization in them i.e. the...",
+          "student_name": "Saurabh Shrivastava",
+          "code_url": "https://www.ccextractor.org/public:gsoc:gsoc2017:ccaligner_word_by_word_audio_subtitle_synchronisation_saurabh_shrivastava_gsoc_2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4751522051129344/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5152211763986432/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "The sample platform (/ continuous integration) project",
+          "short_description": "The sample platform has been a good way to test regression tests. The main aim of the project is to make sample platform fully finalized (at least...",
+          "student_name": "Satyam Mittal",
+          "code_url": "http://ccextractor.org/public:gsoc:2018:satyam",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6345185168457728/"
+        },
+        {
+          "title": "CCExtractor Web",
+          "short_description": "A full fledged web application and API for subtitle extraction through CCExtractor.",
+          "student_name": "saurabhshri",
+          "code_url": "https://ccextractor.org/public:gsoc:2018:saurabh",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6399274174644224/"
+        },
+        {
+          "title": "Project Nephos",
+          "short_description": "Project Nephos aims at simplifying the process of moving samples from local storage to cloud for Universities by automating, almost, all the steps...",
+          "student_name": "thealphadollar",
+          "code_url": "https://ccextractor.org/public:gsoc:2018:thealphadollar",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5435767920787456/"
+        },
+        {
+          "title": "Improve the OCR subsystem",
+          "short_description": "The current text extraction system  of CCExtractor for burned in subtitles depends on the input parameters like conf_thresh, subcolor,...",
+          "student_name": "Saurabh Shah",
+          "code_url": "https://gist.github.com/saurabhshah0410/daec0e0cf9a3975c20f4be11064f2ddf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4555939239690240/"
+        },
+        {
+          "title": "Project Nephos",
+          "short_description": "Nephos is an system to automate recording channels and uploading the same to some cloud storage (currently GDrive). It also provides a way to tag...",
+          "student_name": "AadityaNair",
+          "code_url": "https://ccextractor.org/public:gsoc:2018:aaditya",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4710424314380288/"
+        },
+        {
+          "title": "FabBits",
+          "short_description": "FabBits is a standalone cross-platform software capable of finding certain interesting bits from movies/shows, soccer, and basketball. Following are...",
+          "student_name": "achie27",
+          "code_url": "https://github.com/achie27/FabBits",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6094804211466240/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6733668347805696/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Synchronizing Lyrics to Audio with Syllable Nuclei Detection",
+          "short_description": "This project aims to develop a novel method of automatically synchronizing the lyrics of a song to its corresponding audio, i.e. a line from the...",
+          "student_name": "Chris Wang",
+          "code_url": "https://github.com/SwagLyrics/autosynch",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6628732431761408/"
+        },
+        {
+          "title": "Poor Man's Rekognition",
+          "short_description": "Rekognition is an Amazon service capable of identifying objects, text and activities, performing facial analysis and recognition, detecting the...",
+          "student_name": "buoyantbird",
+          "code_url": "https://gitlab.com/drcpmkeyi/poor-man-rekognition",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6701600578469888/"
+        },
+        {
+          "title": "Web Interface for rclone sync",
+          "short_description": "The project works on providing an all-rounder user interface that touches every aspect of rclone. The goal of this project is to make a streamlined...",
+          "student_name": "Chaitanya Bankanhal",
+          "code_url": "https://github.com/rclone/rclone-webui-react",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5707920367419392/"
+        },
+        {
+          "title": "Poor Man's Rekognition",
+          "short_description": "Poor Man\u2019s Rekognition (PMR) is aimed to provide an Open Source alternative to the paid Amazon Rekognition API. This summer, I aim to initiate PMR...",
+          "student_name": "Sarfaraz Iraqui",
+          "code_url": "https://medium.com/@sziraqui/not-the-normal-gsoc-journey-d51a6167a3a6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5620252770041856/"
+        },
+        {
+          "title": "Poor Man's Rekognition",
+          "short_description": "A free alternative for Amazon's Rekognition API service.",
+          "student_name": "pymit",
+          "code_url": "https://medium.com/@amkr/final-work-submission-gsoc19-ccextractor-development-40a2b6c6a946",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6228337544921088/"
+        },
+        {
+          "title": "Improve PiPot with new features and Continuous Intergration",
+          "short_description": "The goal of the project is to fish the proposed help wanted issues in PiPot GitHub branch, and set up Travis CI for PiPot. Along with feature...",
+          "student_name": "Bowen Chen",
+          "code_url": "https://github.com/PiPot/pipot-server/commits?author=VertexC",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6236487782236160/"
+        },
+        {
+          "title": "co-oCCur: High speed subtitle synchronization tool",
+          "short_description": "For an ideal subtitle file, the subtitles are perfectly aligned with the base audiovisual content. In other words, the audio and the corresponding...",
+          "student_name": "Suyash Bajpai",
+          "code_url": "https://sypai.github.io/GSoC-Final-work-submissions/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4546836088487936/"
+        },
+        {
+          "title": "Poor man's Recognition",
+          "short_description": "Building a free version of Amazon rekognition with maximum possible feature during a 3 months\u2019 time span.",
+          "student_name": "Md. Faizullah Khan",
+          "code_url": "https://github.com/backSpace001/PMR_WEB_APP1.0",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6564235578966016/"
+        },
+        {
+          "title": "Poor Man's Rekognition",
+          "short_description": "Imagine a machine that can understand who was the main villain of Avengers: Endgame or what kind of relationships did Daenerys and John Snow have?...",
+          "student_name": "thelastpolaris",
+          "code_url": "http://fedoskin.org/2019/08/24/gsoc-2019-poor-mans-rekognition/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4843814705954816/"
+        },
+        {
+          "title": "Finalising Sample Platform",
+          "short_description": "Sample platform is CCExtractor\u2019s platform that manages a test suite bot, sample uploads, running regression tests and much more. The purpose of the...",
+          "student_name": "thealphadollar",
+          "code_url": "https://github.com/CCExtractor/sample-platform/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Athealphadollar+sort%3Aupdated-desc+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4926236319547392/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5987859833552896/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "rclone WebUI plugins",
+          "short_description": "This proposal is an extension of the previous development of the web interface for the rclone cloud sync tool. The main focus is to bring...",
+          "student_name": "Chaitanya Bankanhal",
+          "code_url": "https://gist.github.com/negative0/1031219533ef7e8199b08495be1f32d5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6358944873709568/"
+        },
+        {
+          "title": "FFmpeg + Rust: Code builder",
+          "short_description": "Given arbitrary FFmpeg command line arguments, this project statically generates a FFmpeg-like program. The generated program will act exactly the...",
+          "student_name": "Dingming Liu",
+          "code_url": "https://gist.github.com/ldm0/f2230b0f1b48fbc6ab3efc0907994b86",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4513927083327488/"
+        },
+        {
+          "title": "Poor Man's Rekognition (II)",
+          "short_description": "Rekognition is an Amazon service capable of identifying objects, text and activities, performing facial analysis and recognition, detecting the...",
+          "student_name": "Pulkit Mishra",
+          "code_url": "https://github.com/pymit/Rekognition/wiki/GSoC-2020---Work-Product-Submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5897003424284672/"
+        },
+        {
+          "title": "Poor Man's Texttract",
+          "short_description": "This project aims to develop a program that can extract text and data from scanned documents.",
+          "student_name": "Ken Alparslan",
+          "code_url": "https://github.com/kenAlparslan/Texttract/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6285718399221760/"
+        },
+        {
+          "title": "Algorithm Flow Visualizer",
+          "short_description": "This project aims to build an algorithm flow visualizer, with the following features in focus\n\nFlow control Visualisation, less of a focus on...",
+          "student_name": "Vishwesh Kumar",
+          "code_url": "https://github.com/vishwesh-D-kumar/AlgorithmFlowVisualizer",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6287182177763328/"
+        },
+        {
+          "title": "Make SwagLyrics Great Again",
+          "short_description": "The SwagLyrics suite of repositories is an ecosystem of backend applications, a couple of python libraries, a chrome web extension (soon!) and even a...",
+          "student_name": "Aadi Bajpai",
+          "code_url": "https://www.notion.so/Google-Summer-of-Code-62e65c6358454bbfa3759a3aff780e9d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6288033017495552/"
+        },
+        {
+          "title": "Roku Reference Channel",
+          "short_description": "The aim is to build an open source Roku Channel Template that can be used by budding content creators to deploy on the Roku platform without too much...",
+          "student_name": "Anant Shukla",
+          "code_url": "https://github.com/Keepingshtum/CP2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6290003400851456/"
+        },
+        {
+          "title": "ruTorrent Mobile Interface",
+          "short_description": "The project demands a flutter application for ruTorrent web interface. The application will communicate with ruTorrent's PHP back-end to display the...",
+          "student_name": "Ritik Harchani",
+          "code_url": "https://github.com/CCExtractor/rutorrent-flutter",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6298721748254720/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5102272740065280/",
+      "num_projects": 9,
+      "projects": [
+        {
+          "title": "Animating a poor man [PMR-III]",
+          "short_description": "PoorMan's Rekognition is a unique tool that provides all of amazon Rekognition's Services but with the power of open-source. Its key features include...",
+          "student_name": "Yash Bhambhu",
+          "code_url": "https://yashbhambhu.medium.com/gsoc21-poor-man-s-rekognition-end-log-c2359e9b270d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6401723685404672/"
+        },
+        {
+          "title": "Beacon",
+          "short_description": "This project aims to develop a flutter build native interface to ease the group traveling (or hiking). By using this, the group leader would be able...",
+          "student_name": "Nishtha Bodani",
+          "code_url": "https://github.com/CCExtractor/beacon",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5744583253688320/"
+        },
+        {
+          "title": "Cross platform GUI for CCExtractor",
+          "short_description": "CCExtractor is the de-factor open source standard for closed captions / subtitles extraction from any media file. It is a tool that analyzes video...",
+          "student_name": "Jayesh Nirve",
+          "code_url": "https://github.com/CCExtractor/ccextractorfluttergui",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5752961694695424/"
+        },
+        {
+          "title": "FastFingers Application Development",
+          "short_description": "I will develop and publish a Linux application named FastFingers which will be an open-source application that helps its users to remove the habit of...",
+          "student_name": "Ali Eren Yogurtcu",
+          "code_url": "https://github.com/CCExtractor/fastfingers#readme",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5536901150277632/"
+        },
+        {
+          "title": "Improving rutorrent mobile interface",
+          "short_description": "rutorrent mobile interface is a project that started last year under the organisation CCExtractor Development and it's gone quite well, with the user...",
+          "student_name": "Rajan Jaiswal",
+          "code_url": "https://gist.github.com/rj-since-2000/b8b38b880f6420c48aced648b7938f22",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4974784688947200/"
+        },
+        {
+          "title": "Rewrite 708 decoder in Rust",
+          "short_description": "708 is the standard for digital TV in the US and a few other countries. CCExtractor has an implementation of 708 decoder in C. This project aims to...",
+          "student_name": "Punit Lodha",
+          "code_url": "https://punitlodha.github.io/posts/gsoc-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4629205882503168/"
+        },
+        {
+          "title": "Flood Mobile App",
+          "short_description": "The project primarily focuses on creating a flutter-based native mobile interface for Flood ( https://flood.js.org ) which is a web interface...",
+          "student_name": "Pratik Baid",
+          "code_url": "https://medium.com/@pratikbaid3/gsoc-2021-ccextractor-flood-mobile-55a51289cc6a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4802597738774528/"
+        },
+        {
+          "title": "Deluge Mobile client",
+          "short_description": "Developing Deluge Client using flutter and dart along with modern material interface.",
+          "student_name": "Mohammad Arshad",
+          "code_url": "https://github.com/CCExtractor/Deluge-mobile-remote-client",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5759735227219968/"
+        },
+        {
+          "title": "Beacon Backend",
+          "short_description": "Backend for the Beacon project, with a focus on scalability and real-time low latency location synchronization.",
+          "student_name": "Aadi Bajpai",
+          "code_url": "https://github.com/CCExtractor/beacon-backend",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5856489297674240/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/ccextractor-development/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Beacon Backend",
+          "short_description": "This project aims to add multiple features and optimisations to Beacon App\u2019s backend, which is built with Apollo-GraphQL, Node.js and Express.js, and...",
+          "student_name": "Aadeesh Oswal",
+          "code_url": "https://aadeesh.notion.site/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/eyE28FAK/"
+        },
+        {
+          "title": "Improving ruTorrent Mobile application",
+          "short_description": "ruTorrent Mobile application is a project that started 2 years ago under the organization CCExtractor Development and it's gone quite well, with the...",
+          "student_name": "Mohammed Abdul Malik",
+          "code_url": "https://gist.github.com/AbdulMalikDev/7b9dd5bdf3dae02494fd2aea0df19f3c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/G1n895Kb/"
+        },
+        {
+          "title": "Porting Hardsubx to Rust",
+          "short_description": "The proposal outlines a high level plan to port the Hardsubx module to Rust. The proposal intends to port Hardsubx to Rust with the minimum amount of...",
+          "student_name": "Shashwat Singh",
+          "code_url": "https://github.com/shashwat1002/gsoc22_report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/vNFCRp3o/"
+        },
+        {
+          "title": "The Sample Platform Revisited",
+          "short_description": "The sample platform is an excellent way to help new contributors check if their code doesn't introduce any regressions. The current KVM setup of the...",
+          "student_name": "Tarun Arora",
+          "code_url": "https://github.com/CCExtractor/sample-platform",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xi4glfGT/"
+        },
+        {
+          "title": "Flood-Mobile",
+          "short_description": "Flood is a torrent monitoring service that works with a variety of clients. The Flood-Mobile app aims to provide a user-friendly mobile interface...",
+          "student_name": "Akshat Tripathi",
+          "code_url": "https://medium.com/@akshatji.tripathi/gsoc-2022-ccextractor-flood-mobile-1b3c401744ea",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/QxzXYOMh/"
+        },
+        {
+          "title": "TaskWarrior",
+          "short_description": "My proposal is all about Project Taskwarrior which is a list managing system for CLI. So here I show made a sample app in the flutter of...",
+          "student_name": "Nishant Singhal",
+          "code_url": "https://github.com/CCExtractor/taskwarrior-flutter",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8pYfxjXv/"
+        },
+        {
+          "title": "Integration of swaywm with regolith",
+          "short_description": "The project intends to achieve integration of swaywm with the regolith ecosystem. This means compatibility with GNOME applications and services,...",
+          "student_name": "Soumya Ranjan Patnaik",
+          "code_url": "https://regolith-desktop.com/posts/sway_integration_gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/AcxhU0zS/"
+        },
+        {
+          "title": "Resurrecting The Poor Man",
+          "short_description": "The proposal encompasses on upgrading the current codebase of the Poor Man's Rekognition Repo and adding some new functionalities to it. The...",
+          "student_name": "Saksham Dwivedi",
+          "code_url": "https://medium.com/@sakshamdwivedi10082002/gsoc22-poor-man-s-rekognition-end-log-645da2f2733f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/xmLNqC3G/"
+        },
+        {
+          "title": "Beacon (frontend)",
+          "short_description": "The existing Beacon Project seeks to create a native flutter interface to make group travel (or, say, hiking) easier. By using this, the group leader...",
+          "student_name": "Aditya Kumar  Singh",
+          "code_url": "https://github.com/CCExtractor/beacon",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2JSHM54Q/"
+        },
+        {
+          "title": "Introduce WebSocket into rTorrent",
+          "short_description": "rTorrent is a stable, high-performance and low resource consumption BitTorrent client. This GSoC project will replace the antique SCGI protocol with...",
+          "student_name": "Dongyang Zheng",
+          "code_url": "https://github.com/CCExtractor/rtorrent-ws",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Qr45UY5M/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/ccextractor-development",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Flood Mobile",
+          "short_description": "Flood is a monitoring service for various torrent clients. It's a Node.js service that communicates with torrent client and provides a user-friendly...",
+          "student_name": "Amit Amrutiya",
+          "code_url": "https://medium.com/@amitamrutiya2210",
+          "proposal_id": "24Wx0ddt",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/iblkHo3k"
+        },
+        {
+          "title": "Regolith Onboarding",
+          "short_description": "The Regolith onboarding project aims to create a desktop application that helps users learn keyboard shortcuts and workflows for i3 and sway window...",
+          "student_name": "Deepanshu Pratik",
+          "code_url": "https://medium.com/@deepanshu.pratik/master-tiling-window-managers-with-this-tool-81fb657052e9",
+          "proposal_id": "miafFrlq",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eP0w9NoG"
+        },
+        {
+          "title": "Rewrite the base parts of lib_ccx to Rust",
+          "short_description": "Currently, the entire lib_ccx library is written in C with only some parts in Rust. Since using C is incredibly difficult to get right, the entire...",
+          "student_name": "Elbert Ronnie",
+          "code_url": "https://docs.google.com/document/d/1_dYTb5T6DhPw9XRAf4f1gekfLtfjVK8yJXjBFl84PkI/edit?usp=sharing",
+          "proposal_id": "1AIqu7cH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/SdPnVLaq"
+        },
+        {
+          "title": "Rusty CCExtractor",
+          "short_description": "CCExtractor is a widely used application, but some of its code still has issues, and some still exists as part of C code. This project aims to...",
+          "student_name": "Prateek Sunal",
+          "code_url": "https://github.com/CCExtractor/ccextractor",
+          "proposal_id": "T6atBcRQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/ok8JVTpq"
+        },
+        {
+          "title": "Ultimate Alarm Clock",
+          "short_description": "Abstract Ultimate Alarm Clock is a mobile app that aims to provide features that other alarm clocks don\u2019t have such as conditional alarms based on...",
+          "student_name": "Rijuth Menon R",
+          "code_url": "https://github.com/CCExtractor/ultimate_alarm_clock",
+          "proposal_id": "Ei8E06ko",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/c7GIl1mf"
+        },
+        {
+          "title": "Linux backend for Virtual Desktops on Meta Quest Headsets",
+          "short_description": "Some VR headsets such as Meta's Quest 2 come with a Virtual Desktop tool that lets you connect your computer to the headset and get virtual desktops....",
+          "student_name": "Soumya Ranjan Patnaik",
+          "code_url": "https://github.com/SoumyaRanjanPatnaik/VirtualDesktopQuest",
+          "proposal_id": "1D4Hxn1l",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/60fNTaAh"
+        },
+        {
+          "title": "The Sample Platform Project",
+          "short_description": "This proposal outlines several key areas for improvement in the Sample Platform, which is CCExtractor's platform for managing tests, uploading...",
+          "student_name": "Tarun Arora",
+          "code_url": "https://github.com/CCExtractor/sample-platform",
+          "proposal_id": "4EgBSPRl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AZXlLugd"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/ccextractor-development/",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Ultimate Alarm Clock II",
+          "short_description": "The Ultimate Alarm Clock project proposes a feature-rich alarm application designed to optimise time management and streamline wake-up routines. Key...",
+          "student_name": "Aryan Saraf",
+          "code_url": "https://github.com/AryanSarafDev/gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZMmkk6oO/"
+        },
+        {
+          "title": "Beacon",
+          "short_description": "Beacon is a cross platform mobile application made with Flutter for the frontend and supported by Node.js and GraphQL for the backend. It's a handy...",
+          "student_name": "Abhishek  Bansal",
+          "code_url": "https://github.com/RunTerror/Gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ZQ2dbV8z/"
+        },
+        {
+          "title": "CCExtractor - Release 1.00",
+          "short_description": "This project aims to finalize the release of CCExtractor 1.00, with a primary focus on porting a significant amount of the existing C code to Rust....",
+          "student_name": "Ishan Grover",
+          "code_url": "https://github.com/IshanGrover2004/GSOC/blob/main/gsoc24-report.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Jhtnoefj/"
+        },
+        {
+          "title": "Firebase Editor",
+          "short_description": "This project aims to develop a versatile mobile application tailored for efficient data management on Firebase databases. Given Firebase's popularity...",
+          "student_name": "Chirag Tyagi",
+          "code_url": "https://gist.github.com/chiragtyagi2003/199c3eff31b7d00a6a68368fff26d2f7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/BUvwftsK/"
+        },
+        {
+          "title": "Crusty Overhaul",
+          "short_description": "CCExtractor, though widely utilized, has not seen a stable release since 2022. This initiative seeks to ensure stability by consolidating existing...",
+          "student_name": "Prateek Sunal",
+          "code_url": "https://github.com/CCExtractor/ccextractor",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/xln2Bm9m/"
+        },
+        {
+          "title": "It's Urgent",
+          "short_description": "It\u2019s Urgent Project is a notification app, with the twist that allows the user trying to reach out decide how urgent it is (i.e. if they want to...",
+          "student_name": "0xharkirat",
+          "code_url": "https://github.com/0xharkirat/its_urgent",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/MwcF5Auv/"
+        },
+        {
+          "title": "Create nix derivations for Regolith Linux",
+          "short_description": "The project aims to integrate Regolith Linux, a modern desktop environment built on top of GNOME with i3-wm, into NixOS, a Linux distribution with a...",
+          "student_name": "Sandeep Patel",
+          "code_url": "https://github.com/sandptel/gsoc24/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/kWEY5sJj/"
+        },
+        {
+          "title": "Taskserver",
+          "short_description": "Taskwarrior is a free and open source software that manages your to-do list from the command line. It lets you keep your to-do locally but there\u2019s...",
+          "student_name": "Abhishek .",
+          "code_url": "https://github.com/its-me-abhishek/gsoc-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JJCQFYTA/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/ccextractor-development",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Taskserver II",
+          "short_description": "This proposal for Taskserver II aims to enhance the existing CCSync Taskserver, developed during last year\u2019s Google Summer of Code. The primary focus...",
+          "student_name": "Abhishek .",
+          "code_url": null,
+          "proposal_id": "KjrTIyse",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Ffv9og9M"
+        },
+        {
+          "title": "Ultimate Alarm Clock Companion App",
+          "short_description": "The project aims to develop awar s companion app for the Ultimate Alarm Clock mobile application. This companion app will allow users to sync,...",
+          "student_name": "abhishek14104",
+          "code_url": null,
+          "proposal_id": "9F0FTgBm",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gdx2hkoP"
+        },
+        {
+          "title": "Project: Create Python bindings for ectool",
+          "short_description": "The fw-fanctrl tool currently relies on calling the ectool CLI repeatedly to control and monitor fan behavior on Framework laptops. This approach...",
+          "student_name": "Ahmed Gamea",
+          "code_url": null,
+          "proposal_id": "EPpoLDNn",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2GmJ4SSl"
+        },
+        {
+          "title": "Rewriting lib_ccx libraries to Rust",
+          "short_description": "This Project Encompasses the work behind rewriting the lib_ccx libraries, which are currently written in C, in Rust, for the sake of Memory Safety,...",
+          "student_name": "Deepnarayan Sett",
+          "code_url": null,
+          "proposal_id": "srMzgw3M",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/aFiTJC0l"
+        },
+        {
+          "title": ".Desktop Actions for Ilia",
+          "short_description": "Ilia is a lightweight, keyboard-driven app launcher for Regolith system. Right now, it doesn\u2019t support \u201c.desktop Actions\", which limits users...",
+          "student_name": "herShit",
+          "code_url": null,
+          "proposal_id": "ydEq2Dwl",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Rqus1H8Q"
+        },
+        {
+          "title": "CCExtractor v1.00 Release",
+          "short_description": "CCExtractor\u2019s last stable release (v0.94) came out in 2021, and since then, the codebase has undergone significant modifications, with several major...",
+          "student_name": "Hridesh MG",
+          "code_url": null,
+          "proposal_id": "2oAzie2L",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/t4gOHYbv"
+        },
+        {
+          "title": "Ultimate Alarm Clock: Enhancing Functionality with Advanced Features",
+          "short_description": "Ultimate Alarm Clock is a cross-platform Flutter application that needs enhancement with advanced features to provide users with a more comprehensive...",
+          "student_name": "Mahendra Kasula",
+          "code_url": null,
+          "proposal_id": "nVVWKv9t",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2QYJCAhN"
+        },
+        {
+          "title": "Build a COSMIC based wayland session for Regolith",
+          "short_description": "Regolith is a productivity-focused Ubuntu-based desktop environment that combines tiling window managers (Sway, i3) with GNOME components for system...",
+          "student_name": "Sandeep Patel",
+          "code_url": null,
+          "proposal_id": "iRivmFd5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mV0VlVwv"
+        },
+        {
+          "title": "Taskwarrior",
+          "short_description": "Taskwarrior Flutter is a free and open source software that aims to provide GUI for various platforms as companion for Taskwarrior CLI. Last year in...",
+          "student_name": "ShubhamGI",
+          "code_url": null,
+          "proposal_id": "XcnccsK5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/HdLyKkMu"
+        },
+        {
+          "title": "URL Shortener, with a twist!",
+          "short_description": "Traditional URL shorteners prioritize mass sharing but often lack privacy controls. This project reimagines the concept by introducing a...",
+          "student_name": "Vidit Agrawal",
+          "code_url": null,
+          "proposal_id": "8lWzHWHR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gahC6BNh"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://ccextractor.org/public/general/support/",
+  "contact_email": "mailto:gsoc@ccextractor.org",
+  "mailing_list": "https://groups.google.com/g/ccextractor-dev",
+  "ideas_url": "https://ccextractor.org/docs/ideas_page_for_summer_of_code_2025/",
+  "guide_url": "https://ccextractor.org/docs/ideas_page_for_summer_of_code_2025/#your-proposal"
+}

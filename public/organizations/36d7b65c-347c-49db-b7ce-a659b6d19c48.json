@@ -1,0 +1,65 @@
+{
+  "name": "Academy Software Foundation",
+  "url": "https://www.aswf.io/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/academy-software-foundation/80y13ndf7guwxneb-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Media",
+  "topics": [
+    "cloud computing",
+    "2d/3d graphics",
+    "filmmaking",
+    "file formats",
+    "color management",
+    "graphics",
+    "media",
+    "animation",
+    "Visual Effects",
+    "Film"
+  ],
+  "technologies": [
+    "python",
+    "c",
+    "c++",
+    "opengl",
+    "rust"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6043464124334080/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "C++ and Python operators for time ranges, and C & Java language bindings",
+          "short_description": "OpenTimelineIO is an interchange format and API for editorial cut information. OTIO includes opentime, a library for dealing with time. In order to...",
+          "student_name": "Karthik Iyer",
+          "code_url": "https://karthikriyer.github.io/blog/2020/08/26/gsoc-20-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5696649407496192/"
+        },
+        {
+          "title": "Cloud-pool management plugin for OpenCue",
+          "short_description": "The lack of ability of VFX and Animation studios, especially boutique studios, to scale their render hosts dynamically is an increasing problem,...",
+          "student_name": "Shiva Sankar Kannan",
+          "code_url": "https://www.opencue.io/blog/2020/08/27/google-summer-of-code-20-cloud-plugin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4739069805854720/"
+        },
+        {
+          "title": "OpenEXR: Separate Imath Repository Proposal",
+          "short_description": "This project entails the separation of OpenEXR's Imath library into its own repository. This will allow for it to be used by other projects and...",
+          "student_name": "Owen Thompson",
+          "code_url": "https://gist.github.com/oxt3479/13a66dac028fc920b27eb6750310f088",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4898327193190400/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/academy-software-foundation/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "http://slack.aswf.io/#gsoc-2022",
+  "contact_email": "mailto:gsoc@lists.aswf.io",
+  "mailing_list": "https://lists.aswf.io/",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,49 @@
+{
+  "name": "languagetool.org",
+  "url": "https://languagetool.org",
+  "image_url": "https://lh3.googleusercontent.com/1r4hXN5QZPYz4OQt89c6TTc18tP_C2OpV3gnpaS6c6xHh2T8UtGURUTZ99EI4MDMrTl9r453uP0eNUl_xakmjIWuD7qshCG5",
+  "image_background_color": "#ffffff",
+  "category": "End user applications",
+  "topics": [
+    "education",
+    "artificial intelligence",
+    "language",
+    "nlp",
+    "edtech"
+  ],
+  "technologies": [
+    "javascript",
+    "java",
+    "machine learning",
+    "tensorflow",
+    "ai"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/4898832450060288/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Suggestions sorting improvement, migration to the modern server-side framework, migration from Maven to Gradle",
+          "short_description": "During the GSoC I'm going to complete the following tasks:\n\nEnhance the suggestions sorting algorithm using the ML-way inspired by after the...",
+          "student_name": "Oleg Serikov",
+          "code_url": "https://forum.languagetool.org/t/gsoc-reports-spellchecker-server-side-framework-and-build-tool-tasks/2926/43?u=oserikov",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5696068708728832/"
+        },
+        {
+          "title": "Confusion Pair Correction Using Sequence to Sequence Models",
+          "short_description": "LanguageTool (LT) currently uses neural networks to detect confusion between words. So far, it only considers 2 words of context in both directions...",
+          "student_name": "Allen Antony",
+          "code_url": "https://github.com/drexjojo/confusion_pair_correction",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4932015702933504/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:daniel.naber@languagetool.org",
+  "mailing_list": "https://forum.languagetool.org",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/languagetoolorg"
+}

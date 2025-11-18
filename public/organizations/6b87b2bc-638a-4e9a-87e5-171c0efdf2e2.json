@@ -1,0 +1,375 @@
+{
+  "name": "ArduPilot",
+  "url": "https://ardupilot.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/ardupilot/oveqvcxkpgkuv8wq-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "robotics",
+    "drones",
+    "autopilot",
+    "uav",
+    "rovers",
+    "embedded systems",
+    "vision",
+    "real-time os",
+    "vison",
+    "real-time",
+    "Drone",
+    "autonomous vehicle",
+    "UGV",
+    "unmanned vehicle",
+    "ai"
+  ],
+  "technologies": [
+    "python",
+    "ros",
+    "c++",
+    "embedded",
+    "rtos",
+    "linux",
+    "c",
+    "drones",
+    "robotics",
+    "lua",
+    "pixhawk"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5801067908431872/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Sensor Head Port",
+          "short_description": "My Proposal for the Sensor Head Port",
+          "student_name": "Miguel Arroyo",
+          "code_url": "https://github.com/ArduPilot/ardupilot/pull/6388",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5445550379892736/"
+        },
+        {
+          "title": "Make APMRover2 a reference of generic UGV platform",
+          "short_description": "The ardupilot features are already numerous and I already worked on helping ardupilot to have good compatibility with ROS.  Ardupilot rover version...",
+          "student_name": "PIERRE KANCIR",
+          "code_url": "https://github.com/khancyr/GSOC-2017/blob/master/Commit%20list.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6164720910336000/"
+        },
+        {
+          "title": "Safe Return-To-Launch for ArduPilot",
+          "short_description": "This project aims to develop a \"safe\" return-to-launch feature for ArduCopter. This feature allows a copter to autonomously return to its home...",
+          "student_name": "Sebastian Quilter",
+          "code_url": "https://discuss.ardupilot.org/t/safertl-mode-for-copter/20486?u=squilter",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5146863455961088/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5149138983321600/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Mapping and Planning for obstacle avoidance",
+          "short_description": "Autonomous waypoint navigation has been an integral part of the Ardupilot project for a long time. This approach works well when the multicopter is...",
+          "student_name": "Ayush Gaud",
+          "code_url": "https://github.com/ArduPilot/OctomapPlanner",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6600458764288000/"
+        },
+        {
+          "title": "Complex Autonomous Tasks Onboard a UAV using Monocular Cameras",
+          "short_description": "In this proposal, we are trying to use CNNs and complex Computer Vision methods to perform autonomous tasks using a small form factor companion...",
+          "student_name": "Sepehr MohaimenianPour",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2018-complex-autonomous-tasks-onboard-a-uav-using-a-monocular-camera-nvidia-redtail/31933",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5702907169079296/"
+        },
+        {
+          "title": "Implementation of Balance Bot with Ardupilot",
+          "short_description": "Extension of Ardupilot codebase to support Self Balancing Robots",
+          "student_name": "Ebin Philip",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2018-balance-bot-part-ii/31934",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5076116352008192/"
+        },
+        {
+          "title": "Live Video Improvements For APSync",
+          "short_description": "The APSync project provides a convenient way to extend the capabilities of flight controllers by using companion computers such as the Raspberry Pi 3...",
+          "student_name": "arnav dhamija",
+          "code_url": "https://discuss.ardupilot.org/t/introducing-apstreamline/31723",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6205727110594560/"
+        },
+        {
+          "title": "UAVCAN Drivers and Documentation Update",
+          "short_description": "Add UAVCAN over SITL, write firmware for UAVCAN to I2C/USART bridge, expand and update UAVCAN documentation for ArduPilot.",
+          "student_name": "Dimitri Vasilkov",
+          "code_url": "https://github.com/d-v/GSoC-2018/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4640055570202624/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6052415684476928/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Further Development of Rover Sailboat Support",
+          "short_description": "For this GSoC project I propose to expand rover's sailboat functionality, allowing it to move from 'that's cool' to something that can do useful...",
+          "student_name": "Peter Hall",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2019-sailboats-conclusion/46469?u=iampete",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5648855977164800/"
+        },
+        {
+          "title": "Integration of ArduPilot and VIO tracking camera for GPS-less localization and navigation",
+          "short_description": "In this proposal, I would like to contribute new functionalities to the ArduPilot codebase to better utilize VIO tracking camera data for accurate...",
+          "student_name": "Nguyen Hoang Thien",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2019-integration-of-ardupilot-and-vio-tracking-camera-for-gps-less-localization-and-navigation/42394",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5736565450473472/"
+        },
+        {
+          "title": "MAVProxy GUI and module development",
+          "short_description": "While MAVProxy serves as a fully-functional cross-platform portable ground control station software, the system lacks the presence of a Graphical...",
+          "student_name": "Akshath Singhal",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2019-mavproxy-development/46411",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5411701640396800/"
+        },
+        {
+          "title": "AirSim Simulator Support for Ardupilot SITL",
+          "short_description": "AirSim is an open-source, cross-platform simulator for drones and cars, built on Unreal 3D Engine. It provides physically and visually realistic...",
+          "student_name": "Rajat Singhal",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2019-airsim-simulator-support-for-ardupilot-sitl-part-ii/46395",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4737458481135616/"
+        },
+        {
+          "title": "Development of Autonomous Autorotations for Traditional Helicopters",
+          "short_description": "My primary goal is to develop autonomous autorotation capability for traditional helicopters running ArduPilot.  The ability to autonomously detect a...",
+          "student_name": "Matthew Kear",
+          "code_url": "https://gist.github.com/Gone4Dirt/ab04a7696fe59f0d3a659a7885d756e9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4950528654573568/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5108253115023360/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Enhancements of non-GPS navigation and object avoidance with Realsense cameras",
+          "short_description": "Navigation in non-GPS environments while avoiding obstacles plays a critical role and is a highly desired feature for any autonomous robot. VIO...",
+          "student_name": "Thien Nguyen",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2020-enhancements-of-non-gps-navigation-and-object-avoidance-with-realsense-cameras/55984",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6597041922244608/"
+        },
+        {
+          "title": "Matlab Simulink support",
+          "short_description": "Matlab Simulink is an advanced tool for simulating physical systems. Adding support to ArduPilot will allow for greater depth of understanding of...",
+          "student_name": "Peter Hall",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2020-matlab-and-simulink-conclusion/61049?u=iampete",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6686877437919232/"
+        },
+        {
+          "title": "EKF Smart Lane Switching",
+          "short_description": "A smarter lane switching mechanism between multiple active lanes based on error integration and innovations.",
+          "student_name": "ksharshit",
+          "code_url": "https://github.com/ArduPilot/ardupilot/pull/14674",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5023364126605312/"
+        },
+        {
+          "title": "Walking robot support",
+          "short_description": "This project when completed gives ardupilot the ability to control a walking robot. To be able to do that ardupilot needs new modules which support...",
+          "student_name": "Ashvath s",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2020-walking-robot-support-for-ardupilot-conclusion/61112",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5120817974738944/"
+        },
+        {
+          "title": "Improvements to Object Avoidance in Rover & Multicopter",
+          "short_description": "Most ArduPilot features are well tested and have been present for years now. Path planning and obstacle avoidance are newly included features....",
+          "student_name": "Rishabh Singh",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2020-improvements-to-object-avoidance-conclusion/61109",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5938239002640384/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/4848051277004800/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Custom Firmware Builder",
+          "short_description": "A web based program that allows users to select a custom set of features to be included in a reduced ArduPilot firmware that uses less flash memory....",
+          "student_name": "Will Piper",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2021-custom-firmware-builder/74946",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6423999432622080/"
+        },
+        {
+          "title": "Precision Landing Improvements using Depth Camera",
+          "short_description": "Precision landing has been a popular feature that has attracted many research groups and professionals worldwide. ArduPilot\u2019s implementation has been...",
+          "student_name": "rishabhsingh3003",
+          "code_url": "https://gist.github.com/rishabsingh3003/f40b2c83864d3e8be5d928d4c504769e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5471828637646848/"
+        },
+        {
+          "title": "Native ROS2 support",
+          "short_description": "This project serves as a modification to the Project \u201cPorting MAVROS for ROS2\u201d and instead aims to provide Ardupilot with native support for ROS2...",
+          "student_name": "Arsh Pratap",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2021-native-ros2-support/75083",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4605960982626304/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/ardupilot/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Custom Controller Implementation Using MathWorks Simulink Code Generation",
+          "short_description": "MathWorks Simulink is a graphical programming language that allows one to create nonlinear vehicle models, and perform control system design and...",
+          "student_name": "Emre Saldiran",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2022-custom-controller-via-simulink-code-generation-conclusion/90709",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/pXQXmxEz/"
+        },
+        {
+          "title": "Boat Object Avoidance with  Luxonis AI Camera Using Image Segmentation",
+          "short_description": "Train an image segmentation model. Do both segmentation and obstacle distance calculation in it. Burn the model into Luxonis AI camera. Then use the...",
+          "student_name": "Chenghao Tan",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2022-boat-object-avoidance-with-luxonis-ai-camera/91257",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/CDvCA4a1/"
+        },
+        {
+          "title": "Rover AutoDocking",
+          "short_description": "ArduPilot is the most advanced autopilot software capable of controlling numerous vehicles such as Copters, Planes, Rovers, Boats, etc. It comes with...",
+          "student_name": "Shiv Tyagi",
+          "code_url": "https://docs.google.com/document/d/11JE8np9u4JCB6R_wt7XoRuKQ0SxClEgYKHZkyanwE94/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8OryVMqS/"
+        },
+        {
+          "title": "Update ROS integration for Non-GPS navigation and off-board path-planning",
+          "short_description": "This project serves as an updation and verification of ROS integration with non-GPS navigation and path planning. This project requires testing the...",
+          "student_name": "Sanket Sharma",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2022-wrapping-up-update-ros-integration-for-non-gps-navigation-and-off-board-path-planning/90701",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/SvxcIgbt/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/ardupilot",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Improvements for ROS2 Support for Ardupilot",
+          "short_description": "This project is a continuation of the project : ROS-2 Native Support for Ardupilot, which I worked on while receiving mentorship from Ardupilot in...",
+          "student_name": "Arsh Pratap",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-23-wrapping-up-improvements-to-the-native-dds-support-in-ardupilot/105643",
+          "proposal_id": "n4mLmcsI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/gwzMO4GB"
+        },
+        {
+          "title": "Camera and Gimbal enhancements",
+          "short_description": "This project aims to fix camera and gimbals related issues in ArduPilot, upgrading currently supported messages and adding support for new mavlink...",
+          "student_name": "Asif Khan",
+          "code_url": "https://docs.google.com/document/d/1ZGjGy3RMMbsAMOzFokrXzb60ubjuVwYJ4V5STDD3Hds/edit?usp=sharing",
+          "proposal_id": "0TARIpmQ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/6wk8qNHC"
+        },
+        {
+          "title": "GPS-Denied Autonomous Exploration with ROS 2",
+          "short_description": "With Open Robotics quickly moving to make ROS 2 the standard version of ROS, supporting it has become a growing interest in the Ardupilot community....",
+          "student_name": "Pedro Fuoco",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2023-gps-denied-autonomous-exploration-with-ros-2/101121",
+          "proposal_id": "DZMa8NTc",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DWZ8JKkU"
+        },
+        {
+          "title": "MultiCopter Swarm Avoidance",
+          "short_description": "Ardupilot is an advanced and versatile flight control software that has many features, including an obstacle avoidance feature that can successfully...",
+          "student_name": "Shiv Tyagi",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2023-multicopter-swarm-avoidance/102108",
+          "proposal_id": "eB2YKDuy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/wJVH7lKg"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/ardupilot/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "High Altitude Non-GPS Position Estimation",
+          "short_description": "This project involves developing High Altitude Non-GPS Position Estimation algorithm for UAVs, so that they can localize and navigate in the...",
+          "student_name": "Sanket Sharma",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2024-wrapping-up-high-altitude-non-gps-navigation/122905",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Hwv83Kmv/"
+        },
+        {
+          "title": "MAVProxy AI Chat Enhancements",
+          "short_description": "MAVProxy is a powerful command-line based \u201cdeveloper\u201d ground station software. It can be extended via add-on modules, this project is about Chat...",
+          "student_name": "Aditya Omar",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc-2024-wrapping-up-mavproxy-ai-chat-enhancements/122793",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/epH6bVmX/"
+        },
+        {
+          "title": "Visual Follow-me using AI",
+          "short_description": "This project aims to add real-time object tracking and a \"follow me\" mode, allowing UAVs or UGVs to automatically follow a target object or person. A...",
+          "student_name": "Asif Khan",
+          "code_url": "https://docs.google.com/document/d/1nda_bK6A3NYCI6NqsS6g607A6eQEqYbHASdRkXl6fi4/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2HkcepN4/"
+        },
+        {
+          "title": "All-in-One System Identification Toolkit for ArduPilot Platforms",
+          "short_description": "This project intends to extend the system identification capabilities of Ardupilot to include all UAV types supported by Ardupilot, along with a...",
+          "student_name": "Astik Srivastava",
+          "code_url": "https://discuss.ardupilot.org/t/gsoc24-all-in-one-system-identification-toolkit-for-ardupilot-update/121116/5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/zhry2acr/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/ardupilot",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "AI Chat Integration with all WebTools",
+          "short_description": "This project aims to enhance the functionality and user experience of web tools, starting with the Hardware Report Tool and UAV Log Viewer, by...",
+          "student_name": "Anas Chebili",
+          "code_url": null,
+          "proposal_id": "4S0eGR8d",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TzF2K1ji"
+        },
+        {
+          "title": "Proposal for Gazebo Plug-in Model of a Motor - ArduPilot",
+          "short_description": "The project aims to make an electro-mechanical model of a motor which would simulate a motor in gazebo. The purpose is to enhance the motor testing...",
+          "student_name": "Bhajneet Singh Bedi",
+          "code_url": null,
+          "proposal_id": "kSTEEIOs",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/hx75eBVL"
+        },
+        {
+          "title": "SITL AI Reinforcement Learning Concept Script",
+          "short_description": "This project aims to extend the ArduPilot Software-In-The-Loop (SITL) environment to support episodic reinforcement learning (RL). Rather than simply...",
+          "student_name": "Bruno Andreoni Sarmento",
+          "code_url": null,
+          "proposal_id": "zUVTv0n7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/w7EYZSIz"
+        },
+        {
+          "title": "AI Chat WebTool for use with MP and/or QGC",
+          "short_description": "This project allows for simplified drone control using a web-based AI assistant that converts verbal/written commands from the pilot (e.g. \"Arm the...",
+          "student_name": "Elton Satiyev",
+          "code_url": null,
+          "proposal_id": "6PH9j0yO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/8miuPjoi"
+        },
+        {
+          "title": "Non-GPS Position Estimation Using 3D Camera and Pre-Generated Map",
+          "short_description": "This proposal aims to address the challenge of robust and accurate GPS-denied navigation for UAVs equipped with lightweight 3D cameras. The core...",
+          "student_name": "Shubham-shahh",
+          "code_url": null,
+          "proposal_id": "cgZ8jATK",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/N3dE0FL7"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/channels/674039678562861068/805671364873682954",
+  "contact_email": "mailto:ardupilot.devel@gmail.com",
+  "mailing_list": "https://discuss.ardupilot.org/c/google-summer-of-code/131",
+  "ideas_url": "https://ardupilot.org/dev/docs/gsoc-ideas-list.html",
+  "guide_url": "https://ardupilot.org/dev/docs/gsoc.html",
+  "twitter_url": "https://twitter.com/ardupilotteam?lang=en",
+  "blog_url": "https://discuss.ardupilot.org/c/blog"
+}

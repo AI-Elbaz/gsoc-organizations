@@ -1,0 +1,38 @@
+{
+  "name": "Netty",
+  "url": "https://netty.io",
+  "image_url": "https://lh3.googleusercontent.com/27iH7LkW_01hQarGnCxs2vY36zcIObRcog6ek5PXIV1Bd-wO5RaYf_aeavWUgHebuhJzyTjPQbxl69QseV6XjEgc8DDiYHU",
+  "image_background_color": "#ffffff",
+  "category": "Web",
+  "topics": [
+    "network",
+    "nonblocking",
+    "async"
+  ],
+  "technologies": [
+    "c",
+    "java",
+    "jni"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5983819074633728/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Adding io_uring transport to Netty",
+          "short_description": "The new io_uring interface added to the Linux Kernel 5.1 is a high I/O performance scalable interface for fully asynchronous Linux syscalls.\nThe goal...",
+          "student_name": "Josef Grieb",
+          "code_url": "https://gist.github.com/1Jo1/1e95d40094c3991e5eebcc352afbead9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5108730896580608/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://gitter.im/netty/netty",
+  "contact_email": "mailto:netty@googlegroups.com",
+  "mailing_list": "https://groups.google.com/forum/#!forum/netty",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/netty_project"
+}

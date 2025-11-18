@@ -1,0 +1,499 @@
+{
+  "name": "openSUSE Project",
+  "url": "https://get.opensuse.org/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/opensuse-project/zq11ebxj038xotbe-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "virtualization",
+    "web development",
+    "linux",
+    "configuration management",
+    "realtime",
+    "linux distribution",
+    "conferences",
+    "web",
+    "qa",
+    "packaging",
+    "ui/ux",
+    "operating systems",
+    "software quality",
+    "build tools",
+    "containers",
+    "tools",
+    "developer tools",
+    "devops",
+    "edge",
+    "AIML",
+    "operating system developer tools",
+    "containers kubernetes",
+    "Security Cryptography",
+    "licensing & software quality QA",
+    "systems management"
+  ],
+  "technologies": [
+    "linux",
+    "ruby on rails",
+    "ruby",
+    "docker",
+    "angularjs",
+    "javascript",
+    "angular.js",
+    "c",
+    "c++",
+    "perl",
+    "ruby on rail",
+    "html",
+    "python",
+    "rpm",
+    "rust",
+    "kubernetes",
+    "artificial intelligence",
+    "Testing",
+    "configuration management",
+    "reactjs javascript",
+    "go"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/5377981685956608/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Improve One-Click Installer",
+          "short_description": "This project aims to create a version of the QT based one-click installer with much improved user interface which is easier to use, gives more...",
+          "student_name": "Shalom Rachapudi David",
+          "code_url": "https://github.com/openSUSE/one-click-installer/commits/master?author=shalomRachapudi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6418157266796544/"
+        },
+        {
+          "title": "Improve the UI of Portus",
+          "short_description": "Currently, Portus has a Bootstrap based user interface. But still has some responsivity issues , specially on small screens. So, one of the focuses...",
+          "student_name": "msfernandes",
+          "code_url": "https://github.com/SUSE/Portus/commits/master?author=msfernandes",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6422685504503808/"
+        },
+        {
+          "title": "Port Jangouts from AngularJS 1.4",
+          "short_description": "Nobody knows when Angular2 is going to be released but it will be early, and all AngularJS 1.X projects should be migrated to the new version. With...",
+          "student_name": "magarcia",
+          "code_url": "http://thingsofgeek.com/gsoc2016/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5714469825019904/"
+        },
+        {
+          "title": "Implementing Ticket payment feature for OSEM",
+          "short_description": "OSEM is an event management app tailored to Free Software Conferences. OSEM already has a feature to sell conference tickets to its attendees. At the...",
+          "student_name": "Rishabh Saxena",
+          "code_url": "https://rishabhstr.wordpress.com/2016/08/14/gsoc-16-last-week/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5020625911414784/"
+        },
+        {
+          "title": "Alternatives YaST Module",
+          "short_description": "Most of the GNU/Linux distributions have a GUI for managing update-alternatives. In this proposal, I suggest to develop an Alternatives YaST Module...",
+          "student_name": "jyeray",
+          "code_url": "https://gist.github.com/jyeray/21893727ce176357e1f01d9067a223b6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5619722846470144/"
+        },
+        {
+          "title": "Enhance visitor experience of OSEM",
+          "short_description": "The schedule of Events in OSEM would be the main part of the project. The admin interface to build the schedule page is a simple javascript which...",
+          "student_name": "Ana",
+          "code_url": "https://github.com/openSUSE/osem/commits?author=Ana06",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4765780805681152/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6729779961135104/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "Make the Travel Support Application useful for more organizations",
+          "short_description": "TSP is a Ruby on Rails based application to manage the requests and reimbursements from travel help programs of free software organizations....",
+          "student_name": "Nikhil Gupta",
+          "code_url": "http://blog.nikhilgupta.me/gsoc-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6133468983459840/"
+        },
+        {
+          "title": "Hosted Version of OSEM",
+          "short_description": "Currently OSEM is a self hosted solution to organize conferences by various organizations developed in Ruby on Rails. Conference organizers all over...",
+          "student_name": "Shlok Srivastava",
+          "code_url": "https://lifeinoss.wordpress.com/2017/08/27/gsoc-final-submission-blog/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5288625428234240/"
+        },
+        {
+          "title": "Integrate callstats.io into Jangouts",
+          "short_description": "Audio, video or data packets transmitted over a peer-connection can be lost, and experience varying amounts of network delay. Therefore, a web...",
+          "student_name": "Bimalkant Lauhny",
+          "code_url": "https://code-master5.github.io/Aug-22-2017",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5375181635715072/"
+        },
+        {
+          "title": "Printable tickets & better check-in process for OSEM",
+          "short_description": "The current implementation of registration process in OSEM has become much more configurable recently with the addition of online ticket payment...",
+          "student_name": "Siddhant Bajaj",
+          "code_url": "https://siddhantbj.wordpress.com/2017/08/24/osem-gsoc17-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4775222217539584/"
+        },
+        {
+          "title": "Revamp Jangouts User Interface",
+          "short_description": "Jangouts (for \u201cJanus Hangouts\u201d) is a videoconferencing tool based on WebRTC and Janus Gateway that provides a self-hosted open source alternative to...",
+          "student_name": "Ania Bui",
+          "code_url": "https://github.com/aniabui/jangouts/releases/tag/v0.4.6-redesign",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6489126635307008/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5250379281334272/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Improve people collaboration in the Hackweek tool",
+          "short_description": "At present, In Hackweek app, a user can post a project/idea and others can only interact through comments and then join the project. But, Hackweek...",
+          "student_name": "AnkushMalik",
+          "code_url": "https://gist.github.com/AnkushMalik/66e0ef2947f7cd4486ee59f0ee3cda42",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5287729122246656/"
+        },
+        {
+          "title": "The Proposal for Integrating Cloud Pinyin in ibus-libpinyin",
+          "short_description": "Pinyin input method plays a significant role among all the input methods in China all the time. Though these pinyin input methods on ibus such as...",
+          "student_name": "Xu Linyu",
+          "code_url": "https://github.com/lianna07/ibus-libpinyin",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6289298315804672/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5703501222510592/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Improvement of uyuni documentation publishing theme",
+          "short_description": "\" People ignore design that ignores people \". \nThe sole aim of the project is to modify the current Uyuni documentation theme into more modern and...",
+          "student_name": "Naman Bhatia",
+          "code_url": "https://github.com/Namanbhatia7/GSoC-2020-Project-Report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6248080795500544/"
+        },
+        {
+          "title": "Improve and merge Cloud Input Feature in ibus-libpinyin",
+          "short_description": "Improve the integration cloud pinyin and merge it into ibus-libpinyin. The improvement includes asynchronous execution mode, json data validation,...",
+          "student_name": "Inoki",
+          "code_url": "https://inoki25.wordpress.com/2020/08/26/gsoc-20-at-opensuse-cloud-input-feature-in-ibus-libpinyin/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4540630740500480/"
+        },
+        {
+          "title": "Refactor Old Rpmlint Checks",
+          "short_description": "Rpmlint is a tool for checking common errors in RPM packages. It is used for checking RPM packages or specfiles either individually or with the...",
+          "student_name": "Shubhashish Dixit",
+          "code_url": "https://gist.github.com/thisisshub/8610913957eeb17c14381923968bf4c8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6315566945533952/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5137006207696896/",
+      "num_projects": 6,
+      "projects": [
+        {
+          "title": "Convert Virtual Systems Page to ReactJS",
+          "short_description": "Convert the JSP code of virtual systems page to ReactJS\nImprove the UI of freshly created virtual systems page",
+          "student_name": "Riya Kalra",
+          "code_url": "https://github.com/uyuni-project/uyuni/pull/4152",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5648518122831872/"
+        },
+        {
+          "title": "Update Kanidm project: MFA backup code and async-std library for openssl",
+          "short_description": "The 1st deliverable proposes using a Backup code to restore single-device accounts. Users have to generate the Backup code when they are already...",
+          "student_name": "victorcwai",
+          "code_url": "https://victorcwai.github.io/blog/2021/08/21/gsoc-final",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5300409580650496/"
+        },
+        {
+          "title": "Logging Pipeline Plumber for Rancher",
+          "short_description": "Banzai Logging Operator allows users to build complex logging pipelines by writing Kubernetes custom resource configurations. But it could be a...",
+          "student_name": "Isala Piyarisi",
+          "code_url": "https://github.com/MrSupiri/rancher-logging-pipeline-plumber",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6253837794410496/"
+        },
+        {
+          "title": "Interpersonal Identity Verification",
+          "short_description": "Preventing phone scams by allowing users to assert the validity of unknown callers",
+          "student_name": "Quinn Okabayashi",
+          "code_url": "https://qnnokabayashi.github.io/Google-Summer-of-Code-'21-Work-Product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4950172815065088/"
+        },
+        {
+          "title": "Porting PRoot to Rust",
+          "short_description": "Implement a prototype version of proot with Rust language, with the most basic features.",
+          "student_name": "imlk",
+          "code_url": "https://gist.github.com/KB5201314/7f0acf0239f9b1388be55f5cd0bb2b43",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5766063425323008/"
+        },
+        {
+          "title": "IBus Customize",
+          "short_description": "Currently (Before GSoC 2021 during application), the IBus theme follows the global GNOME-Shell theme in GNOME and the global GTK theme in other...",
+          "student_name": "Songlin Jiang",
+          "code_url": "https://hollowmansblog.wordpress.com/2021/08/21/my-google-summer-of-code-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6295506795364352/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/opensuse-project/",
+      "num_projects": 4,
+      "projects": [
+        {
+          "title": "Proposal For gsoc 2022 on Rancher Project",
+          "short_description": "In this proposal, I proposed my idea of deploying a Kubernetes cluster consisting of docker containers of ML data set along with ML model code....",
+          "student_name": "Akshat Jain 101",
+          "code_url": "https://medium.com/@akshatjain9782/gsoc-final-report-opensuse-organisation-69e812dba957",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/svcYaFO4/"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads",
+          "short_description": "In this project, we will use Rancher to manage and deploy microservices, which would address market verticals by implementing edge-core-cloud...",
+          "student_name": "Navin Chandra",
+          "code_url": "https://medium.com/@navinchandra772/gsoc-2022-project-opensuse-rancher-ec15fbc2c6d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/wvb53CUA/"
+        },
+        {
+          "title": "Dynamic detection of error conditions from openQA test results",
+          "short_description": "The goal of this project is to develop a dynamic detection of error conditions from openQA test results, which will help operating system developers...",
+          "student_name": "Chen Yuetao",
+          "code_url": "https://akemiiii.github.io/2022/09/08/GSoC-project/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/8fzvvscF/"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads",
+          "short_description": "Provide an opensource-based example deployment of a trained/tested/functional workload available for use cases: -> brainstorm (or research) an...",
+          "student_name": "Abhinav Sharma",
+          "code_url": "https://gsoc-finaleval.netlify.app/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/MNFtN4so/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/opensuse-project",
+      "num_projects": 8,
+      "projects": [
+        {
+          "title": "Implement a proper testing framework (rpmlint)",
+          "short_description": "The primary objective of this project is to enhance the testing framework and testing ideology by utilizing mocking techniques. The intention is to...",
+          "student_name": "Afrid Hussain",
+          "code_url": "https://docs.google.com/document/d/1er40UGl7NEm7YKL-4_LKszGI0zA1J3cdTw1ythPhoPU/edit",
+          "proposal_id": "whJxX03P",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/WxqvIPZs"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads",
+          "short_description": "In this project, we will provide an opensource-based example deployment of a trained/tested/functional workload, which would address market verticals...",
+          "student_name": "Bishal Das",
+          "code_url": "https://bishal-das.hashnode.dev/gsoc-2023-project-opensuse-rancher",
+          "proposal_id": "DyQCfBFo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/KwnJF6Su"
+        },
+        {
+          "title": "Improve Security Auditing in Uyuni by Incorporating OVAL Data",
+          "short_description": "In today's world, security is a major concern for any organization. With the increasing number of vulnerabilities and attacks, it is important to...",
+          "student_name": "Houssem Nasri",
+          "code_url": "https://gist.github.com/HoussemNasri/023088c1831b534e5acca5195e35d5f3",
+          "proposal_id": "q7NJp0So",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/laqWGv1Q"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads",
+          "short_description": "In the fast-paced world we live in, sleep disorders have become increasingly common and are often overlooked. As part of Google Summer of Code (GSoC)...",
+          "student_name": "Krish Aryan",
+          "code_url": "https://medium.com/@krisharyan.36/gsoc-final-evaluation-report-opensuse-a51a3790026b",
+          "proposal_id": "rGYNtUUj",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/kaKd6Oy1"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads - Rancher",
+          "short_description": "We will use Rancher managed Kubernetes clusters to create and deploy Machine Learning based microservice workloads for business verticals by...",
+          "student_name": "Navin Chandra",
+          "code_url": "https://medium.com/@navinchandra772/google-summer-of-code-2023-opensuse-project-8bd74e38d819",
+          "proposal_id": "8tvdcN3g",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YD5TW1gM"
+        },
+        {
+          "title": "Accessibility Improvement for Uyuni",
+          "short_description": "The goal of this project is to analyze, track, document and solve accessibility issues in Uyuni, thereby increasing the accessibility support of...",
+          "student_name": "Odetayo Rachael",
+          "code_url": "https://rakielle.hashnode.dev/gsoc-2023-final-report",
+          "proposal_id": "PyVNvZX6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/J3FwSdEr"
+        },
+        {
+          "title": "Implementing an out-of-band identity verification system for Kanidm",
+          "short_description": "As of now, Kanidm doesn't provide a way to allow two users to mutually authenticate each other. I would like to design and implement such feature,...",
+          "student_name": "Sebastiano Tocci",
+          "code_url": "https://gist.github.com/Seba-T/8852d396e5d0e589512a844dcda13db0",
+          "proposal_id": "Q3S8MfRJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/fifdSblc"
+        },
+        {
+          "title": "Providing a library for determining key length security",
+          "short_description": "This project is aimed at creating a library that can be used across different programming languages via a foreign function interface and a command...",
+          "student_name": "Tshaka Lekholoane",
+          "code_url": "https://tshaka.dev/x/wardstone",
+          "proposal_id": "RwD8FQxN",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/QjOBHrdT"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/opensuse-project/",
+      "num_projects": 11,
+      "projects": [
+        {
+          "title": "IMPROVE TEST COVERAGE IN RPMLINT",
+          "short_description": "This project works with the OpenSuse Tumbleweed linux, where the tests will be executed. The rpmlint project has a lot of tests. The past year the...",
+          "student_name": "Luz Marina",
+          "code_url": "https://docs.google.com/document/d/1_szXbhZYstnb8_u7kWTFWDJP8B6ICUclWgzDo6SdPKg/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/3L9UgExV/"
+        },
+        {
+          "title": "Kanidm, Improving Documentation and Accessibility",
+          "short_description": "I would like to work on Kanidm, specifically to improve it under the title \u201cDocumentation and Accessibility\u201d with a large project. My plan is to...",
+          "student_name": "alexvonme",
+          "code_url": "https://github.com/kanidm/kanidm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/1V6Is9HZ/"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads",
+          "short_description": "In this project, we will provide an open source based example deployment of a trained/tested/functional workload, which would address market...",
+          "student_name": "Bishal Das",
+          "code_url": "https://bishal-das.hashnode.dev/gsoc-2024-project-opensuse-rancher",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lwxLIHO2/"
+        },
+        {
+          "title": "Refresh Uyuni Website and Improve Accessibility and Responsiveness",
+          "short_description": "The goal of this project is to refresh the Uyuni website, make it responsive and accessible for everyone that visits it. The approach will involve...",
+          "student_name": "Odetayo Rachael",
+          "code_url": "https://rakielle.hashnode.dev/gsoc-2024-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4e435jR1/"
+        },
+        {
+          "title": "Packit support for OBS",
+          "short_description": "The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent, and reproducible...",
+          "student_name": "rxbryan",
+          "code_url": "https://github.com/packit/packit/pull/2343",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dC93EbFr/"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads",
+          "short_description": "Edge Computing has turned out tremendously helpful to run analytics at the edge and reducing the amount of data sent to the servers and storage at...",
+          "student_name": "Aman Kumar.",
+          "code_url": "https://gist.github.com/Aman123lug/8737085ee17977cf574e048b38fcbe4a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/hDIDPCCB/"
+        },
+        {
+          "title": "Kanidm Web UI",
+          "short_description": "The expansion and refactoring of the current web-ui to add new functionalities, improve current ones and work potential around flaws. This would make...",
+          "student_name": "PixelHamster",
+          "code_url": "https://github.com/ToxicMushroom/GSOC-2024-Kanidm/blob/911a71c43f45c31cdc77cfc7fab647c97c0ed14a/submission.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/LG6CF9VI/"
+        },
+        {
+          "title": "Develop a lazy reposync service",
+          "short_description": "This project aims at developing a new lazy reposync, which comes as a replacement of the old spacewalk-repo-sync with the main goal of dividing the...",
+          "student_name": "Haroune Hassine",
+          "code_url": "https://gist.github.com/waterflow80/a31614648380f1bf7d26b5b42ad9cb68",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/knoNDN3M/"
+        },
+        {
+          "title": "Refactor Customize IBus with Modern Interface and Extensibility",
+          "short_description": "The GNOME 45 release introduces significant changes and improvements for developers, including updates to developer tools, libraries, and language...",
+          "student_name": "Jasdg",
+          "code_url": "https://github.com/openSUSE/Customize-IBus/pull/46",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RMyweIgx/"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads on Rancher at openSUSE Project",
+          "short_description": "The openSUSE project is a worldwide effort that promotes the use of Linux everywhere and creates one of the world's best Linux distributions....",
+          "student_name": "Rudraksh Karpe",
+          "code_url": "https://gist.github.com/rudrakshkarpe/752c22f7448a5d626e6172a18e0117a5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/qmkkFMtn/"
+        },
+        {
+          "title": "Analytics Edge Ecosystem Workloads:  A Framework for Using AI and ML in the Finance Vertical",
+          "short_description": "An open-source microservices framework for credit decisioning in the finance industry. The project uses edge-core-cloud infrastructure to improve...",
+          "student_name": "Satyam Soni",
+          "code_url": "https://github.com/satyampsoni/credit-decisioning/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/K4b6hfyY/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/opensuse-project",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Log Detective for openSUSE/OBS",
+          "short_description": "This research project addresses the problem of time-consuming debugging of RPM build failures in openSUSE. By integrating the Log Detective model...",
+          "student_name": "Aazam Thakur",
+          "code_url": null,
+          "proposal_id": "ArYWKuFH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SZ1Va8yZ"
+        },
+        {
+          "title": "AI-Driven Test Selection in Uyuni's Pull Request Acceptance Tests",
+          "short_description": "Uyuni is the open-source upstream of SUSE Manager, a configuration and infrastructure management solution for administering multiple Linux systems....",
+          "student_name": "Ahmed Khaled (Akayiz)",
+          "code_url": null,
+          "proposal_id": "Wge1bqbJ",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/2mlAbkgB"
+        },
+        {
+          "title": "Analytics edge ecosystem workloads: entertainment vertical",
+          "short_description": "In this project, we aim to demonstrate an open-source example deployment of a fully functional workload. This project focuses on the entertainment...",
+          "student_name": "AkashKumar",
+          "code_url": null,
+          "proposal_id": "42FJaL3F",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/D4vbeivQ"
+        },
+        {
+          "title": "Support for Ubuntu Snap Packages in Uyuni",
+          "short_description": "Today, with Ubuntu increasingly adopting Snap packages, Uyuni currently lacks support for managing these applications. This project proposes adding...",
+          "student_name": "Kathy Xu",
+          "code_url": null,
+          "proposal_id": "dG7pSUah",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qJxTxgAc"
+        },
+        {
+          "title": "Edge Focused Deep Research AI Agents using openSUSE and SUSE Rancher",
+          "short_description": "In this project, we look forward to developing Edge-Focused Deep Research AI Agents that operate fully on edge devices using open-source Large...",
+          "student_name": "Rudraksh Karpe",
+          "code_url": null,
+          "proposal_id": "G5Piic8E",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JPbCjwEn"
+        },
+        {
+          "title": "Smart Cities - Traffic Prediction Microservice",
+          "short_description": "Project Summary: Real-Time Traffic Prediction and Management System Problem: Urban traffic congestion poses significant challenges, leading to...",
+          "student_name": "sameer chauhan",
+          "code_url": null,
+          "proposal_id": "s0HF6b5B",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/qc3bwrNj"
+        },
+        {
+          "title": "GSoC Proposal - Extract and Containerize Uyuni Salt Event Processor",
+          "short_description": "This project aims to extract the Salt event processor from Uyuni's Tomcat web server and turn it into a standalone containerized service. Currently,...",
+          "student_name": "Sywen Chen",
+          "code_url": null,
+          "proposal_id": "HPaGA0ut",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/xq7KEb4Y"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://discord.com/invite/opensuse",
+  "contact_email": "mailto:ddemaio@opensuse.org",
+  "mailing_list": "https://lists.opensuse.org/archives/list/factory@lists.opensuse.org/",
+  "ideas_url": "https://github.com/openSUSE/mentoring/issues",
+  "guide_url": "https://github.com/openSUSE/mentoring/wiki/Contributor-Guidance-for-Google-Summer-of-Code",
+  "twitter_url": "https://twitter.com/openSUSE",
+  "blog_url": "https://news.opensuse.org/"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Google FHIR SDK",
+  "url": "https://github.com/google/android-fhir",
+  "image_url": "https://lh3.googleusercontent.com/wpJ-8b9DbHG_b8H-9PyvvDsnzFQ7_QJ1Z9YFHzFFI3VQSZp1RBRC_vbLEiS-h3KlpsuwBUnrxPi-w5p0knrGBZfMjTvj1XRgrxEUmUEG4dM",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "global health",
+    "ai",
+    "gis",
+    "precision health",
+    "enteprise analytics"
+  ],
+  "technologies": [
+    "android",
+    "kotlin",
+    "sqlite",
+    "fhir",
+    "materialui"
+  ],
+  "years": {
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5675929577193472/",
+      "num_projects": 5,
+      "projects": [
+        {
+          "title": "HAPI Struct <> Proto Conversion Tool",
+          "short_description": "HAPI resources are like conventional data classes that can be serialized into JSON/XML. FHIR proto buffs on the other hand are classes that are used...",
+          "student_name": "Aditya Kurkure",
+          "code_url": "https://gist.github.com/epicadk/80c3c172074868aac2076f5d4c1cfb85",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5668068813963264/"
+        },
+        {
+          "title": "Create Custom Styles in SDC Gallery",
+          "short_description": "This project will create examples of custom styles in the SDC Gallery app to show how implementers can change the color/style/text appearance of the...",
+          "student_name": "Fikri Yurcel Milano",
+          "code_url": "https://gist.github.com/FikriMilano/79a8a8aeb12ca6666efe6c8fd841485b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6176242599985152/"
+        },
+        {
+          "title": "Implementation of FHIRPath for FHIRProto in a Java library",
+          "short_description": "Create a Java library that implements the FHIRPath graph traversal language (with a FHIRPath Engine) for use with Google's serialization format...",
+          "student_name": "Deepro Choudhury",
+          "code_url": "https://github.com/google/android-fhir/tree/dc/fhir_path_proto_java/utilities",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5038766145667072/"
+        },
+        {
+          "title": "Android FHIR SDK Peer to Peer transfer",
+          "short_description": "Develop the device-to-device data transfer functionality on top of the current library. This is supposed to transfer all FHIR resources from one...",
+          "student_name": "anubhav sharma",
+          "code_url": "https://gist.github.com/maanuanubhav999/e6b2899dd308d35320a90ff215f312d7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5068157277962240/"
+        },
+        {
+          "title": "Feature Implemetation and Ui Development of Android FHIR",
+          "short_description": "Designing user-freindly android apps for the users. Implement features to enhance user experience and work on optimization of the apps along with...",
+          "student_name": "Anushka Chakraborty",
+          "code_url": "https://gist.github.com/Ana2k/92860761b86b7ce5a9d1d630ddf1a3e8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5613634666889216/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/google/android-fhir",
+  "contact_email": "mailto:summer-of-fhir@ona.io",
+  "mailing_list": "https://company.ona.io/contact/",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/onadata",
+  "blog_url": "https://corporate.ona.io/blog/"
+}

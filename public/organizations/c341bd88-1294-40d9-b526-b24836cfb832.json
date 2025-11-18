@@ -1,0 +1,55 @@
+{
+  "name": "Microkernel devroom",
+  "url": "http://www.microkernel.info/",
+  "image_url": "https://lh3.googleusercontent.com/XeXZIspaZAf8QZNUxWJBehgrnCcvKiy5WIAja2N9AEGcaQC81kS1lzPkh38BYkJJMkPBVTUmAvMoBAAMnQX-Lw-AgxE19Ab0",
+  "image_background_color": "#ffffff",
+  "category": "Operating systems",
+  "topics": [
+    "virtualization",
+    "desktop",
+    "microkernel",
+    "components",
+    "ipc"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "rust",
+    "arm",
+    "x86"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5026327212064768/",
+      "num_projects": 3,
+      "projects": [
+        {
+          "title": "Make Redox Self-hosting",
+          "short_description": "In order to build Redox on Redox, Rustc has to be ported, along with Cargo, and any dependencies (such as LLVM). Additionally, the build process...",
+          "student_name": "ids1024",
+          "code_url": "https://redox-os.org/news/gsoc-self-hosting-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6599330798501888/"
+        },
+        {
+          "title": "Porting LwIP to the GNU/Hurd",
+          "short_description": "The Hurd is the kernel of the GNU system. It consists on the GNU Mach microkernel and several user-space servers that offer most of the functions...",
+          "student_name": "Joan Lled\u00f3",
+          "code_url": "http://lists.gnu.org/archive/html/bug-hurd/2017-08/msg00035.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/4564115985006592/"
+        },
+        {
+          "title": "Porting MINIX3 to Raspberry Pi",
+          "short_description": "The MINIX3 has already supported ARM-based platforms such as BeagleBoard. The goal of this project is port the MINIX3 to the RaspberryPi. The task...",
+          "student_name": "Nikita Korobov",
+          "code_url": "http://wiki.minix3.org/doku.php?id=soc:2017:portrpi",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5859737430130688/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@microkernel.info",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": ""
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Bazel",
+  "url": "https://bazel.build/",
+  "image_url": "https://lh3.googleusercontent.com/9uuJLr6wkmtIJu_M3jGvQdYaW1WlYHnp1PLar1ppxtBrNZSUtYXwNAzOd1Hj5_e-z6za7iwjYhX5Hb35RVPZYo0jotpTVG4",
+  "image_background_color": "#ffffff",
+  "category": "Programming languages",
+  "topics": [
+    "development tools",
+    "build systems",
+    "build tools",
+    "developer tools"
+  ],
+  "technologies": [
+    "linux",
+    "java",
+    "go",
+    "c",
+    "c++",
+    "windows",
+    "bazel"
+  ],
+  "years": {
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5765787168014336/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5906507105828864/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Starlark language",
+          "short_description": "Starlark language was designed for Bazel. The language has now a specification, 3 implementations (in Java, in Go, in Rust), and is used outside...",
+          "student_name": "Marwan Tammam",
+          "code_url": "https://docs.google.com/document/d/1NPOxMqUoulye5gyqLpMkonhGjsHzviiMDb29h3nPxSQ/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5625060717494272/"
+        },
+        {
+          "title": "Sandboxing on Windows",
+          "short_description": "Bazel on Linux already supports various ways to run actions in a sandbox (linux-sandbox, processwrapper-sandbox). We want to support sandboxing on...",
+          "student_name": "Rong Jie Loo",
+          "code_url": "https://gist.github.com/rongjiecomputer/53a23172369c9fed6718826d19b47831",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5909024493535232/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:bazel-dev@googlegroups.com",
+  "mailing_list": "",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/bazelbuild",
+  "blog_url": "https://blog.bazel.build/"
+}

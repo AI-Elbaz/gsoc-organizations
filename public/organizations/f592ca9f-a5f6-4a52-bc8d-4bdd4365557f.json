@@ -1,0 +1,142 @@
+{
+  "name": "AFLplusplus",
+  "url": "https://aflplus.plus",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/aflplusplus/dw8yelaswljerorz-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Security",
+  "topics": [
+    "bug finding",
+    "fuzzing",
+    "software testing",
+    "secure development",
+    "instrumentation",
+    "ci"
+  ],
+  "technologies": [
+    "c",
+    "c++",
+    "llvm",
+    "fuzzing",
+    "qemu",
+    "sanitizers",
+    "rust",
+    "instrumentation"
+  ],
+  "years": {
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6438212253253632/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Reengineer afl-fuzz as Thread Safe, Embeddable Library",
+          "short_description": "This project idea aims to extend the afl-fuzz project as a multithreaded software using the standard linux threading library pthreads, while keeping...",
+          "student_name": "Rishi Ranjan",
+          "code_url": "https://medium.com/@010jackofspades/gsoc-2020-with-afl-bb95fe11ae3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4649283380314112/"
+        },
+        {
+          "title": "A Flexible Grammar Mutator",
+          "short_description": "AFL++\u2019s mutation engine is optimized for compact data formats, such as images, multimedia, compressed data. However, the current AFL++ does not...",
+          "student_name": "Shengtuo Hu",
+          "code_url": "https://github.com/AFLplusplus/Grammar-Mutator",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4827255919869952/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/5090910303420416/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Scheduler for LibAFL",
+          "short_description": "Fuzzing has been a popular vulnerability detection tool, and researchers have developed various techniques to build the \"best\" fuzzer. It is claimed,...",
+          "student_name": "Dongjia Zhang",
+          "code_url": "https://tokatoka.github.io/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6509647623618560/"
+        },
+        {
+          "title": "Hydra - Hybrid Fuzzing with LibAFL",
+          "short_description": "Hybrid fuzzing is a term used to describe techniques in fuzzing which involve concolic execution to drive the fuzzing campaign through...",
+          "student_name": "Julius Hohnerlein",
+          "code_url": "https://julihoh.github.io/2021/08/19/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6266317660749824/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/aflplusplus/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "bridge Nyx to LibAFL",
+          "short_description": "Nyx is a full system emulation fuzzing mode that supports snapshots. Users can apply it to both source-code-based instrumentation and binary-only...",
+          "student_name": "syheliel",
+          "code_url": "https://gist.github.com/syheliel/5f11d9c1082edb595f36c371ddbd9dad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/L9MXXYvq/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/aflplusplus",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "AFL-style UI: Add AFL-style UI to the TUI monitor",
+          "short_description": "LibAFL, a library written by Rust, helps people develop a fuzzer tailored to specific needs, but due to the lack of the running status information of...",
+          "student_name": "hengzh",
+          "code_url": "https://gist.github.com/ToSeven/141706d8eb1ef8da588146edb45118a9",
+          "proposal_id": "OmDhmdMi",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/opfPA5Ly"
+        },
+        {
+          "title": "Fuzzer Template Generator: abstracting complexity to produce knowledge.",
+          "short_description": "Libafl is a library written in Rust that provides components to build fuzzers. A newcomer might feel confused when creating a fuzzer because that...",
+          "student_name": "Matheus Baptistella",
+          "code_url": "https://github.com/AFLplusplus/LibAFL/pull/1344",
+          "proposal_id": "oz4jvGQ9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/CQBo3pNX"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/aflplusplus/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Adapt kAFL / Nyx to LibAFL QEMU",
+          "short_description": "This proposal addresses the project Adapt kAFL / Nyx to LibAFL QEMU presented in the project list. The project's goal is to integrate...",
+          "student_name": "Marcondiro",
+          "code_url": "https://gist.github.com/Marcondiro/7701cc51eeba8ac9ed252b5499fdecaa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/iVGBslto/"
+        },
+        {
+          "title": "Rewrite AFL++'s afl-fuzz in Rust as a front-end for LibAFL",
+          "short_description": "LibAFL is a framework which pioneered the concept of modular fuzzers, where different parts of the fuzzer, such as the instrumentation, mutators,...",
+          "student_name": "aarnav",
+          "code_url": "https://github.com/AFLplusplus/LibAFL/blob/main/fuzzers/others/libafl-fuzz/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/4tBXDbB9/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/aflplusplus",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "Less is More: Simplifying Rust Generics and Bounds in LibAFL",
+          "short_description": "This project aims to simplify overly complex generic parameters and trait bounds in LibAFL's Rust codebase. By analyzing actual trait usage through...",
+          "student_name": "Khagan Karimov",
+          "code_url": null,
+          "proposal_id": "6bCGM6ZI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/37faqHUT"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://github.com/AFLplusplus/AFLplusplus/issues/783",
+  "contact_email": "mailto:afl@aflplus.plus",
+  "mailing_list": "https://groups.google.com/d/forum/afl-users",
+  "ideas_url": "https://github.com/AFLplusplus/LibAFL/issues/2992",
+  "guide_url": "https://github.com/AFLplusplus/LibAFL/blob/main/CONTRIBUTING.md",
+  "twitter_url": "https://twitter.com/aflplusplus"
+}

@@ -1,0 +1,2093 @@
+{
+  "name": "NumFOCUS",
+  "url": "https://numfocus.org",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/numfocus/wimcwc2v6kjlidqc-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Science and medicine",
+  "topics": [
+    "data science",
+    "graphics",
+    "scientific computing",
+    "numerical computation",
+    "machine learning",
+    "data visualization",
+    "big data",
+    "high performance computing",
+    "statistical computing",
+    "pydata",
+    "numerical computing",
+    "ai"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "r",
+    "julia",
+    "c",
+    "c++"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/4647600753999872/",
+      "num_projects": 7,
+      "projects": [
+        {
+          "title": "Manage workflow for Software/Data Carpentry instructor training",
+          "short_description": "Software Carpentry (SWC) has a workflow for Instructor Trainings. Currently, it uses Etherpads and Google Docs spreadsheets, which slows down SWC...",
+          "student_name": "Chris Medrela",
+          "code_url": "http://chrismedrela.github.io/end-of-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5514874910146560/"
+        },
+        {
+          "title": "Presolve Routines for LP and SDP within Convex.jl",
+          "short_description": "Pre-solving is the process of detecting redundancies in an optimization problem and removing them so that the problems that are fed to solvers are...",
+          "student_name": "ramcha24",
+          "code_url": "https://github.com/JuliaOpt/MathProgBase.jl/pull/116",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5278266772422656/"
+        },
+        {
+          "title": "Improving the state of Optim.jl",
+          "short_description": "The purpose of this GSoC project is to work on a variety of loose ends in, and general improvements to, the optimization package Optim.jl. Optim.jl...",
+          "student_name": "pkofod",
+          "code_url": "http://pkofod.github.io/2016/08/31/gsocfinal/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4535208976056320/"
+        },
+        {
+          "title": "Categorical Axis",
+          "short_description": "While matplotlib 1.5 added direct support for plotting data frames, there are still a few related tasks yet to be done.  An important one is...",
+          "student_name": "story645",
+          "code_url": "https://github.com/matplotlib/matplotlib/pulls?utf8=%E2%9C%93&q=author%3Astory645%20",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4586869111128064/"
+        },
+        {
+          "title": "Result-aggregation server for the installation-test scripts",
+          "short_description": "Software Carpentry has been teaching researchers in science, engineering, medicine, and related disciplines the computing skills they need to get...",
+          "student_name": "Prerit Garg",
+          "code_url": "https://github.com/prerit2010/Result-aggregation-server/commits/master?author=prerit2010",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/6539065964888064/"
+        },
+        {
+          "title": "Upgrade to datapackage.json standard",
+          "short_description": "One of the ways the Retriever makes it easy to add new datasets is by allowing datasets to be added using simple plain text descriptions of the data...",
+          "student_name": "goelakash",
+          "code_url": "https://goelakash.wordpress.com/2016/08/21/gsoc-blog-wrap-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4850216104624128/"
+        },
+        {
+          "title": "Dynamic Topic Models - Gensim",
+          "short_description": "Dynamic Topic Models are used to model the evolution of topics in a corpus, over time. The Dynamic Topic Model is part of a class of probabilistic...",
+          "student_name": "bhargavvader",
+          "code_url": "https://topicmodel2016.wordpress.com/2016/08/21/gsoc-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4938712832016384/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/6630791836598272/",
+      "num_projects": 10,
+      "projects": [
+        {
+          "title": "Matplotlib Serialization & PythreeJS",
+          "short_description": "Serialization is the process in which a data structure or object is translated\nand stored in the format of a file compatible in memory then...",
+          "student_name": "katiec1029",
+          "code_url": "https://katierose1029.github.io/jekyll/update/2017/08/29/Final-Submission-of-Work.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6362677832056832/"
+        },
+        {
+          "title": "Develop XDMF format for visualisation and checkpointing",
+          "short_description": "XDMF is a file format which is designed for very large simulation datasets. \nThe main file is XML, but there is provision for the \"heavy data\" to be...",
+          "student_name": "Michal Habera",
+          "code_url": "https://github.com/michalhabera/gsoc-summary/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6379340962988032/"
+        },
+        {
+          "title": "2d Color Maps",
+          "short_description": "All of the color mapping in Matplotlib is currently derived fromScalerMappable which as the name suggests maps scalers from R^1 ->R^4 RGBA color...",
+          "student_name": "Harshit Patni",
+          "code_url": "https://github.com/matplotlib/matplotlib/pull/8738",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6396963482238976/"
+        },
+        {
+          "title": "Develop assembly of finite element forms on quadrilateral and hexahedral meshes [FEniCS]",
+          "short_description": "One of the first steps in the finite element method (FEM) is splitting the domain on which the partial differential equation (PDE) is solved into...",
+          "student_name": "Ivan Yashchuk",
+          "code_url": "http://nbviewer.jupyter.org/gist/IvanYashchuk/48bff62b155e31f85de975b24b23e4cb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6408302195900416/"
+        },
+        {
+          "title": "Python and Julia Interface for Data Retriever",
+          "short_description": "Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and then stores them in a local database or as...",
+          "student_name": "Shivam Negi",
+          "code_url": "https://medium.com/data-retriever-gsoc17/data-retriever-final-report-95ef1d6acc59",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5402340592975872/"
+        },
+        {
+          "title": "Gensim : Gensim integration with scikit-learn and Keras",
+          "short_description": "Gensim[1] is a topic-modeling package in Python for unsupervised learning. This implies that to be able to usefully apply it to a real business...",
+          "student_name": "Chinmaya Pancholi",
+          "code_url": "https://drive.google.com/file/d/0B2iiuXZtfXQ_c0g0cXQtUThPblE/view",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6145041907056640/"
+        },
+        {
+          "title": "Training and Topic Visualizations",
+          "short_description": "Knowing about the progress and performance of a model, as we train them, could be very helpful in understanding it\u2019s learning process and makes it...",
+          "student_name": "Parul Sethi",
+          "code_url": "https://rare-technologies.com/paruls-gsoc-2017-summary-training-and-topic-visualizations-in-gensim/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6231784408743936/"
+        },
+        {
+          "title": "Port to pytest",
+          "short_description": "Testing is crucial to the development of any software and MDAnalysis currently uses nose to test their code. Unfortunately, nose is no longer under...",
+          "student_name": "Utkarsh Bansal",
+          "code_url": "http://utkarshbansal.me/blog/The-Journey/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5971269140873216/"
+        },
+        {
+          "title": "Extend Variational Inference Methods in PyMC3",
+          "short_description": "Variational inference is a great approach for doing really complex, often intractable Bayesian inference in approximate form. Common methods (e.g....",
+          "student_name": "Maxim Kochurov",
+          "code_url": "https://ferrine.github.io/blog/2017/08/24/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/5985582387822592/"
+        },
+        {
+          "title": "Single Precision Support and Gaussian Process Functionality",
+          "short_description": "PyMC3 contains a rich suite of building blocks for probabilistic modeling and inference.  This proposal contains two parts:  first is finishing...",
+          "student_name": "Bill Engels",
+          "code_url": "https://github.com/pymc-devs/pymc3/pull/2444/commits",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2017/projects/6297500092727296/"
+        }
+      ]
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6485922656813056/",
+      "num_projects": 40,
+      "projects": [
+        {
+          "title": "Guaranteed Root Finding and Global Optimization with Intervals",
+          "short_description": "Interval arithmetic provides a way to perform computations with continuous sets of real numbers or vectors, for example to bound the range of a...",
+          "student_name": "Eeshan Gupta",
+          "code_url": "https://eeshan9815.github.io/blog-gsoc/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6348517324881920/"
+        },
+        {
+          "title": "A modern tool for data exploration based on JuliaDB and WebIO",
+          "short_description": "We will combine the JuliaDB.jl package, for tabular data manipulations in Julia, with WebIO.jl and InteractNext.jl to build a user-friendly web-based...",
+          "student_name": "Pietro Vertechi",
+          "code_url": "https://piever.github.io/simpleblog/post/sputnik5/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6580627356778496/"
+        },
+        {
+          "title": "Speech recognition for the Flux model zoo",
+          "short_description": "Details of deep learning models and their performance are, unfortunately, often published without accompanying implementation code. Those models that...",
+          "student_name": "Matthew C. Kelley",
+          "code_url": "https://maetshju.github.io/finalupdate.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6582163948437504/"
+        },
+        {
+          "title": "Computer Vision using Flux.jl",
+          "short_description": "Currently, FluxML/model-zoo has very few examples demonstrating the usage of Flux. In this project, I propose to implement several Convolutional...",
+          "student_name": "Avik Pal",
+          "code_url": "https://avik-pal.github.io/blog/2018-08-13-Adding_Newer_Features_and_Speeding_up_Convolutions_in_Flux/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6584740928815104/"
+        },
+        {
+          "title": "Accessing SPH data and interpolating onto grids",
+          "short_description": "yt is a package for analyzing and visualizing volumetric data. The current infrastructure of yt is designed to deal with adaptive mesh refinement...",
+          "student_name": "Ashley Kelly",
+          "code_url": "https://gist.github.com/AshKelly/9f45a6271a5f76d0b5441fb94005b2da",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6622115465789440/"
+        },
+        {
+          "title": "Conda-Forge Bot for Automatic Updates of Recipes",
+          "short_description": "Conda-forge is a collection of recipes, build infrastructure, and distributions for the conda package manager that makes it easy for developers to...",
+          "student_name": "Justin Calamari",
+          "code_url": "https://justcalamari.github.io/jekyll/update/2018/08/10/worksubmission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5649684605435904/"
+        },
+        {
+          "title": "Implementing Eigenvalue Problem Solvers for Sparse Matrices in Julia",
+          "short_description": "The aim of this project is to implement eigenvalue problem solvers for sparse matrices in Julia in order to reduce the dependency of Julia language...",
+          "student_name": "Lauri Nyman",
+          "code_url": "https://nymanlauri.github.io/2018/08/13/LastPost.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5706071888887808/"
+        },
+        {
+          "title": "Compiling Julia to WebAssembly",
+          "short_description": "This project would bring the mathematical prowess of Julia to the web with the near native performance of WebAssembly. The expected outcome of this...",
+          "student_name": "Sean Innes",
+          "code_url": "http://seaninn.es/gsoc_blog/gsoc/2018/08/12/gsoc-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5709395656704000/"
+        },
+        {
+          "title": "Alternative computational engines for PyMC3",
+          "short_description": "PyMC3 is based on Theano, and uses it for creating and computing the graph that comprises the probabilistic model. Given the discontinuation of...",
+          "student_name": "Sharan Yalburgi",
+          "code_url": "https://github.com/sharanry/gsoc18",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5710094863958016/"
+        },
+        {
+          "title": "Stiffness Detection and Automatic Switching Algorithms for OrdinaryDiffEq.jl and Tooling for ModelingToolkit.jl",
+          "short_description": "Stiff ordinary differential equations (ODEs) and differential algebraic equations (DAEs) with high index number are problems present in physical...",
+          "student_name": "Yingbo Ma",
+          "code_url": "https://yingboma.github.io/update/2018/08/13/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5719492789272576/"
+        },
+        {
+          "title": "Inside the Black Box",
+          "short_description": "Shogun Machine Learning Toolbox aims at offering a wide range of efficient and unified machine learning algorithms with great accessibility. In this...",
+          "student_name": "Shubham Shukla",
+          "code_url": "https://gist.github.com/shubham808/0eaaf9007bb144095c591a63a87f8750",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5461485513867264/"
+        },
+        {
+          "title": "Tooling for N-body Simulations in Julia",
+          "short_description": "A large number of interacting bodies is the key component in explanation of many physical phenomena. From the gravitational interaction of stars and...",
+          "student_name": "Mikhail Vaganov",
+          "code_url": "https://mikhail-vaganov.github.io/gsoc-2018-blog/2018/08/11/final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5529132188303360/"
+        },
+        {
+          "title": "Status Server and Dashboard",
+          "short_description": "Data retriever provides a number of publicly available datasets. These datasets are not stored at a single\nlocation but are downloaded from various...",
+          "student_name": "Apoorva Pandey",
+          "code_url": "http://apoorvapandey.me/2018/08/12/the-culmination/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5531854258044928/"
+        },
+        {
+          "title": "Improve Test Coverage and Test Performance",
+          "short_description": "This project focuses to improve yt's test framework. At present, yt's Python code coverage is only 25% (unit and answer testing) and the test runtime...",
+          "student_name": "Abhishek  Singh",
+          "code_url": "https://gist.github.com/git-abhishek/3bcccb4de59afcf53f499785ffa981d5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4966182234882048/"
+        },
+        {
+          "title": "Neural Networks for Similarity Learning",
+          "short_description": "Reseachers and Industry experts alike turn to gensim for easy-to-pick up and production ready code. Recently, Deep Learning techniques have taken the...",
+          "student_name": "Aneesh Yogesh Joshi",
+          "code_url": "https://github.com/aneesh-joshi/Similarity-Learning-Evaluation-Scripts",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4967403280662528/"
+        },
+        {
+          "title": "Makie.jl \u2013 GSoC 2018 Proposal",
+          "short_description": "Makie.jl is a new plotting library for Julia, providing an interface for GLVisualize, with emphasis on interactivity and speed. The current...",
+          "student_name": "Anthony Wang",
+          "code_url": "https://anthony-wang.github.io/gsoc_blog/gsoc/julia/makie/final/progress/report/2018/08/08/final-update.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4971135942787072/"
+        },
+        {
+          "title": "Synchronize R API with the Python Data Retriever API and improve usability of R package",
+          "short_description": "Augment R API for Data Retriever with a versatile install function, robust Python detection and visualization widgets.",
+          "student_name": "Pranita Sharma",
+          "code_url": "https://github.com/ropensci/rdataretriever/commits?author=pranita-s",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5109380672389120/"
+        },
+        {
+          "title": "Complex Number support in FEniCS",
+          "short_description": "In many fields of science and engineering (such as electrodynamics, acoustics, and quantum mechanics), the partial differential equations (PDEs) can...",
+          "student_name": "Igor Baratta",
+          "code_url": "https://gist.github.com/IgorBaratta/c7ca5252834f2c70efe0d233a3acecb4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5117785856278528/"
+        },
+        {
+          "title": "Native Julia Implementation of Exponential Runge-Kutta Integrators",
+          "short_description": "Exponential integrators have received a lot of attention in recent years as a viable alternative to implicit schemes for stiff systems. In...",
+          "student_name": "Xingjian Guo",
+          "code_url": "https://gist.github.com/MSeeker1340/486400990a6d5e367059c0ec7ac128f6",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5273374267801600/"
+        },
+        {
+          "title": "Improve Distance Search Methods in MDAnalysis",
+          "short_description": "With the capability of multiple MD codes to easily handle milions of atoms, a major roadblock to analysis of this vast amount of data corresponding...",
+          "student_name": "Ayush Suhane",
+          "code_url": "https://gist.github.com/ayushsuhane/fd114cda20e93b0f61a8acb6d25d3276",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5361697921433600/"
+        },
+        {
+          "title": "Module for Approximate Bayesian Computation",
+          "short_description": "Module for Approximate Bayesian Computation\nApproximate Bayesian Computation (ABC) algorithms, also called likelihood free inference techniques, are...",
+          "student_name": "Agustina Arroyuelo",
+          "code_url": "https://agustinaarroyuelo.github.io/jekyll/update/2018/08/08/final_evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5594656209371136/"
+        },
+        {
+          "title": "Implement a Plug Flow Reactor Model with Surface Chemistry",
+          "short_description": "In this proposal, the governing equations and boundary conditions of the plug flow reactor with surface chemistry are discussed (Details see Section...",
+          "student_name": "Yuanjie Jiang",
+          "code_url": "https://github.com/yuj056/yuj056.github.io",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5613849881346048/"
+        },
+        {
+          "title": "Performance Linting for Juno",
+          "short_description": "Julia is capable of delivering very good performance (in many cases on par with optimized C), but some of the concepts that enable this performance...",
+          "student_name": "Sebastian Pfitzner",
+          "code_url": "https://pfitzseb.github.io/blogposts/gsoc-final-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6239403278073856/"
+        },
+        {
+          "title": "Model Import, Export and Computer Vision in Julia",
+          "short_description": "In the upcoming summers, I aim to achieve six objectives in three different fields. These are:\n1. Model Import :\nI plan on making a reader for...",
+          "student_name": "Ayush Shridhar",
+          "code_url": "https://ayush1999.github.io/blog/blog6.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6242927298740224/"
+        },
+        {
+          "title": "Iterative Hard thresholding for Genetic Analysis",
+          "short_description": "Recent advances in molecular biotechnologies demand fast and innovative algorithms to analyze\nthem effectively. One promising proximal-type algorithm...",
+          "student_name": "Benjamin Chu",
+          "code_url": "https://biona001.github.io/GSoC-Summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4589298720440320/"
+        },
+        {
+          "title": "Continuous Detoxification",
+          "short_description": "Shogun is a powerful machine learning toolkit. The project has a long history and a huge codebase. Some parts are very outdated and not...",
+          "student_name": "Wuwei Lin",
+          "code_url": "http://wuwei.io/post/2018/08/gsoc18-summary-page/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4732080479010816/"
+        },
+        {
+          "title": "Extending Gaussian Process Functionality in PyMC3",
+          "short_description": "This main focus of this project will be to extend the functionality of the\nPyMC3 Gaussian process module.  I plan to focus my contribution on...",
+          "student_name": "Bill Engels",
+          "code_url": "https://gist.github.com/bwengals/46a9d79a93e58ee9eaa8b2d3c8904832",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4751040008159232/"
+        },
+        {
+          "title": "Enriching Model Zoo of Flux.jl",
+          "short_description": "I propose to add a wide variety of models in the model zoo of Flux. Currently, the model zoo lacks the latest architectures and algorithms in...",
+          "student_name": "Tejan Karmali",
+          "code_url": "https://tejank10.github.io/jekyll/update/2018/08/06/GSoC-Final-Summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6561667827630080/"
+        },
+        {
+          "title": "Parameter estimation for nonlinear dynamical models.",
+          "short_description": "A differential equation model of a dynamical system is a nonlinear parameterized model that is created to match realistic scenarios and occasionally...",
+          "student_name": "Vaibhav Dixit",
+          "code_url": "https://vaibhavdixit02.github.io/Final-Blog-Post-For-Google-Summer-of-Code/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6073710955986944/"
+        },
+        {
+          "title": "FluxJS Demos",
+          "short_description": "FluxJS is a tool to export Flux models to javascript using deeplearn.js. Since Flux is a new library, it is essential to have lots of examples...",
+          "student_name": "Neethu Mariya Joy",
+          "code_url": "https://roboneet.github.io/blog/posts/final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4849182426791936/"
+        },
+        {
+          "title": "A FEniCS wrapper in Julia",
+          "short_description": "We continue work done on a FEniCS wrapper in Julia. We further optimize it, and add more functionality, so users can access a richer API, and solve...",
+          "student_name": "Yiannis Simillides",
+          "code_url": "https://github.com/JuliaDiffEq/FEniCS.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/4902861196492800/"
+        },
+        {
+          "title": "[fenics] Maximizing performance on modern architectures with data-level parallelism",
+          "short_description": "In the solution process of problems discretized using FEM, the assembly of element level tensors to the global matrix often contributes a significant...",
+          "student_name": "Fabian L\u00f6schner",
+          "code_url": "https://flgsoc18.wordpress.com/2018/08/06/final-review/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5811828210794496/"
+        },
+        {
+          "title": "Native Julia solvers for ordinary differential equations and algebraic differential equations",
+          "short_description": "I propose to implement Variable Step Size Multistep Methods, Variable Order Variable Step Size Multistep Methods, IMEX Multistep Methods and IMEX...",
+          "student_name": "Shubham Maddhashiya",
+          "code_url": "https://medium.com/@shubhamsipah00/final-report-f3e3993fe5aa",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5881053487038464/"
+        },
+        {
+          "title": "Implementing on-the-fly coordinate transformations",
+          "short_description": "Implement trajectory transformations on the MDAnalysis API, to be called on-the-fly by the user, eliminating the requirement for multiple...",
+          "student_name": "Davide Cruz",
+          "code_url": "https://davidercruz.github.io/gsoc2018/2018/11/13/End-of-GSOC.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5895324858056704/"
+        },
+        {
+          "title": "Object Tracking in Julia",
+          "short_description": "Object tracking is the process of locating a moving object (or multiple objects) over time using a camera. It has a variety of uses, some of which...",
+          "student_name": "Arijit Kar",
+          "code_url": "https://arijitkar98.github.io/2018/08/13/final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5996673603993600/"
+        },
+        {
+          "title": "Multi-stream API",
+          "short_description": "Gensim is an NLP library which claims to be highly effective during training and produce linear performance growth with increasing the number of...",
+          "student_name": "Dmitry Persiyanov",
+          "code_url": "https://github.com/RaRe-Technologies/gensim/pull/2127",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6004414544347136/"
+        },
+        {
+          "title": "Fast Extremal Eigenvalue Iterative Solver with Preconditioners",
+          "short_description": "In this project, I will implement the locally optimal block preconditioned conjugate gradient (LOBPCG) algorithm for finding extremal generalized...",
+          "student_name": "Mohamed Mohamed",
+          "code_url": "https://mohamed82008.github.io/ScienceLounge/text/2018/08/12/Final-GSoC-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6272345610125312/"
+        },
+        {
+          "title": "Improvements for JuliaNLSolvers",
+          "short_description": "Improvements for JuliaNLSolvers could be made in three parts: documentation, benchmarks and functionality.\nCurrently, LsqFit.jl, and NLsolve.jl only...",
+          "student_name": "Jiawei Li",
+          "code_url": "https://github.com/iewaij/GSoC-2018",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6282442742693888/"
+        },
+        {
+          "title": "Julia package for Minecraft API",
+          "short_description": "A package which uses the Minecraft Pi API and corresponding mod for Java version to build cool stuff. Accompanied with documentation and tutorials to...",
+          "student_name": "Aditya Puranik",
+          "code_url": "https://github.com/JuliaBerry/PiCraft.jl/pulls?utf8=\u2713&q=is%3Apr+is%3Aclosed+author%3AEllipse0934+updated%3A%3C2018-08-12+",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5168618539057152/"
+        },
+        {
+          "title": "Parallel Graph Development",
+          "short_description": "LightGraphs is a Julia package that implements several commonly used graph algorithms. The objective of the package is to provide the functionality...",
+          "student_name": "Soham Tamba",
+          "code_url": "https://sohamtamba.github.io/GSoC/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5193483178475520/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/5617300198129664/",
+      "num_projects": 19,
+      "projects": [
+        {
+          "title": "Retriever Provenance",
+          "short_description": "The Data Retriever is a package manager for data. It downloads, cleans, and stores publicly available data, so that analysts spend less time cleaning...",
+          "student_name": "Apoorva Pandey",
+          "code_url": "http://www.apoorvapandey.com/2019/08/24/the-pinnacle/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6362246035275776/"
+        },
+        {
+          "title": "Development of Qutip Functions for analysis of Bosonic/Fermionic Lattices",
+          "short_description": "The following functionality is aimed at:\nChoice of Model (lattice dimensionality, Boson/Fermion, Hubbard, XXZ, Boundary conditions etc.)....",
+          "student_name": "Saumya Biswas",
+          "code_url": "https://github.com/qutip/qutip/pull/1066",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6475272981839872/"
+        },
+        {
+          "title": "Information criteria and convergence assessment tools for ArviZ",
+          "short_description": "ArviZ is a Python package for exploratory analysis of Bayesian models, from diagnostics to visualization. It is designed as a backend-agnostic tool...",
+          "student_name": "Oriol Abril Pla",
+          "code_url": "https://github.com/OriolAbril/gsoc2019/blob/master/final_work_submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5675481620283392/"
+        },
+        {
+          "title": "Bayesian Additive Regression Trees in PyMC3",
+          "short_description": "Bayesian Additive Regression Trees (BART) is a Bayesian nonparametric approach to estimating functions using regression trees. A BART model consist...",
+          "student_name": "Juan Mart\u00edn Loyola",
+          "code_url": "https://jmloyola.github.io/posts/2019/08/gsoc-2019-final-evaluation",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5713417321578496/"
+        },
+        {
+          "title": "QuTiP Project: Noise Models in QIP Module",
+          "short_description": "QuTiP is best known for solving open quantum system dynamics. At the same time, it also has a Quantum Information Processing (QIP) submodule...",
+          "student_name": "Boxi Li",
+          "code_url": "https://gsoc2019-boxili.blogspot.com/2019/08/final-submission-of-project.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5714583002546176/"
+        },
+        {
+          "title": "Expand ChainerX Ops: Differentiable Linear Algebra",
+          "short_description": "ChainerX is a versatile ndarray implementation with special support of deep learning-specific operations. Therefore, it is important to support many...",
+          "student_name": "Ivan Yashchuk",
+          "code_url": "https://gist.github.com/IvanYashchuk/5655fec951a1b3749a9b6fa57246842c",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5736101006802944/"
+        },
+        {
+          "title": "Ordinary Differential Equations",
+          "short_description": "Parameter estimation and uncertainty propagation are salient aspects of applied dynamical systems of practical interest.  Both parameter estimation...",
+          "student_name": "Demetri Pananos",
+          "code_url": "https://dpananos.github.io/posts/2019/08/blog-post-21/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5738105397575680/"
+        },
+        {
+          "title": "Data Retriever: Extract Scripts into Separate System",
+          "short_description": "The Data Retriever is a package manager for data. The Data Retriever automatically finds, downloads and pre-processes publicly available datasets and...",
+          "student_name": "harshitbansal05",
+          "code_url": "https://harshitbansal05.github.io/2019/08/24/final-coding-blog.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5386781703274496/"
+        },
+        {
+          "title": "Effect Plot and PCA Visualizer",
+          "short_description": "YellowBricks is an open source python data visualization library aiding both exploratory data analysis and machine learning tasks. As my Google...",
+          "student_name": "Naresh Bachwani",
+          "code_url": "https://naresh-bachwani.github.io/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5489186272968704/"
+        },
+        {
+          "title": "Better Periodic Boundary Handling",
+          "short_description": "Molecular simulations are predominantly ran under periodic boundary conditions, i.e., upon leaving one face of the simulation volume, you re-enter in...",
+          "student_name": "Ninad Bhat",
+          "code_url": "https://ninadbhat.github.io/gsoc-posts/2019/08/blog-post-5/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5499385360678912/"
+        },
+        {
+          "title": "Recurrent Neural Networks for ChainerX",
+          "short_description": "In this project, I propose to add Recurrent Neural Networks to ChainerX. RNNs are a very integral part of deep learning research. ChainerX is faster...",
+          "student_name": "Aniket Didolkar",
+          "code_url": "https://medium.com/@adidolkar123/gsoc-2019-summary-building-rnns-for-chainerx-cbe0bcfa13ab",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5123441420664832/"
+        },
+        {
+          "title": "CuPy automatic fallback to NumPy",
+          "short_description": "NumPy is the fundamental and most widely used library in Python for scientific computation. But it is executed over CPU only. So, we have CuPy with...",
+          "student_name": "Piyush Raikwar",
+          "code_url": "https://piyush-555.github.io/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4602167011311616/"
+        },
+        {
+          "title": "GMsh/XDMF/DOLFIN mesh processing pipeline",
+          "short_description": "Finite element methods require a discretization of a domain into small elements, called a mesh. Typically, users of DOLFIN use an external mesh...",
+          "student_name": "Abhinav Gupta",
+          "code_url": "https://github.com/iitrabhi/GSoC2019/blob/master/Demo/GSoC2019_Summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4659097339691008/"
+        },
+        {
+          "title": "Symbolic PyMC and PyMC4 Integration",
+          "short_description": "The pymc project is an open source collaboration that focuses on providing\nBayesian modeling as well as probabilistic machine learning. The current...",
+          "student_name": "Joseph Willard",
+          "code_url": "https://josephwillard.github.io/updates-and-the-end-of-gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/4788238147911680/"
+        },
+        {
+          "title": "Extending Elichika & ch2o: Parsing jump statements and more",
+          "short_description": "Elichika and ch2o are python to ONNX experimental compilers for Chainer ML framework (Elichika would eventually replace ch2o). Given a Chainer model,...",
+          "student_name": "Rishav Chourasia",
+          "code_url": "https://gist.github.com/Rishav1/eb2ddb5d7fee46d26ef9680181bdfbe9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/6488684688310272/"
+        },
+        {
+          "title": "Ecosystem Improvements and a JuMPTutorials.jl Package",
+          "short_description": "Ecosystem issues such as improvements to tutorials and examples are an important milestone on the road map to JuMP 1.0. This project aims to improve...",
+          "student_name": "Arpit Bhatia",
+          "code_url": "https://gist.github.com/barpit20/4b98c274f7d30dd872ebece45423ff8f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5809395949109248/"
+        },
+        {
+          "title": "Apply Numba Project Wide",
+          "short_description": "Numba is a JIT(just in time) compiler that compiles a given section of the code(specified by the user) at a given time instead of compiling the...",
+          "student_name": "Aniruddha Banerjea",
+          "code_url": "https://github.com/Ban-zee/GSoC_2019/blob/master/final_submission.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5918784890601472/"
+        },
+        {
+          "title": "JuMP Automatic Dualization",
+          "short_description": "We will implement a MathOptInterface feature that allows JuMP to take an optimization problem in its primal form and return the dual form in terms of...",
+          "student_name": "Guilherme Bodin",
+          "code_url": "https://github.com/JuliaOpt/Dualization.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5195472317186048/"
+        },
+        {
+          "title": "Interface to KaHIP partitioner",
+          "short_description": "One of the main ingredients in DOLFIN\u2019s native support of parallel computations is the mesh partitioner. The mesh partitioner seeks to ensure a load...",
+          "student_name": "Igor Almeida Baratta",
+          "code_url": "https://gist.github.com/IgorBaratta/038747f9aff44eb844c0913614bf0c03",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2019/projects/5213659171651584/"
+        }
+      ]
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6692416771325952/",
+      "num_projects": 28,
+      "projects": [
+        {
+          "title": "Increase support for circular and discrete variables in ArviZ",
+          "short_description": "This Google Summer of Code 2020 project aims to increase support for circular and discrete variables in the ArviZ library. ArviZ currently provides...",
+          "student_name": "Agustina Arroyuelo",
+          "code_url": "https://agustinaarroyuelo.github.io/jekyll/update/2020/08/23/GSoC-with-ArviZ-2020-Final-Evaluation.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6436002761015296/"
+        },
+        {
+          "title": "Optimization problem differentiation",
+          "short_description": "Differentiable optimization is a promising field of convex optimization and has many potential applications in game theory, control theory and...",
+          "student_name": "AkshaySharma",
+          "code_url": "http://www.imakshay.com/post/24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5474790959218688/"
+        },
+        {
+          "title": "Extend InferenceData Capabilities",
+          "short_description": "ArviZ is a Python package for exploratory analysis of Bayesian models, intending to provide backend-agnostic tools for diagnostics and visualizations...",
+          "student_name": "Piyush Gautam",
+          "code_url": "https://percygautam.github.io/gsoc/final_eval.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6143921631002624/"
+        },
+        {
+          "title": "Reproducible computing with nteract play",
+          "short_description": "This project aims to support reproducible computing using nteract and Binder\u2014the ability to start an interactive session via a unique URL, with...",
+          "student_name": "Raman Tehlan",
+          "code_url": "https://ramantehlan.github.io/blog/post/2020/gsoc/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4967515626668032/"
+        },
+        {
+          "title": "Baseline Images Problem",
+          "short_description": "This is a proposal to help with the difficulty in adding/modifying tests which require a baseline image.  The idea is to actually not store baseline...",
+          "student_name": "Sidharth Bansal-1",
+          "code_url": "https://matplotlib.org/matplotblog/posts/gsoc_2020_final_work_product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5108894776426496/"
+        },
+        {
+          "title": "Data Retriever: Add support for more raw data formats",
+          "short_description": "The Data Retriever is a package manager for data. The Data retriever automatically finds, downloads and pre-processes publicly available datasets and...",
+          "student_name": "AshishPriyadarshi",
+          "code_url": "https://ashishpriyadarshicic.github.io/jekyll/update/2020/08/30/GSoC-blog-final.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5110925658423296/"
+        },
+        {
+          "title": "AiiDA: Full support of asyncio in aiida-core",
+          "short_description": "aiida-core uses plumpy as its workflow backend and uses circus to daemonize its workflow manager process. However, the plumpy workflow library, and...",
+          "student_name": "Jason Yu",
+          "code_url": "https://morty.tech/notes/gsoc-final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5283081100984320/"
+        },
+        {
+          "title": "Add Variational Inference Interface to PyMC4",
+          "short_description": "Variational Inference is a powerful algorithm that turns the task of computing the posterior(p(z|x)) into an optimization problem.  This project is...",
+          "student_name": "Sayam Kumar",
+          "code_url": "https://www.codingpaths.com/gsoc/work-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6215347071352832/"
+        },
+        {
+          "title": "Colour suborganization - The Need for Speed",
+          "short_description": "Colour, an affiliated project of NumFOCUS, a 501(c)(3) nonprofit in the United States currently uses NumPy for most of its calculations, while NumPy...",
+          "student_name": "Omar Wagih",
+          "code_url": "https://gist.github.com/OmarWagih1/5d10ec006f09ccab138d5e5ff2ff07e7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6217568139870208/"
+        },
+        {
+          "title": "GSoC: Machine Learning with QuTiP",
+          "short_description": "Proposal to add machine learning modules in QuTiP",
+          "student_name": "Asad",
+          "code_url": "https://github.com/qgrad/qgrad",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6236825565265920/"
+        },
+        {
+          "title": "Signac: Improve Sync Data Structures",
+          "short_description": "Signac is a data management framework named after the painter Paul Signac, whose colourful pointillist style resembles a collection of data \"points\"....",
+          "student_name": "Vishav Sharma",
+          "code_url": "https://signac.io/gsoc/2020/08/21/gsoc-vishav-blog-6.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4562441154854912/"
+        },
+        {
+          "title": "EconArk Proposal",
+          "short_description": "Initial GPU support for HARK models",
+          "student_name": "Alan Lujan",
+          "code_url": "https://gist.github.com/alanlujan91/cee20f796a33acd86a090fd62fbb2ec7",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4594702063501312/"
+        },
+        {
+          "title": "New Spectral Upsampling Methods",
+          "short_description": "Traditional rendering is based on the idea that light can be decomposed into three basic components: red, green and blue (RGB). In some areas this is...",
+          "student_name": "Pawe\u0142 Redman",
+          "code_url": "http://redman.xyz/gsoc-2020-work-product-submission",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4720131147563008/"
+        },
+        {
+          "title": "Implementing polynomial regression trees in Effective Quadratures",
+          "short_description": "Effective Quadratures is an open source library used to generate polynomials for parametric computational studies. Among the applications of the...",
+          "student_name": "Barney Hill",
+          "code_url": "https://discourse.effective-quadratures.org/t/google-summer-of-code-review-implementing-polynomial-regression-trees-in-effective-quadratures/74",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4827419799715840/"
+        },
+        {
+          "title": "Quantum Circuits Improvement for QUTIP",
+          "short_description": "The primary motivation of the project is to enhance quantum circuit (qutip.qip.circuit) and noise simulation capabilities of the QuTIP package. By...",
+          "student_name": "Sidhant Saraogi",
+          "code_url": "https://sarsid.wordpress.com/2020/08/24/a-gsoc-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4828150850125824/"
+        },
+        {
+          "title": "Raster awareness in PySAL",
+          "short_description": "PySAL was designed with the focus of performing vector-based spatial analysis and therefore it didn't have tools to handle input-output of large...",
+          "student_name": "Mragank Shekhar",
+          "code_url": "https://gist.github.com/MgeeeeK/15426217eb5f368ca0ff12f66c2b5823",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6547799585325056/"
+        },
+        {
+          "title": "Adding Gaussian Processes and Optimization Methods in PyMC4",
+          "short_description": "My goal for GSoC 2020 is to implement, test, and maintain a higher-level API for Gaussian Processes in PyMC4 using TensorFlow and TensorFlow...",
+          "student_name": "Tirth Patel",
+          "code_url": "https://tirthasheshpatel.github.io/gsoc2020/gsoc-final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6568118874275840/"
+        },
+        {
+          "title": "Developing a 0-D Steady-State Combustion Solver for Cantera",
+          "short_description": "Combustion has enabled our technologies in electricity production, heating, transportation, and industry. Advancements in combustion technologies...",
+          "student_name": "Paul Blum",
+          "code_url": "https://gist.github.com/paulblum/851fb7ce80b7acf30aa8a31b0950f386",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6013790295949312/"
+        },
+        {
+          "title": "PySAL ESDA Enhancements: Local join count and LOSH statistics",
+          "short_description": "The goal of this project is to add several recently developed spatial estimators to the exploratory spatial data analysis (esda) submodule of PySAL,...",
+          "student_name": "Jeffery Sauer",
+          "code_url": "https://github.com/jeffcsauer/GSOC2020/blob/master/blog_drafts/Sauer_GSOC2020_Summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6017890244886528/"
+        },
+        {
+          "title": "Support more than one sampler in PyMC4",
+          "short_description": "The project is to add more comprehensive support for mcmc sampler methods in PyMC4. Currently there is no support for discrete distributions in...",
+          "student_name": "Rasul Karimov",
+          "code_url": "https://hackmd.io/@YByKuO31SAe98_0pwNZEdA/S1oURR_7w",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4878343515668480/"
+        },
+        {
+          "title": "Aggregation: Workflows on Groups of Jobs (signac-flow)",
+          "short_description": "This project enhances the workflow system of the signac framework by allowing the users to aggreagate over group(s) of jobs.",
+          "student_name": "Hardik Ojha",
+          "code_url": "https://signac.io/gsoc/2020/08/22/gsoc-hardik-blog-6.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4911841005797376/"
+        },
+        {
+          "title": "Adding parameters to JuMP and MathOptInterface",
+          "short_description": "The idea is to update ParameterJuMP.jl to enable users to add parameters to JuMP arithmetics in linear mode. By doing so, users will be able to...",
+          "student_name": "Tom\u00e1s Gutierrez",
+          "code_url": "https://tomasfmg.github.io/jekyll/update/2020/08/31/firstpost.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/4959861055422464/"
+        },
+        {
+          "title": "CuPy coverage of NumPy functions",
+          "short_description": "Implementing the polynomial set of NumPy functions that are not yet supported in CuPy with a better performance and speedup. These functions are...",
+          "student_name": "Dahlia Shehata",
+          "code_url": "https://docs.google.com/document/d/1q-XAzllxxgY6YDtoyjotv26adeJtZMlcA4YBxps-A6s/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5856911817179136/"
+        },
+        {
+          "title": "Abstraction of Linear Algebra Data Structures in QuTiP",
+          "short_description": "The core Qobj class in QuTiP specifically uses a custom scipy-derived sparse-matrix format for data storage, which allows simulation and...",
+          "student_name": "Jake Lishman",
+          "code_url": "https://binhbar.com/posts/2020/08/qutip-data-layer-summer-of-code-round-up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5879076230791168/"
+        },
+        {
+          "title": "Improved automatic maintenance of conda-forge",
+          "short_description": "Conda-forge, an umbrella project of NumFOCUS, is a community effort that provides conda packages for a wide range of software. As an important part...",
+          "student_name": "Vinicius Cerutti",
+          "code_url": "https://viniciusdc.github.io/Work%20product/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5995276604538880/"
+        },
+        {
+          "title": "testbook - unit test framework for Jupyter notebooks",
+          "short_description": "testbook is a unit testing framework extension for testing code in Jupyter Notebooks.\nPrevious attempts at unit testing notebooks involved writing...",
+          "student_name": "Rohit Sanjay",
+          "code_url": "https://rohitsanjay.com/gsoc/final-report",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6007405021757440/"
+        },
+        {
+          "title": "PySAL Project on Panel Data Spatial Econometrics",
+          "short_description": "This project aims to extend the functionality of pysal.spreg to deal with panel data econometric models. Spatial panels refer to data containing time...",
+          "student_name": "Pablo Estrada C",
+          "code_url": "https://gist.github.com/pabloestradac/ec7b50ab1d3772be63df9ba56278e9df",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/6329474586509312/"
+        },
+        {
+          "title": "LUT IO Improvements",
+          "short_description": "The lookup table (LUT) is supported by Colour-Science fairly well. However, there are several improvements which can be made to its input and output...",
+          "student_name": "Nishant Joywardhan",
+          "code_url": "https://gist.github.com/njwardhan/1ce173488240455cf2bf2a0fa5ff8199",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2020/projects/5183963422785536/"
+        }
+      ]
+    },
+    "2021": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2021/organizations/6176584620310528/",
+      "num_projects": 45,
+      "projects": [
+        {
+          "title": "New Version Refactoring",
+          "short_description": "PyMC is currently developing the new PyMC3 4.x version. Core changes involve the use of the new RandomVariable class to simplify/speed up random...",
+          "student_name": "Kaustubh Chaudhari",
+          "code_url": "https://kc611.github.io/blog_posts/2021/gsoc-work-summary.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6353283836280832/"
+        },
+        {
+          "title": "Adding Integro Differential Equations and Improving symbolic representation of geometry in PINNs",
+          "short_description": "NeuralPDE.jl is a Julia package that employs neural networks to obtain a solution of high dimensional differential equations and hence overcoming the...",
+          "student_name": "Ashutosh Bharambe",
+          "code_url": "https://medium.com/@a.bharambe123/gsoc-2021-numfocus-final-report-2b2f32b63492",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6368910135263232/"
+        },
+        {
+          "title": "Increase support for time-series and regressions (Python)",
+          "short_description": "ArviZ is a Python package for exploratory analysis of Bayesian models, intending to provide backend-agnostic tools for diagnostics and visualizations...",
+          "student_name": "Utkarsh Maheshwari",
+          "code_url": "https://utkarsh-maheshwari.medium.com/gsoc-2021-time-series-and-regression-plots-final-report-f8a416c1b3cb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6405518859436032/"
+        },
+        {
+          "title": "Competing destination for Spatial Interaction models, SpInt/PySal",
+          "short_description": "Competing Destination (CD) models, which are an extension of Spatial Interaction (SI)  models, has been around since 1980's  and are often used...",
+          "student_name": "Lenka Hasova",
+          "code_url": "https://lenkahas.com/post/gsoc.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6570342927040512/"
+        },
+        {
+          "title": "Colour-Science for python",
+          "short_description": "My project is divided into three parts:\n\nWhat is the Space of Spectral Sensitivity Functions for Digital Color Cameras\nImplementation of new...",
+          "student_name": "C\u00e9dric Dollet",
+          "code_url": "https://gist.github.com/villirion/d9cbbcf07f9604aaaa06191aa8ba2011",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6587463841087488/"
+        },
+        {
+          "title": "SciML : Discretizations of partial differential equations",
+          "short_description": "The SciML DiffEqOperators.jl library allows to solve PDEs by transforming them into ODEs via finite difference discretizations and carries support...",
+          "student_name": "Mohammed Jeeshan Sheikh",
+          "code_url": "https://mjsheikh.github.io/blog/post/final_report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5648079365079040/"
+        },
+        {
+          "title": "GSoC Proposal: Multi-Start Optimization Methods",
+          "short_description": "GSoC Proposal: Multi-Start Optimization Methods",
+          "student_name": "Ping Zhang",
+          "code_url": "https://github.com/noilreed",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5668720843685888/"
+        },
+        {
+          "title": "Implementing a multiscalar segregation metric | PySAL",
+          "short_description": "This project is focused on incorporating a multiscalar segregation metric into the Python Spatial Analysis Library (PySAL) toolset.\nFollowing on from...",
+          "student_name": "Noah Bouchier",
+          "code_url": "https://github.com/noahbouchier/GSoC-PySAL-21/blob/master/NoahBouchier_GSoC21_NumFOCUS_PySAL_Summary.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5669900315525120/"
+        },
+        {
+          "title": "Automated Twitter bot to run PyBaMM Simulations",
+          "short_description": "This project aims to build an automated Twitter bot, using PyBaMM's wide range of abilities, that\n\nGenerates battery degradation simulations with...",
+          "student_name": "Saransh Chopra",
+          "code_url": "https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5684737045168128/"
+        },
+        {
+          "title": "CuPy: Extending CuPy coverage of SciPy functions",
+          "short_description": "Scipy is the fundamental library in Python for scientific and technical computation. CuPy is currently supporting many functions provided by SciPy....",
+          "student_name": "Praveen Sahu",
+          "code_url": "https://povinsahu1909.github.io/blog/GSoC'21-Final-Report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5686473654796288/"
+        },
+        {
+          "title": "Equadratures: Web Application based on Uncertainty Quantification",
+          "short_description": "Equadratures is a powerful open-source library assisting the user to make the use of orthogonal polynomials for uncertainty quantification, machine...",
+          "student_name": "Simardeep Singh Sethi",
+          "code_url": "https://github.com/equadratures/EQ-uq",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5692882282872832/"
+        },
+        {
+          "title": "GPU backend for QuTip",
+          "short_description": "QuTiP's data layer provides the mathematical operations needed to work with quantum states and operators, i.e. Qobjs,. As part of Google Summer of...",
+          "student_name": "felipe bivort haiek",
+          "code_url": "https://github.com/qutip/qutip-cupy",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5725917996908544/"
+        },
+        {
+          "title": "PySal: Open Source Facility Location Modeling (spopt) Development",
+          "short_description": "The goal of this project is to develop a facility location modeling module that supports various distance measures and returns an optimal solution to...",
+          "student_name": "Germano dos Santos",
+          "code_url": "https://gist.github.com/gegen07/576dcdfad046cc91246bdb3ea3a47ce1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5746198429827072/"
+        },
+        {
+          "title": "GSOC Stan Proposal - Bayesian Computation Benchmark",
+          "short_description": "Under guidance from the mentors, the student will develop a suite of models for benchmarking Bayesian computation. That involves gathering...",
+          "student_name": "Khanh-Tung Nguyen-Ba",
+          "code_url": "https://github.com/kn27/posteriordb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5748407083204608/"
+        },
+        {
+          "title": "Supporting Arrays and Allocatables in LFortran",
+          "short_description": "This project aims to add support for arrays and allocatables in LFortran. Specifically, features to be added for arrays are as follows,\n\nDeclaring...",
+          "student_name": "Gagandeep Singh",
+          "code_url": "https://gist.github.com/czgdp1807/dd4c89d485a5cfa6ee966ca40f60a1f5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5420723492880384/"
+        },
+        {
+          "title": "Extending Time-Series Models",
+          "short_description": "PyMC3 is a probabilistic programming language that uses Bayesian statistics to specify models and estimate unknown quantities. PyMC3 has about seven...",
+          "student_name": "Meenal Jhajharia",
+          "code_url": "https://mjhajharia.com/posts/2021/08/summing-up-summer/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5431531543199744/"
+        },
+        {
+          "title": "A Full-featured Web Dashboard  for Optuna to Monitor Optimization History",
+          "short_description": "The fastly developing hyperparameter tuning framework Optuna has gained much attention in the machine learning community due to its high flexibility...",
+          "student_name": "Huzi Cheng",
+          "code_url": "https://github.com/optuna/optuna-dashboard",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5466534989791232/"
+        },
+        {
+          "title": "Visualizing the Performance Characteristics of Computations (Dask)",
+          "short_description": "Dask's primary job is building task graphs and optimizing them before decorating the functions to operate lazily. Task graphs are a visual...",
+          "student_name": "Freyam Mehta",
+          "code_url": "https://freyam.medium.com/report-my-contributions-to-dask-9330cc698674",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4961535251709952/"
+        },
+        {
+          "title": "Parameter Identifiability with ModelingToolkit.jl",
+          "short_description": "The problem of identifiability is ubiquitous among experimental scientific research. The core idea is in one's ability to recover parameter values...",
+          "student_name": "Ilia Ilmer",
+          "code_url": "https://iliailmer.github.io/2021/08/google-summer-of-code-final-results.html#google-summer-of-code-final-results",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5003664049045504/"
+        },
+        {
+          "title": "Extending the AiiDA REST API towards workflow management",
+          "short_description": "AiiDA currently has a REST API, built on the flask framework, to provide access to the provenance graphs in the database. The REST API is limited to...",
+          "student_name": "Ninad Bhat",
+          "code_url": "https://docs.google.com/document/d/1EX-K2GsZBKgaj7AyirPnHpaMMTJR3RsdHuRLC1YVkII/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5065342262444032/"
+        },
+        {
+          "title": "Matplotlib: Revisiting Text/Font Handling",
+          "short_description": "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations, which has become a de-facto Python plotting...",
+          "student_name": "Aitik Gupta",
+          "code_url": "https://matplotlib.org/matplotblog/posts/gsoc_2021_final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5084422319112192/"
+        },
+        {
+          "title": "Quantum Gate Decomposition for QuTip",
+          "short_description": "A known quantum gate can be decomposed into an already declared sequence of universal quantum gates in QuTip.  If the desired decomposition is...",
+          "student_name": "Purva Thakre",
+          "code_url": "https://purva-thakre.github.io/purva-blog/gsoc/qutip/final-gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5100142167851008/"
+        },
+        {
+          "title": "Expanding support for the solution of bilevel optimization problems in JuMP.",
+          "short_description": "This GSOC will add support for the solution of a much wider class of bilevel optimization problems to JuMP. Currently, support for bilevel...",
+          "student_name": "Mohammad Hesam Shaelaie",
+          "code_url": "https://hesamshaelaie.github.io/gsoc/2021/08/21/week11.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5104063204556800/"
+        },
+        {
+          "title": "[PyMC3] Make SMC-ABC faster and more flexible",
+          "short_description": "PyMC3 provides state-of-the-art tools to specify rich mathematical probabilistic models and algorithms to efficiently approximate the posterior...",
+          "student_name": "ricardoV94",
+          "code_url": "https://ricardov94.github.io/topics/gsoc-2021/completed_work/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5257315321643008/"
+        },
+        {
+          "title": "COLOUR: Adding new colour models",
+          "short_description": "Colour is an open-source python package providing a comprehensive number of algorithms and datasets for colour-science. It also has support for...",
+          "student_name": "Geetansh Saxena",
+          "code_url": "https://gist.github.com/SGeetansh/79341cad9c337117fcdb796a82e18507",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5281448977760256/"
+        },
+        {
+          "title": "PyBaMM - Printing Formatted Equations",
+          "short_description": "PyBaMM offers a way to compare new models by implementing models as expression trees that can be specified independently of the user's preference....",
+          "student_name": "Priyanshu_Agarwal",
+          "code_url": "https://priyanshuone6.hashnode.dev/project-report-gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5566614002466816/"
+        },
+        {
+          "title": "[Gridap] Visualizing PDE approximations in Julia with Gridap.jl and Makie.jl",
+          "short_description": "This project aims to integrate the Makie plotting ecosystem for the Julia programming language within the library Gridap, used to approximate partial...",
+          "student_name": "Pau Riera i Portillo",
+          "code_url": "https://github.com/gridap/GridapMakie.jl/pull/24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5637150787239936/"
+        },
+        {
+          "title": "[NetworkX] Pedagogical Interactive Notebooks for Algorithms Implemented in NetworkX",
+          "short_description": "NetworkX has a wide variety of algorithms implemented. Although the algorithms are well documented, explanations of the ideas behind the algorithms...",
+          "student_name": "Vadim Abzalov",
+          "code_url": "https://vdshk.github.io/posts/2021/08/gsoc-2021-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6226328663097344/"
+        },
+        {
+          "title": "TensorFlow data backend for QuTiP",
+          "short_description": "Qutip is a python package that presents a comprehensive toolbox to simulate the dynamics of open\nquantum systems. Its core class is Qobj and it is...",
+          "student_name": "Asier Galicia",
+          "code_url": "https://agalicia.netlify.app/post/gsoc_6/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6259142213238784/"
+        },
+        {
+          "title": "Making pvlib python a one-stop source for solar resource data",
+          "short_description": "Solar resource data is fundamental to designing and assessing solar energy systems, however, accessing such data is often a complex and...",
+          "student_name": "Adam R. Jensen",
+          "code_url": "https://github.com/pvlib/pvlib-python/issues/1289",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4721538720333824/"
+        },
+        {
+          "title": "NetworkX - Louvain Community Detection Algorithm",
+          "short_description": "NetworkX is a Python library used for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.\nOne very...",
+          "student_name": "Dimitris Papageorgiou",
+          "code_url": "https://z3y50n.github.io/gsoc/journal/2021/08/19/A-Journey-Full-Of-Graphs.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6106949510234112/"
+        },
+        {
+          "title": "NetworkX: Implementing the Asadpour Asymmetric Traveling Salesman Problem Algorithm",
+          "short_description": "This project seems to implement the asymmetric traveling salesman problem developed by Asadpour et al, originally published in 2010 and revised in...",
+          "student_name": "Matt Schwennesen",
+          "code_url": "https://mjschwenne.github.io/2021/08/16/my-summer-of-code-2021.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4847324890660864/"
+        },
+        {
+          "title": "PyTorch-Ignite: Development of a Higher-level API",
+          "short_description": "In this project we are trying to provide a High-level API for the Deep Learning engineers and researchers to help them train their models faster, and...",
+          "student_name": "Ahmed-1",
+          "code_url": "https://gist.github.com/KickItLikeShika/4f1279b6e9d9db259a09494cf10f22cc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4898613980823552/"
+        },
+        {
+          "title": "Extend available models and default priors in Bambi",
+          "short_description": "This project aims to work on two related problems. On one hand, I would like to implement new family of generalized linear models, such as beta...",
+          "student_name": "Tomas Capretto",
+          "code_url": "https://tcapretto.netlify.app/post/2021-08-17-gsoc-2021-final-evaluation/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/4945908952727552/"
+        },
+        {
+          "title": "[Data Retriever]: Support for Login/API",
+          "short_description": "The Data Retriever is a package manager for publicly accessible data. The Data retriever automatically finds, downloads, and pre-processes publicly...",
+          "student_name": "Aakash Chaudhary",
+          "code_url": "https://gist.github.com/Aakash3101/cdc1cc775a672b96a46d3ef8ea366df9",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5761819360100352/"
+        },
+        {
+          "title": "Adding New Plots to ArviZ",
+          "short_description": "ArviZ is a python package for exploratory analysis of Bayesian models. It is designed as a backend agnostic tool and supports different backends for...",
+          "student_name": "Rishabh Sanjay",
+          "code_url": "https://rishabh-lfs.medium.com/gsoc21-new-plots-final-report-6fce16da399d",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5768209902338048/"
+        },
+        {
+          "title": "Geopandas - Dask bridge to scale geospatial analysis",
+          "short_description": "Geopandas is one of the most popular Python projects for handling geographic problems and data. Whilst Geopandas is useful for handling small data...",
+          "student_name": "tastatham",
+          "code_url": "https://tastatham.org/blog/wrapping_it_up/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5818727945207808/"
+        },
+        {
+          "title": "pymc3.dp: Bayesian Stati-sticks for Summer 2021",
+          "short_description": "Bayesian nonparametric (BNP) methods offer more modelling flexibility by relaxing parametric assumptions at the cost of more daunting theoretical...",
+          "student_name": "Larry Dong",
+          "code_url": "https://larrydong.com/gsoc2021/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5823250512216064/"
+        },
+        {
+          "title": "Adding Interactive Notebooks for Algorithms Implemented in NetworkX",
+          "short_description": "There are many algorithms implemented in NetworkX some of them being simple and some of them being very complex. Understanding the algorithm that we...",
+          "student_name": "Harshal Dupare",
+          "code_url": "https://harshal-dupare.medium.com/gsoc-2021-work-product-submission-c53aafaa970",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5894041102712832/"
+        },
+        {
+          "title": "Efficient Spatial Simulations in DiffEqJump",
+          "short_description": "Jump processes are a fundamental component in stochastic models throughout engineering, medicine and the sciences. DiffEqJump is a part of SciML,...",
+          "student_name": "Vasily Ilin",
+          "code_url": "https://vilin97.github.io/posts/post5/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6316980088340480/"
+        },
+        {
+          "title": "Improve Metric Module",
+          "short_description": "PyTorch-Ignite is a great library built on top of pytorch. It provides an extremely simple engine and event system to work with, which work really...",
+          "student_name": "Arpan Parikh",
+          "code_url": "https://github.com/gucifer/GSoC-ignite",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/6321132382191616/"
+        },
+        {
+          "title": "[Data Retriever] Adding Spatial Dataset Support - Kush Kothari",
+          "short_description": "A major requirement for the current status of the dashboard is the implementation of a download and install pipeline for tables having spatial data...",
+          "student_name": "Kush Kothari",
+          "code_url": "https://kushkothari2001.medium.com/gsoc-final-report-6fcade313d9f",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5156556898828288/"
+        },
+        {
+          "title": "Lambert W Distributions in Stan",
+          "short_description": "Real-world data generating processes often don't produce normally-distributed data, in particular the skewness/kurtosis/tail index parameters are...",
+          "student_name": "Neel",
+          "code_url": "https://github.com/neelsura12/gsoc",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5157746269224960/"
+        },
+        {
+          "title": "A fast finite element interpolator in Gridap.jl",
+          "short_description": "The project aims to implement a fast finite element interpolation algorithm in Gridap.jl for any two functions belonging to finite element spaces...",
+          "student_name": "Balaje",
+          "code_url": "https://balaje.github.io/2021/08/20/Wrapping-up.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5162121666494464/"
+        },
+        {
+          "title": "Neural Hybrid Differential Equations and Adjoint Sensitivity Analysis",
+          "short_description": "DiffEqSensitivity.jl is a Julia package within the SciML ecosystem for computing (adjoint) sensitivities for various kinds of differential equations...",
+          "student_name": "Frank Sch\u00e4fer",
+          "code_url": "https://frankschae.github.io/post/gsoc-2021/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2021/projects/5199651359162368/"
+        }
+      ]
+    },
+    "2022": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2022/organizations/numfocus/",
+      "num_projects": 37,
+      "projects": [
+        {
+          "title": "Registry for Zarr codecs",
+          "short_description": "Each compression algorithm used by Zarr is assigned an identifier by the Numcodecs library. To make these identifiers useful in other programming...",
+          "student_name": "Shivank Chaudhary",
+          "code_url": "https://github.com/zarr-developers/codecs-registry",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/g4IPN5HL/"
+        },
+        {
+          "title": "Data Retriever: Data retrieval using NeonVegWrangler",
+          "short_description": "The National Ecological Observatory Network (NEON) collects and provides long-term, open-access ecological data. The NEON Data API provides access to...",
+          "student_name": "Nagesh Bansal",
+          "code_url": "https://gist.github.com/Nageshbansal/9f2856fa9e4ca0170e2f1a9000076541",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lR1cWrnn/"
+        },
+        {
+          "title": "qutip-qip as a Qiskit Backend",
+          "short_description": "qutip-qip currently does not perform optimisation and scheduling at gate-level in quantum circuits. Allowing circuits to be imported from qiskit will...",
+          "student_name": "Shreyas Pradhan",
+          "code_url": "https://medium.com/@claretgrace0801/concluding-my-gsoc-22-project-c975d6612e5e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jFfaK3Su/"
+        },
+        {
+          "title": "Implement projection predictive variable selection for Bambi-fitted GLMs",
+          "short_description": "Projection predictive inference is a decision theoretic Bayesian approach that decouples model estimation from decision making. Given a reference...",
+          "student_name": "yann",
+          "code_url": "https://github.com/yannmclatchie/kulprit/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Y6kuHa8J/"
+        },
+        {
+          "title": "Improve CVXPY\u2019s capabilities for quantum information modeling",
+          "short_description": "CVXPY is a Python-embedded modeling language for convex optimization problems. In this project, I aim to add support for new advancements in...",
+          "student_name": "Aryaman Jeendgar",
+          "code_url": "https://github.com/cvxpy/org/blob/main/GSoC2022/aryamanjeendgar/final_report.pdf",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jAYeaR0R/"
+        },
+        {
+          "title": "Optimizing SciML Packages With SimpleChains.jl",
+          "short_description": "This project aims to develop interfaces for the SimpleChains.jl library for use with SciML packages, so that the former\u2019s non-allocating and high...",
+          "student_name": "abhishekbhatt",
+          "code_url": "https://medium.com/@abhishekbhatt730/simplechains-jl-for-neuralode-and-sciml-fadbe6fee481",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/uy6F1j8l/"
+        },
+        {
+          "title": "[pysal] Morphological Street Network Simplification",
+          "short_description": "The study of urban morphology relies on clever abstractions of the built environment into computationally tractable models. One such model, the...",
+          "student_name": "Gabriel Agostini",
+          "code_url": "https://github.com/gsagostini/network-simplification",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/NIcNOOAQ/"
+        },
+        {
+          "title": "Street Network Simplification:  A combined approach",
+          "short_description": "The project aims to fill the current gap in the creation of a baseline urban grid that allows for network analysis of the morphology of street...",
+          "student_name": "Greg Maya",
+          "code_url": "https://github.com/gregmaya/gsoc2022_network_simpl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/hclVxBUX/"
+        },
+        {
+          "title": "PyMC - Fast Exact Gaussian Processes",
+          "short_description": "Gaussian Processes (GPs) are a flexible class of probabilistic models which can automatically fit quite complex functions. In addition, GPs provide a...",
+          "student_name": "KunalGhosh",
+          "code_url": "https://kunalghosh.github.io/post/gsoc_final_post/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/9ThHROQ9/"
+        },
+        {
+          "title": "Expanding FEniCSx electromagnetic demos",
+          "short_description": "Electromagnetic devices have become ubiquitous in our lives due to their limitless applications. For designing and optimizing such devices,...",
+          "student_name": "Michele Castriotta",
+          "code_url": "https://mikics.github.io/gsoc-jupyterbook/submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ezCgCetb/"
+        },
+        {
+          "title": "FastAI.jl Time Series Development",
+          "short_description": "Time Series models constitute an integral part of the machine learning stack. Time series tasks can span a wide range of tasks such as...",
+          "student_name": "Saksham Rastogi",
+          "code_url": "https://gist.github.com/codeboy5/35e512302f1fd34bdbe211e0992e03f2",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Q9GVFW33/"
+        },
+        {
+          "title": "Qutip Benchmarks",
+          "short_description": "Quantum systems are very costly to simulate on a classical computer which can result in exceptionally long computation times. This projects aims to...",
+          "student_name": "xspronken",
+          "code_url": "https://xspronken.github.io/2022/09/09/GSoC-Final-Submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tYPU30WM/"
+        },
+        {
+          "title": "Increase Support for Batched Multivariate Distributions",
+          "short_description": "Several multivariate distributions in PyMC, such as MvNormal, MvStudentT, and others, are constrained to working with 2D inputs and do not function...",
+          "student_name": "Purna Chandra Mansingh",
+          "code_url": "https://purna135.github.io/gsoc/work-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/1wz8q5wi/"
+        },
+        {
+          "title": "Model Order Reduction in Julia SciML",
+          "short_description": "For simulating a system that contains many variables and/or equations, traditionally computational engineers tend to focus on utilizing an...",
+          "student_name": "Bowen Zhu",
+          "code_url": "https://github.com/SciML/ModelOrderReduction.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nDpheIlA/"
+        },
+        {
+          "title": "QuantumNLDiffEq.jl and Makie recipes for SciML",
+          "short_description": "This project focuses on porting Plots recipes for SciML to Makie and adding to QuantumNLDiffEq.jl. Completion of the former would allow users to...",
+          "student_name": "VarLad",
+          "code_url": "https://github.com/SciML/QuantumNLDiffEq.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/nMmWtAcL/"
+        },
+        {
+          "title": "Add Gen converter to ArviZ.jl (Julia)",
+          "short_description": "ArviZ's purpose is to provide backend-agnostic tools for exploratory analysis of Bayesian models. To do so, we transform data from probabilistic...",
+          "student_name": "S I Harini",
+          "code_url": "https://github.com/arviz-devs/ArviZGen.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Psg95wBG/"
+        },
+        {
+          "title": "Improve Surrogates.jl",
+          "short_description": "The purpose of this project is to improve Surrogates.jl by adding two new surrogate models - GEKPLS and GENN - and to make fixes and updates to...",
+          "student_name": "vikram-s-narayan",
+          "code_url": "https://gist.github.com/vikram-s-narayan/01943ad8c52fe35f09d0749acd9ca11a",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/XQzR5ztG/"
+        },
+        {
+          "title": "Create a Model class for easier deployment of PyMC models",
+          "short_description": "As the project title describes the main goal is to create a model class that builds, saves, loads, predict and fit user created models. This can be...",
+          "student_name": "5hv5hvnk",
+          "code_url": "https://5hv5hvnk.github.io/blogs/NewModelBuilder",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/G39Ptmap/"
+        },
+        {
+          "title": "Facility Location Modeling (spopt) Package Development",
+          "short_description": "Facility location modeling, a set of geoanalytic methods, is a critical problem solving tool leveraged in public and private sector decision making...",
+          "student_name": "Erin",
+          "code_url": "https://erinrolson.github.io/2022/09/08/GSOC-fifth-blog.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/2wuW8zf8/"
+        },
+        {
+          "title": "FluxML - Metalhead.jl development",
+          "short_description": "This project aims to improve the existing deep learning for computer vision ecosystem in Julia, especially by adding more models that users can use...",
+          "student_name": "Abhirath Anand",
+          "code_url": "https://drive.google.com/file/d/1igo5LbqWqdUFNKUrK9VngLQSbLYz9jTl/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/7vJUICs0/"
+        },
+        {
+          "title": "Interfaces for consistent statistical analysis in the Python Spatial Analysis Library (PySAL)",
+          "short_description": "For many users of statistical software, the most important aspect of a statistical software package is convenience. Therefore, it is important to...",
+          "student_name": "Tyler Hoffman",
+          "code_url": "https://www.tdhoffman.com/gsoc2022",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/NjFg0H2U/"
+        },
+        {
+          "title": "[Data Retriever] High-performance parallel computing for model fitting and prediction",
+          "short_description": "The aim of this project is to make the currently running forecasting system capable of parallelization. This is needed because the forecasting system...",
+          "student_name": "Prayas Jain",
+          "code_url": "https://prayasj.github.io/#/blogs/8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/qBazQsVJ/"
+        },
+        {
+          "title": "NetworkX VF2++ Implementation",
+          "short_description": "Graph Isomorphism is an exciting topic regarding networks, but also a fairly complex problem to solve. The goal of the project is the full...",
+          "student_name": "Konstantinos Petridis",
+          "code_url": "https://gist.github.com/kpetridis24/535af6baf74953e55edc9770bea75200",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/V1hY83XG/"
+        },
+        {
+          "title": "CB-GeoMPM-NumFOCUS-XR Simulations-for-Natural-Hazards",
+          "short_description": "The project would involve creating a pipeline from data acquisition to simulation to overlaying the visualisation in an extended reality (XR)...",
+          "student_name": "Priyansh Jalan",
+          "code_url": "https://gist.github.com/PriyanshJalan/5756dfa7f9cf966092e8639a64fb3f3b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/RH2pGDC6/"
+        },
+        {
+          "title": "Benchmarks for PyBaMM",
+          "short_description": "This project aims to improve and populate the existing benchmark framework of PyBaMM. This will be achieved by - 1. Adding new benchmarks for...",
+          "student_name": "Vaibhav Chopra",
+          "code_url": "https://gist.github.com/Vaibhav-Chopra-GT/b4725011475fb0508791222424e89f6b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/4azgJFTu/"
+        },
+        {
+          "title": "Differentiable Rendering",
+          "short_description": "Implement the \u201cModular Primitives for High-Performance Differentiable Rendering\u201d paper in Julia, making use of JuliaGPU. Allowing us to compare the...",
+          "student_name": "Leonardo D. Mariscal",
+          "code_url": "https://github.com/lmariscal/DiffRast.jl",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/jOIuulhu/"
+        },
+        {
+          "title": "Text Development for FastAI.jl",
+          "short_description": "The aim is to build the textual portions of the FastAI.jl package, inspired by the fastai Python library, which will provide high-level components...",
+          "student_name": "Chandra Kiran Guntur",
+          "code_url": "https://drive.google.com/file/d/1MSZIr-VKtdHQDv-MK8hOCt8CAa8_nuil/view?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/HogSGyea/"
+        },
+        {
+          "title": "Fast Exact Gaussian Processes",
+          "short_description": "Currently, exact inference for Gaussian processes within PyMC makes heavy use of Cholesky decompositions that have a cubic asymptotic time...",
+          "student_name": "Conor Hassan",
+          "code_url": "https://conorhassan.github.io/fastpages_blog/jupyter/2022/09/10/GSoC-submission.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Q25GbRRz/"
+        },
+        {
+          "title": "Multi-output Gaussian Processes in PyMC",
+          "short_description": "Multi-output Gaussian processes (MOGPs), a type of Bayesian nonparametric models, have recently gained strong attention from researchers, and become...",
+          "student_name": "Danh Phan",
+          "code_url": "https://danhphan.net/blog/gp/gaussian%20process/2022/09/11/multi-ouput-gps-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/lKwZ8APE/"
+        },
+        {
+          "title": "Notebook Enhancements for QuTiP 5",
+          "short_description": "QuTiP uses Jupyter Notebooks to demonstrate its functionality in the field of quantum physics and offers guidance to new users. While QuTiP is...",
+          "student_name": "Chris Stbl",
+          "code_url": "https://gist.github.com/christian512/41ec4461f70b28c4f9ebc56fc4eae5cb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/Acz1NBSg/"
+        },
+        {
+          "title": "ArviZ Dashboards",
+          "short_description": "Arviz, which is designed to be a backend-agnostic tool for diagnostics and visualization of Bayesian inference in Python, has encountered a number of...",
+          "student_name": "Yilin",
+          "code_url": "https://github.com/arviz-devs/arviz_dashboard/pull/4",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/ap4EPHJ0/"
+        },
+        {
+          "title": "Improve CVXPY\u2019s performance benchmarks with continuous integration.",
+          "short_description": "A small benchmark suite already exists for CVXPY. The suite measures both the time to compile a problem into the solver standard form, and the time...",
+          "student_name": "Parth Bansal",
+          "code_url": "https://github.com/parthb83/benchmarks/blob/final-report/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/dZSZ7AD1/"
+        },
+        {
+          "title": "[Data Retriever] DeepForest Multi-class Training and Prediction",
+          "short_description": "This project aims to make the model which would already be trained for the classification of species and detection of alive and dead, trees or birds...",
+          "student_name": "Ansh Dassani",
+          "code_url": "https://dassaniansh.blogspot.com/2022/09/gsoc-final-report.html",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/n2RXlLSG/"
+        },
+        {
+          "title": "Enhance Taskflow's Pipeline Infrastructure",
+          "short_description": "This project is to add a layer of data abstraction on top of taskflow's original pipeline, so that users can either choose to prepare the data buffer...",
+          "student_name": "Xiong Zhicheng",
+          "code_url": "https://github.com/PhrygianGates/GSoC_Taskflow",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/FgTgRVLt/"
+        },
+        {
+          "title": "A PyMC Dirichlet Process Submodule via AePPL Enhancements",
+          "short_description": "In Bayesian statistics, one way to circumvent positing parametric assumptions is to use Dirichlet Processes (DP) as priors for probability...",
+          "student_name": "larryshamalama",
+          "code_url": "https://larrydong.com/gsoc/gsoc-2-final-submission/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/tSEKPZBa/"
+        },
+        {
+          "title": "Solving Heterogeneous Agent Macroeconomic Models",
+          "short_description": "This project aims to implement the sequence space jacobian methods of Auclert et al. (2021) into the Heterogeneous Agents Resources and toolKit...",
+          "student_name": "WDU",
+          "code_url": "https://github.com/econ-ark/HARK/pull/1155",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/VLmTvWI1/"
+        },
+        {
+          "title": "CuPy coverage of SciPy functions",
+          "short_description": "The project aims to enhance the coverage of SciPy functions in CuPy. The stretch goal is to introduce interpolate module in CuPy. I'm excited about...",
+          "student_name": "Khushi Agrawal",
+          "code_url": "https://khushi-411.github.io/gsoc-cupy/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2022/projects/fx6AgHkQ/"
+        }
+      ]
+    },
+    "2023": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2023/organizations/numfocus",
+      "num_projects": 24,
+      "projects": [
+        {
+          "title": "[PyBaMM] - Documentation - Agriya Khetarpal",
+          "short_description": "This project aims to enhance the documentation infrastructure for PyBaMM and consolidate all of it in one place, which includes but will not be...",
+          "student_name": "Agriya Khetarpal",
+          "code_url": "https://pybamm.org/gsoc/2023/agriya-khetarpal/",
+          "proposal_id": "gWiQaBzg",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/DdcerdTx"
+        },
+        {
+          "title": "Ranking system for AiiDA plugin registry",
+          "short_description": "AiiDA has a flexible plugin system that allows extending most aspects of the code. This project aims to add several functionalities to the AiiDA...",
+          "student_name": "Ahmed Basem",
+          "code_url": "https://docs.google.com/document/d/1rgxcoO7hx6GDpiumeX0t7Blm7-kRfU1qSrTvS2vI42o/edit?usp=sharing",
+          "proposal_id": "ISGbOCMO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/B9z9tso7"
+        },
+        {
+          "title": "Dockerizing & Simplifying PyBaMM's Installation",
+          "short_description": "PyBaMM has a tedious installation process for development , which proves to be difficult for developers & researchers or anyone who wants to develop...",
+          "student_name": "arjxn-py",
+          "code_url": "https://pybamm.org/gsoc/2023/arjun-verma/",
+          "proposal_id": "HoopbVR7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/vKlUTys3"
+        },
+        {
+          "title": "Adding structured Lagrangian support to CVXPY",
+          "short_description": "Optimality conditions are a key aspect of mathematical optimization. The Karush-Kuhn-Tucker (KKT) conditions in particular are a really powerful...",
+          "student_name": "Aryaman Jeendgar",
+          "code_url": "https://github.com/cvxpy/org/blob/main/GSoC2023/aryamanjeendgar/final_report.pdf",
+          "proposal_id": "m0spKGEw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/a8YyGIP0"
+        },
+        {
+          "title": "Modernization of the conda-forge.org website",
+          "short_description": "The project aims to modernize the conda-forge website by redesigning the landing page and creating a style guide for other conda-forge\u2019s web-based...",
+          "student_name": "Asmit Malakannawar",
+          "code_url": "https://dev.to/asmitbm/google-summer-of-code-2023-with-conda-forge-12c4",
+          "proposal_id": "py35QfVW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/5mhdEKMI"
+        },
+        {
+          "title": "Open Science Labs-Improve Scientific Python Cookiecutter Project",
+          "short_description": "Cookiecutter is a powerful command-line utility that generates project templates. Open science lab has developed a template that aims to provide the...",
+          "student_name": "ayeankit",
+          "code_url": "https://medium.com/@ayeankit/final-report-google-summer-of-code-2023-6a45e877322b",
+          "proposal_id": "fuPTPJhe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/26c9LZfd"
+        },
+        {
+          "title": "NumFocus & SciML, PDEs on Graphs",
+          "short_description": "I propose to implement a common interface to deploy the power of SciML to dynamical systems on graphs. In achieving this, one new package will be...",
+          "student_name": "Criston Hyett",
+          "code_url": "https://cmhyett.github.io/portfolio/gsoc/",
+          "proposal_id": "nEy4hpUP",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/YX0ACw7M"
+        },
+        {
+          "title": "Expand support for spatial models in PyMC",
+          "short_description": "This project would implement the Besag, York, Mollie (BYM) model in PyMC. BYM is a highly flexible model for studying spatial data and is used widely...",
+          "student_name": "Daniel_Saunders",
+          "code_url": "https://github.com/daniel-saunders-phil/GSoC/tree/master",
+          "proposal_id": "ztmhLSmF",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Oxk6HziB"
+        },
+        {
+          "title": "Better tools to interpret complex Bambi regression models",
+          "short_description": "Bayesian modeling has increased significantly in academia and industry over the past years thanks to the development of high quality and user...",
+          "student_name": "GStechschulte",
+          "code_url": "https://gstechschulte.github.io/cached-blog/posts/2023-08-18-gsoc-final-report.html",
+          "proposal_id": "EC4raCRO",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/MpE5Sl2V"
+        },
+        {
+          "title": "PyBaMM Techno-Economic Analysis Library",
+          "short_description": "A very interesting and nice thing during the development of batteries are back-of-the-envelope estimations. An example might be to estimate an areal...",
+          "student_name": "Julian Evers",
+          "code_url": "https://pybamm.org/gsoc/2023/julian-evers/",
+          "proposal_id": "x1zNVduY",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/OE5AUkm6"
+        },
+        {
+          "title": "nx_parallel: a parallel backend for NetworkX + nx-guides Contributor Guide and Traversal Notebook",
+          "short_description": "NetworkX is a Python package offering a large set of algorithms and tools for the study and manipulation of graphs. Users have requested parallel...",
+          "student_name": "Kavish Senthilkumar",
+          "code_url": "https://docs.google.com/document/d/1aGnYhUlbT970HkipDZ4K7R4qqTtid29tmSFYT98hYyw/edit",
+          "proposal_id": "V76dh8bS",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/3FX4575A"
+        },
+        {
+          "title": "SciML: Integrating PubChem Closely into Catalyst and SciML",
+          "short_description": "The project will involve the creation of a new package that will provide an interface to query for chemical species and enzymes using the PubChem...",
+          "student_name": "Lalit Chauhan",
+          "code_url": "https://medium.com/@Lalit.Chauhan/gsoc23-final-project-report-117b5308e047",
+          "proposal_id": "NXyOkEqX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/aAJMK8lZ"
+        },
+        {
+          "title": "Taskflow: Creating Parallel Algorithm Primitives",
+          "short_description": "The C++ Standard Template Library (STL) provides many algorithms to sort, search, and perform a variety of operations on numerous data structures in...",
+          "student_name": "Om Khangaonkar",
+          "code_url": "https://github.com/taskflow/taskflow/",
+          "proposal_id": "S2erw9Uv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Mv3UZZQg"
+        },
+        {
+          "title": "Adaptive MIRK BVP solvers",
+          "short_description": "Boundary value problems (BVPs) are mathematical models that arise in a variety of fields, such as economics and chemistry. BVPs are essentially...",
+          "student_name": "Qingyu Qu",
+          "code_url": "https://erikqqy.github.io/2023/08/22/gsoc-final-report/",
+          "proposal_id": "DK7ZTTN4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/zLtIiHjs"
+        },
+        {
+          "title": "Matplotlib: Improvements to MathTeX",
+          "short_description": "Matplotlib is a popular data visualization library that is used in multiple academic and industrial projects. LaTeX is a common tool for formatting...",
+          "student_name": "Ratnabali <devRD>",
+          "code_url": "https://devrd.github.io/posts/gsoc_fin",
+          "proposal_id": "iFFqK8Sk",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/AWFpwnZK"
+        },
+        {
+          "title": "PyLops: MPI backend for distributed inverse problems",
+          "short_description": "Pylops has been developed to solve large-scale inverse problems. Keeping in mind the memory size of a single machine, there is a need to perform the...",
+          "student_name": "Rohan Babbar",
+          "code_url": "https://gist.github.com/rohanbabbar04/8d3b957fd359c4c14d1d3882b38967f9",
+          "proposal_id": "hfqdEk3O",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/eNJTJO25"
+        },
+        {
+          "title": "[PySAL - spopt Development] P-Median Model with Near-Far Cost Allocation: Guided by Tobler's Law",
+          "short_description": "For now spopt has implemented several basic facility location models, providing the free open source for researcher, or organizations to use....",
+          "student_name": "Rongbo Xu",
+          "code_url": "https://github.com/rongboxu/P-Median-Model-with-Near-Far-Cost-Allocation",
+          "proposal_id": "IosfHXC5",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/05jDO3IG"
+        },
+        {
+          "title": "CB Geo: Differentiable Programming in MPM",
+          "short_description": "CB Geo-Material Point Method is used to simulate particulate and fluid systems. In this method, particles are mapped to a background mesh, and...",
+          "student_name": "Sachin Jalan",
+          "code_url": "https://sachinjalan.github.io/",
+          "proposal_id": "yXiCAP3f",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/RZJ09HkH"
+        },
+        {
+          "title": "Extending the data structures and algorithms along with providing C++ backend.",
+          "short_description": "PyDataStructs is a high-performance python package for data structures and algorithms providing C++ backend via Python C-API as well as a parallel...",
+          "student_name": "Sakshi Oza",
+          "code_url": "https://gist.github.com/sak-codes/2c2d948f8ec285360247db6606cb4ad3",
+          "proposal_id": "fff1j87q",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/42ye2zYO"
+        },
+        {
+          "title": "Data Retriever: Tree health and mortality from NEON data",
+          "short_description": "The project aims to build a new function that populates the NEON field and remote sensing data for deepforest which will help us build a baseline...",
+          "student_name": "Satyam Sinha",
+          "code_url": "https://gist.github.com/satsin06/e3bd59a5b69df7dc5b38cf848b8f5b8f",
+          "proposal_id": "82KzqcLo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/HooCVkAe"
+        },
+        {
+          "title": "Benchmark tooling for common models and operations",
+          "short_description": "FluxML is a deep learning stack built in 100% Julia code, which aims to provide high-speed and light-weight abstraction of GPU, auto-differentiation...",
+          "student_name": "skyleaworlder",
+          "code_url": "https://docs.google.com/document/d/1mVEFSlEbtmZec8C3SRJ0CX1Sp3gIYQPjRY2iaktr9H4/edit?usp=sharing",
+          "proposal_id": "aYOjyrG9",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/whO3fAS8"
+        },
+        {
+          "title": "QuTiP Virtual Lab",
+          "short_description": "Simulating quantum physics in QuTiP provides an excellent educational tool. However, using QuTiP requires writing Python code, which may present an...",
+          "student_name": "Trent F",
+          "code_url": "https://github.com/qutip/qutip-virtual-lab/releases/tag/v1.0.0-rc.1",
+          "proposal_id": "XOucSZXW",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/88K7XU4Q"
+        },
+        {
+          "title": "Boosting canonicalization performance by replacing N-dimensional sparse tensor representation",
+          "short_description": "(This project is for CVXPY) The performance of canonicalization procedures for optimization problems is an important metric for CVXPY users....",
+          "student_name": "WilliamZijieZhang",
+          "code_url": "https://www.zijie.ca/documents/WilliamZ_GSoC_2023_report.pdf",
+          "proposal_id": "htCPrXw3",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/Cpab8rXK"
+        },
+        {
+          "title": "Visualization with QuTiP",
+          "short_description": "QuTiP has a lot of visualization functions, but they are sometimes not user-friendly in that colors are unchangeable and arguments are not organized....",
+          "student_name": "Yuji Tamakoshi",
+          "code_url": "https://tamakoshi2001.github.io/2023/08/24/Final-Report-for-Visualization-with-QuTiP.html",
+          "proposal_id": "ltfUQOyT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2023/projects/TV6us9ou"
+        }
+      ]
+    },
+    "2024": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2024/organizations/numfocus/",
+      "num_projects": 35,
+      "projects": [
+        {
+          "title": "Implementation of Physics-Informed Point Networks for Simulation in Irregular Geometries",
+          "short_description": "The goal of this project is to implement Physics-Informed Point Networks (PIPNs) in Julia to solve partial differential equations (PDEs) on irregular...",
+          "student_name": "Kabir Jain",
+          "code_url": "https://github.com/ka-bear/NeuralPDE.jl/blob/master/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/JbJi9hVk/"
+        },
+        {
+          "title": "ArviZ Plotting Refactoring Python",
+          "short_description": "ArviZ is a package for the exploratory analysis of bayesian inference models. The current Python release of ArviZ involves three major modules that...",
+          "student_name": "Ratish Panda",
+          "code_url": "https://github.com/imperorrp/gsoc-2024",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/X9jNcYK7/"
+        },
+        {
+          "title": "Developing an Advanced Image Recognition Model for Bird Nest Detection in UAV Imagery",
+          "short_description": "The Everglades, a vital habitat for vulnerable and endangered bird species, requires accurate monitoring of nesting patterns for effective...",
+          "student_name": "Om Doiphode",
+          "code_url": "https://gist.github.com/Om-Doiphode/77ac70ab14c9134182cebe6077480de1",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/uN8mA5zq/"
+        },
+        {
+          "title": "Explore the Aiida Node graph in the browser",
+          "short_description": "The project aims to create an intuitive tool in React for browsing AiiDA graphs, replacing the outdated AiiDA Provenance Browser in Materials Cloud...",
+          "student_name": "Sharan poojari",
+          "code_url": "https://github.com/aiidateam/aiida-explorer/blob/gsoc/gsoc/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/l9XgEOnp/"
+        },
+        {
+          "title": "Improve user experience using the Jupyter toolkit",
+          "short_description": "The UI Toolkit serves as a component library tailored for crafting web interfaces within the Jupyter ecosystem, encompassing platforms such as...",
+          "student_name": "Mehak Jain",
+          "code_url": "https://github.com/jupyterlab/frontends-team-compass/wiki/GSoC-2024-Submission-%E2%80%90-Improve-User-Experience-Using-Jupyter-Toolkit",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/dT0khoRP/"
+        },
+        {
+          "title": "PyMC - Add PyTorch backend to PyTensor",
+          "short_description": "PyTensor is a Python library that allows you to define, optimize/rewrite, and evaluate mathematical expressions involving multi-dimensional arrays...",
+          "student_name": "Harshvir Sandhu",
+          "code_url": "https://gist.github.com/HarshvirSandhu/5003741ae50575ab5d1ee04027518d3e",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Wr8mzd8o/"
+        },
+        {
+          "title": "ArviZ: Prior Elicitation",
+          "short_description": "PreliZ is a Python package aimed at helping practitioners choose prior distributions by offering a set of tools for various facets of prior...",
+          "student_name": "Rohan Babbar",
+          "code_url": "https://gist.github.com/rohanbabbar04/903972740663fe46b5a6cd4a62e264e5",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/lBtIkPJ4/"
+        },
+        {
+          "title": "PyBaMM - Migrate to scikit-build-core",
+          "short_description": "This project aims to enhance PyBaMM's packaging infrastructure by migrating from setuptools and wheel to scikit-build-core, providing improved...",
+          "student_name": "Ankit Meda",
+          "code_url": "https://pybamm.org/gsoc/2024/ankit-meda/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YyLzWWqr/"
+        },
+        {
+          "title": "aeon - Developing Deep Learning Framework and Implementations for Time Series Clustering",
+          "short_description": "Time series clustering involves grouping similar time series data together based on specific features or patterns. Deep learning algorithms have...",
+          "student_name": "Aadya Chinubhai",
+          "code_url": "https://docs.google.com/document/d/1R_9bY0G2UsjEfvYxcHxUv9WV4zNeX5yP9YOy-o6ruyk/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Hvd0DfkD/"
+        },
+        {
+          "title": "Enhancing solar energy modelling: implementing new spectral corrections in pvlib python",
+          "short_description": "Accounting for spectral effects in photovoltaic (PV) performance models is critical for accurate and reliable performance forecasts. Variation in the...",
+          "student_name": "Dax",
+          "code_url": "https://github.com/pvlib/pvlib-python/issues/2065",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/TT5QrYqT/"
+        },
+        {
+          "title": "GOSST: Implement OSSF Scorecard Action and Remediating  Score Across Multiple NumFOCUS Projects",
+          "short_description": "This proposal outlines a project aimed at enhancing the security posture of NumFOCUS affiliate projects by implementing the OSSF Scorecard action and...",
+          "student_name": "Patrice",
+          "code_url": "https://gist.github.com/PatriceJada/3f9655f73709d24a6e72c1045837e844",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/aCyIEbWA/"
+        },
+        {
+          "title": "Control ML Optimization",
+          "short_description": "The Gradient Ascent Pulse Engineering (GRAPE) algorithm has been implemented in QuTiP, facilitating a model-based approach to quantum optimal...",
+          "student_name": "AlessioParato",
+          "code_url": "https://gist.github.com/LegionAtol/3389c65aaa88928ab9191a319e4a7b34",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/ylzSM2QC/"
+        },
+        {
+          "title": "Open Science Labs: PyDataStructs: Add a C++ Backend for tree data structures and their algorithms",
+          "short_description": "PyDataStructs aims to be a Python package for various data structures and algorithms (including their parallel implementations). My project involves...",
+          "student_name": "Kishan Ved",
+          "code_url": "https://gist.github.com/Kishan-Ved/ebe0a971220d67517ae815e4f92d2459",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/2nrxEFTg/"
+        },
+        {
+          "title": "CB-GeoMPM: 3D Gaussian Splat to enable Physics-Driven MPM Simulations from Videos",
+          "short_description": "This project would integrate the current state-of-the-art 3D reconstruction method in computer graphics namely \"Gaussian splatting\" with existing...",
+          "student_name": "RaghavAgarwal",
+          "code_url": "https://docs.google.com/document/d/1H_2ZiKekr9VPaVgawmOwZLuGtwYapmCAbKJrhJsIBZw/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/oSmAfyRO/"
+        },
+        {
+          "title": "PyMC - Improve PyTensor linear algebra support using graph rewrites",
+          "short_description": "PyMC uses PyTensor as its computational backend, which allows efficient optimisation, rewrites and evaluation of mathematical operations. Using a...",
+          "student_name": "Tanish Taneja",
+          "code_url": "https://gist.github.com/tanish1729/7ea3964b0740e8c2ef559a47dd394ee3",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/KqLF8xKs/"
+        },
+        {
+          "title": "Make the Plugin System Data-Based",
+          "short_description": "The JupyterLab application relies heavily on plugins sourced from the Lumino project. Currently, all plugins load at startup, significantly...",
+          "student_name": "Ashok Kumar Choudhary",
+          "code_url": "https://github.com/jupyterlab/frontends-team-compass/wiki/GSoC-2024-Submission-%E2%80%90-Make-plugin-system-data-based",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fL6zttzm/"
+        },
+        {
+          "title": "Checkpointing in DOLFINx using ADIOS2",
+          "short_description": "Large scale simulation of scientific and engineering problems requires high performance and distributed memory systems. Computing resources and time...",
+          "student_name": "amujahid",
+          "code_url": "https://github.com/ampdes/gsoc24",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/6cJYjFC7/"
+        },
+        {
+          "title": "NetworkX: Revisiting and expanding nx-parallel",
+          "short_description": "Expanded and enhanced the nx-parallel project, a newly developed parallel backend for NetworkX utilizing joblib to parallelize graph algorithms. Key...",
+          "student_name": "Aditi Juneja",
+          "code_url": "https://docs.google.com/document/d/1t7mZNv2f_8BjUGpfSOyNhtpCgUHTboP5VpRbrPII-nU/edit?usp=sharing",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/78MjHdc8/"
+        },
+        {
+          "title": "aeon - Machine learning from EEG with aeon-neuro",
+          "short_description": "Develop aeon-neuro to provide structured tools for machine learning from neural data. This project will focus on implementing algorithms for EEG...",
+          "student_name": "griegner",
+          "code_url": "https://gist.github.com/griegner/c414f77d957dea73b84dcd80d580b602",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/htrPCGOM/"
+        },
+        {
+          "title": "Open Science Labs | noWorkFlow: Verify the reproducibility of an experiment",
+          "short_description": "This project focuses on extending the noWorkflow scientific workflow library by introducing new features that enhance its ability to analyze...",
+          "student_name": "Joshua Talahatu",
+          "code_url": "https://gist.github.com/JoshuaGlaZ/acca2c1649ba1b828a41e75a24076b71",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RzA1qtu0/"
+        },
+        {
+          "title": "Bivariate Colormaps",
+          "short_description": "Multivariate data visualization is useful when grappling with correlated data that naturally arises in a number of scientific fields, such as...",
+          "student_name": "trygvrad",
+          "code_url": "https://trygvrad.github.io/gsoc-2024-bivariate-colormaps-summary/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/oEBt7vSe/"
+        },
+        {
+          "title": "QuTiP: Enhanced Quantum Circuit Diagrams",
+          "short_description": "The project aims to improve the quantum circuit visualization capabilities of QuTiP-QIP by introducing a new framework for circuit rendering that...",
+          "student_name": "Rushiraj Gadhvi",
+          "code_url": "https://gadhvirushiraj.github.io/gsoc24/posts/final-report/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/93Y1TKO6/"
+        },
+        {
+          "title": "Pathfinder Variational Inference",
+          "short_description": "I propose the implementation of the Pathfinder algorithm for variational inference in PyMC. The Pathfinder algorithm is a recent advancement in the...",
+          "student_name": "mcao",
+          "code_url": "https://gist.github.com/aphc14/26be43eb6cd71682a673f1baba22e482",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/XrU6u7kZ/"
+        },
+        {
+          "title": "Build and publish PyBaMM-cookiecutter as a template for new PyBaMM-based projects",
+          "short_description": "The project aims to build and publish python-cookiecutter templates for new PyBaMM-based projects. It is designed to simplify the setup process of...",
+          "student_name": "Santhosh Sundaram",
+          "code_url": "https://pybamm.org/gsoc/2024/santhosh-sundaram/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/eU9Jznmr/"
+        },
+        {
+          "title": "Multigrid for FEniCSx",
+          "short_description": "Multigrid methods shape the method of choice when a self containing family of triangulations of a FEM discretization is at hand to achieve an optimal...",
+          "student_name": "Paul K\u00fchner",
+          "code_url": "https://schnellerhase.github.io/en/posts/2024/gsoc/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YhEwl8iB/"
+        },
+        {
+          "title": "Data Retriever - Advancing Bird Detection and Classification in Hand-Held Airborne Imagery",
+          "short_description": "DeepForest is a library for training and deploying deep learning models for forestry tasks. The library is built on top of the PyTorch deep learning...",
+          "student_name": "Muhammed Magdy",
+          "code_url": "https://muhammed-magdy.hashnode.dev/my-gsoc-adventure-from-data-to-detection",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/RKvEGjbd/"
+        },
+        {
+          "title": "Floating Solar - Enabling modeling of floating PV with pvlib",
+          "short_description": "Accurate modeling of cell temperature is essential for estimating the performance of PV systems. However, very few models exist for calculating cell...",
+          "student_name": "Ioannis Sifnaios",
+          "code_url": "https://github.com/pvlib/pvlib-python/issues/2068",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/Z32UN1Qx/"
+        },
+        {
+          "title": "Improve PyBaMM's testing infrastructure.",
+          "short_description": "Goal of this project is to improve PyBaMM's test suite by migrating from Unittest to Pytest. This would include but is not limited to : rewriting all...",
+          "student_name": "prady0t",
+          "code_url": "https://prady0t.github.io/My-Blog/posts/gsoc-final/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/gnFfAnqb/"
+        },
+        {
+          "title": "Parallel Algebraic Multigrid for Structural Mechanics in Julia with PartitionedArrays.jl",
+          "short_description": "Algebraic multigrid (AMG) methods are one of the most popular techniques to solve systems of linear equations in structural mechanics. Parallel AMGs...",
+          "student_name": "Gelieza K\u00f6tterheinrich",
+          "code_url": "https://github.com/fverdugo/PartitionedArrays.jl/pull/167",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/th3mATRB/"
+        },
+        {
+          "title": "Swiss Army Knife Builder CLI",
+          "short_description": "The builder tooling of JupyterLab is directly integrated in the core codebase. This causes maintenance to become a burden for both core developers...",
+          "student_name": "Ronan Coutinho",
+          "code_url": "https://github.com/jupyterlab/jupyterlab-builder/blob/main/README.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/YMB3Rc53/"
+        },
+        {
+          "title": "pvlib python improvements on shading and spectral research and modeling",
+          "short_description": "This proposal aims to add a variety of scientific utilities to the pvlib python project that will focus on new models and research tools regarding...",
+          "student_name": "Echedey Luis",
+          "code_url": "https://github.com/pvlib/pvlib-python/issues/2064",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/fxPFQqZc/"
+        },
+        {
+          "title": "Feature enhacments in NeuralPDE.jl and LuxNeuralOperators.jl",
+          "short_description": "NeuralPDE.jl is a high performance Julia package to solve differential equations using neural networks. This proposal aims to improve the sampling...",
+          "student_name": "Abhinav Pratap Singh",
+          "code_url": "https://ayushinav.github.io/blog/2024/gsoc24/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/tzIHpdbD/"
+        },
+        {
+          "title": "aeon - Implement Proximity Forest for Time Series Classification",
+          "short_description": "This project will implement and benchmark the Proximity Forest Algorithm for Time Series Classification in aeon. With the ever-increasing data, the...",
+          "student_name": "Divya Tiwari",
+          "code_url": "https://gist.github.com/itsdivya1309/4a12a00ba459dd57165bd07ae43a9afb",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/8TYGhJjy/"
+        },
+        {
+          "title": "QuTiP Project: Integrating Auto-differentiation with QuTiP Solvers Using JAX",
+          "short_description": "The project aims to seamlessly integrate JAX's jit and auto-differentiation functionalities into QuTiP, a quantum computing simulation library,...",
+          "student_name": "ragarwal00",
+          "code_url": "https://small-hardhat-133.notion.site/My-Journey-with-QuTiP-and-JAX-Google-Summer-of-Code-fffe7b50d46e80d88de8fea6f34b5361",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/5fsiLIJm/"
+        },
+        {
+          "title": "Taskflow's Worker Specific Notification Module",
+          "short_description": "Our project aims to enhance Taskflow's work-stealing scheduler by implementing a worker-specific notification module. This will provide finer control...",
+          "student_name": "saksham12321",
+          "code_url": "https://github.com/sakshamdhuria/researchPractice/tree/main/WorkStealingChaseLevDeque",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2024/projects/rA2ux1oS/"
+        }
+      ]
+    },
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/numfocus",
+      "num_projects": 32,
+      "projects": [
+        {
+          "title": "From \"Stringly Typed\" to \"Strongly Typed\" Arguments in sbi",
+          "short_description": "sbi is an open-source Python package used for simulation-based inference. It provides an interface for running algorithms that are used to identify...",
+          "student_name": "Abel Abate",
+          "code_url": null,
+          "proposal_id": "QQlvQRzu",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/pPYqxGL6"
+        },
+        {
+          "title": "QuTiP",
+          "short_description": "This project proposes the development of a reusable and extensible Hamiltonian Library within the QuTiP framework. It aims to organize common quantum...",
+          "student_name": "Akhil Pratap Singh",
+          "code_url": null,
+          "proposal_id": "119M9W9I",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/gTuguCKx"
+        },
+        {
+          "title": "Adding embarrassingly parallel graph algorithms in nx-parallel",
+          "short_description": "This project aims to enhance the performance of the NetworkX library by parallelizing graph algorithms using the joblib backend in nx-parallel....",
+          "student_name": "Akshita Sure",
+          "code_url": null,
+          "proposal_id": "N9I4BYNH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/GxfLMOTC"
+        },
+        {
+          "title": "State-Space Models: Dynamic Factor Models",
+          "short_description": "State-space models (SSMs) provide a flexible framework for modeling dynamic systems where latent states evolve over time. In econometrics, Dynamic...",
+          "student_name": "Andrea Catelli",
+          "code_url": null,
+          "proposal_id": "FhdBlLOy",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/OU9piGFJ"
+        },
+        {
+          "title": "Versioning System for DISCOVER Cookbook",
+          "short_description": "This project focuses on implementing a versioning system for the DISCOVER Cookbook, enabling seamless navigation across distinct documentation...",
+          "student_name": "Ashish Mahajan",
+          "code_url": null,
+          "proposal_id": "TbjLxyav",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ovpNbdUa"
+        },
+        {
+          "title": "Multidimensional SDE PINN solvers",
+          "short_description": "Stochastic dynamical systems play an important role in scientific and engineering domains, particularly in systems governed by Brownian motion or...",
+          "student_name": "Astitva Aggarwal",
+          "code_url": null,
+          "proposal_id": "QSu6ACOR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/SayjRFPs"
+        },
+        {
+          "title": "SubOrganization: Aeon Project #3: Forecasting \u2013 Deep Learning for Forecasting",
+          "short_description": "Time series forecasting is paramount in many domains, including finance, healthcare, energy, and climate science. This project suggests incorporating...",
+          "student_name": "balgopal",
+          "code_url": null,
+          "proposal_id": "XgNTLDNe",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/arjEn266"
+        },
+        {
+          "title": "Community detection guide with igraph",
+          "short_description": "Community detection is one of the most commonly used network analysis techniques. It is the process of grouping nodes of a network together based on...",
+          "student_name": "Bea M\u00e1rton",
+          "code_url": null,
+          "proposal_id": "vRD6VfmI",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/yD4aJtvm"
+        },
+        {
+          "title": "Creating New Plots with Bayesplot (Stan)",
+          "short_description": "The bayesplot package is a key tool in the Stan ecosystem for visualizing Bayesian analysis results. However, it currently lacks specialized...",
+          "student_name": "Behram",
+          "code_url": null,
+          "proposal_id": "5XqxINgB",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/wAdAD4kH"
+        },
+        {
+          "title": "Adding Translation System for DISCOVER Cookbook",
+          "short_description": "Currently, the Cookbook has multiple resources that can help any event became inclusive and accessible to everyone. However, its accessibility...",
+          "student_name": "Dia29",
+          "code_url": null,
+          "proposal_id": "isPHCAP2",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/iMKr9viy"
+        },
+        {
+          "title": "LiftOver2D: A Tool for Converting Hi-C Matrices Across Assemblies and Binning Schemes",
+          "short_description": "The LiftOver2D project aims to develop a high-performance tool for converting Hi-C matrices between different genome assemblies and binning schemes....",
+          "student_name": "Egor Pitikov",
+          "code_url": null,
+          "proposal_id": "7Tr5GXxw",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/XnTtGYoC"
+        },
+        {
+          "title": "[PYSAL] - Produce Routing Engine for `spopt`",
+          "short_description": "In the Python Spatial Analysis Library (pysal), the spopt package is concerned with the formulation and solving of various spatial optimization...",
+          "student_name": "fiendskrah",
+          "code_url": null,
+          "proposal_id": "GD0ipSN6",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/JhcSXfTK"
+        },
+        {
+          "title": "Adding More Optimizer Interfaces to optimagic",
+          "short_description": "optimagic is a optimization library which aims to provide a unified interface to optimizers from SciPy, NlOpt and many other widely used packages....",
+          "student_name": "gauravmanmode",
+          "code_url": null,
+          "proposal_id": "zscWDapL",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/j9i3Vx5T"
+        },
+        {
+          "title": "Benchmarking and Profiling in toqito",
+          "short_description": "This project aims to test the performance of |toqito\u27e9 and compare it with other quantum computing libraries. It is divided into three parts: (1)...",
+          "student_name": "justuy",
+          "code_url": null,
+          "proposal_id": "XPJ9Zkex",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/5DqdhWwe"
+        },
+        {
+          "title": "Extending ONNX-mlpack Translator with Advanced Model Support",
+          "short_description": "This project aims to extend the capabilities of the ONNX-to-mlpack converter by adding support for more advanced and diverse model architectures. The...",
+          "student_name": "kumar utkarsh",
+          "code_url": null,
+          "proposal_id": "I9KbneYo",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/57ne67Mj"
+        },
+        {
+          "title": "Adding More Optimizer Interfaces to optimagic",
+          "short_description": "The project aims to enhance the functionality of optimagic by adding support for a wider range of numerical optimization libraries.The goal is to...",
+          "student_name": "madman",
+          "code_url": null,
+          "proposal_id": "CefkTUbv",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/kggF8GVK"
+        },
+        {
+          "title": "Implementing the Simformer for sbi",
+          "short_description": "sbi is a Python package providing simulation-based inference tools for researchers and practitioners; given simulation results, sbi aims to infer the...",
+          "student_name": "Massimiliano Carli",
+          "code_url": null,
+          "proposal_id": "2s4i7lWR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Joey5EeQ"
+        },
+        {
+          "title": "Implementing RUBI (Rule-based Integrator) in the Julia package Symbolics.jl",
+          "short_description": "This project aims to implement the RUBI integration system - a powerful, open source, rule-based integration system developed for the computational...",
+          "student_name": "Mattia Micheletta Merlin",
+          "code_url": null,
+          "proposal_id": "p9SH8uh7",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TRqpJPrm"
+        },
+        {
+          "title": "PyBaMM - Adding a Dispatching Mechanism  for Third Party Models.",
+          "short_description": "This project will make the addition and sharing of third-party battery models easier in PyBaMM. It is an extension of the PyBaMM cookiecutter project...",
+          "student_name": "Medha-Bhardwaj",
+          "code_url": null,
+          "proposal_id": "P1wcpcyH",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/3t9McTvW"
+        },
+        {
+          "title": "Implementing Integrated Nested Laplace Approximations (INLA)",
+          "short_description": "A key component of Bayesian inference is integrating over prior distributions to obtain posteriors. In practice however, these distributions are...",
+          "student_name": "Michal Novomestsky",
+          "code_url": null,
+          "proposal_id": "AaC2yTpG",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Djw07Zv0"
+        },
+        {
+          "title": "Create and Add to an Example Gallery for toqito",
+          "short_description": "This project addresses the need for enhanced usability and learning resources within the toqito quantum information library by creating a...",
+          "student_name": "Nafisa Shamim Rafa",
+          "code_url": null,
+          "proposal_id": "zWtvWyMX",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/lI08brT4"
+        },
+        {
+          "title": "Developing an Active Learning  Module for DeepForest",
+          "short_description": "This project aims to enhance DeepForest by integrating and extending the active learning capabilities from Weecology/BOEM into its training pipeline....",
+          "student_name": "Nakshatra Piplad",
+          "code_url": null,
+          "proposal_id": "Zfi87i6M",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/n9Ophyn4"
+        },
+        {
+          "title": "Finite Volume Method Implementation for TNL",
+          "short_description": "Template Numerical Library (TNL) already includes several solvers for partial differential equations, such as the Finite Element Method (FEM),...",
+          "student_name": "Petr Sokol",
+          "code_url": null,
+          "proposal_id": "wCElOp8v",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/dLFOcSDt"
+        },
+        {
+          "title": "Adding a spirally wound geometry for thermal simulations in PyBaMM",
+          "short_description": "Seeing the current increasing demand of high performance batteries, accurate thermal modelling of battery behaviour is essential. This project...",
+          "student_name": "Rishab87",
+          "code_url": null,
+          "proposal_id": "z6jK4f0y",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/epbg9kwP"
+        },
+        {
+          "title": "Data Retriever: Creating a multi-sensor airborne benchmark for Tree Species classification",
+          "short_description": "This project aims to create a benchmark dataset for tree species classification using multi-sensor airborne data (RGB, HSI, and LiDAR) from the...",
+          "student_name": "Ritesh Chowdhry",
+          "code_url": null,
+          "proposal_id": "i3yTem2k",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/nrEEuvuB"
+        },
+        {
+          "title": "Integrating DeepForest Object Detection with LLM for Automated Ecological Image Analysis",
+          "short_description": "This project attempts to integrate DeepForest's object detection models into Large Language Models (LLMs) so that ecological images can be queried...",
+          "student_name": "Samia Haque Tisha",
+          "code_url": null,
+          "proposal_id": "3UTR8SA4",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/ItYAp7By"
+        },
+        {
+          "title": "ArviZ Plots Feature Parity",
+          "short_description": "ArviZ is a Python library for the exploratory analysis of Bayesian inference models. It is currently undergoing a major refactor into a modular...",
+          "student_name": "Shreyansh868",
+          "code_url": null,
+          "proposal_id": "HGRFMu2T",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/QEEVWGcd"
+        },
+        {
+          "title": "aeon - Implementing and Evaluating Machine Learning Forecasters",
+          "short_description": "This project will investigate algorithms for forecasting based on traditional machine learning (tree based) and time series machine learning...",
+          "student_name": "Tina0228",
+          "code_url": null,
+          "proposal_id": "Xw5VtsDR",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/MPYRSOTi"
+        },
+        {
+          "title": "Hamiltonian Library for QuTiP",
+          "short_description": "This project aims to develop a comprehensive Hamiltonian Library for QuTiP (Quantum Toolbox in Python). Currently, QuTiP users must frequently...",
+          "student_name": "VanshajB",
+          "code_url": null,
+          "proposal_id": "T5zlMdzC",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/TgdXdTXP"
+        },
+        {
+          "title": "Extending the loo Package",
+          "short_description": "The `loo` package is a widely used R package in the Stan ecosystem which exposes a clean API to cross-validate (CV) Bayesian models. As new CV...",
+          "student_name": "Visruth",
+          "code_url": null,
+          "proposal_id": "F8mxdlIA",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/NxqejlhZ"
+        },
+        {
+          "title": "igraph | Degree-Constrained Null Models & Graph Construction",
+          "short_description": "Graphs are powerful tools for understanding relationships and structures \u2014 from social media connections to brain networks. Often, we want to study...",
+          "student_name": "Zara Zong",
+          "code_url": null,
+          "proposal_id": "ui2N1vyT",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/q04crkoi"
+        },
+        {
+          "title": "Proposal for PYSAL\u2013 SPOPT",
+          "short_description": "This project aims to extend PySAL's spatial optimisation library (spopt) by implementing flow-based facility location models, specifically the Flow...",
+          "student_name": "ZixinFeng",
+          "code_url": null,
+          "proposal_id": "pi6dq8ii",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/rCb85IXn"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:info@numfocus.org",
+  "mailing_list": "https://groups.google.com/a/numfocus.org/forum/#!forum/gsoc",
+  "ideas_url": "https://github.com/numfocus/gsoc/blob/master/2025/ideas-list.md",
+  "guide_url": "https://github.com/numfocus/gsoc/blob/master/CONTRIBUTING-students.md",
+  "twitter_url": "https://twitter.com/NumFOCUS/",
+  "blog_url": "http://www.numfocus.org/blog"
+}

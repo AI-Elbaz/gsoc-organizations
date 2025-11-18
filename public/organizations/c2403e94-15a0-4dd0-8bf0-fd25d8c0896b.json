@@ -1,0 +1,87 @@
+{
+  "name": "The Wine Project",
+  "url": "https://www.winehq.org/",
+  "image_url": "https://lh3.googleusercontent.com/7tIOiveWazWsdJRPKX6R-vqBrN058T695JfanWME8t1aZKBz9g69ZABf6YbAgkuWH40WyGoeikalEErOmqN8DbkS24mIQ10",
+  "image_background_color": "#420000",
+  "category": "Other",
+  "topics": [
+    "desktop integration",
+    "compatibility",
+    "3d",
+    "directx",
+    "opengl",
+    "vulkan"
+  ],
+  "technologies": [
+    "c",
+    "opengl",
+    "x11",
+    "win32",
+    "directx",
+    "vulkan"
+  ],
+  "years": {
+    "2016": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2016/organizations/6746836350009344/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Implement basic rendering for Direct3D Retained mode",
+          "short_description": "Last year, the main object creation API's of devices for all versions of Direct3DRM were implemented. There's still quite some work left before...",
+          "student_name": "Aaryaman Vasishta",
+          "code_url": "https://github.com/wine-mirror/wine/commits?author=jammm",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/5321541789155328/"
+        },
+        {
+          "title": "Further work on the Visual C++ iostream library",
+          "short_description": "The Microsoft Visual C++ iostream library is a now obsolete library distributed with Visual Studio versions up to 6.0, implemented in the file...",
+          "student_name": "Sulley",
+          "code_url": "https://gist.github.com/Sulley38/4cf874a0fe4ce925b1d6b2dbba29963b",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2016/projects/4888926107992064/"
+        }
+      ]
+    },
+    "2017": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2017/organizations/5417956825628672/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/6258536686288896/",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Direct3D - Automated game benchmarks",
+          "short_description": "Wine is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems. Thanks to Wine, lots of Windows...",
+          "student_name": "Dimitris Gounaridis",
+          "code_url": "https://github.com/moihack/wineSHOCK/",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6255317272756224/"
+        },
+        {
+          "title": "Own Idea: Implementing a subset of Concurrency namespace",
+          "short_description": "The project is to implement a subset of Concurrency namespace, which provides classes and functions that give you access to the Concurrency Runtime,...",
+          "student_name": "meng hua",
+          "code_url": "https://gist.github.com/Dreamanne/a00f29ad84b89da2270d5f79baa506e8",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/6520878254784512/"
+        }
+      ]
+    },
+    "2019": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2019/organizations/4848751686975488/",
+      "num_projects": 0,
+      "projects": []
+    },
+    "2020": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2020/organizations/6331124088832000/",
+      "num_projects": 0,
+      "projects": []
+    }
+  },
+  "irc_channel": "https://www.winehq.org/irc",
+  "contact_email": "",
+  "mailing_list": "https://www.winehq.org/mailman/listinfo/wine-devel",
+  "ideas_url": "",
+  "guide_url": "",
+  "twitter_url": "https://twitter.com/winehq_org",
+  "blog_url": "https://www.winehq.org/wwn/"
+}

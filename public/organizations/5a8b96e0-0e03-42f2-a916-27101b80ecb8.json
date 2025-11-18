@@ -1,0 +1,41 @@
+{
+  "name": "Seastar",
+  "url": "http://www.seastar-project.org/",
+  "image_url": "https://lh3.googleusercontent.com/rBIDW74GlN99v142I_orxLgDEKEkmkkFd3qfmN0D6N1u9c9GD1LQD_2XDGY_1uU03TbaQPwsLA_jQEZXkeADHCJyO4QTJSU",
+  "image_background_color": "#FFFFFF",
+  "category": "Programming languages",
+  "topics": [
+    "network",
+    "high performance",
+    "tcp",
+    "app development",
+    "framework"
+  ],
+  "technologies": [
+    "linux",
+    "cpp",
+    "framework",
+    "dpdk",
+    "tcp"
+  ],
+  "years": {
+    "2018": {
+      "projects_url": "https://summerofcode.withgoogle.com/archive/2018/organizations/5132636779446272/",
+      "num_projects": 1,
+      "projects": [
+        {
+          "title": "TCP BBR implementation in Seastar",
+          "short_description": "TCP BBR was proposed as a modern TCP congestion control algorithm by Google in 2016. The traditional loss-based TCP algorithms like TCP CUBIC, reduce...",
+          "student_name": "Ryan Huang",
+          "code_url": "https://github.com/ryanhuang1014/Seastar-for-GSoC2018/blob/bbr-gsoc2018/README-BBR.md",
+          "project_url": "https://summerofcode.withgoogle.com/archive/2018/projects/5671090722439168/"
+        }
+      ]
+    }
+  },
+  "irc_channel": "https://scylladb-users.slack.com",
+  "contact_email": "mailto:info@scylladb.com",
+  "mailing_list": "http://seastar-dev@googlegroups.com",
+  "ideas_url": "",
+  "guide_url": ""
+}

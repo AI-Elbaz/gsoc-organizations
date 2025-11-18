@@ -1,0 +1,48 @@
+{
+  "name": "PAL Robotics",
+  "url": "https://pal-robotics.com/",
+  "image_url": "https://summerofcode.withgoogle.com/media/org/pal-robotics/f3yidefsydweipcc-360.png",
+  "image_background_color": "#ffffff",
+  "category": "Other",
+  "topics": [
+    "robotics",
+    "reinforcement learning",
+    "web tools"
+  ],
+  "technologies": [
+    "python",
+    "javascript",
+    "c++"
+  ],
+  "years": {
+    "2025": {
+      "projects_url": "https://summerofcode.withgoogle.com/programs/2025/organizations/pal-robotics",
+      "num_projects": 2,
+      "projects": [
+        {
+          "title": "Brax Training Viewer for Real-Time Policy Visualization",
+          "short_description": "The project provides two interfaces for Brax PPO training: a local window with MuJoCo for real-time visualization, and a web-based interface for...",
+          "student_name": "Bruce Hu",
+          "code_url": null,
+          "proposal_id": "zatqr8cV",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/Xm0toJHl"
+        },
+        {
+          "title": "Enrico Moro | Payload visualization metrics PAL Robotics",
+          "short_description": "Payload visualization metrics is a project to enhance decision-making during the prototyping process. Together with my team, we have to create a main...",
+          "student_name": "Enrico Moro",
+          "code_url": null,
+          "proposal_id": "bcalVuos",
+          "project_url": "https://summerofcode.withgoogle.com/programs/2025/projects/mPxgXKpc"
+        }
+      ]
+    }
+  },
+  "irc_channel": "",
+  "contact_email": "mailto:gsoc@pal-robotics.com",
+  "mailing_list": "",
+  "ideas_url": "https://pal-robotics.com/2025-google-summer-code-proposals/#tips-successful-gsoc",
+  "guide_url": "https://pal-robotics.com/2025-google-summer-code-proposals/#tips-successful-gsoc",
+  "twitter_url": "https://x.com/PALRobotics",
+  "blog_url": "https://pal-robotics.com/blog/"
+}
