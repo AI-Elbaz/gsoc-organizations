@@ -176,14 +176,14 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
   }, [filteredOrgsWithChartData, filters.sections, collapsedSections]);
 
   const parentRef = useRef<HTMLDivElement>(null);
+
   const rowVirtualizer = useWindowVirtualizer({
     count: virtualListItems.length,
     estimateSize: index => {
       const item = virtualListItems[index];
-      return item.type === "header" ? 56 : 240;
+      return item.type === "header" ? 56 : 235;
     },
     overscan: 10,
-    gap: 16,
   });
 
   const toggleYear = useCallback(
@@ -333,7 +333,7 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
         <div ref={parentRef}>
           <div
             style={{
-              height: `${rowVirtualizer.getTotalSize()}px`,
+              height: rowVirtualizer.getTotalSize(),
               width: "100%",
               position: "relative",
             }}>
@@ -343,6 +343,7 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
                 top: 0,
                 left: 0,
                 width: "100%",
+                transform: `translateY(${virtualizedItems[0]?.start ?? 0}px)`,
               }}>
               {virtualizedItems.map((virtualRow: VirtualItem) => {
                 const item = virtualListItems[virtualRow.index];
@@ -367,15 +368,19 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
                 }
 
                 return (
-                  <OrganizationCard
+                  <div
                     key={virtualRow.key}
-                    org={item.data}
-                    chartData={item.data.chartData}
-                    onBarClick={handleBarClick}
-                    isBookmarked={bookmarkedOrgs.has(item.data.name)}
-                    onToggleBookmark={() => toggleBookmark(item.data.name)}
-                    onViewProjects={() => handleViewProjects(item.data)}
-                  />
+                    data-index={virtualRow.index}
+                    ref={rowVirtualizer.measureElement}>
+                    <OrganizationCard
+                      org={item.data}
+                      chartData={item.data.chartData}
+                      onBarClick={handleBarClick}
+                      isBookmarked={bookmarkedOrgs.has(item.data.name)}
+                      onToggleBookmark={() => toggleBookmark(item.data.name)}
+                      onViewProjects={() => handleViewProjects(item.data)}
+                    />
+                  </div>
                 );
               })}
             </div>

@@ -31,18 +31,18 @@ export const OrganizationCard = memo(
     onViewProjects,
   }: OrganizationCardProps) => (
     <Card
-      className={`overflow-hidden transition-shadow hover:shadow-lg my-5 ${
+      className={`@container/card overflow-hidden transition-shadow hover:shadow-lg my-5 ${
         isBookmarked ? "border-primary" : ""
       }`}>
       <CardContent className="px-4">
-        <div className="flex flex-col gap-4 lg:flex-row lg:items-start">
-          <div className="flex items-start gap-4 flex-1 min-w-0">
+        <div className="flex flex-col gap-4 @lg/card:flex-row @lg/card:items-start">
+          <div className="flex flex-col @lg/card:flex-row items-start gap-4 flex-1 min-w-0">
             {org.image_url && (
               // eslint-disable-next-line @next/next/no-img-element
               <img
                 src={org.image_url}
                 alt={org.name}
-                className="w-12 h-12 rounded object-contain shrink-0 border p-1"
+                className="size-18 rounded object-contain shrink-0 border p-1"
                 style={{backgroundColor: org.image_background_color}}
               />
             )}
@@ -51,7 +51,7 @@ export const OrganizationCard = memo(
                 <span className="text-lg font-bold text-muted-foreground shrink-0">
                   {org.displayIndex}.
                 </span>
-                <h2 className="text-lg font-semibold text-card-foreground truncate">
+                <h2 className="text-lg font-semibold text-card-foreground text-ellipsis">
                   {org.name}
                 </h2>
                 <Badge variant="secondary">{org.category}</Badge>
