@@ -14,7 +14,7 @@ export default async function Page() {
   return (
     <div className="bg-background min-h-screen">
       <div className="container mx-auto p-4 md:p-6">
-        <header className="flex items-center justify-between mb-6">
+        <header className="flex items-center flex-wrap gap-6 justify-between mb-6">
           <div>
             <h1 className="text-3xl font-bold tracking-tight text-foreground mb-1">
               Google Summer of Code Organizations
