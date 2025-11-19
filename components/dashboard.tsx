@@ -19,6 +19,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import {ExportButton} from "./export-data-button";
 import {ActiveFiltersSummary, FilterBar} from "./filters-bar";
 import {OrganizationCard} from "./organization-card";
 import {ProjectsDialog} from "./projects-dialog";
@@ -314,6 +315,9 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
           Showing {filteredOrgsWithChartData.length} organization
           {filteredOrgsWithChartData.length !== 1 ? "s" : ""}
         </p>
+        <div className="flex justify-end">
+          <ExportButton />
+        </div>
       </div>
 
       <div ref={parentRef}>
