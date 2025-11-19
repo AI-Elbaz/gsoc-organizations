@@ -62,10 +62,12 @@ export const OrganizationCard = memo(
     };
 
     const priorityStyles: {[key: string]: string} = {
-      high: "bg-green-50 border-green-200",
-      medium: "bg-yellow-50 border-yellow-200",
-      low: "bg-red-50 border-red-200",
-      "not-wanted": "bg-gray-100 border-gray-300",
+      high: "bg-green-50 border-green-200 dark:bg-green-950 dark:border-green-800",
+      medium:
+        "bg-yellow-50 border-yellow-200 dark:bg-yellow-950 dark:border-yellow-800",
+      low: "bg-red-50 border-red-200 dark:bg-red-950 dark:border-red-800",
+      "not-wanted":
+        "bg-gray-100 border-gray-300 dark:bg-gray-800 dark:border-gray-600",
     };
 
     return (
