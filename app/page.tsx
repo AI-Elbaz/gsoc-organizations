@@ -1,5 +1,8 @@
+import {Star} from "lucide-react";
+
 import {GSoCDashboard} from "@/components/dashboard";
 import {ThemeSwitcher} from "@/components/theme-switcher";
+import {Button} from "@/components/ui/button";
 import Organizations from "@/public/organizations.json";
 
 const getOrganizations = async () => {
@@ -21,7 +24,19 @@ export default async function Page() {
             </p>
           </div>
 
-          <ThemeSwitcher />
+          <div className="flex gap-2">
+            <Button asChild>
+              <a
+                href="https://github.com/AI-Elbaz/gsoc-organizations"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2">
+                <Star />
+                Star on GitHub
+              </a>
+            </Button>
+            <ThemeSwitcher />
+          </div>
         </header>
         <GSoCDashboard data={organizations} />
       </div>
