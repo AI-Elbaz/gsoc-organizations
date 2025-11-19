@@ -1,4 +1,5 @@
 import {GSoCDashboard} from "@/components/dashboard";
+import {ThemeSwitcher} from "@/components/theme-switcher";
 import Organizations from "@/public/organizations.json";
 
 const getOrganizations = async () => {
@@ -7,5 +8,23 @@ const getOrganizations = async () => {
 
 export default async function Page() {
   const organizations = await getOrganizations();
-  return <GSoCDashboard data={organizations} />;
+  return (
+    <div className="bg-background min-h-screen">
+      <div className="container mx-auto p-4 md:p-6">
+        <header className="flex items-center justify-between mb-6">
+          <div>
+            <h1 className="text-3xl font-bold tracking-tight text-foreground mb-1">
+              Google Summer of Code Organizations
+            </h1>
+            <p className="text-muted-foreground">
+              Explore participating organizations and their project statistics
+            </p>
+          </div>
+
+          <ThemeSwitcher />
+        </header>
+        <GSoCDashboard data={organizations} />
+      </div>
+    </div>
+  );
 }

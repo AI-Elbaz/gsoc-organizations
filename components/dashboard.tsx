@@ -290,153 +290,142 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
   const virtualizedItems = rowVirtualizer.getVirtualItems();
 
   return (
-    <div className="bg-background min-h-screen">
-      <div className="container mx-auto p-4 md:p-6">
-        <header className="mb-6">
-          <h1 className="text-3xl font-bold tracking-tight text-foreground mb-1">
-            Google Summer of Code Organizations
-          </h1>
-          <p className="text-muted-foreground">
-            Explore participating organizations and their project statistics
-          </p>
-        </header>
+    <>
+      <div className="mb-6 space-y-4">
+        <FilterBar
+          allYears={allYears}
+          selectedYears={filters.years}
+          onToggleYear={toggleYear}
+          allTechnologies={allTechnologies}
+          selectedTechnologies={filters.tech}
+          onToggleTechnology={toggleTechnology}
+          techSearchTerm={techSearchTerm}
+          onTechSearchChange={setTechSearchTerm}
+          selectedSections={filters.sections}
+          onSetSections={setSections}
+          onClearAll={clearAllFilters}
+          hasActiveFilters={hasActiveFilters}
+          onShowBookmarks={() => setIsBookmarksDialogOpen(true)}
+          numBookmarks={bookmarkedOrgs.size}
+        />
+        <ActiveFiltersSummary
+          selectedYears={filters.years}
+          selectedTechnologies={filters.tech}
+          onToggleYear={toggleYear}
+          onToggleTechnology={toggleTechnology}
+        />
+        <p className="text-sm text-muted-foreground pt-2">
+          Showing {filteredOrgsWithChartData.length} organization
+          {filteredOrgsWithChartData.length !== 1 ? "s" : ""}
+        </p>
+      </div>
 
-        <div className="mb-6 space-y-4">
-          <FilterBar
-            allYears={allYears}
-            selectedYears={filters.years}
-            onToggleYear={toggleYear}
-            allTechnologies={allTechnologies}
-            selectedTechnologies={filters.tech}
-            onToggleTechnology={toggleTechnology}
-            techSearchTerm={techSearchTerm}
-            onTechSearchChange={setTechSearchTerm}
-            selectedSections={filters.sections}
-            onSetSections={setSections}
-            onClearAll={clearAllFilters}
-            hasActiveFilters={hasActiveFilters}
-            onShowBookmarks={() => setIsBookmarksDialogOpen(true)}
-            numBookmarks={bookmarkedOrgs.size}
-          />
-          <ActiveFiltersSummary
-            selectedYears={filters.years}
-            selectedTechnologies={filters.tech}
-            onToggleYear={toggleYear}
-            onToggleTechnology={toggleTechnology}
-          />
-          <p className="text-sm text-muted-foreground pt-2">
-            Showing {filteredOrgsWithChartData.length} organization
-            {filteredOrgsWithChartData.length !== 1 ? "s" : ""}
-          </p>
-        </div>
-
-        <div ref={parentRef}>
+      <div ref={parentRef}>
+        <div
+          style={{
+            height: rowVirtualizer.getTotalSize(),
+            width: "100%",
+            position: "relative",
+          }}>
           <div
             style={{
-              height: rowVirtualizer.getTotalSize(),
+              position: "absolute",
+              top: 0,
+              left: 0,
               width: "100%",
-              position: "relative",
+              transform: `translateY(${virtualizedItems[0]?.start ?? 0}px)`,
             }}>
-            <div
-              style={{
-                position: "absolute",
-                top: 0,
-                left: 0,
-                width: "100%",
-                transform: `translateY(${virtualizedItems[0]?.start ?? 0}px)`,
-              }}>
-              {virtualizedItems.map((virtualRow: VirtualItem) => {
-                const item = virtualListItems[virtualRow.index];
+            {virtualizedItems.map((virtualRow: VirtualItem) => {
+              const item = virtualListItems[virtualRow.index];
 
-                if (item.type === "header") {
-                  return (
-                    <Button
-                      key={item.title}
-                      variant="ghost"
-                      className="w-full justify-start text-lg h-12 mb-2"
-                      onClick={() => toggleSectionCollapse(item.title)}>
-                      {item.isCollapsed ? (
-                        <ChevronRight className="mr-2 h-5 w-5" />
-                      ) : (
-                        <ChevronDown className="mr-2 h-5 w-5" />
-                      )}
-                      <h2 className="font-semibold tracking-tight">
-                        {item.title}
-                      </h2>
-                    </Button>
-                  );
-                }
-
+              if (item.type === "header") {
                 return (
-                  <div
-                    key={virtualRow.key}
-                    data-index={virtualRow.index}
-                    ref={rowVirtualizer.measureElement}>
-                    <OrganizationCard
-                      org={item.data}
-                      chartData={item.data.chartData}
-                      onBarClick={handleBarClick}
-                      isBookmarked={bookmarkedOrgs.has(item.data.name)}
-                      onToggleBookmark={() => toggleBookmark(item.data.name)}
-                      onViewProjects={() => handleViewProjects(item.data)}
-                    />
-                  </div>
+                  <Button
+                    key={item.title}
+                    variant="ghost"
+                    className="w-full justify-start text-lg h-12 mb-2"
+                    onClick={() => toggleSectionCollapse(item.title)}>
+                    {item.isCollapsed ? (
+                      <ChevronRight className="mr-2 h-5 w-5" />
+                    ) : (
+                      <ChevronDown className="mr-2 h-5 w-5" />
+                    )}
+                    <h2 className="font-semibold tracking-tight">
+                      {item.title}
+                    </h2>
+                  </Button>
                 );
-              })}
-            </div>
+              }
+
+              return (
+                <div
+                  key={virtualRow.key}
+                  data-index={virtualRow.index}
+                  ref={rowVirtualizer.measureElement}>
+                  <OrganizationCard
+                    org={item.data}
+                    chartData={item.data.chartData}
+                    onBarClick={handleBarClick}
+                    isBookmarked={bookmarkedOrgs.has(item.data.name)}
+                    onToggleBookmark={() => toggleBookmark(item.data.name)}
+                    onViewProjects={() => handleViewProjects(item.data)}
+                  />
+                </div>
+              );
+            })}
           </div>
         </div>
-
-        {filteredOrgsWithChartData.length === 0 && (
-          <div className="text-center py-16">
-            <p className="text-muted-foreground text-lg mb-4">
-              No organizations found matching your filters.
-            </p>
-            <Button onClick={clearAllFilters}>Clear All Filters</Button>
-          </div>
-        )}
-
-        <Dialog
-          open={isBookmarksDialogOpen}
-          onOpenChange={setIsBookmarksDialogOpen}>
-          <DialogContent className="md:max-w-2xl">
-            <DialogHeader>
-              <DialogTitle>Bookmarked Organizations</DialogTitle>
-            </DialogHeader>
-            <div className="max-h-[70vh] overflow-y-auto space-y-4 p-1 pr-4">
-              {organizations
-                .filter(org => bookmarkedOrgs.has(org.name))
-                .map((org, index) => (
-                  <OrganizationCard
-                    key={org.name}
-                    org={{...org, displayIndex: index + 1}}
-                    chartData={getChartData(org.years, allYearsForChart)}
-                    onBarClick={handleBarClick}
-                    isBookmarked
-                    showChart={false}
-                    onToggleBookmark={() => toggleBookmark(org.name)}
-                    onViewProjects={() => handleViewProjects(org)}
-                  />
-                ))}
-              {bookmarkedOrgs.size === 0 && (
-                <p className="text-muted-foreground text-center min-h-[50vh] flex items-center justify-center">
-                  No bookmarks yet.
-                </p>
-              )}
-            </div>
-            {bookmarkedOrgs.size > 0 && (
-              <DialogFooter>
-                <Button onClick={exportBookmarksToCsv}>Export to CSV</Button>
-              </DialogFooter>
-            )}
-          </DialogContent>
-        </Dialog>
-        <ProjectsDialog
-          isOpen={isProjectsDialogOpen}
-          onClose={() => setIsProjectsDialogOpen(false)}
-          organization={selectedOrg}
-        />
       </div>
-    </div>
+
+      {filteredOrgsWithChartData.length === 0 && (
+        <div className="text-center py-16">
+          <p className="text-muted-foreground text-lg mb-4">
+            No organizations found matching your filters.
+          </p>
+          <Button onClick={clearAllFilters}>Clear All Filters</Button>
+        </div>
+      )}
+
+      <Dialog
+        open={isBookmarksDialogOpen}
+        onOpenChange={setIsBookmarksDialogOpen}>
+        <DialogContent className="md:max-w-2xl">
+          <DialogHeader>
+            <DialogTitle>Bookmarked Organizations</DialogTitle>
+          </DialogHeader>
+          <div className="max-h-[70vh] overflow-y-auto space-y-4 p-1 pr-4">
+            {organizations
+              .filter(org => bookmarkedOrgs.has(org.name))
+              .map((org, index) => (
+                <OrganizationCard
+                  key={org.name}
+                  org={{...org, displayIndex: index + 1}}
+                  chartData={getChartData(org.years, allYearsForChart)}
+                  onBarClick={handleBarClick}
+                  isBookmarked
+                  showChart={false}
+                  onToggleBookmark={() => toggleBookmark(org.name)}
+                  onViewProjects={() => handleViewProjects(org)}
+                />
+              ))}
+            {bookmarkedOrgs.size === 0 && (
+              <p className="text-muted-foreground text-center min-h-[50vh] flex items-center justify-center">
+                No bookmarks yet.
+              </p>
+            )}
+          </div>
+          {bookmarkedOrgs.size > 0 && (
+            <DialogFooter>
+              <Button onClick={exportBookmarksToCsv}>Export to CSV</Button>
+            </DialogFooter>
+          )}
+        </DialogContent>
+      </Dialog>
+      <ProjectsDialog
+        isOpen={isProjectsDialogOpen}
+        onClose={() => setIsProjectsDialogOpen(false)}
+        organization={selectedOrg}
+      />
+    </>
   );
 };

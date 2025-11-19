@@ -1,4 +1,5 @@
 import {Geist, Geist_Mono} from "next/font/google";
+import {ThemeProvider} from "next-themes";
 
 import {NuqsAdapter} from "nuqs/adapters/next";
 
@@ -27,10 +28,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <NuqsAdapter>{children}</NuqsAdapter>
+        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+          <NuqsAdapter>{children}</NuqsAdapter>
+        </ThemeProvider>
       </body>
     </html>
   );
