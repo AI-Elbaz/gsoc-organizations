@@ -1,7 +1,5 @@
 "use client";
 
-import {useMemo} from "react";
-
 import {Bookmark, Check, ChevronDown, PlusCircle, X} from "lucide-react";
 
 import {Badge} from "@/components/ui/badge";
@@ -39,8 +37,6 @@ interface FilterBarProps {
   allTechnologies: string[];
   selectedTechnologies: string[];
   onToggleTechnology: (tech: string) => void;
-  techSearchTerm: string;
-  onTechSearchChange: (value: string) => void;
   selectedSections: number;
   onSetSections: (sections: number) => void;
   onClearAll: () => void;
@@ -63,8 +59,6 @@ export const FilterBar = ({
   allTechnologies,
   selectedTechnologies,
   onToggleTechnology,
-  techSearchTerm,
-  onTechSearchChange,
   selectedSections,
   onSetSections,
   onClearAll,
@@ -72,13 +66,6 @@ export const FilterBar = ({
   onShowBookmarks,
   numBookmarks,
 }: FilterBarProps) => {
-  const filteredTechnologies = useMemo(() => {
-    if (!techSearchTerm) return allTechnologies;
-    return allTechnologies.filter(tech =>
-      tech.toLowerCase().includes(techSearchTerm.toLowerCase()),
-    );
-  }, [allTechnologies, techSearchTerm]);
-
   return (
     <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 p-3 border rounded-lg bg-card">
       <div className="flex flex-col md:flex-row md:items-center gap-2 flex-1">
@@ -127,15 +114,11 @@ export const FilterBar = ({
           </PopoverTrigger>
           <PopoverContent className="w-[250px] p-0" align="start">
             <Command>
-              <CommandInput
-                placeholder="Search technologies..."
-                value={techSearchTerm}
-                onValueChange={onTechSearchChange}
-              />
+              <CommandInput placeholder="Search technologies..." />
               <CommandList>
                 <CommandEmpty>No results found.</CommandEmpty>
                 <CommandGroup>
-                  {filteredTechnologies.map(tech => (
+                  {allTechnologies.map(tech => (
                     <CommandItem
                       key={tech}
                       onSelect={() => onToggleTechnology(tech)}>

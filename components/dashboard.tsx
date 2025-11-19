@@ -35,7 +35,6 @@ import type {
 
 export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
   const [organizations] = useState<Organization[]>(data);
-  const [techSearchTerm, setTechSearchTerm] = useState<string>("");
   const [collapsedSections, setCollapsedSections] = useState<Set<string>>(
     new Set(),
   );
@@ -232,7 +231,6 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
   const clearAllFilters = useCallback(() => {
     setFilters({years: [], tech: [], sections: 1});
     setCollapsedSections(new Set());
-    setTechSearchTerm("");
   }, [setFilters]);
 
   const handleBarClick = useCallback((url?: string) => {
@@ -299,8 +297,6 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
           allTechnologies={allTechnologies}
           selectedTechnologies={filters.tech}
           onToggleTechnology={toggleTechnology}
-          techSearchTerm={techSearchTerm}
-          onTechSearchChange={setTechSearchTerm}
           selectedSections={filters.sections}
           onSetSections={setSections}
           onClearAll={clearAllFilters}
