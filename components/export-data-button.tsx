@@ -22,8 +22,12 @@ export const ExportButton = () => {
 
   const handleExport = () => {
     const csvContent = [
-      Object.keys(data[0]).join(","), // Header row
-      ...data.map(row => Object.values(row).join(",")),
+      Object.keys(data[0]).join(","),
+      ...data.map(row =>
+        Object.values(row)
+          .map(value => value.replace(/\n/g, "/"))
+          .join(","),
+      ),
     ].join("\n");
 
     const blob = new Blob([csvContent], {type: "text/csv;charset=utf-8;"});
