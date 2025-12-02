@@ -23,6 +23,7 @@ import {ExportButton} from "./export-data-button";
 import {ActiveFiltersSummary, FilterBar} from "./filters-bar";
 import {OrganizationCard} from "./organization-card";
 import {ProjectsDialog} from "./projects-dialog";
+import {Search} from "./search";
 
 import type {VirtualItem} from "@tanstack/react-virtual";
 import type {FC} from "react";
@@ -63,6 +64,7 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
     years: parseAsArrayOf(parseAsString).withDefault([]),
     tech: parseAsArrayOf(parseAsString).withDefault([]),
     sections: parseAsInteger.withDefault(1),
+    query: parseAsString.withDefault(""),
   });
 
   const {allYears, allTechnologies} = useMemo(() => {
@@ -124,6 +126,9 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
           if (!filters.tech.some(tech => org.technologies.includes(tech)))
             return false;
         }
+        if (!!filters.query) {
+          return org.name.toLowerCase().includes(filters.query.toLowerCase());
+        }
         return true;
       })
       .map(org => ({
@@ -136,6 +141,7 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
     filters.tech,
     allYearsForChart,
     getChartData,
+    filters.query,
   ]);
 
   const virtualListItems = useMemo((): VirtualListItem[] => {
@@ -284,7 +290,8 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
     URL.revokeObjectURL(url);
   }, [bookmarkedOrgs, organizations]);
 
-  const hasActiveFilters = filters.years.length > 0 || filters.tech.length > 0;
+  const hasActiveFilters =
+    filters.years.length > 0 || filters.tech.length > 0 || !!filters.query;
 
   const virtualizedItems = rowVirtualizer.getVirtualItems();
 
@@ -315,7 +322,11 @@ export const GSoCDashboard: FC<{data: Organization[]}> = ({data}) => {
           Showing {filteredOrgsWithChartData.length} organization
           {filteredOrgsWithChartData.length !== 1 ? "s" : ""}
         </p>
-        <div className="flex justify-end">
+        <div className="flex justify-between gap-3">
+          <Search
+            value={filters.query}
+            onChange={query => setFilters({query})}
+          />
           <ExportButton />
         </div>
       </div>
