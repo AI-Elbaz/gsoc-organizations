@@ -3,6 +3,7 @@ import {Star} from "lucide-react";
 import {GSoCDashboard} from "@/components/dashboard";
 import {ThemeSwitcher} from "@/components/theme-switcher";
 import {Button} from "@/components/ui/button";
+import {extractUniqueYearsAndTechnologies} from "@/lib/utils";
 import Organizations from "@/public/organizations.json";
 
 const getOrganizations = async () => {
@@ -11,6 +12,10 @@ const getOrganizations = async () => {
 
 export default async function Page() {
   const organizations = await getOrganizations();
+
+  const {allYears, allTechnologies} =
+    extractUniqueYearsAndTechnologies(organizations);
+
   return (
     <div className="bg-background min-h-screen">
       <div className="container mx-auto p-4 md:p-6">
@@ -38,7 +43,11 @@ export default async function Page() {
             <ThemeSwitcher />
           </div>
         </header>
-        <GSoCDashboard data={organizations} />
+        <GSoCDashboard
+          organizations={organizations}
+          allYears={allYears}
+          allTechnologies={allTechnologies}
+        />
       </div>
     </div>
   );

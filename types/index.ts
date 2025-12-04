@@ -59,3 +59,5 @@ export type OrganizationItem = {
 };
 
 export type VirtualListItem = SectionHeader | OrganizationItem;
+
+export type Priority = "high" | "medium" | "low" | "not-wanted";

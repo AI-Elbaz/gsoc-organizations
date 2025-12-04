@@ -1,15 +1,8 @@
 import {useMemo} from "react";
 
 import {Button} from "@/components/ui/button";
-import {useOrganizationStore} from "@/hooks/user-organization-store";
-
-const escapeCsvValue = (value: string) => {
-  // If value contains comma, newline, or quote, wrap in quotes and escape internal quotes
-  if (value.includes(",") || value.includes("\n") || value.includes('"')) {
-    return `"${value.replace(/"/g, '""')}"`;
-  }
-  return value;
-};
+import {useOrganizationStore} from "@/hooks/use-organizations-store";
+import {sanitizeCsvField} from "@/lib/utils";
 
 export const ExportButton = () => {
   const organizations = useOrganizationStore(state => state.organizations);
@@ -33,7 +26,7 @@ export const ExportButton = () => {
       Object.keys(data[0]).join(","),
       ...data.map(row =>
         Object.values(row)
-          .map(value => escapeCsvValue(String(value)))
+          .map(value => sanitizeCsvField(String(value)))
           .join(","),
       ),
     ].join("\n");

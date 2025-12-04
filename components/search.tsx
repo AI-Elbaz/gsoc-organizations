@@ -1,17 +1,15 @@
 import {Input} from "@/components/ui/input";
+import {useFilters} from "@/hooks/use-filters";
 
-interface SearchProps {
-  value: string | null;
-  onChange: (value: string) => void;
-}
+export const Search = () => {
+  const {filters, setFilters} = useFilters();
 
-export const Search = ({value, onChange}: SearchProps) => {
   return (
     <Input
       type="text"
       placeholder="Search..."
-      value={value || ""}
-      onChange={e => onChange(e.target.value)}
+      value={filters.query || ""}
+      onChange={e => setFilters({query: e.target.value})}
       className="max-w-md"
     />
   );
