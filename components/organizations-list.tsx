@@ -134,6 +134,7 @@ export const OrganizationsList = ({
                 ref={rowVirtualizer.measureElement}>
                 <OrganizationCard
                   org={item.data}
+                  displayIndex={item.data.displayIndex}
                   chartData={item.data.chartData}
                 />
               </div>
