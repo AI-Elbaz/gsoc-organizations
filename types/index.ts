@@ -55,7 +55,8 @@ export type SectionHeader = {
 
 export type OrganizationItem = {
   type: "organization";
-  data: Organization & {chartData: ChartData[]; displayIndex: number};
+  data: Organization & {chartData: ChartData[]};
+  displayIndex: number;
 };
 
 export type VirtualListItem = SectionHeader | OrganizationItem;

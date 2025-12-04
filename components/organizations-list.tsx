@@ -9,12 +9,7 @@ import {OrganizationCard} from "./organization-card";
 
 import type {VirtualItem} from "@tanstack/react-virtual";
 
-import type {
-  ChartData,
-  Organization,
-  OrganizationItem,
-  VirtualListItem,
-} from "@/types";
+import type {ChartData, Organization, VirtualListItem} from "@/types";
 
 export const OrganizationsList = ({
   filteredOrgsWithChartData,
@@ -32,39 +27,49 @@ export const OrganizationsList = ({
   const listParentRef = useRef<HTMLDivElement>(null);
 
   const virtualListItems = useMemo((): VirtualListItem[] => {
-    if (filters.sections <= 1 || filteredOrgsWithChartData.length === 0) {
+    // Early return for single section case
+    if (filters.sections <= 1) {
       return filteredOrgsWithChartData.map((org, index) => ({
         type: "organization",
-        data: {...org, displayIndex: index + 1},
+        data: org,
+        displayIndex: index + 1,
       }));
     }
-    const sections: Array<(typeof filteredOrgsWithChartData)[0][]> = Array.from(
-      {length: filters.sections},
-      () => [],
-    );
 
-    filteredOrgsWithChartData.forEach((org, index) => {
-      sections[index % filters.sections].push(org);
-    });
+    if (filteredOrgsWithChartData.length === 0) {
+      return [];
+    }
 
     const flatList: VirtualListItem[] = [];
-    sections.forEach((orgsInSection, sectionIndex) => {
-      if (orgsInSection.length > 0) {
-        const title = `Section ${sectionIndex + 1}`;
+    const sectionsMap = new Map<number, typeof filteredOrgsWithChartData>();
+
+    for (const [index, org] of filteredOrgsWithChartData.entries()) {
+      const sectionIndex = index % filters.sections;
+      const sectionOrgs = sectionsMap.get(sectionIndex) ?? [];
+      sectionOrgs.push(org);
+      sectionsMap.set(sectionIndex, sectionOrgs);
+    }
+
+    // Build flat list from sections
+    for (const [i, orgsInSection] of sectionsMap) {
+      if (orgsInSection && orgsInSection.length > 0) {
+        const title = `Section ${i + 1}`;
         const isCollapsed = collapsedSections.has(title);
+
         flatList.push({type: "header", title, isCollapsed});
 
         if (!isCollapsed) {
-          const organizationItems: OrganizationItem[] = orgsInSection.map(
-            (org, localIndex) => ({
+          orgsInSection.forEach((org, localIndex) => {
+            flatList.push({
               type: "organization",
-              data: {...org, displayIndex: localIndex + 1},
-            }),
-          );
-          flatList.push(...organizationItems);
+              data: org,
+              displayIndex: localIndex + 1,
+            });
+          });
         }
       }
-    });
+    }
+
     return flatList;
   }, [filteredOrgsWithChartData, filters.sections, collapsedSections]);
 
@@ -134,7 +139,7 @@ export const OrganizationsList = ({
                 ref={rowVirtualizer.measureElement}>
                 <OrganizationCard
                   org={item.data}
-                  displayIndex={item.data.displayIndex}
+                  displayIndex={item.displayIndex}
                   chartData={item.data.chartData}
                 />
               </div>
